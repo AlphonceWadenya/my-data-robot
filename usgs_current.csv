@@ -18,6 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-07T19:50:55.480Z,39.4271667,-110.294,-2.03,1.6,ml,6,200,0.02428,0.12,uu,uu60500787,2022-06-07T20:26:32.950Z,"15 km SSE of Sunnyside, Utah",earthquake,1.11,1.31,0.16,3,reviewed,uu,uu
 2022-06-07T19:43:47.360Z,36.7446667,-121.5928333,-0.36,1.22,md,17,101,0.01859,0.12,nc,nc73741196,2022-06-07T21:08:55.811Z,"8km ESE of Prunedale, CA",quarry blast,0.32,31.61,0.215,14,reviewed,nc,nc
 2022-06-07T19:40:19.194Z,65.8756,-150.9882,18.2,0.9,ml,,,,0.51,ak,ak02279mgon3,2022-06-07T19:42:24.799Z,"55 km NW of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-06-07T19:31:02.343Z,51.2346,-177.3274,27.5,1.2,ml,,,,0.33,ak,ak02279melte,2022-06-07T21:41:38.486Z,"85 km SW of Adak, Alaska",earthquake,,9.6,,,reviewed,ak,ak
 2022-06-07T19:24:21.545Z,57.9352,-150.1997,29.63,2.7,ml,,214,1.283,0.65,us,us7000hfnk,2022-06-07T19:46:17.040Z,"129 km ENE of Chiniak, Alaska",earthquake,7,12.3,0.052,48,reviewed,us,us
 2022-06-07T19:16:46.820Z,18.0705,-66.8158333333333,19.42,2.14,md,18,63,,0.2,pr,pr71352798,2022-06-07T19:32:27.500Z,"5 km NE of Yauco, Puerto Rico",earthquake,0.46,0.86,0.184985170648873,11,reviewed,pr,pr
 2022-06-07T19:01:45.640Z,19.1616668701172,-155.372497558594,28.0300006866455,1.81,ml,42,185,,0.119999997,hv,hv73037182,2022-06-07T19:07:16.550Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.53,1.10000002,3.53,6,automatic,hv,hv
