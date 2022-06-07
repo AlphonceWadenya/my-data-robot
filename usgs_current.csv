@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-07T05:41:48.040Z,33.2421684,-116.2296677,7.02,1.48,ml,64,34,0.05339,0.21,ci,ci40035327,2022-06-07T05:44:09.925Z,"14km E of Borrego Springs, CA",earthquake,0.25,0.75,0.161,8,automatic,ci,ci
 2022-06-07T05:39:01.198Z,58.1026,-153.3187,20.7,2,ml,,,,0.47,ak,ak02279e4d2f,2022-06-07T05:41:35.549Z,"Kodiak Island region, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-07T05:13:26.888Z,59.5586,-153.2094,101.9,1.1,ml,,,,0.21,ak,ak02279dyufk,2022-06-07T05:15:05.477Z,"56 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-07T05:00:43.750Z,33.0513333,-116.3635,10.2,0.36,ml,16,69,0.1089,0.22,ci,ci40035295,2022-06-07T05:04:17.645Z,"22km E of Julian, CA",earthquake,0.42,1.13,0.102,3,automatic,ci,ci
@@ -188,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-06T05:50:57.134Z,36.8148,-115.975,7.1,-0.1,ml,7,185.42,0.087,0.1318,nn,nn00840417,2022-06-07T02:37:53.169Z,"38 km NW of Indian Springs, Nevada",earthquake,,3.3,0.39,2,reviewed,nn,nn
 2022-06-06T05:48:55.960Z,36.0958333,-117.8458333,1.89,0.54,ml,8,190,0.09504,0.09,ci,ci40034639,2022-06-06T17:16:03.188Z,"11km ENE of Coso Junction, CA",earthquake,0.25,0.33,0.096,4,reviewed,ci,ci
 2022-06-06T05:47:19.370Z,19.2433338165283,-155.392837524414,29.8899993896484,1.72000003,md,26,137,,0.159999996,hv,hv73035427,2022-06-06T05:50:24.520Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.79,0.930000007,1.74000001,4,automatic,hv,hv
-2022-06-06T05:44:14.390Z,32.9241667,-116.2765,10.95,0.85,ml,32,50,0.03784,0.18,ci,ci40034631,2022-06-06T21:37:22.706Z,"26km ENE of Pine Valley, CA",earthquake,0.2,0.34,0.116,11,reviewed,ci,ci
