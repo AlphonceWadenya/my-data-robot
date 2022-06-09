@@ -79,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-09T03:18:25.160Z,38.8363342,-122.7993317,2.15,0.85,md,8,102,0.007319,0,nc,nc73743146,2022-06-09T03:45:15.732Z,"7km WNW of Cobb, CA",earthquake,0.54,1.18,,1,automatic,nc,nc
 2022-06-09T03:10:28.630Z,17.9126666666667,-66.8548333333333,15.59,2.3,md,21,194,,0.2,pr,pr71353103,2022-06-09T03:25:51.510Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.5,0.42,0.0433130755960964,9,reviewed,pr,pr
 2022-06-09T02:53:27.920Z,33.239,-116.6361667,11.67,0.57,ml,24,88,0.04082,0.19,ci,ci40036839,2022-06-09T02:57:09.534Z,"5km S of Warner Springs, CA",earthquake,0.37,0.72,0.078,11,automatic,ci,ci
-2022-06-09T02:47:33.310Z,36.217,-91.2206667,9.62,1.82,md,6,152,0.1563,0.14,nm,nm60152543,2022-06-09T12:19:03.520Z,"Missouri-Arkansas border region",earthquake,0.82,1.9,0.116,6,reviewed,nm,nm
+2022-06-09T02:47:33.310Z,36.217,-91.2206667,9.62,1.82,md,6,152,0.1563,0.14,nm,nm60152543,2022-06-09T12:19:03.520Z,"3 km ESE of Ravenden, Arkansas",earthquake,0.82,1.9,0.116,6,reviewed,nm,nm
 2022-06-09T02:40:10.160Z,35.5131667,-118.3875,4.52,2.27,ml,42,28,0.1651,0.16,ci,ci40036831,2022-06-09T02:50:44.590Z,"13km SE of Bodfish, CA",earthquake,0.19,1.06,0.178,25,automatic,ci,ci
 2022-06-09T02:35:29.570Z,38.7975006,-122.7513351,1.42,1.87,md,30,53,0.007251,0.03,nc,nc73743131,2022-06-09T05:45:15.428Z,"2km N of The Geysers, CA",earthquake,0.2,0.33,0.04,9,automatic,nc,nc
 2022-06-09T02:21:39.740Z,36.1018333,-117.8451667,1.98,1.61,ml,18,72,0.01757,0.14,ci,ci40036815,2022-06-09T02:25:11.950Z,"11km NE of Coso Junction, CA",earthquake,0.21,0.22,0.163,23,automatic,ci,ci
