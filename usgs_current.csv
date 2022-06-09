@@ -4,7 +4,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-09T18:07:53.500Z,38.8161659,-122.819664,2.49,0.82,md,20,52,0.0104,0.02,nc,nc73743371,2022-06-09T18:35:19.136Z,"7km NW of The Geysers, CA",earthquake,0.23,0.52,0.28,3,automatic,nc,nc
 2022-06-09T17:59:27.050Z,19.3896675109863,-155.464660644531,3,1.73000002,md,33,48,,0.180000007,hv,hv73039302,2022-06-09T18:02:40.440Z,"20 km N of Pāhala, Hawaii",earthquake,0.37,0.779999971,1.11000001,14,automatic,hv,hv
 2022-06-09T17:49:37.661Z,62.6331,-151.8408,0,1.3,ml,,,,1.09,ak,ak0227cwehae,2022-06-09T17:51:47.379Z,"57 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-06-09T17:42:34.485Z,35.8938,-114.876,16,1.7,ml,8,288.66,0.967,0.3119,nn,nn00840654,2022-06-09T17:47:39.181Z,"10 km SSW of Boulder City, Nevada",earthquake,,1.4,0.13,6,automatic,nn,nn
 2022-06-09T17:38:44.520Z,35.977,-117.8886667,3.3,1.09,ml,14,70,0.03071,0.12,ci,ci40037231,2022-06-09T18:16:38.843Z,"5km NNE of Little Lake, CA",earthquake,0.23,0.48,0.064,6,reviewed,ci,ci
 2022-06-09T17:28:37.481Z,32.4126,101.8379,14.05,5.9,mww,,20,11.196,0.57,us,us7000hg9p,2022-06-09T18:23:57.405Z,"254 km NW of Tianpeng, China",earthquake,7.6,4.2,0.055,32,reviewed,us,us
 2022-06-09T17:24:40.900Z,19.2238330841064,-155.380493164062,34.0299987792969,2.01999998,md,40,154,,0.140000001,hv,hv73039282,2022-06-09T17:27:52.960Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.67,0.769999981,0.100000001,17,automatic,hv,hv
@@ -18,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-09T16:36:38.650Z,33.2423333,-116.1043333,5.36,1.18,ml,41,61,0.1015,0.25,ci,ci40037159,2022-06-09T16:47:06.190Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.38,1.15,0.134,26,automatic,ci,ci
 2022-06-09T16:32:30.320Z,36.1025,-117.8481667,1.25,1.24,ml,17,86,0.1006,0.15,ci,ci40037151,2022-06-09T17:54:04.180Z,"11km NE of Coso Junction, CA",earthquake,0.22,0.29,0.091,9,reviewed,ci,ci
 2022-06-09T16:27:11.797Z,64.7392,-149.2654,19.8,0.8,ml,,,,0.87,ak,ak0227cvo9xn,2022-06-09T16:28:44.969Z,"16 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-09T16:24:06.300Z,33.2915,-116.2391667,8.29,0.97,ml,41,75,0.09205,0.2,ci,ci40037143,2022-06-09T16:27:45.497Z,"13km ENE of Borrego Springs, CA",earthquake,0.3,0.9,0.168,23,automatic,ci,ci
+2022-06-09T16:24:06.250Z,33.2883333,-116.2413333,9.2,1,ml,49,42,0.09338,0.18,ci,ci40037143,2022-06-09T18:47:14.603Z,"13km ENE of Borrego Springs, CA",earthquake,0.2,0.48,0.132,18,reviewed,ci,ci
 2022-06-09T16:18:51.290Z,35.5076667,-118.3948333,5.09,1.82,ml,41,35,0.1677,0.13,ci,ci40037135,2022-06-09T18:29:19.790Z,"12km SE of Bodfish, CA",earthquake,0.12,0.74,0.183,19,reviewed,ci,ci
 2022-06-09T16:09:28.300Z,44.68,-111.8838333,10.76,0.99,md,16,119,0.163,0.18,mb,mb80548329,2022-06-09T17:52:52.110Z,"42 km NE of Spencer, Idaho",earthquake,0.56,0.85,0.129,6,reviewed,mb,mb
 2022-06-09T16:03:28.083Z,32.3117,101.8328,19.91,5.6,mww,,21,11.098,0.62,us,us7000hg8b,2022-06-09T18:14:15.776Z,"248 km NW of Tianpeng, China",earthquake,8.6,4.1,0.098,10,reviewed,us,us
