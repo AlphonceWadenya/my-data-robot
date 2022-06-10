@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-10T22:44:51.792Z,59.3452,-152.4865,75.1,1.3,ml,,,,0.29,ak,ak0227emvybf,2022-06-10T22:47:14.213Z,"32 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-06-10T22:44:51.792Z,59.3452,-152.4865,75.1,1.3,ml,,,,0.29,ak,ak0227emvybf,2022-06-10T22:55:41.706Z,"32 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-10T22:30:28.020Z,32.901,-116.9541667,3.06,1.38,ml,31,127,0.09185,0.27,ci,ci40038167,2022-06-10T22:34:15.487Z,"6km NNW of Lakeside, CA",earthquake,0.53,0.72,0.211,17,automatic,ci,ci
 2022-06-10T22:27:08.200Z,38.838665,-122.824501,1.77,0.37,md,8,93,0.00858,0.01,nc,nc73743756,2022-06-10T22:36:10.103Z,"9km WNW of Cobb, CA",earthquake,0.45,0.97,,1,automatic,nc,nc
 2022-06-10T22:15:46.560Z,38.833168,-122.7513351,1.27,0.67,md,6,172,0.01476,0.02,nc,nc73743751,2022-06-10T22:24:11.173Z,"3km WNW of Cobb, CA",earthquake,0.46,1.66,0.15,2,automatic,nc,nc
