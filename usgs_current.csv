@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T21:17:10.550Z,49.324,-120.4535,-0.49,1.85,ml,9,208,0.5418,0.45,uw,uw61841537,2022-06-11T00:00:46.940Z,"15 km SSE of Princeton, Canada",explosion,2.22,31.61,0.11967269231186539,5,reviewed,uw,uw
 2022-06-10T21:15:07.460Z,33.717,-116.75,17.02,0.66,ml,13,187,0.03189,0.09,ci,ci40038135,2022-06-10T21:41:03.179Z,"4km SW of Idyllwild, CA",earthquake,0.3,0.33,0.192,9,reviewed,ci,ci
 2022-06-10T20:53:25.970Z,53.8475,-166.6402,8.5,-0.1,ml,,,,0.06,ak,ak0227elqyk5,2022-06-11T10:47:56.099Z,"7 km WSW of Unalaska, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2022-06-10T20:51:21.283Z,27.6539,85.3923,13.94,3.6,mb,,155,0.176,0.68,us,us7000hgnj,2022-06-11T15:43:42.566Z,"2 km S of Madhyapur Thimi, Nepal",earthquake,7.3,5.9,0.151,11,reviewed,us,us
