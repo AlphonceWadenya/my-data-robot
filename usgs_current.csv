@@ -246,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-15T08:16:28.660Z,54.1415,-165.972333333333,2.65,-0.68,ml,11,54,,0.27,av,av91063088,2022-06-16T00:36:00.240Z,"12 km W of Akutan, Alaska",earthquake,0.28,0.5,0.230367823948224,10,reviewed,av,av
 2022-06-15T08:15:49.030Z,37.645,-122.4855,7.39,0.62,md,7,191,0.01151,0.06,nc,nc73745571,2022-06-15T17:18:11.161Z,"4km N of Pacifica, CA",earthquake,0.76,0.71,0.325,5,reviewed,nc,nc
 2022-06-15T08:04:35.930Z,47.4811667,-115.7891667,0.02,1.92,ml,16,94,0.52,0.16,mb,mb80548774,2022-06-15T13:57:46.500Z,"1 km NE of Mullan, Idaho",earthquake,0.49,31.61,0.147,8,reviewed,mb,mb
-2022-06-15T07:57:27.214Z,56.9206,-154.7498,0,1.8,ml,,,,0.74,ak,ak0227mnpx4h,2022-06-15T08:00:14.316Z,"35 km W of Akhiok, Alaska",earthquake,,0.4,,,automatic,ak,ak
