@@ -262,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-19T12:08:33.976Z,62.1834,-148.5987,29.1,1.1,ml,,,,0.33,ak,ak0227tcjzk5,2022-06-19T12:10:29.239Z,"43 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-19T11:55:53.070Z,19.1833324432373,-155.483673095703,33.8899993896484,1.86000001,md,35,75,,0.109999999,hv,hv73048702,2022-06-19T11:59:14.100Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.51,0.790000021,0.379999995,5,automatic,hv,hv
 2022-06-19T11:55:10.940Z,43.9766667,-110.3016667,7.79,1.46,ml,20,162,0.205,0.28,mb,mb80549249,2022-06-19T14:29:43.180Z,"47 km NNE of Kelly, Wyoming",earthquake,0.71,2.06,0.174,9,reviewed,mb,mb
-2022-06-19T11:49:20.228Z,-20.3489,-174.8098,39.12,5.5,mww,,42,6.788,0.52,us,us7000hiiy,2022-06-19T17:36:54.025Z,"75 km SW of Pangai, Tonga",earthquake,9.2,1.8,0.089,12,reviewed,us,us
