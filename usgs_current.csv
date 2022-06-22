@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-22T05:40:20.660Z,19.2313327789307,-155.399826049805,30.4599990844727,2.13000011,md,40,141,,0.109999999,hv,hv73051492,2022-06-22T05:43:24.630Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.57,0.629999995,1.86000001,18,automatic,hv,hv
+2022-06-22T05:40:20.660Z,19.2313327789307,-155.399826049805,30.4599990844727,2.16,ml,40,141,,0.109999999,hv,hv73051492,2022-06-22T05:45:50.410Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.57,0.629999995,0.12,3,automatic,hv,hv
 2022-06-22T05:37:23.940Z,19.2438335418701,-155.392669677734,33.8499984741211,1.85000002,md,35,141,,0.129999995,hv,hv73051487,2022-06-22T05:40:44.570Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.69,0.899999976,1.83000004,6,automatic,hv,hv
 2022-06-22T05:12:36.940Z,38.8373337,-122.8146667,1.28,0.36,md,7,108,0.01437,0.01,nc,nc73749391,2022-06-22T05:21:10.410Z,"8km WNW of Cobb, CA",earthquake,0.47,1.61,,1,automatic,nc,nc
 2022-06-22T05:01:18.927Z,-7.3324,120.4418,499.18,5.6,mww,,54,2.2,0.93,us,us7000hj75,2022-06-22T05:22:15.142Z,"141 km N of Ruteng, Indonesia",earthquake,9.7,5.3,0.059,28,reviewed,us,us
@@ -241,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T06:08:27.770Z,33.1463333,-116.4125,11.07,0.94,ml,54,47,0.07215,0.18,ci,ci40288440,2022-06-21T20:19:26.070Z,"13km SSW of Borrego Springs, CA",earthquake,0.15,0.32,0.167,18,reviewed,ci,ci
 2022-06-21T06:05:28.590Z,54.1933333333333,-165.983666666667,7.6,-0.32,ml,6,177,,0.05,av,av91063613,2022-06-22T01:09:29.210Z,"15 km WNW of Akutan, Alaska",earthquake,0.34,0.45,0.380624189651772,5,reviewed,av,av
 2022-06-21T05:54:17.170Z,37.3778333,-121.7568333,0.15,0.99,md,20,59,0.01079,0.11,nc,nc73748826,2022-06-21T17:39:11.559Z,"6km ENE of Alum Rock, CA",earthquake,0.27,0.47,0.23,20,reviewed,nc,nc
-2022-06-21T05:48:30.030Z,35.99,-117.7448333,5.73,1.22,ml,27,68,0.05246,0.14,ci,ci40288432,2022-06-21T19:33:09.570Z,"16km ENE of Little Lake, CA",earthquake,0.19,0.37,0.203,8,reviewed,ci,ci
-2022-06-21T05:46:09.950Z,38.8250008,-122.8024979,2.57,0.88,md,21,35,0.006131,0.02,nc,nc73748821,2022-06-21T06:11:19.920Z,"7km NW of The Geysers, CA",earthquake,0.23,0.42,0.02,5,automatic,nc,nc
