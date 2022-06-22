@@ -222,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T20:06:14.650Z,38.8146667,-122.7733333,1.66,0.5,md,16,67,0.005913,0.03,nc,nc73749166,2022-06-22T18:26:11.097Z,"4km NNW of The Geysers, CA",earthquake,0.39,0.3,0.514,3,reviewed,nc,nc
 2022-06-21T19:56:12.360Z,36.0753333,-117.8788333,2.84,0.99,ml,16,66,0.04642,0.1,ci,ci40288720,2022-06-21T21:21:51.026Z,"7km ENE of Coso Junction, CA",earthquake,0.18,0.39,0.338,4,reviewed,ci,ci
 2022-06-21T19:51:18.289Z,63.0906,-144.2991,4.5,1.1,ml,,,,0.18,ak,ak0227ws1wd0,2022-06-21T19:53:18.045Z,"32 km NW of Mentasta Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-06-21T19:40:18.330Z,38.8146667,-122.7754974,1.14,1.22,md,22,75,0.00429,0.04,nc,nc73749156,2022-06-21T23:38:17.260Z,"4km NNW of The Geysers, CA",earthquake,0.19,0.32,0.05,5,automatic,nc,nc
