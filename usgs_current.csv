@@ -245,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-24T17:59:06.370Z,38.8198318,-122.7791672,0.68,1.18,md,14,60,0.006669,0.04,nc,nc73750506,2022-06-24T19:06:15.812Z,"5km W of Cobb, CA",earthquake,0.24,0.44,0.38,3,automatic,nc,nc
 2022-06-24T17:45:52.537Z,-47.5192,-12.8464,10,5,mb,,86,24.68,0.7,us,us7000hk5p,2022-06-25T12:53:12.040Z,"southern Mid-Atlantic Ridge",earthquake,13.7,1.9,0.096,35,reviewed,us,us
 2022-06-24T17:44:40.857Z,24.229,122.8947,53.43,4.2,mb,,189,0.259,1.15,us,us7000hk04,2022-06-24T18:11:06.040Z,"28 km SSW of Yonakuni, Japan",earthquake,7.3,6.3,0.11,23,reviewed,us,us
-2022-06-24T17:35:26.130Z,33.8326667,-118.2613333,9.22,1.73,ml,34,68,0.03475,0.24,ci,ci40290680,2022-06-24T18:10:21.419Z,"2km E of Carson, CA",earthquake,0.32,0.54,0.277,19,reviewed,ci,ci
