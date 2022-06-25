@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-25T10:56:00.138Z,61.2197,-147.6076,11.9,1.6,ml,,,,0.3,ak,ak022838vf2l,2022-06-25T10:57:48.688Z,"63 km NW of Tatitlek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-25T10:42:53.226Z,31.6764,-104.5651,4.54,2.8,ml,,71,0.055,0.37,us,us7000hk5n,2022-06-25T10:49:29.040Z,"58 km SSW of Whites City, New Mexico",earthquake,1.5,2.6,0.044,67,reviewed,us,us
 2022-06-25T10:42:40.630Z,38.8318329,-122.8054962,2.16,0.51,md,17,45,0.009153,0.02,nc,nc73750806,2022-06-25T10:51:11.545Z,"7km W of Cobb, CA",earthquake,0.25,0.74,0.35,2,automatic,nc,nc
 2022-06-25T10:27:41.730Z,37.6409988,-118.9020004,4.94,0.95,md,16,70,0.00532,0.03,nc,nc73750801,2022-06-25T10:50:12.416Z,"7km E of Mammoth Lakes, CA",earthquake,0.53,0.71,0.22,17,automatic,nc,nc
