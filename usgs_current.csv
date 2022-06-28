@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-28T14:28:40.814Z,63.2581,-151.1036,0,1.4,ml,,,,0.37,ak,ak022889pa29,2022-06-28T14:30:32.804Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-06-28T14:26:02.096Z,38.1774,-117.897,2.1,1.1,ml,9,171.32,0.169,0.0764,nn,nn00841872,2022-06-28T14:29:40.411Z,"30 km SE of Mina, Nevada",earthquake,,1.5,0.09,7,automatic,nn,nn
+2022-06-28T14:25:46.350Z,19.7641658782959,-155.550003051758,16.2900009155273,2.47000003,md,26,85,,0.189999998,hv,hv73059062,2022-06-28T14:30:53.760Z,"31 km SSE of Waimea, Hawaii",earthquake,0.59,0.959999979,0.0900000036,5,automatic,hv,hv
 2022-06-28T14:13:47.166Z,38.1906,-117.8045,0.1,1.5,ml,12,155.38,0.132,0.1883,nn,nn00841871,2022-06-28T14:17:33.341Z,"34 km SE of Mina, Nevada",earthquake,,3.9,0.28,9,automatic,nn,nn
 2022-06-28T13:59:55.420Z,19.1363334655762,-155.377838134766,30.9899997711182,1.99000001,md,48,184,,0.119999997,hv,hv73059047,2022-06-28T14:03:15.810Z,"12 km SE of Pāhala, Hawaii",earthquake,0.54,0.970000029,1.13999999,28,automatic,hv,hv
 2022-06-28T13:49:03.060Z,38.8230019,-122.7563324,0.34,0.86,md,10,136,0.01297,0.03,nc,nc73752211,2022-06-28T14:22:13.510Z,"3km W of Cobb, CA",earthquake,0.32,0.7,0.01,2,automatic,nc,nc
-2022-06-28T13:43:29.514Z,21.9963,120.3094,10,5.4,mww,,51,1.084,0.55,us,us7000hkud,2022-06-28T14:22:34.982Z,"44 km W of Hengchun, Taiwan",earthquake,7.7,1.8,0.063,24,reviewed,us,us
+2022-06-28T13:43:29.514Z,21.9963,120.3094,10,5.4,mww,,51,1.084,0.55,us,us7000hkud,2022-06-28T14:29:35.704Z,"44 km W of Hengchun, Taiwan",earthquake,7.7,1.8,0.063,24,reviewed,us,us
 2022-06-28T13:39:33.300Z,33.673,-116.7813333,19.45,0.9,ml,13,96,0.06771,0.23,ci,ci40292920,2022-06-28T13:43:15.078Z,"9km SW of Idyllwild, CA",earthquake,0.85,1.1,0.355,10,automatic,ci,ci
 2022-06-28T13:34:59.021Z,22.0499,120.2464,10,5,mww,,74,1.085,0.37,us,us7000hkub,2022-06-28T14:16:32.040Z,"50 km SSW of Donggang, Taiwan",earthquake,7.1,1.8,0.073,18,reviewed,us,us
 2022-06-28T13:33:14.030Z,61.8322,-148.9623,42.4,0.9,ml,,,,0.48,ak,ak0228894uyz,2022-06-28T13:36:00.659Z,"12 km WNW of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
