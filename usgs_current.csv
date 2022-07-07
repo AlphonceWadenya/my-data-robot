@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-07T09:43:31.603Z,60.9918,-147.3658,20.4,1.7,ml,,,,0.41,ak,ak0228n2nfig,2022-07-07T09:45:25.726Z,"39 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-07T09:23:46.080Z,38.8328323,-122.8106689,1.79,0.85,md,14,49,0.009435,0.01,nc,nc73755791,2022-07-07T09:33:10.496Z,"8km W of Cobb, CA",earthquake,0.26,0.81,,1,automatic,nc,nc
 2022-07-07T09:22:18.730Z,37.5680008,-118.9260025,9.29,1.38,md,17,154,0.06082,0.02,nc,nc73755786,2022-07-07T09:29:10.478Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.4,1.16,0.1,16,automatic,nc,nc
 2022-07-07T09:19:06.280Z,37.5496674,-118.9276657,9.36,2.78,md,20,146,0.07878,0.06,nc,nc73755781,2022-07-07T09:26:11.460Z,"11km SSE of Mammoth Lakes, CA",earthquake,0.61,0.97,0.13,30,automatic,nc,nc
+2022-07-07T09:06:26.120Z,37.566,-118.9273333,8.63,0.33,md,16,155,0.06304,0.03,nc,nc73755771,2022-07-07T09:41:58.035Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.32,0.85,0.232,15,reviewed,nc,nc
 2022-07-07T09:05:39.311Z,61.2517,-149.2586,28.7,1,ml,,,,0.57,ak,ak0228n2fawb,2022-07-07T09:07:38.130Z,"18 km ESE of Eagle River, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-07T09:04:40.770Z,37.6808319,-118.9493332,3.45,0.92,md,10,206,0.05531,0.34,nc,nc73755766,2022-07-07T09:12:10.381Z,"6km NNE of Mammoth Lakes, CA",earthquake,3.84,4.38,0.28,9,automatic,nc,nc
 2022-07-07T09:02:25.558Z,60.0779,-152.5107,85.1,1.2,ml,,,,0.31,ak,ak0228n2emor,2022-07-07T09:04:42.549Z,"45 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -10,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T08:51:39.320Z,38.6381683,-122.7276688,5.06,1.61,md,20,107,0.07608,0.07,nc,nc73755751,2022-07-07T09:31:12.487Z,"13km ENE of Healdsburg, CA",earthquake,0.46,1.05,0.09,8,automatic,nc,nc
 2022-07-07T08:47:10.930Z,17.8615,-66.8761666666667,7.65,2.46,md,24,244,,0.2,pr,pr71357938,2022-07-07T09:07:21.500Z,"12 km SSE of Guánica, Puerto Rico",earthquake,0.53,0.39,0.139365928737398,16,reviewed,pr,pr
 2022-07-07T08:40:49.200Z,38.833168,-122.7968369,-0.01,1.06,md,21,44,0.007287,0.04,nc,nc73755741,2022-07-07T08:48:11.241Z,"6km W of Cobb, CA",earthquake,0.16,0.4,0.16,4,automatic,nc,nc
-2022-07-07T08:40:21.090Z,37.5656667,-118.9291667,7.89,0.24,md,15,155,0.06382,0.03,nc,nc73755746,2022-07-07T09:35:57.188Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.44,0.76,0.092,12,reviewed,nc,nc
+2022-07-07T08:40:21.090Z,37.5656667,-118.9291667,7.89,0.24,md,15,155,0.06382,0.03,nc,nc73755746,2022-07-07T09:41:10.538Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.44,0.76,0.092,12,reviewed,nc,nc
 2022-07-07T08:36:57.110Z,36.0285,-117.7733333,1.43,1.26,ml,15,115,0.0542,0.21,ci,ci40298848,2022-07-07T08:40:28.852Z,"16km NE of Little Lake, CA",earthquake,0.5,0.59,0.195,15,automatic,ci,ci
 2022-07-07T08:25:48.410Z,38.8318329,-122.8003311,1.54,0.68,md,16,52,0.0102,0.03,nc,nc73755736,2022-07-07T08:58:12.297Z,"7km W of Cobb, CA",earthquake,0.26,0.49,0.13,2,automatic,nc,nc
 2022-07-07T08:23:31.770Z,34.085,-117.487,3.35,0.92,ml,30,60,0.03112,0.21,ci,ci40298840,2022-07-07T08:27:06.789Z,"3km WSW of Fontana, CA",earthquake,0.31,0.41,0.234,26,automatic,ci,ci
@@ -44,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T04:08:33.680Z,19.4848327636719,-155.434829711914,4.55000019073486,2.28,ml,38,51,,0.200000003,hv,hv73067487,2022-07-07T04:14:04.770Z,"21 km WNW of Volcano, Hawaii",earthquake,0.42,1.28999996,4.07,9,automatic,hv,hv
 2022-07-07T03:56:43.339Z,63.2999,-151.0919,0,1.5,ml,,,,0.81,ak,ak0228mz5n3h,2022-07-07T03:58:47.283Z,"41 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-07T03:48:42.770Z,19.1860008239746,-155.490005493164,33.5900001525879,2.22,ml,42,72,,0.109999999,hv,hv73067472,2022-07-07T03:54:13.570Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.51,0.74000001,3.94,13,automatic,hv,hv
-2022-07-07T03:45:19.880Z,38.7941667,-122.7551667,2.29,0.16,md,17,87,0.007362,0.02,nc,nc73755641,2022-07-07T09:38:57.571Z,"2km N of The Geysers, CA",earthquake,0.19,0.51,0.333,3,reviewed,nc,nc
+2022-07-07T03:45:19.880Z,38.7941667,-122.7551667,2.29,0.16,md,17,87,0.007362,0.02,nc,nc73755641,2022-07-07T09:44:10.549Z,"2km N of The Geysers, CA",earthquake,0.19,0.51,0.333,3,reviewed,nc,nc
 2022-07-07T03:44:32.880Z,33.9721667,-117.6926667,3.54,1.11,ml,19,107,0.06162,0.29,ci,ci40298800,2022-07-07T03:48:15.693Z,"4km S of Chino, CA",earthquake,0.58,1.71,0.413,26,automatic,ci,ci
 2022-07-07T03:42:26.450Z,38.8253326,-122.8031693,2.79,0.35,md,11,81,0.00573,0.01,nc,nc73755636,2022-07-07T05:01:13.800Z,"7km NW of The Geysers, CA",earthquake,0.34,1.05,,1,automatic,nc,nc
 2022-07-07T03:25:03.310Z,33.2406667,-116.6705,9.09,1.19,ml,32,57,0.04576,0.18,ci,ci40298784,2022-07-07T03:28:40.627Z,"6km SW of Warner Springs, CA",earthquake,0.23,0.59,0.207,26,automatic,ci,ci
