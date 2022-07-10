@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-10T18:37:52.530Z,33.2743333,-116.1363333,5.56,1.12,ml,39,48,0.1212,0.26,ci,ci40301392,2022-07-10T18:41:29.189Z,"15km N of Ocotillo Wells, CA",earthquake,0.31,1.01,0.099,26,automatic,ci,ci
-2022-07-10T18:35:48.220Z,33.271,-116.1328333,8.2,1.44,ml,51,46,0.1187,0.25,ci,ci40301384,2022-07-10T18:46:14.230Z,"14km N of Ocotillo Wells, CA",earthquake,0.28,1.53,0.164,25,automatic,ci,ci
+2022-07-10T18:35:48.220Z,33.271,-116.1328333,8.2,1.44,ml,51,46,0.1187,0.25,ci,ci40301384,2022-07-10T18:46:58.340Z,"14km N of Ocotillo Wells, CA",earthquake,0.28,1.53,0.164,25,automatic,ci,ci
 2022-07-10T18:32:33.450Z,33.539,-116.5685,14.71,0.25,ml,14,133,0.03635,0.18,ci,ci40301368,2022-07-10T18:36:11.589Z,"10km E of Anza, CA",earthquake,0.53,0.59,0.206,7,automatic,ci,ci
 2022-07-10T18:31:11.288Z,61.9492,-149.5586,53.6,1,ml,,,,0.33,ak,ak0228s6jra0,2022-07-10T18:33:01.038Z,"28 km SSE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-07-10T18:31:02.390Z,33.2953333,-116.1995,5.12,0.72,ml,7,128,0.1121,0.08,ci,ci40301360,2022-07-10T18:34:35.533Z,"17km ENE of Borrego Springs, CA",earthquake,0.31,0.68,0.118,8,automatic,ci,ci
@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-09T19:01:51.680Z,35.9936667,-117.6896667,1.99,1.08,ml,15,124,0.09186,0.12,ci,ci40300800,2022-07-09T19:05:28.691Z,"20km ENE of Little Lake, CA",earthquake,0.29,0.25,0.195,12,automatic,ci,ci
 2022-07-09T18:58:37.170Z,37.4141667,-118.6045,8.79,2.72,md,28,115,0.06919,0.06,nc,nc73756806,2022-07-10T00:31:11.673Z,"1km W of Round Valley, CA",earthquake,0.33,1.11,0.186,42,reviewed,nc,nc
 2022-07-09T18:53:54.230Z,19.4725,-155.653833333333,4.64,0.84,md,13,135,,0.09,hv,hv73070772,2022-07-09T19:33:24.400Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.45,0.89,0.0154752898314114,4,reviewed,hv,hv
-2022-07-09T18:46:37.920Z,59.2989,-153.3899,80,1.7,ml,,,,0.35,ak,ak0228qj3okw,2022-07-09T18:48:29.566Z,"67 km SE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
