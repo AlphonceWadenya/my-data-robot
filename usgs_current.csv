@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T18:48:04.670Z,33.281,-115.9896667,1.04,0.86,ml,17,87,0.1077,0.34,ci,ci40065423,2022-07-17T18:51:40.451Z,"4km WSW of Salton City, CA",earthquake,0.89,31.61,0.188,12,automatic,ci,ci
 2022-07-17T18:47:03.740Z,38.8173332,-122.8239975,2.39,0.9,md,22,51,0.009372,0.02,nc,nc73759911,2022-07-17T19:25:12.594Z,"7km NW of The Geysers, CA",earthquake,0.22,0.45,0.2,4,automatic,nc,nc
 2022-07-17T18:46:47.950Z,38.8173332,-122.8246689,2.29,0.8,md,19,51,0.009158,0.03,nc,nc73759906,2022-07-17T19:13:12.505Z,"7km NW of The Geysers, CA",earthquake,0.27,0.44,0.31,4,automatic,nc,nc
-2022-07-17T18:40:53.810Z,32.9176667,-116.2421667,6.8,0.95,ml,22,79,0.0633,0.21,ci,ci40065407,2022-07-17T18:44:36.781Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.44,0.79,0.147,10,automatic,ci,ci
+2022-07-17T18:40:53.810Z,32.9176667,-116.2421667,6.8,0.95,ml,22,79,0.0633,0.21,ci,ci40065407,2022-07-17T19:51:27.141Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.44,0.79,0.147,10,reviewed,ci,ci
 2022-07-17T18:18:39.240Z,33.2726669,-115.9781647,6.18,3.38,ml,111,21,0.09891,0.23,ci,ci40065399,2022-07-17T19:08:19.292Z,"4km SW of Salton City, CA",earthquake,0.2,1.14,0.303,19,automatic,ci,ci
 2022-07-17T18:17:24.488Z,59.8282,-153.386,135.4,1.8,ml,,,,0.46,ak,ak02293r87qd,2022-07-17T18:20:51.213Z,"40 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-17T18:03:21.000Z,33.9281667,-116.7528333,16.6,0.57,ml,20,100,0.1014,0.21,ci,ci40065391,2022-07-17T18:06:54.749Z,"3km ENE of Cabazon, CA",earthquake,0.58,1.38,0.113,14,automatic,ci,ci
