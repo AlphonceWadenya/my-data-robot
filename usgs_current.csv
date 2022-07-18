@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-18T06:48:44.670Z,38.8395004,-122.8786697,2.11,0.62,md,9,98,0.003947,0.04,nc,nc73760116,2022-07-18T06:50:22.438Z,"13km ENE of Cloverdale, CA",earthquake,0.51,0.61,0.27,2,automatic,nc,nc
+2022-07-18T06:55:38.690Z,38.8178329,-122.822998,2.86,0.77,md,19,51,0.01017,0.02,nc,nc73760121,2022-07-18T06:57:12.472Z,"7km NW of The Geysers, CA",earthquake,0.24,0.6,0.1,2,automatic,nc,nc
+2022-07-18T06:48:44.670Z,38.8395004,-122.8786697,2.11,0.62,md,9,98,0.003947,0.04,nc,nc73760116,2022-07-18T06:58:10.864Z,"13km ENE of Cloverdale, CA",earthquake,0.51,0.61,0.27,2,automatic,nc,nc
 2022-07-18T06:30:38.971Z,38.1876,-117.7569,9.3,0.8,ml,9,195.01,0.117,0.0664,nn,nn00843144,2022-07-18T06:35:08.333Z,"38 km SE of Mina, Nevada",earthquake,,1.1,0.05,5,automatic,nn,nn
 2022-07-18T06:30:23.420Z,38.8224983,-122.8228302,0.83,2.14,md,38,45,0.00955,0.05,nc,nc73760111,2022-07-18T06:41:10.773Z,"8km NW of The Geysers, CA",earthquake,0.15,0.23,0.09,14,automatic,nc,nc
 2022-07-18T06:27:14.130Z,38.8180008,-122.824501,2.7,0.76,md,18,55,0.009682,0.02,nc,nc73760106,2022-07-18T06:41:10.891Z,"7km NW of The Geysers, CA",earthquake,0.28,0.63,0.49,2,automatic,nc,nc
