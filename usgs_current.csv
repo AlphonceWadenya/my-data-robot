@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-23T23:35:42.010Z,38.8406677,-122.8383331,1.76,0.86,md,18,98,0.003041,0.02,nc,nc73762126,2022-07-23T23:37:18.536Z,"10km NW of The Geysers, CA",earthquake,0.28,0.43,,2,automatic,nc,nc
+2022-07-23T23:35:42.010Z,38.8406677,-122.8383331,1.76,0.86,md,18,98,0.003041,0.02,nc,nc73762126,2022-07-23T23:45:10.768Z,"10km NW of The Geysers, CA",earthquake,0.28,0.43,,2,automatic,nc,nc
 2022-07-23T23:25:38.050Z,38.8351669,-122.7983322,2.21,2.13,md,35,41,0.007029,0.04,nc,nc73762121,2022-07-23T23:35:23.696Z,"7km WNW of Cobb, CA",earthquake,0.18,0.3,0.1,11,automatic,nc,nc
 2022-07-23T22:57:59.750Z,19.1679992675781,-155.469833374023,29.7099990844727,1.97000003,md,28,85,,0.140000001,hv,hv73085702,2022-07-23T23:01:06.150Z,"Island of Hawaii, Hawaii",earthquake,0.67,0.910000026,1.78999996,6,automatic,hv,hv
 2022-07-23T22:05:47.690Z,19.2035007476807,-155.459167480469,35.060001373291,2.13000011,md,44,109,,0.109999999,hv,hv73085662,2022-07-23T22:08:54.360Z,"2 km E of Pāhala, Hawaii",earthquake,0.59,0.839999974,0.159999996,19,automatic,hv,hv
