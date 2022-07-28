@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-28T09:39:01.020Z,34.0981667,-116.3991667,6.66,0.85,ml,22,87,0.02979,0.17,ci,ci40070999,2022-07-28T09:42:38.485Z,"4km ESE of Yucca Valley, CA",earthquake,0.35,0.52,0.15,20,automatic,ci,ci
 2022-07-28T09:25:04.550Z,33.6856667,-116.7651667,13.17,0.17,ml,10,140,0.04954,0.14,ci,ci40070991,2022-07-28T09:28:31.969Z,"7km SW of Idyllwild, CA",earthquake,0.6,0.96,0.092,6,automatic,ci,ci
-2022-07-28T09:23:16.405Z,12.4114,-87.6919,57.99,5.2,mww,115,117,0.713,1.07,us,us6000i64e,2022-07-28T09:39:10.040Z,"45 km SW of Jiquilillo, Nicaragua",earthquake,5.7,5.1,0.048,41,reviewed,us,us
+2022-07-28T09:23:16.405Z,12.4114,-87.6919,57.99,5.2,mww,115,117,0.713,1.07,us,us6000i64e,2022-07-28T09:45:01.784Z,"45 km SW of Jiquilillo, Nicaragua",earthquake,5.7,5.1,0.048,41,reviewed,us,us
 2022-07-28T09:12:48.680Z,33.673,-116.7708333,11.03,0.68,ml,24,72,0.06067,0.14,ci,ci40070983,2022-07-28T09:16:21.131Z,"9km SSW of Idyllwild, CA",earthquake,0.29,0.47,0.144,19,automatic,ci,ci
 2022-07-28T09:12:16.185Z,14.8178,57.9268,10,4.5,mb,29,183,10.204,0.42,us,us6000i64d,2022-07-28T09:28:16.040Z,"Owen Fracture Zone region",earthquake,9.9,1.9,0.116,22,reviewed,us,us
 2022-07-28T08:55:36.821Z,31.6679,-104.3784,5,2.7,ml,26,117,0.104,0.25,us,us6000i649,2022-07-28T09:29:08.040Z,"56 km S of Whites City, New Mexico",earthquake,1.1,1.9,0.052,76,reviewed,us,us
