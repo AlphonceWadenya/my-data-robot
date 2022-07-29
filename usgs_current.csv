@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-28T20:11:14.929Z,34.504,-96.8615,0,1.29,ml,54,90,0.2339540902,0.51,ok,ok2022orop,2022-07-29T12:59:16.096Z,"5 km S of Hickory, Oklahoma",quarry blast,,0.6,0.2,18,reviewed,ok,ok
 2022-07-28T20:11:01.730Z,39.4185,-110.2881667,-2.66,1.59,md,7,203,0.02915,0.22,uu,uu60507387,2022-07-28T20:43:04.760Z,"17 km SSE of Sunnyside, Utah",earthquake,0.79,1.78,0.237,5,reviewed,uu,uu
 2022-07-28T20:05:20.890Z,38.8048333,-122.8438333,1.64,-0.19,md,11,81,0.003117,0.08,nc,nc71128599,2022-07-28T23:01:50.615Z,"8km WNW of The Geysers, CA",earthquake,0.36,0.64,0.14,2,reviewed,nc,nc
-2022-07-28T19:52:27.716Z,32.4895,142.4251,10,5.4,mww,120,63,2.286,0.58,us,us6000i69v,2022-07-29T17:18:51.614Z,"Izu Islands, Japan region",earthquake,8.6,1.8,0.042,54,reviewed,us,us
