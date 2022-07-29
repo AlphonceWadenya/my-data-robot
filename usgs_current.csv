@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-29T22:37:26.620Z,34.8075,-119.0946667,17.31,1.18,ml,5,213,0.04197,0.22,ci,ci40072031,2022-07-29T22:40:58.557Z,"7km SE of Pine Mountain Club, CA",earthquake,5.57,0.97,0.221,9,automatic,ci,ci
 2022-07-29T22:06:10.370Z,32.7651667,-115.4326667,10.82,1.71,ml,18,146,0.04177,0.21,ci,ci40072023,2022-07-29T22:36:46.405Z,"7km SW of Holtville, CA",earthquake,0.53,0.36,0.22,9,reviewed,ci,ci
 2022-07-29T22:02:37.750Z,33.5125,-116.5008333,13.02,0.62,ml,22,53,0.0637,0.15,ci,ci40072015,2022-07-29T22:34:23.643Z,"17km ESE of Anza, CA",earthquake,0.23,0.54,0.217,12,reviewed,ci,ci
 2022-07-29T22:02:37.740Z,33.5101667,-116.5005,13.25,0.74,ml,24,58,0.06387,0.16,ci,ci40072007,2022-07-29T22:29:04.436Z,"17km ESE of Anza, CA",earthquake,0.25,0.48,0.232,10,reviewed,ci,ci
