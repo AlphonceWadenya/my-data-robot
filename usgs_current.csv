@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-30T19:01:30.870Z,38.8216667,-122.7876663,0.98,1.03,md,26,38,0.01001,0.03,nc,nc73764451,2022-07-30T19:03:05.084Z,"6km W of Cobb, CA",earthquake,0.18,0.34,0.13,5,automatic,nc,nc
+2022-07-30T19:14:05.600Z,34.0046667,-116.7128333,11.95,0.8,ml,24,76,0.0636,0.26,ci,ci40072471,2022-07-30T19:17:37.903Z,"12km NE of Cabazon, CA",earthquake,0.5,1.37,0.166,22,automatic,ci,ci
+2022-07-30T19:10:28.210Z,19.1773338317871,-155.494827270508,34.1699981689453,2.11999989,md,37,235,,0.129999995,hv,hv73092687,2022-07-30T19:13:48.950Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.86,1.16999996,0.170000002,13,automatic,hv,hv
+2022-07-30T19:05:59.991Z,60.0528,-152.6389,86.8,2.3,ml,,,,0.45,ak,ak0229p9qr03,2022-07-30T19:07:35.981Z,"51 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-07-30T19:01:30.870Z,38.8216667,-122.7876663,0.98,1.03,md,26,38,0.01001,0.03,nc,nc73764451,2022-07-30T19:18:17.519Z,"6km W of Cobb, CA",earthquake,0.18,0.34,0.13,5,automatic,nc,nc
 2022-07-30T18:58:22.790Z,33.1563333,-115.6316667,2.05,2.3,ml,40,41,0.025,0.25,ci,ci40072463,2022-07-30T19:01:59.232Z,"12km WNW of Calipatria, CA",earthquake,0.29,0.48,0.196,26,automatic,ci,ci
 2022-07-30T18:56:15.212Z,61.1879,-149.212,31.2,1.3,ml,,,,0.37,ak,ak0229p9g2cx,2022-07-30T18:58:14.747Z,"23 km ESE of Elmendorf Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-30T18:48:25.868Z,64.9248,-148.6091,10.7,1,ml,,,,0.1,ak,ak0229p9edga,2022-07-30T18:50:37.706Z,"29 km WNW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
