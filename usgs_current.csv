@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-30T06:43:14.871Z,62.2172,-149.9906,24.2,1.2,ml,,,,0.34,ak,ak0229p282rj,2022-07-30T06:45:20.672Z,"9 km NW of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-07-30T06:35:40.760Z,39.0223351,-123.071167,1.97,2.92,md,42,49,0.125,0.1,nc,nc73764286,2022-07-30T06:51:08.442Z,"14km W of Lakeport, CA",earthquake,0.22,0.99,0.12,34,automatic,nc,nc
+2022-07-30T06:35:40.760Z,39.0223351,-123.071167,1.97,2.92,md,42,49,0.125,0.1,nc,nc73764286,2022-07-30T06:56:20.147Z,"14km W of Lakeport, CA",earthquake,0.22,0.99,0.12,34,automatic,nc,nc
 2022-07-30T06:34:19.720Z,33.7953333,-116.119,0.33,0.67,ml,15,93,0.08539,0.28,ci,ci40072231,2022-07-30T06:37:51.843Z,"12km NE of Indio, CA",earthquake,0.59,31.61,0.065,6,automatic,ci,ci
 2022-07-30T06:29:10.040Z,38.8043327,-122.7808304,0.91,0.45,md,12,86,0.008914,0.02,nc,nc73764281,2022-07-30T06:45:15.561Z,"4km NW of The Geysers, CA",earthquake,0.31,0.61,0.39,2,automatic,nc,nc
 2022-07-30T06:22:45.800Z,17.9508333333333,-66.844,16.32,2.55,md,13,196,,0.12,pr,pr71361578,2022-07-30T06:41:58.890Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.42,0.46,0.0242326364578855,5,reviewed,pr,pr
@@ -224,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-29T07:16:24.560Z,60.705,-150.7127,50.6,1.4,ml,,,,0.81,ak,ak0229nf4eag,2022-07-29T07:18:52.507Z,"18 km N of Sterling, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2022-07-29T07:10:58.560Z,40.692,-122.2223333,16.91,1.54,md,22,44,0.05684,0.13,nc,nc73763976,2022-07-29T20:57:11.094Z,"6km N of Bella Vista, CA",earthquake,0.29,0.6,0.078,20,reviewed,nc,nc
 2022-07-29T07:08:19.740Z,39.4283333,-110.3031667,-1.69,1.22,ml,9,197,0.01751,0.13,uu,uu60507502,2022-07-29T16:10:09.610Z,"15 km SSE of Sunnyside, Utah",earthquake,1.02,0.69,0.088,5,reviewed,uu,uu
-2022-07-29T06:56:24.700Z,39.4286667,-110.3036667,-1.38,1.4,md,5,197,0.01722,0.06,uu,uu60507497,2022-07-29T16:07:32.750Z,"15 km SSE of Sunnyside, Utah",earthquake,1.9,1.07,0.183,4,reviewed,uu,uu
