@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-30T07:20:00.670Z,37.470665,-118.5053329,22.48,2.47,md,26,197,0.2027,0.12,nc,nc73764306,2022-07-30T07:35:43.063Z,"10km NE of Round Valley, CA",earthquake,1.06,2.14,0.16,22,automatic,nc,nc
 2022-07-30T07:15:50.980Z,38.8253326,-122.8141632,0.97,0.85,md,9,77,0.003734,0.02,nc,nc73764301,2022-07-30T07:33:15.868Z,"7km NW of The Geysers, CA",earthquake,0.31,0.8,,1,automatic,nc,nc
 2022-07-30T07:01:26.151Z,-0.1513,124.2411,65.61,4.6,mb,53,42,1.715,0.58,us,us6000i6qx,2022-07-30T07:20:30.040Z,"151 km ESE of Gorontalo, Indonesia",earthquake,5.3,8.1,0.087,39,reviewed,us,us
-2022-07-30T06:47:35.390Z,37.5848333,-122.449,7.66,0.87,md,15,86,0.02314,0.05,nc,nc73764291,2022-07-30T08:23:11.190Z,"5km SE of Pacifica, CA",earthquake,0.25,0.44,0.324,10,reviewed,nc,nc
+2022-07-30T06:47:35.390Z,37.5848333,-122.449,7.66,0.87,md,15,86,0.02314,0.05,nc,nc73764291,2022-07-30T08:39:16.301Z,"5km SE of Pacifica, CA",earthquake,0.25,0.44,0.324,10,reviewed,nc,nc
 2022-07-30T06:43:14.871Z,62.2172,-149.9906,24.2,1.2,ml,,,,0.34,ak,ak0229p282rj,2022-07-30T06:45:20.672Z,"9 km NW of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-30T06:35:40.760Z,39.0223351,-123.071167,1.97,2.92,md,42,49,0.125,0.1,nc,nc73764286,2022-07-30T07:37:49.132Z,"14km W of Lakeport, CA",earthquake,0.22,0.99,0.12,34,automatic,nc,nc
 2022-07-30T06:34:19.720Z,33.7953333,-116.119,0.33,0.67,ml,15,93,0.08539,0.28,ci,ci40072231,2022-07-30T06:37:51.843Z,"12km NE of Indio, CA",earthquake,0.59,31.61,0.065,6,automatic,ci,ci
@@ -218,5 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-29T09:18:59.192Z,51.5707,-178.5576,13.3,2.1,ml,,,,1.13,ak,ak0229ngbr4w,2022-07-29T16:52:51.257Z,"137 km WSW of Adak, Alaska",earthquake,,1.3,,,reviewed,ak,ak
 2022-07-29T09:17:45.180Z,35.5056667,-118.3968333,7.2,0.96,ml,21,66,0.1689,0.13,ci,ci40071623,2022-07-29T19:01:13.744Z,"13km SE of Bodfish, CA",earthquake,0.18,1.89,0.141,6,reviewed,ci,ci
 2022-07-29T08:49:48.467Z,64.6796,-146.889,6.5,0.9,ml,,,,0.63,ak,ak0229nfwyda,2022-07-29T08:52:34.325Z,"8 km ENE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-07-29T08:43:00.000Z,36.8561667,-121.3048333,5.05,1.13,md,24,67,0.04639,0.05,nc,nc73763991,2022-07-29T21:55:11.313Z,"7km NE of Ridgemark, CA",earthquake,0.26,0.55,0.275,23,reviewed,nc,nc
-2022-07-29T08:38:05.902Z,64.8297,-152.2435,13.5,1.3,ml,,,,0.64,ak,ak0229nfui7i,2022-07-29T08:39:44.496Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
