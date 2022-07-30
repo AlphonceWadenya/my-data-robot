@@ -196,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-29T19:49:33.930Z,32.55,142.3286,10,5.2,mww,125,94,2.19,0.75,us,us6000i6md,2022-07-29T20:26:35.040Z,"Izu Islands, Japan region",earthquake,9,1.8,0.057,30,reviewed,us,us
 2022-07-29T19:45:20.660Z,19.3851666666667,-155.2465,1.8,2.09,ml,21,69,,0.1,hv,hv73091847,2022-07-29T22:20:57.310Z,"6 km SSW of Volcano, Hawaii",earthquake,0.18,0.15,0.16360820636773,7,reviewed,hv,hv
 2022-07-29T19:39:38.970Z,40.1161667,-123.7943333,21.94,1.62,md,28,86,0.01121,0.15,nc,nc73764136,2022-07-30T00:38:10.443Z,"2km E of Redway, CA",earthquake,0.42,0.38,0.278,20,reviewed,nc,nc
-2022-07-29T19:36:39.620Z,33.6025,-116.8658333,5.57,0.26,ml,12,140,0.03128,0.07,ci,ci40071943,2022-07-29T20:31:38.598Z,"16km S of Valle Vista, CA",earthquake,0.25,0.52,0.073,3,reviewed,ci,ci
