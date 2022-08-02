@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-02T20:41:43.078Z,61.7261,-147.4673,29.2,1.4,ml,,,,0.85,ak,ak0229u95ten,2022-08-02T20:43:39.382Z,"13 km SE of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2022-08-02T20:38:40.140Z,19.2388324737549,-155.399673461914,31.7999992370605,2,md,41,137,,0.119999997,hv,hv73095907,2022-08-02T20:41:44.730Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.54,0.839999974,0.730000019,23,automatic,hv,hv
 2022-08-02T20:33:51.703Z,64.6867,-146.8674,8.4,0.7,ml,,,,0.54,ak,ak0229u944ea,2022-08-02T20:36:19.558Z,"9 km ENE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-08-02T20:25:12.770Z,33.6813333,-116.7246667,14.94,0.75,ml,19,99,0.03102,0.12,ci,ci40073943,2022-08-02T20:28:52.349Z,"6km S of Idyllwild, CA",earthquake,0.29,0.4,0.156,14,automatic,ci,ci
+2022-08-02T20:25:12.770Z,33.6813333,-116.7246667,14.94,0.75,ml,19,99,0.03102,0.12,ci,ci40073943,2022-08-02T20:48:03.195Z,"6km S of Idyllwild, CA",earthquake,0.29,0.4,0.156,14,reviewed,ci,ci
 2022-08-02T20:12:04.840Z,38.8376656,-122.8108368,1.93,1.35,md,28,57,0.01426,0.02,nc,nc73763250,2022-08-02T20:20:10.401Z,"8km WNW of Cobb, CA",earthquake,0.18,0.32,0.09,8,automatic,nc,nc
-2022-08-02T19:56:13.920Z,38.7900009,-122.7606659,1.47,0.45,md,12,93,0.01063,0.03,nc,nc73763245,2022-08-02T20:09:11.340Z,"2km NNW of The Geysers, CA",earthquake,0.28,0.67,0.4,2,automatic,nc,nc
+2022-08-02T19:56:13.920Z,38.7900009,-122.7606659,1.47,0.45,md,12,93,0.01063,0.03,nc,nc73763245,2022-08-02T20:44:15.551Z,"2km NNW of The Geysers, CA",earthquake,0.28,0.67,0.4,2,automatic,nc,nc
 2022-08-02T19:55:50.080Z,46.31366666666667,-122.39233333333334,2.79,1.25,ml,10,296,0.03583,0.15,uw,uw61859557,2022-08-02T20:33:42.380Z,"25 km SSE of Mossyrock, Washington",earthquake,1.17,2.03,0.22503816871743676,8,reviewed,uw,uw
 2022-08-02T19:54:00.735Z,38.1529,-117.801,7.3,1.2,ml,8,186.02,0.105,0.2117,nn,nn00844017,2022-08-02T19:57:35.120Z,"37 km SE of Mina, Nevada",earthquake,,0.6,0.17,6,automatic,nn,nn
 2022-08-02T19:53:45.010Z,37.9510002,-122.1080017,10.86,1.92,md,30,66,0.04742,0.16,nc,nc73763240,2022-08-02T20:33:16.480Z,"4km W of Pleasant Hill, CA",earthquake,0.35,0.57,0.18,22,automatic,nc,nc
@@ -46,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-02T16:44:36.060Z,46.38316666666667,-122.30066666666667,-1.03,0.89,ml,12,278,0.06641,0.31,uw,uw61859532,2022-08-02T18:17:31.570Z,"19 km S of Morton, Washington",explosion,1.19,31.61,0.21339164254868637,8,reviewed,uw,uw
 2022-08-02T16:11:13.560Z,37.9956667,-122.7681667,5.73,0.63,md,12,155,0.05193,0.07,nc,nc73763130,2022-08-02T18:25:10.734Z,"7km WSW of Lagunitas-Forest Knolls, CA",earthquake,0.38,0.58,0.218,9,reviewed,nc,nc
 2022-08-02T16:08:40.470Z,33.8911667,-116.2353333,7.51,1.3,ml,46,50,0.06183,0.2,ci,ci40073831,2022-08-02T16:19:07.330Z,"16km ENE of Thousand Palms, CA",earthquake,0.27,0.8,0.203,27,automatic,ci,ci
-2022-08-02T15:51:29.716Z,38.1286,-117.9058,9.2,0.5,ml,9,117.8,0.043,0.3125,nn,nn00844008,2022-08-02T15:55:23.325Z,"34 km SSE of Mina, Nevada",earthquake,,0.9,0.62,3,automatic,nn,nn
+2022-08-02T15:51:29.820Z,38.1641,-117.8785,7.6,0.9,ml,12,134.18,0.069,0.1386,nn,nn00844008,2022-08-02T20:47:12.234Z,"32 km SE of Mina, Nevada",earthquake,,1.9,0.67,3,reviewed,nn,nn
 2022-08-02T15:49:05.550Z,34.4748333,-117.9561667,8.5,1.54,ml,33,61,0.02584,0.18,ci,ci40073823,2022-08-02T15:52:42.080Z,"6km SW of Pearblossom, CA",earthquake,0.23,0.5,0.176,29,automatic,ci,ci
 2022-08-02T15:46:19.569Z,16.1099,-87.6284,10,4.2,mb,53,106,2.07,0.52,us,us6000i7hw,2022-08-02T17:17:50.153Z,"34 km NE of Baja Mar, Honduras",earthquake,3.43,1.954,0.074,53,reviewed,us,us
 2022-08-02T15:44:40.420Z,38.8268318,-122.8031693,1.76,0.71,md,15,67,0.006393,0.01,nc,nc73763120,2022-08-02T16:19:17.934Z,"7km NW of The Geysers, CA",earthquake,0.27,0.54,0.14,2,automatic,nc,nc
