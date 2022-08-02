@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-02T11:33:58.960Z,38.8400002,-122.8375015,1.5,0.86,md,8,114,0.002112,0.02,nc,nc73763030,2022-08-02T11:43:10.269Z,"10km NW of The Geysers, CA",earthquake,0.35,0.61,,1,automatic,nc,nc
+2022-08-02T11:33:58.960Z,38.8400002,-122.8375015,1.5,0.86,md,8,114,0.002112,0.02,nc,nc73763030,2022-08-02T11:50:16.307Z,"10km NW of The Geysers, CA",earthquake,0.35,0.61,,1,automatic,nc,nc
 2022-08-02T11:32:43.461Z,64.692,-149.6432,17.1,0.8,ml,,,,0.24,ak,ak0229u3qzlm,2022-08-02T11:34:56.352Z,"26 km WNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-02T11:25:12.950Z,19.1941661834717,-155.494338989258,34.3800010681152,2.02999997,md,33,66,,0.150000006,hv,hv73095447,2022-08-02T11:28:31.700Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.66,0.889999986,0.379999995,5,automatic,hv,hv
 2022-08-02T11:23:58.306Z,35.00762558,-97.80189514,3.259014606,1.78,ml,11,111.5302477,0.07760453969,0.7654707672,ok,ok2022paas,2022-08-02T11:26:37.861Z,"10 km NNW of Alex, Oklahoma",earthquake,4.591264691,3.434985644,,8,automatic,ok,ok
