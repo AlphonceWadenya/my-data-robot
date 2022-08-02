@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-02T10:39:19.150Z,19.1753330230713,-155.478500366211,33.1699981689453,2.6500001,md,46,76,,0.140000001,hv,hv73095397,2022-08-02T10:44:49.580Z,"3 km S of Pāhala, Hawaii",earthquake,0.52,0.74000001,2.01999998,26,automatic,hv,hv
 2022-08-02T10:34:43.830Z,60.4455,-152.5317,102.4,1.1,ml,,,,0.23,ak,ak0229u35zgf,2022-08-02T10:37:33.376Z,"65 km NW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-08-02T10:31:01.724Z,61.4895,-146.6352,30.1,1.5,ml,,,,0.66,ak,ak0229u35924,2022-08-02T10:32:39.324Z,"42 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-08-02T10:19:30.400Z,1.7076,99.5372,180.12,4.5,mb,75,105,1.155,0.66,us,us6000i7ev,2022-08-02T10:50:19.040Z,"44 km SSW of Bandar, Indonesia",earthquake,6.2,6.4,0.068,64,reviewed,us,us
 2022-08-02T10:18:28.220Z,33.2475,-116.1093333,3.63,0.58,ml,15,139,0.1327,0.19,ci,ci40073743,2022-08-02T10:22:01.637Z,"12km N of Ocotillo Wells, CA",earthquake,0.47,1.3,0.1,5,automatic,ci,ci
 2022-08-02T10:07:09.160Z,36.3098333,-117.6353333,0.72,1.89,ml,15,193,0.1201,0.32,ci,ci40073735,2022-08-02T10:18:25.610Z,"33km E of Olancha, CA",earthquake,1.69,2.17,0.14,22,automatic,ci,ci
 2022-08-02T09:52:58.200Z,33.388,-116.4226667,11.93,0.72,ml,25,58,0.098,0.22,ci,ci40073727,2022-08-02T09:56:34.857Z,"15km NNW of Borrego Springs, CA",earthquake,0.39,0.87,0.142,18,automatic,ci,ci
