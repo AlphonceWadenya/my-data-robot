@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-04T10:41:31.720Z,38.8214989,-122.7583313,0.74,0.45,md,7,129,0.01273,0.01,nc,nc73763980,2022-08-04T10:43:10.594Z,"3km W of Cobb, CA",earthquake,0.29,0.74,0.4,2,automatic,nc,nc
+2022-08-04T10:49:41.960Z,37.8651657,-122.2458344,9.69,1.28,md,15,58,0.03701,0.03,nc,nc73763985,2022-08-04T10:51:20.342Z,"3km ESE of Berkeley, CA",earthquake,0.26,0.61,0.22,6,automatic,nc,nc
+2022-08-04T10:41:31.720Z,38.8214989,-122.7583313,0.74,0.45,md,7,129,0.01273,0.01,nc,nc73763980,2022-08-04T10:50:10.364Z,"3km W of Cobb, CA",earthquake,0.29,0.74,0.4,2,automatic,nc,nc
 2022-08-04T10:39:42.400Z,35.5195,-118.3511667,0.04,1.09,ml,18,90,0.1728,0.18,ci,ci40074871,2022-08-04T10:43:17.454Z,"15km ESE of Bodfish, CA",earthquake,0.28,31.61,0.19,14,automatic,ci,ci
 2022-08-04T10:35:11.152Z,57.6739,-155.8521,8.4,1.5,ml,,,,0.19,ak,ak0229xe8tmz,2022-08-04T10:36:36.346Z,"84 km W of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-08-04T10:31:49.592Z,38.1167,-118.0595,10.4,1,ml,11,149.16,0.177,0.0963,nn,nn00844159,2022-08-04T10:36:03.608Z,"30 km S of Mina, Nevada",earthquake,,1.1,0.35,7,automatic,nn,nn
-2022-08-04T10:29:25.620Z,38.8301659,-122.8010025,1.78,0.88,md,18,43,0.009794,0.02,nc,nc73763970,2022-08-04T10:38:11.290Z,"7km W of Cobb, CA",earthquake,0.22,0.42,0.3,4,automatic,nc,nc
+2022-08-04T10:29:25.620Z,38.8301659,-122.8010025,1.78,0.88,md,18,43,0.009794,0.02,nc,nc73763970,2022-08-04T10:46:16.339Z,"7km W of Cobb, CA",earthquake,0.22,0.42,0.3,4,automatic,nc,nc
 2022-08-04T09:52:27.790Z,19.1793327331543,-155.505340576172,33.7400016784668,1.80999994,md,32,85,,0.189999998,hv,hv73098452,2022-08-04T09:55:30.940Z,"3 km SW of Pāhala, Hawaii",earthquake,0.58,1.11000001,0.899999976,3,automatic,hv,hv
 2022-08-04T09:46:22.287Z,61.601,-148.7162,25.6,0.4,ml,,,,0.32,ak,ak0229xdprro,2022-08-04T09:48:13.533Z,"12 km ESE of Lazy Mountain, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-04T09:20:01.340Z,38.8183327,-122.7663345,1.53,1.22,md,25,106,0.0123,0.03,nc,nc73763965,2022-08-04T09:43:14.984Z,"4km W of Cobb, CA",earthquake,0.23,0.37,0.05,5,automatic,nc,nc
@@ -274,4 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-03T10:59:27.894Z,61.2436,-148.4322,28.1,1.7,ml,,,,1.1,ak,ak0229vqunmd,2022-08-03T11:01:48.679Z,"35 km SE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-03T10:58:32.234Z,61.1021,-150.891,34.6,2,ml,,,,0.83,ak,ak0229vqug8n,2022-08-03T11:01:10.273Z,"11 km ESE of Beluga, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2022-08-03T10:56:11.259Z,38.3848,-119.3572,8,1.3,ml,18,77.55,0.074,0.157,nn,nn00844073,2022-08-04T02:39:40.212Z,"17 km SE of Walker, California",earthquake,,1.8,0.27,8,reviewed,nn,nn
-2022-08-03T10:52:58.750Z,38.3821667,-119.3758333,5.83,1.77,md,21,113,0.06028,0.11,nc,nc73763505,2022-08-04T02:39:38.074Z,"17km SSE of Walker, CA",earthquake,0.27,0.41,0.161,27,reviewed,nc,nc
