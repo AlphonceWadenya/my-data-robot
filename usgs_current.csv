@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-05T20:47:15.162Z,61.8548,-146.1241,26.7,1.4,ml,,,,0.68,ak,ak0229z7t330,2022-08-05T20:49:46.990Z,"25 km S of Tolsona, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-05T20:20:40.230Z,33.8473333,-117.4936667,2.22,1.62,ml,35,51,0.0503,0.24,ci,ci40076047,2022-08-05T20:24:18.937Z,"4km SE of Home Gardens, CA",quarry blast,0.29,0.49,0.1,32,automatic,ci,ci
 2022-08-05T20:05:10.380Z,36.8916664,-121.6173325,0.67,2.05,md,8,86,0.02157,0.06,nc,nc73764660,2022-08-05T20:19:19.155Z,"2km E of Aromas, CA",earthquake,0.29,0.78,0.41,7,automatic,nc,nc
 2022-08-05T20:03:24.870Z,33.5639992,-117.4988327,-0.47,1.06,ml,21,129,0.04956,0.21,ci,ci40076039,2022-08-05T20:06:55.734Z,"9km ESE of Coto De Caza, CA",earthquake,0.67,1.58,0.163,3,automatic,ci,ci
@@ -255,5 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-04T21:06:08.280Z,46.201166666666666,-122.1845,2.71,0.19,ml,10,137,0.001191,0.11,uw,uw61860092,2022-08-05T04:29:44.390Z,"38 km NNE of Amboy, Washington",earthquake,0.37,0.66,0.30047583536281397,4,reviewed,uw,uw
 2022-08-04T20:58:21.630Z,39.4268333,-110.2976667,-1.76,1.61,ml,11,199,0.02142,0.14,uu,uu60508467,2022-08-04T21:47:25.210Z,"15 km SSE of Sunnyside, Utah",earthquake,0.95,0.76,0.085,5,reviewed,uu,uu
 2022-08-04T20:57:23.278Z,57.5503,-146.1651,11.899,2.8,ml,44,192,1.887,0.82,us,us6000i860,2022-08-05T17:15:20.040Z,"299 km SSE of Chenega, Alaska",earthquake,4.85,7.682,0.038,90,reviewed,us,us
-2022-08-04T20:54:01.775Z,37.3812,-117.1343,7.6,1,ml,7,135.04,0.129,0.1985,nn,nn00844192,2022-08-04T22:35:55.021Z,"37 km SSE of Goldfield, Nevada",earthquake,,5,0.78,5,reviewed,nn,nn
-2022-08-04T20:51:16.180Z,19.4516666666667,-155.599833333333,-1.01,1.48,md,11,81,,0.1,hv,hv73098877,2022-08-04T21:58:31.640Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.29,0.33,0.120202562286759,6,reviewed,hv,hv
