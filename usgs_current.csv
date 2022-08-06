@@ -120,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-05T19:05:51.550Z,33.7126667,-116.7571667,16.17,1.1,ml,35,64,0.03587,0.18,ci,ci40075991,2022-08-05T19:09:25.533Z,"5km SW of Idyllwild, CA",earthquake,0.32,0.45,0.18,28,automatic,ci,ci
 2022-08-05T19:04:41.300Z,33.8785,-117.0348333,-0.89,1.12,ml,30,119,0.06218,0.21,ci,ci40075983,2022-08-05T22:32:36.059Z,"8km SW of Beaumont, CA",quarry blast,0.42,31.61,0.103,20,reviewed,ci,ci
 2022-08-05T19:04:00.020Z,36.5506668,-89.6559982,9.8,1.33,md,10,82,0.103,0.13,nm,nm60403372,2022-08-05T19:13:48.940Z,"5 km NW of Marston, Missouri",earthquake,0.75,1.19,0.23,3,reviewed,nm,nm
-2022-08-05T19:00:22.370Z,36.692,-121.3558333,1.46,1.28,md,14,106,0.01715,0.07,nc,nc73764640,2022-08-06T09:13:15.377Z,"11km SSW of Tres Pinos, CA",earthquake,0.55,0.56,0.185,9,reviewed,nc,nc
+2022-08-05T19:00:22.370Z,36.692,-121.3558333,1.46,1.28,md,14,106,0.01715,0.07,nc,nc73764640,2022-08-06T09:37:10.523Z,"11km SSW of Tres Pinos, CA",earthquake,0.55,0.56,0.185,9,reviewed,nc,nc
 2022-08-05T18:55:56.050Z,34.9933333,-118.1886667,-0.8,1.32,ml,27,47,0.1189,0.22,ci,ci40075975,2022-08-05T20:48:59.926Z,"7km SSW of Mojave, CA",quarry blast,0.37,31.61,0.099,25,reviewed,ci,ci
 2022-08-05T18:51:03.330Z,39.4316667,-110.3261667,-0.88,1.4,ml,5,156,0.007602,0.04,uu,uu60508617,2022-08-05T20:20:07.430Z,"14 km SSE of Sunnyside, Utah",earthquake,0.93,0.23,0.044,2,reviewed,uu,uu
 2022-08-05T18:49:20.280Z,36.2511667,-120.3151667,5.41,1.47,md,17,182,0.09344,0.06,nc,nc73764635,2022-08-06T07:47:11.782Z,"13km NNE of Coalinga, CA",earthquake,0.9,1.39,0.328,7,reviewed,nc,nc
@@ -236,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-05T10:08:23.250Z,19.1818332672119,-155.481338500977,38.0499992370605,2.05999994,md,40,148,,0.119999997,hv,hv73099612,2022-08-05T10:11:48.170Z,"2 km S of Pāhala, Hawaii",earthquake,0.5,0.879999995,1.01999998,3,automatic,hv,hv
 2022-08-05T10:01:45.048Z,63.3073,-151.0561,0,1.2,ml,,,,1.03,ak,ak0229z1kyeg,2022-08-05T10:04:11.473Z,"42 km SE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-08-05T09:58:59.880Z,19.5381666666667,-155.649833333333,4.13,1.5,md,19,76,,0.12,hv,hv73099602,2022-08-06T01:01:23.420Z,"24 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.42,0.58,0.156722394859321,7,reviewed,hv,hv
-2022-08-05T09:43:35.378Z,57.3667,-146.0757,10,3.5,ml,23,171,2.074,0.24,us,us6000i8bm,2022-08-05T16:26:56.102Z,"Gulf of Alaska",earthquake,2.74,2.005,0.04,84,reviewed,us,us
