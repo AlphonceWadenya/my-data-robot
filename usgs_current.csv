@@ -224,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-05T14:59:44.061Z,28.40789795,-98.31445312,11.81164551,1.9,ml,16,75,0.1010412659,0.2,tx,tx2022pfui,2022-08-05T21:36:47.717Z,"14 km WSW of Three Rivers, Texas",earthquake,1.705258621,1.414020764,0.2,7,reviewed,tx,tx
 2022-08-05T14:59:09.830Z,33.9923333,-117.2158333,9.64,0.84,ml,25,102,0.09451,0.21,ci,ci40075727,2022-08-05T22:25:15.291Z,"7km N of Moreno Valley, CA",earthquake,0.33,0.93,0.19,14,reviewed,ci,ci
 2022-08-05T14:57:10.380Z,34.2641667,-116.1508333,6.49,1.02,ml,21,56,0.09866,0.14,ci,ci40075719,2022-08-05T21:38:47.155Z,"16km NNW of Twentynine Palms, CA",earthquake,0.21,0.58,0.139,15,reviewed,ci,ci
-2022-08-05T14:50:40.941Z,61.6482,-150.0613,28.8,1,ml,,,,0.61,ak,ak0229z494yg,2022-08-05T16:33:56.622Z,"11 km S of Willow, Alaska",earthquake,,1.5,,,reviewed,ak,ak
