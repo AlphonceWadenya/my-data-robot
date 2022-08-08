@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-08T19:56:06.960Z,33.8418333,-116.1876667,7.34,0.82,ml,13,77,0.08424,0.21,ci,ci40077647,2022-08-08T19:59:30.681Z,"14km N of Indio, CA",earthquake,0.41,1.39,0.131,20,automatic,ci,ci
+2022-08-08T19:46:53.620Z,17.9758333333333,-66.979,6.56,2.23,md,11,172,,0.07,pr,pr71364118,2022-08-08T19:58:36.050Z,"6 km W of Fuig, Puerto Rico",earthquake,0.33,0.25,0.073710566859603,5,reviewed,pr,pr
 2022-08-08T19:39:34.030Z,38.8255005,-122.8118362,2.3,0.85,md,10,80,0.002513,0.03,nc,nc73765545,2022-08-08T19:48:10.815Z,"7km NW of The Geysers, CA",earthquake,0.38,1.12,,1,automatic,nc,nc
 2022-08-08T19:37:06.832Z,64.4138,-147.1203,0,1.1,ml,,,,0.34,ak,ak022a45rj5n,2022-08-08T19:39:31.009Z,"16 km SW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-08T19:31:06.000Z,17.9618333333333,-66.8688333333333,11.82,2.01,md,4,305,,0.04,pr,pr71364098,2022-08-08T19:42:02.490Z,"2 km SE of Maria Antonia, Puerto Rico",earthquake,1.02,2.02,0.00841324272337318,4,reviewed,pr,pr
