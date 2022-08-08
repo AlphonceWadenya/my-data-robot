@@ -246,6 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-08T00:29:06.590Z,36.6796667,-121.3455,5.47,0.48,md,10,161,0.02775,0.05,nc,nc73765270,2022-08-08T08:25:10.541Z,"12km S of Tres Pinos, CA",earthquake,0.37,0.61,0.262,9,reviewed,nc,nc
 2022-08-08T00:24:05.090Z,35.913,-79.9043333,6.16,1.97,md,11,117,0.5812,0.35,se,se60403647,2022-08-08T21:27:04.105Z,"6 km E of Archdale, North Carolina",earthquake,0.78,4.54,0.132,9,reviewed,se,se
 2022-08-08T00:19:11.330Z,38.7826653,-122.7323303,2.36,0.76,md,8,82,0.02184,0.01,nc,nc73765265,2022-08-08T00:50:14.683Z,"2km ENE of The Geysers, CA",earthquake,0.51,1.61,0.15,2,automatic,nc,nc
-2022-08-07T23:57:08.982Z,59.363,-154.4476,42.8,1.3,ml,,,,0.89,ak,ak022a2kq7ki,2022-08-07T23:58:43.100Z,"20 km ESE of Kokhanok, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2022-08-07T23:56:13.170Z,17.8626666666667,-66.8951666666667,13.31,3.01,md,20,245,,0.14,pr,pr71363688,2022-08-08T00:20:27.110Z,"12 km S of Guánica, Puerto Rico",earthquake,0.54,0.31,0.131464036005982,9,reviewed,pr,pr
-2022-08-07T23:52:21.780Z,19.3619995117188,-155.269165039062,28.9799995422363,2.59,ml,49,70,,0.129999995,hv,hv73102262,2022-08-08T00:03:43.040Z,"9 km SSW of Volcano, Hawaii",earthquake,0.42,0.529999971,3.29,31,automatic,hv,hv
