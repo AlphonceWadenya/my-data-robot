@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-09T14:50:13.750Z,38.8409996,-122.8273315,1.75,0.78,md,15,99,0.006809,0.02,nc,nc73765960,2022-08-09T14:51:48.109Z,"9km WNW of Cobb, CA",earthquake,0.28,0.41,0.4,3,automatic,nc,nc
 2022-08-09T14:48:30.180Z,56.9689,-156.9798,82.6,2.4,ml,,,,0.3,ak,ak022a5qe4ay,2022-08-09T14:50:21.765Z,"65 km SSE of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-08-09T14:40:47.944Z,41.8756,-126.6806,10,3.2,ml,24,241,2.095,0.21,us,us6000i9du,2022-08-09T14:50:24.040Z,"194 km WSW of Pistol River, Oregon",earthquake,4.37,2.02,0.035,106,reviewed,us,us
 2022-08-09T14:38:03.672Z,62.1691,-150.0528,10.1,1.7,ml,,,,0.67,ak,ak022a5qbx3j,2022-08-09T14:40:07.901Z,"10 km W of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
