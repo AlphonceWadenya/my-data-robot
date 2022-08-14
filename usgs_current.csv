@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-14T07:40:06.350Z,61.1193,-147.9293,20.2,1.6,ml,,,,0.88,ak,ak022advv1yz,2022-08-14T07:42:12.351Z,"56 km NE of Whittier, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-08-14T07:21:15.840Z,17.9808333333333,-66.843,16.8,2.49,md,16,154,,0.12,pr,pr71365788,2022-08-14T07:41:58.620Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.32,0.29,0.0870219937710388,10,reviewed,pr,pr
 2022-08-14T07:19:00.418Z,62.9297,-150.6576,83.9,1.6,ml,,,,0.78,ak,ak022advqjh5,2022-08-14T07:21:57.027Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-08-14T07:15:05.214Z,61.968,-150.4783,9.9,1.8,ml,,,,0.74,ak,ak022advpozd,2022-08-14T07:17:37.221Z,"33 km NW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-14T06:55:55.831Z,61.254,-147.7483,29.7,1.7,ml,,,,0.43,ak,ak022advcxxb,2022-08-14T06:57:37.027Z,"61 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -204,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-13T08:03:11.482Z,59.7278,-153.1338,108.8,2.3,ml,,,,0.26,ak,ak022ac8p7yz,2022-08-13T12:14:14.040Z,"55 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-13T07:55:21.639Z,58.4209,-154.4291,0.1,1.5,ml,,,,0.27,ak,ak022ac8eyeb,2022-08-13T07:57:11.379Z,"94 km N of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-08-13T07:54:57.989Z,62.2431,-141.5951,6.5,1.5,ml,,,,0.38,ak,ak022ac8etgr,2022-08-13T07:57:05.024Z,"53 km SSW of Alcan Border, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-08-13T07:43:11.759Z,63.6895,-149.912,134.1,1.4,ml,,,,0.36,ak,ak022ac8cddz,2022-08-13T14:05:50.393Z,"49 km W of Denali Park, Alaska",earthquake,,1,,,reviewed,ak,ak
