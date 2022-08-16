@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-16T13:27:44.490Z,38.8178329,-122.8085022,3.29,0.73,md,14,70,0.005688,0.01,nc,nc73768735,2022-08-16T13:36:11.043Z,"6km NW of The Geysers, CA",earthquake,0.34,1.01,0.13,2,automatic,nc,nc
+2022-08-16T13:27:44.490Z,38.8178329,-122.8085022,3.29,0.73,md,14,70,0.005688,0.01,nc,nc73768735,2022-08-16T13:44:18.096Z,"6km NW of The Geysers, CA",earthquake,0.34,1.01,0.13,2,automatic,nc,nc
 2022-08-16T13:25:39.710Z,19.179666519165,-155.353668212891,29.0100002288818,2.34,ml,51,181,,0.140000001,hv,hv73111152,2022-08-16T13:31:09.910Z,"13 km E of Pāhala, Hawaii",earthquake,0.56,0.699999988,3.86,18,automatic,hv,hv
 2022-08-16T13:08:11.116Z,61.3603,-146.8298,21.8,1.4,ml,,,,0.49,ak,ak022ahabi1j,2022-08-16T13:10:03.781Z,"36 km NW of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-08-16T12:49:16.200Z,19.5106658935547,-155.29866027832,4.96000003814697,1.70000005,md,34,59,,0.219999999,hv,hv73111102,2022-08-16T12:52:24.560Z,"10 km NW of Volcano, Hawaii",earthquake,0.41,1.01999998,1.20000005,10,automatic,hv,hv
