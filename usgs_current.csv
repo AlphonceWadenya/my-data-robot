@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-20T13:55:03.090Z,33.9884987,-116.3516693,2.67,0.98,ml,18,107,0.06728,0.2,ci,ci40328856,2022-08-20T13:57:18.359Z,"14km ENE of Desert Hot Springs, CA",earthquake,0.37,0.55,0.117,2,automatic,ci,ci
+2022-08-20T13:55:03.150Z,33.989,-116.3503333,2.6,0.74,ml,10,97,0.06842,0.23,ci,ci40328856,2022-08-20T13:58:25.565Z,"14km ENE of Desert Hot Springs, CA",earthquake,0.47,0.74,0.13,13,automatic,ci,ci
 2022-08-20T13:49:10.170Z,36.1646667,-118.0266667,2.29,1.49,ml,16,55,0.2534,0.15,ci,ci40328848,2022-08-20T13:52:53.535Z,"13km S of Olancha, CA",earthquake,0.31,1.28,0.23,16,automatic,ci,ci
 2022-08-20T13:32:47.088Z,64.8087,-151.6454,14.5,1.2,ml,,,,0.82,ak,ak022anwm3z8,2022-08-20T13:35:00.208Z,"45 km SSE of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-20T13:20:43.730Z,35.8618333,-117.6916667,6.02,2.37,ml,23,73,0.07978,0.18,ci,ci40328824,2022-08-20T13:24:25.386Z,"21km ESE of Little Lake, CA",earthquake,0.28,0.84,0.133,25,automatic,ci,ci
@@ -201,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-19T14:27:59.500Z,39.0888333,-110.4896667,11.31,0.99,ml,12,101,0.03448,0.18,uu,uu60510507,2022-08-19T16:00:53.740Z,"30 km WNW of Green River, Utah",earthquake,0.64,0.93,0.392,2,reviewed,uu,uu
 2022-08-19T14:22:06.100Z,62.397,-149.2047,14.4,1.4,ml,,,,0.42,ak,ak022am9lyrm,2022-08-19T14:24:00.045Z,"42 km NE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-19T14:14:37.020Z,38.8358345,-122.7990036,2.04,0.89,md,20,65,0.007235,0.02,nc,nc73769690,2022-08-19T14:53:21.706Z,"7km WNW of Cobb, CA",earthquake,0.22,0.45,0.15,4,automatic,nc,nc
-2022-08-19T14:03:51.620Z,39.427,-110.3058333,-1.26,1.35,ml,7,196,0.0152,0.15,uu,uu60510502,2022-08-19T15:56:12.880Z,"15 km SSE of Sunnyside, Utah",earthquake,1.34,0.67,0.117,4,reviewed,uu,uu
