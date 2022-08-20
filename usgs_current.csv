@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-19T08:04:39.020Z,33.3168333,-116.3313333,12.45,0.53,ml,33,131,0.03156,0.2,ci,ci40328272,2022-08-19T17:45:07.189Z,"8km NNE of Borrego Springs, CA",earthquake,0.35,0.5,0.093,16,reviewed,ci,ci
 2022-08-19T08:02:35.670Z,41.9043333,-112.3776667,3.7,0.12,md,6,89,0.04678,0.07,uu,uu60510477,2022-08-19T13:59:33.840Z,"13 km NNE of Howell, Utah",earthquake,0.51,0.99,0.178,4,reviewed,uu,uu
 2022-08-19T07:58:58.220Z,33.3201667,-116.3446667,11.69,1.08,ml,57,34,0.01992,0.18,ci,ci40328264,2022-08-19T17:39:04.810Z,"8km NNE of Borrego Springs, CA",earthquake,0.19,0.38,0.118,29,reviewed,ci,ci
-2022-08-19T07:54:37.773Z,36.6765,-116.1298,4.2,-0.2,ml,9,193.76,0.022,0.0822,nn,nn00845433,2022-08-19T17:47:21.541Z,"42 km WNW of Indian Springs, Nevada",earthquake,,1.2,0.1,4,reviewed,nn,nn
