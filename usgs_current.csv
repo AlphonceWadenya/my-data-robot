@@ -193,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-20T22:24:37.320Z,46.297333333333334,-119.631,0.04,0.27,ml,6,170,0.09326,0.03,uw,uw61864787,2022-08-21T04:37:48.040Z,"11 km WNW of Benton City, Washington",earthquake,0.89,8.52,0.046401703864578814,5,reviewed,uw,uw
 2022-08-20T22:19:18.637Z,60.3012,-141.1415,12.5,1.2,ml,,,,0.34,ak,ak022ao1w5x3,2022-08-20T22:21:16.494Z,"115 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-20T22:17:04.923Z,59.754,-152.5693,77.7,1.7,ml,,,,0.43,ak,ak022ao1vpfg,2022-08-20T22:20:08.918Z,"41 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-08-20T21:56:39.040Z,47.7125,-120.08633333333333,3.49,1.5,ml,16,54,0.06864,0.06,uw,uw61864767,2022-08-21T03:17:34.640Z,"7 km N of Waterville, Washington",earthquake,0.23,0.8,0.19978915915301676,20,reviewed,uw,uw
