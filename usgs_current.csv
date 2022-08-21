@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-21T22:20:55.860Z,38.810833,-122.7925034,3.14,0.73,md,19,60,0.003601,0.02,nc,nc73770510,2022-08-21T22:30:10.487Z,"5km NW of The Geysers, CA",earthquake,0.27,0.56,0.24,3,automatic,nc,nc
+2022-08-21T22:20:55.860Z,38.810833,-122.7925034,3.14,0.73,md,19,60,0.003601,0.02,nc,nc73770510,2022-08-21T22:45:13.452Z,"5km NW of The Geysers, CA",earthquake,0.27,0.56,0.24,3,automatic,nc,nc
 2022-08-21T22:14:26.539Z,38.5971,-119.4491,5.2,1.6,ml,10,59.97,0.056,0.1164,nn,nn00845568,2022-08-21T22:17:36.316Z,"6 km NE of Coleville, California",earthquake,,1.2,0.17,8,automatic,nn,nn
 2022-08-21T22:06:33.347Z,61.8154,-150.1517,7,1.4,ml,,,,0.84,ak,ak022appcr8m,2022-08-21T22:08:35.612Z,"9 km NW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-21T22:03:11.414Z,62.6678,-150.0372,16.2,1.4,ml,,,,0.38,ak,ak022appc2eh,2022-08-21T22:06:11.344Z,"24 km N of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
