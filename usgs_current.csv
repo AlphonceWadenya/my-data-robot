@@ -211,4 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-21T22:06:33.347Z,61.8154,-150.1517,7,1.4,ml,,,,0.84,ak,ak022appcr8m,2022-08-21T22:08:35.612Z,"9 km NW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-21T22:03:11.414Z,62.6678,-150.0372,16.2,1.4,ml,,,,0.38,ak,ak022appc2eh,2022-08-21T22:06:11.344Z,"24 km N of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-21T21:59:57.584Z,60.0839,-141.2763,2.9,2.3,ml,,,,0.82,ak,ak022app2qgv,2022-08-21T22:02:04.174Z,"105 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-08-21T21:51:46.770Z,38.8271675,-122.7955017,-0.4,0.82,md,17,37,0.01193,0.03,nc,nc73770500,2022-08-21T22:58:10.530Z,"6km W of Cobb, CA",earthquake,0.17,0.63,0.29,3,automatic,nc,nc
