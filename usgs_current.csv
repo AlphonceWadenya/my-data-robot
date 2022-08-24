@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-24T23:53:10.074Z,58.3521,-154.6339,75.6,1,ml,,,,0.25,ak,ak022auou96n,2022-08-24T23:55:30.008Z,"87 km N of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-08-24T23:27:48.392Z,33.1071,137.2496,382.041,4.2,mb,72,94,2.152,0.66,us,us7000i26u,2022-08-24T23:49:09.040Z,"136 km ESE of Shingū, Japan",earthquake,6.45,7.037,0.044,147,reviewed,us,us
 2022-08-24T23:16:30.320Z,38.8326683,-122.817337,1.83,0.36,md,9,102,0.01086,0.01,nc,nc73771525,2022-08-24T23:30:11.012Z,"8km NW of The Geysers, CA",earthquake,0.4,1.19,,1,automatic,nc,nc
 2022-08-24T23:16:13.120Z,38.8353348,-122.8503342,10.35,0.39,md,9,164,0.01204,0.07,nc,nc73771520,2022-08-24T23:33:10.027Z,"10km NW of The Geysers, CA",earthquake,1.33,1.01,,1,automatic,nc,nc
@@ -220,6 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-24T00:11:19.490Z,37.5241667,-118.8635,5.03,0.87,md,11,115,0.0712,0.02,nc,nc73771175,2022-08-24T05:01:11.068Z,"16km SE of Mammoth Lakes, CA",earthquake,0.58,1.6,0.123,9,reviewed,nc,nc
 2022-08-24T00:10:22.830Z,38.7729988,-122.7146683,1.48,0.71,md,6,108,0.01296,0.01,nc,nc73771170,2022-08-24T00:38:11.425Z,"2km W of Anderson Springs, CA",earthquake,1.5,1.65,0.18,2,automatic,nc,nc
 2022-08-23T23:59:40.940Z,19.265832901001,-155.391998291016,33.1399993896484,2.07999992,md,44,139,,0.129999995,hv,hv73119197,2022-08-24T00:02:50.380Z,"11 km NE of Pāhala, Hawaii",earthquake,0.52,0.649999976,1.63,19,automatic,hv,hv
-2022-08-23T23:55:16.359Z,64.9694,-147.4754,0,1.2,ml,,,,0.69,ak,ak022at1bclv,2022-08-23T23:57:09.053Z,"6 km E of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-08-23T23:51:57.410Z,18.0511666666667,-67.0413333333333,14.68,1.51,md,4,204,,0.07,pr,pr71367648,2022-08-24T00:12:20.680Z,"1 km E of Lajas, Puerto Rico",earthquake,0.71,0.83,0.102091542129276,4,reviewed,pr,pr
-2022-08-23T23:51:25.610Z,18.3508333333333,-67.2646666666667,85.79,2.51,md,8,169,,0.21,pr,pr71367653,2022-08-24T00:33:39.840Z,"1 km NW of Rincón, Puerto Rico",earthquake,2.13,1.52,0.1219649600574,4,reviewed,pr,pr
