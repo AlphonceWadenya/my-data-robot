@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-24T17:31:47.150Z,39.4303333,-110.3091667,-1.1,1.56,ml,12,180,0.01382,0.11,uu,uu60511057,2022-08-24T19:21:16.990Z,"15 km SSE of Sunnyside, Utah",earthquake,0.79,0.27,0.034,5,reviewed,uu,uu
 2022-08-24T17:02:29.180Z,39.4268333,-110.2895,-3.17,1.98,md,7,202,0.02771,0.14,uu,uu60511052,2022-08-24T17:10:17.140Z,"16 km SSE of Sunnyside, Utah",earthquake,1.76,3.43,0.176,6,reviewed,uu,uu
 2022-08-24T16:36:24.620Z,40.4705009,-124.2176666,29.04,2.05,md,10,259,0.09113,0.08,nc,nc73771380,2022-08-24T19:55:12.739Z,"10km WSW of Rio Dell, CA",earthquake,2.7,3,0.08,6,automatic,nc,nc
-2022-08-24T16:36:15.640Z,38.7963333,-122.8011667,0.2,0.43,md,4,117,0.008133,0.01,nc,nc73771375,2022-08-24T21:39:11.388Z,"4km WNW of The Geysers, CA",earthquake,0.37,1.53,,1,reviewed,nc,nc
+2022-08-24T16:36:15.640Z,38.7963333,-122.8011667,0.2,0.43,md,4,117,0.008133,0.01,nc,nc73771375,2022-08-24T21:47:13.443Z,"4km WNW of The Geysers, CA",earthquake,0.37,1.53,,1,reviewed,nc,nc
 2022-08-24T16:35:40.404Z,61.7646,-149.7433,24.9,1.5,ml,,,,0.42,ak,ak022aukkfeg,2022-08-24T16:37:41.190Z,"15 km NNE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-24T16:32:50.480Z,34.021,-117.0395,11.24,1.27,ml,48,37,0.06225,0.19,ci,ci40330920,2022-08-24T19:02:14.946Z,"1km SSE of Yucaipa, CA",earthquake,0.19,0.5,0.159,32,reviewed,ci,ci
 2022-08-24T16:27:34.480Z,36.0266667,-117.6981667,-1.25,0.96,ml,6,148,0.09999,0.17,ci,ci40330912,2022-08-24T19:47:51.398Z,"21km ENE of Little Lake, CA",earthquake,0.48,31.61,0.239,2,reviewed,ci,ci
