@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-27T17:54:22.900Z,33.5965,-116.803,8.09,0.4,ml,8,167,0.03259,0.06,ci,ci40332760,2022-08-27T17:57:57.852Z,"13km WNW of Anza, CA",earthquake,0.54,0.44,0.172,7,automatic,ci,ci
 2022-08-27T17:51:16.791Z,59.4559,-152.7852,77.4,1.8,ml,,,,0.37,ak,ak022azjv9k0,2022-08-27T17:52:35.807Z,"50 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-27T17:28:07.330Z,38.8008347,-122.7785034,2.42,0.25,md,14,71,0.01061,0.04,nc,nc73772455,2022-08-27T17:39:10.762Z,"3km NW of The Geysers, CA",earthquake,0.31,0.59,0.15,4,automatic,nc,nc
 2022-08-27T17:20:39.310Z,36.0181667,-120.8516667,8.89,0.79,md,30,55,0.0312,0.08,nc,nc73772445,2022-08-27T17:45:10.665Z,"5km E of San Ardo, CA",earthquake,0.21,0.4,0.122,15,reviewed,nc,nc
