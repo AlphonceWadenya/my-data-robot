@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-27T06:06:49.389Z,57.0356,-155.7242,0,3.1,ml,,,,0.81,ak,ak022azd1xre,2022-08-27T06:09:32.357Z,"94 km W of Akhiok, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-08-27T05:50:40.429Z,64.7686,-148.9335,14.1,1.1,ml,,,,0.43,ak,ak022azcpwyy,2022-08-27T06:02:19.667Z,"20 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-27T05:49:45.710Z,58.243,-155.0872,14.5,0.2,ml,,,,0.05,ak,ak022azcppnv,2022-08-27T05:50:58.792Z,"83 km NNW of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-08-27T05:43:17.830Z,36.008,-117.3711667,-0.31,1.49,ml,10,130,0.2656,0.21,ci,ci40332408,2022-08-27T05:47:01.062Z,"27km N of Searles Valley, CA",earthquake,0.59,31.61,0.11,17,automatic,ci,ci
 2022-08-27T05:42:53.103Z,62.168,-145.672,24,1.8,ml,,,,0.7,ak,ak022azco87y,2022-08-27T05:45:10.927Z,"9 km NW of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
