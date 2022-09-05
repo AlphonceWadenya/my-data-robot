@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-05T11:30:41.120Z,35.33,-118.6053333,3.29,1.92,ml,34,50,0.12,0.21,ci,ci40096567,2022-09-05T11:34:18.026Z,"24km ENE of Arvin, CA",earthquake,0.28,1.55,0.154,26,automatic,ci,ci
+2022-09-05T11:38:46.680Z,34.0185,-117.5618333,11.15,1.46,ml,51,45,0.01387,0.15,ci,ci40096575,2022-09-05T11:42:30.740Z,"5km NW of Mira Loma, CA",earthquake,0.19,0.36,0.144,31,automatic,ci,ci
+2022-09-05T11:37:25.736Z,60.949,-148.738,171.7,1.6,ml,,,,1.07,ak,ak022bec1tx4,2022-09-05T11:43:53.826Z,"19 km N of Whittier, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-09-05T11:30:41.120Z,35.33,-118.6053333,3.29,1.92,ml,34,50,0.12,0.21,ci,ci40096567,2022-09-05T11:41:36.670Z,"24km ENE of Arvin, CA",earthquake,0.28,1.55,0.154,26,automatic,ci,ci
 2022-09-05T11:29:07.042Z,60.2649,-150.5807,33.7,2.5,ml,,,,0.22,ak,ak022bec02fk,2022-09-05T11:30:37.438Z,"28 km SSE of Funny River, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-09-05T11:19:35.334Z,-31.8339,-179.1773,113.083,5.3,mww,105,64,2.783,0.53,us,us7000i5cf,2022-09-05T11:40:27.040Z,"Kermadec Islands region",earthquake,9.61,4.996,0.083,14,reviewed,us,us
 2022-09-05T11:18:47.085Z,57.5474,-155.0214,52.2,2.6,ml,,,,0.27,ak,ak022bebxsn8,2022-09-05T11:25:32.040Z,"33 km W of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-09-05T11:02:20.744Z,38.2047,-117.83,4.9,1.6,ml,17,132.95,0.121,0.2125,nn,nn00846446,2022-09-05T11:05:56.622Z,"31 km SE of Mina, Nevada",earthquake,,0.7,0.79,10,automatic,nn,nn
 2022-09-05T11:01:54.703Z,60.3883,-152.0217,72.8,1,ml,,,,0.27,ak,ak022bebu626,2022-09-05T11:04:07.467Z,"38 km WNW of Clam Gulch, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -38,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-05T08:09:28.980Z,17.9383333333333,-66.8551666666667,11.83,2.49,md,13,181,,0.12,pr,pr71369953,2022-09-05T09:17:27.270Z,"Puerto Rico region",earthquake,0.61,0.51,0.204443660495599,10,reviewed,pr,pr
 2022-09-05T08:07:41.640Z,17.9498333333333,-66.943,10.77,2.21,md,7,215,,0.07,pr,pr71369948,2022-09-05T09:16:08.360Z,"Puerto Rico region",earthquake,0.44,0.64,0.137373501889216,6,reviewed,pr,pr
 2022-09-05T07:50:58.719Z,-33.4356,-72.2752,10,4.9,mwr,76,84,0.595,0.61,us,us7000i5bb,2022-09-05T08:33:47.531Z,"Off the coast of Valparaiso, Chile",earthquake,6.73,1.874,0.048,41,reviewed,us,us
-2022-09-05T07:49:58.638Z,-33.444,-72.3008,10,4.9,mb,75,84,0.611,0.55,us,us7000i5b9,2022-09-05T08:19:05.814Z,"offshore Valparaiso, Chile",earthquake,4.26,1.602,0.037,229,reviewed,us,us
+2022-09-05T07:49:58.638Z,-33.444,-72.3008,10,4.9,mb,75,84,0.611,0.55,us,us7000i5b9,2022-09-05T08:19:05.814Z,"65 km W of Cartagena, Chile",earthquake,4.26,1.602,0.037,229,reviewed,us,us
 2022-09-05T07:42:13.931Z,61.344,-150.0284,33.5,1,ml,,,,0.35,ak,ak022be9p4up,2022-09-05T07:43:39.592Z,"3 km WSW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-05T07:37:11.060Z,38.8224983,-122.7886658,0.99,0.46,md,11,76,0.01113,0.01,nc,nc73775665,2022-09-05T07:53:12.536Z,"6km W of Cobb, CA",earthquake,0.3,0.77,0.39,2,automatic,nc,nc
 2022-09-05T07:29:12.210Z,19.1936664581299,-155.469329833984,34.0499992370605,2.26,ml,44,96,,0.129999995,hv,hv73131697,2022-09-05T07:34:43.030Z,"1 km SE of Pāhala, Hawaii",earthquake,0.56,0.660000026,4.06,15,automatic,hv,hv
@@ -120,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T23:34:38.660Z,35.0516667,-117.6601667,0.29,1.79,ml,19,94,0.1207,0.32,ci,ci40096327,2022-09-04T23:38:27.324Z,"6km N of Boron, CA",quarry blast,0.92,31.61,0.162,31,automatic,ci,ci
 2022-09-04T23:25:51.970Z,33.6626667,-116.7291667,14.42,0.75,ml,34,48,0.04996,0.21,ci,ci40096319,2022-09-04T23:29:23.052Z,"9km S of Idyllwild, CA",earthquake,0.33,0.52,0.141,25,automatic,ci,ci
 2022-09-04T23:06:18.628Z,38.5993,-119.4396,0.1,1.1,ml,10,123.82,0.064,0.2627,nn,nn00846410,2022-09-04T23:10:05.205Z,"6 km ENE of Coleville, California",earthquake,,0.7,0.31,6,automatic,nn,nn
-2022-09-04T22:55:15.620Z,37.3121667,-121.6781667,7.77,3.36,ml,145,28,0.04087,0.11,nc,nc73775530,2022-09-05T08:35:38.360Z,"14km ESE of Alum Rock, CA",earthquake,0.09,0.18,0.172,125,reviewed,nc,nc
+2022-09-04T22:55:15.620Z,37.3121667,-121.6781667,7.77,3.36,ml,145,28,0.04087,0.11,nc,nc73775530,2022-09-05T11:39:34.705Z,"14km ESE of Alum Rock, CA",earthquake,0.09,0.18,0.172,125,reviewed,nc,nc
 2022-09-04T22:43:20.850Z,38.8334999,-122.8056641,2.04,1.39,md,23,72,0.01066,0.01,nc,nc73775525,2022-09-04T23:02:53.209Z,"7km W of Cobb, CA",earthquake,0.2,0.35,0.04,6,automatic,nc,nc
 2022-09-04T22:41:25.493Z,62.082,-148.9556,39.1,1.1,ml,,,,0.29,ak,ak022bcv33lx,2022-09-04T22:42:37.114Z,"35 km NNW of Sutton-Alpine, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-09-04T22:32:15.480Z,33.1636667,-115.6376667,1.82,1.12,ml,16,71,0.02304,0.19,ci,ci40096303,2022-09-04T22:35:49.808Z,"12km WNW of Calipatria, CA",earthquake,0.4,0.66,0.235,20,automatic,ci,ci
