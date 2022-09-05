@@ -233,6 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T21:56:14.784Z,51.3521,174.6803,20.1,3.5,ml,,,,0.58,ak,ak022bcukxk4,2022-09-05T00:03:28.454Z,"195 km SSE of Attu Station, Alaska",earthquake,,3.4,,,reviewed,ak,ak
 2022-09-04T21:54:05.640Z,35.9086685,-117.6883316,6.81,1.16,ml,14,106,0.1126,0.08,ci,ci40096263,2022-09-04T21:57:32.694Z,"20km E of Little Lake, CA",earthquake,0.4,0.91,0.164,3,automatic,ci,ci
 2022-09-04T21:51:08.170Z,35.1686667,-85.1041667,19.68,2.23,md,13,81,0.173,0.05,se,se60407232,2022-09-05T13:00:09.970Z,"4 km SSE of Lakesite, Tennessee",earthquake,0.37,1.15,0.133,11,reviewed,se,se
-2022-09-04T21:49:21.260Z,17.9778333333333,-66.984,13.54,2.2,md,6,171,,0.11,pr,pr71369818,2022-09-04T21:59:21.790Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.67,0.4,0.140131268429486,5,reviewed,pr,pr
-2022-09-04T21:45:45.280Z,33.7821655,-117.9108353,14.05,1.66,ml,17,164,0.3207,0.33,ci,ci40096255,2022-09-04T21:49:17.636Z,"5km E of Garden Grove, CA",earthquake,1.75,2.58,0.171,10,automatic,ci,ci
-2022-09-04T21:45:30.980Z,39.5048332,-123.3990021,4.48,1.34,md,5,197,0.3082,0.33,nc,nc73775505,2022-09-04T22:03:14.038Z,"7km N of Brooktrails, CA",earthquake,3.26,24.99,0.02,2,automatic,nc,nc
