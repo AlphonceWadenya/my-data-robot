@@ -78,6 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-05T11:38:46.680Z,34.0185,-117.5618333,11.15,1.46,ml,51,45,0.01387,0.15,ci,ci40096575,2022-09-05T11:49:42.800Z,"5km NW of Mira Loma, CA",earthquake,0.19,0.36,0.144,31,automatic,ci,ci
 2022-09-05T11:30:41.120Z,35.33,-118.6053333,3.29,1.92,ml,34,50,0.12,0.21,ci,ci40096567,2022-09-05T11:41:36.670Z,"24km ENE of Arvin, CA",earthquake,0.28,1.55,0.154,26,automatic,ci,ci
 2022-09-05T11:30:30.820Z,37.6243333,-119.0605,0.74,-0.05,md,9,240,0.02917,0.05,nc,nc71129004,2022-09-05T19:47:25.731Z,"7km W of Mammoth Lakes, CA",earthquake,0.73,0.62,0.353,10,reviewed,nc,nc
+2022-09-05T11:30:20.180Z,37.6533333,-122.5001667,7.81,1.26,md,10,181,0.02578,0.04,nc,nc73775720,2022-09-05T19:52:27.272Z,"4km SW of Colma, CA",earthquake,0.53,0.33,0.165,7,reviewed,nc,nc
 2022-09-05T11:29:07.042Z,60.2649,-150.5807,33.7,2.5,ml,,,,0.22,ak,ak022bec02fk,2022-09-05T11:57:40.040Z,"28 km SSE of Funny River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-05T11:26:22.742Z,29.6652,102.2836,10,4.8,mb,34,119,8.433,0.42,us,us7000i5ct,2022-09-05T12:14:04.040Z,"48 km SE of Kangding, China",earthquake,10.82,1.916,0.077,52,reviewed,us,us
 2022-09-05T11:19:35.334Z,-31.8339,-179.1773,113.083,5.3,mww,105,64,2.783,0.53,us,us7000i5cf,2022-09-05T11:40:27.040Z,"Kermadec Islands region",earthquake,9.61,4.996,0.083,14,reviewed,us,us
@@ -243,5 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T20:01:15.770Z,36.5676667,-121.1343333,10.18,2.21,md,23,120,0.04131,0.08,nc,nc73775450,2022-09-05T12:38:11.213Z,"4km NNE of Pinnacles, CA",earthquake,0.25,0.39,0.179,21,reviewed,nc,nc
 2022-09-04T20:01:01.310Z,36.57,-121.1163333,10.14,2.12,md,6,157,0.05563,0.07,nc,nc71128994,2022-09-05T12:23:13.125Z,"5km NNE of Pinnacles, CA",earthquake,0.58,0.77,0.418,8,reviewed,nc,nc
 2022-09-04T20:00:49.850Z,36.5678333,-121.117,9.15,2.3,md,49,66,0.0552,0.08,nc,nc73775455,2022-09-05T12:08:11.042Z,"5km NNE of Pinnacles, CA",earthquake,0.14,0.22,0.306,63,reviewed,nc,nc
-2022-09-04T19:57:56.200Z,38.8208351,-122.7591629,1.6,0.86,md,10,127,0.01277,0.02,nc,nc73775445,2022-09-04T20:33:13.641Z,"3km W of Cobb, CA",earthquake,0.36,0.74,0.32,2,automatic,nc,nc
-2022-09-04T19:53:59.563Z,32.3373,142.343,10,5.2,mww,107,32,2.269,0.81,us,us7000i56h,2022-09-05T14:26:03.040Z,"Izu Islands, Japan region",earthquake,6.82,1.762,0.061,26,reviewed,us,us
