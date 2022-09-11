@@ -173,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-10T10:28:00.926Z,60.2842,-153.6517,179.7,1.5,ml,,,,0.24,ak,ak022bml353w,2022-09-10T10:44:44.040Z,"37 km ENE of Port Alsworth, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-09-10T10:04:25.771Z,63.1951,-150.4789,104.3,1.5,ml,,,,0.47,ak,ak022bmky1uv,2022-09-10T18:55:07.818Z,"73 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2022-09-10T09:58:39.090Z,35.0951004,-95.38694,1.57956481,2.15,ml,19,137.2121353,0.1262561083,0.4622598525,ok,ok2022rten,2022-09-10T10:01:28.121Z,"3 km SSW of Quinton, Oklahoma",earthquake,3.832301487,2.176753969,,15,automatic,ok,ok
-2022-09-10T09:52:00.746Z,38.5075,-119.5417,1,1.4,ml,20,92.4,0.08,0.1956,nn,nn00846732,2022-09-10T09:55:04.013Z,"California-Nevada border region",earthquake,,4.2,0.32,11,automatic,nn,nn
