@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-23T10:53:55.810Z,35.834,-117.6783333,4.43,0.49,ml,6,104,0.06816,0.21,ci,ci40104991,2022-09-23T10:57:31.282Z,"24km ESE of Little Lake, CA",earthquake,0.58,1.53,0.191,4,automatic,ci,ci
 2022-09-23T10:41:19.430Z,33.0041667,-116.2903333,3.94,2.1,ml,56,37,0.05063,0.21,ci,ci40104983,2022-09-23T10:52:18.870Z,"21km SW of Ocotillo Wells, CA",earthquake,0.22,0.95,0.16,26,automatic,ci,ci
 2022-09-23T10:28:59.256Z,62.3683,-149.8667,18.4,1.3,ml,,,,0.48,ak,ak022c832s11,2022-09-23T10:31:12.831Z,"13 km ENE of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-23T10:25:02.660Z,19.24049949646,-155.391006469727,35.9000015258789,2.05999994,md,40,144,,0.159999996,hv,hv73149242,2022-09-23T10:28:08.820Z,"Hawaii region, Hawaii",earthquake,0.57,0.870000005,0.649999976,11,automatic,hv,hv
@@ -319,5 +320,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-22T11:00:55.438Z,58.1593,-155.3293,1,0.2,ml,,,,0.12,ak,ak022c6fyuta,2022-09-22T23:50:24.840Z,"Alaska Peninsula",earthquake,,0,,,reviewed,ak,ak
 2022-09-22T11:00:27.320Z,60.5781,-151.0868,45,1.3,ml,,,,0.55,ak,ak022c6fysmk,2022-09-22T11:02:03.506Z,"5 km N of Ridgeway, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-09-22T10:59:22.557Z,19.8731,121.3303,33.795,4.5,mb,47,104,2.939,0.68,us,us7000ia4g,2022-09-22T11:36:26.040Z,"Babuyan Islands region, Philippines",earthquake,10.17,6.046,0.091,36,reviewed,us,us
-2022-09-22T10:57:10.124Z,43.4487,-110.8035,9.165,1.5,ml,18,92,0.038,0.58,us,us7000ia5w,2022-09-22T14:23:07.145Z,"2 km N of Rafter J Ranch, Wyoming",earthquake,0.95,2.868,0.066,30,reviewed,us,us
-2022-09-22T10:54:23.930Z,44.7798333,-110.8001667,4.81,1.26,ml,16,97,0.03684,0.19,uu,uu60517507,2022-09-22T14:15:02.040Z,"Wyoming",earthquake,0.41,0.56,0.195,4,reviewed,uu,uu
