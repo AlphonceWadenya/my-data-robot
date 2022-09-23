@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-23T09:53:28.606Z,38.4589,-119.3965,0.4,1.1,ml,10,125.62,0.056,0.1807,nn,nn00847733,2022-09-23T09:56:26.895Z,"9 km SE of Walker, California",earthquake,,0.3,0.05,7,automatic,nn,nn
 2022-09-23T09:47:54.400Z,38.8219986,-122.7965012,2.68,0.96,md,18,67,0.01069,0.02,nc,nc73785026,2022-09-23T09:49:31.518Z,"6km NW of The Geysers, CA",earthquake,0.25,0.5,0.18,3,automatic,nc,nc
 2022-09-23T09:46:49.410Z,34.4391667,-119.2663333,11.36,1.48,ml,12,68,0.09391,0.23,ci,ci40104959,2022-09-23T09:50:28.035Z,"2km WSW of Ojai, CA",earthquake,0.57,1.04,0.397,15,automatic,ci,ci
 2022-09-23T09:44:53.180Z,38.8206673,-122.7646637,2.05,0.87,md,11,117,0.01061,0.01,nc,nc73785021,2022-09-23T09:46:26.578Z,"4km W of Cobb, CA",earthquake,0.35,0.74,,2,automatic,nc,nc
