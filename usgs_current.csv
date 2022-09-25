@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-25T14:59:03.851Z,77.9057,8.5162,10,4.4,mb,30,115,1.229,0.57,us,us7000iayg,2022-09-25T16:28:38.040Z,"168 km WSW of Longyearbyen, Svalbard and Jan Mayen",earthquake,6.83,1.911,0.123,21,reviewed,us,us
 2022-09-25T14:58:07.590Z,38.8288345,-122.8098297,1.4,0.85,md,10,78,0.005435,0.01,nc,nc73785756,2022-09-25T14:59:42.906Z,"7km NW of The Geysers, CA",earthquake,0.3,1.04,,1,automatic,nc,nc
 2022-09-25T14:51:03.948Z,61.3471,-141.1142,0,1.8,ml,,,,0.36,ak,ak022cbgo0my,2022-09-25T14:52:37.942Z,"97 km E of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-09-25T14:47:25.920Z,37.7393341,-122.5541687,8.96,2.25,md,48,100,0.08402,0.05,nc,nc73785751,2022-09-25T16:53:17.129Z,"4km W of San Francisco Zoo, CA",earthquake,0.19,0.48,0.19,47,automatic,nc,nc
+2022-09-25T14:47:25.920Z,37.7393341,-122.5541687,8.96,2.25,md,48,100,0.08402,0.05,nc,nc73785751,2022-09-25T17:56:04.604Z,"4km W of San Francisco Zoo, CA",earthquake,0.19,0.48,0.19,47,automatic,nc,nc
 2022-09-25T14:45:39.660Z,33.784,-116.113,2.05,0.83,ml,17,94,0.09127,0.22,ci,ci40106287,2022-09-25T14:49:09.999Z,"12km NE of Indio, CA",earthquake,0.37,0.73,0.127,18,automatic,ci,ci
 2022-09-25T14:36:28.520Z,58.4493,-153.5277,25.9,0.8,ml,,,,0.69,ak,ak022cbgkvdj,2022-09-25T14:39:05.347Z,"56 km NW of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-09-25T14:36:00.846Z,36.6957,-116.2787,6.4,0.4,ml,17,128.54,0.062,0.191,nn,nn00847890,2022-09-25T14:38:39.277Z,"California-Nevada border region",earthquake,,0.8,0.94,10,automatic,nn,nn
@@ -214,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-24T18:06:27.780Z,33.5023333,-116.4951667,13.45,0.51,ml,17,70,0.06172,0.15,ci,ci40105807,2022-09-24T18:10:01.958Z,"18km ESE of Anza, CA",earthquake,0.42,0.66,0.322,6,automatic,ci,ci
 2022-09-24T18:01:49.080Z,38.822,-122.8103333,2.32,0.44,md,15,65,0.001408,0.04,nc,nc73785431,2022-09-24T18:24:31.877Z,"7km NW of The Geysers, CA",earthquake,0.27,0.27,0.053,4,reviewed,nc,nc
 2022-09-24T17:59:09.490Z,36.0588333,-120.6413333,2.85,0.35,md,12,274,0.03791,0.06,nc,nc73785426,2022-09-24T19:38:11.073Z,"24km E of San Ardo, CA",earthquake,0.56,1.35,0.133,5,reviewed,nc,nc
-2022-09-24T17:55:19.460Z,35.6266667,-118.4108333,12.74,1.29,ml,18,91,0.06283,0.13,ci,ci40105791,2022-09-24T17:58:52.338Z,"6km E of Lake Isabella, CA",earthquake,0.29,0.51,0.278,14,automatic,ci,ci
-2022-09-24T17:54:23.158Z,42.4679,-71.5298,6.614,1.8,ml,17,94,0.044,0.31,us,us7000iavt,2022-09-25T16:53:00.486Z,"2 km S of Boxborough, Massachusetts",earthquake,1.52,0.991,0.148,6,reviewed,us,us
