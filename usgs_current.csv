@@ -61,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-07T00:52:29.778Z,61.8607,-147.588,39.1,2.2,ml,,,,0.41,ak,ak022cv2sdsx,2022-10-07T01:01:31.040Z,"6 km NNE of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-07T00:39:34.230Z,35.7048333,-117.5628333,2.12,1.45,ml,24,81,0.1142,0.2,ci,ci40356960,2022-10-07T00:50:18.300Z,"14km NE of Ridgecrest, CA",earthquake,0.34,0.54,0.153,19,automatic,ci,ci
 2022-10-07T00:31:53.420Z,17.9486666666667,-67.0148333333333,8.96,1.7,md,5,225,,0.05,pr,pr71375313,2022-10-07T00:57:00.940Z,"4 km SE of La Parguera, Puerto Rico",earthquake,0.49,0.65,0.0256485093537344,4,reviewed,pr,pr
-2022-10-07T00:28:37.650Z,38.7856667,-122.7195,2.02,1.44,md,46,40,0.006952,0.03,nc,nc73790311,2022-10-07T07:53:10.810Z,"3km WNW of Anderson Springs, CA",earthquake,0.14,0.22,0.193,18,reviewed,nc,nc
+2022-10-07T00:28:37.650Z,38.7856667,-122.7195,2.02,1.44,md,46,40,0.006952,0.03,nc,nc73790311,2022-10-07T07:56:13.829Z,"3km WNW of Anderson Springs, CA",earthquake,0.14,0.22,0.193,18,reviewed,nc,nc
 2022-10-07T00:28:28.952Z,60.2269,-141.1953,13.8,1.1,ml,,,,0.17,ak,ak022cv2n8jz,2022-10-07T00:30:33.480Z,"111 km NW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-10-07T00:27:37.787Z,63.2184,-150.645,2.8,2.1,ml,,,,1.1,ak,ak022cv2n1iq,2022-10-07T00:30:04.373Z,"64 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-07T00:15:48.680Z,48.387166666666666,-116.76983333333334,-0.75,1.51,md,5,300,0.2657,0.32,uw,uw61886441,2022-10-07T04:51:35.280Z,"19 km NW of Dover, Idaho",earthquake,8.59,12.71,0.20791693804816314,3,reviewed,uw,uw
@@ -160,7 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-06T15:46:26.950Z,33.2855,-116.4221667,14.77,0.78,ml,25,56,0.01776,0.15,ci,ci40356664,2022-10-06T23:17:14.286Z,"6km NW of Borrego Springs, CA",earthquake,0.24,0.52,0.102,13,reviewed,ci,ci
 2022-10-06T15:45:11.470Z,44.8065,-110.7881667,6.15,1.49,ml,17,115,0.04795,0.15,uu,uu60519507,2022-10-06T16:06:25.250Z,"20 km SSW of Mammoth, Wyoming",earthquake,0.52,1.03,0.33,4,reviewed,uu,uu
 2022-10-06T15:31:18.930Z,38.7890015,-122.7608337,1.72,0.21,md,11,77,0.01164,0.03,nc,nc73790221,2022-10-06T15:32:54.415Z,"1km NNW of The Geysers, CA",earthquake,0.3,0.66,0.16,2,automatic,nc,nc
-2022-10-06T15:23:46.820Z,36.9711,-116.3883,0.4,-0.3,ml,7,157.97,0.036,0.0813,nn,nn00848745,2022-10-07T02:41:10.307Z,"33 km ENE of Beatty, Nevada",earthquake,,8.5,1.18,7,reviewed,nn,nn
+2022-10-06T15:23:46.820Z,36.9711,-116.3883,0.4,-0.3,ml,7,157.97,0.036,0.0813,nn,nn00848745,2022-10-07T02:41:10.307Z,"California-Nevada border region",earthquake,,8.5,1.18,7,reviewed,nn,nn
 2022-10-06T15:22:28.004Z,61.6994,-147.2951,39.2,1.4,ml,,,,1.21,ak,ak022cto03rk,2022-10-06T15:24:51.711Z,"22 km ESE of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-10-06T15:11:57.650Z,19.1656666666667,-155.393333333333,28.94,1.46,md,7,231,,0.04,hv,hv73169172,2022-10-06T17:37:31.410Z,"Hawaii region, Hawaii",earthquake,1.48,1.59,0.0287405725007601,5,reviewed,hv,hv
 2022-10-06T15:10:19.840Z,36.7141667,-121.3636667,3.07,1.37,md,20,106,0.01533,0.07,nc,nc73790211,2022-10-06T18:52:13.957Z,"9km SSW of Tres Pinos, CA",earthquake,0.23,0.22,0.293,20,reviewed,nc,nc
