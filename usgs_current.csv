@@ -188,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-10T12:14:17.890Z,38.7493324,-122.7118301,0.82,0.55,md,7,130,0.01593,0.01,nc,nc73791791,2022-10-10T12:15:54.223Z,"3km SSW of Anderson Springs, CA",earthquake,0.94,0.57,0.18,3,automatic,nc,nc
 2022-10-10T12:08:33.890Z,19.1299991607666,-155.430999755859,32.0699996948242,1.70000005,md,25,176,,0.119999997,hv,hv73173477,2022-10-10T12:18:35.943Z,"9 km SSE of Pāhala, Hawaii",earthquake,0.62,1.10000002,0.569999993,3,automatic,hv,hv
 2022-10-10T12:01:06.080Z,19.4246666666667,-155.614,-1.66,2.33,ml,39,66,,0.22,hv,hv73173462,2022-10-10T21:26:49.890Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.26,0.36,0.146504194980917,16,reviewed,hv,hv
-2022-10-10T11:53:58.025Z,-15.6813,167.7545,133.157,4.5,mb,35,153,0.58,0.44,us,us6000ishj,2022-10-10T12:21:46.040Z,"57 km NE of Norsup, Vanuatu",earthquake,8.4,4.508,0.105,27,reviewed,us,us
