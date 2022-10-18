@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-18T19:57:37.310Z,38.831665,-122.8118362,2.08,0.85,md,8,95,0.008372,0.01,nc,nc73795381,2022-10-18T19:59:14.409Z,"8km NW of The Geysers, CA",earthquake,0.47,1.15,,1,automatic,nc,nc
+2022-10-18T19:55:22.680Z,19.2501659393311,-155.383331298828,31.0300006866455,1.89999998,md,30,156,,0.129999995,hv,hv73184882,2022-10-18T19:59:39.550Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.69,0.920000017,0.949999988,8,automatic,hv,hv
 2022-10-18T19:49:10.560Z,33.3321667,-116.354,12.23,1.02,ml,28,60,0.04784,0.24,ci,ci40363168,2022-10-18T19:52:40.252Z,"9km NNE of Borrego Springs, CA",earthquake,0.42,0.8,0.214,25,automatic,ci,ci
 2022-10-18T19:39:15.772Z,63.1167,-150.6055,106.7,1.5,ml,,,,0.27,ak,ak022ddkxmc9,2022-10-18T19:41:37.425Z,"69 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-10-18T19:22:27.588Z,63.4537,-151.3672,2.6,2.1,ml,,,,0.63,ak,ak022ddku02u,2022-10-18T19:24:25.196Z,"20 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -12,6 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-18T17:53:45.358Z,61.5398,-147.6247,26.7,1.5,ml,,,,0.75,ak,ak022ddjttfr,2022-10-18T17:55:29.461Z,"29 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-18T17:32:26.000Z,35.9315,-119.8733333,14.63,1.69,md,27,128,0.2652,0.16,nc,nc73795351,2022-10-18T19:49:10.554Z,"12km SE of Kettleman City, CA",earthquake,0.5,3.85,0.186,23,reviewed,nc,nc
 2022-10-18T17:30:42.250Z,35.7921667,-117.6113333,10.06,1.08,ml,17,117,0.02607,0.18,ci,ci40363104,2022-10-18T17:44:40.461Z,"19km W of Searles Valley, CA",earthquake,0.35,0.66,0.171,12,reviewed,ci,ci
+2022-10-18T17:25:37.930Z,19.173,-155.396,31.33,1.49,md,15,199,,0.09,hv,hv73184667,2022-10-18T19:58:40.920Z,"9 km ESE of Pāhala, Hawaii",earthquake,0.63,0.73,0.101220721815529,9,reviewed,hv,hv
 2022-10-18T17:25:13.560Z,40.5816667,-122.9656667,42.33,2.24,md,20,81,0.1374,0.13,nc,nc73795346,2022-10-18T19:39:11.490Z,"17km S of Weaverville, CA",earthquake,0.46,0.74,0.15,25,reviewed,nc,nc
 2022-10-18T17:15:52.100Z,38.8203316,-122.7746658,1.83,0.85,md,11,129,0.008485,0.01,nc,nc73795341,2022-10-18T17:17:29.611Z,"4km W of Cobb, CA",earthquake,0.4,0.9,,1,automatic,nc,nc
 2022-10-18T17:14:50.840Z,19.1410007476807,-155.475173950195,31,1.74000001,md,34,163,,0.119999997,hv,hv73184647,2022-10-18T17:18:09.060Z,"6 km S of Pāhala, Hawaii",earthquake,0.63,1.16999996,1.74000001,4,automatic,hv,hv
