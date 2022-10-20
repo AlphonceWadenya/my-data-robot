@@ -1,4 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-20T12:10:42.610Z,35.618,-117.5996667,9.34,2.1,ml,20,89,0.1435,0.12,ci,ci40363776,2022-10-20T12:14:09.947Z,"7km E of Ridgecrest, CA",earthquake,0.31,0.73,0.157,26,automatic,ci,ci
+2022-10-20T12:07:43.860Z,38.8321648,-122.8133316,1.65,0.85,md,12,78,0.009119,0.02,nc,nc73796871,2022-10-20T12:09:17.203Z,"8km NW of The Geysers, CA",earthquake,0.36,0.81,,1,automatic,nc,nc
+2022-10-20T11:57:37.210Z,19.4766674041748,-155.631332397461,1.57000005245209,1.82,ml,16,66,,0.289999992,hv,hv73187497,2022-10-20T12:03:08.550Z,"24 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.61,1.51999998,3.44,3,automatic,hv,hv
+2022-10-20T11:57:14.000Z,7.7,-82.3,10,6.9,Mi,143,75.59999395200049,2.90605,1.26,at,at00rk1vve,2022-10-20T12:10:43.791Z,"58 km S of Boca Chica, Panama",earthquake,0,0,,77,reviewed,at,at
+2022-10-20T11:53:39.820Z,33.9261667,-117.7761667,9.93,1.25,ml,34,63,0.07841,0.16,ci,ci40363760,2022-10-20T11:57:09.867Z,"5km NE of Yorba Linda, CA",earthquake,0.28,0.56,0.127,29,automatic,ci,ci
+2022-10-20T11:53:24.030Z,34.7075005,-118.2348328,-0.69,1.8,ml,13,214,0.3902,0.42,ci,ci40363752,2022-10-20T11:57:10.868Z,"7km NNW of Quartz Hill, CA",earthquake,1.75,4.07,0.543,4,automatic,ci,ci
 2022-10-20T11:50:10.971Z,62.8364,-150.7075,3.2,2,ml,,,,0.77,ak,ak022dgrb6zt,2022-10-20T11:52:25.017Z,"38 km N of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-20T11:42:11.590Z,35.6528333,-117.455,6.93,0.5,ml,4,263,0.1997,0.05,ci,ci40363744,2022-10-20T11:45:41.281Z,"14km SSW of Searles Valley, CA",earthquake,1.88,31.61,0.186,6,automatic,ci,ci
 2022-10-20T11:41:34.990Z,33.4893333,-116.4933333,9.63,0.6,ml,22,61,0.06594,0.16,ci,ci40363736,2022-10-20T11:45:09.117Z,"18km ESE of Anza, CA",earthquake,0.26,0.61,0.152,15,automatic,ci,ci
@@ -33,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-20T08:13:51.060Z,17.985,-66.8401666666667,17.56,2.19,md,8,233,0.0385,0.1,pr,pr71378548,2022-10-20T08:31:42.550Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.67,0.5,0.0699157863373356,6,reviewed,pr,pr
 2022-10-20T08:13:09.570Z,38.833168,-122.8763351,2.88,0.37,md,12,123,0.007509,0.03,nc,nc73796781,2022-10-20T08:14:47.608Z,"12km WNW of The Geysers, CA",earthquake,0.46,0.76,0.02,2,automatic,nc,nc
 2022-10-20T08:06:01.998Z,60.4721,-148.3521,1,1.9,ml,,,,0.38,ak,ak022dgp9fzb,2022-10-20T08:07:47.209Z,"38 km SSE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-10-20T08:04:21.480Z,38.8206673,-122.8151703,1.98,1.41,md,27,49,0.004824,0.02,nc,nc73796776,2022-10-20T09:15:15.086Z,"7km NW of The Geysers, CA",earthquake,0.18,0.32,0.16,5,automatic,nc,nc
+2022-10-20T08:04:21.480Z,38.8206673,-122.8151703,1.98,1.41,md,27,49,0.004824,0.02,nc,nc73796776,2022-10-20T12:10:13.161Z,"7km NW of The Geysers, CA",earthquake,0.18,0.32,0.16,5,automatic,nc,nc
 2022-10-20T08:03:12.980Z,38.8256683,-122.802002,2.5,0.97,md,22,56,0.006701,0.01,nc,nc73796771,2022-10-20T08:04:46.183Z,"7km NW of The Geysers, CA",earthquake,0.23,0.47,0.09,4,automatic,nc,nc
 2022-10-20T08:00:55.580Z,19.2253341674805,-155.395660400391,32.7999992370605,2,ml,46,147,,0.119999997,hv,hv73187252,2022-10-20T08:06:25.840Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.57,0.540000021,4.45,4,automatic,hv,hv
 2022-10-20T07:55:16.770Z,40.3495,-123.5185,33.05,4.32,mw,52,35,0.02882,0.14,nc,nc73796766,2022-10-20T11:42:13.982Z,"36km NE of Redway, CA",earthquake,0.28,0.48,,4,reviewed,nc,nc
@@ -84,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-20T04:30:55.910Z,38.8190002,-122.8071671,3,2.17,md,33,39,0.004941,0.04,nc,nc73796616,2022-10-20T06:49:17.209Z,"6km NW of The Geysers, CA",earthquake,0.19,0.36,0.08,9,automatic,nc,nc
 2022-10-20T04:17:51.410Z,19.2193336486816,-155.503829956055,34.5099983215332,2.14,ml,46,71,,0.129999995,hv,hv73186987,2022-10-20T05:20:05.040Z,"3 km NW of Pāhala, Hawaii",earthquake,0.61,0.829999983,3.31,7,automatic,hv,hv
 2022-10-20T04:15:59.776Z,31.64203712,-104.2143345,6.774267578,3.5,ml,15,65,0.05230405448,0.1,tx,tx2022unvi,2022-10-20T06:18:24.907Z,"54 km NW of Toyah, Texas",earthquake,1.55406016,1.850100873,0.2,12,reviewed,tx,tx
-2022-10-20T04:13:54.056Z,64.6596,-151.0532,8.3,1.5,ml,,,,0.8,ak,ak022dgmxbl9,2022-10-20T04:15:51.231Z,"42 km SSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-10-20T04:13:54.056Z,64.6596,-151.0532,8.3,1.5,ml,,,,0.8,ak,ak022dgmxbl9,2022-10-20T04:15:51.231Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-20T04:12:51.750Z,33.3136667,-116.7573333,11.99,0.69,ml,18,70,0.1468,0.1,ci,ci40363664,2022-10-20T04:16:27.960Z,"8km N of Lake Henshaw, CA",earthquake,0.21,0.85,0.199,16,automatic,ci,ci
 2022-10-20T04:07:24.660Z,38.8168335,-122.8178329,2.04,0.75,md,16,49,0.008925,0.02,nc,nc73796606,2022-10-20T06:19:17.028Z,"7km NW of The Geysers, CA",earthquake,0.26,0.64,0.11,2,automatic,nc,nc
 2022-10-20T04:03:01.220Z,19.203332901001,-155.482666015625,33.4500007629395,2.03,ml,38,132,,0.159999996,hv,hv73186957,2022-10-20T04:08:30.460Z,"0 km W of Pāhala, Hawaii",earthquake,0.65,1.07000005,0.14,4,automatic,hv,hv
@@ -328,4 +334,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-19T12:21:13.340Z,18.0141666666667,-66.8295,14.9,2.14,md,11,118,0.0438,0.12,pr,pr71378373,2022-10-19T13:15:42.450Z,"2 km NNW of Indios, Puerto Rico",earthquake,0.33,0.43,0.0317199262801271,4,reviewed,pr,pr
 2022-10-19T12:19:55.522Z,31.66834489,-104.4949698,6.414355469,2,ml,14,87,0.004951448467,0.2,tx,tx2022umpu,2022-10-19T17:56:21.018Z,"57 km S of Whites City, New Mexico",earthquake,2.244738726,1.023645639,0.1,10,reviewed,tx,tx
 2022-10-19T12:16:34.380Z,38.8230019,-122.8533325,2.76,0.37,md,7,129,0.02075,0.02,nc,nc73795691,2022-10-19T14:45:14.556Z,"10km WNW of The Geysers, CA",earthquake,0.67,2.41,,1,automatic,nc,nc
-2022-10-19T11:58:54.410Z,46.374833333333335,-122.291,15.63,0.43,ml,18,192,0.05664,0.21,uw,uw61888761,2022-10-19T18:15:09.550Z,"Washington",earthquake,0.76,0.69,0.16934963342538017,11,reviewed,uw,uw
