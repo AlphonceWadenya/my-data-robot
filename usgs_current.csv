@@ -65,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-27T04:50:39.780Z,33.4691667,-116.4383333,12,0.84,ml,44,43,0.05511,0.16,ci,ci40366568,2022-10-27T14:24:59.688Z,"24km ESE of Anza, CA",earthquake,0.18,0.46,0.173,19,reviewed,ci,ci
 2022-10-27T04:29:11.160Z,37.3110008,-121.6771698,6.96,2.28,md,52,61,0.04118,0.06,nc,nc73799666,2022-10-27T06:14:10.632Z,"14km E of Seven Trees, CA",earthquake,0.15,0.3,0.15,58,automatic,nc,nc
 2022-10-27T03:54:07.090Z,19.0863333333333,-65.3991666666667,35.9,3.31,md,21,251,0.7826,0.25,pr,pr71379918,2022-10-27T05:30:46.330Z,"85 km NNE of Luquillo, Puerto Rico",earthquake,1.94,8.54,0.0753944811570637,18,reviewed,pr,pr
-2022-10-27T03:41:32.280Z,36.851,-97.7895,5.41,2.13,ml,94,65,0.142172101,0.3,ok,ok2022vaos,2022-10-27T12:23:29.684Z,"Oklahoma",earthquake,,0.7,0.23,39,reviewed,ok,ok
+2022-10-27T03:41:32.280Z,36.851,-97.7895,5.41,2.13,ml,94,65,0.142172101,0.3,ok,ok2022vaos,2022-10-27T12:23:29.684Z,"6 km NW of Medford, Oklahoma",earthquake,,0.7,0.23,39,reviewed,ok,ok
 2022-10-27T03:40:12.460Z,36.6883316,-121.0195007,4.13,1.69,md,7,177,0.1108,0.21,nc,nc73799651,2022-10-27T05:25:13.299Z,"21km NNE of Pinnacles, CA",earthquake,3.52,17.43,0.08,6,automatic,nc,nc
 2022-10-27T03:29:07.137Z,63.2671,-150.4723,119.3,2.1,ml,,,,0.24,ak,ak022ds76na1,2022-10-27T03:32:09.579Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2022-10-27T02:58:17.398Z,60.2526,-152.3674,100.2,1.9,ml,,,,0.14,ak,ak022ds6rg8b,2022-10-27T03:19:57.040Z,"44 km WNW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -165,5 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-26T15:18:19.752Z,43.1735,-126.5005,10,3.2,ml,17,266,1.553,0.61,us,us7000ikhh,2022-10-27T12:17:21.019Z,"off the coast of Oregon",earthquake,3.54,2.018,0.04,83,reviewed,us,us
 2022-10-26T15:07:36.570Z,36.2543335,-120.456337,7.34,2.08,md,11,120,0.1064,0.05,nc,nc73799456,2022-10-26T15:51:21.534Z,"15km NW of Coalinga, CA",earthquake,0.45,0.59,0.15,7,automatic,nc,nc
 2022-10-26T15:06:10.096Z,37.807,77.8652,10,4.2,mb,23,90,3.676,1.17,us,us7000ikhf,2022-10-26T22:23:18.040Z,"87 km SE of Shache, China",earthquake,5.79,1.968,0.216,6,reviewed,us,us
-2022-10-26T14:46:06.280Z,18.0431666666667,-66.8163333333333,15.18,2.4,md,13,98,0.04222,0.12,pr,pr71379848,2022-10-26T14:57:37.040Z,"Puerto Rico",earthquake,0.3,0.48,0.211525395400119,11,reviewed,pr,pr
-2022-10-26T14:45:52.540Z,33.7976667,-116.0891667,8.14,0.88,ml,21,129,0.1102,0.16,ci,ci40366232,2022-10-26T19:18:27.443Z,"14km NE of Indio, CA",earthquake,0.33,1.02,0.144,13,reviewed,ci,ci
