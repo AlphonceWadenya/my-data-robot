@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-10-29T19:30:31.320Z,19.4190006256104,-155.261169433594,1.16999995708466,1.75,md,9,98,,0.119999997,hv,hv73200112,2022-10-29T19:33:25.780Z,"3 km SW of Volcano, Hawaii",earthquake,0.25,0.270000011,0.879999995,9,automatic,hv,hv
+2022-10-29T19:25:23.500Z,17.9995,-66.8303333333333,15.77,2.11,md,11,165,0.05253,0.17,pr,pr71380203,2022-10-29T19:37:15.340Z,"1 km WNW of Indios, Puerto Rico",earthquake,0.5,0.56,0.130746567160427,8,reviewed,pr,pr
 2022-10-29T19:17:56.120Z,65.0026,-147.4958,15.4,1,ml,,,,1.36,ak,ak022dvrpt5k,2022-10-29T19:20:15.726Z,"7 km NE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-29T19:06:02.374Z,-7.0321,150.0059,39.687,5.2,mb,32,66,3.546,0.78,us,us7000il7d,2022-10-29T19:28:38.040Z,"104 km SSE of Kandrian, Papua New Guinea",earthquake,9.68,11.184,0.103,31,reviewed,us,us
 2022-10-29T19:02:01.580Z,19.4044990539551,-155.271499633789,0.25,1.71000004,md,13,70,,0.140000001,hv,hv73200092,2022-10-29T19:04:54.290Z,"5 km SW of Volcano, Hawaii",earthquake,0.2,0.330000013,1.13,8,automatic,hv,hv
@@ -179,8 +180,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T20:00:36.340Z,32.828,-117.058,-0.17,1.01,ml,15,98,0.07163,0.25,ci,ci40126471,2022-10-28T21:51:23.840Z,"7km NNW of La Mesa, CA",quarry blast,0.54,31.61,0.155,6,reviewed,ci,ci
 2022-10-28T19:59:19.340Z,33.874,-117.4961667,-0.53,1.29,ml,30,51,0.07068,0.22,ci,ci40126463,2022-10-28T21:47:57.102Z,"2km ESE of Home Gardens, CA",quarry blast,0.34,31.61,0.155,24,reviewed,ci,ci
 2022-10-28T19:57:05.631Z,62.6096,-150.4489,65.1,2,ml,,,,0.72,ak,ak022du4exdv,2022-10-28T19:59:24.456Z,"20 km NE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-10-28T19:50:45.227Z,61.3392,-141.1404,11.1,1.6,ml,,,,0.13,ak,ak022du4dife,2022-10-28T19:52:34.177Z,"95 km E of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-10-28T19:50:45.227Z,61.3392,-141.1404,11.1,1.6,ml,,,,0.13,ak,ak022du4dife,2022-10-28T19:52:34.177Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-10-28T19:50:05.400Z,33.1578333,-116.593,8.33,0.96,ml,35,78,0.06139,0.17,ci,ci40126447,2022-10-28T21:45:01.970Z,"9km N of Julian, CA",earthquake,0.26,0.46,0.125,23,reviewed,ci,ci
 2022-10-28T19:47:40.247Z,57.9466,-157.0667,8.6,1.6,ml,,,,0.72,ak,ak022du4cusq,2022-10-28T19:50:21.001Z,"35 km SSE of Egegik, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-10-28T19:37:43.760Z,34.7738333,-118.9518333,14.76,1.88,ml,18,96,0.01448,0.13,ci,ci40126439,2022-10-28T21:39:52.739Z,"6km S of Frazier Park, CA",earthquake,0.32,0.49,0.117,9,reviewed,ci,ci
-2022-10-28T19:37:25.120Z,34.7885,-118.9491667,12.97,2.37,ml,60,25,0.02127,0.25,ci,ci40126431,2022-10-28T21:36:47.660Z,"4km S of Frazier Park, CA",earthquake,0.26,0.45,0.188,24,reviewed,ci,ci
