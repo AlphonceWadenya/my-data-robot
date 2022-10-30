@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-30T09:44:00.985Z,62.0946,-148.8742,20,1.7,ml,,,,0.59,ak,ak022dx9ghmw,2022-10-30T09:45:56.967Z,"35 km N of Sutton-Alpine, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-10-30T09:41:39.740Z,34.53200531,-97.3381424,1.167500734,1.88,ml,19,127.2053757,0.02623347007,0.7904554883,ok,ok2022vgnc,2022-10-30T09:44:23.629Z,"5 km SSE of Katie, Oklahoma",earthquake,3.329886857,2.106545225,,14,automatic,ok,ok
+2022-10-30T09:24:04.766Z,-11.462,163.3882,10,4.8,mb,51,45,3.936,0.47,us,us7000ilb1,2022-10-30T09:42:52.040Z,"195 km SE of Kirakira, Solomon Islands",earthquake,5.57,1.867,0.078,51,reviewed,us,us
 2022-10-30T08:59:23.758Z,36.6454,-116.136,0.4,0.1,ml,8,252.12,0.044,0.3158,nn,nn00850237,2022-10-30T09:01:47.988Z,"42 km WNW of Indian Springs, Nevada",earthquake,,0.6,0.25,3,automatic,nn,nn
 2022-10-30T08:26:33.199Z,29.23736572,-97.46863511,3.301391602,3.6,ml,32,79,0.05306148933,0.3,tx,tx2022vgkq,2022-10-30T09:06:56.905Z,"16 km ESE of Smiley, Texas",earthquake,2.270538719,1.59521421,0.1,7,reviewed,tx,tx
 2022-10-30T08:16:03.090Z,34.0470009,-117.2333298,14.95,3.05,ml,120,15,0.0713,0.19,ci,ci40127223,2022-10-30T09:19:38.639Z,"3km E of Loma Linda, CA",earthquake,0.21,0.35,0.239,19,automatic,ci,ci
