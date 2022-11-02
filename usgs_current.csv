@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-02T20:52:07.980Z,38.1231,-118.0071,9.4,1,ml,11,149.14,0.041,0.1888,nn,nn00850485,2022-11-02T20:55:35.281Z,"30 km SSE of Mina, Nevada",earthquake,,0.6,0.33,5,automatic,nn,nn
 2022-11-02T20:32:45.760Z,38.8305016,-122.796669,1.52,0.33,md,13,49,0.009314,0.02,nc,nc73802506,2022-11-02T20:47:11.297Z,"6km W of Cobb, CA",earthquake,0.25,0.71,0.35,2,automatic,nc,nc
 2022-11-02T20:13:10.440Z,19.1725006103516,-155.503494262695,35.5499992370605,1.88,md,33,238,,0.100000001,hv,hv73205052,2022-11-02T20:16:26.310Z,"4 km SW of Pāhala, Hawaii",earthquake,0.66,1.13,1.91999996,4,automatic,hv,hv
 2022-11-02T20:04:47.170Z,38.8390007,-122.8361664,1.51,0.96,md,23,83,0.0006712,0.02,nc,nc73802496,2022-11-02T20:16:11.106Z,"10km NW of The Geysers, CA",earthquake,0.18,0.36,0.07,4,automatic,nc,nc
