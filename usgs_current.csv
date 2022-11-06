@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-06T05:43:25.237Z,63.6042,-147.7141,0,1.8,ml,,,,0.8,ak,ak022e8ru0uj,2022-11-06T05:46:03.233Z,"61 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-06T05:20:41.002Z,60.8083,-146.5876,21.6,1.9,ml,,,,0.76,ak,ak022e8rp4lg,2022-11-06T05:22:33.059Z,"8 km SE of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-11-06T05:12:01.970Z,38.8206673,-122.8006668,-0.63,0.93,md,10,93,0.007837,0.03,nc,nc73804286,2022-11-06T05:22:11.324Z,"6km NW of The Geysers, CA",earthquake,0.23,0.81,0.29,2,automatic,nc,nc
+2022-11-06T05:12:01.970Z,38.8206673,-122.8006668,-0.63,0.93,md,10,93,0.007837,0.03,nc,nc73804286,2022-11-06T05:41:14.302Z,"6km NW of The Geysers, CA",earthquake,0.23,0.81,0.29,2,automatic,nc,nc
 2022-11-06T05:11:17.570Z,19.4284992218018,-155.270004272461,0.75,2.19000006,md,12,121,,0.170000002,hv,hv73209902,2022-11-06T05:14:17.420Z,"Hawaii region, Hawaii",earthquake,0.22,0.310000002,0.270000011,9,automatic,hv,hv
 2022-11-06T05:06:39.590Z,33.293,-116.0763333,1.01,1.08,ml,29,73,0.145,0.29,ci,ci40129495,2022-11-06T05:10:18.034Z,"11km W of Salton City, CA",earthquake,0.42,31.61,0.168,24,automatic,ci,ci
 2022-11-06T05:05:06.250Z,38.8363342,-122.8105011,2.12,0.36,md,8,96,0.01292,0.01,nc,nc73804281,2022-11-06T05:29:13.231Z,"8km WNW of Cobb, CA",earthquake,0.47,1.7,,1,automatic,nc,nc
