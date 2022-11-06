@@ -216,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-05T22:02:04.991Z,63.3042,-148.3996,77.1,1.7,ml,,,,0.74,ak,ak022e7e67pv,2022-11-05T22:04:34.106Z,"29 km ESE of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-11-05T22:00:47.300Z,39.5784,-120.6659,9.7,1.5,ml,8,216.18,0.048,0.1884,nn,nn00850672,2022-11-06T01:28:21.533Z,"3 km WNW of Sierra City, California",earthquake,,2.4,0.39,4,reviewed,nn,nn
 2022-11-05T21:59:42.680Z,33.7016667,-116.7335,14.25,0.63,ml,24,94,0.0187,0.11,ci,ci40129383,2022-11-06T18:30:52.144Z,"4km SSW of Idyllwild, CA",earthquake,0.25,0.3,0.221,6,reviewed,ci,ci
-2022-11-05T21:58:11.760Z,33.069,-115.7913333,6.97,1.22,ml,31,75,0.05423,0.22,ci,ci40129375,2022-11-06T18:25:10.006Z,"16km WNW of Westmorland, CA",earthquake,0.23,0.62,0.203,13,reviewed,ci,ci
-2022-11-05T21:55:45.841Z,60.1896,-152.5889,102.9,1.8,ml,,,,0.75,ak,ak022e7dw87o,2022-11-05T21:58:49.761Z,"53 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
