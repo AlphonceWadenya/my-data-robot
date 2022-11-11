@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-11T09:19:50.534Z,62.5457,-150.9877,73.8,3.7,ml,,,,0.41,ak,ak022eh3regx,2022-11-11T09:34:08.547Z,"12 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-11-11T09:42:26.336Z,62.1853,-150.0984,15,1.7,ml,,,,0.64,ak,ak022eh3wa3t,2022-11-11T09:44:28.411Z,"13 km WNW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-11-11T09:40:06.920Z,33.3571667,-116.2696667,4.57,0.97,ml,22,106,0.03382,0.23,ci,ci40131007,2022-11-11T09:43:43.330Z,"15km NE of Borrego Springs, CA",earthquake,0.4,0.57,0.138,24,automatic,ci,ci
+2022-11-11T09:19:50.534Z,62.5457,-150.9877,73.8,3.7,ml,,,,0.41,ak,ak022eh3regx,2022-11-11T09:42:36.254Z,"12 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-11T09:17:59.711Z,61.1358,-147.2565,11.8,1.6,ml,,,,0.43,ak,ak022eh3qzs3,2022-11-11T09:20:04.503Z,"43 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-11T09:10:10.630Z,33.4735,-116.7795,1.77,0.7,ml,24,50,0.0425,0.24,ci,ci40130999,2022-11-11T09:13:44.300Z,"9km ENE of Aguanga, CA",earthquake,0.31,0.48,0.084,19,automatic,ci,ci
 2022-11-11T09:00:48.358Z,61.1205,-148.2699,3.5,1,ml,,,,0.37,ak,ak022eh3nbqb,2022-11-11T09:02:20.794Z,"44 km NNE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
