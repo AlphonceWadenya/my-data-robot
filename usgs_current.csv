@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-12T13:45:58.805Z,62.684,-152.2477,3.7,1.9,ml,,,,0.69,ak,ak022eitu2o8,2022-11-12T13:48:27.935Z,"78 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-12T13:45:44.440Z,37.4985008,-121.6090012,6.23,1.08,md,14,83,0.04076,0.06,nc,nc73804295,2022-11-12T13:47:21.875Z,"24km NE of Alum Rock, CA",earthquake,0.26,0.72,0.14,11,automatic,nc,nc
+2022-11-12T13:45:07.400Z,41.5105019,-112.1813354,5.8,3.6,ml,69,79,0.09511,0.24,uu,uu60524772,2022-11-12T13:51:33.538Z,"7 km SW of Corinne, Utah",earthquake,0.29,0.48,0.23,36,automatic,uu,uu
 2022-11-12T13:21:50.470Z,38.8383331,-122.8081665,2.21,0.36,md,9,116,0.01392,0.01,nc,nc73804290,2022-11-12T13:39:16.086Z,"8km WNW of Cobb, CA",earthquake,0.4,0.92,,1,automatic,nc,nc
 2022-11-12T13:18:47.733Z,-8.0276,107.4458,57.583,5.2,mb,82,54,0.597,0.6,us,us7000ipau,2022-11-12T13:43:41.609Z,"Java, Indonesia",earthquake,7.19,6.075,0.055,107,reviewed,us,us
 2022-11-12T13:16:17.404Z,37.2234,-117.2464,14.7,0.4,ml,10,148.16,0.078,0.3288,nn,nn00851175,2022-11-12T13:18:57.561Z,"53 km S of Goldfield, Nevada",earthquake,,1,0.62,3,automatic,nn,nn
