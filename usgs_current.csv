@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-13T21:35:28.870Z,-20.0317,-177.8636,595.15,4.9,mb,21,77,2.736,0.96,us,us7000ipif,2022-11-13T21:47:04.040Z,"Fiji region",earthquake,8.88,26.157,0.145,15,reviewed,us,us
 2022-11-13T21:09:34.450Z,19.1801662445068,-155.504669189453,35.9199981689453,2.02,ml,41,97,,0.109999999,hv,hv73220312,2022-11-13T21:15:04.720Z,"3 km SW of Pāhala, Hawaii",earthquake,0.56,0.819999993,4.11,6,automatic,hv,hv
 2022-11-13T21:08:15.120Z,19.2268333435059,-155.435836791992,32.4199981689453,2.03999996,md,26,122,,0.119999997,hv,hv73220307,2022-11-13T21:12:32.720Z,"5 km ENE of Pāhala, Hawaii",earthquake,0.66,0.829999983,1.36000001,3,automatic,hv,hv
 2022-11-13T20:54:59.402Z,-32.121,-72.1303,10,4.4,mb,32,167,0.987,0.76,us,us7000ipi8,2022-11-13T21:20:27.040Z,"Off the coast of Valparaiso, Chile",earthquake,3.44,1.977,0.268,4,reviewed,us,us
@@ -159,7 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-12T23:40:11.197Z,60.6007,-151.3066,1.7,2.1,ml,,,,0.66,ak,ak022eizr8gv,2022-11-13T00:15:10.467Z,"1 km SSE of Salamatof, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-12T23:38:14.313Z,63.0406,-151.5376,14.1,1.6,ml,,,,0.53,ak,ak022eizqta0,2022-11-12T23:40:57.818Z,"56 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-12T23:37:00.119Z,-23.4167,-66.8542,245.417,4.1,mb,20,108,1.304,0.24,us,us7000ipde,2022-11-13T00:12:37.040Z,"104 km NNW of San Antonio de los Cobres, Argentina",earthquake,6.02,14.272,0.37,2,reviewed,us,us
-2022-11-12T23:35:58.930Z,33.2193333,-116.744,11.44,1.24,ml,39,33,0.0207,0.15,ci,ci40131687,2022-11-12T23:47:03.640Z,"3km SE of Lake Henshaw, CA",earthquake,0.2,0.62,0.136,26,automatic,ci,ci
+2022-11-12T23:35:58.910Z,33.2188333,-116.7491667,11.01,1.25,ml,59,23,0.0189,0.16,ci,ci40131687,2022-11-13T21:43:23.210Z,"3km SSE of Lake Henshaw, CA",earthquake,0.15,0.44,0.142,32,reviewed,ci,ci
 2022-11-12T23:33:26.897Z,57.0464,-157.1679,78.1,2.6,ml,,,,0.53,ak,ak022eizpro1,2022-11-13T00:04:51.040Z,"53 km SSE of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-12T23:31:05.908Z,60.7381,-150.9553,46.1,1.6,ml,,,,0.39,ak,ak022eizpam6,2022-11-12T23:32:52.152Z,"18 km ENE of Nikiski, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-11-12T23:09:02.281Z,38.0278,-116.8948,5.2,1.5,ml,12,227.63,0.643,0.2242,nn,nn00851195,2022-11-12T23:12:06.336Z,"29 km E of Tonopah, Nevada",earthquake,,2.6,0.9,9,automatic,nn,nn
@@ -177,5 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-12T21:49:39.980Z,38.8326683,-122.8148346,1.8,1.03,md,15,55,0.009978,0.02,nc,nc73804445,2022-11-12T22:56:13.591Z,"8km NW of The Geysers, CA",earthquake,0.27,0.71,,1,automatic,nc,nc
 2022-11-12T21:49:31.530Z,38.8328323,-122.8150024,1.78,0.9,md,21,45,0.01018,0.02,nc,nc73804440,2022-11-13T00:12:13.975Z,"8km NW of The Geysers, CA",earthquake,0.2,0.46,0.2,4,automatic,nc,nc
 2022-11-12T21:48:51.260Z,38.833168,-122.8153305,1.76,0.96,md,19,54,0.01059,0.01,nc,nc73804435,2022-11-12T23:47:16.824Z,"8km NW of The Geysers, CA",earthquake,0.21,0.43,0.07,4,automatic,nc,nc
-2022-11-12T21:45:33.420Z,38.8113327,-122.8280029,1.35,1.34,md,24,48,0.01298,0.03,nc,nc73804425,2022-11-12T23:03:10.495Z,"7km WNW of The Geysers, CA",earthquake,0.18,0.35,0.15,5,automatic,nc,nc
-2022-11-12T21:43:29.101Z,35.71029663,-98.64093018,1.577197194,2.17,ml,14,121.1302338,0.07548247278,0.6505070713,ok,ok2022wfem,2022-11-12T21:45:50.143Z,"10 km ESE of Thomas, Oklahoma",earthquake,3.36426831,2.533655792,,12,automatic,ok,ok
