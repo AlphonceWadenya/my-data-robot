@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-15T19:28:24.580Z,38.2336,-117.8348,0,2.3,ml,14,147.45,0.123,0.3799,nn,nn00851327,2022-11-15T19:32:28.605Z,"29 km SE of Mina, Nevada",earthquake,,5.2,0.55,7,automatic,nn,nn
 2022-11-15T19:04:42.790Z,32.5376667,-117.264,6.42,0.99,ml,7,290,0.4188,0.13,ci,ci40132831,2022-11-15T19:08:17.164Z,"15km WSW of Imperial Beach, CA",earthquake,2.34,6.89,0.059,4,automatic,ci,ci
-2022-11-15T18:51:01.260Z,38.8465004,-122.8170013,1.42,0.91,md,10,97,0.01761,0.02,nc,nc73807861,2022-11-15T19:05:11.957Z,"9km WNW of Cobb, CA",earthquake,0.29,0.83,0.36,2,automatic,nc,nc
+2022-11-15T18:51:01.260Z,38.8465004,-122.8170013,1.42,0.91,md,10,97,0.01761,0.02,nc,nc73807861,2022-11-15T19:32:12.120Z,"9km WNW of Cobb, CA",earthquake,0.29,0.83,0.36,2,automatic,nc,nc
 2022-11-15T18:48:01.531Z,60.559,-142.7462,25.1,0.5,ml,,,,0.12,ak,ak022envfswp,2022-11-15T18:49:41.535Z,"97 km S of McCarthy, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-11-15T18:45:17.049Z,59.748,-153.0766,105.4,1.6,ml,,,,0.38,ak,ak022envf6yg,2022-11-15T18:48:32.127Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-15T18:33:19.844Z,57.8074,-156.073,5,1.6,ml,,,,0.5,ak,ak022envcmkw,2022-11-15T18:35:26.834Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
@@ -279,5 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-14T19:44:09.550Z,19.1696662902832,-155.486999511719,32.7400016784668,2.08999991,md,27,102,,0.140000001,hv,hv73221552,2022-11-14T19:47:15.830Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.58,0.910000026,1.03999996,3,automatic,hv,hv
 2022-11-14T19:43:23.440Z,46.316,-122.35733333333333,14.66,0.41000000000000003,ml,9,151,0.015,0.18,uw,uw61894376,2022-11-15T01:21:20.490Z,"25 km SSE of Mossyrock, Washington",earthquake,0.87,0.79,0.13031055805428154,9,reviewed,uw,uw
 2022-11-14T19:39:39.680Z,38.8336678,-122.8148346,2.09,0.36,md,8,76,0.01091,0.04,nc,nc73805055,2022-11-14T19:51:10.652Z,"8km W of Cobb, CA",earthquake,0.45,0.88,,1,automatic,nc,nc
-2022-11-14T19:35:10.840Z,51.86,-177.981,4.92,0.72,ml,4,157,,0.11,av,av91715996,2022-11-15T04:15:29.650Z,"92 km W of Adak, Alaska",earthquake,0.51,0.91,0.555114031977598,4,reviewed,av,av
-2022-11-14T19:31:10.563Z,62.2398,-148.8196,40.4,1.5,ml,,,,0.35,ak,ak022em8e9jk,2022-11-14T19:33:20.010Z,"Central Alaska",earthquake,,1.8,,,automatic,ak,ak
