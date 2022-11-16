@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-16T09:40:57.860Z,38.8276672,-122.7898331,1.38,0.85,md,10,74,0.01073,0.02,nc,nc73808081,2022-11-16T09:42:31.155Z,"6km W of Cobb, CA",earthquake,0.38,1.26,,1,automatic,nc,nc
+2022-11-16T09:51:30.630Z,33.233,-116.0208333,2.25,1.53,ml,32,85,0.06948,0.26,ci,ci40133079,2022-11-16T09:55:09.604Z,"10km SW of Salton City, CA",earthquake,0.43,0.69,0.139,27,automatic,ci,ci
+2022-11-16T09:40:57.860Z,38.8276672,-122.7898331,1.38,0.85,md,10,74,0.01073,0.02,nc,nc73808081,2022-11-16T09:52:10.258Z,"6km W of Cobb, CA",earthquake,0.38,1.26,,1,automatic,nc,nc
 2022-11-16T09:40:39.620Z,35.7035,-117.5785,10.27,1.03,ml,7,208,0.1131,0.16,ci,ci40133071,2022-11-16T09:47:40.824Z,"13km NE of Ridgecrest, CA",earthquake,0.89,1.07,0.096,8,automatic,ci,ci
 2022-11-16T09:34:29.835Z,60.0444,-152.6269,95.6,1.1,ml,,,,0.29,ak,ak022epdjb47,2022-11-16T09:36:51.378Z,"51 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-16T09:22:44.754Z,-5.3468,102.3553,32.34,5.1,mb,58,93,1.148,0.71,us,us7000iq39,2022-11-16T09:40:00.040Z,"southern Sumatra, Indonesia",earthquake,7.13,4.364,0.08,50,reviewed,us,us
@@ -149,7 +150,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-15T16:20:35.170Z,34.0233333,-117.2253333,15.64,2.49,ml,98,23,0.09456,0.19,ci,ci40132743,2022-11-16T03:02:56.673Z,"4km SE of Loma Linda, CA",earthquake,0.14,0.31,0.145,111,reviewed,ci,ci
 2022-11-15T16:19:46.400Z,19.4603328704834,-155.594833374023,-2.44000005722046,1.9,ml,16,72,,0.319999993,hv,hv73222737,2022-11-15T16:25:17.250Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.55,0.300000012,3.67,6,automatic,hv,hv
 2022-11-15T16:13:01.829Z,12.9753,-88.8837,59.531,4.5,mb,44,181,0.734,0.53,us,us7000ipwz,2022-11-15T19:49:58.040Z,"49 km SW of Puerto El Triunfo, El Salvador",earthquake,5.98,8.537,0.106,28,reviewed,us,us
-2022-11-15T16:08:09.726Z,62.5602,-149.7491,3.5,1.4,ml,,,,0.51,ak,ak022enu0dos,2022-11-15T16:10:08.632Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-11-15T16:08:09.726Z,62.5602,-149.7491,3.5,1.4,ml,,,,0.51,ak,ak022enu0dos,2022-11-15T16:10:08.632Z,"21 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-15T16:02:41.970Z,33.5731667,-116.5956667,13.45,0.87,ml,38,48,0.02495,0.12,ci,ci40132711,2022-11-15T22:24:20.779Z,"8km ENE of Anza, CA",earthquake,0.15,0.24,0.135,20,reviewed,ci,ci
 2022-11-15T16:01:36.800Z,35.9786667,-120.9305,5.65,0.74,md,16,115,0.05695,0.09,nc,nc73807791,2022-11-15T23:16:13.623Z,"5km SSW of San Ardo, CA",earthquake,0.25,0.43,0.221,13,reviewed,nc,nc
 2022-11-15T15:49:26.710Z,58.2246666666667,-155.103333333333,4.95,0.57,ml,14,78,,0.08,av,av91716631,2022-11-16T00:18:32.830Z,"82 km NNW of Karluk, Alaska",earthquake,0.19,0.5,0.28569035896703,14,reviewed,av,av
