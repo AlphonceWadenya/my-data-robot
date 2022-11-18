@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-11-18T09:35:23.636Z,38.2013,-117.7469,0.6,1.8,ml,19,145.32,0.128,0.307,nn,nn00851527,2022-11-18T09:38:26.820Z,"37 km ESE of Mina, Nevada",earthquake,,3.2,0.84,10,automatic,nn,nn
-2022-11-18T09:26:35.910Z,36.8396683,-121.6101685,1.43,1.41,md,15,136,0.04703,0.23,nc,nc73808801,2022-11-18T09:28:10.429Z,"6km SSE of Aromas, CA",earthquake,0.67,2.69,0.3,10,automatic,nc,nc
+2022-11-18T09:26:35.910Z,36.8396683,-121.6101685,1.43,1.41,md,15,136,0.04703,0.23,nc,nc73808801,2022-11-18T09:41:11.472Z,"6km SSE of Aromas, CA",earthquake,0.67,2.69,0.3,10,automatic,nc,nc
 2022-11-18T09:24:56.782Z,60.1077,-152.7856,98.2,1.9,ml,,,,0.52,ak,ak022esojx0u,2022-11-18T09:27:12.696Z,"61 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-18T09:14:33.981Z,61.5134,-147.2433,25.8,1.1,ml,,,,0.66,ak,ak022esohq40,2022-11-18T09:17:40.861Z,"39 km SSE of Glacier View, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-11-18T09:04:43.719Z,60.9199,-152.1195,90.8,1.6,ml,,,,0.61,ak,ak022esofloz,2022-11-18T09:06:30.101Z,"51 km WNW of Nikiski, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -34,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-18T06:21:27.910Z,36.0886667,-117.8873333,3.2,0.74,ml,10,121,0.03904,0.19,ci,ci40377480,2022-11-18T06:25:03.408Z,"7km NE of Coso Junction, CA",earthquake,0.58,0.81,0.145,4,automatic,ci,ci
 2022-11-18T06:17:05.580Z,37.6383324,-118.8615036,4.68,0.42,md,8,107,0.01934,0.02,nc,nc73808756,2022-11-18T06:51:14.351Z,"10km E of Mammoth Lakes, CA",earthquake,0.69,1.44,0.26,6,automatic,nc,nc
 2022-11-18T06:15:57.100Z,37.6455,-118.8658333,5.16,-0.03,md,8,123,0.02463,0.03,nc,nc73808761,2022-11-18T09:35:22.542Z,"10km E of Mammoth Lakes, CA",earthquake,0.93,2.39,0.201,6,reviewed,nc,nc
-2022-11-18T06:11:07.550Z,37.6415,-118.8613333,6.13,0.17,md,8,113,0.02052,0.04,nc,nc73808751,2022-11-18T09:33:52.292Z,"10km E of Mammoth Lakes, CA",earthquake,0.82,2.68,0.407,7,reviewed,nc,nc
+2022-11-18T06:11:07.550Z,37.6415,-118.8613333,6.13,0.17,md,8,113,0.02052,0.04,nc,nc73808751,2022-11-18T09:44:11.479Z,"10km E of Mammoth Lakes, CA",earthquake,0.82,2.68,0.407,7,reviewed,nc,nc
 2022-11-18T06:09:19.110Z,37.6433334,-118.8641663,3.91,0.97,md,11,117,0.02309,0.02,nc,nc73808746,2022-11-18T07:57:10.748Z,"10km E of Mammoth Lakes, CA",earthquake,0.46,0.99,0.11,11,automatic,nc,nc
 2022-11-18T06:01:22.500Z,33.9708333,-116.7976667,19.6,0.79,ml,18,71,0.0647,0.19,ci,ci40377472,2022-11-18T06:04:51.391Z,"6km N of Cabazon, CA",earthquake,0.39,0.84,0.15,27,automatic,ci,ci
 2022-11-18T05:58:54.790Z,37.6433334,-118.8633347,3.9,0.8,md,11,116,0.02245,0.02,nc,nc73808736,2022-11-18T08:41:13.126Z,"10km E of Mammoth Lakes, CA",earthquake,0.49,1.04,0.06,11,automatic,nc,nc
@@ -48,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-18T05:11:38.420Z,38.8291664,-122.8048325,1.41,0.86,md,16,80,0.007069,0.02,nc,nc73808721,2022-11-18T05:48:13.978Z,"7km W of Cobb, CA",earthquake,0.26,0.5,0.03,3,automatic,nc,nc
 2022-11-18T05:10:30.450Z,38.8286667,-122.8041687,1.42,1.05,md,26,37,0.006999,0.03,nc,nc73808716,2022-11-18T05:37:13.922Z,"7km NW of The Geysers, CA",earthquake,0.19,0.33,0.14,5,automatic,nc,nc
 2022-11-18T05:09:58.950Z,35.513,-118.3961667,4.48,1.47,ml,29,38,0.1624,0.11,ci,ci40377336,2022-11-18T05:13:41.573Z,"12km SE of Bodfish, CA",earthquake,0.17,0.74,0.238,22,automatic,ci,ci
-2022-11-18T04:54:05.160Z,37.645,-118.8608333,4.71,0.34,md,10,174,0.02102,0.02,nc,nc73808706,2022-11-18T09:31:21.917Z,"10km E of Mammoth Lakes, CA",earthquake,0.67,1.08,0.178,9,reviewed,nc,nc
+2022-11-18T04:54:05.160Z,37.645,-118.8608333,4.71,0.34,md,10,174,0.02102,0.02,nc,nc73808706,2022-11-18T09:41:11.342Z,"10km E of Mammoth Lakes, CA",earthquake,0.67,1.08,0.178,9,reviewed,nc,nc
 2022-11-18T04:40:25.506Z,34.90135956,-96.19979858,2.111899853,2.17,ml,16,153.0830078,0.2663069069,0.4654472492,ok,ok2022wovt,2022-11-18T04:43:09.651Z,"8 km SSE of Calvin, Oklahoma",earthquake,3.725880932,2.581679301,,12,automatic,ok,ok
 2022-11-18T04:37:47.610Z,33.7936667,-117.661,2.54,0.93,ml,14,72,0.04328,0.32,ci,ci40377328,2022-11-18T04:41:27.554Z,"12km N of Foothill Ranch, CA",earthquake,0.57,0.76,0.212,14,automatic,ci,ci
 2022-11-18T04:05:49.339Z,59.9965,-140.2993,0.1,1.3,ml,,,,1.39,ak,ak022eslgnth,2022-11-18T04:07:30.374Z,"59 km NNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -97,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-18T00:19:11.570Z,19.4578333333333,-155.596166666667,-1.79,2.36,ml,17,106,,0.12,hv,hv73226227,2022-11-18T00:39:41.180Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.23,0.12,0.182732855186031,8,reviewed,hv,hv
 2022-11-18T00:15:46.960Z,61.4268,-150.2014,31,1.4,ml,,,,0.25,ak,ak022esj52dj,2022-11-18T00:19:08.719Z,"14 km WNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-18T00:13:17.310Z,33.0575,-116.4808333,11.44,0.79,ml,19,76,0.1008,0.21,ci,ci40377288,2022-11-18T00:16:46.230Z,"12km ESE of Julian, CA",earthquake,0.47,1.09,0.11,11,automatic,ci,ci
-2022-11-18T00:08:56.163Z,61.3441,-150.2048,39.4,2.2,ml,,,,0.74,ak,ak022esj3l2o,2022-11-18T01:24:57.986Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-11-18T00:08:56.163Z,61.3441,-150.2048,39.4,2.2,ml,,,,0.74,ak,ak022esj3l2o,2022-11-18T01:24:57.986Z,"12 km W of Point MacKenzie, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-11-18T00:03:09.624Z,61.3718,-150.1529,45.9,4.9,ml,,,,0.6,ak,ak022esj2eua,2022-11-18T09:37:11.581Z,"9 km W of Point MacKenzie, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2022-11-18T00:00:34.960Z,37.282,-121.6548333,3.88,0.82,md,12,78,0.02721,0.07,nc,nc73808641,2022-11-18T05:11:17.765Z,"16km E of Seven Trees, CA",earthquake,0.29,0.49,0.264,12,reviewed,nc,nc
 2022-11-17T23:52:44.760Z,19.1433334350586,-155.488830566406,31.3400001525879,2,md,41,160,,0.109999999,hv,hv73226192,2022-11-17T23:55:48.800Z,"6 km S of Pāhala, Hawaii",earthquake,0.62,0.99000001,1.12,19,automatic,hv,hv
