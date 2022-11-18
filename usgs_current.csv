@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-18T17:27:37.243Z,23.46,102.2462,15.178,5,mb,89,83,2.622,0.55,us,us7000iqt1,2022-11-18T17:47:16.040Z,"93 km W of Gejiu, China",earthquake,7.2,4.16,0.049,133,reviewed,us,us
 2022-11-18T17:27:09.200Z,38.7879982,-122.7278366,1.96,0.86,md,9,90,0.008418,0.01,nc,nc73808931,2022-11-18T18:38:13.790Z,"3km ENE of The Geysers, CA",earthquake,0.36,0.88,,2,automatic,nc,nc
 2022-11-18T17:14:34.088Z,34.3885,26.618,34.029,4.3,mb,49,84,1.681,0.67,us,us7000iqsy,2022-11-18T17:40:24.040Z,"95 km SSE of Palekastro, Greece",earthquake,6.65,4.921,0.086,40,reviewed,us,us
-2022-11-18T16:54:33.130Z,37.502,-119.3898333,16.13,1.57,md,15,111,0.2093,0.11,nc,nc73808921,2022-11-18T18:48:10.816Z,"30km NE of Oakhurst, CA",earthquake,0.7,1.31,0.257,17,reviewed,nc,nc
+2022-11-18T16:54:33.130Z,37.502,-119.3898333,16.13,1.57,md,15,111,0.2093,0.11,nc,nc73808921,2022-11-18T19:32:13.973Z,"30km NE of Oakhurst, CA",earthquake,0.7,1.31,0.257,17,reviewed,nc,nc
 2022-11-18T16:49:14.100Z,19.2196674346924,-155.36116027832,34.3699989318848,1.86000001,md,26,213,,0.119999997,hv,hv73227167,2022-11-18T16:52:32.190Z,"12 km E of Pāhala, Hawaii",earthquake,0.94,0.910000026,0.930000007,3,automatic,hv,hv
 2022-11-18T16:45:13.630Z,33.3971667,-116.3655,2.12,0.71,ml,22,93,0.05824,0.25,ci,ci40377632,2022-11-18T16:48:46.923Z,"16km N of Borrego Springs, CA",earthquake,0.45,0.73,0.074,13,automatic,ci,ci
 2022-11-18T16:42:28.495Z,64.3899,-147.4342,6,1.9,ml,,,,0.47,ak,ak022esstqyp,2022-11-18T16:44:25.393Z,"29 km WSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -143,7 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-18T06:09:19.020Z,37.6415,-118.8635,4.67,0.8,md,14,89,0.02221,0.02,nc,nc73808746,2022-11-18T17:54:15.335Z,"10km E of Mammoth Lakes, CA",earthquake,0.41,0.69,0.186,11,reviewed,nc,nc
 2022-11-18T06:01:22.500Z,33.9708333,-116.7976667,19.6,0.79,ml,18,71,0.0647,0.19,ci,ci40377472,2022-11-18T06:04:51.391Z,"6km N of Cabazon, CA",earthquake,0.39,0.84,0.15,27,automatic,ci,ci
 2022-11-18T06:01:21.420Z,37.6436667,-118.8621667,4.84,0.36,md,14,112,0.02163,0.04,nc,nc73808741,2022-11-18T17:32:13.155Z,"10km E of Mammoth Lakes, CA",earthquake,0.38,0.82,0.097,12,reviewed,nc,nc
-2022-11-18T05:58:54.710Z,37.6423333,-118.8635,4.61,0.69,md,13,110,0.02236,0.03,nc,nc73808736,2022-11-18T17:43:13.255Z,"10km E of Mammoth Lakes, CA",earthquake,0.45,0.64,0.126,11,reviewed,nc,nc
+2022-11-18T05:58:54.710Z,37.6423333,-118.8635,4.61,0.69,md,13,110,0.02236,0.03,nc,nc73808736,2022-11-18T19:32:14.972Z,"10km E of Mammoth Lakes, CA",earthquake,0.45,0.64,0.126,11,reviewed,nc,nc
 2022-11-18T05:55:45.866Z,61.2639,-150.113,73.1,1.4,ml,,,,1.57,ak,ak022esmcsyi,2022-11-18T05:57:59.216Z,"12 km WNW of Anchorage, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-11-18T05:49:46.401Z,59.866,-152.1711,83.5,1.2,ml,,,,0.54,ak,ak022esmbi9k,2022-11-18T05:52:19.215Z,"21 km WNW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-18T05:39:33.490Z,33.9465,-116.9461667,13.98,1.03,ml,29,41,0.03803,0.24,ci,ci40377352,2022-11-18T05:43:10.838Z,"3km ENE of Beaumont, CA",earthquake,0.32,0.97,0.187,28,automatic,ci,ci
@@ -258,5 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-17T19:52:23.070Z,42.2031667,-111.0883333,7.68,1.9,ml,26,102,0.1909,0.18,uu,uu60525607,2022-11-18T16:52:44.440Z,"16 km NNW of Taylor, Wyoming",earthquake,0.46,0.88,0.132,5,reviewed,uu,uu
 2022-11-17T19:46:52.410Z,58.2373333333333,-155.160833333333,3.54,-0.3,ml,5,140,,0.14,av,av91076853,2022-11-18T01:44:26.100Z,"85 km NNW of Karluk, Alaska",earthquake,0.37,1.73,0.237584257395752,5,reviewed,av,av
 2022-11-17T19:41:20.440Z,58.2255,-155.112166666667,3.95,0.17,ml,6,191,,0.11,av,av91717601,2022-11-18T01:38:43.850Z,"82 km NNW of Karluk, Alaska",earthquake,0.93,2.65,0.222339509682377,6,reviewed,av,av
-2022-11-17T19:36:08.770Z,33.5086667,-116.482,15.54,0.46,ml,22,96,0.04928,0.14,ci,ci40377168,2022-11-17T21:41:10.263Z,"18km ESE of Anza, CA",earthquake,0.35,0.6,0.07,5,reviewed,ci,ci
-2022-11-17T19:32:24.140Z,38.7890015,-122.7259979,2.03,0.73,md,10,92,0.01017,0.01,nc,nc73808586,2022-11-17T20:39:15.641Z,"3km ENE of The Geysers, CA",earthquake,0.32,0.86,0.16,2,automatic,nc,nc
