@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-19T14:52:02.365Z,60.2111,-150.8453,49.7,1.8,ml,,,,0.27,ak,ak022euf87xw,2022-11-19T14:54:07.776Z,"27 km ESE of Kasilof, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-11-19T14:47:57.026Z,57.3861,-154.9721,75.6,1.9,ml,,,,0.14,ak,ak022euf7d12,2022-11-19T14:50:46.023Z,"Kodiak Island region, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2022-11-19T14:44:53.600Z,32.0143333,-116.3071667,27.04,2.48,ml,11,171,0.3053,0.11,ci,ci40378120,2022-11-19T14:48:21.899Z,"34km ENE of Ensenada, B.C., MX",earthquake,0.66,0.83,0.178,30,automatic,ci,ci
 2022-11-19T14:44:31.733Z,61.1958,-142.0677,18.4,1.7,ml,,,,0.15,ak,ak022euf6nxh,2022-11-19T14:45:59.677Z,"52 km ESE of McCarthy, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -296,4 +297,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-18T15:16:16.824Z,65.5225,-148.211,0,2.1,ml,,,,0.71,ak,ak022ess2pua,2022-11-18T15:18:46.427Z,"15 km E of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-18T15:11:11.901Z,31.51986535,-104.0390832,2.429614258,2.2,ml,35,61,0.01975104924,0.2,tx,tx2022wpqo,2022-11-18T19:12:52.776Z,"western Texas",earthquake,0.6585088096000001,0.9553619236,0.2,19,reviewed,tx,tx
 2022-11-18T15:01:58.272Z,39.2572,-120.1606,10.5,-0.1,ml,3,155.9,0.056,0.0262,nn,nn00851592,2022-11-19T02:42:46.599Z,"7 km WNW of Carnelian Bay, California",earthquake,,4.4,0.77,2,reviewed,nn,nn
-2022-11-18T14:53:49.947Z,60.2875,-152.6217,104.4,2.9,ml,,,,0.54,ak,ak022esrpaaf,2022-11-18T14:56:29.525Z,"59 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
