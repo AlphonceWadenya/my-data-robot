@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-11-20T21:28:00.126Z,62.521,-150.6138,68.5,1.6,ml,,,,0.62,ak,ak022ew6sjrg,2022-11-20T21:30:03.121Z,"8 km ENE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-11-20T21:07:01.500Z,37.6458321,-118.9093323,-2.36,1.54,md,8,95,0.00946,0.03,nc,nc73809706,2022-11-20T21:14:10.916Z,"6km E of Mammoth Lakes, CA",earthquake,0.28,1.58,0.2,8,automatic,nc,nc
+2022-11-20T21:07:01.500Z,37.6458321,-118.9093323,-2.36,1.54,md,8,95,0.00946,0.03,nc,nc73809706,2022-11-20T21:33:12.041Z,"6km E of Mammoth Lakes, CA",earthquake,0.28,1.58,0.2,8,automatic,nc,nc
 2022-11-20T20:59:07.271Z,61.3037,-150.6749,56.1,1.6,ml,,,,0.28,ak,ak022ew6drwn,2022-11-20T21:00:49.411Z,"28 km SSW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-20T20:47:16.302Z,64.7051,-147.5419,12.3,1.2,ml,,,,0.59,ak,ak022ew6b80e,2022-11-20T20:52:22.325Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-20T20:43:40.130Z,38.8511658,-122.7671661,0.94,0.67,md,10,170,0.01118,0.03,nc,nc73809696,2022-11-20T21:11:18.899Z,"5km NW of Cobb, CA",earthquake,0.37,0.52,0.15,2,automatic,nc,nc
@@ -221,5 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-19T21:49:22.100Z,35.5711667,-120.8061667,3.46,2.81,md,61,50,0.07011,0.09,nc,nc73809431,2022-11-20T16:17:32.184Z,"9km WNW of Templeton, CA",earthquake,0.16,0.5,0.15,86,reviewed,nc,nc
 2022-11-19T21:46:17.140Z,38.7615,-122.7211667,0.58,0.15,md,16,73,0.00289,0.08,nc,nc73809421,2022-11-19T23:14:15.045Z,"3km WSW of Anderson Springs, CA",earthquake,0.22,0.3,0.144,4,reviewed,nc,nc
 2022-11-19T21:40:21.336Z,64.2074,-151.5279,0,1.6,ml,,,,1.43,ak,ak022eujbthx,2022-11-19T21:42:28.659Z,"52 km NE of Lake Minchumina, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-11-19T21:38:57.250Z,38.8356667,-122.7988358,2.11,0.46,md,13,65,0.007175,0.01,nc,nc73809416,2022-11-19T21:49:10.500Z,"7km WNW of Cobb, CA",earthquake,0.31,0.67,0.39,2,automatic,nc,nc
-2022-11-19T21:37:34.160Z,35.6946667,-117.5768333,10.22,1.38,ml,18,135,0.122,0.18,ci,ci40378208,2022-11-19T21:41:05.676Z,"12km NE of Ridgecrest, CA",earthquake,0.41,0.77,0.1,19,automatic,ci,ci
