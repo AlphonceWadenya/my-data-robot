@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-20T19:46:29.975Z,58.2288,-155.1939,1.1,0.3,ml,,,,0.08,ak,ak022ew5plqt,2022-11-20T19:48:04.669Z,"85 km NNW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2022-11-20T19:31:59.530Z,33.4343333,-116.1911667,17.03,0.35,ml,11,134,0.3094,0.37,ci,ci40378584,2022-11-20T19:35:29.529Z,"9km WSW of Oasis, CA",earthquake,1.45,6.08,0.137,3,automatic,ci,ci
 2022-11-20T19:25:21.358Z,63.2063,-150.3794,104.5,2.6,ml,,,,0.34,ak,ak022ew5l31j,2022-11-20T19:27:28.948Z,"74 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-11-20T19:20:02.890Z,38.7434998,-122.6933365,10.95,0.43,md,7,224,0.04108,0.19,nc,nc73809676,2022-11-20T19:42:12.353Z,"4km S of Anderson Springs, CA",earthquake,6.47,3.15,,1,automatic,nc,nc
