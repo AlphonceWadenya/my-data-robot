@@ -73,7 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-21T10:09:51.560Z,33.1771667,-116.3963333,12.56,0.79,ml,26,63,0.09245,0.19,ci,ci40378784,2022-11-21T10:13:19.833Z,"9km SSW of Borrego Springs, CA",earthquake,0.36,0.76,0.234,16,automatic,ci,ci
 2022-11-21T10:07:04.170Z,44.7981667,-110.803,5.32,0.03,md,7,211,0.03522,0.07,uu,uu60525887,2022-11-21T14:46:28.070Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.75,0.68,0.191,4,reviewed,uu,uu
 2022-11-21T10:05:06.390Z,-17.6946,123.4121,10,4.5,mb,26,67,2.159,0.98,us,us7000irag,2022-11-21T11:03:00.795Z,"49 km SSW of Derby, Australia",earthquake,6.45,1.935,0.145,14,reviewed,us,us
-2022-11-21T09:54:48.240Z,39.5161667,-123.0843333,6.27,1.55,md,9,240,,0.1,nc,nc73809931,2022-11-21T17:38:11.019Z,"16km NW of Lake Pillsbury, CA",earthquake,1.13,0.73,0.122,9,reviewed,nc,nc
+2022-11-21T09:54:48.240Z,39.5161667,-123.0843333,6.27,1.55,md,9,240,,0.1,nc,nc73809931,2022-11-21T18:52:11.474Z,"16km NW of Lake Pillsbury, CA",earthquake,1.13,0.73,0.122,9,reviewed,nc,nc
 2022-11-21T09:48:00.004Z,61.3294,-152.2656,4.5,0.7,ml,,,,0.46,ak,ak022exnazb4,2022-11-21T09:50:19.757Z,"66 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-21T09:47:03.220Z,35.601,-117.4065,4.88,0.94,ml,9,190,0.08324,0.17,ci,ci40378776,2022-11-21T09:50:37.681Z,"18km S of Trona, CA",earthquake,2.6,5.13,0.228,7,automatic,ci,ci
 2022-11-21T09:35:37.948Z,62.2238,-150.1218,15,1.1,ml,,,,0.69,ak,ak022exn88ui,2022-11-21T15:32:10.114Z,"11 km S of Talkeetna, Alaska",earthquake,,0.6,,,reviewed,ak,ak
