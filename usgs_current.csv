@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-22T10:51:25.330Z,33.6883316,-116.7238312,16.35,1.11,ml,38,62,0.02416,0.11,ci,ci40379320,2022-11-22T10:53:30.614Z,"6km S of Idyllwild, CA",earthquake,0.25,0.44,0.492,11,automatic,ci,ci
+2022-11-22T10:47:27.850Z,34.0088333,-117.2178333,5.03,0.92,ml,22,101,0.09719,0.22,ci,ci40379312,2022-11-22T10:51:05.180Z,"6km SE of Loma Linda, CA",earthquake,0.35,0.84,0.194,29,automatic,ci,ci
 2022-11-22T10:43:21.850Z,38.8209991,-122.7608337,1.82,0.45,md,11,125,0.01182,0.04,nc,nc73810286,2022-11-22T10:44:54.982Z,"3km W of Cobb, CA",earthquake,0.37,0.72,0.4,2,automatic,nc,nc
 2022-11-22T10:25:37.866Z,38.1806,-117.8198,0.1,1.2,ml,12,153.81,0.131,0.1686,nn,nn00851808,2022-11-22T10:28:34.313Z,"34 km SE of Mina, Nevada",earthquake,,7.6,0.44,6,automatic,nn,nn
 2022-11-22T10:18:42.350Z,34.0121667,-117.2183333,3.21,1.02,ml,32,44,0.09099,0.2,ci,ci40379304,2022-11-22T10:22:09.923Z,"6km SE of Loma Linda, CA",earthquake,0.26,0.52,0.192,26,automatic,ci,ci
@@ -68,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-22T02:33:35.770Z,34.0056667,-117.2085,3.3,1.2,ml,26,87,0.08517,0.2,ci,ci40379192,2022-11-22T02:37:14.988Z,"6km SSW of Redlands, CA",earthquake,0.31,0.74,0.168,25,automatic,ci,ci
 2022-11-22T02:16:00.860Z,35.872,-120.2908333,8.41,0.66,md,12,161,0.05588,0.07,nc,nc71129389,2022-11-22T07:09:16.233Z,"13km ESE of Parkfield, CA",earthquake,0.63,0.68,0.081,4,reviewed,nc,nc
 2022-11-22T02:08:58.088Z,34.855,-34.7775,10,5.2,mb,60,66,8.013,0.89,us,us7000irfd,2022-11-22T03:52:21.040Z,"Azores Islands region",earthquake,10.27,1.865,0.059,94,reviewed,us,us
-2022-11-22T02:03:07.174Z,-9.8122,159.5958,15,7,mww,94,22,0.508,0.47,us,us7000irfb,2022-11-22T10:47:41.360Z,"18 km SW of Malango, Solomon Islands",earthquake,5.41,1.848,0.068,21,reviewed,us,us
+2022-11-22T02:03:07.174Z,-9.8122,159.5958,15,7,mww,94,22,0.508,0.47,us,us7000irfb,2022-11-22T10:52:56.516Z,"18 km SW of Malango, Solomon Islands",earthquake,5.41,1.848,0.068,21,reviewed,us,us
 2022-11-22T02:02:32.200Z,46.8685,-121.74283333333334,-1.93,0.05,ml,13,128,0.007587,0.08,uw,uw61886767,2022-11-22T02:52:08.960Z,"25 km ENE of Ashford, Washington",earthquake,0.25,0.39,0.13319452994736047,5,reviewed,uw,uw
 2022-11-22T01:53:24.650Z,38.7938347,-122.7346649,0.88,1.06,md,14,96,0.0107,0.02,nc,nc73810146,2022-11-22T03:00:12.721Z,"3km NE of The Geysers, CA",earthquake,0.24,0.55,0.15,4,automatic,nc,nc
 2022-11-22T01:35:44.290Z,33.6263333,-116.6638333,12.33,0.51,ml,23,96,0.05965,0.13,ci,ci40379168,2022-11-22T01:39:21.032Z,"8km N of Anza, CA",earthquake,0.27,0.36,0.155,14,automatic,ci,ci
