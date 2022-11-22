@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-22T11:48:05.889Z,64.191,-149.9409,0.3,1.6,ml,,,,0.54,ak,ak022ezc17gs,2022-11-22T11:50:12.075Z,"37 km WSW of Clear, Alaska, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-22T11:34:30.771Z,60.8757,-149.0996,8.6,1.9,ml,,,,0.74,ak,ak022ezby9d1,2022-11-22T11:36:44.098Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-22T11:17:12.120Z,38.8288345,-122.854332,1.77,0.37,md,10,72,0.002366,0.02,nc,nc73810291,2022-11-22T11:33:13.828Z,"10km NW of The Geysers, CA",earthquake,0.34,0.54,,1,automatic,nc,nc
 2022-11-22T11:16:42.190Z,19.2094993591309,-155.440338134766,33.75,1.79999995,md,27,132,,0.170000002,hv,hv73231522,2022-11-22T11:19:55.370Z,"4 km E of Pāhala, Hawaii",earthquake,0.75,1.13,0.899999976,3,automatic,hv,hv
@@ -217,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-21T12:13:29.640Z,38.8383331,-122.8095016,1.83,0.98,md,13,56,0.01492,0.02,nc,nc73809946,2022-11-21T13:09:13.482Z,"8km WNW of Cobb, CA",earthquake,0.27,0.62,0.27,2,automatic,nc,nc
 2022-11-21T12:10:46.380Z,38.7955017,-122.7621689,0.88,0.21,md,7,114,0.005464,0.01,nc,nc73809941,2022-11-21T12:43:12.346Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.47,0.16,2,automatic,nc,nc
 2022-11-21T11:55:53.080Z,33.1751667,-116.5128333,16,0.48,ml,15,82,0.1152,0.24,ci,ci40378824,2022-11-21T11:59:23.439Z,"14km NE of Julian, CA",earthquake,0.73,0.94,0.134,6,automatic,ci,ci
-2022-11-21T11:46:09.200Z,33.2191667,-116.7473333,10.84,0.47,ml,19,54,0.01931,0.16,ci,ci40378816,2022-11-21T11:49:33.428Z,"3km SSE of Lake Henshaw, CA",earthquake,0.28,0.44,0.175,6,automatic,ci,ci
