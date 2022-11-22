@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-22T20:53:44.830Z,38.8046684,-122.7789993,2.85,0.35,md,7,147,0.008679,0.01,nc,nc73810411,2022-11-22T21:11:11.242Z,"4km NNW of The Geysers, CA",earthquake,0.76,1.47,,1,automatic,nc,nc
 2022-11-22T20:38:04.430Z,36.0196667,-117.7741667,1.04,1,ml,12,153,0.04655,0.17,ci,ci40379504,2022-11-22T20:41:36.661Z,"15km NE of Little Lake, CA",earthquake,0.43,0.51,0.121,12,automatic,ci,ci
 2022-11-22T20:28:20.300Z,32.608,-116.9856667,2.4,1.25,ml,19,203,0.04682,0.16,ci,ci40379496,2022-11-22T20:32:01.170Z,"6km ESE of Chula Vista, CA",quarry blast,0.73,0.5,0.092,6,automatic,ci,ci
-2022-11-22T20:17:53.541Z,35.9742,-115.3727,4.9,1.9,ml,10,249.56,0.7,0.3079,nn,nn00851838,2022-11-22T20:20:51.148Z,"8 km SSE of Blue Diamond, Nevada",earthquake,,0,0.12,7,automatic,nn,nn
+2022-11-22T20:17:53.541Z,35.9742,-115.3727,4.9,1.9,ml,10,249.56,0.7,0.3079,nn,nn00851838,2022-11-22T20:20:51.148Z,"California-Nevada border region",earthquake,,0,0.12,7,automatic,nn,nn
 2022-11-22T20:14:30.470Z,35.7546667,-117.5403333,5.23,0.65,ml,8,162,0.07665,0.16,ci,ci40379488,2022-11-22T20:18:07.686Z,"12km W of Searles Valley, CA",earthquake,0.62,31.61,0.257,5,automatic,ci,ci
 2022-11-22T19:55:28.860Z,34.9843333,-118.2005,0.24,1.42,ml,14,77,0.1078,0.37,ci,ci40379480,2022-11-22T19:59:00.400Z,"8km SSW of Mojave, CA",earthquake,0.74,31.61,0.139,31,automatic,ci,ci
 2022-11-22T19:29:17.040Z,32.3008333,-115.3883333,10.4,2.91,ml,20,150,0.1377,0.2,ci,ci40379464,2022-11-22T19:57:03.040Z,"19km WSW of Delta, B.C., MX",earthquake,0.74,1.52,0.201,26,automatic,ci,ci
@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-22T18:46:32.960Z,37.0176667,-119.8133333,-0.15,1.56,md,7,118,0.08762,0.03,nc,nc73810381,2022-11-22T19:21:09.359Z,"7km NE of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast,0.56,31.61,0.179,10,reviewed,nc,nc
 2022-11-22T18:26:31.180Z,60.0636,-152.935,125.9,2.1,ml,,,,0.36,ak,ak022ezg2kwe,2022-11-22T18:29:38.366Z,"68 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-22T18:08:37.340Z,17.962,-66.9421666666667,12.03,2.3,md,24,198,0.03348,0.13,pr,pr71383513,2022-11-22T18:26:32.200Z,"Puerto Rico region",earthquake,0.39,0.25,0.117012994075365,10,reviewed,pr,pr
-2022-11-22T17:54:57.230Z,33.485,-116.5441667,7.42,0.85,ml,26,66,0.04945,0.24,ci,ci40379416,2022-11-22T17:58:29.977Z,"14km ESE of Anza, CA",earthquake,0.33,0.69,0.175,24,automatic,ci,ci
+2022-11-22T17:54:57.070Z,33.4856667,-116.547,8.83,0.78,ml,29,50,0.047,0.15,ci,ci40379416,2022-11-22T21:24:09.923Z,"14km ESE of Anza, CA",earthquake,0.21,0.38,0.146,17,reviewed,ci,ci
 2022-11-22T17:48:56.551Z,62.0462,-150.4325,13,2.4,ml,,,,0.6,ak,ak022ezflx07,2022-11-22T19:24:22.040Z,"31 km SSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-22T17:43:20.316Z,60.9956,-147.2598,24.7,2.4,ml,,,,0.3,ak,ak022ezfkrmn,2022-11-22T18:54:59.040Z,"34 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-22T17:12:21.360Z,38.7873333,-122.7658333,2.33,0.03,md,18,75,0.01411,0.02,nc,nc73810366,2022-11-22T20:02:10.834Z,"1km NW of The Geysers, CA",earthquake,0.28,0.46,0.108,4,reviewed,nc,nc
@@ -195,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-21T21:38:47.122Z,62.2383,-149.5002,15.6,1.4,ml,,,,0.66,ak,ak022exue51k,2022-11-21T21:40:45.552Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-21T21:33:17.070Z,33.8351667,-117.4875,0.7,1.46,ml,40,31,0.03955,0.26,ci,ci40379064,2022-11-21T21:36:57.012Z,"6km SSE of Home Gardens, CA",quarry blast,0.33,0.65,0.287,33,automatic,ci,ci
 2022-11-21T21:30:31.250Z,19.2561664581299,-155.391006469727,30.1100006103516,2.24,ml,33,131,,0.129999995,hv,hv73230877,2022-11-21T21:36:02.100Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.66,0.829999983,0.09,3,automatic,hv,hv
-2022-11-21T21:27:22.240Z,57.6055,-156.1112,7,0.9,ml,,,,0.48,ak,ak022exubpqb,2022-11-21T21:51:44.369Z,"77 km E of Ugashik, Alaska",earthquake,,0.4,,,reviewed,ak,ak
