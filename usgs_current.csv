@@ -57,6 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T15:20:33.324Z,31.52870004,-104.010642,6.851391602,2.4,ml,26,64,0.03757770333,0.2,tx,tx2022wyuj,2022-11-23T18:14:19.438Z,"31 km NW of Toyah, Texas",earthquake,0.7711973111,0.6759490442,0.1,14,reviewed,tx,tx
 2022-11-23T15:18:29.670Z,34.4836667,-118.0865,10.47,0.86,ml,16,67,0.02586,0.13,ci,ci40379920,2022-11-23T17:48:29.999Z,"3km SE of Vincent, CA",earthquake,0.25,0.39,0.146,6,reviewed,ci,ci
 2022-11-23T15:12:15.610Z,17.9545,-67.0488333333333,6.89,1.94,md,7,230,0.01548,0.07,pr,pr71383613,2022-11-23T15:46:50.980Z,"2 km S of La Parguera, Puerto Rico",earthquake,0.56,0.25,0.0437027664412706,5,reviewed,pr,pr
+2022-11-23T15:02:23.693Z,-9.1068,109.8599,34.528,4.5,mb,41,106,1.356,0.77,us,us7000irts,2022-11-23T21:57:49.040Z,"136 km SSW of Bambanglipuro, Indonesia",earthquake,7.5,1.686,0.111,24,reviewed,us,us
 2022-11-23T15:00:27.090Z,36.021,-117.7823333,2.2,0.81,ml,12,115,0.04404,0.12,ci,ci40379912,2022-11-23T19:07:02.764Z,"15km NE of Little Lake, CA",earthquake,0.27,0.31,0.198,7,reviewed,ci,ci
 2022-11-23T14:58:37.797Z,61.6537,-146.755,19.7,1.6,ml,,,,0.63,ak,ak022f11f2eb,2022-11-23T15:01:14.986Z,"37 km S of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-23T14:50:35.291Z,31.52836424,-104.0080874,6.735705566,2.7,ml,26,64,0.03978448044,0.2,tx,tx2022wytk,2022-11-23T17:39:58.383Z,"western Texas",earthquake,0.600897029,0.5072398595,0.1,14,reviewed,tx,tx
@@ -237,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-22T22:03:21.756Z,63.1151,-151.5097,0,1.5,ml,,,,1.42,ak,ak022ezibd4p,2022-11-22T22:08:35.958Z,"48 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-22T22:01:45.670Z,37.9671667,-112.266,3.15,1.83,ml,18,83,0.09835,0.13,uu,uu60526087,2022-11-22T22:59:27.970Z,"21 km NE of Panguitch, Utah",earthquake,0.43,2.51,0.113,4,reviewed,uu,uu
 2022-11-22T22:01:04.430Z,37.3976667,-112.3956667,16.98,2.17,ml,17,155,0.08169,0.21,uu,uu60526082,2022-11-22T22:44:32.420Z,"8 km ESE of Alton, Utah",earthquake,0.61,0.58,0.194,11,reviewed,uu,uu
-2022-11-22T21:55:48.995Z,38.5472,-119.5126,6.8,1,ml,11,152.34,0.039,0.1027,nn,nn00851887,2022-11-23T02:42:11.390Z,"2 km SSW of Coleville, California",earthquake,,1,0.18,3,reviewed,nn,nn
