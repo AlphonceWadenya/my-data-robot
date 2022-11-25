@@ -167,4 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-24T22:56:13.070Z,38.8321648,-122.8069992,2.38,0.82,md,19,68,0.00908,0.01,nc,nc73811156,2022-11-25T01:03:14.125Z,"7km W of Cobb, CA",earthquake,0.24,0.52,0.28,3,automatic,nc,nc
 2022-11-24T22:55:26.250Z,37.4701653,-121.8136673,6.1,1.06,md,7,125,0.02661,0.02,nc,nc73811151,2022-11-25T00:39:10.989Z,"9km ENE of Milpitas, CA",earthquake,0.53,1.94,0.11,3,automatic,nc,nc
 2022-11-24T22:47:25.520Z,39.5191667,-123.2343333,8.69,1.55,md,14,85,0.05886,0.14,nc,nc73811146,2022-11-25T20:52:14.487Z,"15km ENE of Brooktrails, CA",earthquake,0.46,1.14,0.174,14,reviewed,nc,nc
-2022-11-24T22:43:34.244Z,-9.7536,159.4503,10,5,mww,88,30,0.582,0.65,us,us7000is7j,2022-11-25T02:24:28.553Z,"Solomon Islands",earthquake,5.99,1.845,0.098,10,reviewed,us,us
