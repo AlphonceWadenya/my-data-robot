@@ -57,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-25T08:31:08.600Z,34.0095,-118.3625,11.31,1.13,ml,18,57,0.01575,0.24,ci,ci40380656,2022-11-25T08:34:45.409Z,"1km NE of Baldwin Hills, CA",earthquake,0.69,0.91,0.274,25,automatic,ci,ci
 2022-11-25T08:18:32.624Z,59.5242,-152.975,85,2.1,ml,,,,0.27,ak,ak022f48okpq,2022-11-25T08:20:30.124Z,"62 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-25T08:12:27.150Z,37.042,-121.7898333,8.7,1.09,md,16,86,0.07425,0.07,nc,nc73811331,2022-11-25T14:31:11.239Z,"6km NNE of Corralitos, CA",earthquake,0.32,0.55,0.21,16,reviewed,nc,nc
-2022-11-25T08:11:54.721Z,58.0259,-155.9381,22.6,1.1,ml,,,,0.17,ak,ak022f48n4eo,2022-11-25T08:13:15.130Z,"85 km SSE of King Salmon, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2022-11-25T08:11:55.190Z,58.0018,-155.9133,7.5,1.1,ml,,,,0.26,ak,ak022f48n4eo,2022-11-25T17:55:02.120Z,"88 km SSE of King Salmon, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-11-25T08:07:59.205Z,38.179,-118.1711,8.3,1,ml,8,129.39,0.171,0.0528,nn,nn00852025,2022-11-25T08:11:58.726Z,"24 km SSW of Mina, Nevada",earthquake,,3.5,0.31,4,automatic,nn,nn
 2022-11-25T08:07:51.466Z,61.5718,-146.3802,22.5,1.9,ml,,,,0.69,ak,ak022f48m9ai,2022-11-25T08:09:41.313Z,"49 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-25T07:58:48.708Z,51.3323,-179.3139,37.067,4.3,mb,77,188,0.582,0.81,us,us7000isa3,2022-11-25T08:14:30.040Z,"195 km WSW of Adak, Alaska",earthquake,7.79,11.696,0.069,59,reviewed,us,us
