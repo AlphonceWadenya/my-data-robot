@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-26T14:32:58.350Z,19.2089996337891,-155.436996459961,33,2.13000011,md,40,134,,0.129999995,hv,hv73236797,2022-11-26T14:36:14.990Z,"4 km E of Pāhala, Hawaii",earthquake,0.55,0.800000012,1.07000005,13,automatic,hv,hv
 2022-11-26T14:08:13.180Z,63.1,-150.8799,120.6,3,ml,,,,0.51,ak,ak022f5zqc6z,2022-11-26T14:10:24.073Z,"64 km SE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-26T14:02:01.015Z,61.3492,-150.326,14.4,1.5,ml,,,,0.57,ak,ak022f5zp0xx,2022-11-26T14:04:42.416Z,"18 km W of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-26T13:52:00.286Z,59.0049,-152.2093,35.2,2.3,ml,,,,0.75,ak,ak022f5zeb30,2022-11-26T13:55:42.897Z,"Southern Alaska",earthquake,,16,,,automatic,ak,ak
