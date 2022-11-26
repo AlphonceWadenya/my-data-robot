@@ -182,5 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-25T21:37:29.831Z,-56.1346,-26.9348,43.51,4.9,mb,46,75,5.776,0.67,us,us7000isfs,2022-11-25T22:01:04.040Z,"South Sandwich Islands region",earthquake,10.66,7.839,0.084,44,reviewed,us,us
 2022-11-25T21:37:21.820Z,35.7416667,-117.5473333,9.29,1.39,ml,20,157,0.08443,0.14,ci,ci40380896,2022-11-25T22:05:58.224Z,"13km WSW of Searles Valley, CA",earthquake,0.33,0.78,0.153,20,reviewed,ci,ci
 2022-11-25T20:46:49.072Z,38.1233,-118.0246,10.3,1.1,ml,13,127.6,0.054,0.1455,nn,nn00852047,2022-11-25T20:49:44.158Z,"30 km SSE of Mina, Nevada",earthquake,,0.7,0.37,5,automatic,nn,nn
-2022-11-25T20:43:55.220Z,33.6403333,-116.7111667,15.33,1.17,ml,14,146,0.06415,0.25,ci,ci40380888,2022-11-25T20:47:21.791Z,"10km NNW of Anza, CA",earthquake,1.42,0.88,0.299,10,automatic,ci,ci
-2022-11-25T20:43:43.170Z,33.5853333,-116.8071667,7.33,0.77,ml,25,41,0.0369,0.18,ci,ci40380880,2022-11-25T20:47:17.262Z,"13km WNW of Anza, CA",earthquake,0.28,0.56,0.121,21,automatic,ci,ci
