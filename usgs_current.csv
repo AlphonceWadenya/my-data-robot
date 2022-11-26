@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-26T19:11:49.970Z,17.9281666666667,-66.8555,11.82,2.58,md,11,219,0.05183,0.07,pr,pr71384138,2022-11-26T19:35:45.280Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,0.52,0.44,0.108428700789364,6,reviewed,pr,pr
 2022-11-26T19:03:17.870Z,17.9531666666667,-67.1058333333333,11.31,2.56,md,16,238,0.05307,0.15,pr,pr71384123,2022-11-26T19:23:29.260Z,"6 km WSW of La Parguera, Puerto Rico",earthquake,0.54,0.25,0.0668007556285093,9,reviewed,pr,pr
 2022-11-26T18:50:12.670Z,17.9501666666667,-66.9761666666667,12.14,2.07,md,5,213,0.06755,0.05,pr,pr71384113,2022-11-26T19:03:01.720Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.68,0.9,0.0678928344501513,3,reviewed,pr,pr
 2022-11-26T18:44:06.635Z,49.4011,155.6055,67.772,5,mb,235,95,3.938,0.56,us,us7000isl7,2022-11-26T19:26:39.040Z,"146 km SSW of Severo-Kuril’sk, Russia",earthquake,9.22,5.678,0.029,387,reviewed,us,us
@@ -126,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-26T04:53:47.110Z,33.0291667,-116.419,10.39,0.96,ml,39,87,0.1224,0.22,ci,ci40381096,2022-11-26T04:57:16.822Z,"18km ESE of Julian, CA",earthquake,0.31,0.67,0.159,20,automatic,ci,ci
 2022-11-26T04:24:01.146Z,61.7327,-149.3,16.3,1.2,ml,,,,0.54,ak,ak022f5tvekr,2022-11-26T16:47:39.972Z,"3 km WSW of Fishhook, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-11-26T04:12:05.625Z,31.667,-104.4181,6.722,2.5,ml,31,107,0.07,0.34,us,us7000ishh,2022-11-26T05:04:22.040Z,"56 km S of Whites City, New Mexico",earthquake,1.29,4.505,0.069,52,reviewed,us,us
-2022-11-26T03:50:16.402Z,49.2264,-126.2868,31.289,4.9,mww,73,79,0.583,1.1,us,us7000ishe,2022-11-26T19:25:34.463Z,"Vancouver Island, Canada region",earthquake,4.87,4.321,0.063,24,reviewed,us,us
+2022-11-26T03:50:16.402Z,49.2264,-126.2868,31.289,4.9,mww,73,79,0.583,1.1,us,us7000ishe,2022-11-26T19:32:41.635Z,"Vancouver Island, Canada region",earthquake,4.87,4.321,0.063,24,reviewed,us,us
 2022-11-26T03:50:13.557Z,63.1175,-150.6139,117.4,2,ml,,,,0.22,ak,ak022f5tfkmj,2022-11-26T03:52:47.670Z,"69 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-11-26T03:42:56.490Z,33.8265,-117.0006667,11.67,1.27,ml,31,62,0.09611,0.2,ci,ci40381080,2022-11-26T03:46:32.822Z,"6km NW of San Jacinto, CA",earthquake,0.24,0.78,0.23,27,automatic,ci,ci
 2022-11-26T03:35:34.441Z,31.56777305,-104.0986106,6.118713379,3,ml,26,63,0.02543809351,0.2,tx,tx2022xdjo,2022-11-26T03:49:42.914Z,"40 km NW of Toyah, Texas",earthquake,0.640163946,0.482074565,0.1,14,reviewed,tx,tx
