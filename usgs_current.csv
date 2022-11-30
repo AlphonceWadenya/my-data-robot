@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-30T22:48:32.260Z,19.255500793457,-155.40299987793,31.9200000762939,1.96000004,md,35,129,,0.119999997,hv,hv73247927,2022-11-30T22:51:44.270Z,"9 km NE of Pāhala, Hawaii",earthquake,0.85,0.639999986,0.49000001,5,automatic,hv,hv
 2022-11-30T22:44:53.509Z,61.561,-149.6979,31.7,1.6,ml,,,,0.83,ak,ak022fcquzvq,2022-11-30T22:46:50.445Z,"7 km NW of Knik-Fairview, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-11-30T22:44:15.410Z,33.4903333,-116.5435,8.83,0.92,ml,34,51,0.04925,0.17,ci,ci40382872,2022-11-30T22:47:46.771Z,"14km ESE of Anza, CA",earthquake,0.22,0.42,0.145,20,automatic,ci,ci
 2022-11-30T22:12:35.170Z,19.2203330993652,-155.40283203125,30.8099994659424,1.82000005,md,28,162,,0.100000001,hv,hv73247842,2022-11-30T22:15:45.760Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.64,0.889999986,0.00999999978,5,automatic,hv,hv
@@ -134,7 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-30T09:53:51.410Z,38.8424988,-122.8424988,2.09,0.87,md,11,138,0.006725,0.01,nc,nc73813061,2022-11-30T10:14:14.782Z,"10km NW of The Geysers, CA",earthquake,0.42,0.47,,1,automatic,nc,nc
 2022-11-30T09:38:44.870Z,46.98383333333334,-122.05816666666666,13.3,0.85,ml,20,101,0.02527,0.1,uw,uw61896701,2022-11-30T17:43:49.680Z,"10 km S of Carbonado, Washington",earthquake,0.56,0.36,0.06510853742598954,8,reviewed,uw,uw
 2022-11-30T09:36:49.460Z,38.5631667,-122.444,7.42,2.14,md,105,29,0.06019,0.18,nc,nc73813051,2022-11-30T12:24:12.607Z,"2km SSE of Angwin, CA",earthquake,0.15,0.42,0.132,68,reviewed,nc,nc
-2022-11-30T09:04:15.800Z,37.8513333,-121.9853333,8.09,1.66,md,48,51,0.009466,0.1,nc,nc73813046,2022-11-30T20:41:13.707Z,"3km NW of Diablo, CA",earthquake,0.16,0.22,0.147,43,reviewed,nc,nc
+2022-11-30T09:04:15.800Z,37.8513333,-121.9853333,8.09,1.66,md,48,51,0.009466,0.1,nc,nc73813046,2022-11-30T22:50:10.435Z,"3km NW of Diablo, CA",earthquake,0.16,0.22,0.147,43,reviewed,nc,nc
 2022-11-30T08:58:19.661Z,63.2632,-152.0234,6,1.5,ml,,,,0.78,ak,ak022fcilutq,2022-11-30T09:00:09.569Z,"34 km SSW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-30T08:31:50.960Z,33.7676667,-116.0778333,2.74,1.3,ml,42,48,0.1167,0.15,ci,ci40382608,2022-11-30T19:24:39.500Z,"13km NE of Coachella, CA",earthquake,0.15,0.26,0.147,31,reviewed,ci,ci
 2022-11-30T08:24:13.771Z,59.9119,-153.367,137.1,2.2,ml,,,,0.36,ak,ak022fciek1e,2022-11-30T09:30:58.040Z,"43 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
