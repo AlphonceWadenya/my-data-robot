@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-01T08:38:54.170Z,34.4588333,-117.954,8.83,1.19,ml,22,53,0.009937,0.12,ci,ci40383024,2022-12-01T08:42:37.864Z,"7km SW of Pearblossom, CA",earthquake,0.22,0.39,0.193,26,automatic,ci,ci
+2022-12-01T08:38:54.170Z,34.4588333,-117.954,8.83,1.19,ml,22,53,0.009937,0.12,ci,ci40383024,2022-12-01T08:49:54.560Z,"7km SW of Pearblossom, CA",earthquake,0.22,0.39,0.193,26,automatic,ci,ci
 2022-12-01T08:37:18.530Z,19.1735000610352,-155.488494873047,33.0400009155273,2.22000003,md,44,97,,0.109999999,hv,hv73248927,2022-12-01T08:40:42.030Z,"Island of Hawaii, Hawaii",earthquake,0.54,0.75999999,1.19000006,15,automatic,hv,hv
 2022-12-01T08:31:03.650Z,17.9451666666667,-66.9765,11.71,2.37,md,6,219,0.06883,0.13,pr,pr71384863,2022-12-01T08:45:45.560Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.78,1.08,0.103987134923376,3,reviewed,pr,pr
 2022-12-01T08:29:42.555Z,-5.0696,100.7411,10,5.2,mww,57,75,2.317,0.63,us,us6000j5z2,2022-12-01T08:45:50.040Z,"219 km SW of Bengkulu, Indonesia",earthquake,3.45,1.868,0.093,11,reviewed,us,us
