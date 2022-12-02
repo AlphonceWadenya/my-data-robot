@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-02T09:42:18.061Z,61.6931,-150.0177,25.5,1.7,ml,,,,0.62,ak,ak022ffu6ju6,2022-12-02T09:44:06.217Z,"6 km S of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-02T08:55:15.079Z,-0.0254,123.2367,155.166,5,mb,91,44,1.112,0.62,us,us6000j696,2022-12-02T09:11:50.040Z,"Sulawesi, Indonesia",earthquake,7.87,6.74,0.073,60,reviewed,us,us
 2022-12-02T08:49:33.336Z,12.8988,-88.8052,57.762,4.2,mb,41,119,0.736,0.87,us,us6000j694,2022-12-02T09:07:56.040Z,"50 km SSW of Puerto El Triunfo, El Salvador",earthquake,6.43,5.819,0.113,22,reviewed,us,us
 2022-12-02T08:46:33.653Z,2.5542,-79.9364,10,4.5,mb,29,138,2.82,1.04,us,us6000j695,2022-12-02T09:04:24.040Z,"152 km WNW of Tumaco, Colombia",earthquake,3.61,1.942,0.172,10,reviewed,us,us
