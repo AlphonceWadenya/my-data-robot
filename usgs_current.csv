@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-02T15:24:00.160Z,38.7988319,-122.7458344,2.33,0.63,md,8,186,0.01099,0.05,nc,nc73813866,2022-12-02T15:25:37.472Z,"3km NNE of The Geysers, CA",earthquake,0.56,1.04,0.23,8,automatic,nc,nc
 2022-12-02T14:31:59.580Z,32.8386667,-116.023,8.66,0.72,ml,11,78,0.06601,0.19,ci,ci40383680,2022-12-02T14:35:29.469Z,"12km NNW of Ocotillo, CA",earthquake,0.67,0.82,0.123,4,automatic,ci,ci
 2022-12-02T14:28:54.945Z,32.44445801,-102.0753144,11.49373372,3,ml,23,70,0.09179782525,0.2,tx,tx2022xpee,2022-12-02T15:14:08.293Z,"33 km SSW of Los Ybanez, Texas",earthquake,1.121886797,1.040764201,0.2,14,reviewed,tx,tx
 2022-12-02T14:18:29.916Z,63.5595,-147.3469,0,2.1,ml,,,,0.82,ak,ak022ffx0llm,2022-12-02T14:19:58.383Z,"80 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -242,4 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-01T15:34:37.581Z,61.6712,-149.9463,33.3,1.8,ml,,,,0.54,ak,ak022fea64r2,2022-12-01T15:37:19.957Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-01T15:33:56.730Z,33.1631667,-116.0083333,4.28,1.13,ml,26,43,0.02765,0.22,ci,ci40383216,2022-12-01T19:51:58.707Z,"12km E of Ocotillo Wells, CA",earthquake,0.29,0.71,0.068,13,reviewed,ci,ci
 2022-12-01T15:32:11.720Z,32.8353333,-116.0381667,8.86,1.85,ml,38,44,0.06596,0.25,ci,ci40383200,2022-12-01T22:27:31.505Z,"12km NNW of Ocotillo, CA",earthquake,0.26,0.65,0.092,22,reviewed,ci,ci
-2022-12-01T15:28:29.660Z,32.8361667,-116.0403333,10.46,3.82,mw,79,43,0.06516,0.25,ci,ci40383192,2022-12-02T14:48:47.174Z,"12km NNW of Ocotillo, CA",earthquake,0.18,0.47,,4,reviewed,ci,ci
