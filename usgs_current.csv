@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-03T20:17:33.040Z,17.9636666666667,-66.9103333333333,10.88,1.76,md,5,205,0.03167,0.08,pr,pr71385403,2022-12-03T20:43:51.220Z,"Puerto Rico region",earthquake,0.46,0.66,0.10728069938721,3,reviewed,pr,pr
 2022-12-03T20:17:33.040Z,17.9636666666667,-66.9101666666667,10.88,1.76,md,5,205,0.03152,0.08,pr,pr71385398,2022-12-03T20:50:32.710Z,"0 km SSW of Guánica, Puerto Rico",earthquake,0.46,0.66,0.107199839504871,3,reviewed,pr,pr
 2022-12-03T20:13:29.143Z,60.259,-151.019,67.4,1.3,ml,,,,0.12,ak,ak022fho3h2q,2022-12-03T20:14:49.669Z,"16 km ESE of Kasilof, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2022-12-03T20:06:42.620Z,38.5681667,-122.2791667,4.22,1.51,md,20,68,0.02145,0.13,nc,nc73814281,2022-12-03T22:57:13.241Z,"15km E of Angwin, CA",earthquake,0.22,0.45,0.188,15,reviewed,nc,nc
+2022-12-03T20:06:42.620Z,38.5681667,-122.2791667,4.22,1.51,md,20,68,0.02145,0.13,nc,nc73814281,2022-12-03T23:51:12.584Z,"15km E of Angwin, CA",earthquake,0.22,0.45,0.188,15,reviewed,nc,nc
 2022-12-03T20:02:01.858Z,63.0414,-150.6441,106.7,1.1,ml,,,,0.45,ak,ak022fho12dl,2022-12-03T20:05:10.803Z,"61 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-12-03T19:54:18.684Z,37.2767,-117.22,5.5,-0.1,ml,8,154.93,0.04,0.2613,nn,nn00852525,2022-12-03T19:59:33.265Z,"California-Nevada border region",earthquake,,3,0.87,4,automatic,nn,nn
 2022-12-03T19:52:06.573Z,58.6493,-150.9108,32.9,2,ml,,,,1.27,ak,ak022fhnqcnl,2022-12-03T19:54:11.297Z,"94 km SSE of Port Graham, Alaska",earthquake,,8.9,,,automatic,ak,ak
