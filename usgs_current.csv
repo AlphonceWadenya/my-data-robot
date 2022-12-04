@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-04T17:31:38.163Z,62.9729,-150.5448,88.8,1.7,ml,,,,0.43,ak,ak022fj9yec8,2022-12-04T17:34:17.950Z,"54 km NNE of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-12-04T17:20:03.930Z,35.0265,-117.6738333,0.26,1.49,ml,24,97,0.09373,0.27,ci,ci40141991,2022-12-04T17:23:34.944Z,"4km NW of Boron, CA",quarry blast,0.8,31.61,0.118,30,automatic,ci,ci
 2022-12-04T17:14:04.160Z,33.88,-116.636,15.68,0.93,ml,37,45,0.09066,0.18,ci,ci40141983,2022-12-04T17:17:33.852Z,"9km WSW of Garnet, CA",earthquake,0.24,0.59,0.176,27,automatic,ci,ci
 2022-12-04T17:11:10.210Z,19.4086666107178,-155.240829467773,2.29999995231628,1.79,ml,23,64,,0.140000001,hv,hv73258687,2022-12-04T17:16:46.510Z,"3 km S of Volcano, Hawaii",earthquake,0.28,0.310000002,2.66,7,automatic,hv,hv
