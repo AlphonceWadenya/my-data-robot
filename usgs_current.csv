@@ -64,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-05T10:30:07.379Z,-60.5475,-27.5654,10,4.9,mb,39,76,7.908,0.76,us,us6000j70b,2022-12-05T11:15:24.040Z,"South Sandwich Islands region",earthquake,12.34,1.897,0.099,32,reviewed,us,us
 2022-12-05T10:28:24.300Z,33.0573333,-117.407,13.43,0.73,ml,17,256,0.1775,0.12,ci,ci40142223,2022-12-05T10:31:51.157Z,"11km WNW of Encinitas, CA",earthquake,0.64,0.82,0.094,5,automatic,ci,ci
 2022-12-05T10:03:04.270Z,38.822834,-122.8001633,2.83,0.77,md,12,104,0.007762,0.01,nc,nc73814726,2022-12-05T12:48:13.022Z,"6km NW of The Geysers, CA",earthquake,0.32,0.58,0.17,13,automatic,nc,nc
-2022-12-05T09:42:43.139Z,38.1532,-117.8827,11,0.9,ml,10,166.56,0.062,0.1127,nn,nn00852620,2022-12-05T09:48:16.339Z,"Nevada",earthquake,,0.5,0.5,6,automatic,nn,nn
+2022-12-05T09:42:43.374Z,38.1461,-117.8843,10.4,1.1,ml,15,153.1,0.06,0.1377,nn,nn00852620,2022-12-05T17:34:06.095Z,"33 km SE of Mina, Nevada",earthquake,,1.2,0.5,4,reviewed,nn,nn
 2022-12-05T09:39:40.290Z,34.2321667,-118.5993333,2.52,1.17,ml,17,66,0.03418,0.2,ci,ci40142215,2022-12-05T09:59:12.194Z,"3km S of Chatsworth, CA",earthquake,0.36,0.65,0.214,30,automatic,ci,ci
 2022-12-05T09:30:42.330Z,34.2668333,-116.4473333,8.23,1.48,ml,26,84,0.059,0.14,ci,ci40142207,2022-12-05T09:41:11.790Z,"17km N of Yucca Valley, CA",earthquake,0.22,0.6,0.18,28,automatic,ci,ci
 2022-12-05T09:20:58.113Z,37.6416,-105.4838,6.141,2.1,ml,6,126,0.105,0.06,us,us6000j6zz,2022-12-05T09:44:11.040Z,"Colorado",earthquake,1.81,1.509,0.097,14,reviewed,us,us
