@@ -208,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-04T20:04:12.544Z,62.2965,-150.823,71.9,2.8,ml,,,,0.42,ak,ak022fjbkuu6,2022-12-04T20:41:07.040Z,"22 km S of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-12-04T19:58:07.750Z,19.1814994812012,-155.474502563477,34.2599983215332,1.86000001,md,36,141,,0.109999999,hv,hv73258927,2022-12-04T20:01:29.900Z,"Hawaii region, Hawaii",earthquake,0.56,0.790000021,0.430000007,13,automatic,hv,hv
 2022-12-04T19:53:53.764Z,62.0656,-145.195,7.6,2,ml,,,,1.07,ak,ak022fjba0hf,2022-12-04T19:55:08.793Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-04T19:48:43.850Z,33.3803333,-117.9883333,18.45,2.03,ml,30,157,0.2693,0.29,ci,ci40142031,2022-12-04T19:52:20.782Z,"26km SW of Laguna Beach, CA",earthquake,0.69,1.52,0.158,28,automatic,ci,ci
-2022-12-04T19:46:14.782Z,36.4422,-116.2475,5.4,1.9,ml,31,147.53,0.03,0.163,nn,nn00852574,2022-12-04T22:14:41.832Z,"35 km NW of Pahrump, Nevada",earthquake,,1.1,0.97,18,reviewed,nn,nn
