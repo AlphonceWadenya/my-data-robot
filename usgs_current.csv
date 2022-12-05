@@ -103,6 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-05T10:30:07.379Z,-60.5475,-27.5654,10,4.9,mb,39,76,7.908,0.76,us,us6000j70b,2022-12-05T11:15:24.040Z,"South Sandwich Islands region",earthquake,12.34,1.897,0.099,32,reviewed,us,us
 2022-12-05T10:28:24.300Z,33.0573333,-117.407,13.43,0.73,ml,17,256,0.1775,0.12,ci,ci40142223,2022-12-05T10:31:51.157Z,"11km WNW of Encinitas, CA",earthquake,0.64,0.82,0.094,5,automatic,ci,ci
 2022-12-05T10:03:04.270Z,38.822834,-122.8001633,2.83,0.77,md,12,104,0.007762,0.01,nc,nc73814726,2022-12-05T12:48:13.022Z,"6km NW of The Geysers, CA",earthquake,0.32,0.58,0.17,13,automatic,nc,nc
+2022-12-05T09:49:29.170Z,46.129333333333335,-120.49133333333333,12.29,1.45,ml,14,117,0.1383,0.13,uw,uw61897281,2022-12-05T21:37:40.290Z,"20 km NW of Bickleton, Washington",earthquake,0.43,0.39,0.10842595711245484,13,reviewed,uw,uw
 2022-12-05T09:42:43.374Z,38.1461,-117.8843,10.4,1.1,ml,15,153.1,0.06,0.1377,nn,nn00852620,2022-12-05T17:34:06.095Z,"33 km SE of Mina, Nevada",earthquake,,1.2,0.5,4,reviewed,nn,nn
 2022-12-05T09:39:40.290Z,34.2321667,-118.5993333,2.52,1.17,ml,17,66,0.03418,0.2,ci,ci40142215,2022-12-05T09:59:12.194Z,"3km S of Chatsworth, CA",earthquake,0.36,0.65,0.214,30,automatic,ci,ci
 2022-12-05T09:30:42.330Z,34.2668333,-116.4473333,8.23,1.48,ml,26,84,0.059,0.14,ci,ci40142207,2022-12-05T09:41:11.790Z,"17km N of Yucca Valley, CA",earthquake,0.22,0.6,0.18,28,automatic,ci,ci
@@ -205,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-04T22:23:38.290Z,61.4811666666667,-151.936166666667,0.66,0.21,ml,6,177,,0.15,av,av91726746,2022-12-05T21:02:11.980Z,"59 km NW of Beluga, Alaska",earthquake,1.16,1.85,0.204082852173937,7,reviewed,av,av
 2022-12-04T22:13:47.485Z,61.3935,-149.6804,32,1.7,ml,,,,0.46,ak,ak022fjctq70,2022-12-05T01:49:54.505Z,"7 km SSE of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-04T21:54:39.250Z,19.5616664886475,-156.157669067383,10.3000001907349,1.88,md,37,286,,0.189999998,hv,hv73259092,2022-12-04T21:57:51.420Z,"18 km WSW of Kailua-Kona, Hawaii",earthquake,1.39,1.47000003,0.769999981,7,automatic,hv,hv
-2022-12-04T21:39:35.769Z,64.9141,-147.9306,10.1,1.1,ml,,,,0.59,ak,ak022fjcduaw,2022-12-04T21:41:36.510Z,"8 km NNE of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-04T21:36:23.273Z,62.0412,-145.1679,8.8,1.8,ml,,,,0.83,ak,ak022fjcd66v,2022-12-04T21:38:10.432Z,"9 km ENE of Silver Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
