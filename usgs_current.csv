@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-06T07:52:58.459Z,61.4058,-150.9514,59.4,1.8,ml,,,,0.48,ak,ak022fmf7avp,2022-12-06T07:54:54.571Z,"27 km WSW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-06T07:44:31.710Z,38.8149986,-122.7634964,1.79,1.25,md,14,107,0.01354,0.03,nc,nc73815166,2022-12-06T07:46:06.156Z,"4km WSW of Cobb, CA",earthquake,0.31,0.51,0.19,16,automatic,nc,nc
 2022-12-06T07:28:39.340Z,38.7971649,-122.8034973,2.85,0.8,md,13,97,0.01254,0.01,nc,nc73815156,2022-12-06T07:41:10.823Z,"5km WNW of The Geysers, CA",earthquake,0.28,0.85,0.17,14,automatic,nc,nc
 2022-12-06T07:20:45.520Z,34.1091667,-116.634,4.2,1.25,ml,36,53,0.07141,0.16,ci,ci40142543,2022-12-06T07:31:15.580Z,"8km NW of Morongo Valley, CA",earthquake,0.2,0.6,0.166,26,automatic,ci,ci
@@ -239,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-05T08:31:05.320Z,38.8813333,-109.3011667,13.34,2.12,ml,0,108,0.409,0.13,uu,uu60527317,2022-12-05T14:50:00.770Z,"28 km NNE of Castle Valley, Utah",earthquake,0.63,1.29,0.097,3,reviewed,uu,uu
 2022-12-05T08:23:32.210Z,-19.7816,-177.8784,425.423,4.2,mb,35,87,2.863,0.38,us,us6000j6zv,2022-12-05T11:09:49.040Z,"Fiji region",earthquake,13.52,11.691,0.078,46,reviewed,us,us
 2022-12-05T08:21:48.232Z,63.5472,-149.711,58.7,1.5,ml,,,,1.57,ak,ak022fks2pma,2022-12-05T08:33:50.589Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-12-05T07:50:46.360Z,19.4681666666667,-155.590333333333,-1.07,1.77,md,8,120,,0.11,hv,hv73259837,2022-12-06T03:42:40.460Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.52,0.26,0.047715492966323,5,reviewed,hv,hv
