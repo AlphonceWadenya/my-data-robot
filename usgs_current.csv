@@ -1,11 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-07T23:45:28.170Z,33.3151665,-116.7600021,12.69,1.23,ml,38,41,0.07898,0.15,ci,ci40143303,2022-12-07T23:47:33.295Z,"8km N of Lake Henshaw, CA",earthquake,0.26,0.73,0.259,10,automatic,ci,ci
+2022-12-07T23:45:28.140Z,33.3173333,-116.7593333,12.9,1.05,ml,35,44,0.08114,0.18,ci,ci40143303,2022-12-07T23:48:58.042Z,"8km N of Lake Henshaw, CA",earthquake,0.24,0.56,0.161,26,automatic,ci,ci
 2022-12-07T23:13:12.140Z,32.8348333,-116.024,7.63,0.99,ml,22,53,0.0694,0.25,ci,ci40143295,2022-12-07T23:16:38.383Z,"12km NNW of Ocotillo, CA",earthquake,0.43,0.74,0.101,7,automatic,ci,ci
 2022-12-07T23:05:33.256Z,38.16,-116.7696,16,1.7,ml,8,172.1,0.743,0.2877,nn,nn00852897,2022-12-07T23:09:03.633Z,"41 km ENE of Tonopah, Nevada",earthquake,,2.2,0.18,4,automatic,nn,nn
 2022-12-07T22:44:02.223Z,64.8408,-148.1934,19.8,1,ml,,,,0.55,ak,ak022fobmbd6,2022-12-07T22:46:51.301Z,"8 km W of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-07T22:42:40.630Z,38.8398323,-122.8359985,1.45,1.05,md,21,84,0.001304,0.02,nc,nc73815861,2022-12-07T22:44:15.853Z,"10km NW of The Geysers, CA",earthquake,0.19,0.41,0.14,22,automatic,nc,nc
-2022-12-07T22:42:20.250Z,19.2119998931885,-155.479995727539,32.5499992370605,2.26,ml,40,122,,0.150000006,hv,hv73263382,2022-12-07T22:47:51.600Z,"1 km N of Pāhala, Hawaii",earthquake,0.69,0.970000029,4.02,7,automatic,hv,hv
-2022-12-07T22:35:46.704Z,37.9355,27.2414,10,4.3,mb,22,58,1.176,0.84,us,us6000j7qj,2022-12-07T23:40:53.040Z,"Western Turkey",earthquake,3.09,1.938,0.266,4,reviewed,us,us
+2022-12-07T22:42:20.250Z,19.2119998931885,-155.479995727539,32.5499992370605,2.26,ml,40,122,,0.150000006,hv,hv73263382,2022-12-07T23:52:23.040Z,"1 km N of Pāhala, Hawaii",earthquake,0.69,0.970000029,4.02,7,automatic,hv,hv
+2022-12-07T22:35:46.704Z,37.9355,27.2414,10,4.3,mb,22,58,1.176,0.84,us,us6000j7qj,2022-12-07T23:51:01.916Z,"Western Turkey",earthquake,3.09,1.938,0.266,4,reviewed,us,us
 2022-12-07T22:32:10.200Z,38.8398323,-122.8359985,1.4,1.29,md,26,84,,0.03,nc,nc73815851,2022-12-07T23:31:12.782Z,"10km NW of The Geysers, CA",earthquake,0.17,0.32,0.15,28,automatic,nc,nc
 2022-12-07T22:31:48.270Z,38.8428345,-122.836998,0.48,0.81,md,15,117,0.0044,0.05,nc,nc73815846,2022-12-07T22:33:26.824Z,"10km NW of The Geysers, CA",earthquake,0.24,0.44,0.15,14,automatic,nc,nc
 2022-12-07T22:13:03.840Z,33.731,-118.1425,6.52,1.46,ml,8,192,0.1274,0.31,ci,ci40143271,2022-12-07T22:16:41.990Z,"4km WSW of Seal Beach, CA",earthquake,1.84,4.68,0.307,32,automatic,ci,ci
