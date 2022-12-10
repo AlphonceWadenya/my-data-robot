@@ -213,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-09T06:55:29.225Z,-6.1376,104.1891,66.237,4.7,mb,32,95,2.151,0.71,us,us6000j83r,2022-12-09T07:20:46.040Z,"142 km WSW of Bandar Lampung, Indonesia",earthquake,8.13,7.87,0.134,17,reviewed,us,us
 2022-12-09T06:55:29.060Z,58.2213333333333,-155.184166666667,4.14,0.53,ml,8,132,,0.13,av,av91728431,2022-12-10T00:10:46.660Z,"84 km NNW of Karluk, Alaska",earthquake,0.31,0.72,0.270185848131758,8,reviewed,av,av
 2022-12-09T06:52:39.695Z,39.2418,-120.0981,9.2,0.4,ml,5,100.45,0.041,0.1108,nn,nn00853068,2022-12-10T02:41:30.164Z,"2 km NW of Carnelian Bay, California",earthquake,,2.2,0,1,reviewed,nn,nn
-2022-12-09T06:48:02.090Z,33.862999,-116.4339981,16.33,1.26,ml,12,153,0.2255,0.16,ci,ci40143911,2022-12-10T01:12:52.718Z,"6km NW of Thousand Palms, CA",earthquake,1.56,2.81,0.423,10,automatic,ci,ci
