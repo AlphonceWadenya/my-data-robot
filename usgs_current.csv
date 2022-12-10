@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-09T10:02:26.020Z,58.1658333333333,-155.368333333333,1.29,-0.12,ml,4,138,,0.04,av,av91728481,2022-12-10T00:29:29.810Z,"85 km NW of Karluk, Alaska",earthquake,0.25,1.4,0.117067631277149,4,reviewed,av,av
 2022-12-09T10:02:21.771Z,64.3261,-150.8713,0,1.3,ml,,,,1.06,ak,ak022frfaujl,2022-12-09T10:04:41.180Z,"76 km S of Manley Hot Springs, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-09T09:58:49.623Z,61.1537,-151.1385,58.9,1.7,ml,,,,0.58,ak,ak022frf1h6q,2022-12-09T10:01:08.865Z,"3 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-12-09T09:53:09.820Z,19.1901664733887,-155.486831665039,31.3299999237061,1.72000003,md,19,226,,0.159999996,hv,hv73264482,2022-12-09T09:56:28.320Z,"1 km SSW of Pāhala, Hawaii",earthquake,1.21,1.53999996,1.34000003,5,automatic,hv,hv
