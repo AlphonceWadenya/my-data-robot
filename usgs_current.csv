@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-11T13:38:31.480Z,38.7858315,-122.7494965,0.2,1.06,md,9,123,0.01031,0.02,nc,nc73817276,2022-12-11T13:40:08.102Z,"1km NNE of The Geysers, CA",earthquake,0.29,0.54,0.06,9,automatic,nc,nc
+2022-12-11T13:59:52.980Z,38.7876663,-122.7468338,1.52,1.2,md,14,139,0.009054,0.02,nc,nc73817281,2022-12-11T14:01:28.226Z,"1km NE of The Geysers, CA",earthquake,0.29,0.47,0.15,13,automatic,nc,nc
+2022-12-11T13:54:30.700Z,61.2474,-149.9259,34.1,1.5,ml,,,,0.65,ak,ak022fush08a,2022-12-11T13:56:46.077Z,"3 km NNW of Anchorage, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-12-11T13:38:31.480Z,38.7858315,-122.7494965,0.2,1.06,md,9,123,0.01031,0.02,nc,nc73817276,2022-12-11T13:56:12.814Z,"1km NNE of The Geysers, CA",earthquake,0.29,0.54,0.06,9,automatic,nc,nc
 2022-12-11T13:20:58.768Z,59.9016,-152.9326,117.8,2,ml,,,,0.67,ak,ak022fus9s38,2022-12-11T13:23:50.718Z,"63 km WNW of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-12-11T13:13:32.405Z,62.1829,-150.0824,6.8,1.8,ml,,,,0.55,ak,ak022fus881k,2022-12-11T13:15:30.755Z,"12 km W of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-11T13:05:48.370Z,61.8882,-152.051,112.8,2.1,ml,,,,0.57,ak,ak022fus6jew,2022-12-11T13:07:46.398Z,"36 km WSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -126,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-10T20:21:17.988Z,-10.2182,118.6966,44.02,4.5,mb,38,100,1.653,0.48,us,us6000j8gv,2022-12-11T00:51:57.040Z,"182 km WSW of Waingapu, Indonesia",earthquake,7.24,8.696,0.106,26,reviewed,us,us
 2022-12-10T20:11:29.018Z,65.021,-147.0379,5.1,1.2,ml,,,,1.09,ak,ak022ft8uh39,2022-12-10T20:13:37.343Z,"16 km N of Two Rivers, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-10T19:58:18.429Z,63.8163,-149.2927,29.2,2,ml,,,,1.24,ak,ak022ft8j3bm,2022-12-10T20:00:37.425Z,"16 km WSW of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-12-10T19:52:45.597Z,-20.1126,-175.1414,119.597,4.9,mb,42,126,1.053,1.01,us,us6000j8gt,2022-12-10T20:10:59.040Z,"Tonga",earthquake,7.73,8.52,0.083,47,reviewed,us,us
+2022-12-10T19:52:45.597Z,-20.1126,-175.1414,119.597,4.9,mb,42,126,1.053,1.01,us,us6000j8gt,2022-12-10T20:10:59.040Z,"88 km WSW of Pangai, Tonga",earthquake,7.73,8.52,0.083,47,reviewed,us,us
 2022-12-10T19:48:51.830Z,19.2408332824707,-155.403167724609,30.8199996948242,2.11999989,md,30,134,,0.129999995,hv,hv73265667,2022-12-10T19:51:59.370Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.67,0.670000017,1.05999994,15,automatic,hv,hv
 2022-12-10T19:38:02.270Z,19.4185009002686,-155.265838623047,0.419999986886978,1.90999997,md,12,57,,0.129999995,hv,hv73265652,2022-12-10T19:41:08.280Z,"4 km SW of Volcano, Hawaii",earthquake,0.19,0.330000013,1,11,automatic,hv,hv
 2022-12-10T19:37:25.340Z,38.8296661,-122.8030014,1.91,1.04,md,12,42,0.008351,0.01,nc,nc73817031,2022-12-10T19:56:24.454Z,"7km W of Cobb, CA",earthquake,0.27,0.78,0.2,15,automatic,nc,nc
