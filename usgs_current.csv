@@ -80,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-12T12:00:29.348Z,65.431,-148.2354,6.1,2.6,ml,,,,0.62,ak,ak022fwf3cf0,2022-12-12T12:08:00.040Z,"17 km SE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-12T11:58:26.210Z,33.857,-118.4131667,11.72,2.09,ml,49,119,0.06904,0.27,ci,ci40144855,2022-12-12T20:43:33.606Z,"1km WSW of Hermosa Beach, CA",earthquake,0.41,0.52,0.274,26,automatic,ci,ci
 2022-12-12T11:56:50.188Z,50.3581,90.7723,10,4.7,mb,57,51,5.133,0.42,us,us6000j8rb,2022-12-12T12:18:46.040Z,"23 km E of Mugur-Aksy, Russia",earthquake,6.54,1.815,0.079,49,reviewed,us,us
-2022-12-12T11:56:37.070Z,37.2598333,-122.1565,2.83,1.45,md,24,103,0.04861,0.19,nc,nc73817601,2022-12-12T21:19:10.339Z,"11km SSW of Loyola, CA",earthquake,0.35,0.86,0.203,14,reviewed,nc,nc
+2022-12-12T11:56:37.070Z,37.2598333,-122.1565,2.83,1.45,md,24,103,0.04861,0.19,nc,nc73817601,2022-12-12T21:54:14.420Z,"11km SSW of Loyola, CA",earthquake,0.35,0.86,0.203,14,reviewed,nc,nc
 2022-12-12T11:39:51.590Z,19.2045001983643,-155.387161254883,31.6399993896484,2.43,ml,46,159,,0.129999995,hv,hv73267292,2022-12-12T11:47:33.040Z,"9 km E of Pāhala, Hawaii",earthquake,0.63,0.730000019,2.94,9,automatic,hv,hv
 2022-12-12T11:24:10.050Z,33.3531667,-116.3448333,11.51,1.26,ml,35,55,0.1042,0.2,ci,ci40144847,2022-12-12T11:27:42.990Z,"11km NNE of Borrego Springs, CA",earthquake,0.3,1.11,0.144,27,automatic,ci,ci
 2022-12-12T11:21:00.930Z,34.253,-116.445,6.62,1.54,ml,25,79,0.0644,0.18,ci,ci40144839,2022-12-12T14:00:48.510Z,"16km N of Yucca Valley, CA",earthquake,0.28,0.71,0.132,28,reviewed,ci,ci
