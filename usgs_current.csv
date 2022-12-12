@@ -171,4 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-11T15:08:38.184Z,60.6966,-146.7057,20.6,1.2,ml,,,,0.99,ak,ak022fute12o,2022-12-11T15:11:06.956Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-11T15:03:11.201Z,14.1275,-89.8813,191.689,5.2,mb,92,123,0.245,0.72,us,us6000j8lw,2022-12-11T16:52:17.040Z,"3 km ENE of Comapa, Guatemala",earthquake,8.27,4.509,0.024,587,reviewed,us,us
 2022-12-11T14:59:47.770Z,38.8213348,-122.7798309,1.26,0.86,md,8,127,0.008092,0.03,nc,nc73817296,2022-12-11T15:35:17.428Z,"5km W of Cobb, CA",earthquake,0.37,0.68,0.17,10,automatic,nc,nc
-2022-12-11T14:53:49.435Z,72.673,-95.8784,10,4.2,mb,75,69,5.345,0.55,us,us6000j8lv,2022-12-11T16:00:18.040Z,"Somerset Island, Nunavut, Canada",earthquake,7.03,1.781,0.06,80,reviewed,us,us
