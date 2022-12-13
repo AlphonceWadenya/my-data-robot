@@ -227,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-12T19:16:29.680Z,19.1903333333333,-64.929,24.75,3.37,md,20,285,0.8339,0.25,pr,pr71386903,2022-12-12T20:33:36.280Z,"93 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.26,18.86,0.188173919364831,13,reviewed,pr,pr
 2022-12-12T19:15:29.230Z,58.223,-155.167833333333,3.24,0.21,ml,6,226,,0.12,av,av91729966,2022-12-13T03:17:48.030Z,"84 km NNW of Karluk, Alaska",earthquake,0.52,1.14,0.293058807071687,6,reviewed,av,av
 2022-12-12T18:52:42.487Z,-11.8648,-73.989,102.538,4.6,mb,23,111,2.795,0.65,us,us6000j8ud,2022-12-12T20:00:16.040Z,"83 km SE of Mazamari, Peru",earthquake,6.25,11.527,0.152,13,reviewed,us,us
-2022-12-12T18:45:17.170Z,51.864,-177.9355,5.8,1.64,ml,4,164,,0.13,av,av91729946,2022-12-13T03:08:29.190Z,"89 km W of Adak, Alaska",earthquake,0.53,1.41,0.214534154753761,4,reviewed,av,av
-2022-12-12T18:42:37.680Z,58.2073333333333,-155.102833333333,0.91,0.27,ml,8,191,,0.12,av,av91729941,2022-12-13T03:06:32.570Z,"80 km NNW of Karluk, Alaska",earthquake,0.44,1.44,0.254770040698064,9,reviewed,av,av
