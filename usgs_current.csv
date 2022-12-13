@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-13T23:36:09.040Z,38.8354988,-122.8078308,2.46,0.39,md,11,63,0.01221,0.01,nc,nc73818416,2022-12-13T23:37:41.667Z,"8km WNW of Cobb, CA",earthquake,0.34,1.31,0.3,12,automatic,nc,nc
 2022-12-13T23:16:17.189Z,37.0158,-115.5107,2.9,1.7,ml,24,113.8,0.368,0.2711,nn,nn00853299,2022-12-13T23:19:08.313Z,"49 km SW of Alamo, Nevada",earthquake,,7.2,0.93,18,automatic,nn,nn
 2022-12-13T23:16:03.223Z,61.6494,-147.4809,19.5,2,ml,,,,0.77,ak,ak022fy99tyk,2022-12-13T23:17:56.764Z,"19 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-13T23:07:21.000Z,38.8328323,-122.8068314,2.44,0.81,md,9,92,0.009758,0.01,nc,nc73818401,2022-12-13T23:08:57.389Z,"7km W of Cobb, CA",earthquake,0.48,1,0.59,11,automatic,nc,nc
@@ -212,7 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-12T23:44:32.390Z,38.856,-122.8393333,0.93,0.93,md,14,129,0.01255,0.02,nc,nc71129489,2022-12-13T07:25:59.196Z,"11km WNW of Cobb, CA",earthquake,0.23,0.48,,1,reviewed,nc,nc
 2022-12-12T23:44:27.680Z,38.858,-122.8385,0.95,1.23,md,35,119,0.01229,0.05,nc,nc73817816,2022-12-13T09:50:10.685Z,"11km WNW of Cobb, CA",earthquake,0.14,0.28,0.219,6,reviewed,nc,nc
 2022-12-12T23:44:23.980Z,38.8605,-122.8391667,1.58,0.79,md,27,143,0.01366,0.04,nc,nc73817811,2022-12-13T07:16:28.000Z,"11km WNW of Cobb, CA",earthquake,0.27,0.18,0.058,4,reviewed,nc,nc
-2022-12-12T23:40:37.220Z,38.8580017,-122.8378296,1.08,1.04,md,10,134,0.01947,0.01,nc,nc73817791,2022-12-12T23:42:11.338Z,"11km WNW of Cobb, CA",earthquake,0.32,0.77,0.07,10,automatic,nc,nc
-2022-12-12T23:40:07.330Z,38.856,-122.8385,0.56,1.19,md,42,115,0.01191,0.04,nc,nc73817781,2022-12-13T10:24:11.903Z,"11km WNW of Cobb, CA",earthquake,0.14,0.27,0.157,9,reviewed,nc,nc
-2022-12-12T23:38:00.630Z,38.8563333,-122.8393333,0.66,0.48,md,23,129,0.01259,0.04,nc,nc73817771,2022-12-13T08:12:12.126Z,"11km WNW of Cobb, CA",earthquake,0.19,0.27,0.208,4,reviewed,nc,nc
-2022-12-12T23:37:31.940Z,38.8551674,-122.8388367,1.13,0.97,md,16,125,0.0121,0.02,nc,nc73817766,2022-12-12T23:39:06.381Z,"11km WNW of Cobb, CA",earthquake,0.26,0.43,0.08,18,automatic,nc,nc
