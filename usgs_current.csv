@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-14T17:33:33.540Z,17.954,-67.0313333333333,7.12,1.94,md,4,267,0.01965,0.03,pr,pr71387158,2022-12-14T17:54:40.660Z,"2 km SE of La Parguera, Puerto Rico",earthquake,0.52,0.76,0.00737535059220695,3,reviewed,pr,pr
 2022-12-14T17:23:24.230Z,62.3354,-148.1335,27.1,1.7,ml,,,,0.97,ak,ak022fzta4h3,2022-12-14T17:25:50.957Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-14T17:21:05.873Z,63.5817,-147.722,0,1.5,ml,,,,0.79,ak,ak022fzt9nmj,2022-12-14T17:23:49.299Z,"61 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-14T17:12:48.700Z,33.6438332,-116.7014999,12.59,1.08,ml,37,53,0.03404,0.11,ci,ci40145495,2022-12-14T17:16:12.867Z,"10km NNW of Anza, CA",earthquake,0.28,0.51,0.265,12,automatic,ci,ci
