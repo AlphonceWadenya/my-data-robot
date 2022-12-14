@@ -186,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-13T16:24:43.120Z,38.8008347,-122.7496643,2.43,0.72,md,9,175,0.007854,0.02,nc,nc73818231,2022-12-13T17:19:13.532Z,"3km NNE of The Geysers, CA",earthquake,0.55,0.94,0.06,9,automatic,nc,nc
 2022-12-13T16:22:48.123Z,63.6284,-147.5935,8.3,2.1,ml,,,,0.85,ak,ak022fy556i4,2022-12-13T16:24:46.384Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-13T16:01:56.031Z,61.8738,-150.1458,35.5,1.5,ml,,,,0.78,ak,ak022fy50p2r,2022-12-13T16:03:11.293Z,"15 km NNW of Willow, Alaska",earthquake,,8.5,,,automatic,ak,ak
-2022-12-13T15:56:55.590Z,36.6090012,-121.2143326,8.93,1.76,md,16,127,0.04391,0.08,nc,nc73818226,2022-12-13T18:09:14.835Z,"11km NW of Pinnacles, CA",earthquake,0.32,0.74,0.2,16,automatic,nc,nc
