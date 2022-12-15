@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-15T18:36:15.270Z,38.796833,-122.7556686,1.7,0.76,md,8,150,0.004932,0.03,nc,nc73819001,2022-12-15T18:37:49.959Z,"2km N of The Geysers, CA",earthquake,0.48,0.87,0.12,10,automatic,nc,nc
 2022-12-15T18:16:57.871Z,61.8951,-144.1262,0,1.6,ml,,,,0.57,ak,ak022g1hdh5n,2022-12-15T18:18:34.212Z,"45 km NNE of Chitina, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-15T18:03:43.706Z,58.1839,-155.3648,0,1.4,ml,,,,0.36,ak,ak022g1hanr6,2022-12-15T18:05:29.339Z,"87 km NW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-12-15T18:02:04.190Z,33.8231667,-117.4873333,2.27,1.6,ml,41,51,0.0357,0.22,ci,ci40145791,2022-12-15T18:06:23.295Z,"7km SSE of Home Gardens, CA",quarry blast,0.34,0.44,0.214,34,automatic,ci,ci
@@ -30,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T14:41:04.810Z,19.2501659393311,-155.404159545898,6.26999998092651,2.87,ml,33,190,,0.370000005,hv,hv73270462,2022-12-15T14:46:35.400Z,"9 km ENE of Pāhala, Hawaii",earthquake,1.87,2.49000001,2.15,18,automatic,hv,hv
 2022-12-15T14:40:58.350Z,19.2118339538574,-155.414505004883,32.9900016784668,2.98,ml,49,145,,0.189999998,hv,hv73270467,2022-12-15T16:42:35.932Z,"6 km E of Pāhala, Hawaii",earthquake,0.56,0.779999971,3.22,29,automatic,hv,hv
 2022-12-15T14:40:35.250Z,19.1703338623047,-155.375335693359,32.2799987792969,2.92,ml,23,217,,0.0900000036,hv,hv73270457,2022-12-15T14:46:06.310Z,"11 km ESE of Pāhala, Hawaii",earthquake,0.85,1.30999994,3.36,32,automatic,hv,hv
-2022-12-15T14:32:23.985Z,12.9416,-88.4516,74.219,5.7,mww,55,101,0.901,0.7,us,us6000j9es,2022-12-15T17:50:59.652Z,"39 km SSE of Puerto El Triunfo, El Salvador",earthquake,6.45,3.332,0.062,25,reviewed,us,us
+2022-12-15T14:32:23.985Z,12.9416,-88.4516,74.219,5.7,mww,55,101,0.901,0.7,us,us6000j9es,2022-12-15T18:40:29.901Z,"39 km SSE of Puerto El Triunfo, El Salvador",earthquake,6.45,3.332,0.062,25,reviewed,us,us
 2022-12-15T14:04:29.890Z,38.8363342,-122.7914963,1.92,1.27,md,20,43,0.002259,0.02,nc,nc73818956,2022-12-15T14:37:14.766Z,"6km WNW of Cobb, CA",earthquake,0.22,0.51,0.17,21,automatic,nc,nc
 2022-12-15T13:55:13.460Z,33.335,-116.3773333,12.47,1.62,ml,72,29,0.01187,0.19,ci,ci40145735,2022-12-15T17:29:36.910Z,"9km N of Borrego Springs, CA",earthquake,0.15,0.46,0.147,52,reviewed,ci,ci
 2022-12-15T13:12:40.550Z,33.1548333,-116.5876667,9.42,0.97,ml,45,39,0.06672,0.15,ci,ci40145727,2022-12-15T17:16:29.913Z,"9km N of Julian, CA",earthquake,0.17,0.39,0.18,22,reviewed,ci,ci
@@ -201,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-14T18:45:09.630Z,56.866,-158.175166666667,3.05,1.35,ml,5,108,,0.11,av,av91079923,2022-12-15T02:18:43.210Z,"28 km ESE of Port Heiden, Alaska",earthquake,0.41,0.7,0.313167909442302,5,reviewed,av,av
 2022-12-14T18:43:42.830Z,38.8336678,-122.8095016,2.29,0.5,md,6,122,0.01027,0,nc,nc73818666,2022-12-14T19:06:10.759Z,"8km W of Cobb, CA",earthquake,0.45,1.28,0.31,8,automatic,nc,nc
 2022-12-14T18:40:58.800Z,19.3598327636719,-155.28450012207,1.23000001907349,1.78999996,md,15,129,,0.100000001,hv,hv73269482,2022-12-14T18:46:29.610Z,"10 km SSW of Volcano, Hawaii",earthquake,0.32,0.419999987,1.05999994,11,automatic,hv,hv
-2022-12-14T18:40:28.154Z,51.7248,178.6537,83.74,6.3,mww,221,35,0.214,0.77,us,us6000j985,2022-12-15T12:50:38.435Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,5.67,2.714,0.052,36,reviewed,us,us
