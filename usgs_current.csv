@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-16T16:48:32.250Z,38.6601677,-119.8481674,-0.93,1.61,md,7,128,0.2676,0.06,nc,nc73819416,2022-12-16T16:50:07.985Z,"6km SW of Markleeville, CA",earthquake,0.5,7.93,0.25,4,automatic,nc,nc
-2022-12-16T16:47:17.090Z,20.4788341522217,-156.063003540039,13.289999961853,3.6500001,md,56,159,,0.180000007,hv,hv73271992,2022-12-16T16:51:10.370Z,"31 km SSW of Hana, Hawaii",earthquake,0.95,0.810000002,0.300000012,45,automatic,hv,hv
+2022-12-16T16:48:32.250Z,38.6601677,-119.8481674,-0.93,1.61,md,7,128,0.2676,0.06,nc,nc73819416,2022-12-16T16:51:21.795Z,"6km SW of Markleeville, CA",earthquake,0.5,7.93,0.25,4,automatic,nc,nc
+2022-12-16T16:47:17.090Z,20.4788341522217,-156.063003540039,13.289999961853,3.78,ml,56,159,,0.180000007,hv,hv73271992,2022-12-16T16:56:44.040Z,"31 km SSW of Hana, Hawaii",earthquake,0.95,0.810000002,4.12,37,automatic,hv,hv
 2022-12-16T16:47:07.582Z,36.7013,-116.2755,11.3,0.5,ml,18,81.7,0.057,0.1856,nn,nn00853505,2022-12-16T16:49:03.346Z,"48 km ESE of Beatty, Nevada",earthquake,,0.7,1.16,12,automatic,nn,nn
 2022-12-16T16:17:41.510Z,19.4188327789307,-155.274169921875,11.9799995422363,1.72000003,md,15,122,,0.239999995,hv,hv73271957,2022-12-16T16:23:14.450Z,"4 km WSW of Volcano, Hawaii",earthquake,0.84,0.709999979,0.620000005,5,automatic,hv,hv
 2022-12-16T16:08:24.510Z,38.8013344,-122.7766647,-0.02,0.93,md,5,145,0.01199,0.01,nc,nc73819411,2022-12-16T16:09:58.527Z,"3km NNW of The Geysers, CA",earthquake,0.4,1.11,0.14,8,automatic,nc,nc
@@ -234,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T17:02:00.201Z,60.2668,-151.0879,60.9,1.7,ml,,,,0.25,ak,ak022g1gox2s,2022-12-15T17:03:48.012Z,"12 km SE of Kasilof, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-15T16:59:55.580Z,38.1566,-117.9136,9.3,1.3,ml,15,124.11,0.04,0.1454,nn,nn00853436,2022-12-16T02:41:09.648Z,"31 km SSE of Mina, Nevada",earthquake,,1.1,1.12,4,reviewed,nn,nn
 2022-12-15T16:59:41.490Z,18.0741666666667,-66.978,6.16,1.58,md,4,215,0.03897,0.12,pr,pr71387333,2022-12-15T17:19:29.160Z,"1 km WSW of Sabana Grande, Puerto Rico",earthquake,0.96,1.21,0.0564751276808642,3,reviewed,pr,pr
-2022-12-15T16:56:14.660Z,38.8333321,-122.8046646,2.04,1.25,md,24,51,0.01078,0.02,nc,nc73818981,2022-12-15T17:57:14.100Z,"7km W of Cobb, CA",earthquake,0.19,0.41,0.17,24,automatic,nc,nc
