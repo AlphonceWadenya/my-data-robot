@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-17T14:22:01.149Z,64.5148,-149.2939,10.4,1.4,ml,,,,0.55,ak,ak022g4q3ln6,2022-12-17T14:24:18.100Z,"10 km WSW of Nenana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-17T14:07:04.707Z,39.096,-117.4998,16,1.5,ml,10,238.38,0.469,0.6627,nn,nn00853597,2022-12-17T14:10:31.866Z,"39 km WSW of Kingston, Nevada",earthquake,,1.1,0.43,6,automatic,nn,nn
 2022-12-17T14:03:55.440Z,38.8199997,-122.8021698,1.84,0.5,md,7,97,0.007044,0.01,nc,nc73819801,2022-12-17T14:05:29.549Z,"6km NW of The Geysers, CA",earthquake,0.34,0.45,0.24,9,automatic,nc,nc
 2022-12-17T13:56:53.550Z,19.1766662597656,-155.498001098633,32.8899993896484,2.33999991,md,47,98,,0.119999997,hv,hv73273477,2022-12-17T14:02:23.320Z,"3 km SW of Pāhala, Hawaii",earthquake,0.51,0.850000024,1.05999994,23,automatic,hv,hv
 2022-12-17T13:54:11.840Z,38.8263321,-122.8121643,3.75,0.78,md,9,109,0.003357,0.03,nc,nc73819796,2022-12-17T13:55:49.075Z,"7km NW of The Geysers, CA",earthquake,0.85,2.99,0.25,9,automatic,nc,nc
-2022-12-17T13:42:18.430Z,38.8224983,-122.8115005,2.88,0.57,md,5,87,0.001429,0,nc,nc73819791,2022-12-17T13:43:54.053Z,"7km NW of The Geysers, CA",earthquake,0.9,2.4,0.3,8,automatic,nc,nc
+2022-12-17T13:42:18.430Z,38.8224983,-122.8115005,2.88,0.57,md,5,87,0.001429,0,nc,nc73819791,2022-12-17T14:24:11.519Z,"7km NW of The Geysers, CA",earthquake,0.9,2.4,0.3,8,automatic,nc,nc
 2022-12-17T13:41:18.150Z,38.8238335,-122.8073349,2.82,2.2,md,46,36,,0.05,nc,nc73819786,2022-12-17T14:11:14.945Z,"7km NW of The Geysers, CA",earthquake,0.17,0.25,0.17,46,automatic,nc,nc
 2022-12-17T13:39:01.740Z,38.8006668,-122.7685013,0.99,0.94,md,10,79,0.006868,0.01,nc,nc73819776,2022-12-17T14:01:11.382Z,"3km NNW of The Geysers, CA",earthquake,0.26,0.73,0.2,11,automatic,nc,nc
 2022-12-17T13:33:04.190Z,32.6725,-115.8225,5.78,1.81,ml,24,85,0.08431,0.26,ci,ci40391504,2022-12-17T13:44:07.050Z,"17km ESE of Ocotillo, CA",earthquake,0.53,1.91,0.243,28,automatic,ci,ci
@@ -17,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-17T12:04:02.183Z,61.0642,-151.671,86,1.4,ml,,,,0.45,ak,ak022g4osvmi,2022-12-17T12:06:19.841Z,"28 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-17T11:59:28.416Z,65.2325,-149.6906,12.6,1.2,ml,,,,0.63,ak,ak022g4ojafd,2022-12-17T12:01:37.022Z,"18 km WNW of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-17T11:53:48.568Z,62.1495,-150.0325,3.1,1.6,ml,,,,0.43,ak,ak022g4oi1oo,2022-12-17T11:55:54.442Z,"9 km W of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-17T11:39:42.840Z,37.9238319,-122.3024979,5.79,3.57,mw,85,27,,0.13,nc,nc73819746,2022-12-17T14:14:52.969Z,"1km NE of El Cerrito, CA",earthquake,0.15,0.34,,4,reviewed,nc,nc
+2022-12-17T11:39:42.840Z,37.9238319,-122.3024979,5.79,3.57,mw,85,27,,0.13,nc,nc73819746,2022-12-17T14:20:45.548Z,"1km NE of El Cerrito, CA",earthquake,0.15,0.34,,4,reviewed,nc,nc
 2022-12-17T11:32:20.440Z,33.8968333,-119.9468333,15.1,2.25,ml,8,261,0.1368,0.1,ci,ci40391472,2022-12-17T12:29:57.192Z,"16km ESE of Santa Rosa Is., CA",earthquake,2.34,1.49,0.111,26,automatic,ci,ci
 2022-12-17T11:09:39.724Z,37.5868,-117.7161,0.2,0.9,ml,11,204.88,0.287,0.1341,nn,nn00853588,2022-12-17T11:13:20.932Z,"19 km SSW of Silver Peak, Nevada",earthquake,,50,0.99,6,automatic,nn,nn
 2022-12-17T10:57:55.670Z,17.8483333333333,-65.661,12.27,2.77,md,5,276,0.2682,0.06,pr,pr71387748,2022-12-17T11:30:22.150Z,"Puerto Rico region",earthquake,0.67,0.75,0.062262958782811,3,reviewed,pr,pr
