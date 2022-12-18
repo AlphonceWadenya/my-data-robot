@@ -198,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-17T16:18:06.027Z,-21.7916,-68.5759,143.701,4.2,mb,23,70,0.619,1.16,us,us6000ja0s,2022-12-17T17:21:32.040Z,"81 km NNE of Calama, Chile",earthquake,6.32,7.387,0.2,7,reviewed,us,us
 2022-12-17T16:13:31.436Z,-8.7432,159.6294,99.763,4.5,mb,26,95,0.759,0.6,us,us6000ja0t,2022-12-17T19:19:53.040Z,"Solomon Islands",earthquake,10.86,5.498,0.104,27,reviewed,us,us
 2022-12-17T15:58:04.075Z,1.212,-78.828,84.681,4.4,mb,18,163,5.768,0.4,us,us6000ja0q,2022-12-17T19:13:11.040Z,"Colombia-Ecuador border region",earthquake,10.02,5.976,0.149,13,reviewed,us,us
-2022-12-17T15:51:41.490Z,36.53816667,-98.96533333,6.69,2.52,ml,96,48,0,0.2,ok,ok2022yqrm,2022-12-18T05:05:43.426Z,"Oklahoma",earthquake,,0.2,0.24,28,reviewed,ok,ok
