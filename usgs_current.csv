@@ -233,5 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-19T07:32:54.090Z,38.7963333,-122.7541656,2.55,0.78,md,11,91,0.006095,0.06,nc,nc73820596,2022-12-19T08:26:13.664Z,"2km N of The Geysers, CA",earthquake,0.42,1.07,0.35,11,automatic,nc,nc
 2022-12-19T07:32:06.192Z,37.1683,-115.9735,3.7,-0.2,ml,6,195.74,0.014,0.1002,nn,nn00853723,2022-12-20T02:39:22.116Z,"56 km SSW of Rachel, Nevada",earthquake,,2.3,0.09,5,reviewed,nn,nn
 2022-12-19T07:31:37.400Z,58.2492,-155.0928,3.5,0.5,ml,,,,0.1,ak,ak022g7x29n0,2022-12-20T02:23:00.470Z,"84 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-12-19T07:25:01.689Z,61.5242,-141.081,10,2.7,ml,28,94,0.544,0.39,us,us6000ja9f,2022-12-19T10:27:46.040Z,"98 km E of McCarthy, Alaska",earthquake,2.14,1.967,0.044,68,reviewed,us,us
-2022-12-19T07:22:08.730Z,56.8503333333333,-158.166833333333,6.18,-0.87,ml,5,119,,0.28,av,av91080998,2022-12-20T02:36:51.650Z,"30 km ESE of Port Heiden, Alaska",earthquake,1.04,1.42,0.199950807823244,4,reviewed,av,av
