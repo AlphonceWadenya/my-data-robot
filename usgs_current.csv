@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-21T14:37:14.310Z,40.5974998,-124.0794983,14.43,2.36,md,16,125,0.1796,0.08,nc,nc73822516,2022-12-21T14:38:47.335Z,"6km NNE of Hydesville, CA",earthquake,0.42,0.75,0.08,13,automatic,nc,nc
+2022-12-21T14:39:02.367Z,63.987,-146.7934,12.5,1.6,ml,,,,0.74,ak,ak022gbccmvw,2022-12-21T14:41:19.708Z,"43 km SSW of Harding-Birch Lakes, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-12-21T14:37:14.310Z,40.5974998,-124.0794983,14.43,2.36,md,16,125,0.1796,0.08,nc,nc73822516,2022-12-21T14:44:13.406Z,"6km NNE of Hydesville, CA",earthquake,0.42,0.75,0.08,13,automatic,nc,nc
 2022-12-21T14:27:38.257Z,58.6917,-151.0862,8.5,3,ml,,,,0.64,ak,ak022gbca4vx,2022-12-21T14:29:46.452Z,"84 km SSE of Port Graham, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-21T14:24:44.996Z,62.6444,-151.125,81.1,1.7,ml,,,,0.47,ak,ak022gbc9ifn,2022-12-21T14:26:49.106Z,"24 km NW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-21T14:08:40.805Z,38.1703,-117.8946,9.1,0.9,ml,10,170.85,0.06,0.129,nn,nn00853873,2022-12-21T14:12:10.393Z,"30 km SE of Mina, Nevada",earthquake,,0.5,0.51,6,automatic,nn,nn
@@ -149,7 +150,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-20T23:16:19.080Z,19.253833770752,-155.431503295898,32.3400001525879,2.31999993,md,35,114,,0.150000006,hv,hv73277197,2022-12-20T23:49:05.040Z,"7 km NE of Pāhala, Hawaii",earthquake,0.69,0.949999988,0.0500000007,11,automatic,hv,hv
 2022-12-20T23:14:14.700Z,38.8256683,-122.8041687,2.57,0.83,md,14,102,0.005141,0.01,nc,nc73822061,2022-12-20T23:31:12.953Z,"7km NW of The Geysers, CA",earthquake,0.29,0.56,0.25,12,automatic,nc,nc
 2022-12-20T23:14:13.261Z,58.1251,-155.5752,21,0.5,ml,,,,0.46,ak,ak022g9u0v0o,2022-12-20T23:16:15.815Z,"89 km SE of King Salmon, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-12-20T23:13:41.539Z,-26.6034,-175.6219,10,5.2,mb,57,85,3.339,1.24,us,us6000japz,2022-12-20T23:33:21.040Z,"south of Tonga",earthquake,7.2,1.749,0.086,44,reviewed,us,us
+2022-12-20T23:13:41.539Z,-26.6034,-175.6219,10,5.2,mb,57,85,3.339,1.24,us,us6000japz,2022-12-21T14:41:58.040Z,"south of Tonga",earthquake,7.2,1.749,0.086,44,reviewed,us,us
 2022-12-20T23:07:46.860Z,34.5198333,-119.094,13.04,1.15,ml,13,106,0.149,0.23,ci,ci40392784,2022-12-20T23:11:22.080Z,"16km ENE of Ojai, CA",earthquake,0.53,1.36,0.234,15,automatic,ci,ci
 2022-12-20T22:59:21.300Z,31.6552,-104.3191,5,2.6,mb_lg,26,111,0.156,0.44,us,us6000japw,2022-12-20T23:20:31.040Z,"57 km S of Whites City, New Mexico",earthquake,1.28,1.732,0.161,13,reviewed,us,us
 2022-12-20T22:47:17.150Z,33.4626667,-116.4095,12.81,0.94,ml,31,75,0.06207,0.18,ci,ci40392776,2022-12-21T14:38:50.180Z,"23km N of Borrego Springs, CA",earthquake,0.28,0.55,0.092,23,reviewed,ci,ci
@@ -262,4 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-20T14:59:24.220Z,19.2321662902832,-155.401992797852,31.6499996185303,1.72000003,md,27,144,,0.140000001,hv,hv73277067,2022-12-20T15:02:23.650Z,"Hawaii region, Hawaii",earthquake,0.98,0.850000024,0.730000019,8,automatic,hv,hv
 2022-12-20T14:57:43.330Z,37.7188339,-122.5486679,7.66,1.2,md,10,199,0.0961,0.03,nc,nc73821621,2022-12-20T15:28:11.836Z,"4km WSW of San Francisco Zoo, CA",earthquake,0.66,1.7,0.2,9,automatic,nc,nc
 2022-12-20T14:54:48.400Z,40.7008324,-124.0061646,19.18,1.76,md,6,254,0.08113,0.03,nc,nc73821616,2022-12-20T16:56:26.402Z,"13km ESE of Pine Hills, CA",earthquake,2.83,0.8,0.16,4,automatic,nc,nc
-2022-12-20T14:42:07.600Z,40.5706673,-124.3430023,12.75,2.41,md,11,256,0.09509,0.38,nc,nc73821596,2022-12-20T14:56:12.300Z,"7km W of Ferndale, CA",earthquake,4.32,2.7,0.13,2,automatic,nc,nc
