@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-21T22:52:23.790Z,40.541832,-124.2393341,22.22,2.47,md,17,180,0.09991,0.08,nc,nc73822761,2022-12-21T23:07:13.392Z,"4km SSE of Ferndale, CA",earthquake,0.64,0.55,0.06,14,automatic,nc,nc
 2022-12-21T22:15:34.370Z,35.038,-117.6646667,0.32,1.75,ml,20,78,0.1066,0.22,ci,ci40148655,2022-12-21T22:19:07.381Z,"4km NNW of Boron, CA",quarry blast,0.6,31.61,0.11,27,automatic,ci,ci
 2022-12-21T22:00:02.911Z,60.8986,-152.8312,120.9,1.5,ml,,,,0.33,ak,ak022gbgvrmn,2022-12-21T22:59:45.708Z,"87 km WNW of Nikiski, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2022-12-21T21:58:44.350Z,35.932,-117.761,7.55,2.28,ml,30,66,0.04917,0.17,ci,ci40148647,2022-12-21T23:46:37.038Z,"13km E of Little Lake, CA",earthquake,0.22,0.64,0.234,26,reviewed,ci,ci
+2022-12-21T21:58:44.350Z,35.932,-117.761,7.55,2.28,ml,30,66,0.04917,0.17,ci,ci40148647,2022-12-21T23:46:43.420Z,"13km E of Little Lake, CA",earthquake,0.22,0.64,0.234,26,reviewed,ci,ci
 2022-12-21T21:44:14.670Z,38.8381653,-122.7929993,2.16,0.21,md,9,121,0.002088,0.01,nc,nc73822736,2022-12-21T21:45:48.051Z,"6km WNW of Cobb, CA",earthquake,0.67,0.47,0.06,9,automatic,nc,nc
 2022-12-21T21:40:04.450Z,17.9676,-67.0001,6,3.12,md,23,187,0.0442,0.11,pr,pr2022355002,2022-12-21T22:13:40.040Z,"4 km E of La Parguera, Puerto Rico",earthquake,0.46,0.21,0.17,18,reviewed,pr,pr
 2022-12-21T21:39:58.890Z,35.6675,-117.5656667,6.53,1.18,ml,15,136,0.1168,0.12,ci,ci40148639,2022-12-21T21:43:29.657Z,"11km ENE of Ridgecrest, CA",earthquake,0.31,0.86,0.142,13,automatic,ci,ci
