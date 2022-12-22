@@ -222,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-21T11:19:38.652Z,38.159,-117.8429,9.6,2.9,ml,21,56.5,0.094,0.1422,nn,nn00853864,2022-12-21T16:58:00.182Z,"34 km SE of Mina, Nevada",earthquake,,1,0.26,8,reviewed,nn,nn
 2022-12-21T11:16:19.231Z,-6.1282,151.7701,10,5.3,mww,64,60,8.744,0.61,us,us6000jau3,2022-12-22T05:50:50.176Z,"191 km ESE of Kimbe, Papua New Guinea",earthquake,8.76,1.861,0.08,15,reviewed,us,us
 2022-12-21T11:13:36.110Z,46.098166666666664,-122.13616666666667,5.43,0.79,ml,19,103,0.0442,0.18,uw,uw61890712,2022-12-21T18:14:14.710Z,"31 km NE of Amboy, Washington",earthquake,0.46,0.74,0.110691987949457,13,reviewed,uw,uw
-2022-12-21T10:46:07.370Z,40.725666,-124.6303329,0.65,2.09,md,7,304,0.4819,0.2,nc,nc73822451,2022-12-21T21:51:36.389Z,"35km WNW of Ferndale, CA",earthquake,9.87,11.93,0.05,3,automatic,nc,nc
-2022-12-21T10:45:33.010Z,40.5241667,-124.3221667,17.09,2.2,md,17,195,0.04993,0.1,nc,nc73822456,2022-12-21T22:07:12.213Z,"8km SW of Ferndale, CA",earthquake,0.72,0.56,0.231,24,reviewed,nc,nc
