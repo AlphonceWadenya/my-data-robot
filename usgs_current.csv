@@ -152,7 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T08:44:52.550Z,40.5723343,-123.8311691,21.79,2.05,md,13,137,0.146,0.06,nc,nc73822956,2022-12-22T09:52:10.524Z,"23km E of Hydesville, CA",earthquake,0.44,0.65,0.2,9,automatic,nc,nc
 2022-12-22T08:40:28.493Z,39.3979,-119.8833,6.1,0.6,ml,15,81.64,0.084,0.1374,nn,nn00854004,2022-12-22T21:55:48.924Z,"11 km E of Floriston, California",earthquake,,1.5,0.64,5,reviewed,nn,nn
 2022-12-22T08:34:14.390Z,38.8338318,-122.8056641,2.12,0.68,md,17,51,0.01098,0.01,nc,nc73822951,2022-12-22T09:02:14.387Z,"7km W of Cobb, CA",earthquake,0.24,0.55,0.31,17,automatic,nc,nc
-2022-12-22T08:30:20.396Z,41.109,-83.4446,8.587,2.5,mb_lg,18,107,0.472,0.45,us,us6000jb16,2022-12-22T22:12:47.684Z,"5 km SSW of Fostoria, Ohio",earthquake,1.98,7.413,0.147,12,reviewed,us,us
+2022-12-22T08:30:20.396Z,41.109,-83.4446,8.587,2.5,mb_lg,18,107,0.472,0.45,us,us6000jb16,2022-12-22T23:55:44.248Z,"5 km SSW of Fostoria, Ohio",earthquake,1.98,7.413,0.147,12,reviewed,us,us
 2022-12-22T08:21:15.074Z,63.6248,-149.9779,7.1,1.9,ml,,,,0.67,ak,ak022gcw7jub,2022-12-22T08:23:54.762Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-22T08:19:47.540Z,19.136999130249,-155.479507446289,32.0800018310547,1.83000004,md,32,170,,0.140000001,hv,hv73278102,2022-12-22T08:22:49.050Z,"7 km S of Pāhala, Hawaii",earthquake,0.8,0.949999988,0.920000017,7,automatic,hv,hv
 2022-12-22T08:18:51.943Z,36.5002,-116.5829,0,0.6,ml,11,131.19,0.107,0.1214,nn,nn00854002,2022-12-22T21:46:08.859Z,"24 km ENE of Furnace Creek, California",earthquake,,0,1.05,4,reviewed,nn,nn
