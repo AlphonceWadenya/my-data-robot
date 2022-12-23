@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-23T23:38:12.410Z,36.6033325,-121.2018356,2.25,1.57,md,15,127,0.03423,0.11,nc,nc73823886,2022-12-23T23:39:45.103Z,"10km NNW of Pinnacles, CA",earthquake,0.51,0.92,0.25,9,automatic,nc,nc
+2022-12-23T23:36:54.010Z,33.1590004,-115.6368332,2.99,1.47,ml,13,82,0.0256,0.07,ci,ci40149247,2022-12-23T23:38:59.273Z,"12km WNW of Calipatria, CA",earthquake,0.58,0.75,0.304,7,automatic,ci,ci
+2022-12-23T23:33:37.177Z,37.3445,-117.1353,0,0.7,ml,8,151.03,0.385,0.2161,nn,nn00854086,2022-12-23T23:37:23.307Z,"41 km SSE of Goldfield, Nevada",earthquake,,51.8,1.09,5,automatic,nn,nn
 2022-12-23T23:28:42.060Z,38.814167,-122.8300018,1.47,1.08,md,16,48,0.00533,0.02,nc,nc73823871,2022-12-23T23:30:15.026Z,"8km WNW of The Geysers, CA",earthquake,0.21,0.52,0.24,18,automatic,nc,nc
 2022-12-23T22:49:10.050Z,38.7891655,-122.7331696,1.4,1.08,md,14,89,0.02369,0.03,nc,nc73823866,2022-12-23T23:09:12.961Z,"2km ENE of The Geysers, CA",earthquake,0.28,0.62,0.19,12,automatic,nc,nc
 2022-12-23T22:48:33.820Z,33.4405,-116.4426667,9.73,0.89,ml,32,69,0.08389,0.2,ci,ci40149231,2022-12-23T22:52:15.261Z,"22km NNW of Borrego Springs, CA",earthquake,0.3,0.7,0.127,24,automatic,ci,ci
@@ -61,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-23T16:08:21.980Z,58.2243333333333,-155.183166666667,4.01,-0.11,ml,5,132,,0.15,av,av91737006,2022-12-23T16:25:14.340Z,"Alaska Peninsula",earthquake,0.45,1.98,0.247457217582172,5,reviewed,av,av
 2022-12-23T16:07:05.360Z,47.904833333333336,-120.39416666666666,18.99,0.65,md,5,225,0.1701,0.32,uw,uw61891172,2022-12-23T18:56:45.650Z,"13 km W of Granite Falls, Washington",earthquake,2.25,3.88,0.09990569287507167,3,reviewed,uw,uw
 2022-12-23T16:00:16.040Z,38.8330002,-122.8150024,1.76,1.02,md,22,45,0.01033,0.01,nc,nc73823726,2022-12-23T16:34:14.406Z,"8km NW of The Geysers, CA",earthquake,0.19,0.36,0.09,24,automatic,nc,nc
-2022-12-23T15:50:44.600Z,58.224,-155.180333333333,3.63,0.56,ml,6,134,,0.11,av,av91736986,2022-12-23T16:18:07.740Z,"Alaska Peninsula",earthquake,0.3,1.36,0.300207509838638,6,reviewed,av,av
+2022-12-23T15:50:44.746Z,58.2248,-155.1877,2,0.6,ml,,,,0.2,ak,ak022geo37n5,2022-12-23T23:36:53.374Z,"84 km NNW of Karluk, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2022-12-23T15:47:59.840Z,19.2024993896484,-155.397506713867,32.4799995422363,2.25,md,41,159,,0.140000001,hv,hv73279482,2022-12-23T15:51:22.360Z,"8 km E of Pāhala, Hawaii",earthquake,0.74,0.819999993,1.51999998,19,automatic,hv,hv
 2022-12-23T15:30:05.207Z,58.2423,-155.209,0,1.8,ml,,,,0.37,ak,ak022genyu94,2022-12-23T15:44:52.380Z,"87 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-12-23T15:25:11.933Z,-20.1014,-173.4627,10,4.8,mb,20,164,1.946,0.65,us,us6000jbb0,2022-12-23T17:02:40.040Z,"98 km ESE of Pangai, Tonga",earthquake,11.24,1.943,0.135,17,reviewed,us,us
