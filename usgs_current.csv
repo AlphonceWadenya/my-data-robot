@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-24T09:34:19.170Z,38.8445015,-122.8156662,0.81,0.71,md,11,59,0.01178,0.03,nc,nc73824076,2022-12-24T09:35:54.168Z,"8km WNW of Cobb, CA",earthquake,0.25,0.5,0.1,11,automatic,nc,nc
+2022-12-24T09:34:19.170Z,38.8445015,-122.8156662,0.81,0.71,md,11,59,0.01178,0.03,nc,nc73824076,2022-12-24T09:50:12.781Z,"8km WNW of Cobb, CA",earthquake,0.25,0.5,0.1,11,automatic,nc,nc
 2022-12-24T09:32:59.000Z,53.889,-131.594,1,4.4,Ml,15,107.99999136000069,0.777941,1.37,at,at00rne2iz,2022-12-24T09:44:36.374Z,"95 km WSW of Prince Rupert, Canada",earthquake,0,0,,11,reviewed,at,at
 2022-12-24T09:23:55.174Z,35.28451157,-97.99350739,5.162351608,1.6,ml,11,99.84426117,0.09448694438,0.2220922059,ok,ok2022zczf,2022-12-24T09:26:16.252Z,"5 km SW of Minco, Oklahoma",earthquake,,6.044226093,,9,automatic,ok,ok
 2022-12-24T09:14:50.100Z,33.2786667,-115.6381667,10.7,1.31,ml,19,89,0.04966,0.21,ci,ci40149359,2022-12-24T09:25:28.430Z,"12km SE of Bombay Beach, CA",earthquake,0.59,0.97,0.108,26,automatic,ci,ci
