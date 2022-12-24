@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-24T13:19:49.150Z,38.7779999,-122.7578354,1.55,0.75,md,8,102,0.009543,0.01,nc,nc73824151,2022-12-24T13:21:24.228Z,"0km WNW of The Geysers, CA",earthquake,0.34,0.75,0.04,7,automatic,nc,nc
+2022-12-24T13:19:49.150Z,38.7779999,-122.7578354,1.55,0.75,md,8,102,0.009543,0.01,nc,nc73824151,2022-12-24T13:36:15.067Z,"0km WNW of The Geysers, CA",earthquake,0.34,0.75,0.04,7,automatic,nc,nc
 2022-12-24T13:03:14.920Z,19.3864994049072,-155.278167724609,1.12999999523163,2.23000002,md,7,132,,0.129999995,hv,hv73280812,2022-12-24T13:06:09.180Z,"Island of Hawaii, Hawaii",earthquake,0.44,0.379999995,1.48000002,3,automatic,hv,hv
 2022-12-24T12:56:25.390Z,19.2081661224365,-155.46549987793,30.25,1.97000003,md,39,100,,0.119999997,hv,hv73280807,2022-12-24T12:59:29.130Z,"Island of Hawaii, Hawaii",earthquake,0.55,0.850000024,1.38999999,14,automatic,hv,hv
 2022-12-24T12:46:42.847Z,59.3572,-151.2511,39.4,2.2,ml,,,,0.17,ak,ak022gg9teak,2022-12-24T12:48:57.663Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
