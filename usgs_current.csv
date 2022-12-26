@@ -233,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T11:06:23.500Z,33.9703333,-118.4953333,8.71,1.86,ml,52,110,0.04905,0.27,ci,ci40149687,2022-12-25T22:54:46.825Z,"4km WSW of Marina del Rey, CA",earthquake,0.36,0.84,0.179,27,automatic,ci,ci
 2022-12-25T11:06:02.050Z,33.1818333,-116.4135,11.41,0.79,ml,20,81,0.08619,0.2,ci,ci40149679,2022-12-25T11:09:28.648Z,"9km SSW of Borrego Springs, CA",earthquake,0.36,0.81,0.101,11,automatic,ci,ci
 2022-12-25T10:56:10.058Z,-59.3573,149.4905,10,5.2,mww,30,118,7.1,0.28,us,us6000jbl5,2022-12-25T11:15:46.040Z,"west of Macquarie Island",earthquake,9.97,1.838,0.098,10,reviewed,us,us
-2022-12-25T10:54:40.103Z,61.0606,-150.3718,64,1.6,ml,,,,0.2,ak,ak022ghw7l3e,2022-12-25T10:56:31.346Z,"23 km NE of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
