@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-27T19:35:31.376Z,60.4639,-152.7601,102.1,2,ml,,,,0.57,ak,ak022glcj38x,2022-12-27T19:38:03.021Z,"76 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-12-27T19:33:43.291Z,64.4793,-147.2016,13.9,1.4,ml,,,,0.66,ak,ak022glcioqh,2022-12-27T19:35:26.551Z,"15 km WSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-27T19:12:13.281Z,38.1406,-118.0613,12.1,0.8,ml,9,189.77,0.08,0.255,nn,nn00854226,2022-12-27T19:15:18.865Z,"28 km S of Mina, Nevada",earthquake,,0.6,0.93,5,automatic,nn,nn
 2022-12-27T19:03:17.590Z,33.0146667,-116.4316667,4.95,1.83,ml,55,44,0.1233,0.22,ci,ci40150647,2022-12-27T19:14:31.020Z,"17km ESE of Julian, CA",earthquake,0.22,1.1,0.175,25,automatic,ci,ci
 2022-12-27T18:43:45.960Z,38.7903328,-122.7378311,1.56,1.32,md,20,89,0.007138,0.02,nc,nc73825791,2022-12-27T19:00:10.176Z,"2km NE of The Geysers, CA",earthquake,0.24,0.46,0.24,21,automatic,nc,nc
@@ -173,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-26T20:02:24.580Z,-2.0231,128.2345,32.313,4.5,mb,28,114,2.909,0.89,us,us6000jbv4,2022-12-27T16:58:47.040Z,"164 km NNW of Amahai, Indonesia",earthquake,9.41,3.954,0.124,19,reviewed,us,us
 2022-12-26T19:45:48.500Z,38.8255005,-122.7633362,1.96,0.22,md,10,183,0.007143,0.02,nc,nc73825406,2022-12-26T19:47:25.726Z,"4km W of Cobb, CA",earthquake,0.85,0.61,0.07,9,automatic,nc,nc
 2022-12-26T19:44:36.690Z,19.9165000915527,-155.702667236328,5.51999998092651,2.3599999,md,16,152,,0.300000012,hv,hv73283897,2022-12-27T16:34:41.040Z,"9 km ESE of Waikoloa, Hawaii",earthquake,0.88,1.36000001,1.57000005,3,automatic,hv,hv
-2022-12-26T19:37:28.090Z,32.9168333,-115.5245,11.03,1.19,ml,9,166,0.0341,0.22,ci,ci40150351,2022-12-26T19:41:04.945Z,"7km S of Brawley, CA",earthquake,1.51,1.01,0.232,15,automatic,ci,ci
