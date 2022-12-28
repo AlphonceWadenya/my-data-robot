@@ -166,4 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-27T05:12:44.330Z,17.98,-66.9738333333333,7.41,2.24,md,18,165,0.06253,0.12,pr,pr71389173,2022-12-27T05:31:23.110Z,"6 km W of Fuig, Puerto Rico",earthquake,0.3,0.18,0.0120838262641914,4,reviewed,pr,pr
 2022-12-27T04:59:10.776Z,62.5501,-151.8008,0.1,2.7,ml,,,,0.99,ak,ak022gl3qorp,2022-12-28T02:46:49.040Z,"53 km W of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-27T04:39:39.900Z,38.8201675,-122.7913361,1.48,2.17,md,32,43,,0.06,nc,nc73825531,2022-12-27T05:09:11.772Z,"6km NNW of The Geysers, CA",earthquake,0.18,0.26,0.2,34,automatic,nc,nc
-2022-12-27T03:52:15.750Z,36.9749985,-121.0461655,7.59,1.96,md,27,105,0.0545,0.16,nc,nc73825516,2022-12-27T21:52:51.292Z,"20km WSW of Los Banos, CA",earthquake,0.52,1,0.17,25,automatic,nc,nc
