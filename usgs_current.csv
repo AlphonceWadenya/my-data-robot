@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-29T23:25:43.270Z,33.7644997,-116.7343369,17.52,1.03,ml,24,162,0.05363,0.33,ci,ci40151239,2022-12-29T23:27:48.854Z,"3km NNW of Idyllwild, CA",earthquake,0.97,0.85,0.202,8,automatic,ci,ci
 2022-12-29T23:18:45.770Z,33.663,-116.752,12.66,0.44,ml,16,95,0.05747,0.13,ci,ci40151231,2022-12-29T23:22:17.907Z,"9km SSW of Idyllwild, CA",earthquake,0.33,0.55,0.155,10,automatic,ci,ci
 2022-12-29T23:05:46.260Z,19.1548328399658,-155.367492675781,28.7700004577637,1.97000003,md,38,212,,0.109999999,hv,hv73286942,2022-12-29T23:09:07.920Z,"Island of Hawaii, Hawaii",earthquake,0.72,1.17999995,1.73000002,17,automatic,hv,hv
 2022-12-29T23:03:35.000Z,37.6453323,-119.3876648,12.17,2.8,md,40,78,,0.2,nc,nc73826571,2022-12-29T23:16:12.506Z,"20km ESE of Yosemite Valley, CA",earthquake,0.32,1.79,0.19,33,automatic,nc,nc
