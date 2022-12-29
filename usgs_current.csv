@@ -203,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-29T00:24:56.590Z,33.1681667,-116.0025,2.25,1.17,ml,19,90,0.2123,0.24,ci,ci40150927,2022-12-29T00:28:34.216Z,"12km ENE of Ocotillo Wells, CA",earthquake,0.5,1.72,0.097,25,automatic,ci,ci
 2022-12-29T00:23:06.028Z,34.9656,14.2649,10,4.4,mb,25,228,5.168,0.86,us,us7000j0r2,2022-12-29T00:37:32.040Z,"97 km S of Żurrieq, Malta",earthquake,9.28,1.813,0.135,16,reviewed,us,us
 2022-12-29T00:16:19.020Z,40.5861664,-124.086998,20.15,3.42,ml,19,127,,0.06,nc,nc73826156,2022-12-29T15:29:17.650Z,"4km NNE of Hydesville, CA",earthquake,0.37,0.36,0.319,7,automatic,nc,nc
-2022-12-28T23:54:26.390Z,37.6591682,-119.3601685,19.56,2.76,md,10,143,0.2677,0.08,nc,nc73826151,2022-12-29T03:13:17.931Z,"21km ESE of Yosemite Valley, CA",earthquake,0.45,1.71,0.05,6,automatic,nc,nc
