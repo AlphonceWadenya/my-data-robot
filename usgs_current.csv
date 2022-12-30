@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-30T19:29:47.780Z,36.0458336,-117.8533325,2.35,1.66,ml,22,46,0.07161,0.14,ci,ci40151487,2022-12-30T19:31:57.895Z,"8km E of Coso Junction, CA",earthquake,0.28,0.36,0.305,10,automatic,ci,ci
+2022-12-30T19:27:09.476Z,63.9498,-147.4617,6.5,1.7,ml,,,,0.48,ak,ak022gqb3db7,2022-12-30T19:28:52.251Z,"63 km SW of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-30T19:22:14.390Z,57.8539,-156.0799,129.8,1.7,ml,,,,0.24,ak,ak022gqb2b3z,2022-12-30T19:24:55.750Z,"86 km ESE of Egegik, Alaska",earthquake,,3.8,,,automatic,ak,ak
 2022-12-30T19:16:22.607Z,59.4721,-154.3569,14.3,2.1,ml,,,,0.52,ak,ak022gqb11g4,2022-12-30T19:18:29.361Z,"12 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-30T19:10:55.770Z,38.8413315,-122.8248367,-0.79,1.04,md,12,92,0.008757,0.15,nc,nc73826886,2022-12-30T19:12:32.380Z,"9km WNW of Cobb, CA",earthquake,0.32,1.05,0.29,13,automatic,nc,nc
