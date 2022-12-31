@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T17:08:42.901Z,64.7752,-149.1113,16.4,1.4,ml,,,,0.14,ak,ak022grxbuki,2022-12-31T17:10:27.565Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-31T17:02:59.190Z,33.405,-116.383,1.99,1.1,ml,35,67,0.1394,0.25,ci,ci40152255,2022-12-31T17:06:26.076Z,"17km N of Borrego Springs, CA",earthquake,0.33,0.69,0.182,28,automatic,ci,ci
 2022-12-31T17:00:38.560Z,33.4896667,-116.5615,5.37,0.56,ml,16,98,0.03438,0.24,ci,ci40152247,2022-12-31T17:04:20.729Z,"13km SE of Anza, CA",earthquake,0.57,0.68,0.25,13,automatic,ci,ci
-2022-12-31T16:54:09.740Z,39.5991669,-123.4981689,4.59,2.02,md,6,185,0.06896,0.07,nc,nc73827281,2022-12-31T17:16:10.704Z,"10km S of Laytonville, CA",earthquake,0.77,1.11,0.03,5,automatic,nc,nc
+2022-12-31T16:54:09.740Z,39.5991669,-123.4981689,4.59,2.02,md,6,185,0.06896,0.07,nc,nc73827281,2022-12-31T17:24:12.747Z,"10km S of Laytonville, CA",earthquake,0.77,1.11,0.03,5,automatic,nc,nc
 2022-12-31T16:40:53.660Z,33.402,-116.3873333,1.85,1.23,ml,46,66,0.1253,0.23,ci,ci40152239,2022-12-31T16:51:45.190Z,"16km N of Borrego Springs, CA",earthquake,0.27,0.54,0.153,28,automatic,ci,ci
 2022-12-31T16:40:07.350Z,33.4056667,-116.3963333,2,2.02,ml,76,30,0.12,0.22,ci,ci40152231,2022-12-31T16:50:54.310Z,"17km N of Borrego Springs, CA",earthquake,0.21,0.7,0.145,25,automatic,ci,ci
 2022-12-31T16:36:26.554Z,64.1298,-149.9706,14.7,1.2,ml,,,,0.39,ak,ak022grwwdr3,2022-12-31T16:39:38.467Z,"Central Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -266,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-30T17:49:49.480Z,19.2036666870117,-155.411163330078,32.4099998474121,3.11,ml,42,154,,0.159999996,hv,hv73287947,2022-12-30T21:52:12.499Z,"7 km E of Pāhala, Hawaii",earthquake,0.64,0.870000005,3.69,30,automatic,hv,hv
 2022-12-30T17:42:29.500Z,38.8294983,-122.8160019,2.05,1.27,md,17,78,0.007654,0.02,nc,nc73826861,2022-12-30T19:49:11.901Z,"8km NW of The Geysers, CA",earthquake,0.25,0.75,0.16,19,automatic,nc,nc
 2022-12-30T17:38:12.520Z,17.9503333333333,-66.9633333333333,10.34,2.65,md,24,196,0.05642,0.11,pr,pr71389828,2022-12-30T17:55:02.160Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.37,0.29,0.266441366688002,9,reviewed,pr,pr
-2022-12-30T17:22:17.001Z,60.8548,-146.9062,24.8,1.3,ml,,,,0.89,ak,ak022gq9vg3a,2022-12-30T17:24:42.948Z,"12 km W of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
