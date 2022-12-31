@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-31T15:47:01.170Z,33.402668,-116.3593369,2.9,1.37,ml,21,168,0.1426,0.21,ci,ci40152199,2022-12-31T15:49:06.596Z,"16km N of Borrego Springs, CA",earthquake,0.58,1.51,0.35,9,automatic,ci,ci
+2022-12-31T15:47:01.210Z,33.4075,-116.365,2.88,0.53,ml,22,88,0.1456,0.27,ci,ci40152199,2022-12-31T15:51:46.203Z,"17km N of Borrego Springs, CA",earthquake,0.54,2.01,0.093,11,automatic,ci,ci
 2022-12-31T15:46:20.540Z,33.4108333,-116.3896667,-0.27,0.51,ml,15,104,0.1162,0.28,ci,ci40152191,2022-12-31T15:49:59.706Z,"17km N of Borrego Springs, CA",earthquake,0.59,31.61,0.09,12,automatic,ci,ci
 2022-12-31T15:37:34.480Z,33.4018333,-116.3835,2.98,0.99,ml,35,66,0.1263,0.2,ci,ci40152183,2022-12-31T15:44:52.552Z,"16km N of Borrego Springs, CA",earthquake,0.29,0.91,0.139,26,automatic,ci,ci
 2022-12-31T15:30:44.480Z,19.8408336639404,-155.419174194336,9.67000007629395,2.1099999,md,38,236,,0.170000002,hv,hv73289252,2022-12-31T15:34:12.420Z,"22 km SSW of Pa‘auilo, Hawaii",earthquake,1.7,0.800000012,2.1099999,4,automatic,hv,hv
@@ -80,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T12:17:51.150Z,33.401,-116.3833333,1.84,1.15,ml,36,95,0.1354,0.2,ci,ci40151823,2022-12-31T13:46:37.748Z,"16km N of Borrego Springs, CA",earthquake,0.27,0.59,0.17,25,automatic,ci,ci
 2022-12-31T12:15:55.000Z,33.4021667,-116.37,3.79,1.6,ml,28,121,0.1296,0.18,ci,ci40151815,2022-12-31T13:43:25.441Z,"16km N of Borrego Springs, CA",earthquake,0.35,0.8,0.319,5,automatic,ci,ci
 2022-12-31T12:15:02.560Z,19.3396666666667,-155.303833333333,2.36,0.73,md,15,81,,0.09,hv,hv73289047,2022-12-31T12:38:35.130Z,"13 km SSW of Volcano, Hawaii",earthquake,0.26,0.31,0.0595608904732979,5,reviewed,hv,hv
-2022-12-31T12:12:26.570Z,33.3981667,-116.3913345,2.46,4.17,mw,119,16,0.07407,0.2,ci,ci40151807,2022-12-31T15:47:47.772Z,"16km N of Borrego Springs, CA",earthquake,0.18,0.68,,6,reviewed,ci,ci
+2022-12-31T12:12:26.570Z,33.3981667,-116.3913345,2.46,4.17,mw,119,16,0.07407,0.2,ci,ci40151807,2022-12-31T15:53:29.076Z,"16km N of Borrego Springs, CA",earthquake,0.18,0.68,,6,reviewed,ci,ci
 2022-12-31T12:10:45.550Z,34.3571667,-116.9193333,5.25,1.19,ml,26,107,0.07656,0.14,ci,ci40151799,2022-12-31T12:14:26.430Z,"11km SSE of Lucerne Valley, CA",earthquake,0.26,0.81,0.136,29,automatic,ci,ci
 2022-12-31T12:09:20.220Z,33.1598333,-116.459,9.53,0.74,ml,18,122,0.1136,0.19,ci,ci40151791,2022-12-31T13:40:21.308Z,"13km SW of Borrego Springs, CA",earthquake,0.44,0.9,0.233,10,reviewed,ci,ci
 2022-12-31T12:06:29.210Z,38.822834,-122.8088303,1.19,0.76,md,10,94,0.001121,0.02,nc,nc73827171,2022-12-31T12:42:20.357Z,"7km NW of The Geysers, CA",earthquake,0.31,0.73,0.13,10,automatic,nc,nc
