@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-31T22:20:17.400Z,19.2628326416016,-155.393493652344,33.3800010681152,2.24000001,md,41,128,,0.119999997,hv,hv73289752,2022-12-31T22:23:27.210Z,"11 km NE of Pāhala, Hawaii",earthquake,0.54,0.720000029,0.469999999,27,automatic,hv,hv
+2022-12-31T22:20:17.400Z,19.2628326416016,-155.393493652344,33.3800010681152,2.17,ml,41,128,,0.119999997,hv,hv73289752,2022-12-31T22:25:47.370Z,"11 km NE of Pāhala, Hawaii",earthquake,0.54,0.720000029,3.57,6,automatic,hv,hv
 2022-12-31T22:01:09.000Z,33.0578333,-116.5326667,12.13,0.84,ml,23,43,0.05917,0.26,ci,ci40152407,2022-12-31T22:04:47.534Z,"7km ESE of Julian, CA",earthquake,0.48,1.12,0.139,12,automatic,ci,ci
 2022-12-31T21:43:37.473Z,38.5536,-119.5058,3.7,1.4,ml,13,167.7,0.034,0.1858,nn,nn00854383,2022-12-31T21:47:27.717Z,"1 km S of Coleville, California",earthquake,,0.5,0.29,6,automatic,nn,nn
 2022-12-31T21:42:51.110Z,34.0248333,-117.1488333,8.25,0.84,ml,22,91,0.03206,0.16,ci,ci40152399,2022-12-31T21:46:18.121Z,"5km SE of Redlands, CA",earthquake,0.3,0.75,0.193,17,automatic,ci,ci
