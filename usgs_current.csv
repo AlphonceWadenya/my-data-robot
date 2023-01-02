@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-02T19:00:28.370Z,38.8216667,-122.7851639,1.85,0.99,md,17,42,0.009095,0.02,nc,nc73828071,2023-01-02T19:02:06.261Z,"5km W of Cobb, CA",earthquake,0.25,0.4,0.24,18,automatic,nc,nc
+2023-01-02T18:57:43.700Z,33.3005,-116.7496667,5.99,0.99,ml,40,59,0.0648,0.16,ci,ci40153087,2023-01-02T19:01:23.645Z,"7km N of Lake Henshaw, CA",earthquake,0.19,0.72,0.123,24,automatic,ci,ci
 2023-01-02T18:41:59.160Z,33.6586667,-116.6893333,11.61,0.74,ml,15,110,0.05631,0.26,ci,ci40153079,2023-01-02T18:45:30.051Z,"9km SSE of Idyllwild, CA",earthquake,0.93,0.97,0.299,8,automatic,ci,ci
 2023-01-02T18:36:33.690Z,38.786499,-122.7369995,1.67,1.05,md,12,86,0.003264,0.01,nc,nc73828061,2023-01-02T18:38:10.805Z,"2km ENE of The Geysers, CA",earthquake,0.3,0.66,0.3,13,automatic,nc,nc
 2023-01-02T18:34:10.507Z,63.8146,-150.3361,4.1,1.9,ml,,,,0.57,ak,ak0233lzt16,2023-01-02T18:36:15.629Z,"63 km WSW of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -206,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-01T19:20:43.500Z,17.9581666666667,-66.9183333333333,14.42,2.1,md,7,206,0.04081,0.11,pr,pr71390258,2023-01-01T19:30:18.590Z,"1 km SW of Guánica, Puerto Rico",earthquake,0.66,0.72,0.181278360545419,3,reviewed,pr,pr
 2023-01-01T19:14:28.310Z,40.422,-123.9731667,22.29,2.25,md,28,50,0.1128,0.15,nc,nc73827601,2023-01-02T07:01:11.483Z,"14km SE of Rio Dell, CA",earthquake,0.28,0.5,0.149,27,reviewed,nc,nc
 2023-01-01T19:12:58.242Z,61.7743,-150.1329,8,1.9,ml,,,,0.9,ak,ak0231yxa2o,2023-01-01T19:14:53.912Z,"5 km WNW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-01T19:02:04.850Z,19.2024993896484,-155.399826049805,31.1200008392334,2.11999989,md,18,168,,0.109999999,hv,hv73291007,2023-01-01T19:05:08.150Z,"8 km E of Pāhala, Hawaii",earthquake,0.77,0.959999979,2.11999989,4,automatic,hv,hv
-2023-01-01T19:00:42.720Z,38.8240013,-122.8531647,2.71,1.29,md,27,62,0.004573,0.02,nc,nc73827596,2023-01-01T20:20:12.367Z,"10km WNW of The Geysers, CA",earthquake,0.21,0.44,0.14,27,automatic,nc,nc
