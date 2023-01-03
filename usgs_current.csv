@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-03T05:34:56.234Z,36.7602,-115.4158,1.8,0.9,ml,9,195.35,0.329,0.3485,nn,nn00854446,2023-01-03T05:37:13.778Z,"31 km NE of Indian Springs, Nevada",earthquake,,27,0.4,5,automatic,nn,nn
+2023-01-03T05:34:00.494Z,38.1656,-117.9022,1.7,0.2,ml,9,156.79,0.052,0.1268,nn,nn00854445,2023-01-03T05:37:20.461Z,"Nevada",earthquake,,4.8,0.26,5,automatic,nn,nn
 2023-01-03T05:16:49.260Z,17.9451666666667,-66.7618333333333,11.11,2.41,md,8,223,0.1154,0.1,pr,pr71390648,2023-01-03T05:32:21.170Z,"7 km SW of Tallaboa, Puerto Rico",earthquake,0.6,1.06,0.0488081079655331,4,reviewed,pr,pr
 2023-01-03T05:06:55.690Z,35.5045,-118.394,8.23,0.79,ml,13,105,0.1709,0.17,ci,ci40153183,2023-01-03T05:10:34.915Z,"13km SE of Bodfish, CA",earthquake,0.39,2.04,0.05,6,automatic,ci,ci
 2023-01-03T04:58:48.780Z,40.1030006,-120.9981689,1.48,2.28,md,7,134,0.3479,0.04,nc,nc73828221,2023-01-03T05:28:14.681Z,"6km SW of Greenville, CA",earthquake,0.46,7.96,0.1,5,automatic,nc,nc
