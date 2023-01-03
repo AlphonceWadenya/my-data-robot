@@ -224,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-02T21:54:36.668Z,58.9609,-152.2208,75,2.4,ml,,,,0.27,ak,ak0233nwg6q,2023-01-02T22:05:33.040Z,"47 km SSW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-02T21:41:43.101Z,61.9183,-152.9343,45,2.2,ml,,,,0.71,ak,ak0233ntodi,2023-01-02T21:43:32.512Z,"81 km W of Skwentna, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-01-02T21:37:26.133Z,40.5488,-29.2836,11.359,4.9,mb,65,66,4.034,0.5,us,us7000j1p9,2023-01-02T22:00:10.040Z,"195 km NW of Santa Cruz da Graciosa, Portugal",earthquake,10.96,4.313,0.067,71,reviewed,us,us
-2023-01-02T21:22:10.610Z,17.8868333333333,-66.851,15.32,2.17,md,9,241,0.09177,0.14,pr,pr71390548,2023-01-02T21:38:55.880Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.69,0.69,0.0654495269100379,7,reviewed,pr,pr
