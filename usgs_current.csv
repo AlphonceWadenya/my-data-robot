@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-02T05:20:35.827Z,41.9421,142.5841,70.086,4.4,mb,51,100,0.433,0.43,us,us7000j1im,2023-01-02T05:52:12.040Z,"47 km SSE of Shizunai-furukawachō, Japan",earthquake,4.26,6.967,0.087,38,reviewed,us,us
 2023-01-02T05:17:51.780Z,38.8359985,-122.8270035,1.78,1.53,md,26,67,,0.03,nc,nc73827791,2023-01-02T05:34:12.662Z,"9km NW of The Geysers, CA",earthquake,0.19,0.33,0.16,27,automatic,nc,nc
 2023-01-02T05:01:20.820Z,18.0138333333333,-66.735,12.29,2.19,md,8,188,0.03332,0.15,pr,pr71390333,2023-01-02T05:32:30.380Z,"Puerto Rico",earthquake,0.97,0.54,0.0618951711189797,5,reviewed,pr,pr
-2023-01-02T04:32:37.600Z,36.591835,-121.1989975,8.1,1.48,md,11,122,0.02288,0.02,nc,nc73827786,2023-01-02T05:31:11.646Z,"8km NW of Pinnacles, CA",earthquake,0.38,0.56,0.23,8,automatic,nc,nc
