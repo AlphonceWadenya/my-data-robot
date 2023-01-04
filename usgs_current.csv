@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-04T07:47:26.477Z,37.0267,-116.2151,1.7,0.7,ml,10,149.13,0.157,0.2803,nn,nn00854499,2023-01-04T07:49:40.261Z,"Nevada",earthquake,,4.2,0.23,7,automatic,nn,nn
 2023-01-04T07:44:51.000Z,38.8266678,-122.854332,2.76,0.54,md,10,93,0.002169,0.01,nc,nc73828671,2023-01-04T07:46:27.234Z,"10km WNW of The Geysers, CA",earthquake,0.4,0.74,0.41,11,automatic,nc,nc
-2023-01-04T07:39:36.210Z,38.7729988,-122.6776657,2.55,1.32,md,7,142,0.01757,0.02,nc,nc73828666,2023-01-04T07:41:12.062Z,"1km E of Anderson Springs, CA",earthquake,0.64,0.99,0.18,7,automatic,nc,nc
+2023-01-04T07:39:36.210Z,38.7729988,-122.6776657,2.55,1.32,md,7,142,0.01757,0.02,nc,nc73828666,2023-01-04T07:55:10.697Z,"1km E of Anderson Springs, CA",earthquake,0.64,0.99,0.18,7,automatic,nc,nc
 2023-01-04T07:33:03.650Z,38.7701683,-122.675499,2.43,1.15,md,8,148,0.0187,0.02,nc,nc73828661,2023-01-04T07:47:11.451Z,"2km ESE of Anderson Springs, CA",earthquake,0.91,0.65,0.45,7,automatic,nc,nc
 2023-01-04T07:22:05.073Z,61.5644,-147.802,33,1.2,ml,,,,0.35,ak,ak0236qg5cr,2023-01-04T07:23:47.166Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-04T07:12:56.900Z,38.5958328,-122.8040009,11.53,1.59,md,10,140,0.1485,0.03,nc,nc73828656,2023-01-04T07:26:10.337Z,"6km N of Windsor, CA",earthquake,0.41,2.19,0.1,11,automatic,nc,nc
