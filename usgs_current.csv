@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-05T03:48:49.890Z,36.1651649,-120.208168,24.07,2.16,md,8,140,0.1493,0.29,nc,nc73828921,2023-01-05T03:50:34.372Z,"10km WSW of Huron, CA",earthquake,3.54,1.95,0.05,4,automatic,nc,nc
+2023-01-05T03:48:49.890Z,36.1651649,-120.208168,24.07,2.16,md,8,140,0.1493,0.29,nc,nc73828921,2023-01-05T03:55:14.593Z,"10km WSW of Huron, CA",earthquake,3.54,1.95,0.05,4,automatic,nc,nc
+2023-01-05T03:38:16.619Z,-10.5982,-74.8769,113.258,4.9,mb,56,85,2.371,0.86,us,us7000j27d,2023-01-05T03:56:05.040Z,"central Peru",earthquake,7.52,7.91,0.047,142,reviewed,us,us
 2023-01-05T03:32:18.040Z,17.942,-66.9216666666667,14.39,2.07,md,10,221,0.0325,0.06,pr,pr71391023,2023-01-05T03:51:39.640Z,"3 km SSW of Guánica, Puerto Rico",earthquake,0.36,0.41,0.0171984982504723,4,reviewed,pr,pr
 2023-01-05T03:15:43.153Z,62.2407,-153.4224,5.9,1.9,ml,,,,0.85,ak,ak0238bkccw,2023-01-05T03:26:33.129Z,"99 km SSE of Nikolai, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-05T03:14:59.440Z,57.6456,-156.0545,12.1,1.9,ml,,,,0.36,ak,ak0238bk5w8,2023-01-05T03:16:13.057Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
