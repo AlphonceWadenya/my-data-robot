@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-06T10:08:28.253Z,62.7733,-150.5148,13.9,1.8,ml,,,,0.52,ak,ak023a386x5,2023-01-06T10:10:18.125Z,"33 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-06T09:44:38.338Z,62.1747,-149.4883,52.7,1.3,ml,,,,0.65,ak,ak023a2uhvd,2023-01-06T09:46:30.953Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-01-06T09:01:22.470Z,18.8315,-67.168,47.4,3.37,md,16,299,0.3661,0.1,pr,pr71391233,2023-01-06T10:02:21.870Z,"Mona Passage",earthquake,0.57,1.2,0.0980093561937756,5,reviewed,pr,pr
 2023-01-06T08:55:49.174Z,62.9913,-150.6502,111.9,2.5,ml,,,,0.44,ak,ak023a2bfy4,2023-01-06T09:36:21.040Z,"55 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -35,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-06T04:44:03.681Z,37.4602,137.3088,10,4.8,mb,58,90,1.161,1.03,us,us7000j2gw,2023-01-06T05:07:07.040Z,"54 km NE of Nanao, Japan",earthquake,5.94,1.847,0.052,117,reviewed,us,us
 2023-01-06T04:43:58.512Z,60.3679,-151.1504,11.6,1.5,ml,,,,0.5,ak,ak0239zv5or,2023-01-06T04:45:57.848Z,"Kenai Peninsula, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-01-06T04:37:07.380Z,19.2496662139893,-155.400161743164,31.1299991607666,2.72,ml,18,150,,0.129999995,hv,hv73297792,2023-01-06T04:42:38.870Z,"Hawaii region, Hawaii",earthquake,0.67,0.930000007,0.61,6,automatic,hv,hv
-2023-01-06T04:32:04.323Z,31.6831,-104.3547,5,2.8,ml,25,117,0.125,0.32,us,us7000j2gq,2023-01-06T04:43:01.040Z,"54 km S of Whites City, New Mexico",earthquake,1.01,1.855,0.085,66,reviewed,us,us
+2023-01-06T04:32:04.261Z,31.69267064,-104.3632971,7.494091797,2.8,ml,36,56,0.06548556694,0.2,tx,tx2023ajmm,2023-01-06T10:19:48.672Z,"53 km S of Whites City, New Mexico",earthquake,0.7055026426,0.9938218837000001,0.1,31,reviewed,tx,tx
 2023-01-06T04:22:39.380Z,19.3386666666667,-155.193333333333,4.81,2.57,ml,30,78,,0.08,hv,hv73297772,2023-01-06T05:30:38.550Z,"12 km SSE of Volcano, Hawaii",earthquake,0.25,0.85,0.211230142808755,26,reviewed,hv,hv
 2023-01-06T04:17:34.120Z,33.9345,-117.0638333,15.85,1.28,ml,35,68,0.07045,0.19,ci,ci40154039,2023-01-06T04:21:20.273Z,"6km S of Calimesa, CA",earthquake,0.23,0.66,0.151,27,automatic,ci,ci
 2023-01-06T04:03:11.800Z,38.7928352,-122.7521667,1.69,2.22,md,41,47,,0.05,nc,nc73829186,2023-01-06T05:52:11.945Z,"2km NNE of The Geysers, CA",earthquake,0.18,0.27,0.18,41,automatic,nc,nc
