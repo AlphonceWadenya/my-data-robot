@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-07T11:42:13.230Z,33.0341682,-116.3988342,6.71,1.19,ml,32,122,0.05425,0.16,ci,ci40154279,2023-01-07T11:44:18.242Z,"20km ESE of Julian, CA",earthquake,0.4,0.77,0.131,13,automatic,ci,ci
+2023-01-07T11:43:41.119Z,61.0213,-149.3956,28.5,1.6,ml,,,,0.45,ak,ak023brki2n,2023-01-07T11:45:43.725Z,"15 km N of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-01-07T11:42:13.230Z,33.0375,-116.401,4.12,0.93,ml,34,65,0.1693,0.21,ci,ci40154279,2023-01-07T11:45:52.409Z,"19km ESE of Julian, CA",earthquake,0.36,1.01,0.098,18,automatic,ci,ci
+2023-01-07T11:21:25.214Z,23.5066,121.4108,27.01,4.2,mwr,20,95,0.154,0.64,us,us7000j2sk,2023-01-07T11:45:49.040Z,"55 km SSW of Hualien City, Taiwan",earthquake,3.23,5.41,0.063,24,reviewed,us,us
 2023-01-07T11:15:54.268Z,62.3541,-149.1849,0,1.6,ml,,,,0.43,ak,ak023brej1e,2023-01-07T11:17:44.759Z,"40 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-07T11:04:07.498Z,60.7252,-146.5984,20,1.5,ml,,,,0.6,ak,ak023brc2jx,2023-01-07T11:06:00.064Z,"16 km SSE of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-07T10:50:58.764Z,61.7271,-147.7568,33,1.4,ml,,,,0.94,ak,ak023br0lue,2023-01-07T10:54:01.125Z,"10 km SSW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
