@@ -174,4 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-08T05:10:04.650Z,35.5021667,-118.3878333,7.59,1.07,ml,16,65,0.175,0.11,ci,ci40154551,2023-01-08T15:05:51.311Z,"13km SE of Bodfish, CA",earthquake,0.22,1.4,0.104,11,reviewed,ci,ci
 2023-01-08T04:58:39.110Z,37.412,-118.5668333,11.77,1.55,md,18,99,0.0588,0.06,nc,nc73829816,2023-01-08T20:41:10.853Z,"3km E of Round Valley, CA",earthquake,0.47,1.16,0.185,15,reviewed,nc,nc
 2023-01-08T04:56:49.000Z,38.8223343,-122.7990036,3.02,1.32,md,13,124,0.008712,0.02,nc,nc73829811,2023-01-08T05:57:13.715Z,"6km NW of The Geysers, CA",earthquake,0.36,0.65,0.27,14,automatic,nc,nc
-2023-01-08T04:41:49.400Z,17.9575,-66.9945,7.77,2.28,md,8,205,0.04879,0.05,pr,pr71391553,2023-01-08T05:03:47.060Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,0.42,0.27,0.016237703644145,3,reviewed,pr,pr
