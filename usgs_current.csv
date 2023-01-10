@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-10T04:40:55.650Z,33.6101667,-116.3398333,9.68,1.07,ml,33,52,0.04909,0.23,ci,ci40155095,2023-01-10T04:44:35.810Z,"6km SSW of La Quinta, CA",earthquake,0.36,0.8,0.196,28,automatic,ci,ci
 2023-01-10T04:35:34.970Z,38.8361664,-122.7904968,1.91,0.71,md,12,57,0.002243,0.01,nc,nc73830571,2023-01-10T04:37:08.412Z,"6km WNW of Cobb, CA",earthquake,0.28,0.46,0.14,15,automatic,nc,nc
 2023-01-10T04:25:46.030Z,38.8216667,-122.7955017,2.88,0.74,md,12,81,0.01151,0.02,nc,nc73830566,2023-01-10T04:27:19.176Z,"6km NW of The Geysers, CA",earthquake,0.44,0.58,0.37,13,automatic,nc,nc
 2023-01-10T04:05:49.945Z,62.1709,-150.8627,63.9,2.1,ml,,,,0.41,ak,ak023glsdsi,2023-01-10T04:08:20.046Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
