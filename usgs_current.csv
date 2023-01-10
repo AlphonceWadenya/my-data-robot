@@ -187,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-09T18:09:53.934Z,-7.0874,130.0757,107.572,5.4,mb,51,78,1.504,0.83,us,us7000j38c,2023-01-09T21:35:20.343Z,"Kepulauan Tanimbar, Indonesia",earthquake,9.19,5.862,0.089,43,reviewed,us,us
 2023-01-09T18:00:12.000Z,33.4045,-116.393,2.03,1.41,ml,35,48,0.1374,0.25,ci,ci40154999,2023-01-09T18:10:50.340Z,"17km N of Borrego Springs, CA",earthquake,0.29,0.7,0.158,26,automatic,ci,ci
 2023-01-09T17:59:37.370Z,38.7893333,-122.7624969,2.12,0.72,md,8,111,0.01148,0.02,nc,nc73830376,2023-01-09T18:01:10.637Z,"1km NNW of The Geysers, CA",earthquake,0.42,1.23,0.19,8,automatic,nc,nc
-2023-01-09T17:59:13.610Z,33.502,-116.7625,7.86,0.62,ml,14,65,0.06664,0.17,ci,ci40154991,2023-01-09T18:02:49.538Z,"10km SW of Anza, CA",earthquake,0.32,0.92,0.14,15,automatic,ci,ci
