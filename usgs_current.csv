@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-13T15:20:41.960Z,38.8336678,-122.809166,1.58,1.22,md,21,55,0.01028,0.05,nc,nc73831596,2023-01-13T15:56:13.553Z,"8km W of Cobb, CA",earthquake,0.21,0.45,0.22,21,automatic,nc,nc
 2023-01-13T15:14:31.137Z,63.0387,-151.0286,120.5,2.2,ml,,,,0.38,ak,ak023lr02x5,2023-01-13T15:16:51.693Z,"61 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-13T15:08:08.817Z,60.4623,-141.013,3.9,1.9,ml,,,,0.6,ak,ak023lqyqwh,2023-01-13T15:10:17.534Z,"124 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-13T15:03:54.401Z,1.6913,127.3095,120.401,4.3,mb,15,201,0.915,0.63,us,us7000j46u,2023-01-13T17:10:53.040Z,"Halmahera, Indonesia",earthquake,8.59,8.407,0.168,10,reviewed,us,us
+2023-01-13T15:03:54.401Z,1.6913,127.3095,120.401,4.3,mb,15,201,0.915,0.63,us,us7000j46u,2023-01-13T17:10:53.040Z,"77 km W of Tobelo, Indonesia",earthquake,8.59,8.407,0.168,10,reviewed,us,us
 2023-01-13T15:02:36.475Z,23.9532,122.3437,24.681,4.9,mb,37,96,0.719,0.86,us,us7000j46n,2023-01-13T16:09:12.193Z,"75 km E of Hualien City, Taiwan",earthquake,4.83,5.329,0.099,32,reviewed,us,us
 2023-01-13T15:00:46.920Z,33.5005,-116.7608333,8.29,0.73,ml,26,65,0.03508,0.14,ci,ci40402272,2023-01-13T15:04:22.555Z,"10km SW of Anza, CA",earthquake,0.2,0.61,0.102,19,automatic,ci,ci
 2023-01-13T14:57:21.900Z,38.8209991,-122.8065033,1.23,1.23,md,11,92,0.003675,0.07,nc,nc73831591,2023-01-13T15:30:15.409Z,"6km NW of The Geysers, CA",earthquake,0.34,0.52,0.15,14,automatic,nc,nc
@@ -175,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-12T17:58:46.713Z,63.162,-150.5562,115.1,1.2,ml,,,,0.43,ak,ak023k4x2t6,2023-01-12T22:04:18.277Z,"72 km SE of Denali National Park, Alaska",earthquake,,1.2,,,reviewed,ak,ak
 2023-01-12T17:56:22.840Z,58.1896666666667,-155.294166666667,2.17,0.01,ml,8,148,,0.07,av,av91746426,2023-01-13T03:00:35.630Z,"85 km NW of Karluk, Alaska",earthquake,0.22,0.39,0.338006340434816,8,reviewed,av,av
 2023-01-12T17:51:04.982Z,63.0505,-150.7917,117.1,1.9,ml,,,,0.35,ak,ak023k4vh42,2023-01-12T17:53:08.879Z,"61 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-01-12T17:42:14.680Z,52.0783333333333,-176.012666666667,5.15,1.4,ml,5,212,,0.1,av,av91746416,2023-01-13T03:03:35.760Z,"48 km ENE of Adak, Alaska",earthquake,0.58,0.74,0.211007920014569,4,reviewed,av,av
