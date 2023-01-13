@@ -162,5 +162,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-12T21:48:18.104Z,2.1702,125.9889,11.923,4.7,mb,43,99,1.956,0.93,us,us7000j40q,2023-01-12T22:34:40.040Z,"135 km ENE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,7.25,4.265,0.082,45,reviewed,us,us
 2023-01-12T21:37:34.350Z,35.6795,-117.5191667,10.3,0.9,ml,13,153,0.1038,0.09,ci,ci40402120,2023-01-13T01:22:12.101Z,"14km SW of Searles Valley, CA",earthquake,0.33,0.77,0.206,9,reviewed,ci,ci
 2023-01-12T21:37:28.710Z,60.5205,-152.886833333333,5.45,-0.65,ml,6,183,,0.06,av,av91084278,2023-01-13T03:36:01.140Z,"85 km NW of Ninilchik, Alaska",earthquake,0.5,0.61,0.253844939427511,6,reviewed,av,av
-2023-01-12T21:36:03.580Z,41.142,-110.4475,5.99,1.37,md,11,114,0.4849,0.2,uu,uu60529602,2023-01-12T22:51:25.460Z,"Wyoming",earthquake,0.93,13.54,0.201,5,reviewed,uu,uu
-2023-01-12T21:34:12.080Z,33.4186667,-116.614,7.39,0.84,ml,32,60,0.07647,0.12,ci,ci40402112,2023-01-12T22:01:24.170Z,"15km N of Warner Springs, CA",earthquake,0.17,0.43,0.153,16,reviewed,ci,ci
