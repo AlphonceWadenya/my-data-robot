@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-13T06:44:22.833Z,63.1858,-143.7719,0,1.1,ml,,,,1.64,ak,ak023lltlbf,2023-01-13T06:47:32.918Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-13T06:26:40.720Z,19.2096672058105,-155.391159057617,32.4099998474121,2.59,ml,46,157,,0.140000001,hv,hv73302572,2023-01-13T06:32:11.450Z,"9 km E of Pāhala, Hawaii",earthquake,0.56,0.649999976,2.36,22,automatic,hv,hv
 2023-01-13T06:19:03.900Z,38.8136673,-122.765831,6.73,1.06,md,8,153,0.01161,0.02,nc,nc73831476,2023-01-13T06:37:12.095Z,"4km WSW of Cobb, CA",earthquake,1.12,3.58,0.32,9,automatic,nc,nc
 2023-01-13T06:11:25.550Z,19.205,-155.397333333333,30.75,3.43,ml,57,157,,0.14,hv,hv73302552,2023-01-13T06:38:49.819Z,"8 km E of Pāhala, Hawaii",earthquake,0.48,0.47,0.170278930745225,41,reviewed,hv,hv
