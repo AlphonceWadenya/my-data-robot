@@ -165,4 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-12T21:34:12.080Z,33.4186667,-116.614,7.39,0.84,ml,32,60,0.07647,0.12,ci,ci40402112,2023-01-12T22:01:24.170Z,"15km N of Warner Springs, CA",earthquake,0.17,0.43,0.153,16,reviewed,ci,ci
 2023-01-12T21:27:53.567Z,65.504,-147.9868,11.4,1.4,ml,,,,0.38,ak,ak023k7463g,2023-01-12T21:29:59.786Z,"25 km E of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-12T21:26:09.455Z,-17.5499,-178.745,563.898,4.5,mb,14,104,3.059,0.33,us,us7000j40n,2023-01-12T21:41:55.040Z,"213 km ENE of Levuka, Fiji",earthquake,16,19.797,0.191,8,reviewed,us,us
-2023-01-12T21:19:33.464Z,61.7073,-151.2839,66.8,1.7,ml,,,,0.52,ak,ak023k72ete,2023-01-12T21:22:09.584Z,"32 km S of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
