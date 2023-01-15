@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-15T11:32:35.710Z,36.0738335,-117.8864975,3.67,2.58,ml,29,54,0.05062,0.15,ci,ci40402808,2023-01-15T11:34:40.918Z,"6km ENE of Coso Junction, CA",earthquake,0.33,0.88,0.29,26,automatic,ci,ci
 2023-01-15T11:22:40.550Z,37.8359985,-121.9820023,7.46,2.05,md,24,101,0.02431,0.08,nc,nc73832241,2023-01-15T11:29:11.798Z,"2km W of Diablo, CA",earthquake,0.24,0.36,0.08,24,automatic,nc,nc
 2023-01-15T10:33:30.254Z,62.8742,-148.2942,58.8,1.2,ml,,,,1.04,ak,ak023oz7of5,2023-01-15T10:35:33.766Z,"66 km SSE of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-01-15T10:32:25.940Z,34.443,-117.921,9.66,1.23,ml,19,99,0.123,0.2,ci,ci40402800,2023-01-15T10:36:02.339Z,"7km S of Pearblossom, CA",earthquake,0.36,0.99,0.21,24,automatic,ci,ci
