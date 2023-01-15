@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-15T15:47:43.270Z,38.8334999,-122.8099976,2.44,0.73,md,8,122,0.01009,0.01,nc,nc73832356,2023-01-15T15:49:20.549Z,"8km W of Cobb, CA",earthquake,0.34,0.81,0.3,9,automatic,nc,nc
 2023-01-15T15:18:16.290Z,38.7980003,-122.7581635,2.13,0.71,md,8,119,0.002887,0.02,nc,nc73832351,2023-01-15T15:19:49.243Z,"2km N of The Geysers, CA",earthquake,0.31,0.69,0.24,8,automatic,nc,nc
 2023-01-15T15:17:18.580Z,35.3953333,-118.2251667,9.54,1.26,ml,18,56,0.1571,0.15,ci,ci40402840,2023-01-15T15:21:02.965Z,"32km SE of Bodfish, CA",earthquake,0.3,1.13,0.149,17,automatic,ci,ci
 2023-01-15T15:14:42.840Z,38.8128319,-122.7959976,1.27,0.86,md,15,61,0.004887,0.02,nc,nc73832346,2023-01-15T15:16:20.023Z,"5km NW of The Geysers, CA",earthquake,0.25,0.47,0.16,15,automatic,nc,nc
@@ -58,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-15T08:37:35.200Z,38.8066673,-122.8026657,1,0.86,md,9,161,0.005897,0.02,nc,nc73832171,2023-01-15T09:00:12.869Z,"5km NW of The Geysers, CA",earthquake,0.49,0.83,0.24,10,automatic,nc,nc
 2023-01-15T08:33:41.390Z,38.8036652,-122.7714996,1.56,0.27,md,8,106,0.009698,0.02,nc,nc73832166,2023-01-15T08:50:12.808Z,"3km NNW of The Geysers, CA",earthquake,0.41,0.91,0.09,8,automatic,nc,nc
 2023-01-15T08:22:51.300Z,34.0708333,-117.2733333,16.66,1.46,ml,41,70,0.1069,0.24,ci,ci40402752,2023-01-15T08:26:22.358Z,"3km NNW of Loma Linda, CA",earthquake,0.32,0.73,0.121,27,automatic,ci,ci
-2023-01-15T07:51:39.185Z,-11.347,166.4131,156.506,4.7,mb,60,58,4.147,0.55,us,us7000j4hl,2023-01-15T08:17:29.040Z,"Santa Cruz Islands",earthquake,11.06,7.76,0.063,84,reviewed,us,us
+2023-01-15T07:51:39.185Z,-11.347,166.4131,156.506,4.7,mb,60,58,4.147,0.55,us,us7000j4hl,2023-01-15T08:17:29.040Z,"96 km SE of Lata, Solomon Islands",earthquake,11.06,7.76,0.063,84,reviewed,us,us
 2023-01-15T07:48:46.100Z,19.146333694458,-155.475662231445,34.9500007629395,1.90999997,md,27,248,,0.119999997,hv,hv73304082,2023-01-15T07:52:03.760Z,"6 km S of Pāhala, Hawaii",earthquake,0.85,1.14999998,0.340000004,5,automatic,hv,hv
 2023-01-15T07:45:02.275Z,61.98,-150.7571,10,1.3,ml,,,,0.77,ak,ak023oxhw1s,2023-01-15T07:47:21.494Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-15T07:42:44.761Z,10.6798,-40.9794,10,4.7,mb,31,147,12.808,0.63,us,us7000j4hp,2023-01-15T08:36:19.040Z,"northern Mid-Atlantic Ridge",earthquake,6.81,1.923,0.083,44,reviewed,us,us
@@ -174,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-14T16:14:51.870Z,38.8216667,-122.8133316,3.09,1.14,md,11,74,0.003075,0.02,nc,nc73831906,2023-01-14T17:14:10.366Z,"7km NW of The Geysers, CA",earthquake,0.36,0.92,0.28,12,automatic,nc,nc
 2023-01-14T16:11:30.770Z,38.8283348,-122.8151703,1.73,1.24,md,17,75,0.006339,0.02,nc,nc73831896,2023-01-14T16:46:10.194Z,"8km NW of The Geysers, CA",earthquake,0.23,0.57,0.33,18,automatic,nc,nc
 2023-01-14T16:05:27.500Z,19.2303333282471,-155.403167724609,28.0699996948242,2.21000004,md,43,140,,0.150000006,hv,hv73303632,2023-01-14T16:08:49.540Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.56,0.699999988,1.11000001,16,automatic,hv,hv
-2023-01-14T15:48:11.565Z,63.5099,-148.0822,16.4,1.2,ml,,,,0.38,ak,ak023neqo90,2023-01-14T15:49:41.497Z,"45 km ENE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
