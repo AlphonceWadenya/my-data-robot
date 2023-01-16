@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-16T17:44:14.060Z,40.4090004,-122.2473297,9.02,2.52,md,6,187,,0.02,nc,nc73832886,2023-01-16T17:45:51.183Z,"6km SE of Anderson, CA",earthquake,2.57,2.05,0.13,6,automatic,nc,nc
+2023-01-16T17:43:26.087Z,61.6926,-149.625,20.2,1.8,ml,,,,0.67,ak,ak023qqz70l,2023-01-16T17:45:34.132Z,"7 km N of Meadow Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-16T17:31:37.800Z,38.8268318,-122.784668,1.39,1.06,md,11,95,0.01208,0.02,nc,nc73832881,2023-01-16T17:33:10.981Z,"5km W of Cobb, CA",earthquake,0.38,0.69,0.24,13,automatic,nc,nc
 2023-01-16T17:30:33.180Z,60.98,-151.1815,68.2,1.5,ml,,,,0.7,ak,ak023qqwf86,2023-01-16T17:32:45.338Z,"Kenai Peninsula, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-01-16T17:20:26.965Z,60.9132,-147.3225,31.4,2.6,ml,,,,0.41,ak,ak023qqu9l4,2023-01-16T17:22:22.930Z,"35 km W of Tatitlek, Alaska",earthquake,,0.1,,,automatic,ak,ak
