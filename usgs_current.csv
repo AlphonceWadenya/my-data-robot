@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T20:28:40.690Z,38.7876663,-122.7665024,2.15,0.97,md,11,77,0.01399,0.02,nc,nc73833676,2023-01-18T20:40:52.030Z,"1km NW of The Geysers, CA",earthquake,0.37,0.65,0.22,12,automatic,nc,nc
 2023-01-18T20:28:26.170Z,38.7879982,-122.7679977,1.94,1.04,md,13,80,0.01417,0.02,nc,nc73833671,2023-01-18T20:30:03.431Z,"2km NW of The Geysers, CA",earthquake,0.28,0.53,0.27,14,automatic,nc,nc
 2023-01-18T20:24:07.767Z,61.3951,-150.5052,14.8,1.8,ml,,,,0.7,ak,ak023u3q2rs,2023-01-18T20:25:57.722Z,"16 km S of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-01-18T20:20:28.900Z,38.1613,-118.0087,1.7,1.5,ml,9,133.18,0.042,0.2081,nn,nn00854981,2023-01-18T20:22:19.434Z,"26 km SSE of Mina, Nevada",earthquake,,0.9,0.42,5,automatic,nn,nn
+2023-01-18T20:20:29.762Z,38.1722,-117.9988,4.2,1.6,ml,13,130.86,0.029,0.1804,nn,nn00854981,2023-01-18T20:52:04.492Z,"Nevada",earthquake,,1.3,0.46,4,reviewed,nn,nn
 2023-01-18T20:18:08.620Z,33.6341667,-116.6866667,14.31,0.97,ml,35,45,0.07619,0.17,ci,ci40403704,2023-01-18T20:33:59.760Z,"9km N of Anza, CA",earthquake,0.23,0.37,0.198,27,automatic,ci,ci
 2023-01-18T20:15:21.470Z,33.9521667,-116.7915,10.18,1.67,ml,53,34,0.03881,0.17,ci,ci40403696,2023-01-18T20:26:20.510Z,"4km N of Cabazon, CA",earthquake,0.19,0.39,0.176,28,automatic,ci,ci
 2023-01-18T20:07:40.301Z,-17.0449,175.593,10,4.8,mb,17,73,2.45,0.97,us,us7000j5bm,2023-01-18T20:49:38.040Z,"207 km WNW of Lautoka, Fiji",earthquake,8.6,1.825,0.139,18,reviewed,us,us
@@ -46,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T16:06:40.935Z,2.7327,126.9768,52.938,4.9,mb,45,112,1.986,0.48,us,us7000j59l,2023-01-18T16:54:59.040Z,"159 km NW of Tobelo, Indonesia",earthquake,9.15,5.215,0.076,54,reviewed,us,us
 2023-01-18T16:03:52.180Z,38.847168,-122.8164978,1.21,1.63,md,26,83,,0.03,nc,nc73833606,2023-01-18T16:40:12.213Z,"9km WNW of Cobb, CA",earthquake,0.2,0.37,0.17,29,automatic,nc,nc
 2023-01-18T15:56:12.370Z,19.2446670532227,-155.395660400391,30.8899993896484,2.36,ml,45,139,,0.150000006,hv,hv73306732,2023-01-18T16:01:42.510Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.58,0.709999979,3.76,14,automatic,hv,hv
-2023-01-18T15:54:46.484Z,34.8698,14.3276,10,5.1,mww,78,79,5.25,0.83,us,us7000j59j,2023-01-18T20:32:47.068Z,"107 km S of Żurrieq, Malta",earthquake,8.76,1.856,0.073,18,reviewed,us,us
+2023-01-18T15:54:46.484Z,34.8698,14.3276,10,5.1,mww,78,79,5.25,0.83,us,us7000j59j,2023-01-18T20:32:47.068Z,"central Mediterranean Sea",earthquake,8.76,1.856,0.073,18,reviewed,us,us
 2023-01-18T15:43:30.596Z,2.9006,127.2076,35,4.9,mb,45,137,2.121,0.91,us,us7000j59h,2023-01-18T16:01:09.040Z,"Molucca Sea",earthquake,7.87,1.269,0.092,37,reviewed,us,us
 2023-01-18T15:41:25.867Z,63.1317,-150.2671,97.8,1.3,ml,,,,0.44,ak,ak023u0ulbe,2023-01-18T15:43:43.684Z,"72 km WSW of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-18T15:37:27.960Z,38.8346672,-122.807663,1.92,0.67,md,6,157,0.01403,0.01,nc,nc73833601,2023-01-18T16:06:12.012Z,"8km W of Cobb, CA",earthquake,0.54,1.18,0.36,8,automatic,nc,nc
