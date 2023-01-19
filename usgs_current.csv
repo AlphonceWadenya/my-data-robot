@@ -76,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T18:19:17.390Z,38.8283348,-122.854332,2.21,0.76,md,17,61,0.002136,0.03,nc,nc73833631,2023-01-18T18:46:12.918Z,"10km NW of The Geysers, CA",earthquake,0.25,0.47,0.15,17,automatic,nc,nc
 2023-01-18T18:19:06.940Z,38.8274994,-122.8533325,2.1,0.26,md,7,142,0.002766,0.01,nc,nc73833626,2023-01-18T18:36:11.863Z,"10km WNW of The Geysers, CA",earthquake,0.51,0.89,0.15,8,automatic,nc,nc
 2023-01-18T18:19:06.329Z,62.2092,-123.921,7.001,4.1,mb,47,57,3.163,1.1,us,us7000j5aj,2023-01-18T20:38:23.040Z,"Northwest Territories, Canada",earthquake,7.08,3.863,0.145,13,reviewed,us,us
-2023-01-18T18:15:37.184Z,2.7083,126.929,51.999,4.6,mb,36,134,1.973,0.47,us,us7000j5ak,2023-01-18T20:21:47.040Z,"161 km NW of Tobelo, Indonesia",earthquake,8.83,8.529,0.098,31,reviewed,us,us
+2023-01-18T18:15:37.184Z,2.7083,126.929,51.999,4.6,mb,36,134,1.973,0.47,us,us7000j5ak,2023-01-18T20:21:47.040Z,"Molucca Sea",earthquake,8.83,8.529,0.098,31,reviewed,us,us
 2023-01-18T18:05:15.092Z,59.7876,-151.842,69,1.6,ml,,,,0.31,ak,ak023u2f5it,2023-01-18T18:07:55.190Z,"Kenai Peninsula, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-01-18T18:04:35.722Z,60.766,-147.311,13.5,2.1,ml,,,,0.76,ak,ak023u2ezec,2023-01-18T18:06:35.307Z,"36 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-18T18:03:50.266Z,62.1545,-149.4294,47.6,1.8,ml,,,,0.38,ak,ak023u2essy,2023-01-18T18:05:19.413Z,"21 km E of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -208,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T04:05:39.468Z,62.9849,-150.5704,122.1,1.6,ml,,,,0.86,ak,ak023tu34xm,2023-01-18T04:07:45.694Z,"55 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-18T04:05:22.800Z,17.9366666666667,-66.904,13.78,2.85,md,12,219,0.03562,0.08,pr,pr71393103,2023-01-18T04:41:05.454Z,"3 km S of Guánica, Puerto Rico",earthquake,0.63,0.23,0.100226323322031,8,reviewed,pr,pr
 2023-01-18T03:54:08.990Z,38.8348351,-122.80233,2.16,0.74,md,16,58,0.01002,0.01,nc,nc73833431,2023-01-18T04:27:13.988Z,"7km WNW of Cobb, CA",earthquake,0.27,0.52,0.17,16,automatic,nc,nc
-2023-01-18T03:50:59.770Z,36.52533333,-98.60866667,6.3,1.77,ml,89,42,0.05488922886,0.21,ok,ok2023bfje,2023-01-18T14:15:14.041Z,"14 km WSW of Carmen, Oklahoma",earthquake,,0.3,0.22,34,reviewed,ok,ok
-2023-01-18T03:49:28.279Z,63.0925,-150.1108,71.3,1.6,ml,,,,0.63,ak,ak023ttr3yz,2023-01-18T03:51:42.307Z,"67 km WSW of Cantwell, Alaska",earthquake,,2,,,automatic,ak,ak
