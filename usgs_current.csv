@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-20T21:36:35.040Z,38.7350006,-122.7093353,-0.78,0.74,md,9,217,0.0292,0.18,nc,nc73834736,2023-01-20T21:38:11.524Z,"5km SSW of Anderson Springs, CA",earthquake,1.29,2.57,0.12,8,automatic,nc,nc
 2023-01-20T21:33:36.730Z,38.840332,-122.7789993,1.37,0.68,md,10,75,0.003044,0.12,nc,nc73834726,2023-01-20T21:35:11.466Z,"5km WNW of Cobb, CA",earthquake,0.53,0.96,0.45,11,automatic,nc,nc
 2023-01-20T21:09:09.020Z,38.8429985,-122.8399963,1.85,0.74,md,12,129,0.005638,0.01,nc,nc73834716,2023-01-20T21:10:45.437Z,"10km NW of The Geysers, CA",earthquake,0.33,0.64,0.1,14,automatic,nc,nc
 2023-01-20T20:33:37.250Z,33.9833333,-117.374,0.74,1.18,ml,16,127,0.1699,0.31,ci,ci40404488,2023-01-20T20:37:18.465Z,"3km ESE of Rubidoux, CA",earthquake,0.83,31.61,0.234,22,automatic,ci,ci
@@ -195,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-19T21:57:54.460Z,33.844,-117.4911667,-0.53,1.55,ml,44,49,0.04668,0.22,ci,ci40404216,2023-01-19T22:25:26.904Z,"5km SE of Home Gardens, CA",quarry blast,0.3,31.61,0.212,28,reviewed,ci,ci
 2023-01-19T21:49:06.935Z,2.7335,127.0413,61.757,4.3,mb,41,136,1.976,0.43,us,us7000j5mh,2023-01-20T02:03:32.040Z,"154 km NW of Tobelo, Indonesia",earthquake,9.21,8.467,0.093,33,reviewed,us,us
 2023-01-19T21:45:09.797Z,6.8247,123.6366,599.231,4.2,mb,74,110,7.071,0.55,us,us7000j5md,2023-01-20T01:23:22.040Z,"42 km W of Gadung, Philippines",earthquake,12.59,10.178,0.067,62,reviewed,us,us
-2023-01-19T21:42:39.640Z,33.7816667,-116.9028333,13.53,0.85,ml,17,170,0.06021,0.12,ci,ci40404192,2023-01-19T22:28:32.953Z,"4km NNW of Valle Vista, CA",earthquake,0.6,0.7,0.232,7,reviewed,ci,ci
