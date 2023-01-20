@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-20T11:23:40.000Z,16.239,-62.015,165.3,5.8,Mi,21,122.39999020800079,,,pt,pt23020000,2023-01-20T11:40:34.382Z,"24 km W of Pointe-Noire, Guadeloupe",earthquake,,,,7,reviewed,pt,pt
+2023-01-20T11:23:41.042Z,16.131,-62.1564,166.372,6.2,mww,151,18,0.528,0.52,us,us7000j5sc,2023-01-20T11:46:53.530Z,"40 km WSW of Pointe-Noire, Guadeloupe",earthquake,6.1,4.675,0.039,64,reviewed,us,us
 2023-01-20T11:16:32.650Z,38.8264999,-122.791832,0.61,0.27,md,7,113,0.01195,0.02,nc,nc73834511,2023-01-20T11:18:09.272Z,"6km W of Cobb, CA",earthquake,0.42,1.76,0.14,8,automatic,nc,nc
 2023-01-20T11:04:37.370Z,38.8363342,-122.7868347,1.7,0.7,md,9,75,0.003436,0.02,nc,nc73834501,2023-01-20T11:06:14.509Z,"6km WNW of Cobb, CA",earthquake,0.46,1.16,0.22,9,automatic,nc,nc
 2023-01-20T10:46:11.650Z,38.828167,-122.8013306,1.91,1.91,md,35,34,,0.03,nc,nc73834496,2023-01-20T11:14:13.148Z,"7km W of Cobb, CA",earthquake,0.16,0.27,0.19,33,automatic,nc,nc
@@ -241,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-19T12:02:38.170Z,35.8613333,-117.6918333,10.21,1.44,ml,20,109,0.07935,0.1,ci,ci40403936,2023-01-19T18:10:38.186Z,"21km ESE of Little Lake, CA",earthquake,0.17,0.32,0.154,12,reviewed,ci,ci
 2023-01-19T11:57:18.010Z,38.8068352,-122.8209991,1.74,1.44,md,25,66,0.006705,0.02,nc,nc73833946,2023-01-19T12:30:12.453Z,"6km WNW of The Geysers, CA",earthquake,0.18,0.36,0.21,25,automatic,nc,nc
 2023-01-19T11:56:51.880Z,-6.2454,125.3943,546.03,4.9,mb,69,37,3.662,0.65,us,us7000j5hm,2023-01-19T12:15:58.040Z,"255 km N of Metinaro, Timor Leste",earthquake,11.13,9.164,0.059,89,reviewed,us,us
-2023-01-19T11:45:14.375Z,53.5331,-163.6261,25.299,4.8,mb,96,92,1.159,0.84,us,us7000j5hk,2023-01-19T18:54:47.390Z,"147 km S of False Pass, Alaska",earthquake,6.22,5.407,0.059,89,reviewed,us,us
