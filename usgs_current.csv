@@ -160,7 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-21T14:59:14.245Z,5.984,125.7852,80.12,4.5,mb,30,128,1.098,0.62,us,us7000j631,2023-01-21T20:01:22.111Z,"11 km E of Mangili, Philippines",earthquake,7.51,8.055,0.111,24,reviewed,us,us
 2023-01-21T14:54:14.030Z,34.2678333,-116.6916667,7.97,1.42,ml,23,83,0.1179,0.21,ci,ci40404664,2023-01-21T14:57:51.793Z,"14km E of Big Bear City, CA",earthquake,0.31,1.2,0.151,28,automatic,ci,ci
 2023-01-21T14:40:43.775Z,58.2581,-155.1717,0,2.5,ml,,,,0.53,ak,ak023yyv0ux,2023-01-21T16:51:13.040Z,"87 km NNW of Karluk, Alaska",earthquake,,26.7,,,automatic,ak,ak
-2023-01-21T14:37:52.364Z,-21.599,-68.4633,144.798,4.1,ml,23,76,0.75,0.78,us,us7000j62w,2023-01-21T16:47:30.040Z,"106 km NNE of Calama, Chile",earthquake,7.03,9.659,,,reviewed,us,guc
+2023-01-21T14:37:52.364Z,-21.599,-68.4633,144.798,4.1,ml,23,76,0.75,0.78,us,us7000j62w,2023-01-21T16:47:30.040Z,"Chile-Bolivia border region",earthquake,7.03,9.659,,,reviewed,us,guc
 2023-01-21T14:26:00.200Z,38.8111649,-122.8296661,1.35,0.75,md,10,95,0.002325,0.01,nc,nc73835346,2023-01-21T14:43:13.209Z,"7km WNW of The Geysers, CA",earthquake,0.3,0.78,0.14,10,automatic,nc,nc
 2023-01-21T14:10:00.690Z,19.1765003204346,-155.498336791992,37.2200012207031,1.88999999,md,39,152,,0.119999997,hv,hv73309302,2023-01-21T14:13:19.980Z,"3 km SW of Pāhala, Hawaii",earthquake,0.61,0.949999988,0.939999998,3,automatic,hv,hv
 2023-01-21T14:00:23.172Z,38.2144,-116.6784,8,1.9,ml,11,150.82,0.822,0.2929,nn,nn00855121,2023-01-21T14:02:12.732Z,"Nevada",earthquake,,2,0.75,9,automatic,nn,nn
@@ -182,4 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-21T11:57:20.660Z,9.4596,126.1881,83.269,4.4,mb,46,120,14.756,0.44,us,us7000j62b,2023-01-21T12:26:21.133Z,"19 km N of Cortes, Philippines",earthquake,12.59,8.234,0.098,37,reviewed,us,us
 2023-01-21T11:57:14.941Z,37.976,-118.056,2.5,0.6,ml,8,151.81,0.141,0.0838,nn,nn00855120,2023-01-21T11:59:41.398Z,"34 km N of Dyer, Nevada",earthquake,,1.6,0.5,6,automatic,nn,nn
 2023-01-21T11:53:19.180Z,19.2518329620361,-155.391494750977,32.1800003051758,2.26,ml,43,136,,0.129999995,hv,hv73309172,2023-01-21T11:58:50.780Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.58,0.779999971,3.6,6,automatic,hv,hv
-2023-01-21T11:50:56.580Z,35.0126667,-118.5091667,2.12,1.14,ml,25,44,0.1393,0.18,ci,ci40404640,2023-01-21T11:54:34.904Z,"14km SSW of Tehachapi, CA",earthquake,0.24,0.64,0.198,22,automatic,ci,ci
