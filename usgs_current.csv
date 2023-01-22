@@ -189,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-21T08:49:47.160Z,38.803833,-122.8073349,1.4,0.46,md,10,78,0.01027,0.01,nc,nc73835196,2023-01-21T09:25:11.201Z,"5km NW of The Geysers, CA",earthquake,0.39,1.11,0.09,2,automatic,nc,nc
 2023-01-21T08:49:43.210Z,38.8035011,-122.8061676,0.89,1.45,md,14,87,0.009589,0.01,nc,nc73835191,2023-01-21T09:42:12.319Z,"5km NW of The Geysers, CA",earthquake,0.22,0.56,0.16,17,automatic,nc,nc
 2023-01-21T08:46:59.103Z,38.2658,-118.3476,1.3,1.4,ml,11,111.81,0.124,0.187,nn,nn00855112,2023-01-21T08:48:31.525Z,"25 km WSW of Mina, Nevada",earthquake,,2.7,0.08,4,automatic,nn,nn
-2023-01-21T08:45:30.906Z,60.9079,-146.8967,21.7,2.2,ml,,,,0.48,ak,ak023yvbgte,2023-01-21T08:47:40.266Z,"12 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
