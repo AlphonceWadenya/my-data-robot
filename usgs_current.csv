@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-24T06:45:02.540Z,38.8326683,-122.7971649,1.72,0.22,md,8,78,0.007825,0.01,nc,nc73836581,2023-01-24T06:46:37.085Z,"6km W of Cobb, CA",earthquake,0.39,0.83,0.09,9,automatic,nc,nc
 2023-01-24T06:38:05.890Z,38.8173332,-122.8059998,3.29,1.07,md,12,96,0.006839,0.02,nc,nc73836571,2023-01-24T06:39:41.769Z,"6km NW of The Geysers, CA",earthquake,0.41,1.24,0.19,14,automatic,nc,nc
 2023-01-24T06:37:55.450Z,38.8183327,-122.8066635,3.14,1.01,md,9,92,0.005714,0.01,nc,nc73836566,2023-01-24T06:39:31.622Z,"6km NW of The Geysers, CA",earthquake,0.74,1.15,0.18,12,automatic,nc,nc
 2023-01-24T06:37:39.990Z,38.8173332,-122.805336,3.03,1.04,md,16,60,0.007095,0.01,nc,nc73836561,2023-01-24T06:39:16.592Z,"6km NW of The Geysers, CA",earthquake,0.27,0.59,0.3,19,automatic,nc,nc
