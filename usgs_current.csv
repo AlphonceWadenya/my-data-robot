@@ -10,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T13:04:32.134Z,61.5826,-149.949,32.4,1.5,ml,,,,0.58,ak,ak02313wnw25,2023-01-24T13:06:44.565Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-24T12:57:04.030Z,38.8356667,-122.8089981,2.05,0.92,md,8,104,0.01228,0.02,nc,nc73836661,2023-01-24T13:28:13.129Z,"8km WNW of Cobb, CA",earthquake,0.47,1.54,0.35,9,automatic,nc,nc
 2023-01-24T12:54:57.310Z,17.9758333333333,-66.9553333333333,6.57,1.96,md,3,176,0.07241,0.23,pr,pr71394278,2023-01-24T13:52:19.300Z,"4 km WSW of Fuig, Puerto Rico",earthquake,3.96,2.05,0.115771529751834,2,reviewed,pr,pr
+2023-01-24T12:54:54.920Z,44.7773333,-110.7948333,4.79,0.6,md,10,94,0.04114,0.11,uu,uu60530242,2023-01-24T14:22:08.130Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.48,0.5,0.309,6,reviewed,uu,uu
 2023-01-24T12:54:21.836Z,61.4708,-150.0814,33.9,1.8,ml,,,,0.87,ak,ak02313wd5gn,2023-01-24T12:56:30.688Z,"8 km SW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-24T12:27:22.450Z,19.2801,-64.39,36,3.82,md,10,322,1.0869,0.34,pr,pr2023024000,2023-01-24T13:41:40.212Z,"113 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.059,21.26,0.21,7,reviewed,pr,pr
 2023-01-24T12:27:09.960Z,37.5483322,-118.8786697,6.2,1.65,md,18,169,0.0573,0.03,nc,nc73836651,2023-01-24T13:07:14.006Z,"13km SE of Mammoth Lakes, CA",earthquake,0.44,1.09,0.1,16,automatic,nc,nc
@@ -48,6 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T06:59:42.450Z,19.1971664428711,-155.401336669922,31.5200004577637,2.41,ml,47,159,,0.140000001,hv,hv73311377,2023-01-24T07:07:41.040Z,"8 km E of Pāhala, Hawaii",earthquake,0.51,0.660000026,2.82,10,automatic,hv,hv
 2023-01-24T06:57:59.017Z,64.6092,-149.2603,13.7,1.5,ml,,,,0.24,ak,ak02313st9ul,2023-01-24T07:00:03.397Z,"6 km W of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-24T06:45:02.540Z,38.8326683,-122.7971649,1.72,0.22,md,8,78,0.007825,0.01,nc,nc73836581,2023-01-24T06:46:37.085Z,"6km W of Cobb, CA",earthquake,0.39,0.83,0.09,9,automatic,nc,nc
+2023-01-24T06:41:04.570Z,44.7973333,-110.8263333,6.7,1.31,ml,18,105,0.01942,0.18,uu,uu60530212,2023-01-24T14:26:48.120Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.48,0.8,0.335,3,reviewed,uu,uu
 2023-01-24T06:38:05.890Z,38.8173332,-122.8059998,3.29,1.07,md,12,96,0.006839,0.02,nc,nc73836571,2023-01-24T07:34:12.040Z,"6km NW of The Geysers, CA",earthquake,0.41,1.24,0.19,14,automatic,nc,nc
 2023-01-24T06:37:55.450Z,38.8183327,-122.8066635,3.14,1.01,md,9,92,0.005714,0.01,nc,nc73836566,2023-01-24T07:13:10.932Z,"6km NW of The Geysers, CA",earthquake,0.74,1.15,0.18,12,automatic,nc,nc
 2023-01-24T06:37:39.990Z,38.8173332,-122.805336,3.03,1.04,md,16,60,0.007095,0.01,nc,nc73836561,2023-01-24T08:32:10.370Z,"6km NW of The Geysers, CA",earthquake,0.27,0.59,0.3,19,automatic,nc,nc
