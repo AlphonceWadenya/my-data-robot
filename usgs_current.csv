@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-24T23:36:43.050Z,36.0068333,-117.8753333,1.37,1.55,ml,15,65,0.05913,0.14,ci,ci40161007,2023-01-24T23:40:21.005Z,"8km ESE of Coso Junction, CA",earthquake,0.28,0.46,0.195,20,automatic,ci,ci
-2023-01-24T23:13:20.960Z,38.791832,-122.7494965,10.04,0.78,md,7,171,0.01187,0.04,nc,nc73836816,2023-01-24T23:14:59.693Z,"2km NNE of The Geysers, CA",earthquake,2.86,7.05,0.04,4,automatic,nc,nc
+2023-01-24T23:13:20.960Z,38.791832,-122.7494965,10.04,0.78,md,7,171,0.01187,0.04,nc,nc73836816,2023-01-24T23:43:10.825Z,"2km NNE of The Geysers, CA",earthquake,2.86,7.05,0.04,4,automatic,nc,nc
 2023-01-24T23:10:16.160Z,35.6673333,-117.5443333,10.41,0.99,ml,11,149,0.1048,0.11,ci,ci40160999,2023-01-24T23:13:54.052Z,"13km ENE of Ridgecrest, CA",earthquake,0.35,0.75,0.223,9,automatic,ci,ci
 2023-01-24T23:09:14.970Z,38.831665,-122.8168335,1.87,0.67,md,10,67,0.009802,0.01,nc,nc73836811,2023-01-24T23:37:11.673Z,"8km NW of The Geysers, CA",earthquake,0.33,0.84,0.18,13,automatic,nc,nc
 2023-01-24T23:00:55.960Z,38.8391685,-122.8089981,0.14,1.04,md,15,61,0.01459,0.05,nc,nc73836806,2023-01-24T23:23:11.578Z,"8km WNW of Cobb, CA",earthquake,0.2,0.69,0.16,17,automatic,nc,nc
