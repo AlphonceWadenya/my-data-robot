@@ -196,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T07:13:49.750Z,37.1160011,-121.5066681,6.85,1.19,md,11,61,0.04989,0.1,nc,nc73836591,2023-01-24T10:10:14.974Z,"10km ENE of San Martin, CA",earthquake,0.4,1.18,0.19,8,automatic,nc,nc
 2023-01-24T06:59:42.450Z,19.1971664428711,-155.401336669922,31.5200004577637,2.41,ml,47,159,,0.140000001,hv,hv73311377,2023-01-24T07:07:41.040Z,"8 km E of Pāhala, Hawaii",earthquake,0.51,0.660000026,2.82,10,automatic,hv,hv
 2023-01-24T06:57:59.017Z,64.6092,-149.2603,13.7,1.5,ml,,,,0.24,ak,ak02313st9ul,2023-01-24T07:00:03.397Z,"6 km W of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-24T06:45:02.540Z,38.8326683,-122.7971649,1.72,0.22,md,8,78,0.007825,0.01,nc,nc73836581,2023-01-24T06:46:37.085Z,"6km W of Cobb, CA",earthquake,0.39,0.83,0.09,9,automatic,nc,nc
