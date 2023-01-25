@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-25T15:41:38.520Z,38.8264999,-122.8533325,1.99,1.08,md,10,103,0.01469,0.02,nc,nc73837096,2023-01-25T15:43:11.234Z,"10km WNW of The Geysers, CA",earthquake,0.31,0.82,0.34,11,automatic,nc,nc
 2023-01-25T15:14:30.580Z,36.2446671,-120.3081665,10.71,1.23,md,7,205,0.1018,0.03,nc,nc73837076,2023-01-25T15:41:16.731Z,"12km NNE of Coalinga, CA",earthquake,1.52,1.35,0.01,3,automatic,nc,nc
 2023-01-25T15:13:35.862Z,57.5059,-154.934,40.5,3.9,ml,,,,0.68,ak,ak02315lg1dw,2023-01-25T15:36:22.040Z,"Kodiak Island region, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2023-01-25T15:09:34.409Z,-31.4512,-178.1953,37.76,5,mb,53,62,6.745,0.9,us,us6000jj6h,2023-01-25T15:52:20.040Z,"Kermadec Islands region",earthquake,11.56,6.045,0.085,44,reviewed,us,us
 2023-01-25T15:01:41.563Z,61.2487,-150.1951,31.1,2.1,ml,,,,0.75,ak,ak02315ldgz2,2023-01-25T15:32:47.344Z,"16 km WNW of Anchorage, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2023-01-25T14:42:07.510Z,17.963,-66.9143333333333,13.33,2.15,md,7,203,0.01063,0.2,pr,pr71394438,2023-01-25T15:35:37.818Z,"Puerto Rico",earthquake,1.29,0.57,0.0164918477583473,5,reviewed,pr,pr
 2023-01-25T14:38:14.790Z,64.6073,-148.745,22.9,1.1,ml,,,,0.29,ak,ak02315kzx5z,2023-01-25T14:40:02.163Z,"17 km ENE of Nenana, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -53,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-25T10:09:09.290Z,35.9618333,-117.9138333,8.71,0.84,ml,10,139,0.07899,0.07,ci,ci40161391,2023-01-25T14:35:27.546Z,"3km NNW of Little Lake, CA",earthquake,0.28,0.6,0.214,10,reviewed,ci,ci
 2023-01-25T10:03:33.360Z,33.8863333,-118.7026667,13.83,3.61,ml,127,134,0.1462,0.24,ci,ci40161287,2023-01-25T15:43:51.556Z,"16km S of Malibu Beach, CA",earthquake,0.27,0.48,0.14,192,reviewed,ci,ci
 2023-01-25T10:01:41.890Z,35.8515,-97.19116667,7.98,3.53,ml,84,46,0,0.12,ok,ok2023bspx,2023-01-25T15:41:07.796Z,"Oklahoma",earthquake,,0.3,0.26,43,reviewed,ok,ok
-2023-01-25T10:00:54.680Z,33.885,-118.7045,14.71,4.19,mw,155,134,0.1464,0.24,ci,ci40161279,2023-01-25T15:47:20.225Z,"16km S of Malibu Beach, CA",earthquake,0.25,0.35,,6,reviewed,ci,ci
+2023-01-25T10:00:54.680Z,33.885,-118.7045,14.71,4.19,mw,155,134,0.1464,0.24,ci,ci40161279,2023-01-25T15:53:18.229Z,"16km S of Malibu Beach, CA",earthquake,0.25,0.35,,6,reviewed,ci,ci
 2023-01-25T09:59:08.048Z,61.4313,-146.363,29.2,1.8,ml,,,,0.84,ak,ak02315i58no,2023-01-25T10:01:20.233Z,"33 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-25T09:54:20.360Z,38.8813324,-122.7841644,10.97,0.25,md,6,230,0.03915,0.05,nc,nc73836986,2023-01-25T12:24:12.264Z,"8km NW of Cobb, CA",earthquake,4.32,2.42,0.07,4,automatic,nc,nc
 2023-01-25T09:49:26.073Z,37.2323,-117.3704,7,0.7,ml,8,187.32,0.219,0.1662,nn,nn00855246,2023-01-25T09:50:46.318Z,"54 km SSW of Goldfield, Nevada",earthquake,,9.1,0.98,5,automatic,nn,nn
