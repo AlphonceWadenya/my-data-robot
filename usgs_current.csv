@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-26T17:32:42.190Z,38.831501,-122.81633,1.52,1.6,md,26,51,,0.02,nc,nc73837786,2023-01-26T17:34:19.712Z,"8km NW of The Geysers, CA",earthquake,0.18,0.32,0.18,26,automatic,nc,nc
 2023-01-26T17:22:31.140Z,32.9546667,-116.7433333,15.1,1.32,ml,6,127,0.107,0.16,ci,ci40162151,2023-01-26T17:26:08.984Z,"7km SSE of San Diego Country Estates, CA",earthquake,0.9,1.28,0.341,12,automatic,ci,ci
 2023-01-26T17:13:02.220Z,33.7016667,-116.7378333,16.48,2.3,ml,69,22,0.02189,0.19,ci,ci40162143,2023-01-26T17:24:16.210Z,"5km SSW of Idyllwild, CA",earthquake,0.18,0.36,0.218,25,automatic,ci,ci
 2023-01-26T17:10:36.350Z,38.8055,-122.7935028,1.07,0.99,md,16,48,0.002838,0.03,nc,nc73837776,2023-01-26T17:23:12.319Z,"4km NW of The Geysers, CA",earthquake,0.23,0.46,0.32,15,automatic,nc,nc
@@ -171,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-25T17:47:57.660Z,38.8203316,-122.7928314,2.52,0.64,md,7,129,0.0125,0.01,nc,nc73837176,2023-01-25T18:23:17.935Z,"6km NNW of The Geysers, CA",earthquake,1.07,2.08,0.35,8,automatic,nc,nc
 2023-01-25T17:46:58.890Z,38.8258324,-122.7971649,2.47,1.53,md,28,33,,0.02,nc,nc73837171,2023-01-25T20:52:14.829Z,"6km W of Cobb, CA",earthquake,0.2,0.4,0.15,29,automatic,nc,nc
 2023-01-25T17:43:57.450Z,38.8226662,-122.7963333,1.57,2.88,md,61,29,,0.09,nc,nc73837161,2023-01-26T05:06:06.298Z,"6km NW of The Geysers, CA",earthquake,0.15,0.21,0.15,76,automatic,nc,nc
-2023-01-25T17:34:48.691Z,65.4497,-148.3927,3.6,1.7,ml,,,,0.37,ak,ak02315mrfqd,2023-01-25T17:36:52.876Z,"10 km SE of Livengood, Alaska",earthquake,,1,,,automatic,ak,ak
