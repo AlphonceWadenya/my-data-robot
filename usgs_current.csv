@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-27T03:34:21.930Z,36.8353348,-121.5988312,2.07,0.92,md,8,120,0.04934,0.26,nc,nc73838096,2023-01-27T03:35:58.050Z,"6km WSW of San Juan Bautista, CA",earthquake,0.78,3.27,0.33,9,automatic,nc,nc
+2023-01-27T03:34:21.930Z,36.8353348,-121.5988312,2.07,0.92,md,8,120,0.04934,0.26,nc,nc73838096,2023-01-27T03:47:12.031Z,"6km WSW of San Juan Bautista, CA",earthquake,0.78,3.27,0.33,9,automatic,nc,nc
 2023-01-27T03:22:50.380Z,38.8361664,-122.8075027,2.08,1.07,md,20,51,0.01291,0.01,nc,nc73838091,2023-01-27T03:36:11.962Z,"8km WNW of Cobb, CA",earthquake,0.22,0.44,0.27,22,automatic,nc,nc
 2023-01-27T03:21:52.782Z,60.7982,-150.4954,50.4,1.5,ml,,,,0.51,ak,ak02318pfa95,2023-01-27T03:24:24.639Z,"17 km SE of Point Possession, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-27T03:21:13.798Z,44.4722,-115.1837,10,2.2,ml,14,55,0.673,0.83,us,us6000jjlb,2023-01-27T03:29:49.040Z,"34 km NW of Stanley, Idaho",earthquake,1.97,2.011,0.064,32,reviewed,us,us
