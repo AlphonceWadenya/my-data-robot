@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-27T05:26:15.381Z,58.2335,-155.1939,3.1,2.3,ml,,,,0.5,ak,ak02318qn561,2023-01-27T05:28:43.904Z,"86 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-01-27T05:31:30.280Z,38.829834,-122.8116684,1.97,1.85,md,36,40,0.006549,0.04,nc,nc73838136,2023-01-27T05:34:24.010Z,"8km NW of The Geysers, CA",earthquake,0.17,0.27,0.16,34,automatic,nc,nc
+2023-01-27T05:26:15.381Z,58.2335,-155.1939,3.1,2.3,ml,,,,0.5,ak,ak02318qn561,2023-01-27T05:38:15.040Z,"86 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-27T05:07:01.410Z,33.547,-116.4075,5.58,0.56,ml,17,94,0.07624,0.13,ci,ci40162375,2023-01-27T05:10:38.079Z,"16km SW of La Quinta, CA",earthquake,0.28,0.9,0.123,13,automatic,ci,ci
 2023-01-27T04:47:14.340Z,31.73374524,-104.1118247,6.234399414,2.9,ml,19,45,0.03980018459,0.2,tx,tx2023bvwo,2023-01-27T05:03:11.264Z,"48 km W of Mentone, Texas",earthquake,0.6010776001,0.6770240871999998,0.1,11,reviewed,tx,tx
 2023-01-27T04:37:16.988Z,40.0357,-119.5821,4.3,1.4,ml,10,141.43,0.177,0.1814,nn,nn00855364,2023-01-27T04:38:55.186Z,"9 km N of Sutcliffe, Nevada",earthquake,,1.7,0.2,5,automatic,nn,nn
