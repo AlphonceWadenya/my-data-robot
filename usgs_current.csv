@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-27T22:56:48.326Z,64.5609,-147.8885,3.2,1.4,ml,,,,0.84,ak,ak023190y0gw,2023-01-27T22:58:19.613Z,"28 km S of South Van Horn, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-27T22:44:28.260Z,38.8433342,-122.841835,1.98,0.61,md,16,122,0.006858,0.01,nc,nc73838511,2023-01-27T22:46:02.047Z,"10km NW of The Geysers, CA",earthquake,0.31,0.48,0.38,18,automatic,nc,nc
 2023-01-27T22:30:10.980Z,38.8178329,-122.7811661,2.49,0.69,md,9,100,0.004583,0.04,nc,nc73838496,2023-01-27T22:31:47.017Z,"5km NNW of The Geysers, CA",earthquake,0.77,1.87,0.27,9,automatic,nc,nc
-2023-01-27T22:28:07.010Z,38.809166,-122.7768326,4.9,1.04,md,12,108,0.005076,0.08,nc,nc73838491,2023-01-27T22:29:42.297Z,"4km NNW of The Geysers, CA",earthquake,0.69,1.03,0.2,13,automatic,nc,nc
+2023-01-27T22:28:07.010Z,38.809166,-122.7768326,4.9,1.04,md,12,108,0.005076,0.08,nc,nc73838491,2023-01-27T22:58:10.075Z,"4km NNW of The Geysers, CA",earthquake,0.69,1.03,0.2,13,automatic,nc,nc
 2023-01-27T22:27:01.240Z,38.8306656,-122.8101654,1.69,1.31,md,26,45,0.0173,0.02,nc,nc73838486,2023-01-27T22:51:11.034Z,"8km NW of The Geysers, CA",earthquake,0.19,0.38,0.09,27,automatic,nc,nc
 2023-01-27T22:23:35.390Z,38.7999992,-122.7841644,7.33,0.74,md,7,209,0.007415,0.02,nc,nc73838476,2023-01-27T22:49:12.021Z,"4km NW of The Geysers, CA",earthquake,2.76,3.68,0.26,6,automatic,nc,nc
 2023-01-27T22:21:25.490Z,33.3881667,-116.7013333,-0.27,0.39,ml,9,152,0.1939,0.29,ci,ci40162879,2023-01-27T22:24:56.210Z,"13km NNW of Warner Springs, CA",earthquake,1.96,31.61,0.118,5,automatic,ci,ci
@@ -107,6 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-27T11:57:38.716Z,63.1198,-144.4365,13.1,1.9,ml,,,,0.35,ak,ak02318uefsf,2023-01-27T11:59:05.188Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-27T11:55:01.950Z,38.1482,-117.978,5.4,0.7,ml,12,132.7,0.017,0.1957,nn,nn00855372,2023-01-27T19:03:08.487Z,"29 km SSE of Mina, Nevada",earthquake,,1.7,0.38,3,reviewed,nn,nn
 2023-01-27T11:53:12.434Z,61.6577,-149.7914,29.2,2.1,ml,,,,0.46,ak,ak02318udiwb,2023-01-27T20:40:55.258Z,"3 km NNE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-01-27T11:46:32.310Z,58.4555,-154.526166666667,3.02,0.44,ml,8,234,,0.32,av,av91085928,2023-01-27T22:54:15.140Z,"Alaska Peninsula",earthquake,1.38,2.54,0.210291407154173,8,reviewed,av,av
 2023-01-27T11:37:49.725Z,63.4962,-150.7861,11.3,1.1,ml,,,,0.65,ak,ak02318ua64f,2023-01-27T15:36:21.802Z,"46 km E of Denali National Park, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-01-27T11:34:31.870Z,41.2642,-118.8458,1.2,1.1,ml,4,150.6,1.18,0.2495,nn,nn00855394,2023-01-27T21:20:39.853Z,"63 km NNE of Black Rock City, Nevada",earthquake,,11.2,0.47,2,reviewed,nn,nn
 2023-01-27T11:27:32.412Z,61.6355,-149.8954,33.2,1.5,ml,,,,0.47,ak,ak02318u7ztl,2023-01-27T20:39:01.164Z,"4 km W of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
