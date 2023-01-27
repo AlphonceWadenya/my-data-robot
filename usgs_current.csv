@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-27T10:41:49.190Z,38.6878319,-122.3876648,0.97,1.77,md,10,104,0.05876,0.26,nc,nc73838236,2023-01-27T10:43:23.840Z,"14km NNE of Angwin, CA",earthquake,0.74,3.49,0.12,9,automatic,nc,nc
 2023-01-27T10:35:21.681Z,58.2587,-155.0224,2,0.4,ml,,,,0.36,ak,ak02318to948,2023-01-27T10:37:45.339Z,"83 km NNW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-01-27T10:32:44.713Z,60.66,-151.8314,73.4,1.7,ml,,,,0.58,ak,ak02318tnnqp,2023-01-27T10:34:21.967Z,"28 km W of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-01-27T10:28:22.060Z,40.5856667,-124.1204987,15.73,3.72,ml,24,139,0.1683,0.09,nc,nc73838231,2023-01-27T10:38:40.559Z,"3km ESE of Fortuna, CA",earthquake,0.35,0.47,0.274,11,automatic,nc,nc
+2023-01-27T10:28:22.060Z,40.5856667,-124.1204987,15.73,3.72,ml,24,139,0.1683,0.09,nc,nc73838231,2023-01-27T10:44:19.466Z,"3km ESE of Fortuna, CA",earthquake,0.35,0.47,0.274,11,reviewed,nc,nc
 2023-01-27T09:58:33.020Z,38.8219986,-122.8088303,1.35,0.77,md,16,68,0.001699,0.04,nc,nc73838226,2023-01-27T10:22:15.462Z,"7km NW of The Geysers, CA",earthquake,0.24,0.56,0.14,18,automatic,nc,nc
 2023-01-27T09:58:10.142Z,61.5313,-146.3163,41.5,1.2,ml,,,,1,ak,ak02318t7q3a,2023-01-27T10:00:05.287Z,"44 km N of Valdez, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-27T09:57:24.440Z,33.3416667,-116.79,15.17,0.47,ml,21,61,0.1086,0.17,ci,ci40162607,2023-01-27T10:00:55.036Z,"7km ESE of Palomar Observatory, CA",earthquake,0.38,0.9,0.147,8,automatic,ci,ci
@@ -242,4 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-26T10:49:23.490Z,37.6008333,-118.8083333,5.6,0.93,md,18,92,0.01972,0.05,nc,nc73837676,2023-01-27T10:34:10.540Z,"12km WNW of Toms Place, CA",earthquake,0.36,0.45,0.181,17,reviewed,nc,nc
 2023-01-26T10:48:00.470Z,37.5968333,-118.8071667,5.9,0.86,md,16,162,0.01871,0.03,nc,nc73837671,2023-01-27T09:04:14.958Z,"12km WNW of Toms Place, CA",earthquake,0.4,0.46,0.169,15,reviewed,nc,nc
 2023-01-26T10:47:42.549Z,32.75115967,-100.6594179,6.284871419,2.6,ml,19,70,0.08173564011,0.2,tx,tx2023bumz,2023-01-26T14:09:46.489Z,"15 km NE of Hermleigh, Texas",earthquake,0.9354768342,1.148396198,0,10,reviewed,tx,tx
-2023-01-26T10:45:53.633Z,-30.254,-178.6685,135.699,6,mww,70,34,1.184,1.08,us,us6000jjcy,2023-01-26T13:34:56.040Z,"Kermadec Islands, New Zealand",earthquake,10.36,4.873,0.055,32,reviewed,us,us
