@@ -245,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-27T11:57:38.716Z,63.1198,-144.4365,13.1,1.9,ml,,,,0.35,ak,ak02318uefsf,2023-01-27T11:59:05.188Z,"40 km WNW of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-27T11:55:01.950Z,38.1482,-117.978,5.4,0.7,ml,12,132.7,0.017,0.1957,nn,nn00855372,2023-01-27T19:03:08.487Z,"29 km SSE of Mina, Nevada",earthquake,,1.7,0.38,3,reviewed,nn,nn
 2023-01-27T11:53:12.434Z,61.6577,-149.7914,29.2,2.1,ml,,,,0.46,ak,ak02318udiwb,2023-01-27T20:40:55.258Z,"3 km NNE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-27T11:46:32.310Z,58.4555,-154.526166666667,3.02,0.44,ml,8,234,,0.32,av,av91085928,2023-01-27T22:54:15.140Z,"Alaska Peninsula",earthquake,1.38,2.54,0.210291407154173,8,reviewed,av,av
