@@ -1,12 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-29T07:30:19.860Z,33.1215,-115.6095,6.55,1.13,ml,10,81,0.02462,0.18,ci,ci40163639,2023-01-29T07:34:07.858Z,"9km W of Calipatria, CA",earthquake,0.54,0.93,0.232,18,automatic,ci,ci
 2023-01-29T07:22:25.783Z,63.1704,-147.6536,6.2,1.8,ml,,,,0.61,ak,ak0231c2vvaq,2023-01-29T07:24:26.634Z,"69 km ESE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-29T07:16:34.820Z,38.7919998,-122.7614975,2.3,0.77,md,15,62,0.008725,0.02,nc,nc73839191,2023-01-29T07:18:08.712Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.57,0.14,17,automatic,nc,nc
+2023-01-29T07:16:34.820Z,38.7919998,-122.7614975,2.3,0.77,md,15,62,0.008725,0.02,nc,nc73839191,2023-01-29T07:34:10.181Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.57,0.14,17,automatic,nc,nc
 2023-01-29T07:14:13.804Z,61.3379,-150.0871,45.3,1.3,ml,,,,0.71,ak,ak0231c2u4n8,2023-01-29T07:16:17.525Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-29T07:11:40.350Z,40.6430016,-122.321167,17.25,1.97,md,7,142,0.1548,0.03,nc,nc73839186,2023-01-29T07:24:11.230Z,"6km SE of Shasta Lake, CA",earthquake,1.1,2.91,0.18,5,automatic,nc,nc
 2023-01-29T07:09:20.960Z,38.8419991,-122.8386688,1.98,1.1,md,24,90,0.004215,0.01,nc,nc73839181,2023-01-29T07:26:18.127Z,"10km NW of The Geysers, CA",earthquake,0.2,0.4,0.17,23,automatic,nc,nc
 2023-01-29T07:06:10.350Z,60.4172,-152.7141,14.3,1.6,ml,,,,0.79,ak,ak0231c2senf,2023-01-29T07:07:51.849Z,"70 km NW of Ninilchik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-29T06:58:31.550Z,19.1773338317871,-155.492492675781,31.4899997711182,2.25999999,md,41,154,,0.140000001,hv,hv73314992,2023-01-29T07:01:47.110Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.71,0.899999976,1.99000001,14,automatic,hv,hv
-2023-01-29T06:52:28.642Z,57.4637,-154.5562,68.1,3,ml,,,,0.4,ak,ak0231c2gveb,2023-01-29T06:54:59.002Z,"Kodiak Island region, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-01-29T06:52:28.642Z,57.4637,-154.5562,68.1,3,ml,,,,0.4,ak,ak0231c2gveb,2023-01-29T07:35:42.040Z,"Kodiak Island region, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-29T06:24:24.317Z,60.1466,-153.1144,139.8,2.4,ml,,,,0.63,ak,ak0231c2auw8,2023-01-29T06:27:06.019Z,"66 km E of Port Alsworth, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-01-29T06:17:03.541Z,62.9377,-149.5769,0,1.6,ml,,,,1.11,ak,ak0231c29bea,2023-01-29T06:19:14.866Z,"59 km SSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-29T06:11:00.680Z,38.8040009,-122.7786636,3.67,0.27,md,8,88,0.009379,0.01,nc,nc73839176,2023-01-29T07:01:14.967Z,"4km NNW of The Geysers, CA",earthquake,0.71,1.77,0.05,9,automatic,nc,nc
