@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-30T15:20:08.550Z,38.8293343,-122.7891693,1.35,0.75,md,14,77,0.009108,0.02,nc,nc73839811,2023-01-30T15:21:43.029Z,"6km W of Cobb, CA",earthquake,0.27,0.7,0.15,14,automatic,nc,nc
+2023-01-30T15:20:08.550Z,38.8293343,-122.7891693,1.35,0.75,md,14,77,0.009108,0.02,nc,nc73839811,2023-01-30T15:38:10.882Z,"6km W of Cobb, CA",earthquake,0.27,0.7,0.15,14,automatic,nc,nc
 2023-01-30T15:20:07.130Z,40.5528336,-124.2156677,19.19,2.08,md,9,279,0.2365,0.06,nc,nc73839816,2023-01-30T15:30:11.016Z,"5km ESE of Ferndale, CA",earthquake,2.57,1.12,,1,automatic,nc,nc
 2023-01-30T15:16:16.420Z,36.010334,-120.9609985,10.24,1.34,md,12,99,0.05993,0.04,nc,nc73839806,2023-01-30T15:33:13.854Z,"5km WSW of San Ardo, CA",earthquake,0.37,0.7,0.15,6,automatic,nc,nc
 2023-01-30T15:07:50.510Z,38.8181648,-122.8215027,-0.73,0.65,md,7,159,0.01167,0.05,nc,nc73839801,2023-01-30T15:24:11.796Z,"7km NW of The Geysers, CA",earthquake,0.53,2.92,0.16,8,automatic,nc,nc
