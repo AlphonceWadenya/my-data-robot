@@ -91,6 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T07:19:28.520Z,38.8339996,-122.7929993,2,0.69,md,9,84,0.004867,0.01,nc,nc73840086,2023-01-31T07:57:12.203Z,"6km WNW of Cobb, CA",earthquake,0.48,1.26,0.11,10,automatic,nc,nc
 2023-01-31T07:13:43.200Z,35.5018333,-118.3953333,4.63,2.13,ml,35,32,0.1729,0.21,ci,ci40164423,2023-01-31T07:24:14.100Z,"13km SE of Bodfish, CA",earthquake,0.25,2.61,0.261,26,automatic,ci,ci
 2023-01-31T06:56:10.414Z,63.1035,-151.4346,5.3,1.6,ml,,,,0.56,ak,ak0231fdkdu9,2023-01-31T07:00:03.433Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-01-31T06:53:20.653Z,38.3001,-118.6008,6.8,-0.1,ml,5,293.82,0.09,0.035,nn,nn00855500,2023-01-31T17:55:56.069Z,"25 km S of Hawthorne, Nevada",earthquake,,32.5,0,1,reviewed,nn,nn
 2023-01-31T06:50:31.095Z,61.1837,-142.6301,14.8,1.6,ml,,,,0.61,ak,ak0231fdj5d5,2023-01-31T06:57:13.893Z,"31 km SSE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-31T06:37:33.320Z,38.7775002,-122.7826691,3.43,1.28,md,8,160,0.01486,0.17,nc,nc73840071,2023-01-31T09:29:14.829Z,"2km W of The Geysers, CA",earthquake,1.82,2.35,0.25,7,automatic,nc,nc
 2023-01-31T06:17:52.610Z,38.8115005,-122.8123322,3.24,1.05,md,17,63,0.01201,0.02,nc,nc73840066,2023-01-31T07:03:12.835Z,"6km NW of The Geysers, CA",earthquake,0.31,0.99,0.19,18,automatic,nc,nc
