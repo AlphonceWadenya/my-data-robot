@@ -30,6 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-01T19:28:19.850Z,38.841835,-122.836998,1.6,1.02,md,16,89,0.003449,0.03,nc,nc73840631,2023-02-01T19:40:10.415Z,"10km NW of The Geysers, CA",earthquake,0.27,0.42,0.14,17,automatic,nc,nc
 2023-02-01T19:26:06.338Z,62.9239,-151.0817,24.5,1.6,ml,,,,0.64,ak,ak0231h8nxeh,2023-02-01T19:28:29.790Z,"50 km NNW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-02-01T19:14:11.669Z,61.6917,-150.9552,47.5,1.4,ml,,,,0.81,ak,ak0231h8ld7y,2023-02-01T19:16:09.626Z,"28 km NW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-02-01T19:07:21.140Z,56.8626666666667,-158.176166666667,4.13,1.09,ml,5,115,,0.33,av,av91086558,2023-02-01T23:25:04.100Z,"29 km ESE of Port Heiden, Alaska",earthquake,1.03,1.53,0.512966527644433,5,reviewed,av,av
 2023-02-01T18:41:47.074Z,60.3462,-149.9826,32.4,1.6,ml,,,,0.45,ak,ak0231h85soj,2023-02-01T18:54:31.195Z,"18 km SSW of Cooper Landing, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2023-02-01T18:35:32.400Z,38.8236656,-122.7646637,2.23,0.28,md,7,133,0.007937,0.01,nc,nc73840626,2023-02-01T19:46:14.449Z,"4km W of Cobb, CA",earthquake,0.54,0.76,0.13,8,automatic,nc,nc
 2023-02-01T18:29:58.090Z,38.8236667,-122.7643333,2.17,0.79,md,33,85,0.008072,0.02,nc,nc73840621,2023-02-01T22:12:12.249Z,"4km W of Cobb, CA",earthquake,0.2,0.25,0.17,7,reviewed,nc,nc
@@ -241,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T23:37:17.260Z,58.186,-155.308,1.4,-0.47,ml,6,154,,0.03,av,av91753661,2023-02-01T05:12:07.390Z,"85 km NW of Karluk, Alaska",earthquake,0.23,0.72,0.167613162276336,6,reviewed,av,av
 2023-01-31T23:35:59.950Z,36.6621667,-120.8313333,7.47,1.79,md,32,114,0.0309,0.19,nc,nc73840321,2023-02-01T07:33:14.874Z,"31km NNW of New Idria, CA",earthquake,0.37,0.78,0.161,29,reviewed,nc,nc
 2023-01-31T23:35:29.451Z,58.1858,-155.3494,1.1,0.3,ml,,,,0.31,ak,ak0231fnkak1,2023-02-01T05:09:31.540Z,"86 km NW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-01-31T23:29:19.643Z,63.3377,-145.4681,0.8,2.5,ml,,,,0.84,ak,ak0231fnizhl,2023-01-31T23:42:13.040Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
