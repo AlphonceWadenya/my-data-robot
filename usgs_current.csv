@@ -239,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-01T08:58:27.787Z,-1.8267,-78.0029,159.755,4.4,mb,38,62,0.927,1.04,us,us6000jkpi,2023-02-01T09:57:45.040Z,"14 km SSW of Palora, Ecuador",earthquake,4.96,8.218,0.095,32,reviewed,us,us
 2023-02-01T08:57:44.370Z,56.9093333333333,-158.089,2.32,0.4,ml,4,227,,0.15,av,av91086443,2023-02-01T21:09:27.690Z,"Alaska Peninsula",earthquake,0.92,1.33,0.391806446215941,4,reviewed,av,av
 2023-02-01T08:53:51.910Z,32.9198333,-116.244,8.19,0.9,ml,22,60,0.06079,0.16,ci,ci40164919,2023-02-01T14:39:16.188Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.3,0.81,0.192,9,reviewed,ci,ci
-2023-02-01T08:40:22.470Z,38.7886658,-122.765831,2.02,0.35,md,11,91,0.01286,0.03,nc,nc73840461,2023-02-01T10:38:10.039Z,"2km NNW of The Geysers, CA",earthquake,0.31,0.82,0.17,12,automatic,nc,nc
