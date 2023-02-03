@@ -232,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-02T07:16:48.990Z,33.0116667,-116.4493333,10.77,1.2,ml,60,47,0.05135,0.17,ci,ci40165391,2023-02-02T18:49:16.200Z,"16km ESE of Julian, CA",earthquake,0.15,0.28,0.188,28,reviewed,ci,ci
 2023-02-02T07:15:57.560Z,61.16,-146.4884,77.9,1.7,ml,,,,1.1,ak,ak0231ioztpo,2023-02-02T07:18:01.921Z,"8 km WNW of Valdez, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-02-02T07:12:44.790Z,33.1958333,-115.5873333,3.68,1.29,ml,18,98,0.02998,0.16,ci,ci40165383,2023-02-02T18:37:59.089Z,"8km SW of Niland, CA",earthquake,0.24,0.2,0.186,6,reviewed,ci,ci
-2023-02-02T07:09:21.050Z,38.7961655,-122.7643356,1.39,0.75,md,11,65,0.005734,0.01,nc,nc73840886,2023-02-02T08:02:14.762Z,"2km NNW of The Geysers, CA",earthquake,0.28,0.56,0.03,11,automatic,nc,nc
