@@ -193,5 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-03T23:36:15.520Z,38.838501,-122.8383331,2.06,0.71,md,9,121,0.002224,0.02,nc,nc73841566,2023-02-04T00:22:18.257Z,"10km NW of The Geysers, CA",earthquake,0.36,0.84,0.25,9,automatic,nc,nc
 2023-02-03T23:35:39.760Z,35.8863335,-120.4398346,9.43,1.03,md,14,111,0.01655,0.09,nc,nc73841561,2023-02-04T00:11:18.191Z,"2km SSW of Parkfield, CA",earthquake,1.35,2.04,0.15,5,automatic,nc,nc
 2023-02-03T23:31:18.650Z,53.9155,-166.694166666667,4.69,0.47,ml,7,114,,0.13,av,av91754856,2023-02-04T03:08:41.380Z,"10 km WNW of Dutch Harbor, Alaska",earthquake,0.33,0.68,0.196698479343452,7,reviewed,av,av
-2023-02-03T23:23:14.586Z,60.0383,-152.9807,98.2,1.4,ml,,,,0.55,ak,ak0231km3qaq,2023-02-03T23:25:11.700Z,"68 km ENE of Pedro Bay, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-02-03T23:23:05.210Z,37.6663322,-122.5134964,5.22,2.29,md,45,102,0.04229,0.05,nc,nc73841556,2023-02-04T19:32:01.595Z,"5km WSW of Colma, CA",earthquake,0.21,0.32,0.21,43,automatic,nc,nc
