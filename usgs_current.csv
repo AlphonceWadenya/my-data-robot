@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-05T09:40:29.470Z,38.8219986,-122.7630005,1.89,1.1,md,17,122,0.01004,0.02,nc,nc73842186,2023-02-05T09:42:05.279Z,"4km W of Cobb, CA",earthquake,0.28,0.44,0.14,18,automatic,nc,nc
 2023-02-05T09:38:36.139Z,61.6757,-149.8202,30,1.5,ml,,,,0.69,ak,ak0231noxm7x,2023-02-05T09:40:36.506Z,"5 km N of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-05T09:25:45.040Z,33.6743333,-116.7165,15.34,2.21,ml,75,16,0.03679,0.21,ci,ci40411216,2023-02-05T09:36:33.320Z,"7km S of Idyllwild, CA",earthquake,0.18,0.37,0.254,25,automatic,ci,ci
 2023-02-05T09:08:31.668Z,58.1957,-155.1223,1.4,0.5,ml,,,,0.25,ak,ak0231nor6e6,2023-02-05T09:10:12.751Z,"80 km NNW of Karluk, Alaska",earthquake,,3.3,,,automatic,ak,ak
