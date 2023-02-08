@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-08T03:54:09.670Z,19.234167098999,-155.398666381836,30.3799991607666,2.11999989,md,32,140,,0.150000006,hv,hv73321042,2023-02-08T03:57:35.260Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.76,0.970000029,0.899999976,13,automatic,hv,hv
 2023-02-08T03:46:52.810Z,19.2604999542236,-155.407501220703,33.8899993896484,2.44,ml,43,123,,0.119999997,hv,hv73321037,2023-02-08T03:52:23.780Z,"9 km NE of Pāhala, Hawaii",earthquake,0.56,0.769999981,0.21,6,automatic,hv,hv
 2023-02-08T03:45:31.920Z,34.011,-117.247,12.27,0.93,ml,20,125,0.08849,0.21,ci,ci40412104,2023-02-08T03:49:04.319Z,"4km SSE of Loma Linda, CA",earthquake,0.44,1.18,0.246,24,automatic,ci,ci
 2023-02-08T03:38:27.550Z,34.019,-118.952,5.1,1.96,ml,31,208,0.05059,0.32,ci,ci40412096,2023-02-08T03:47:32.123Z,"13km W of Malibu, CA",earthquake,1.22,1.39,0.176,29,automatic,ci,ci
