@@ -11,6 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-09T17:47:35.500Z,33.144,-116.4961667,10.61,0.92,ml,29,63,0.1058,0.28,ci,ci40412760,2023-02-09T17:51:19.178Z,"12km NE of Julian, CA",earthquake,0.49,0.79,0.145,18,automatic,ci,ci
 2023-02-09T17:45:59.018Z,63.5409,-147.7227,1.1,1.2,ml,,,,1,ak,ak0231ufw0t9,2023-02-09T17:48:23.582Z,"62 km ESE of Denali Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-09T17:45:01.590Z,38.7949982,-122.7593307,3.35,0.75,md,8,142,0.005626,0.02,nc,nc73844081,2023-02-09T18:19:16.552Z,"2km N of The Geysers, CA",earthquake,0.58,1.34,0.06,8,automatic,nc,nc
+2023-02-09T17:44:36.713Z,61.7203,-150.8781,52.4,1.3,ml,,,,0.58,ak,ak0231ufvq9g,2023-02-09T18:47:51.953Z,"27 km NW of Susitna, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-02-09T17:43:39.650Z,38.793335,-122.760498,2.25,1.57,md,27,66,0.007305,0.04,nc,nc73844076,2023-02-09T17:54:10.401Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.42,0.22,28,automatic,nc,nc
 2023-02-09T17:43:05.630Z,38.7916679,-122.7588348,2.51,2.8,md,63,45,0.00897,0.08,nc,nc73844071,2023-02-09T18:45:19.107Z,"2km N of The Geysers, CA",earthquake,0.15,0.27,0.14,75,automatic,nc,nc
 2023-02-09T17:15:12.280Z,18.2046666666667,-67.0236666666667,8.23,1.9,md,5,218,0.2135,0.18,pr,pr71395778,2023-02-09T17:30:25.210Z,"5 km WNW of Maricao, Puerto Rico",earthquake,0.86,14.92,0.175418744501444,5,reviewed,pr,pr
@@ -243,5 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-08T18:58:53.997Z,34.1531,36.2324,10,4.2,mb,41,161,2.527,0.7,us,us6000jmjy,2023-02-09T15:16:20.598Z,"16 km N of Baalbek, Lebanon",earthquake,8.86,1.953,0.128,17,reviewed,us,us
 2023-02-08T18:58:08.260Z,35.262,-119.0673333,19.24,2.03,ml,51,37,0.08768,0.21,ci,ci40412288,2023-02-09T16:10:03.691Z,"11km SSW of Bakersfield, CA",earthquake,0.2,0.53,0.123,35,reviewed,ci,ci
 2023-02-08T18:53:36.254Z,63.3267,-145.4157,5.4,1.5,ml,,,,0.71,ak,ak0231sszrw9,2023-02-08T18:55:34.018Z,"28 km NNE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-02-08T18:51:32.560Z,35.1515,-97.57833333,7.95,1.16,ml,25,62,0.09088216582,0.25,ok,ok2023cswl,2023-02-09T16:14:34.812Z,"5 km N of Cole, Oklahoma",earthquake,,0.7,0.22,4,reviewed,ok,ok
-2023-02-08T18:46:02.813Z,58.2797,-155.0153,0,1.1,ml,,,,0.37,ak,ak0231ssy7ax,2023-02-08T18:48:01.034Z,"85 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
