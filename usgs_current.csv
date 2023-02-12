@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-12T20:31:01.330Z,19.2601661682129,-155.378494262695,30.6299991607666,1.80999994,md,25,204,,0.129999995,hv,hv73323402,2023-02-12T20:34:05.070Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.53,0.560000002,0.430000007,9,automatic,hv,hv
 2023-02-12T20:26:42.147Z,60.7042,-150.6346,56.3,1.9,ml,,,,0.73,ak,ak0231zg697a,2023-02-12T20:28:37.509Z,"19 km NNE of Sterling, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-02-12T20:26:17.870Z,33.2311667,-116.5686667,6.71,0.7,ml,11,156,0.1517,0.27,ci,ci40413936,2023-02-12T20:29:48.427Z,"8km SE of Warner Springs, CA",earthquake,1.35,31.61,0.324,5,automatic,ci,ci
 2023-02-12T20:12:16.890Z,40.5974998,-123.8388367,23.15,2.66,md,28,95,0.1268,0.11,nc,nc73845416,2023-02-12T20:18:10.174Z,"22km ENE of Hydesville, CA",earthquake,0.37,0.78,0.12,22,automatic,nc,nc
