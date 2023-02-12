@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-12T05:35:44.440Z,19.1599998474121,-155.484832763672,34.810001373291,2.4,ml,39,122,,0.129999995,hv,hv73323147,2023-02-12T05:41:22.470Z,"4 km S of Pāhala, Hawaii",earthquake,0.66,0.819999993,4.49,4,automatic,hv,hv
 2023-02-12T05:33:45.801Z,36.7295,-114.7313,6.9,1.8,ml,14,305.64,0.409,0.4777,nn,nn00855991,2023-02-12T05:35:15.288Z,"13 km WNW of Moapa Town, Nevada",earthquake,,3.9,0.13,10,automatic,nn,nn
 2023-02-12T05:31:46.624Z,59.0252,-154.1728,122.1,2,ml,,,,0.15,ak,ak0231z79u1y,2023-02-12T05:33:54.828Z,"57 km SE of Kokhanok, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-02-12T05:24:08.720Z,19.1518325805664,-155.456832885742,32.6699981689453,2.02999997,md,33,171,,0.140000001,hv,hv73323137,2023-02-12T05:27:14.930Z,"Island of Hawaii, Hawaii",earthquake,0.78,1.13999999,1.48000002,14,automatic,hv,hv
