@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-12T22:53:00.503Z,38.0508,36.6224,10,4.5,mb,57,99,1.005,0.74,us,us6000jni7,2023-02-12T23:11:20.040Z,"Central Turkey",earthquake,3.23,1.871,0.08,46,reviewed,us,us
+2023-02-12T23:22:27.486Z,62.8993,-149.8529,64.8,1.4,ml,,,,0.72,ak,ak0231zhxo0s,2023-02-12T23:24:17.918Z,"51 km NNE of Chase, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-02-12T22:53:00.503Z,38.0508,36.6224,10,4.5,mb,57,99,1.005,0.74,us,us6000jni7,2023-02-12T23:24:10.046Z,"Central Turkey",earthquake,3.23,1.871,0.08,46,reviewed,us,us
 2023-02-12T22:32:22.740Z,38.8376656,-122.8021698,2.25,0.27,md,7,119,0.009265,0.01,nc,nc73845476,2023-02-12T22:51:12.136Z,"7km WNW of Cobb, CA",earthquake,0.56,1.73,0.17,7,automatic,nc,nc
 2023-02-12T22:29:08.320Z,33.1768333,-116.036,6.08,1.36,ml,35,38,0.04897,0.22,ci,ci40413968,2023-02-12T22:32:39.810Z,"10km ENE of Ocotillo Wells, CA",earthquake,0.3,1.19,0.134,26,automatic,ci,ci
 2023-02-12T22:22:48.264Z,61.215,-147.6626,20.9,2.1,ml,,,,0.5,ak,ak0231zhca0f,2023-02-12T22:25:47.863Z,"65 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
