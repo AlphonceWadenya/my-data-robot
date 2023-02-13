@@ -194,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-12T05:10:54.788Z,59.9202,-148.6111,0.8,2.1,ml,,,,0.65,ak,ak0231z75cna,2023-02-12T05:13:13.139Z,"37 km WSW of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-12T05:10:54.170Z,19.1576671600342,-155.46533203125,32.8400001525879,2.26999998,md,37,167,,0.170000002,hv,hv73323127,2023-02-12T05:29:07.040Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.73,1.03999996,0.419999987,21,automatic,hv,hv
 2023-02-12T05:00:02.536Z,38.2551,-116.0733,8.8,1.2,ml,8,233.52,1.171,0.2193,nn,nn00855988,2023-02-12T05:02:14.132Z,"73 km NNW of Rachel, Nevada",earthquake,,1.5,1.16,5,automatic,nn,nn
-2023-02-12T04:52:59.662Z,37.9259,37.5096,10,4.2,mb,24,101,0.789,0.85,us,us6000jndz,2023-02-12T05:14:37.040Z,"7 km SE of Nurhak, Turkey",earthquake,4.27,1.947,0.176,9,reviewed,us,us
