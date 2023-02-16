@@ -181,7 +181,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-15T07:35:23.178Z,51.253,-179.2385,35,5.2,mww,886,89,0.925,1.04,us,us6000jp24,2023-02-16T01:45:37.222Z,"193 km WSW of Adak, Alaska",earthquake,4.51,1.817,0.078,16,reviewed,us,us
 2023-02-15T07:34:52.167Z,64.1542,-147.8885,7.6,0.8,ml,,,,0.56,ak,ak0232473ds7,2023-02-15T18:45:38.037Z,"61 km ENE of Ferry, Alaska",earthquake,,3.1,,,reviewed,ak,ak
 2023-02-15T07:30:59.317Z,40.0463,-120.9888,14,1.6,ml,6,223.47,0.515,0.1487,nn,nn00856116,2023-02-15T23:13:46.724Z,"1 km NNE of Paxton, California",earthquake,,2.6,0.3,5,reviewed,nn,nn
-2023-02-15T07:27:06.530Z,19.1136666666667,-155.407166666667,31.75,4.78,ml,45,185,,0.11,hv,hv73325052,2023-02-16T04:22:00.400Z,"12 km SE of Pāhala, Hawaii",earthquake,0.47,0.61,0.13919640319702,29,reviewed,hv,hv
+2023-02-15T07:27:06.530Z,19.1136666666667,-155.407166666667,31.75,4.78,ml,45,185,,0.11,hv,hv73325052,2023-02-16T04:49:07.851Z,"12 km SE of Pāhala, Hawaii",earthquake,0.47,0.61,0.13919640319702,29,reviewed,hv,hv
 2023-02-15T07:23:31.552Z,63.2373,-148.9301,1.6,2,ml,,,,0.42,ak,ak0232470zur,2023-02-15T07:25:23.089Z,"17 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-15T07:23:02.890Z,19.236665725708,-155.386840820312,31.0599994659424,2.04999995,md,38,144,,0.150000006,hv,hv73325047,2023-02-15T08:57:01.261Z,"Island of Hawaii, Hawaii",earthquake,0.67,0.779999971,0.800000012,20,automatic,hv,hv
 2023-02-15T07:21:27.639Z,-24.3174,-179.5462,525.833,4.2,mb,20,144,5.087,0.39,us,us6000jp20,2023-02-15T08:51:21.040Z,"south of the Fiji Islands",earthquake,13.58,26.889,0.147,17,reviewed,us,us
@@ -206,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-15T05:03:31.141Z,60.0711,-151.9513,79.9,2.8,ml,,,,0.38,ak,ak023245puai,2023-02-15T05:44:27.040Z,"15 km W of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-15T04:56:20.171Z,63.1799,-149.4212,72.9,1.9,ml,,,,0.81,ak,ak023245fqsh,2023-02-15T04:58:35.989Z,"33 km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-15T04:55:19.760Z,38.8268318,-122.8714981,2.2,1.19,md,21,80,0.01145,0.02,nc,nc73846596,2023-02-15T08:36:14.094Z,"11km WNW of The Geysers, CA",earthquake,0.24,0.42,0.17,23,automatic,nc,nc
-2023-02-15T04:51:34.109Z,61.8235,-150.5753,35,2,ml,,,,0.2,ak,ak023245epaa,2023-02-15T04:53:00.018Z,"Southern Alaska",earthquake,,15.7,,,automatic,ak,ak
