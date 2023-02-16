@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-16T19:38:27.550Z,19.2558326721191,-155.398666381836,30.3799991607666,2.44,ml,42,128,,0.150000006,hv,hv73326112,2023-02-16T19:43:57.920Z,"10 km NE of Pāhala, Hawaii",earthquake,0.73,0.850000024,2.76,10,automatic,hv,hv
 2023-02-16T19:25:06.660Z,38.8409996,-122.8079987,2.73,0.68,md,6,206,0.01765,0.04,nc,nc73847406,2023-02-16T19:26:42.897Z,"8km WNW of Cobb, CA",earthquake,0.93,1.4,0.08,7,automatic,nc,nc
 2023-02-16T19:23:41.980Z,38.836834,-122.8239975,1.17,1.1,md,21,79,0.009143,0.03,nc,nc73847401,2023-02-16T19:25:17.616Z,"9km NW of The Geysers, CA",earthquake,0.19,0.38,0.15,22,automatic,nc,nc
 2023-02-16T19:21:52.290Z,38.8236656,-122.8420029,1.76,0.25,md,6,144,0.01224,0.01,nc,nc73847396,2023-02-16T19:23:27.631Z,"9km NW of The Geysers, CA",earthquake,0.71,1.98,0.13,8,automatic,nc,nc
@@ -12,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-16T18:37:25.770Z,38.847168,-122.8168335,1.42,0.7,md,9,127,0.009047,0.01,nc,nc73847351,2023-02-16T18:52:11.357Z,"9km WNW of Cobb, CA",earthquake,0.34,0.77,0.09,10,automatic,nc,nc
 2023-02-16T18:25:48.342Z,60.5142,-150.7797,38.3,1.6,ml,,,,0.54,ak,ak0232614kpk,2023-02-16T18:28:29.847Z,"1 km NW of Funny River, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-02-16T18:20:22.861Z,58.1648,-155.3664,1.4,0.5,ml,,,,0.18,ak,ak0232613g6m,2023-02-16T18:22:06.163Z,"85 km NW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
-2023-02-16T18:17:20.673Z,37.3072,70.5356,57.108,4.7,mb,119,28,2.384,0.62,us,us6000jpex,2023-02-16T18:40:19.040Z,"21 km N of Fayzabad, Afghanistan",earthquake,6.39,6.932,0.056,103,reviewed,us,us
+2023-02-16T18:17:20.673Z,37.3072,70.5356,57.108,4.7,mb,119,28,2.384,0.62,us,us6000jpex,2023-02-16T19:45:15.442Z,"21 km N of Fayzabad, Afghanistan",earthquake,6.39,6.932,0.056,103,reviewed,us,us
 2023-02-16T18:17:09.785Z,60.6632,-143.177,18.4,1.5,ml,,,,0.38,ak,ak0232612s0y,2023-02-16T18:18:20.087Z,"86 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-16T18:10:39.185Z,58.1049,-155.5744,21.4,1,ml,,,,0.61,ak,ak0232611ca6,2023-02-16T18:12:20.485Z,"89 km NW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-02-16T18:06:35.874Z,58.1854,-155.3925,0,1.4,ml,,,,0.67,ak,ak0232610h5v,2023-02-16T18:08:14.264Z,"88 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
