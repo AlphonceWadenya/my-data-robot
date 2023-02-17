@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-17T05:33:37.816Z,60.3564,-147.7411,13.2,1.9,ml,,,,0.29,ak,ak02327gyz9x,2023-02-17T05:35:39.666Z,"35 km NNE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-17T05:21:40.485Z,63.0855,-150.4752,106.3,2.3,ml,,,,0.72,ak,ak02327gwesu,2023-02-17T05:23:39.306Z,"67 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-17T05:20:36.510Z,61.3268,-147.3042,29.9,1.7,ml,,,,1.3,ak,ak02327gw6v7,2023-02-17T05:23:16.491Z,"55 km WNW of Valdez, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-02-17T05:08:08.340Z,17.9476666666667,-66.9011666666667,11.53,2.54,md,7,213,0.0343,0.1,pr,pr71396528,2023-02-17T05:28:40.500Z,"2 km SSE of Guánica, Puerto Rico",earthquake,0.64,0.48,0.109571391972239,5,reviewed,pr,pr
@@ -237,6 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-16T05:50:25.470Z,62.3975,-142.5618,1.4,1.9,ml,,,,0.29,ak,ak02325tj903,2023-02-16T05:52:48.778Z,"23 km E of Nabesna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-16T05:49:33.350Z,38.783165,-122.779335,3.48,1.91,md,42,83,0.01204,0.07,nc,nc73847116,2023-02-16T08:48:14.721Z,"2km WNW of The Geysers, CA",earthquake,0.2,0.31,0.15,43,automatic,nc,nc
 2023-02-16T05:45:21.900Z,33.7481667,-116.9585,17.63,1.04,ml,31,48,0.05368,0.19,ci,ci40415136,2023-02-16T14:32:13.010Z,"1km E of Hemet, CA",earthquake,0.31,0.56,0.175,29,reviewed,ci,ci
-2023-02-16T05:38:02.274Z,22.0668,-106.3329,14.96,4.1,mb,48,176,3.553,0.73,us,us6000jpb0,2023-02-16T21:57:42.061Z,"72 km WSW of Palmar de Cuautla, Mexico",earthquake,9,7.2,0.083,40,reviewed,us,us
-2023-02-16T05:37:05.138Z,-15.0912,167.0294,36.029,5.6,mww,81,26,0.392,0.94,us,us6000jpb1,2023-02-16T11:49:14.887Z,"Vanuatu",earthquake,5.99,6.08,0.073,18,reviewed,us,us
-2023-02-16T05:37:02.600Z,33.3858333,-116.814,12.46,0.68,ml,36,57,0.1257,0.14,ci,ci40415128,2023-02-16T16:17:23.236Z,"6km NE of Palomar Observatory, CA",earthquake,0.17,0.61,0.178,12,reviewed,ci,ci
