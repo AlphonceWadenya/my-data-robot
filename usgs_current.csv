@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-17T08:46:00.150Z,34.125,-117.4716667,6.24,1.61,ml,51,33,0.03727,0.22,ci,ci40415616,2023-02-17T08:53:45.907Z,"3km NNW of Fontana, CA",earthquake,0.26,0.67,0.16,26,automatic,ci,ci
+2023-02-17T08:54:46.962Z,61.524,-149.915,34.9,1.4,ml,,,,0.65,ak,ak02327ivsu0,2023-02-17T08:56:40.086Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-02-17T08:46:00.150Z,34.125,-117.4716667,6.24,1.61,ml,51,33,0.03727,0.22,ci,ci40415616,2023-02-17T08:58:55.468Z,"3km NNW of Fontana, CA",earthquake,0.26,0.67,0.16,26,automatic,ci,ci
 2023-02-17T08:39:47.321Z,62.1426,-147.8462,35.7,1.2,ml,,,,0.66,ak,ak02327isl4c,2023-02-17T08:41:55.835Z,"38 km NNW of Glacier View, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-02-17T08:35:22.045Z,18.9673,-65.9228,46.566,3.3,ml,15,237,0.672,0.31,us,us6000jpjm,2023-02-17T08:46:04.040Z,"58 km NNE of San Juan, Puerto Rico",earthquake,6.51,17.925,0.066,30,reviewed,us,us
 2023-02-17T08:09:36.040Z,35.8886667,-117.6605,2.43,2.39,ml,21,81,0.08896,0.16,ci,ci40415608,2023-02-17T08:20:23.780Z,"23km ESE of Little Lake, CA",earthquake,0.25,0.52,0.173,26,automatic,ci,ci
@@ -230,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-16T09:04:19.224Z,37.4105,-115.4706,0,1.2,ml,8,130.3,0.321,0.1102,nn,nn00856140,2023-02-16T17:38:45.497Z,"27 km W of Alamo, Nevada",earthquake,,0,0.05,3,reviewed,nn,nn
 2023-02-16T09:04:05.790Z,33.4455,-117.1163333,11.88,0.54,ml,25,46,0.04713,0.13,ci,ci40415224,2023-02-16T16:00:58.296Z,"6km SSE of Temecula, CA",earthquake,0.2,0.5,0.244,5,reviewed,ci,ci
 2023-02-16T09:00:52.907Z,63.2463,-150.4274,30.5,1.6,ml,,,,1.04,ak,ak02325vmbqi,2023-02-16T09:02:52.322Z,"72 km ESE of Denali National Park, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2023-02-16T08:56:36.520Z,38.1613,-118.237,12.4,1.1,ml,7,72.38,0.202,0.0971,nn,nn00856139,2023-02-16T17:26:17.622Z,"California-Nevada border region",earthquake,,3.3,0.24,4,reviewed,nn,nn
