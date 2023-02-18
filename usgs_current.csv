@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-18T08:49:39.680Z,19.2495002746582,-155.442840576172,30.9599990844727,2.53999996,md,22,186,,0.200000003,hv,hv73326882,2023-02-18T08:52:42.380Z,"6 km NE of Pāhala, Hawaii",earthquake,1.17,1.91999996,1.26999998,3,automatic,hv,hv
 2023-02-18T08:25:26.181Z,57.9386,-152.2473,30,2.4,ml,,,,0.57,ak,ak0232968w1e,2023-02-18T08:27:40.542Z,"15 km E of Ouzinkie, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-18T08:25:13.540Z,38.7874985,-122.7649994,1.67,0.79,md,11,72,0.01374,0.02,nc,nc73848071,2023-02-18T08:58:15.545Z,"1km NNW of The Geysers, CA",earthquake,0.28,0.63,0.15,12,automatic,nc,nc
-2023-02-18T08:24:12.348Z,10.2201,-84.1764,10,5.2,mb,62,108,0.226,0.59,us,us6000jpvz,2023-02-18T11:14:12.423Z,"11 km ESE of Río Segundo, Costa Rica",earthquake,4.86,1.774,0.056,107,reviewed,us,us
+2023-02-18T08:24:12.348Z,10.2201,-84.1764,10,5.2,mb,62,108,0.226,0.59,us,us6000jpvz,2023-02-18T11:49:04.668Z,"11 km ESE of Río Segundo, Costa Rica",earthquake,4.86,1.774,0.056,107,reviewed,us,us
 2023-02-18T08:18:46.048Z,62.4667,-149.3041,6.6,1.8,ml,,,,0.58,ak,ak0232967fh8,2023-02-18T08:20:40.680Z,"41 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-18T08:02:05.872Z,59.873,-149.5388,23.2,2.3,ml,,,,0.84,ak,ak0232963wx7,2023-02-18T08:05:26.378Z,"Kenai Peninsula, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-18T07:54:22.548Z,36.968,-117.5365,0,0.5,ml,8,238.23,0.279,0.2395,nn,nn00856218,2023-02-18T07:55:49.740Z,"61 km NNE of Keeler, California",earthquake,,102.1,0.25,3,automatic,nn,nn
