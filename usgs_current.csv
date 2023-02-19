@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-19T19:40:59.170Z,38.8381653,-122.8079987,1.98,0.69,md,7,111,0.01484,0.02,nc,nc73848666,2023-02-19T19:42:33.120Z,"8km WNW of Cobb, CA",earthquake,0.51,1.52,0.45,8,automatic,nc,nc
-2023-02-19T19:30:23.480Z,38.7716675,-122.7360001,1.22,1.08,md,14,68,0.01157,0.02,nc,nc73848661,2023-02-19T19:43:10.745Z,"2km ESE of The Geysers, CA",earthquake,0.23,0.38,0.25,12,automatic,nc,nc
+2023-02-19T19:30:23.480Z,38.7716675,-122.7360001,1.22,1.08,md,14,68,0.01157,0.02,nc,nc73848661,2023-02-19T19:48:13.777Z,"2km ESE of The Geysers, CA",earthquake,0.23,0.38,0.25,12,automatic,nc,nc
 2023-02-19T19:21:59.550Z,35.9068333,-117.7348333,3.64,0.92,ml,15,65,0.09647,0.22,ci,ci40416464,2023-02-19T19:25:26.930Z,"16km ESE of Little Lake, CA",earthquake,0.4,1.44,0.167,11,automatic,ci,ci
 2023-02-19T19:18:48.560Z,38.7709999,-122.7481689,0.97,2.35,md,50,34,0.01374,0.07,nc,nc73848656,2023-02-19T19:29:14.655Z,"1km SE of The Geysers, CA",earthquake,0.17,0.25,0.15,57,automatic,nc,nc
 2023-02-19T19:11:09.200Z,38.8349991,-122.8116684,1.78,0.85,md,14,54,0.01165,0.01,nc,nc73848651,2023-02-19T19:29:14.776Z,"8km W of Cobb, CA",earthquake,0.29,0.61,0.21,16,automatic,nc,nc
