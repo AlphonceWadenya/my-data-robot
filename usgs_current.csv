@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-22T14:34:56.555Z,59.8444,-153.4832,127.9,1.8,ml,,,,0.29,ak,ak0232fw0vcn,2023-02-22T14:36:54.724Z,"35 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-02-22T14:31:07.650Z,38.8361664,-122.8079987,2.17,0.8,md,11,71,0.01286,0.01,nc,nc73850106,2023-02-22T14:43:10.835Z,"8km WNW of Cobb, CA",earthquake,0.35,0.97,0.23,11,automatic,nc,nc
+2023-02-22T14:31:07.650Z,38.8361664,-122.8079987,2.17,0.8,md,11,71,0.01286,0.01,nc,nc73850106,2023-02-22T14:48:11.866Z,"8km WNW of Cobb, CA",earthquake,0.35,0.97,0.23,11,automatic,nc,nc
 2023-02-22T14:27:27.033Z,36.76462555,-97.68711853,2.162014484,2.11,ml,18,60.98066711,0.2097607404,1.046211565,ok,ok2023dscu,2023-02-22T14:30:51.157Z,"6 km SE of Medford, Oklahoma",earthquake,3.327898158,2.453895496,,12,automatic,ok,ok
 2023-02-22T14:11:29.020Z,19.9395008087158,-155.15266418457,10.8599996566772,3.15,ml,44,266,,0.280000001,hv,hv73328927,2023-02-22T14:17:01.220Z,"8 km NNW of Honomu, Hawaii",earthquake,2.99,4.51999998,2.08,19,automatic,hv,hv
 2023-02-22T14:00:12.575Z,58.1769,-155.3866,0,0.5,ml,,,,0.69,ak,ak0232fvthm1,2023-02-22T14:01:45.928Z,"87 km NW of Karluk, Alaska",earthquake,,3.7,,,automatic,ak,ak
