@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-23T19:35:21.760Z,39.324501,-123.245163,5.41,1.35,md,7,87,0.1032,0.04,nc,nc73850736,2023-02-23T19:36:58.838Z,"7km NNW of Redwood Valley, CA",earthquake,0.42,2.58,0.21,5,automatic,nc,nc
 2023-02-23T19:27:49.640Z,38.8266678,-122.8018341,2.69,0.76,md,12,82,0.007218,0.01,nc,nc73850726,2023-02-23T19:29:23.933Z,"7km NW of The Geysers, CA",earthquake,0.27,0.76,0.15,14,automatic,nc,nc
-2023-02-23T19:24:30.190Z,36.7606659,-121.6719971,0.1,1.61,md,7,193,0.04909,0.16,nc,nc73850721,2023-02-23T19:26:03.857Z,"2km S of Prunedale, CA",earthquake,1.55,12.59,0.1,4,automatic,nc,nc
+2023-02-23T19:24:30.190Z,36.7606659,-121.6719971,0.1,1.61,md,7,193,0.04909,0.16,nc,nc73850721,2023-02-23T19:36:11.295Z,"2km S of Prunedale, CA",earthquake,1.55,12.59,0.1,4,automatic,nc,nc
 2023-02-23T19:22:27.285Z,64.8465,-147.3307,13.1,1,ml,,,,0.64,ak,ak0232hmgr0o,2023-02-23T19:24:50.200Z,"10 km N of North Pole, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-23T19:03:13.070Z,32.6031667,-116.981,3.5,1.11,ml,19,241,0.04312,0.14,ci,ci40418072,2023-02-23T19:25:45.977Z,"7km ESE of Chula Vista, CA",quarry blast,0.73,0.28,0.11,6,reviewed,ci,ci
 2023-02-23T18:59:03.313Z,60.7489,-151.6717,81.2,1.7,ml,,,,0.26,ak,ak0232hm3723,2023-02-23T19:00:53.283Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
