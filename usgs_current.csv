@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-23T03:29:19.540Z,38.8098335,-122.784668,1.07,1.45,md,24,44,0.004624,0.03,nc,nc73850481,2023-02-23T03:30:57.366Z,"4km NW of The Geysers, CA",earthquake,0.17,0.29,0.14,24,automatic,nc,nc
+2023-02-23T03:36:33.442Z,62.8661,-150.6498,61.7,1.4,ml,,,,1.32,ak,ak0232hd0tu8,2023-02-23T03:39:17.602Z,"41 km N of Petersville, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2023-02-23T03:29:19.540Z,38.8098335,-122.784668,1.07,1.45,md,24,44,0.004624,0.03,nc,nc73850481,2023-02-23T03:41:10.583Z,"4km NW of The Geysers, CA",earthquake,0.17,0.29,0.14,24,automatic,nc,nc
 2023-02-23T03:18:57.663Z,-30.3916,-71.6856,34.097,4.4,ml,33,187,0.285,0.94,us,us6000jqyb,2023-02-23T03:30:52.786Z,"offshore Coquimbo, Chile",earthquake,5.75,5.597,,,reviewed,us,guc
 2023-02-23T03:18:03.283Z,36.4804,-115.7188,0,0.9,ml,15,201.77,0.267,0.1365,nn,nn00856327,2023-02-23T03:19:06.737Z,"10 km SSW of Indian Springs, Nevada",earthquake,,49.3,0.21,9,automatic,nn,nn
 2023-02-23T03:00:13.980Z,33.6776667,-116.7831667,17.25,1.2,ml,29,59,0.06653,0.24,ci,ci40417912,2023-02-23T03:03:40.515Z,"9km SW of Idyllwild, CA",earthquake,0.42,0.68,0.261,22,automatic,ci,ci
