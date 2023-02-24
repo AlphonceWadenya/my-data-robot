@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-24T19:16:32.800Z,33.739666,-116.8209991,16.15,1.49,ml,44,55,0.08828,0.21,ci,ci40418384,2023-02-24T19:18:55.557Z,"7km E of Valle Vista, CA",earthquake,0.35,0.59,0.262,13,automatic,ci,ci
+2023-02-24T19:12:08.238Z,58.2551,-155.1204,0,2.5,ml,,,,0.75,ak,ak0232j9xwvr,2023-02-24T19:14:41.457Z,"86 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-02-24T19:11:58.362Z,58.2881,-155.2247,34.8,2.5,ml,,,,0.91,ak,ak0232j9xt18,2023-02-24T19:14:27.758Z,"92 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-24T18:59:25.096Z,58.1585,-155.3984,0,1.4,ml,,,,0.38,ak,ak0232j9ml8d,2023-02-24T19:01:21.988Z,"86 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-24T18:53:07.800Z,34.0623333,-117.0075,7,1.33,ml,18,78,0.08722,0.26,ci,ci40418376,2023-02-24T18:56:44.234Z,"5km NE of Yucaipa, CA",earthquake,0.84,3,0.206,30,automatic,ci,ci
 2023-02-24T18:48:59.597Z,58.2152,-155.2049,1.1,0.6,ml,,,,0.15,ak,ak0232j9kb0n,2023-02-24T18:50:56.476Z,"84 km NNW of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
@@ -14,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-24T17:58:27.976Z,61.6169,-148.3604,8.2,1.6,ml,,,,0.77,ak,ak0232j90y4t,2023-02-24T18:00:48.548Z,"20 km SSE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-24T17:28:36.794Z,2.8062,126.1678,39.039,4.9,mww,127,70,2.349,1.06,us,us6000jrdd,2023-02-24T17:48:32.040Z,"197 km NE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,3.25,6.629,0.08,15,reviewed,us,us
 2023-02-24T17:16:29.823Z,58.2534,-155.2636,3.2,4,ml,,,,0.64,ak,ak0232j8ry4u,2023-02-24T17:47:48.612Z,"90 km NNW of Karluk, Alaska",earthquake,,0.2,,,reviewed,ak,ak
-2023-02-24T17:16:08.830Z,32.916,-116.2425,9.47,1.1,ml,21,81,0.06405,0.17,ci,ci40418336,2023-02-24T18:41:08.915Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.31,0.79,0.125,12,automatic,ci,ci
+2023-02-24T17:16:08.830Z,32.916,-116.2425,9.47,1.1,ml,21,81,0.06405,0.17,ci,ci40418336,2023-02-24T19:10:27.209Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.31,0.79,0.125,12,automatic,ci,ci
 2023-02-24T16:22:26.433Z,62.5083,-151.4,85.8,1.5,ml,,,,0.28,ak,ak0232j87smr,2023-02-24T16:24:02.463Z,"32 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-24T15:59:10.959Z,-24.3673,-67.4355,195.593,4.5,mb,18,125,1.565,0.81,us,us6000jrcg,2023-02-24T18:21:01.040Z,"Salta, Argentina",earthquake,7.78,11.781,0.27,5,reviewed,us,us
 2023-02-24T15:51:35.433Z,60.3296,-152.4068,107.1,1.8,ml,,,,0.43,ak,ak0232j7slhj,2023-02-24T15:53:35.778Z,"51 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -23,10 +26,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-24T15:27:59.863Z,31.6744,-104.4207,7.068,2.7,ml,34,57,0.069,0.84,us,us6000jrc8,2023-02-24T17:53:19.040Z,"western Texas",earthquake,1,4.911,0.059,78,reviewed,us,us
 2023-02-24T15:27:23.394Z,63.544,-147.5795,18.4,1.6,ml,,,,0.47,ak,ak0232j7nfap,2023-02-24T15:30:44.674Z,"69 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-24T15:24:47.050Z,14.071,146.696,10,5,mww,151,78,1.839,0.5,us,us6000jrca,2023-02-24T18:26:28.509Z,"152 km SE of San Jose Village, Northern Mariana Islands",earthquake,3.8,1.814,0.098,10,reviewed,us,us
-2023-02-24T15:04:46.370Z,33.6111667,-116.811,12.79,0.72,ml,18,96,0.036,0.2,ci,ci40418328,2023-02-24T15:08:16.585Z,"14km WNW of Anza, CA",earthquake,0.45,0.68,0.198,11,automatic,ci,ci
+2023-02-24T15:04:46.380Z,33.6028333,-116.808,12.59,0.64,ml,17,123,0.03776,0.1,ci,ci40418328,2023-02-24T19:13:45.466Z,"14km WNW of Anza, CA",earthquake,0.32,0.53,0.118,7,reviewed,ci,ci
 2023-02-24T14:59:04.328Z,62.3672,-149.3804,48.1,1.1,ml,,,,0.15,ak,ak0232j78t7k,2023-02-24T15:00:57.344Z,"33 km NE of Susitna North, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-02-24T14:57:55.981Z,-33.2405,-178.4418,10,4.8,mb,27,118,3.991,0.63,us,us6000jrbs,2023-02-24T15:56:03.040Z,"south of the Kermadec Islands",earthquake,13.84,1.89,0.139,16,reviewed,us,us
-2023-02-24T14:57:26.330Z,33.1561667,-116.3738333,10.01,1.23,ml,25,54,0.1069,0.2,ci,ci40418320,2023-02-24T15:01:10.546Z,"11km S of Borrego Springs, CA",earthquake,0.3,0.95,0.128,28,automatic,ci,ci
+2023-02-24T14:57:26.140Z,33.157,-116.3745,11.38,1.23,ml,32,38,0.09579,0.17,ci,ci40418320,2023-02-24T19:10:47.690Z,"11km S of Borrego Springs, CA",earthquake,0.21,0.42,0.134,26,reviewed,ci,ci
 2023-02-24T14:53:12.695Z,60.1564,-151.0043,60.5,1.8,ml,,,,0.4,ak,ak0232j77jk5,2023-02-24T14:54:54.123Z,"23 km ESE of Clam Gulch, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-02-24T14:51:52.444Z,61.1791,-147.1573,0,1.7,ml,,,,0.97,ak,ak0232j77770,2023-02-24T14:53:43.837Z,"43 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-24T14:47:49.600Z,33.1586667,-116.3776667,11.55,1.85,ml,63,29,0.09574,0.18,ci,ci40418312,2023-02-24T19:02:05.360Z,"11km S of Borrego Springs, CA",earthquake,0.16,0.29,0.185,29,reviewed,ci,ci
