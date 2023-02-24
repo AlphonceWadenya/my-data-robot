@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-24T06:10:35.170Z,33.0356667,-116.4016667,5.81,1.22,ml,28,40,0.06413,0.19,ci,ci40418216,2023-02-24T06:14:13.346Z,"19km ESE of Julian, CA",earthquake,0.3,0.88,0.144,24,automatic,ci,ci
+2023-02-24T06:29:10.622Z,60.3433,-147.7838,12.7,1.9,ml,,,,0.46,ak,ak0232j2axdi,2023-02-24T06:30:53.869Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-02-24T06:27:43.573Z,56.7807,-158.05,15.1,2.9,ml,,,,1.06,ak,ak0232j2akc4,2023-02-24T06:29:34.701Z,"39 km ESE of Port Heiden, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-02-24T06:10:35.170Z,33.0356667,-116.4016667,5.81,1.22,ml,28,40,0.06413,0.19,ci,ci40418216,2023-02-24T06:21:33.970Z,"19km ESE of Julian, CA",earthquake,0.3,0.88,0.144,24,automatic,ci,ci
 2023-02-24T05:58:53.890Z,19.1711673736572,-155.486663818359,33.8400001525879,2.34,ml,33,98,,0.140000001,hv,hv73329772,2023-02-24T06:04:23.610Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.79,1.15999997,4.1,5,automatic,hv,hv
 2023-02-24T05:40:06.740Z,35.2948341,-120.7583313,10.76,1.45,md,8,108,0.0749,0.03,nc,nc73850986,2023-02-24T05:56:14.033Z,"7km ESE of Baywood-Los Osos, CA",earthquake,0.55,2.04,0.19,9,automatic,nc,nc
 2023-02-24T05:25:02.532Z,-5.5447,154.2238,144.099,4.9,mb,64,103,2.454,0.79,us,us6000jr73,2023-02-24T05:42:08.040Z,"Bougainville region, Papua New Guinea",earthquake,11.86,7.854,0.08,49,reviewed,us,us
@@ -182,6 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-23T06:50:27.880Z,61.3988,-150.9912,73.9,1.4,ml,,,,0.32,ak,ak0232hew490,2023-02-23T06:53:23.380Z,"29 km N of Beluga, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-02-23T06:44:03.470Z,37.4999,-116.536,6.5,0.8,ml,6,286.01,0.386,0.2127,nn,nn00856339,2023-02-24T02:04:26.349Z,"65 km ESE of Goldfield, Nevada",earthquake,,13.6,0.88,4,reviewed,nn,nn
 2023-02-23T06:43:15.505Z,37.501,-116.5342,8.4,0.7,ml,7,286.11,0.387,0.2118,nn,nn00856338,2023-02-24T02:04:25.679Z,"66 km ESE of Goldfield, Nevada",earthquake,,17.5,1.6,6,reviewed,nn,nn
-2023-02-23T06:30:14.320Z,19.1643333333333,-155.5015,30.58,1.65,md,28,205,,0.13,hv,hv73329192,2023-02-24T00:05:01.530Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.58,0.64,0.0985940878678113,15,reviewed,hv,hv
-2023-02-23T06:29:42.489Z,36.7007,-116.2712,3.4,0.1,ml,7,216.85,0.038,0.1118,nn,nn00856337,2023-02-24T02:04:24.957Z,"Nevada",earthquake,,3.3,0,1,reviewed,nn,nn
-2023-02-23T06:21:13.415Z,58.3373,-154.0346,67.5,2.1,ml,,,,1.05,ak,ak0232hepvd9,2023-02-23T06:23:34.647Z,"73 km WNW of Aleneva, Alaska",earthquake,,2.8,,,automatic,ak,ak
