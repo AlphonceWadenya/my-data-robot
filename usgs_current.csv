@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-25T01:32:54.530Z,33.4383333,-116.8738333,11.06,0.6,ml,19,58,0.09605,0.2,ci,ci40418472,2023-02-25T01:36:29.014Z,"1km WSW of Aguanga, CA",earthquake,0.46,1.04,0.053,8,automatic,ci,ci
 2023-02-25T01:32:24.780Z,38.8395004,-122.821167,1.43,1.27,md,25,59,0.01122,0.02,nc,nc73851366,2023-02-25T01:49:15.313Z,"9km WNW of Cobb, CA",earthquake,0.18,0.41,0.17,25,automatic,nc,nc
 2023-02-25T01:12:20.990Z,36.1631,35.9336,10,4.2,mb,39,161,1.438,0.96,us,us6000jrgg,2023-02-25T01:31:00.040Z,"Central Turkey",earthquake,6.43,1.945,0.136,15,reviewed,us,us
-2023-02-25T01:01:52.240Z,38.7681656,-122.73983,-0.09,1.39,md,14,90,0.01342,0.08,nc,nc73851356,2023-02-25T01:31:13.225Z,"2km SE of The Geysers, CA",earthquake,0.28,0.47,0.11,15,automatic,nc,nc
+2023-02-25T01:01:52.240Z,38.7681656,-122.73983,-0.09,1.39,md,14,90,0.01342,0.08,nc,nc73851356,2023-02-25T03:46:11.933Z,"2km SE of The Geysers, CA",earthquake,0.28,0.47,0.11,15,automatic,nc,nc
 2023-02-25T01:00:07.727Z,60.0161,-152.5734,80.2,2,ml,,,,0.73,ak,ak0232kmovus,2023-02-25T01:03:00.705Z,"47 km W of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-02-25T00:39:55.510Z,33.3183333,-116.7631667,10.96,1.05,ml,30,41,0.08221,0.2,ci,ci40418456,2023-02-25T00:43:27.813Z,"8km N of Lake Henshaw, CA",earthquake,0.28,0.88,0.17,22,automatic,ci,ci
 2023-02-25T00:38:00.900Z,19.3758333333333,-155.4405,7.83,2.08,md,34,82,,0.11,hv,hv73330337,2023-02-25T01:54:14.960Z,"19 km NNE of Pāhala, Hawaii",earthquake,0.32,0.6,0.209827985018152,14,reviewed,hv,hv
