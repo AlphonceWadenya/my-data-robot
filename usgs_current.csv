@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-26T18:38:12.768Z,63.877,-150.3147,11.8,1,ml,,,,0.6,ak,ak0232mkkr7a,2023-02-26T18:41:33.486Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-26T18:18:26.754Z,61.8632,-150.9266,72.7,2.6,ml,,,,0.41,ak,ak0232mkghzs,2023-02-26T18:19:43.368Z,"28 km ESE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-26T18:16:26.641Z,64.2814,-151.1963,2.3,1.7,ml,,,,0.84,ak,ak0232mkg2js,2023-02-26T18:18:34.293Z,"70 km NE of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-26T18:07:13.010Z,38.8166656,-122.8253326,1.94,0.81,md,13,59,0.008346,0.01,nc,nc73852061,2023-02-26T18:25:12.118Z,"7km NW of The Geysers, CA",earthquake,0.3,0.71,0.3,16,automatic,nc,nc
@@ -16,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-26T16:30:03.320Z,15.1322,-104.4353,15.814,4.4,mb,29,263,5.434,1.12,us,us6000jrrn,2023-02-26T17:28:53.040Z,"off the coast of Michoacan, Mexico",earthquake,14.48,7.791,0.056,93,reviewed,us,us
 2023-02-26T16:26:27.890Z,38.8048325,-122.7826691,0.73,0.83,md,8,98,0.008556,0.01,nc,nc73852021,2023-02-26T17:13:12.693Z,"4km NW of The Geysers, CA",earthquake,0.35,0.62,0.21,7,automatic,nc,nc
 2023-02-26T16:18:40.200Z,38.8455009,-122.8386688,1.23,1.17,md,11,153,0.007336,0.03,nc,nc73852016,2023-02-26T17:01:12.616Z,"10km WNW of Cobb, CA",earthquake,0.3,0.67,0.08,12,automatic,nc,nc
-2023-02-26T16:12:16.540Z,38.7701683,-122.7279968,0.98,0.79,md,12,65,0.008907,0.03,nc,nc73852011,2023-02-26T18:21:11.095Z,"3km ESE of The Geysers, CA",earthquake,0.26,0.41,0.16,11,automatic,nc,nc
+2023-02-26T16:12:16.540Z,38.7701683,-122.7279968,0.98,0.79,md,12,65,0.008907,0.03,nc,nc73852011,2023-02-26T18:42:13.219Z,"3km ESE of The Geysers, CA",earthquake,0.26,0.41,0.16,11,automatic,nc,nc
 2023-02-26T15:54:54.810Z,38.7736664,-122.7393341,-0.83,0.77,md,6,95,0.009772,0.06,nc,nc73852001,2023-02-26T18:16:12.066Z,"2km ESE of The Geysers, CA",earthquake,0.42,1.44,0.34,7,automatic,nc,nc
 2023-02-26T15:54:06.348Z,60.1615,-152.9913,129.8,2.4,ml,,,,0.39,ak,ak0232mivvd0,2023-02-26T17:20:33.040Z,"73 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-26T15:50:39.720Z,38.8016663,-122.8099976,4.9,0.75,md,6,103,0.01309,0.01,nc,nc73851996,2023-02-26T17:47:16.053Z,"5km WNW of The Geysers, CA",earthquake,0.85,1.28,0.1,8,automatic,nc,nc
