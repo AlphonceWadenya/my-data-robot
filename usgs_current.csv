@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-26T23:21:08.490Z,19.2198333740234,-155.392166137695,35.9099998474121,1.78999996,md,19,240,,0.100000001,hv,hv73331182,2023-02-26T23:24:17.810Z,"9 km ENE of Pāhala, Hawaii",earthquake,1.49,0.730000019,0.769999981,3,automatic,hv,hv
 2023-02-26T23:02:26.650Z,35.3016667,-118.5343333,4.93,2.05,ml,42,33,0.09345,0.21,ci,ci40419024,2023-02-26T23:13:06.440Z,"20km NNW of Tehachapi, CA",earthquake,0.27,1.03,0.168,26,automatic,ci,ci
 2023-02-26T22:58:36.047Z,35.52249527,-98.09155273,1.608967423,2.67,ml,38,77.49685669,0.1103703901,0.7052000054,ok,ok2023eabq,2023-02-26T23:08:19.040Z,"9 km SSE of Calumet, Oklahoma",earthquake,2.131022965,1.566435713,,30,automatic,ok,ok
 2023-02-26T22:53:11.590Z,38.8134995,-122.8284988,1.97,1.08,md,20,46,0.004655,0.02,nc,nc73852156,2023-02-26T23:21:15.900Z,"7km WNW of The Geysers, CA",earthquake,0.2,0.48,0.14,22,automatic,nc,nc
