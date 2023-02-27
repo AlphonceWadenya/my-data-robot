@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-27T01:06:47.503Z,63.5574,-147.7374,6.3,1.7,ml,,,,0.55,ak,ak0232nxsy7i,2023-02-27T01:08:25.507Z,"61 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-27T00:44:40.596Z,63.0796,-151.4906,4,1.5,ml,,,,0.75,ak,ak0232nxfna3,2023-02-27T00:50:28.526Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-27T00:40:03.604Z,62.1881,-148.282,27.8,1.8,ml,,,,0.55,ak,ak0232nxepk8,2023-02-27T00:42:05.380Z,"44 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-02-26T23:58:05.052Z,41.805,79.8675,10,5,mb,46,91,1.293,0.8,us,us6000jrt9,2023-02-27T01:51:44.817Z,"77 km NNW of Aksu, China",earthquake,6.59,1.897,0.078,52,reviewed,us,us
+2023-02-26T23:58:05.052Z,41.805,79.8675,10,5,mb,46,91,1.293,0.8,us,us6000jrt9,2023-02-27T01:51:44.817Z,"Kyrgyzstan-Xinjiang border region",earthquake,6.59,1.897,0.078,52,reviewed,us,us
 2023-02-26T23:55:14.220Z,38.7714996,-122.7225037,0.52,0.85,md,7,93,0.01006,0.02,nc,nc73852181,2023-02-27T02:04:16.923Z,"3km W of Anderson Springs, CA",earthquake,0.44,0.61,0.33,6,automatic,nc,nc
 2023-02-26T23:41:08.630Z,38.8133316,-122.8160019,2.79,0.69,md,13,72,0.01106,0.02,nc,nc73852171,2023-02-27T01:13:14.618Z,"6km NW of The Geysers, CA",earthquake,0.33,0.71,0.4,16,automatic,nc,nc
 2023-02-26T23:34:23.130Z,33.494,-116.7825,4.22,0.68,ml,19,47,0.02362,0.16,ci,ci40419032,2023-02-26T23:37:54.028Z,"10km NE of Aguanga, CA",earthquake,0.31,0.47,0.131,14,automatic,ci,ci
@@ -179,5 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-26T04:10:30.500Z,58.2436666666667,-155.054666666667,4.09,-0.33,ml,5,164,,0.15,av,av91774431,2023-02-27T00:40:43.680Z,"83 km NNW of Karluk, Alaska",earthquake,0.62,1.44,0.150366573003817,5,reviewed,av,av
 2023-02-26T03:56:51.420Z,51.8671666666667,-177.9955,5.42,2.18,ml,4,208,,0.13,av,av91774411,2023-02-27T00:35:43.160Z,"93 km W of Adak, Alaska",earthquake,0.51,0.99,0.160139714313372,4,reviewed,av,av
 2023-02-26T03:53:02.135Z,5.5632,126.4766,10,4.8,mb,22,121,1.742,0.7,us,us6000jrn6,2023-02-26T04:11:03.040Z,"94 km SSE of Pondaguitan, Philippines",earthquake,6.45,1.885,0.139,19,reviewed,us,us
-2023-02-26T03:45:19.890Z,34.0168333,-116.7683333,16.25,1.07,ml,23,90,0.1023,0.18,ci,ci40418736,2023-02-26T03:49:06.657Z,"11km N of Cabazon, CA",earthquake,0.39,0.76,0.156,28,automatic,ci,ci
-2023-02-26T03:43:28.400Z,51.8528333333333,-178.0085,2.82,1.72,ml,5,128,,0.2,av,av91774406,2023-02-27T00:30:54.370Z,"94 km W of Adak, Alaska",earthquake,0.56,1.12,0.22495860741647,5,reviewed,av,av
