@@ -199,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-27T22:24:10.690Z,18.0113333333333,-65.5281666666667,50.43,3.09,md,12,209,0.08859,0.34,pr,pr71397618,2023-02-27T23:06:33.040Z,"11 km SSW of Esperanza, Puerto Rico",earthquake,2.32,1.27,0.154379210721965,9,reviewed,pr,pr
 2023-02-27T22:19:00.807Z,58.196,-155.3363,0.4,1.9,ml,,,,0.5,ak,ak0232oadqmi,2023-02-27T22:21:46.848Z,"87 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-27T22:10:40.340Z,19.1416664123535,-155.373672485352,29.6000003814697,2.3,ml,39,182,,0.119999997,hv,hv73331542,2023-02-27T22:49:43.658Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.59,0.899999976,0.16,3,automatic,hv,hv
-2023-02-27T21:54:17.843Z,59.7336,-153.3928,124.2,2,ml,,,,0.32,ak,ak0232o9zudc,2023-02-27T22:12:50.040Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
