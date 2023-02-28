@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-28T08:53:56.050Z,33.6661667,-116.6831667,15.51,0.94,ml,33,59,0.05179,0.19,ci,ci40419456,2023-02-28T08:57:27.098Z,"9km SSE of Idyllwild, CA",earthquake,0.25,0.44,0.14,28,automatic,ci,ci
 2023-02-28T08:35:54.610Z,34.6126667,-119.0026667,1.28,1.29,ml,21,49,0.1463,0.23,ci,ci40419448,2023-02-28T08:39:37.135Z,"24km SSW of Frazier Park, CA",earthquake,0.33,0.62,0.147,20,automatic,ci,ci
 2023-02-28T08:30:42.670Z,38.7871666,-122.746666,2.36,1.28,md,17,138,0.008704,0.02,nc,nc73852796,2023-02-28T08:32:17.613Z,"1km NE of The Geysers, CA",earthquake,0.33,0.6,0.16,17,automatic,nc,nc
-2023-02-28T08:30:09.290Z,38.8136673,-122.8123322,14.85,0.83,md,8,218,0.009872,0.04,nc,nc73852791,2023-02-28T08:50:10.823Z,"6km NW of The Geysers, CA",earthquake,2.39,8.32,0.52,10,automatic,nc,nc
+2023-02-28T08:30:09.290Z,38.8136673,-122.8123322,14.85,0.83,md,8,218,0.009872,0.04,nc,nc73852791,2023-02-28T08:56:12.863Z,"6km NW of The Geysers, CA",earthquake,2.39,8.32,0.52,10,automatic,nc,nc
 2023-02-28T08:27:56.050Z,38.838501,-122.8081665,1.87,0.71,md,7,138,0.01392,0,nc,nc73852786,2023-02-28T08:45:14.796Z,"8km WNW of Cobb, CA",earthquake,0.51,1.85,0.54,9,automatic,nc,nc
 2023-02-28T08:15:31.260Z,19.1793327331543,-155.502670288086,32.9300003051758,2.3900001,md,38,98,,0.150000006,hv,hv73331732,2023-02-28T08:18:41.020Z,"3 km SW of Pāhala, Hawaii",earthquake,0.7,1.02999997,2,22,automatic,hv,hv
 2023-02-28T08:00:56.566Z,58.115,-155.5692,33.4,0.9,ml,,,,1.26,ak,ak0232pph2h4,2023-02-28T08:03:15.454Z,"Alaska Peninsula",earthquake,,1.2,,,automatic,ak,ak
