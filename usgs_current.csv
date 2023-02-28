@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-28T07:27:48.030Z,38.821167,-122.7610016,2.15,1.01,md,11,221,0.01161,0.01,nc,nc73852771,2023-02-28T07:29:22.883Z,"3km W of Cobb, CA",earthquake,0.65,0.67,0.27,14,automatic,nc,nc
+2023-02-28T07:27:48.030Z,38.821167,-122.7610016,2.15,1.01,md,11,221,0.01161,0.01,nc,nc73852771,2023-02-28T07:47:18.459Z,"3km W of Cobb, CA",earthquake,0.65,0.67,0.27,14,automatic,nc,nc
 2023-02-28T07:21:17.230Z,37.5101662,-121.8063354,6.52,2.19,md,42,40,0.02635,0.08,nc,nc73852766,2023-02-28T07:35:20.384Z,"13km NE of Milpitas, CA",earthquake,0.17,0.51,0.13,39,automatic,nc,nc
 2023-02-28T07:17:08.100Z,38.8180008,-122.8258362,13.12,1.01,md,6,227,0.008813,0.07,nc,nc73852761,2023-02-28T07:35:19.384Z,"8km NW of The Geysers, CA",earthquake,2.62,8.77,0.21,10,automatic,nc,nc
 2023-02-28T06:59:25.660Z,38.8206673,-122.7634964,1.94,1.11,md,21,176,0.011,0.03,nc,nc73852756,2023-02-28T07:17:20.275Z,"4km W of Cobb, CA",earthquake,0.28,0.39,0.22,20,automatic,nc,nc
@@ -192,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-27T08:18:39.630Z,34.8266666666667,-91.2658333333333,8.31,2.08,md,16,155,0.5643,0.19,nm,nm60512846,2023-02-27T16:38:30.040Z,"Arkansas",earthquake,0.57,1.08,0.140388821139823,12,reviewed,nm,nm
 2023-02-27T08:14:05.850Z,32.4105,-116.8546667,17.84,1.2,ml,13,223,0.1886,0.13,ci,ci40419136,2023-02-27T08:17:29.258Z,"19km ENE of Rosarito, B.C., MX",earthquake,0.61,0.68,0.12,7,automatic,ci,ci
 2023-02-27T08:01:38.680Z,33.3833333,-116.4026667,10.11,1.52,ml,53,53,0.1155,0.19,ci,ci40419128,2023-02-27T08:13:06.510Z,"14km N of Borrego Springs, CA",earthquake,0.22,0.5,0.134,26,automatic,ci,ci
-2023-02-27T07:43:40.180Z,35.6305,-117.4446667,10.71,1.32,ml,9,181,0.1239,0.17,ci,ci40419120,2023-02-27T07:47:13.592Z,"16km SSW of Searles Valley, CA",earthquake,0.7,1.22,0.09,13,automatic,ci,ci
