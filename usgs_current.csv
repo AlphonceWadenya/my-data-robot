@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-01T19:28:06.000Z,14.065,147.061,10,5.6,Mi,9,158.399987328001,,,pt,pt23060001,2023-03-01T19:38:59.644Z,"184 km ESE of San Jose Village, Northern Mariana Islands",earthquake,,,,9,reviewed,pt,pt
 2023-03-01T19:24:07.650Z,34.2633333,-118.4736667,11.19,1.83,ml,38,56,0.01915,0.25,ci,ci40419896,2023-03-01T19:28:12.437Z,"3km ESE of Granada Hills, CA",earthquake,0.32,0.51,0.11,27,automatic,ci,ci
 2023-03-01T19:23:59.930Z,34.079834,-118.3273315,19.5,1.57,ml,22,102,0.0912,0.26,ci,ci40419904,2023-03-01T19:28:40.441Z,"2km S of Hollywood, CA",earthquake,0.55,1.13,0.301,4,automatic,ci,ci
-2023-03-01T18:56:48.023Z,36.4205,-115.7964,1.3,0.9,ml,8,194.32,0.344,0.117,nn,nn00856491,2023-03-01T19:33:21.809Z,"20 km SW of Indian Springs, Nevada",earthquake,,154.9,1.59,2,reviewed,nn,nn
+2023-03-01T18:56:47.477Z,36.4178,-115.7739,8.6,-0.1,ml,11,153.55,0.189,0.1402,nn,nn00856491,2023-03-01T19:39:36.692Z,"Nevada",earthquake,,3.6,1.04,4,reviewed,nn,nn
 2023-03-01T18:36:28.330Z,48.607166666666664,-123.0365,14.54,1.56,ml,17,112,0.02187,0.16,uw,uw61900357,2023-03-01T18:57:20.670Z,"6 km W of Orcas, Washington",earthquake,0.38,0.47,0.18737406693886016,13,reviewed,uw,uw
 2023-03-01T18:33:21.040Z,38.7700005,-122.7363358,1.27,0.89,md,9,94,0.01229,0.02,nc,nc73854076,2023-03-01T19:24:17.043Z,"2km ESE of The Geysers, CA",earthquake,0.39,0.36,0.2,7,automatic,nc,nc
 2023-03-01T18:33:16.230Z,38.7708321,-122.7371674,1.29,1.74,md,12,72,0.01239,0.02,nc,nc73854071,2023-03-01T19:14:15.977Z,"2km ESE of The Geysers, CA",earthquake,0.24,0.35,0.28,11,automatic,nc,nc
@@ -275,5 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-28T20:11:58.015Z,8.3336,126.4593,88.951,4.6,mb,91,82,1.529,0.84,us,us7000jgbt,2023-03-01T16:10:51.040Z,"13 km ENE of Tidman, Philippines",earthquake,7.74,6.626,0.057,98,reviewed,us,us
 2023-02-28T20:10:34.225Z,-21.942,-68.515,141.223,4.1,mb,17,102,0.691,0.76,us,us7000jgbr,2023-03-01T15:55:46.040Z,"70 km NE of Calama, Chile",earthquake,6.6,7.304,0.368,2,reviewed,us,us
 2023-02-28T20:04:18.120Z,56.9038333333333,-158.066,-3.11,1.76,ml,5,250,,0.07,av,av91777291,2023-03-01T18:47:45.700Z,"34 km E of Port Heiden, Alaska",earthquake,0.64,1.03,0.590685181052045,6,reviewed,av,av
-2023-02-28T19:44:35.328Z,13.59,-90.716,68.408,5.2,mww,194,74,0.96,0.65,us,us7000jgbl,2023-03-01T15:00:11.978Z,"37 km S of Iztapa, Guatemala",earthquake,6.32,2.889,0.043,52,reviewed,us,us
-2023-02-28T19:42:26.083Z,64.9676,-148.8942,18.8,1.8,ml,,,,0.17,ak,ak0232pw9rps,2023-02-28T19:45:12.705Z,"29 km SE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
