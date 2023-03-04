@@ -214,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-03T14:25:27.923Z,62.028,-150.4068,17.2,1.8,ml,,,,0.43,ak,ak0232urt054,2023-03-03T14:27:34.207Z,"32 km WSW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-03T14:12:19.440Z,56.8863333333333,-158.0495,0.35,1.06,ml,4,260,,0.02,av,av91781196,2023-03-03T23:02:07.690Z,"Alaska Peninsula",earthquake,0.99,4.22,0.498049339159754,4,reviewed,av,av
 2023-03-03T14:10:09.179Z,59.9846,-152.939,121.7,2.1,ml,,,,0.75,ak,ak0232urpqyg,2023-03-03T14:23:00.173Z,"66 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-03-03T13:49:01.000Z,38.8429985,-122.8144989,1.53,1.76,md,32,45,0.01354,0.03,nc,nc73854986,2023-03-03T16:35:17.801Z,"8km WNW of Cobb, CA",earthquake,0.16,0.29,0.16,34,automatic,nc,nc
-2023-03-03T13:48:48.530Z,19.1621666666667,-66.485,23.39,3.33,md,16,255,0.6827,0.26,pr,pr71398048,2023-03-03T14:22:39.520Z,"77 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.11,17.77,0.0927441772038042,12,reviewed,pr,pr
