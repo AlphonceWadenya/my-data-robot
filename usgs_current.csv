@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-05T14:55:55.697Z,60.8804,-151.8236,91.1,2.3,ml,,,,0.51,ak,ak0232y326r5,2023-03-05T14:57:25.003Z,"36 km NW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-05T14:50:50.210Z,38.8186684,-122.8348312,2.24,0.76,md,9,127,0.01074,0.05,nc,nc73855696,2023-03-05T14:52:24.793Z,"8km NW of The Geysers, CA",earthquake,0.57,0.88,0.11,10,automatic,nc,nc
 2023-03-05T14:46:31.930Z,19.1870002746582,-155.491836547852,34.6699981689453,2.89,ml,41,81,,0.109999999,hv,hv73333857,2023-03-05T14:52:02.350Z,"2 km SW of Pāhala, Hawaii",earthquake,0.55,0.850000024,1.76,26,automatic,hv,hv
 2023-03-05T14:44:55.902Z,62.2133,-148.8951,32,1.5,ml,,,,0.65,ak,ak0232y2ztw6,2023-03-05T14:46:59.024Z,"49 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
