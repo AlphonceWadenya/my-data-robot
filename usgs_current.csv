@@ -223,5 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T23:06:08.310Z,34.5135,-97.67466667,7,2.11,ml,50,49,0.1565692758,0.33,ok,ok2023eorx,2023-03-07T16:28:27.122Z,"5 km N of Velma, Oklahoma",earthquake,,0.9,0.21,8,reviewed,ok,ok
 2023-03-06T22:51:02.850Z,51.8751666666667,-178.145333333333,9.43,1.73,ml,5,251,,0.16,av,av91787496,2023-03-07T21:45:08.200Z,"104 km W of Adak, Alaska",earthquake,1.23,0.4,0.162023127271542,5,reviewed,av,av
 2023-03-06T22:49:31.232Z,62.8992,-148.8167,17.5,1.7,ml,,,,0.88,ak,ak0232zvbnwj,2023-03-06T22:51:19.519Z,"55 km S of Cantwell, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2023-03-06T22:45:51.610Z,33.5278333,-116.7268333,4.84,0.66,ml,31,34,0.03847,0.13,ci,ci40421576,2023-03-07T19:29:37.163Z,"6km WSW of Anza, CA",earthquake,0.16,0.41,0.09,12,reviewed,ci,ci
-2023-03-06T22:44:50.700Z,38.529,-122.6453333,7.4,1.42,md,43,50,0.06808,0.07,nc,nc73856241,2023-03-07T22:29:17.257Z,"8km SW of Calistoga, CA",earthquake,0.15,0.35,0.197,38,reviewed,nc,nc
