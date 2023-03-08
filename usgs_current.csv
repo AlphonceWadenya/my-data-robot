@@ -103,7 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T16:37:55.510Z,38.7955017,-122.7913361,-0.88,1.33,md,17,70,0.01164,0.05,nc,nc73856461,2023-03-07T18:21:10.085Z,"4km NW of The Geysers, CA",earthquake,0.18,0.62,0.26,18,automatic,nc,nc
 2023-03-07T16:27:19.530Z,36.5965,-121.2016667,8.11,0.58,md,9,143,0.028,0.06,nc,nc73856456,2023-03-07T23:36:30.651Z,"9km NW of Pinnacles, CA",earthquake,0.7,0.43,0.317,6,reviewed,nc,nc
 2023-03-07T16:15:52.689Z,59.3609,-152.9487,97.7,1.9,ml,,,,0.39,ak,ak02331f362s,2023-03-07T16:17:50.827Z,"58 km W of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-03-07T16:10:17.531Z,60.7458,-147.1198,21.1,1.8,ml,,,,0.43,ak,ak02331f20sf,2023-03-07T16:12:58.246Z,"27 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-07T16:10:17.531Z,60.7458,-147.1198,21.1,1.8,ml,,,,0.43,ak,ak02331f20sf,2023-03-07T16:12:58.246Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-07T16:08:08.890Z,38.8269997,-122.802002,1.72,1.03,md,22,34,0.01458,0.01,nc,nc73856446,2023-03-07T17:26:10.745Z,"7km NW of The Geysers, CA",earthquake,0.19,0.42,0.21,22,automatic,nc,nc
 2023-03-07T16:07:15.585Z,60.8376,-149.8394,33.1,1.6,ml,,,,0.61,ak,ak02331f1dhi,2023-03-07T16:09:12.489Z,"14 km SW of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-07T16:03:14.112Z,61.7575,-150.6651,45.4,2.8,ml,,,,0.18,ak,ak02331f0iib,2023-03-07T18:05:59.993Z,"Southern Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -246,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T04:07:48.259Z,63.916,-145.5517,16.3,0.9,ml,,,,0.69,ak,ak023317w8s5,2023-03-07T04:10:29.757Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-07T04:07:30.740Z,38.8198318,-122.7904968,1.71,0.78,md,10,78,0.01009,0.01,nc,nc73856306,2023-03-07T05:17:14.442Z,"6km NNW of The Geysers, CA",earthquake,0.4,1.09,0.23,10,automatic,nc,nc
 2023-03-07T03:59:39.926Z,5.3787,-77.5349,8.564,5,mb,75,95,2.153,0.96,us,us7000jhss,2023-03-07T05:03:20.040Z,"47 km SW of Nuquí, Colombia",earthquake,6.34,4.879,0.037,230,reviewed,us,us
-2023-03-07T03:52:03.253Z,37.1234,-117.3483,7.7,0.4,ml,7,108.45,0.128,0.1428,nn,nn00856657,2023-03-07T23:55:05.273Z,"57 km WNW of Beatty, Nevada",earthquake,,8.2,0.86,5,reviewed,nn,nn
