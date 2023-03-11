@@ -349,4 +349,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T11:04:47.932Z,59.8369,-152.7519,74.7,2,ml,,,,0.37,ak,ak02336anoah,2023-03-10T11:06:33.533Z,"52 km W of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-10T11:02:11.490Z,51.8565,-178.103666666667,4.74,2.51,ml,13,108,,0.15,av,av91795706,2023-03-10T20:07:54.740Z,"101 km W of Adak, Alaska",earthquake,0.41,0.51,0.221222386452332,14,reviewed,av,av
 2023-03-10T11:00:57.519Z,-4.2625,152.7413,10,5,mb,80,39,8.81,0.65,us,us7000jise,2023-03-10T11:23:42.927Z,"53 km E of Kokopo, Papua New Guinea",earthquake,9.43,1.785,0.061,86,reviewed,us,us
-2023-03-10T10:50:49.074Z,37.234,-104.7492,1.692,3,mb_lg,16,67,0.115,0.26,us,us7000jisa,2023-03-11T03:27:43.079Z,"12 km N of Segundo, Colorado",earthquake,1.83,0.51,0.059,117,reviewed,us,us
