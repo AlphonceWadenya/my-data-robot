@@ -254,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T07:52:26.480Z,38.7958336,-122.7628326,2.09,0.81,md,16,62,0.00537,0.02,nc,nc73855685,2023-03-12T09:32:14.156Z,"2km NNW of The Geysers, CA",earthquake,0.28,0.59,0.19,17,automatic,nc,nc
 2023-03-12T07:49:22.740Z,32.846,-116.257,8.94,1.42,ml,39,77,0.1151,0.25,ci,ci40183583,2023-03-12T07:59:52.600Z,"26km E of Pine Valley, CA",earthquake,0.32,1.25,0.163,29,automatic,ci,ci
 2023-03-12T07:46:23.440Z,51.8456666666667,-178.108666666667,4.61,1.96,ml,9,113,,0.19,av,av91800721,2023-03-12T14:55:09.030Z,"101 km W of Adak, Alaska",earthquake,0.66,0.84,0.228855134028747,9,reviewed,av,av
-2023-03-12T07:43:20.334Z,-12.0577,165.8247,10,5.7,mww,67,58,3.626,0.71,us,us7000jjax,2023-03-12T09:46:55.704Z,"147 km S of Lata, Solomon Islands",earthquake,8.73,1.87,0.057,30,reviewed,us,us
