@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T19:30:56.498Z,60.101,-151.3265,8.9,1.8,ml,,,,0.61,ak,ak0233be6rw1,2023-03-13T19:32:33.905Z,"14 km SSE of Clam Gulch, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-13T19:24:28.596Z,61.2053,-147.0361,0,1.8,ml,,,,0.94,ak,ak0233be5ffv,2023-03-13T19:27:49.037Z,"37 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-13T19:20:35.160Z,17.9423333333333,-66.9341666666667,11.52,1.76,md,5,213,0.06157,0.03,pr,pr71399428,2023-03-13T19:32:43.720Z,"4 km SW of Guánica, Puerto Rico",earthquake,1.25,0.5,0.0471450039292995,3,reviewed,pr,pr
-2023-03-13T19:19:15.164Z,-17.663,-70.384,103.587,5.1,mb,50,132,0.705,1.44,us,us7000jjll,2023-03-13T20:39:19.721Z,"18 km NE of Sama Grande, Peru",earthquake,7.73,5.694,0.037,242,reviewed,us,us
+2023-03-13T19:19:15.164Z,-17.663,-70.384,103.587,5.1,mb,50,132,0.705,1.44,us,us7000jjll,2023-03-13T20:44:33.155Z,"18 km NE of Sama Grande, Peru",earthquake,7.73,5.694,0.037,242,reviewed,us,us
 2023-03-13T19:02:40.370Z,44.6383333,-111.0558333,7.54,1.96,ml,13,94,0.0457,0.15,uu,uu60533656,2023-03-13T19:26:22.570Z,"4 km SE of West Yellowstone, Montana",earthquake,0.63,0.85,0.384,4,reviewed,uu,uu
 2023-03-13T19:02:24.610Z,44.6405,-111.051,8.48,0.55,ml,10,91,0.04968,0.12,uu,uu60533651,2023-03-13T19:38:34.760Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.45,0.92,0.155,2,reviewed,uu,uu
 2023-03-13T18:59:09.050Z,44.6443333,-111.0531667,8.6,0.36,md,9,95,0.05139,0.11,uu,uu60533646,2023-03-13T19:52:12.300Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.54,1.04,0.246,5,reviewed,uu,uu
@@ -308,6 +308,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T20:56:51.580Z,-10.7682,166.755,9.249,5.1,mww,56,68,4.671,0.68,us,us7000jje1,2023-03-12T21:17:09.040Z,"104 km E of Lata, Solomon Islands",earthquake,10.04,4.784,0.078,16,reviewed,us,us
 2023-03-12T20:52:48.360Z,51.878,-177.892166666667,5.55,1.11,ml,4,213,,0.11,av,av91801696,2023-03-13T00:18:49.280Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.75,2.24,0.269317794474015,4,reviewed,av,av
 2023-03-12T20:48:31.770Z,58.1881666666667,-155.275,2.28,-0.16,ml,7,144,,0.05,av,av91801691,2023-03-13T00:16:34.180Z,"84 km NW of Karluk, Alaska",earthquake,0.22,0.52,0.370938555330566,7,reviewed,av,av
-2023-03-12T20:47:32.920Z,58.188,-155.276333333333,2.21,-0.04,ml,6,144,,0.06,av,av91093908,2023-03-13T00:14:11.560Z,"84 km NW of Karluk, Alaska",earthquake,0.22,0.48,0.242241809573085,6,reviewed,av,av
-2023-03-12T20:47:24.460Z,58.1846666666667,-155.284,2.24,-0.06,ml,6,150,,0.05,av,av91801686,2023-03-13T00:11:29.270Z,"84 km NW of Karluk, Alaska",earthquake,0.21,0.4,0.294822578936406,6,reviewed,av,av
-2023-03-12T20:45:00.200Z,51.8593333333333,-178.0845,3.31,1.68,ml,5,205,,0.14,av,av91801681,2023-03-13T00:08:18.180Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.27,0.55,0.217901276506223,5,reviewed,av,av
