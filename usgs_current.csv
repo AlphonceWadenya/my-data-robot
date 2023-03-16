@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T00:39:31.180Z,38.7803345,-122.7249985,1.09,0.84,md,8,97,0.009613,0.01,nc,nc73857525,2023-03-16T01:37:13.635Z,"3km E of The Geysers, CA",earthquake,0.41,0.74,0.22,8,automatic,nc,nc
 2023-03-16T00:37:33.030Z,38.8380013,-122.8088303,2.02,1.15,md,24,51,0.01444,0.02,nc,nc73857520,2023-03-16T01:26:13.567Z,"8km WNW of Cobb, CA",earthquake,0.17,0.53,0.2,24,automatic,nc,nc
 2023-03-16T00:37:26.923Z,63.2701,-150.4791,122.2,1.3,ml,,,,0.24,ak,ak0233g1j0lw,2023-03-16T00:39:31.683Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-03-16T00:37:16.880Z,38.7816658,-122.7294998,0.66,1.98,md,31,50,0.005861,0.04,nc,nc73857515,2023-03-16T03:13:10.247Z,"2km ENE of The Geysers, CA",earthquake,0.2,0.41,0.24,32,automatic,nc,nc
+2023-03-16T00:37:16.880Z,38.7816658,-122.7294998,0.66,1.98,md,31,50,0.005861,0.04,nc,nc73857515,2023-03-16T03:24:15.322Z,"2km ENE of The Geysers, CA",earthquake,0.2,0.41,0.24,32,automatic,nc,nc
 2023-03-16T00:35:51.880Z,38.7758331,-122.729332,-0.77,1.05,md,7,195,0.01464,0.15,nc,nc73857510,2023-03-16T01:01:12.415Z,"2km E of The Geysers, CA",earthquake,0.88,2.22,0.17,7,automatic,nc,nc
 2023-03-16T00:12:49.807Z,57.1013,-156.3198,16.6,2.2,ml,,,,0.48,ak,ak0233g1dph0,2023-03-16T00:14:26.248Z,"79 km SE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-16T00:12:48.810Z,64.0348,-148.7979,0.1,1.9,ml,,,,0.79,ak,ak0233g1dp2d,2023-03-16T00:14:34.804Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
