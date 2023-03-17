@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-17T04:54:37.444Z,63.2569,-150.5008,116.5,1.7,ml,,,,0.36,ak,ak0233hrjri8,2023-03-17T04:56:40.454Z,"68 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-17T04:51:42.808Z,60.6964,-152.4267,90.9,1.7,ml,,,,0.45,ak,ak0233hrj4rs,2023-03-17T04:54:24.694Z,"61 km W of Salamatof, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-03-17T04:51:02.350Z,19.1319999694824,-155.401840209961,30.2900009155273,2.66000009,md,39,180,,0.129999995,hv,hv73341917,2023-03-17T04:54:17.040Z,"11 km SE of Pāhala, Hawaii",earthquake,0.6,0.910000026,1.99000001,30,automatic,hv,hv
+2023-03-17T04:51:02.350Z,19.1319999694824,-155.401840209961,30.2900009155273,2.41,ml,39,180,,0.129999995,hv,hv73341917,2023-03-17T04:59:28.040Z,"11 km SE of Pāhala, Hawaii",earthquake,0.6,0.910000026,2.23,17,automatic,hv,hv
 2023-03-17T04:50:38.400Z,33.0485,-116.4216667,6.97,0.81,ml,20,89,0.07704,0.22,ci,ci40185791,2023-03-17T04:54:20.399Z,"17km ESE of Julian, CA",earthquake,0.33,1.1,0.355,10,automatic,ci,ci
 2023-03-17T04:47:42.613Z,59.0952,-136.7871,4.1,2.1,ml,,,,1.15,ak,ak0233hri9yk,2023-03-17T04:50:34.447Z,"56 km SW of Covenant Life, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-17T04:40:33.732Z,64.6995,-147.5617,6.7,1.7,ml,,,,0.72,ak,ak0233hrgr71,2023-03-17T04:42:52.944Z,"11 km S of Badger, Alaska",earthquake,,0.2,,,automatic,ak,ak
