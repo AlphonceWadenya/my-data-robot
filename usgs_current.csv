@@ -44,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T15:05:36.630Z,34.277,-117,6.93,1.86,ml,70,31,0.06725,0.18,ci,ci40185983,2023-03-17T15:15:56.230Z,"9km WNW of Big Bear Lake, CA",earthquake,0.22,0.78,0.187,26,automatic,ci,ci
 2023-03-17T15:04:25.685Z,59.2624,-144.9381,14.3,4.6,ml,,,,0.65,ak,ak0233hxssds,2023-03-17T15:22:29.646Z,"149 km SSE of Cordova, Alaska",earthquake,,2.1,,,reviewed,ak,ak
 2023-03-17T15:02:15.450Z,38.7815018,-122.725502,1.38,1.05,md,13,80,0.008941,0.02,nc,nc73858165,2023-03-17T16:06:12.465Z,"3km E of The Geysers, CA",earthquake,0.27,0.59,0.07,11,automatic,nc,nc
-2023-03-17T14:40:36.200Z,40.526,-124.336,16.16,1.58,md,23,214,0.05039,0.14,nc,nc73858160,2023-03-17T21:08:00.805Z,"8km SW of Ferndale, CA",earthquake,0.6,0.36,0.131,14,reviewed,nc,nc
+2023-03-17T14:40:36.200Z,40.526,-124.336,16.16,1.58,md,23,214,0.05039,0.14,nc,nc73858160,2023-03-17T21:23:12.357Z,"8km SW of Ferndale, CA",earthquake,0.6,0.36,0.131,14,reviewed,nc,nc
 2023-03-17T14:39:37.800Z,33.7858333,-117.7871667,6.63,1.27,ml,16,83,0.04245,0.28,ci,ci40185975,2023-03-17T14:43:16.443Z,"2km NNE of North Tustin, CA",earthquake,0.7,0.95,0.472,30,automatic,ci,ci
 2023-03-17T14:24:41.656Z,39.3557,-119.8093,0.8,0.8,ml,10,70.86,0.032,0.0964,nn,nn00857151,2023-03-17T20:23:23.284Z,"14 km WNW of Virginia City, Nevada",earthquake,,5.2,0.32,6,reviewed,nn,nn
 2023-03-17T14:18:47.849Z,37.2175,-117.1405,6.7,0.9,ml,12,110.39,0.286,0.1075,nn,nn00857132,2023-03-17T17:33:01.219Z,"48 km NW of Beatty, Nevada",earthquake,,6.4,0.88,9,reviewed,nn,nn
@@ -174,6 +174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T02:47:18.570Z,51.8553333333333,-178.086666666667,3.23,0.8,ml,4,210,,0.2,av,av91808666,2023-03-17T03:18:38.280Z,"100 km W of Adak, Alaska",earthquake,0.86,1.37,0.223192215833185,4,reviewed,av,av
 2023-03-17T02:45:09.751Z,61.4887,-146.6518,31.8,1.5,ml,,,,0.54,ak,ak0233hqawpr,2023-03-17T02:47:13.505Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-17T02:33:01.030Z,51.8496666666667,-178.079833333333,3.26,1.4,ml,5,208,,0.15,av,av91808641,2023-03-17T03:09:46.040Z,"99 km W of Adak, Alaska",earthquake,0.66,0.51,0.214083688523045,5,reviewed,av,av
+2023-03-17T02:27:43.492Z,36.7176,-115.5334,0,0.8,ml,5,336.98,0.338,0.1785,nn,nn00857154,2023-03-17T21:19:05.874Z,"20 km NE of Indian Springs, Nevada",earthquake,,0,0.07,2,reviewed,nn,nn
 2023-03-17T02:21:33.558Z,31.52205378,-104.0055043,8.882324218999997,2.4,ml,36,57,0.04787183393,0.3,tx,tx2023fhfl,2023-03-17T20:30:33.628Z,"30 km NW of Toyah, Texas",earthquake,0.7900915579,0.9182178169,0.1,19,reviewed,tx,tx
 2023-03-17T02:21:07.380Z,33.5326667,-116.6933333,1.04,0.7,ml,11,207,0.06986,0.34,ci,ci40185751,2023-03-17T02:24:45.680Z,"3km SW of Anza, CA",earthquake,1.76,1.05,0.155,8,automatic,ci,ci
 2023-03-17T02:20:13.917Z,38.8833,-119.6275,2.5,0.2,ml,4,245.15,0.018,0.0826,nn,nn00857143,2023-03-17T19:14:57.149Z,"2 km NNE of Carter Springs, Nevada",earthquake,,3.4,0,1,reviewed,nn,nn
