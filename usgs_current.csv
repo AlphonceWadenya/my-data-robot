@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-18T19:48:04.470Z,59.7454,-152.456,75.1,2,ml,,,,0.45,ak,ak0233jnz98f,2023-03-18T19:51:06.060Z,"35 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-18T19:34:31.300Z,33.2451667,-115.795,3.49,1.61,ml,35,42,0.1304,0.17,ci,ci40186639,2023-03-18T19:38:12.577Z,"13km SSW of Bombay Beach, CA",earthquake,0.26,1.49,0.202,28,automatic,ci,ci
 2023-03-18T19:22:49.530Z,33.3946667,-116.3763333,3.32,1.01,ml,32,64,0.06446,0.26,ci,ci40186631,2023-03-18T19:26:19.524Z,"15km N of Borrego Springs, CA",earthquake,0.3,0.91,0.163,24,automatic,ci,ci
 2023-03-18T19:17:34.489Z,62.5846,-152.2321,0,1.8,ml,,,,0.9,ak,ak0233jnsoco,2023-03-18T19:19:40.943Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -126,6 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T06:04:32.680Z,51.8568333333333,-178.0855,0.47,1.04,ml,4,208,,0.19,av,av91810316,2023-03-18T19:46:39.820Z,"100 km W of Adak, Alaska",earthquake,0.78,31.61,0.178991530430835,4,reviewed,av,av
 2023-03-18T06:03:54.740Z,33.3221667,-116.8945,19,0.81,ml,25,38,0.1329,0.18,ci,ci40186327,2023-03-18T06:07:26.452Z,"5km SW of Palomar Observatory, CA",earthquake,0.28,0.82,0.165,19,automatic,ci,ci
 2023-03-18T05:58:26.734Z,61.8361,-150.5553,29.4,2.5,ml,,,,0.55,ak,ak0233jfpdn5,2023-03-18T09:04:21.702Z,"29 km WNW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-18T05:46:37.790Z,51.8668333333333,-178.070833333333,-1.8,1.32,ml,5,178,,0.23,av,av91810286,2023-03-18T19:50:02.620Z,"98 km W of Adak, Alaska",earthquake,0.62,1.6,0.334908062117239,5,reviewed,av,av
 2023-03-18T05:38:10.170Z,35.9046667,-117.4648333,-0.07,1.12,ml,15,110,0.148,0.18,ci,ci40186311,2023-03-18T05:41:44.756Z,"16km NNW of Searles Valley, CA",earthquake,0.4,31.61,0.096,7,automatic,ci,ci
 2023-03-18T05:14:29.689Z,37.9741,36.4482,6.974,4.4,mb,52,48,0.402,0.7,us,us7000jl0z,2023-03-18T19:27:39.733Z,"6 km SW of Göksun, Turkey",earthquake,4.84,4.855,0.09,36,reviewed,us,us
 2023-03-18T05:04:51.786Z,59.7367,-153.1623,105.7,2.3,ml,,,,0.24,ak,ak0233jfduwq,2023-03-18T05:07:11.774Z,"53 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -229,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T20:03:37.550Z,33.5256667,-116.7298333,3.18,1.08,ml,35,31,0.04012,0.16,ci,ci40186143,2023-03-17T20:44:47.240Z,"6km WSW of Anza, CA",earthquake,0.18,0.56,0.144,19,reviewed,ci,ci
 2023-03-17T19:59:34.340Z,33.5231667,-116.7325,2.43,0.54,ml,22,49,0.04231,0.19,ci,ci40186135,2023-03-17T20:03:17.201Z,"6km WSW of Anza, CA",earthquake,0.24,0.35,0.122,16,automatic,ci,ci
 2023-03-17T19:58:06.747Z,-38.1072,176.6233,6.528,4.7,mb,43,64,0.58,0.93,us,us7000jkyc,2023-03-18T06:12:13.066Z,"6 km W of Kawerau, New Zealand",earthquake,5,4.98,0.137,19,reviewed,us,us
-2023-03-17T19:50:52.330Z,36.7436676,-121.6021652,-0.22,1.89,md,13,104,0.03634,0.06,nc,nc73858270,2023-03-17T21:33:15.594Z,"7km ESE of Prunedale, CA",earthquake,0.26,1.22,0.16,11,automatic,nc,nc
