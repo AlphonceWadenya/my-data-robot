@@ -223,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T06:04:49.850Z,51.8735,-178.145,5.88,1.86,ml,8,128,,0.19,av,av91808881,2023-03-17T07:11:21.820Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.74,0.89,0.308599719485798,9,reviewed,av,av
 2023-03-17T06:00:31.810Z,17.9411666666667,-66.958,6.89,2.89,md,17,216,0.05621,0.12,pr,pr71400603,2023-03-17T06:12:52.720Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.48,0.24,0.196854812348211,7,reviewed,pr,pr
 2023-03-17T05:59:07.430Z,33.2645,-116.4215,3.25,0.84,ml,21,134,0.005181,0.19,ci,ci40185799,2023-03-17T14:45:50.289Z,"4km WNW of Borrego Springs, CA",earthquake,0.44,0.66,0.205,19,reviewed,ci,ci
-2023-03-17T05:49:09.081Z,59.6301,-153.5238,115.2,1.7,ml,,,,0.13,ak,ak0233hs42cc,2023-03-17T05:50:45.478Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
