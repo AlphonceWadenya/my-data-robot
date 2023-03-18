@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-18T10:51:04.630Z,38.7898331,-122.7785034,1.31,0.26,md,6,114,0.00808,0.01,nc,nc73858580,2023-03-18T10:52:40.007Z,"2km NW of The Geysers, CA",earthquake,0.48,0.91,0.11,8,automatic,nc,nc
 2023-03-18T10:46:06.250Z,38.8198318,-122.7628326,1.94,0.76,md,10,119,0.01198,0.04,nc,nc73858575,2023-03-18T10:47:45.001Z,"4km W of Cobb, CA",earthquake,0.48,0.96,0.24,10,automatic,nc,nc
-2023-03-18T10:44:44.470Z,38.8186684,-122.7621689,1.88,2.06,md,45,54,0.01325,0.06,nc,nc73858570,2023-03-18T10:46:21.216Z,"3km W of Cobb, CA",earthquake,0.17,0.27,0.16,41,automatic,nc,nc
+2023-03-18T10:45:28.370Z,33.6781667,-116.5235,-0.26,0.56,ml,9,252,0.06902,0.22,ci,ci40186407,2023-03-18T10:49:04.029Z,"12km WSW of Rancho Mirage, CA",earthquake,2.06,31.61,0.257,6,automatic,ci,ci
+2023-03-18T10:44:44.470Z,38.8186684,-122.7621689,1.88,2.06,md,45,54,0.01325,0.06,nc,nc73858570,2023-03-18T10:51:15.055Z,"3km W of Cobb, CA",earthquake,0.17,0.27,0.16,41,automatic,nc,nc
 2023-03-18T10:23:52.190Z,36.8878326,-121.4110031,11.74,1.4,md,12,122,0.06389,0.11,nc,nc73858565,2023-03-18T10:40:14.979Z,"5km NNW of Hollister, CA",earthquake,0.65,1.2,0.17,9,automatic,nc,nc
 2023-03-18T10:21:31.494Z,61.9076,-151.606,87,1.6,ml,,,,0.35,ak,ak0233jigmjh,2023-03-18T10:23:34.255Z,"14 km SW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-18T10:05:20.615Z,-7.0637,155.625,10,4.8,mb,41,93,4.473,0.59,us,us7000jl26,2023-03-18T10:40:29.040Z,"84 km S of Panguna, Papua New Guinea",earthquake,8.98,1.873,0.083,44,reviewed,us,us
@@ -218,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T11:15:01.460Z,38.8378334,-122.783165,1.89,0.72,md,11,75,0.005636,0.03,nc,nc73858095,2023-03-17T12:12:15.123Z,"6km WNW of Cobb, CA",earthquake,0.36,0.56,0.19,11,automatic,nc,nc
 2023-03-17T10:56:46.278Z,31.36344074,-103.7453392,9.679272461,2.5,ml,25,45,0.08036567144,0.3,tx,tx2023fhwk,2023-03-17T20:44:07.507Z,"7 km NE of Toyah, Texas",earthquake,0.8662160477,1.85446841,0.2,11,reviewed,tx,tx
 2023-03-17T10:53:19.280Z,51.8486666666667,-178.101,3.57,2.3,ml,11,111,,0.19,av,av91809251,2023-03-18T07:29:21.600Z,"101 km W of Adak, Alaska",earthquake,0.5,0.42,0.211808425822723,11,reviewed,av,av
-2023-03-17T10:50:19.590Z,38.8236656,-122.8424988,0.1,0.83,md,10,91,0.00586,0.01,nc,nc73858090,2023-03-17T11:44:12.966Z,"9km NW of The Geysers, CA",earthquake,0.27,0.69,0.15,10,automatic,nc,nc
-2023-03-17T10:47:51.296Z,-6.1026,147.4907,62.09,4.9,mb,69,44,3.297,0.7,us,us7000jktc,2023-03-17T11:08:35.040Z,"63 km NW of Finschhafen, Papua New Guinea",earthquake,8.58,6.515,0.069,66,reviewed,us,us
