@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-18T20:26:54.250Z,38.7910004,-122.7594986,2.21,0.69,md,6,173,0.01941,0.01,nc,nc73858850,2023-03-18T20:28:31.189Z,"2km N of The Geysers, CA",earthquake,0.59,2.26,0.35,8,automatic,nc,nc
+2023-03-18T20:26:54.250Z,38.7910004,-122.7594986,2.21,0.69,md,6,173,0.01941,0.01,nc,nc73858850,2023-03-18T20:39:11.609Z,"2km N of The Geysers, CA",earthquake,0.59,2.26,0.35,8,automatic,nc,nc
 2023-03-18T20:20:35.070Z,33.4171667,-116.6008333,11.97,0.66,ml,17,51,0.07321,0.21,ci,ci40186647,2023-03-18T20:24:10.627Z,"15km NNE of Warner Springs, CA",earthquake,0.39,0.83,0.19,15,automatic,ci,ci
 2023-03-18T20:13:03.980Z,38.7893333,-122.7611694,2.43,0.74,md,9,78,0.01893,0.03,nc,nc73858840,2023-03-18T20:31:12.565Z,"1km NNW of The Geysers, CA",earthquake,0.5,1.67,0.26,8,automatic,nc,nc
 2023-03-18T20:10:55.180Z,51.8505,-178.0805,4.49,1.66,ml,6,136,,0.15,av,av91811136,2023-03-18T20:32:47.820Z,"99 km W of Adak, Alaska",earthquake,0.51,0.69,0.248980241482234,6,reviewed,av,av
