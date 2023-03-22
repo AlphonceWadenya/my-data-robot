@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T16:18:28.050Z,47.320166666666665,-122.40366666666667,20.53,1.79,ml,16,98,0.02933,0.24,uw,uw61904197,2023-03-22T16:31:34.010Z,"1 km E of Dash Point, Washington",earthquake,0.55,0.72,0.11458697364667136,12,reviewed,uw,uw
 2023-03-22T16:08:52.450Z,33.821,-116.737,12.54,1.8,ml,50,32,0.0518,0.17,ci,ci40188319,2023-03-22T17:25:53.458Z,"9km N of Idyllwild, CA",earthquake,0.21,0.45,0.188,28,reviewed,ci,ci
 2023-03-22T16:07:20.390Z,56.9053333333333,-158.008333333333,-0.91,2.33,ml,5,288,,0.12,av,av91815686,2023-03-22T17:03:45.030Z,"38 km E of Port Heiden, Alaska",earthquake,0.76,3.27,0.263136319391698,5,reviewed,av,av
-2023-03-22T16:00:31.218Z,-23.4797,-66.5108,209.976,6.5,mww,97,33,1.622,1.55,us,us7000jlxu,2023-03-22T17:26:33.581Z,"84 km NNW of San Antonio de los Cobres, Argentina",earthquake,7.58,6.025,0.059,28,reviewed,us,us
+2023-03-22T16:00:31.218Z,-23.4797,-66.5108,209.976,6.5,mww,97,33,1.622,1.55,us,us7000jlxu,2023-03-22T17:40:34.461Z,"84 km NNW of San Antonio de los Cobres, Argentina",earthquake,7.58,6.025,0.059,28,reviewed,us,us
 2023-03-22T15:56:45.010Z,46.815333333333335,-121.94083333333333,8.65,0.25,ml,11,179,0.02697,0.08,uw,uw61904182,2023-03-22T16:37:21.420Z,"9 km NE of Ashford, Washington",earthquake,0.68,0.5,0.09215277196059404,7,reviewed,uw,uw
 2023-03-22T15:46:52.480Z,38.7874985,-122.7649994,0.86,0.28,md,8,117,0.01879,0.02,nc,nc73860620,2023-03-22T16:16:12.324Z,"1km NNW of The Geysers, CA",earthquake,0.33,2.03,0.05,8,automatic,nc,nc
 2023-03-22T15:26:26.600Z,38.8320007,-122.8151703,1.9,0.3,md,12,55,0.00947,0.01,nc,nc73860610,2023-03-22T17:25:13.837Z,"8km NW of The Geysers, CA",earthquake,0.33,0.74,0.21,14,automatic,nc,nc
@@ -84,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T04:04:55.863Z,63.6786,-149.4583,115,1.6,ml,,,,0.17,ak,ak0233q0xtle,2023-03-22T04:06:37.412Z,"27 km WSW of Denali Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-03-22T03:52:11.580Z,33.8943333,-118.3213333,15.02,1.75,ml,29,101,0.02673,0.23,ci,ci40188207,2023-03-22T17:05:00.786Z,"1km WNW of Gardena, CA",earthquake,0.4,0.39,0.192,22,reviewed,ci,ci
 2023-03-22T03:42:20.100Z,17.9253333333333,-66.0108333333333,12.27,2.58,md,6,234,0.09975,0.07,pr,pr71401068,2023-03-22T04:28:00.940Z,"Puerto Rico region",earthquake,0.75,0.46,0.0871542271470345,3,reviewed,pr,pr
-2023-03-22T03:40:24.492Z,62.1192,-150.3761,50.5,3.5,ml,,,,0.61,ak,ak0233q0k1av,2023-03-22T06:04:56.807Z,"Central Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2023-03-22T03:40:24.492Z,62.1192,-150.3761,50.5,3.5,ml,,,,0.61,ak,ak0233q0k1av,2023-03-22T17:42:39.189Z,"Central Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-03-22T03:28:36.500Z,33.5321667,-116.7285,4.83,0.71,ml,21,70,0.03395,0.1,ci,ci40188199,2023-03-22T16:56:46.396Z,"6km WSW of Anza, CA",earthquake,0.16,0.39,0.113,6,reviewed,ci,ci
 2023-03-22T03:27:27.671Z,61.0087,-146.9963,13.1,1.8,ml,,,,0.27,ak,ak0233q0h9a7,2023-03-22T03:29:02.426Z,"23 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-22T03:24:51.950Z,51.847,-178.097666666667,4.64,2.82,ml,9,133,,0.16,av,av91815066,2023-03-22T03:56:16.860Z,"100 km W of Adak, Alaska",earthquake,0.62,0.57,0.238940163388238,9,reviewed,av,av
@@ -184,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T18:14:28.170Z,56.9053333333333,-158.063166666667,2.63,0.98,ml,4,253,,0.06,av,av91095333,2023-03-21T19:18:55.850Z,"34 km E of Port Heiden, Alaska",earthquake,0.9,0.81,0.426829720865336,4,reviewed,av,av
 2023-03-21T18:09:42.520Z,51.8665,-178.0735,-1.8,0.87,ml,4,182,,0.28,av,av91814591,2023-03-21T18:47:49.430Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.8,2.04,0.275458585960098,4,reviewed,av,av
 2023-03-21T17:52:01.870Z,39.5268333,-112.0405,0.65,1.31,md,11,61,0.1759,0.18,uu,uu60534711,2023-03-21T18:51:47.470Z,"15 km WSW of Levan, Utah",earthquake,0.39,11.44,0.096,5,reviewed,uu,uu
-2023-03-21T17:38:13.089Z,-33.6103,-71.3517,65.05,5.6,mww,78,65,0.224,0.9,us,us7000jlpd,2023-03-22T16:32:20.040Z,"15 km NW of Melipilla, Chile",earthquake,3.1,3.436,0.089,12,reviewed,us,us
