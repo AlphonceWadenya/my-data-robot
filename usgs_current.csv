@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-22T21:23:54.270Z,38.786499,-122.7669983,1.48,0.72,md,8,130,0.01521,0.02,nc,nc73860755,2023-03-22T21:25:31.682Z,"1km NW of The Geysers, CA",earthquake,0.42,0.72,0.26,9,automatic,nc,nc
 2023-03-22T21:10:10.020Z,37.310833,-121.6766663,6.79,2.26,md,44,39,0.04104,0.07,nc,nc73860740,2023-03-22T21:17:21.087Z,"15km E of Seven Trees, CA",earthquake,0.15,0.32,0.2,42,automatic,nc,nc
 2023-03-22T21:09:12.146Z,61.2283,-150.2498,44.3,1.6,ml,,,,0.37,ak,ak0233qb3632,2023-03-22T21:10:34.727Z,"18 km W of Anchorage, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-22T20:51:52.820Z,32.8451667,-115.4676667,6.88,1.66,ml,12,98,0.04345,0.3,ci,ci40188407,2023-03-22T20:55:26.798Z,"9km WNW of Holtville, CA",earthquake,0.97,1.46,0.206,20,automatic,ci,ci
@@ -183,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T21:39:25.990Z,58.1828333333333,-155.2725,0.62,-0.29,ml,5,170,,0.04,av,av91814711,2023-03-21T23:30:09.560Z,"Alaska Peninsula",earthquake,0.28,1.5,0.161743205422618,5,reviewed,av,av
 2023-03-21T21:32:59.540Z,38.7804985,-122.7594986,0.95,0.93,md,6,157,0.01801,0.01,nc,nc73860385,2023-03-21T21:50:15.525Z,"0km NW of The Geysers, CA",earthquake,1.5,2.67,0.15,7,automatic,nc,nc
 2023-03-21T21:27:28.839Z,29.629,104.7238,10,4.2,mb,25,106,4.19,0.6,us,us7000jltn,2023-03-21T22:11:20.040Z,"20 km SW of Chonglong, China",earthquake,8.22,1.879,0.128,17,reviewed,us,us
-2023-03-21T21:25:13.360Z,44.812,-110.8318333,7.33,0.85,md,7,296,0.02714,0.09,uu,uu60534731,2023-03-21T22:38:02.130Z,"20 km SSW of Mammoth, Wyoming",earthquake,1.81,1.15,0.304,6,reviewed,uu,uu
