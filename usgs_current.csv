@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-24T20:51:02.870Z,33.1855011,-116.409668,8.49,1.56,ml,45,44,0.08271,0.22,ci,ci40189535,2023-03-24T20:54:41.990Z,"8km SSW of Borrego Springs, CA",earthquake,0.26,1.02,0.183,8,automatic,ci,ci
 2023-03-24T20:41:59.478Z,62.2645,-151.0587,80.8,1.6,ml,,,,0.29,ak,ak0233tlre17,2023-03-24T20:43:53.451Z,"29 km SSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-24T20:36:22.470Z,33.9631667,-117.4928333,0.31,1.24,ml,20,109,0.1507,0.31,ci,ci40189511,2023-03-24T20:39:59.125Z,"2km SW of Pedley, CA",earthquake,0.7,31.61,0.311,33,automatic,ci,ci
 2023-03-24T20:28:56.840Z,33.5055,-116.4141667,11.23,1.06,ml,34,79,0.02029,0.18,ci,ci40189503,2023-03-24T20:40:10.190Z,"20km SSW of La Quinta, CA",earthquake,0.26,0.5,0.141,28,automatic,ci,ci
@@ -318,4 +319,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T21:24:11.394Z,-36.7178,-70.4639,165.896,4.5,mwr,45,54,0.653,0.65,us,us7000jm9s,2023-03-24T18:11:30.654Z,"39 km NE of Las Ovejas, Argentina",earthquake,8.3,7.262,,,reviewed,us,guc
 2023-03-23T21:04:30.840Z,39.1439,-119.6155,8,0.9,ml,4,177.44,0.056,0.0809,nn,nn00857415,2023-03-24T02:02:53.839Z,"10 km S of Dayton, Nevada",earthquake,,8.4,0.36,2,reviewed,nn,nn
 2023-03-23T21:04:21.420Z,35.9823341,-120.5463333,2.53,1.68,md,15,76,0.008969,0.07,nc,nc73861220,2023-03-24T00:55:12.939Z,"14km NW of Parkfield, CA",earthquake,0.31,0.41,0.23,8,automatic,nc,nc
-2023-03-23T20:52:03.550Z,51.8678333333333,-178.037166666667,-1.8,1.09,ml,4,130,,0.14,av,av91095763,2023-03-23T21:12:20.310Z,"96 km W of Adak, Alaska",earthquake,0.64,1.84,0.121605112860744,4,reviewed,av,av
