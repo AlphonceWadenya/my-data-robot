@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T16:57:18.498Z,61.1801,-148.13,67.4,1.4,ml,,,,2.26,ak,ak0233wujow9,2023-03-26T16:58:57.208Z,"52 km SE of Knik River, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-26T16:10:03.983Z,60.3097,-151.4219,52.4,3.7,ml,,,,0.55,ak,ak0233wu9l4t,2023-03-26T17:19:28.700Z,"8 km WSW of Kasilof, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-26T15:46:09.157Z,61.2081,-147.0574,0.8,2.3,ml,,,,0.59,ak,ak0233wtvvoz,2023-03-26T15:48:25.888Z,"39 km WNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-26T15:42:49.570Z,38.7784996,-122.7568359,0.78,1.12,md,17,63,0.01043,0.04,nc,nc73862590,2023-03-26T15:57:14.187Z,"0km NNW of The Geysers, CA",earthquake,0.2,0.39,0.19,15,automatic,nc,nc
+2023-03-26T15:42:49.570Z,38.7784996,-122.7568359,0.78,1.12,md,17,63,0.01043,0.04,nc,nc73862590,2023-03-26T17:26:11.710Z,"0km NNW of The Geysers, CA",earthquake,0.2,0.39,0.19,15,automatic,nc,nc
 2023-03-26T15:26:23.590Z,36.6998329,-121.3411636,3.9,1.84,md,21,145,0.008741,0.08,nc,nc73862585,2023-03-26T16:58:10.569Z,"10km S of Tres Pinos, CA",earthquake,0.34,0.56,0.19,19,automatic,nc,nc
 2023-03-26T15:19:16.187Z,62.1541,-145.6327,20.5,2,ml,,,,0.9,ak,ak0233wtq3wi,2023-03-26T15:20:55.020Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-26T15:10:25.320Z,18.8783333333333,-64.9356666666667,3.04,3.36,md,17,268,0.5235,0.4,pr,pr71401658,2023-03-26T16:48:21.040Z,"Virgin Islands region",earthquake,2.29,2.02,0.169437568054573,15,reviewed,pr,pr
