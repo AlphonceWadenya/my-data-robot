@@ -209,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T20:27:14.942Z,51.8572,-178.0834,7.54,3,ml,14,104,0.036,0.58,us,us7000jmqx,2023-03-25T21:08:43.220Z,"99 km W of Adak, Alaska",earthquake,1.09,2.425,0.097,14,reviewed,us,us
 2023-03-25T20:18:45.172Z,58.0799,-153.5038,52.1,1.8,ml,,,,0.36,ak,ak0233v95ryd,2023-03-25T20:21:20.310Z,"35 km W of Aleneva, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-03-25T20:10:49.200Z,38.7771683,-122.765831,-0.89,0.77,md,11,85,0.006438,0.16,nc,nc73862175,2023-03-25T22:05:15.038Z,"1km W of The Geysers, CA",earthquake,0.48,1.91,0.24,10,automatic,nc,nc
-2023-03-25T19:57:56.941Z,-18.209,167.9743,35.1,4.8,mb,25,70,2.844,1.17,us,us7000jmqk,2023-03-25T20:56:44.040Z,"63 km SW of Port-Vila, Vanuatu",earthquake,9,7.244,0.138,19,reviewed,us,us
