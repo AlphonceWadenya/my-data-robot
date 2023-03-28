@@ -257,4 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T09:53:07.940Z,34.0191667,-117.0953333,19.02,0.92,ml,25,81,0.09627,0.19,ci,ci40190471,2023-03-27T09:56:44.766Z,"5km WSW of Yucaipa, CA",earthquake,0.31,0.66,0.144,23,automatic,ci,ci
 2023-03-27T09:44:24.770Z,19.1698333333333,-155.485666666667,32.65,1.63,md,27,147,,0.13,hv,hv73350252,2023-03-27T23:26:50.110Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.67,0.92,0.101649450642164,14,reviewed,hv,hv
 2023-03-27T09:34:18.750Z,37.5875,-118.8665,4.12,-0.14,md,10,218,0.02981,0.06,nc,nc73862960,2023-03-27T20:17:17.970Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.85,1.4,0.144,8,reviewed,nc,nc
-2023-03-27T09:28:56.340Z,33.7858333,-116.0556667,5.02,2.53,ml,62,51,0.136,0.16,ci,ci40190463,2023-03-28T06:38:37.040Z,"16km NE of Coachella, CA",earthquake,0.2,0.77,0.112,25,automatic,ci,ci
