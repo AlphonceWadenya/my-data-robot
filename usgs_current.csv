@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-29T20:56:07.500Z,37.5993347,-122.4404984,6.96,2.18,md,37,66,0.02355,0.04,nc,nc73864140,2023-03-29T20:57:44.265Z,"4km SW of San Bruno, CA",earthquake,0.17,0.26,0.15,34,automatic,nc,nc
+2023-03-29T20:54:01.167Z,61.3474,-146.6754,9.2,2.5,ml,,,,0.88,ak,ak02341visb7,2023-03-29T20:55:50.343Z,"29 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-29T20:33:39.843Z,64.0055,-148.8213,18.9,1.5,ml,,,,1.04,ak,ak02341ved9c,2023-03-29T20:44:50.847Z,"14 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-29T20:20:38.680Z,44.536,-110.3726667,3.82,0.44,md,9,127,0.03179,0.15,uu,uu60535736,2023-03-29T20:36:15.440Z,"55 km SSE of Mammoth, Wyoming",earthquake,0.34,0.9,0.231,6,reviewed,uu,uu
 2023-03-29T20:18:17.310Z,32.7676667,-116.8983333,2.08,1.33,ml,10,90,0.049,0.23,ci,ci39507410,2023-03-29T20:21:52.074Z,"4km ENE of Rancho San Diego, CA",quarry blast,0.44,0.73,0.072,6,automatic,ci,ci
@@ -365,4 +367,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T21:15:37.710Z,58.2476666666667,-155.138666666667,2.31,-0.48,ml,8,90,,0.09,av,av91823361,2023-03-29T19:23:00.800Z,"Alaska Peninsula",earthquake,0.22,0.47,0.142875765123975,8,reviewed,av,av
 2023-03-28T21:12:20.120Z,61.5875,-147.9736,6.4,2.5,ml,,,,0.5,ak,ak023408bwt8,2023-03-28T21:27:42.040Z,"29 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-28T21:12:07.120Z,38.8348351,-122.878334,3,0.76,md,10,122,0.005237,0.02,nc,nc73863685,2023-03-28T21:25:11.721Z,"12km WNW of The Geysers, CA",earthquake,0.44,0.8,0.2,11,automatic,nc,nc
-2023-03-28T20:53:36.373Z,62.605,-151.4079,11.7,1.1,ml,,,,0.68,ak,ak023407zath,2023-03-28T20:56:07.410Z,"35 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
