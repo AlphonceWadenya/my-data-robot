@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-31T09:15:13.430Z,38.8011665,-122.7699966,1.17,1.16,md,11,79,0.01612,0.02,nc,nc73864800,2023-03-31T09:16:51.372Z,"3km NNW of The Geysers, CA",earthquake,0.27,0.69,0.15,10,automatic,nc,nc
 2023-03-31T09:01:15.740Z,19.3778324127197,-154.986999511719,5.84000015258789,2.4,ml,31,166,,0.280000001,hv,hv73353357,2023-03-31T09:06:46.340Z,"12 km SW of Leilani Estates, Hawaii",earthquake,0.79,0.810000002,0.3,12,automatic,hv,hv
 2023-03-31T08:45:23.060Z,34.0221667,-117.2241667,15.86,1.02,ml,23,122,0.1289,0.22,ci,ci39508010,2023-03-31T09:04:44.196Z,"4km SE of Loma Linda, CA",earthquake,0.38,1.15,0.19,17,automatic,ci,ci
 2023-03-31T08:44:54.838Z,64.2073,-150.4711,17.8,2.1,ml,,,,0.43,ak,ak02344ze90r,2023-03-31T08:46:17.951Z,"62 km W of Clear, Alaska, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T07:41:26.790Z,65.195,-149.0253,8.6,1.2,ml,,,,0.47,ak,ak02344ys43r,2023-03-31T07:43:24.631Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-31T07:04:50.647Z,62.15,-150.5604,8.3,1.4,ml,,,,0.43,ak,ak02344yk8g8,2023-03-31T07:06:51.110Z,"25 km SW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-31T06:56:59.840Z,35.7406667,-117.5906667,12.94,0.81,ml,13,157,0.1387,0.18,ci,ci39507986,2023-03-31T07:00:36.533Z,"15km NNE of Ridgecrest, CA",earthquake,0.62,1.24,0.148,6,automatic,ci,ci
-2023-03-31T06:53:14.560Z,38.7874985,-122.7655029,1.95,1.31,md,20,79,0.01841,0.03,nc,nc73864785,2023-03-31T07:47:17.213Z,"1km NW of The Geysers, CA",earthquake,0.25,0.45,0.18,18,automatic,nc,nc
+2023-03-31T06:53:14.560Z,38.7874985,-122.7655029,1.95,1.31,md,20,79,0.01841,0.03,nc,nc73864785,2023-03-31T09:18:10.687Z,"1km NW of The Geysers, CA",earthquake,0.25,0.45,0.18,18,automatic,nc,nc
 2023-03-31T06:46:20.456Z,-30.2304,-176.6751,10,4.5,mb,15,163,1.451,0.49,us,us6000k125,2023-03-31T07:40:18.040Z,"Kermadec Islands region",earthquake,11.34,1.963,0.172,10,reviewed,us,us
 2023-03-31T06:44:11.434Z,61.8094,-151.5359,84.5,1.7,ml,,,,0.43,ak,ak02344y7agn,2023-03-31T06:46:03.677Z,"21 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-31T06:42:34.100Z,33.9456667,-118.3736667,10.39,1.88,ml,52,92,0.04584,0.31,ci,ci39507978,2023-03-31T07:14:42.292Z,"2km WNW of Lennox, CA",earthquake,0.4,0.69,0.299,27,automatic,ci,ci
