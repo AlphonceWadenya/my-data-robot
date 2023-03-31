@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-31T15:26:28.439Z,63.2118,-150.3879,112.4,2.2,ml,,,,0.48,ak,ak023453gdao,2023-03-31T15:28:03.111Z,"74 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-03-31T15:26:28.439Z,63.2118,-150.3879,112.4,2.2,ml,,,,0.48,ak,ak023453gdao,2023-03-31T15:41:33.040Z,"74 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-31T15:21:04.450Z,38.8271675,-122.8036652,1.43,0.7,md,7,100,0.02025,0.01,nc,nc73864955,2023-03-31T15:35:11.879Z,"7km NW of The Geysers, CA",earthquake,0.51,0.79,0.26,8,automatic,nc,nc
 2023-03-31T15:12:20.460Z,40.7678337,-120.9481659,14.06,2.46,md,18,93,0.1425,0.12,nc,nc73864950,2023-03-31T15:27:11.830Z,"47km NNW of Susanville, CA",earthquake,0.43,0.95,0.1,10,automatic,nc,nc
 2023-03-31T15:09:16.050Z,34.2351667,-116.8328333,9.61,1.31,ml,11,255,0.3362,0.42,ci,ci39508090,2023-03-31T15:13:00.808Z,"3km SSE of Big Bear City, CA",earthquake,4.46,31.61,0.318,14,automatic,ci,ci
@@ -232,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T15:54:15.605Z,60.1238,-148.1229,12,1.7,ml,,,,0.44,ak,ak02343g2v5j,2023-03-30T21:20:41.416Z,"8 km NW of Chenega, Alaska",earthquake,,1.2,,,reviewed,ak,ak
 2023-03-30T15:50:49.568Z,59.8203,-151.1029,35.1,1.2,ml,,,,0.28,ak,ak02343g27ng,2023-03-30T15:53:00.937Z,"9 km WSW of Fox River, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-30T15:46:16.321Z,17.0581,-99.8807,23.544,4.6,mb,74,210,1.352,0.38,us,us6000k0wi,2023-03-30T21:25:25.847Z,"2 km N of Ocotillo, Mexico",earthquake,10.04,8.73,0.038,214,reviewed,us,us
-2023-03-30T15:41:15.283Z,31.55135697,-104.0951559,5.977319336,2.1,ml,17,64,0.03750416234,0.2,tx,tx2023gfzi,2023-03-30T19:16:54.624Z,"38 km NW of Toyah, Texas",earthquake,1.060257283,0.8655324448,0.2,20,reviewed,tx,tx
