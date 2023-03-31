@@ -59,13 +59,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T00:02:49.740Z,33.1208333,-116.532,11.36,2.11,ml,66,30,0.08991,0.16,ci,ci39507914,2023-03-31T00:37:32.990Z,"8km NE of Julian, CA",earthquake,0.16,0.58,0.183,25,reviewed,ci,ci
 2023-03-31T00:02:02.421Z,58.296,-154.9006,1.1,2.4,ml,,,,0.28,ak,ak02344udo2a,2023-03-31T00:21:47.917Z,"85 km NNW of Karluk, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2023-03-30T23:59:52.206Z,62.8711,-150.6963,83.2,1.2,ml,,,,0.61,ak,ak02343kvm50,2023-03-31T00:02:34.571Z,"41 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-03-30T23:59:07.280Z,61.5878,-149.8665,45,1.3,ml,,,,0.79,ak,ak02343kvio8,2023-03-31T00:01:19.856Z,"Southern Alaska",earthquake,,1.8,,,automatic,ak,ak
+2023-03-30T23:59:07.280Z,61.5878,-149.8665,45,1.3,ml,,,,0.79,ak,ak02343kvio8,2023-03-31T00:01:19.856Z,"5 km SSW of Houston, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-03-30T23:58:24.960Z,46.103,-122.0705,6.45,0.46,ml,11,182,0.02187,0.17,uw,uw61905967,2023-03-31T00:16:36.230Z,"36 km NE of Amboy, Washington",earthquake,0.78,1.69,0.1989367645210054,10,reviewed,uw,uw
 2023-03-30T23:58:07.430Z,19.2348327636719,-155.382659912109,31.6100006103516,2.07999992,md,25,147,,0.129999995,hv,hv73353002,2023-03-31T00:01:09.980Z,"Island of Hawaii, Hawaii",earthquake,1.24,0.860000014,0.189999998,5,automatic,hv,hv
 2023-03-30T23:56:56.113Z,58.3054,-154.9282,0,0.5,ml,,,,0.22,ak,ak02343kuzct,2023-03-30T23:59:50.688Z,"86 km NNW of Karluk, Alaska",earthquake,,29.2,,,automatic,ak,ak
 2023-03-30T23:45:28.490Z,46.016333333333336,-122.14483333333334,4.32,0.86,ml,15,176,0.04825,0.17,uw,uw61905962,2023-03-30T23:50:59.340Z,"26 km ENE of Amboy, Washington",earthquake,0.53,0.74,0.29946680710841533,8,reviewed,uw,uw
 2023-03-30T23:38:04.911Z,64.0381,-148.7957,0.1,1.8,ml,,,,0.5,ak,ak02343kr0gb,2023-03-30T23:39:45.632Z,"15 km E of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-03-30T23:33:32.258Z,59.8636,-153.4832,5.2,2,ml,,,,0.75,ak,ak02343kpzzd,2023-03-30T23:35:59.949Z,"35 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-30T23:33:01.346Z,58.3103,-155.0037,0,2.8,ml,,,,0.61,ak,ak02343kpxla,2023-03-30T23:39:17.040Z,"88 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-30T23:07:26.570Z,33.5928333,-116.8085,7.04,0.99,ml,31,57,0.03707,0.11,ci,ci39507906,2023-03-31T00:05:44.001Z,"13km WNW of Anza, CA",earthquake,0.18,0.3,0.092,21,reviewed,ci,ci
 2023-03-30T22:58:52.034Z,58.3095,-154.942,3.1,1.6,ml,,,,0.48,ak,ak02343k9yta,2023-03-30T23:01:45.835Z,"87 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -239,5 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T06:12:01.990Z,51.8541666666667,-178.086833333333,3.58,1.35,ml,5,210,,0.13,av,av91825351,2023-03-31T01:32:19.420Z,"100 km W of Adak, Alaska",earthquake,0.65,0.49,0.142098351570131,5,reviewed,av,av
 2023-03-30T06:10:14.560Z,33.6908333,-116.8001667,15.77,0.25,ml,16,156,0.07451,0.11,ci,ci37520924,2023-03-30T16:23:25.327Z,"9km SW of Idyllwild, CA",earthquake,0.38,0.42,0.168,4,reviewed,ci,ci
 2023-03-30T06:10:10.500Z,33.7003333,-116.8053333,14.9,0.61,ml,25,161,0.07676,0.13,ci,ci39507722,2023-03-30T16:19:12.218Z,"9km WSW of Idyllwild, CA",earthquake,0.28,0.35,0.129,10,reviewed,ci,ci
-2023-03-30T05:48:03.910Z,53.8728333333333,-166.575666666667,5.15,0.55,ml,5,156,,0.09,av,av91825316,2023-03-31T01:18:10.180Z,"2 km W of Unalaska, Alaska",earthquake,0.35,0.94,0.177378314523532,6,reviewed,av,av
-2023-03-30T05:47:28.220Z,38.831665,-122.8181686,1.83,0.62,md,8,82,0.0104,0.01,nc,nc73864345,2023-03-30T06:54:15.570Z,"8km NW of The Geysers, CA",earthquake,0.41,1.11,0.38,9,automatic,nc,nc
