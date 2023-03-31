@@ -79,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T17:52:58.451Z,59.5391,-153.0626,96.5,1.8,ml,,,,0.26,ak,ak02343h9iz9,2023-03-30T17:54:48.599Z,"64 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-30T17:47:28.160Z,38.8531685,-122.8281631,1.51,0.68,md,8,185,0.004043,0.03,nc,nc73864520,2023-03-30T17:49:07.491Z,"10km WNW of Cobb, CA",earthquake,0.46,0.96,0.28,8,automatic,nc,nc
 2023-03-30T17:44:28.540Z,19.138334274292,-155.503326416016,34.75,1.78999996,md,27,250,,0.119999997,hv,hv73352907,2023-03-30T17:47:43.240Z,"7 km SSW of Pāhala, Hawaii",earthquake,1.09,0.949999988,0.75999999,3,automatic,hv,hv
-2023-03-30T17:33:06.366Z,-35.6626,-73.5404,11.586,6.3,mww,143,71,1.119,0.5,us,us6000k0xf,2023-03-30T23:01:23.955Z,"108 km WSW of Constitución, Chile",earthquake,5.53,3.203,0.043,51,reviewed,us,us
+2023-03-30T17:33:06.366Z,-35.6626,-73.5404,11.586,6.3,mww,143,71,1.119,0.5,us,us6000k0xf,2023-03-31T03:40:34.146Z,"108 km WSW of Constitución, Chile",earthquake,5.53,3.203,0.043,51,reviewed,us,us
 2023-03-30T17:23:09.910Z,38.7975,-122.7468333,1.58,1.44,md,41,49,0.01054,0.04,nc,nc73864515,2023-03-30T21:54:13.758Z,"2km NNE of The Geysers, CA",earthquake,0.14,0.21,0.16,32,reviewed,nc,nc
 2023-03-30T17:18:55.798Z,43.269,-110.8975,5,3.3,ml,27,84,0.218,0.64,us,us6000k0x6,2023-03-31T03:11:57.285Z,"9 km W of Hoback, Wyoming",earthquake,1.57,1.633,0.048,56,reviewed,us,us
 2023-03-30T17:17:38.316Z,64.6071,-148.3501,14.7,0.6,ml,,,,1.13,ak,ak02343h1zd3,2023-03-30T17:20:04.837Z,"31 km SSW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T03:55:46.528Z,63.2979,-150.5097,128.4,1.4,ml,,,,0.45,ak,ak023438y2qk,2023-03-30T03:58:20.926Z,"66 km ESE of Denali National Park, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-03-30T03:50:44.150Z,51.8545,-178.116333333333,3.04,1.06,ml,5,231,,0.21,av,av91825186,2023-03-30T23:40:36.340Z,"102 km W of Adak, Alaska",earthquake,1.82,0.97,0.169553241178949,5,reviewed,av,av
 2023-03-30T03:46:58.908Z,60.7767,-151.7304,70.3,3,ml,,,,0.24,ak,ak023438w68y,2023-03-31T00:06:59.040Z,"25 km WNW of Nikiski, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-03-30T03:40:19.070Z,38.7908333,-122.7605,1.31,0.75,md,25,65,0.009797,0.03,nc,nc73864280,2023-03-30T05:56:11.257Z,"2km NNW of The Geysers, CA",earthquake,0.16,0.25,0.339,21,reviewed,nc,nc
