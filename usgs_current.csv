@@ -163,4 +163,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T22:55:07.892Z,58.246,-155.1652,0,1.2,ml,,,,0.48,ak,ak02346vbx8l,2023-04-01T22:57:06.432Z,"86 km NNW of Karluk, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2023-04-01T22:53:38.188Z,43.8529,-129.8143,10,4.2,mb,18,248,1.968,0.42,us,us6000k1et,2023-04-01T23:45:52.668Z,"off the coast of Oregon",earthquake,9.39,2.02,0.159,11,reviewed,us,us
 2023-04-01T22:33:07.940Z,37.5883333,-118.7071667,7.23,0.78,md,13,141,0.04079,0.04,nc,nc73865605,2023-04-02T06:10:11.484Z,"4km NW of Toms Place, CA",earthquake,0.61,0.47,0.062,10,reviewed,nc,nc
-2023-04-01T22:19:29.145Z,65.0221,-148.8174,19.4,0.9,ml,,,,0.38,ak,ak02346v493m,2023-04-01T22:20:42.366Z,"28 km ESE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
