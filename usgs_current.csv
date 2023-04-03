@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-03T19:42:01.860Z,38.7635002,-122.7373352,1.69,1.56,md,8,97,0.009936,0.04,nc,nc73866335,2023-04-03T19:43:38.656Z,"2km SE of The Geysers, CA",earthquake,0.38,0.46,0.17,8,automatic,nc,nc
+2023-04-03T19:41:35.718Z,61.254,-150.5995,28.2,1.3,ml,,,,0.37,ak,ak0234a4jdj7,2023-04-03T19:43:56.087Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-03T19:39:59.720Z,38.8370018,-122.7801666,1.45,1.05,md,11,101,0.006319,0.03,nc,nc73866325,2023-04-03T19:41:38.716Z,"5km WNW of Cobb, CA",earthquake,0.58,0.75,0.11,12,automatic,nc,nc
 2023-04-03T19:39:20.161Z,60.7156,-150.6899,18.4,1.3,ml,,,,0.44,ak,ak0234a4iwwg,2023-04-03T19:40:29.036Z,"20 km NNE of Sterling, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-03T19:29:55.672Z,63.083,-151.2051,2.2,1.4,ml,,,,0.71,ak,ak0234a4guhb,2023-04-03T19:31:56.744Z,"57 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-03T19:28:07.578Z,44.3363,-115.0421,10,2.5,ml,10,62,0.778,0.18,us,us6000k1t0,2023-04-03T19:45:08.040Z,"15 km NNW of Stanley, Idaho",earthquake,1.94,2.012,0.091,16,reviewed,us,us
 2023-04-03T19:26:59.180Z,38.8378334,-122.779335,1.79,1.02,md,8,109,0.005285,0.01,nc,nc73866315,2023-04-03T19:43:11.292Z,"5km WNW of Cobb, CA",earthquake,1.07,1.4,0.29,8,automatic,nc,nc
 2023-04-03T19:19:40.690Z,63.3436,-150.3948,115.6,1.3,ml,,,,0.23,ak,ak0234a4eo69,2023-04-03T19:22:41.568Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-04-03T19:14:05.500Z,38.8131676,-122.8264999,1.65,1.31,md,13,67,0.004776,0.02,nc,nc73866310,2023-04-03T19:36:10.249Z,"7km WNW of The Geysers, CA",earthquake,0.26,0.39,0.11,14,automatic,nc,nc
@@ -57,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T12:09:13.184Z,61.3697,-151.6213,86.2,0.7,ml,,,,0.23,ak,ak0234a06fna,2023-04-03T12:11:50.638Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-03T12:07:46.740Z,37.9044991,-121.8198318,0.12,1.84,md,10,107,0.06952,0.17,nc,nc73866215,2023-04-03T12:42:11.729Z,"9km WSW of Brentwood, CA",earthquake,0.55,6.84,0.11,7,automatic,nc,nc
 2023-04-03T11:58:42.954Z,61.5447,-150.5642,31.2,1.2,ml,,,,0.73,ak,ak02349zvkfb,2023-04-03T12:00:19.328Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-03T11:35:27.960Z,35.2051659,-118.6725006,3.38,2.96,ml,85,37,0.02908,0.2,ci,ci39509394,2023-04-03T18:25:35.891Z,"14km E of Arvin, CA",earthquake,0.19,0.66,0.281,24,automatic,ci,ci
+2023-04-03T11:35:27.960Z,35.2051659,-118.6725006,3.38,2.96,ml,85,37,0.02908,0.2,ci,ci39509394,2023-04-03T19:48:01.301Z,"14km E of Arvin, CA",earthquake,0.19,0.66,0.281,24,automatic,ci,ci
 2023-04-03T11:25:31.510Z,34.004,-116.852,14.01,1.22,ml,39,56,0.04811,0.19,ci,ci39509386,2023-04-03T11:29:04.629Z,"9km NNE of Banning, CA",earthquake,0.23,0.54,0.118,26,automatic,ci,ci
 2023-04-03T11:14:33.560Z,33.3,-116.1918333,0.82,1.44,ml,31,59,0.119,0.29,ci,ci39509378,2023-04-03T11:18:05.606Z,"18km ENE of Borrego Springs, CA",earthquake,0.33,0.84,0.141,29,automatic,ci,ci
 2023-04-03T11:10:39.820Z,33.3036667,-116.195,1.08,1.22,ml,23,70,0.1212,0.28,ci,ci39509370,2023-04-03T11:14:12.543Z,"18km ENE of Borrego Springs, CA",earthquake,0.41,0.99,0.116,26,automatic,ci,ci
@@ -141,6 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T00:23:41.030Z,36.036335,-120.604332,1.42,0.61,md,9,188,0.03307,0.09,nc,nc73866050,2023-04-03T01:10:13.601Z,"22km NW of Parkfield, CA",earthquake,2.07,7.85,0.01,3,automatic,nc,nc
 2023-04-03T00:20:41.440Z,51.857,-178.054666666667,-1.8,1.34,ml,4,167,,0.27,av,av91831821,2023-04-03T19:37:21.250Z,"97 km W of Adak, Alaska",earthquake,0.73,1.78,0.299959497032454,4,reviewed,av,av
 2023-04-03T00:20:28.947Z,58.1779,-155.3986,0,1.3,ml,,,,0.6,ak,ak02349t3mha,2023-04-03T19:42:13.460Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
+2023-04-02T23:52:34.270Z,51.8786666666667,-178.160833333333,12.86,0.51,ml,3,273,,0.03,av,av91831806,2023-04-03T19:47:33.510Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.8,0.67,0.302715977303883,3,reviewed,av,av
 2023-04-02T23:23:32.919Z,60.347,-147.7743,14.2,1.9,ml,,,,0.49,ak,ak02348j9wcr,2023-04-02T23:25:48.595Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-02T23:22:50.136Z,61.1509,-152.3945,34.2,0,ml,,,,0.64,ak,ak02348j9q97,2023-04-02T23:25:19.356Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-02T23:13:05.592Z,-4.4517,143.0407,99.379,4.3,mb,21,145,6.397,0.71,us,us6000k1lt,2023-04-03T11:40:05.521Z,"New Guinea, Papua New Guinea",earthquake,11.75,10.741,0.148,13,reviewed,us,us
