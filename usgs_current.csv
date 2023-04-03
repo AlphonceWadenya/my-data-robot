@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-03T22:43:13.940Z,33.4551667,-116.5773333,6.49,1.19,ml,28,72,0.04457,0.17,ci,ci39509466,2023-04-03T22:46:47.443Z,"14km SE of Anza, CA",earthquake,0.25,0.42,0.149,27,automatic,ci,ci
 2023-04-03T22:34:44.950Z,19.2438335418701,-155.397506713867,32.1800003051758,2.26999998,md,32,138,,0.100000001,hv,hv73355852,2023-04-03T22:37:58.220Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.67,0.50999999,2.00999999,14,automatic,hv,hv
 2023-04-03T22:18:43.330Z,38.7781677,-122.7581635,1.24,1.22,md,10,84,0.02755,0.02,nc,nc73866395,2023-04-03T22:32:10.312Z,"0km WNW of The Geysers, CA",earthquake,0.27,0.7,0.2,9,automatic,nc,nc
 2023-04-03T22:04:57.936Z,56.2269,-156.6773,0,2.6,ml,,,,0.69,ak,ak0234a63skh,2023-04-03T22:19:20.040Z,"107 km E of Chignik, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -109,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T08:18:39.373Z,61.0837,-152.2466,97.1,1.4,ml,,,,0.53,ak,ak02349xuoox,2023-04-03T08:20:51.214Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-03T08:17:35.480Z,37.6116667,-118.8505,8.68,0.86,md,5,129,0.0123,0.01,nc,nc73866165,2023-04-03T18:12:14.750Z,"12km ESE of Mammoth Lakes, CA",earthquake,0.9,4.11,0.029,5,reviewed,nc,nc
 2023-04-03T08:12:19.929Z,36.6483,-116.2738,7.4,1.1,ml,32,83.13,0.052,0.1338,nn,nn00857781,2023-04-03T22:33:30.900Z,"52 km SE of Beatty, Nevada",earthquake,,0.7,0.81,19,reviewed,nn,nn
-2023-04-03T07:33:09.820Z,58.2471,-155.1443,4.4,0.7,ml,,,,0.53,ak,ak02349xcejq,2023-04-03T07:35:03.499Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
+2023-04-03T07:33:09.820Z,58.2471,-155.1443,4.4,0.7,ml,,,,0.53,ak,ak02349xcejq,2023-04-03T22:49:19.890Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-04-03T07:31:04.990Z,36.7946663,-121.322998,8.64,1.83,md,27,110,0.08906,0.13,nc,nc73866155,2023-04-03T08:43:12.348Z,"1km NNW of Tres Pinos, CA",earthquake,0.35,0.71,0.16,20,automatic,nc,nc
 2023-04-03T07:26:00.390Z,33.9323333,-116.893,11.35,1.05,ml,40,65,0.07363,0.12,ci,ci39509306,2023-04-03T21:54:56.500Z,"2km WNW of Banning, CA",earthquake,0.15,0.56,0.125,27,reviewed,ci,ci
 2023-04-03T07:24:28.659Z,37.8707,-118.1483,0,2.1,ml,12,100.28,0.353,0.2191,nn,nn00857780,2023-04-03T21:59:25.599Z,"23 km NNW of Dyer, Nevada",earthquake,,0,0.57,8,reviewed,nn,nn
@@ -191,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T23:13:05.592Z,-4.4517,143.0407,99.379,4.3,mb,21,145,6.397,0.71,us,us6000k1lt,2023-04-03T11:40:05.521Z,"New Guinea, Papua New Guinea",earthquake,11.75,10.741,0.148,13,reviewed,us,us
 2023-04-02T23:02:50.650Z,33.632,-116.6708333,14.53,0.77,ml,22,96,0.06393,0.19,ci,ci39509218,2023-04-03T13:38:45.276Z,"9km N of Anza, CA",earthquake,0.43,0.63,0.284,21,reviewed,ci,ci
 2023-04-02T23:01:15.907Z,60.331,-151.1826,19.4,1.5,ml,,,,0.61,ak,ak02348j55ae,2023-04-02T23:03:32.387Z,"Kenai Peninsula, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-04-02T22:49:25.925Z,57.9624,-155.9809,18.6,1.2,ml,,,,0.42,ak,ak02348iu0ts,2023-04-02T22:51:07.283Z,"Alaska Peninsula",earthquake,,2,,,automatic,ak,ak
-2023-04-02T22:48:31.638Z,51.9838,-174.212,7.3,2.4,ml,,,,0.92,ak,ak02348ituir,2023-04-03T19:11:20.197Z,"23 km S of Atka, Alaska",earthquake,,4.5,,,reviewed,ak,ak
