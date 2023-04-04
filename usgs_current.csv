@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-04T20:37:58.530Z,38.8364983,-122.80233,2.31,1.05,md,18,61,0.009553,0.02,nc,nc73866885,2023-04-04T20:39:31.060Z,"7km WNW of Cobb, CA",earthquake,0.24,0.54,0.27,19,automatic,nc,nc
+2023-04-04T20:42:26.170Z,36.8914986,-121.6244965,0.36,2.52,md,10,89,0.02701,0.36,nc,nc73866890,2023-04-04T20:44:13.078Z,"2km E of Aromas, CA",earthquake,1.28,2.17,0.3,9,automatic,nc,nc
+2023-04-04T20:37:58.530Z,38.8364983,-122.80233,2.31,1.05,md,18,61,0.009553,0.02,nc,nc73866885,2023-04-04T20:39:33.153Z,"7km WNW of Cobb, CA",earthquake,0.24,0.54,0.27,19,automatic,nc,nc
 2023-04-04T20:37:02.990Z,38.776001,-122.7356644,1.87,1.47,md,21,61,0.007273,0.03,nc,nc73866880,2023-04-04T20:38:38.089Z,"2km E of The Geysers, CA",earthquake,0.24,0.36,0.14,22,automatic,nc,nc
 2023-04-04T20:36:41.447Z,61.7786,-151.6917,81.1,0.8,ml,,,,0.31,ak,ak0234bsn3hs,2023-04-04T20:38:50.463Z,"28 km SSW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-04-04T20:25:20.600Z,38.7885017,-122.7458344,0.94,1.32,md,22,85,0.00885,0.06,nc,nc73866875,2023-04-04T20:26:58.215Z,"2km NE of The Geysers, CA",earthquake,0.23,0.44,0.12,22,automatic,nc,nc
+2023-04-04T20:33:10.658Z,63.2683,-151.3446,0.9,1.1,ml,,,,0.74,ak,ak0234bsmdyx,2023-04-04T20:41:20.255Z,"35 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-04T20:25:20.600Z,38.7885017,-122.7458344,0.94,1.32,md,22,85,0.00885,0.06,nc,nc73866875,2023-04-04T20:40:10.377Z,"2km NE of The Geysers, CA",earthquake,0.23,0.44,0.12,22,automatic,nc,nc
 2023-04-04T20:03:15.768Z,62.18,-149.4612,19.7,1.1,ml,,,,0.26,ak,ak0234bsfyvs,2023-04-04T20:04:45.258Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-04T19:47:25.500Z,38.8143349,-122.8525009,1.12,1.08,md,17,87,0.01363,0.02,nc,nc73866865,2023-04-04T20:26:13.305Z,"9km WNW of The Geysers, CA",earthquake,0.22,0.4,0.27,18,automatic,nc,nc
 2023-04-04T19:36:46.520Z,38.7890015,-122.7763367,0.18,1.54,md,26,81,0.009966,0.03,nc,nc73866860,2023-04-04T20:13:12.227Z,"2km NW of The Geysers, CA",earthquake,0.17,0.4,0.13,26,automatic,nc,nc
@@ -207,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T21:02:42.869Z,36.75233333,-98.05816667,7.62,1.78,ml,45,87,0.09538128294,0.17,ok,ok2023gnry,2023-04-03T21:42:04.678Z,"8 km E of Nescatunga, Oklahoma",earthquake,,0.5,0.17,4,reviewed,ok,ok
 2023-04-03T20:59:22.655Z,31.51538887,-104.0057413,9.730688477,2.4,ml,37,57,0.04564383799,0.1,tx,tx2023gnrv,2023-04-04T15:59:46.020Z,"western Texas",earthquake,0.6161133783,0.7409191796,0.1,14,reviewed,tx,tx
 2023-04-03T20:50:32.882Z,-8.2418,123.795,184.221,5,mb,100,54,1.575,1,us,us6000k1tm,2023-04-03T21:11:37.040Z,"124 km NNW of Pante Makasar, Timor Leste",earthquake,7.35,1.698,0.05,128,reviewed,us,us
-2023-04-03T20:45:09.789Z,64.4988,-148.971,16.5,0.9,ml,,,,0.45,ak,ak0234a55m02,2023-04-03T20:46:50.154Z,"9 km SE of Nenana, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-04-03T20:45:08.760Z,47.74916666666667,-120.09566666666667,4.09,1.03,ml,11,63,0.066,0.07,uw,uw61915806,2023-04-03T23:13:40.430Z,"10 km SW of Chelan Falls, Washington",earthquake,0.26,0.82,0.2406007305877158,11,reviewed,uw,uw
