@@ -10,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T19:19:26.870Z,38.7926674,-122.8056641,3.59,0.27,md,11,118,0.004786,0.02,nc,nc73867495,2023-04-05T19:21:01.254Z,"5km WNW of The Geysers, CA",earthquake,0.55,1.32,0.03,11,automatic,nc,nc
 2023-04-05T19:18:29.267Z,61.4342,-147.3051,8.4,2.3,ml,,,,0.88,ak,ak0234dfh4jy,2023-04-05T19:20:33.091Z,"45 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-05T19:02:00.470Z,19.1805000305176,-155.480163574219,30,2,md,35,77,,0.129999995,hv,hv73357297,2023-04-05T19:05:49.330Z,"2 km S of Pāhala, Hawaii",earthquake,0.57,1.02999997,1.80999994,10,automatic,hv,hv
+2023-04-05T18:57:15.580Z,58.239,-155.148833333333,4.01,-0.25,ml,8,115,,0.1,av,av91836056,2023-04-05T19:56:24.820Z,"85 km NNW of Karluk, Alaska",earthquake,0.27,0.65,0.17537032667497,9,reviewed,av,av
 2023-04-05T18:46:33.070Z,51.8586666666667,-178.095166666667,3.16,0.56,ml,5,213,,0.17,av,av91836031,2023-04-05T19:34:55.950Z,"100 km W of Adak, Alaska",earthquake,0.71,0.6,0.106850118471347,5,reviewed,av,av
 2023-04-05T18:39:10.940Z,38.7758331,-122.7213364,1.47,1.49,md,13,88,0.01412,0.03,nc,nc73867490,2023-04-05T19:45:12.218Z,"3km W of Anderson Springs, CA",earthquake,0.27,0.41,0.28,15,automatic,nc,nc
 2023-04-05T18:36:59.270Z,51.8601666666667,-178.0875,3.65,-0.12,ml,4,208,,0.13,av,av91836026,2023-04-05T19:32:45.300Z,"100 km W of Adak, Alaska",earthquake,0.47,0.53,0.150899896564231,4,reviewed,av,av
@@ -150,7 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T07:50:53.390Z,36.5415,-98.95983333,6.55,1.94,ml,78,51,0.04949028832,0.2,ok,ok2023gqiv,2023-04-05T13:05:05.852Z,"8 km WSW of Waynoka, Oklahoma",earthquake,,0.3,0.23,25,reviewed,ok,ok
 2023-04-05T07:50:03.820Z,39.4101677,-123.3366699,4.72,1.65,md,8,81,0.05875,0.07,nc,nc73867150,2023-04-05T09:50:14.557Z,"2km E of Willits, CA",earthquake,0.39,1.6,0.18,8,automatic,nc,nc
 2023-04-05T07:48:04.567Z,64.3666,-146.5438,10.1,1.2,ml,,,,0.56,ak,ak0234d8iavc,2023-04-05T07:50:21.903Z,"2 km ESE of Harding-Birch Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-04-05T07:41:16.700Z,36.5956667,-121.1975,7.06,1.71,md,35,99,0.02582,0.09,nc,nc73867145,2023-04-05T19:05:11.986Z,"9km NW of Pinnacles, CA",earthquake,0.25,0.42,0.233,33,reviewed,nc,nc
+2023-04-05T07:41:16.700Z,36.5956667,-121.1975,7.06,1.71,md,35,99,0.02582,0.09,nc,nc73867145,2023-04-05T19:55:12.277Z,"9km NW of Pinnacles, CA",earthquake,0.25,0.42,0.233,33,reviewed,nc,nc
 2023-04-05T07:31:34.550Z,38.8346672,-122.796669,1.56,0.32,md,8,76,0.006194,0.01,nc,nc73867140,2023-04-05T08:31:11.098Z,"6km WNW of Cobb, CA",earthquake,0.4,1.27,0.23,7,automatic,nc,nc
 2023-04-05T07:22:16.962Z,-12.8042,169.3885,642.931,4.3,mb,36,64,3.376,0.41,us,us6000k234,2023-04-05T08:12:51.040Z,"231 km ENE of Sola, Vanuatu",earthquake,12.65,7.62,0.049,119,reviewed,us,us
 2023-04-05T07:02:56.319Z,38.6335,-118.7871,11.3,1.6,ml,12,95.11,0.442,0.1481,nn,nn00857843,2023-04-05T16:58:00.574Z,"3 km WSW of Walker Lake, Nevada",earthquake,,1.2,0.19,7,reviewed,nn,nn
