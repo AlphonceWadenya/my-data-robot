@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-05T09:43:40.222Z,61.5823,-149.7257,32.1,1.4,ml,,,,0.79,ak,ak0234d9o692,2023-04-05T09:45:45.664Z,"7 km SE of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-05T09:35:17.650Z,33.3311667,-116.3726667,13.58,0.7,ml,16,170,0.07302,0.19,ci,ci39509882,2023-04-05T09:38:51.610Z,"8km N of Borrego Springs, CA",earthquake,0.57,0.89,0.169,8,automatic,ci,ci
 2023-04-05T09:34:43.000Z,61.3474,-146.7414,24.2,1.5,ml,,,,0.75,ak,ak02317oo6his,2023-04-05T09:36:47.676Z,"32 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-05T09:34:21.478Z,60.6747,-152.7603,13,1.4,ml,,,,0.16,ak,ak0234d9m6my,2023-04-05T09:36:37.543Z,"79 km W of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
