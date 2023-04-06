@@ -320,4 +320,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T06:55:02.685Z,59.1686,-152.5344,69.8,1.8,ml,,,,0.37,ak,ak0234d7yd4s,2023-04-05T06:56:49.011Z,"40 km WSW of Nanwalek, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-04-05T06:44:35.270Z,38.8186667,-122.8218333,2.19,0.17,md,18,49,0.01033,0.03,nc,nc73867130,2023-04-05T18:26:11.746Z,"7km NW of The Geysers, CA",earthquake,0.21,0.54,0.364,19,reviewed,nc,nc
 2023-04-05T06:43:28.460Z,34.961,-118.6045,4.41,1.03,ml,19,58,0.07187,0.14,ci,ci39509810,2023-04-05T14:32:09.379Z,"21km N of Neenach, CA",earthquake,0.2,0.63,0.077,6,reviewed,ci,ci
-2023-04-05T06:30:14.115Z,57.0232,-155.2454,5.9,1.9,ml,,,,0.66,ak,ak0234d7t17s,2023-04-05T06:33:07.072Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
