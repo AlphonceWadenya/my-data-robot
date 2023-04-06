@@ -311,4 +311,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T08:55:25.310Z,38.7900009,-122.7593307,1.92,0.75,md,12,69,0.01061,0.02,nc,nc73867175,2023-04-05T09:12:15.326Z,"1km N of The Geysers, CA",earthquake,0.26,0.67,0.08,11,automatic,nc,nc
 2023-04-05T08:40:51.150Z,46.85783333333333,-121.74083333333333,-2.07,0.34,ml,16,77,0.01426,0.07,uw,uw61916226,2023-04-05T18:11:09.910Z,"24 km ENE of Ashford, Washington",earthquake,0.17,0.29,0.17548470844214115,6,reviewed,uw,uw
 2023-04-05T08:40:35.180Z,46.8595,-121.7405,-1.17,0.35000000000000003,ml,18,77,0.01265,0.08,uw,uw61916221,2023-04-05T18:04:18.110Z,"24 km ENE of Ashford, Washington",earthquake,0.23,0.9,0.12319834109791755,7,reviewed,uw,uw
-2023-04-05T08:30:13.820Z,36.5365,-98.96433333,7.18,1.84,ml,29,76,0.04589099462,0.12,ok,ok2023gqkb,2023-04-05T13:51:00.751Z,"9 km SW of Waynoka, Oklahoma",earthquake,,0.3,0.21,7,reviewed,ok,ok
