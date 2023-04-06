@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-06T03:37:03.790Z,38.8246651,-122.7983322,2.93,1.09,md,25,43,0.009259,0.02,nc,nc73867795,2023-04-06T03:38:40.748Z,"6km NW of The Geysers, CA",earthquake,0.21,0.44,0.17,26,automatic,nc,nc
 2023-04-06T03:21:21.413Z,60.2003,-151.2023,22.1,1.7,ml,,,,0.48,ak,ak0234eti5wt,2023-04-06T03:23:02.273Z,"11 km ESE of Clam Gulch, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-06T03:00:49.715Z,56.8332,-157.9124,2.4,3.5,ml,,,,0.42,ak,ak0234etdq4d,2023-04-06T03:10:33.040Z,"Alaska Peninsula",earthquake,,0.2,,,automatic,ak,ak
 2023-04-06T02:57:52.320Z,38.8058319,-122.815834,2.89,1.25,md,29,60,0.01086,0.03,nc,nc73867775,2023-04-06T03:23:20.039Z,"6km WNW of The Geysers, CA",earthquake,0.22,0.41,0.18,28,automatic,nc,nc
@@ -323,5 +324,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T03:40:12.140Z,44.7611667,-111.2116667,10.31,0.15,md,7,220,0.01513,0.18,uu,uu60033079,2023-04-05T15:40:05.870Z,"1 km WSW of Hebgen Lake Estates, Montana",earthquake,0.98,1.44,0.763,2,reviewed,uu,uu
 2023-04-05T03:40:00.720Z,38.7886667,-122.7765,0.12,0.03,md,13,82,0.009996,0.03,nc,nc73867065,2023-04-06T00:06:10.761Z,"2km NW of The Geysers, CA",earthquake,0.18,0.55,0.273,12,reviewed,nc,nc
 2023-04-05T03:39:53.830Z,44.7661667,-111.2166667,10.22,0.56,md,9,178,0.02118,0.16,uu,uu60536391,2023-04-05T15:26:12.240Z,"2 km W of Hebgen Lake Estates, Montana",earthquake,0.74,1.06,0.119,8,reviewed,uu,uu
-2023-04-05T03:37:40.570Z,38.748,-122.6973333,1.44,0.61,md,12,140,0.01328,0.03,nc,nc73867055,2023-04-05T12:38:11.588Z,"3km S of Anderson Springs, CA",earthquake,0.26,0.37,0.154,8,reviewed,nc,nc
-2023-04-05T03:33:42.520Z,38.8186667,-122.8221667,2.37,0.38,md,20,50,0.01056,0.03,nc,nc73867050,2023-04-05T19:20:12.079Z,"7km NW of The Geysers, CA",earthquake,0.19,0.45,0.275,19,reviewed,nc,nc
