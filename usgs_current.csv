@@ -61,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T10:03:37.036Z,12.2567,-88.0043,42.753,4.6,mb,58,129,1.055,1.14,us,us6000k2c2,2023-04-06T10:22:47.040Z,"off the coast of Central America",earthquake,8.01,9.654,0.048,127,reviewed,us,us
 2023-04-06T09:47:14.310Z,35.79316667,-96.98133333,6.68,1.49,ml,91,30,0.1790648614,0.16,ok,ok2023gsie,2023-04-06T15:39:11.460Z,"3 km ESE of Carney, Oklahoma",earthquake,,0.4,0.18,48,reviewed,ok,ok
 2023-04-06T09:33:44.785Z,62.0371,-147.7497,26.6,1.7,ml,,,,0.79,ak,ak0234ex5dxq,2023-04-06T09:35:38.900Z,"26 km N of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-04-06T09:33:02.409Z,39.0676,-97.5878,5,3.2,mb_lg,31,66,0.762,0.66,us,us6000k2bu,2023-04-06T17:42:09.108Z,"4 km N of Bennington, Kansas",earthquake,2.1,1.981,0.043,141,reviewed,us,us
+2023-04-06T09:33:02.409Z,39.0676,-97.5878,5,3.2,mb_lg,31,66,0.762,0.66,us,us6000k2bu,2023-04-06T17:50:55.045Z,"4 km N of Bennington, Kansas",earthquake,2.1,1.981,0.043,141,reviewed,us,us
 2023-04-06T09:28:24.121Z,60.1981,-152.4865,94,1.6,ml,,,,0.46,ak,ak0234ex49rg,2023-04-06T09:31:07.566Z,"48 km WNW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-04-06T09:23:55.509Z,35.79266667,-96.9805,6.99,1.26,ml,57,40,0.1799646848,0.14,ok,ok2023gshk,2023-04-06T15:55:07.964Z,"3 km ESE of Carney, Oklahoma",earthquake,,0.3,0.12,5,reviewed,ok,ok
 2023-04-06T09:21:34.390Z,34.0241667,-117.5991667,3.15,0.78,ml,14,109,0.03679,0.2,ci,ci39510490,2023-04-06T09:25:04.834Z,"4km SE of Ontario, CA",earthquake,0.29,0.36,0.106,15,automatic,ci,ci
@@ -162,7 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T01:01:39.180Z,33.5993333,-116.8168333,13.04,0.49,ml,17,149,0.04437,0.11,ci,ci39510234,2023-04-06T14:46:53.439Z,"14km WNW of Anza, CA",earthquake,0.33,0.48,0.147,12,reviewed,ci,ci
 2023-04-06T00:58:23.730Z,19.1630001068115,-155.492492675781,33.6199989318848,1.95000005,md,24,158,,0.150000006,hv,hv73357432,2023-04-06T01:01:42.500Z,"Island of Hawaii, Hawaii",earthquake,0.9,1.09000003,0.649999976,7,automatic,hv,hv
 2023-04-06T00:57:44.927Z,37.6963,35.5231,12.994,4.2,mb,21,146,0.663,0.87,us,us6000k29p,2023-04-06T02:31:47.040Z,"19 km NE of Aladağ, Turkey",earthquake,3.58,6.619,0.264,4,reviewed,us,us
-2023-04-06T00:56:41.290Z,39.5951,-120.0173,8.3,0.1,ml,4,200.06,0.045,0.0835,nn,nn00857889,2023-04-06T17:29:12.877Z,"7 km N of Verdi, California",earthquake,,2.5,0.38,2,reviewed,nn,nn
+2023-04-06T00:56:41.290Z,39.5951,-120.0173,8.3,0.1,ml,4,200.06,0.045,0.0835,nn,nn00857889,2023-04-06T17:29:12.877Z,"Northern California",earthquake,,2.5,0.38,2,reviewed,nn,nn
 2023-04-06T00:56:35.790Z,51.8606666666667,-178.091333333333,4.1,0.24,ml,4,210,,0.11,av,av91836556,2023-04-06T02:44:51.640Z,"100 km W of Adak, Alaska",earthquake,0.58,0.97,0.194689252386367,4,reviewed,av,av
 2023-04-06T00:53:20.920Z,51.8598333333333,-178.087833333333,4.19,0.11,ml,4,208,,0.13,av,av91836551,2023-04-06T02:41:50.850Z,"100 km W of Adak, Alaska",earthquake,0.73,1,0.306117537638305,4,reviewed,av,av
 2023-04-06T00:50:29.310Z,44.6363333,-110.3498333,4.59,1.19,md,11,90,0.0846,0.09,uu,uu60536461,2023-04-06T13:16:06.890Z,"46 km SE of Mammoth, Wyoming",earthquake,0.28,0.66,0.248,6,reviewed,uu,uu
@@ -287,4 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T18:15:00.915Z,64.8074,-149.4181,2.8,2,ml,,,,0.6,ak,ak0234deuums,2023-04-05T18:18:12.581Z,"26 km NNW of Four Mile Road, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-05T18:08:55.085Z,62.5776,-150.8278,74.9,1.4,ml,,,,0.71,ak,ak0234detls4,2023-04-05T18:10:55.905Z,"9 km NNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-05T18:03:44.790Z,46.17516666666667,-121.41233333333334,9.68,1.1300000000000001,ml,17,255,0.1334,0.17,uw,uw61916301,2023-04-06T17:13:22.130Z,"21 km NNE of Trout Lake, Washington",earthquake,0.89,1.54,0.24739997889042453,9,reviewed,uw,uw
-2023-04-05T17:52:24.692Z,62.0058,-147.3329,19.7,1.5,ml,,,,0.75,ak,ak0234dehjc5,2023-04-05T17:55:17.884Z,"11 km NW of Eureka Roadhouse, Alaska",earthquake,,0.7,,,automatic,ak,ak
