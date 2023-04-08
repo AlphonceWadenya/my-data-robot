@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-08T08:23:38.650Z,39.0238342,-122.1403351,1.66,2.04,md,9,167,0.199,0.13,nc,nc73869150,2023-04-08T08:25:15.021Z,"7km W of Arbuckle, CA",earthquake,0.59,10.49,0.25,11,automatic,nc,nc
+2023-04-08T08:31:22.530Z,38.7420006,-122.7061691,-0.74,1.33,md,7,144,0.02442,0.04,nc,nc73869155,2023-04-08T08:33:01.040Z,"4km SSW of Anderson Springs, CA",earthquake,0.61,1.69,0.36,7,automatic,nc,nc
+2023-04-08T08:31:22.020Z,19.4071674346924,-155.273666381836,4.88000011444092,2.33999991,md,26,77,,0.289999992,hv,hv73359062,2023-04-08T08:34:25.300Z,"5 km SW of Volcano, Hawaii",earthquake,0.45,0.649999976,1.05999994,12,automatic,hv,hv
+2023-04-08T08:23:38.650Z,39.0238342,-122.1403351,1.66,2.04,md,9,167,0.199,0.13,nc,nc73869150,2023-04-08T08:30:11.203Z,"7km W of Arbuckle, CA",earthquake,0.59,10.49,0.25,11,automatic,nc,nc
 2023-04-08T08:15:07.060Z,19.2455005645752,-155.40283203125,32.3699989318848,1.83000004,md,38,132,,0.109999999,hv,hv73359017,2023-04-08T08:18:14.600Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.53,0.839999974,0.680000007,13,automatic,hv,hv
 2023-04-08T08:10:45.090Z,19.2361660003662,-155.404998779297,31.6800003051758,1.83000004,md,39,135,,0.129999995,hv,hv73359002,2023-04-08T08:14:01.030Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.65,0.949999988,0.839999974,11,automatic,hv,hv
 2023-04-08T08:09:25.950Z,19.4156665802002,-155.273330688477,7.80999994277954,1.75999999,md,22,83,,0.159999996,hv,hv73358997,2023-04-08T08:12:32.950Z,"Island of Hawaii, Hawaii",earthquake,0.36,0.449999988,1.03999996,10,automatic,hv,hv
@@ -280,6 +282,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T08:45:28.211Z,60.5828,-146.8808,13.3,2.5,ml,,,,0.58,ak,ak0234gk5u5r,2023-04-08T04:26:08.040Z,"33 km SSW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-07T08:38:27.900Z,37.461,-118.8435,3.12,0.76,md,9,327,0.1293,0.03,nc,nc73868495,2023-04-07T11:46:14.795Z,"18km SW of Toms Place, CA",earthquake,1.37,2.54,0.204,9,reviewed,nc,nc
 2023-04-07T08:38:04.905Z,56.9271,-158.1488,0,2,ml,,,,0.56,ak,ak0234gk4abu,2023-04-07T18:51:44.070Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
-2023-04-07T08:33:22.970Z,58.1866666666667,-155.285,2.44,0.43,ml,8,148,,0.07,av,av91838341,2023-04-07T22:16:38.810Z,"84 km NW of Karluk, Alaska",earthquake,0.32,0.55,0.305037805218131,8,reviewed,av,av
-2023-04-07T08:29:56.497Z,60.6807,-152.4173,105.1,1.7,ml,,,,0.34,ak,ak0234gk2gv5,2023-04-07T08:32:03.249Z,"60 km W of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-04-07T08:29:37.654Z,39.1205,40.4259,1.779,4.5,mb,44,62,0.898,0.78,us,us6000k2m4,2023-04-07T12:11:44.040Z,"26 km NNW of Bingöl, Turkey",earthquake,3.48,5.22,0.115,22,reviewed,us,us
