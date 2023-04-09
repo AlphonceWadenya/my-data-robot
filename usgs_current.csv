@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T07:35:00.430Z,38.8313332,-122.8161697,-0.82,0.61,md,7,96,0.009247,0.02,nc,nc73869135,2023-04-08T08:27:18.181Z,"8km NW of The Geysers, CA",earthquake,0.25,4.25,0.25,9,automatic,nc,nc
 2023-04-08T07:32:02.500Z,61.0646,-150.8246,52.5,1.1,ml,,,,0.42,ak,ak0234i70wqi,2023-04-08T07:33:49.058Z,"16 km ESE of Beluga, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-04-08T07:31:22.550Z,18.0003333333333,-66.8206666666667,14.37,2.09,md,7,174,0.06117,0.07,pr,pr71402918,2023-04-08T07:45:56.100Z,"0 km NNW of Indios, Puerto Rico",earthquake,0.42,0.69,0.0348692477900248,6,reviewed,pr,pr
-2023-04-08T07:25:35.710Z,46.891666666666666,-121.757,0.12,0.5,ml,12,176,0.02686,0.1,uw,uw61916731,2023-04-09T00:58:35.460Z,"Washington",earthquake,0.37,0.77,0.36547158539127417,7,reviewed,uw,uw
