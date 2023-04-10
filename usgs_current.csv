@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T17:49:55.848Z,57.7122,-155.8323,45,1.9,ml,,,,1.24,ak,ak0234lo5p28,2023-04-10T17:51:48.705Z,"Alaska Peninsula",earthquake,,2.5,,,automatic,ak,ak
 2023-04-10T17:46:30.454Z,58.1824,-155.3214,8.2,1,ml,,,,0.8,ak,ak0234lo4zzl,2023-04-10T17:49:15.190Z,"85 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-10T17:45:18.838Z,58.1916,-155.295,1.2,0.7,ml,,,,0.45,ak,ak0234lo4rbv,2023-04-10T17:47:04.959Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
-2023-04-10T17:37:40.870Z,38.8148346,-122.8191681,0.99,0.75,md,15,59,0.009831,0.02,nc,nc73870310,2023-04-10T17:50:10.886Z,"7km NW of The Geysers, CA",earthquake,0.23,0.58,0.11,15,automatic,nc,nc
+2023-04-10T17:37:40.870Z,38.8148346,-122.8191681,0.99,0.75,md,15,59,0.009831,0.02,nc,nc73870310,2023-04-10T17:54:11.907Z,"7km NW of The Geysers, CA",earthquake,0.23,0.58,0.11,15,automatic,nc,nc
 2023-04-10T17:34:18.526Z,62.1031,-150.8958,61.1,1.4,ml,,,,0.58,ak,ak0234lo2efw,2023-04-10T17:36:31.139Z,"29 km ENE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-10T17:29:17.495Z,63.1177,-150.4163,91.1,2.1,ml,,,,0.74,ak,ak0234lo1bp5,2023-04-10T17:31:11.728Z,"71 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-10T17:11:48.437Z,8.818,93.9091,10.067,4.7,mb,40,144,3.044,0.58,us,us6000k3b7,2023-04-10T17:40:51.040Z,"Nicobar Islands, India region",earthquake,9.78,5.651,0.102,29,reviewed,us,us
