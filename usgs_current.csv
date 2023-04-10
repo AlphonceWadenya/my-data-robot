@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-10T14:46:55.213Z,56.7204,-156.086,15,2.3,ml,,,,0.34,ak,ak0234lmcr1t,2023-04-10T14:48:24.750Z,"118 km SE of Ugashik, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-04-10T14:20:18.110Z,38.8348351,-122.8164978,1.52,0.32,md,7,111,0.01248,0.02,nc,nc73870250,2023-04-10T14:32:11.634Z,"8km W of Cobb, CA",earthquake,0.38,0.81,0.15,9,automatic,nc,nc
 2023-04-10T14:20:00.932Z,60.9344,-150.8596,58,1.9,ml,,,,0.77,ak,ak0234lm728t,2023-04-10T14:22:39.857Z,"9 km W of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-10T14:13:32.623Z,63.0827,-151.4836,7.6,1.3,ml,,,,0.68,ak,ak0234lm5mog,2023-04-10T14:16:10.209Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -264,4 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T15:01:46.330Z,19.1660003662109,-155.488998413086,31.6499996185303,2,md,33,111,,0.119999997,hv,hv73360102,2023-04-09T15:05:03.570Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.63,1.04999995,0.699999988,15,automatic,hv,hv
 2023-04-09T14:56:19.300Z,17.927,-66.9541666666667,15.23,2.35,md,9,230,0.08584,0.08,pr,pr71403258,2023-04-09T17:02:13.020Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.66,0.52,0.0928866225036673,8,reviewed,pr,pr
 2023-04-09T14:54:24.590Z,17.9576666666667,-66.9551666666667,13.72,2.59,md,17,189,0.07429,0.2,pr,pr71403243,2023-04-09T15:58:06.040Z,"Puerto Rico region",earthquake,0.71,0.39,0.103656029011319,8,reviewed,pr,pr
-2023-04-09T14:49:08.250Z,38.0593338,-122.2419968,8.01,1.62,md,27,53,0.02114,0.12,nc,nc73869800,2023-04-09T15:22:14.182Z,"3km WNW of Crockett, CA",earthquake,0.3,0.56,0.15,21,automatic,nc,nc
