@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T06:34:58.610Z,33.3893333,-116.898,9.97,0.7,ml,26,40,0.112,0.26,ci,ci40439136,2023-04-10T06:38:37.224Z,"5km NW of Palomar Observatory, CA",earthquake,0.43,1.56,0.23,18,automatic,ci,ci
 2023-04-10T06:33:31.949Z,59.151,-153.0476,67.3,2.2,ml,,,,0.34,ak,ak0234lhig3u,2023-04-10T06:35:26.843Z,"68 km WSW of Nanwalek, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-04-10T06:27:00.590Z,33.1885,-116.0266667,4.48,0.78,ml,15,79,0.04367,0.22,ci,ci40439128,2023-04-10T06:30:39.871Z,"11km ENE of Ocotillo Wells, CA",earthquake,0.48,0.92,0.131,10,automatic,ci,ci
-2023-04-10T06:19:29.340Z,38.7638321,-122.7253342,3.14,1.17,md,13,91,0.002266,0.02,nc,nc73870160,2023-04-10T06:41:20.711Z,"3km ESE of The Geysers, CA",earthquake,0.51,0.84,0.16,13,automatic,nc,nc
+2023-04-10T06:19:29.340Z,38.7638321,-122.7253342,3.14,1.17,md,13,91,0.002266,0.02,nc,nc73870160,2023-04-10T07:32:11.014Z,"3km ESE of The Geysers, CA",earthquake,0.51,0.84,0.16,13,automatic,nc,nc
 2023-04-10T06:14:48.753Z,32.26226807,-101.9327601,8.925984701,3.6,ml,31,62,0.03872593918,0.1,tx,tx2023gzjd,2023-04-10T07:11:04.022Z,"20 km NW of Stanton, Texas",earthquake,0.5775057391,0.9353123041,0.1,15,reviewed,tx,tx
 2023-04-10T06:09:45.900Z,35.9985,-117.3483333,4.14,1.79,ml,14,106,0.1196,0.18,ci,ci40439120,2023-04-10T06:13:25.696Z,"26km N of Searles Valley, CA",earthquake,0.57,1.51,0.085,11,automatic,ci,ci
 2023-04-10T06:09:28.310Z,38.760334,-122.7286682,2.5,2.44,md,58,38,0.003231,0.06,nc,nc73870150,2023-04-10T07:05:11.840Z,"3km SE of The Geysers, CA",earthquake,0.16,0.28,0.18,71,automatic,nc,nc
