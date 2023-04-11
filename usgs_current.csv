@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-11T13:35:27.840Z,34.4506683,-116.510498,6.98,1.53,ml,44,48,0.1193,0.21,ci,ci40439600,2023-04-11T13:37:34.045Z,"37km NE of Big Bear City, CA",earthquake,0.27,0.99,0.225,9,automatic,ci,ci
+2023-04-11T13:37:44.646Z,64.8231,-147.6741,14.5,0.6,ml,,,,0.23,ak,ak0234n98pog,2023-04-11T13:39:34.606Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-11T13:35:27.810Z,34.451,-116.5113333,8.7,1.54,ml,24,65,0.119,0.21,ci,ci40439600,2023-04-11T13:41:18.567Z,"37km NE of Big Bear City, CA",earthquake,0.37,1.15,0.154,26,automatic,ci,ci
 2023-04-11T13:25:49.822Z,59.0629,-151.1926,32.2,1.7,ml,,,,0.28,ak,ak0234n965hi,2023-04-11T13:27:19.363Z,"48 km SE of Port Graham, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-11T13:08:28.456Z,60.5331,-151.9427,81.9,2.4,ml,,,,0.32,ak,ak0234n92gnx,2023-04-11T13:10:15.263Z,"35 km WSW of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-11T13:06:08.438Z,62.376,-149.0675,45.5,2.8,ml,,,,0.84,ak,ak0234n91zpf,2023-04-11T13:07:20.057Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -152,6 +153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T22:22:33.690Z,38.4923333,-112.8355,0.09,0.26,md,9,119,0.02668,0.06,uu,uu60536721,2023-04-10T22:59:16.770Z,"18 km NE of Milford, Utah",earthquake,0.33,31.61,0.258,3,reviewed,uu,uu
 2023-04-10T22:21:40.270Z,38.4908333,-112.84,-1.11,2.13,ml,23,76,0.01181,0.17,uu,uu60536706,2023-04-10T22:45:50.700Z,"18 km NE of Milford, Utah",earthquake,0.25,0.21,0.177,11,reviewed,uu,uu
 2023-04-10T22:20:57.300Z,38.4908333,-112.8375,0.06,1.16,ml,10,100,0.01377,0.07,uu,uu60536701,2023-04-10T22:48:57.380Z,"18 km NE of Milford, Utah",earthquake,0.44,31.61,0.152,2,reviewed,uu,uu
+2023-04-10T22:20:16.440Z,38.4916667,-112.8346667,-0.3,1.77,ml,12,103,0.01605,0.11,uu,uu60033104,2023-04-11T13:38:42.000Z,"18 km NE of Milford, Utah",earthquake,0.26,0.14,0.188,2,reviewed,uu,uu
 2023-04-10T22:20:04.060Z,38.4921667,-112.8368333,0.29,0.89,ml,10,103,0.01442,0.07,uu,uu60536691,2023-04-11T13:29:50.920Z,"Utah",earthquake,0.23,1.33,0.172,2,reviewed,uu,uu
 2023-04-10T22:18:14.862Z,60.0399,-150.3574,16.5,2,ml,,,,1.03,ak,ak0234lqy4ni,2023-04-10T22:20:04.007Z,"39 km ENE of Fox River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-10T22:17:02.500Z,51.857,-178.056166666667,-1.8,1.52,ml,4,170,,0.22,av,av91843436,2023-04-10T23:14:36.810Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.62,1.47,0.286839415180637,4,reviewed,av,av
@@ -185,7 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T20:16:09.740Z,32.7636667,-116.9348333,-0.34,1.16,ml,21,125,0.0287,0.32,ci,ci40439376,2023-04-10T23:58:17.473Z,"2km N of Rancho San Diego, CA",quarry blast,0.78,31.61,0.069,8,reviewed,ci,ci
 2023-04-10T20:15:47.810Z,51.856,-178.05,-1.8,1.3,ml,5,160,,0.14,av,av91843291,2023-04-10T21:59:38.670Z,"97 km W of Adak, Alaska",earthquake,0.39,1.06,0.199338449262843,5,reviewed,av,av
 2023-04-10T20:12:02.240Z,51.8583333333333,-178.059666666667,-1.8,1.37,ml,4,174,,0.12,av,av91843286,2023-04-10T21:56:05.740Z,"98 km W of Adak, Alaska",earthquake,0.41,1.24,0.250514875867086,4,reviewed,av,av
-2023-04-10T20:10:28.890Z,51.8516666666667,-178.064833333333,2.67,2.58,ml,7,121,,0.16,av,av91843281,2023-04-10T21:52:48.820Z,"98 km W of Adak, Alaska",earthquake,0.4,0.56,0.278777432242072,7,reviewed,av,av
+2023-04-10T20:10:29.061Z,51.8581,-178.0582,3.191,2.9,ml,12,104,0.027,0.82,us,us6000k3cz,2023-04-11T13:39:55.040Z,"98 km W of Adak, Alaska",earthquake,1.18,3.31,0.115,10,reviewed,us,us
 2023-04-10T20:01:47.170Z,62.1842,-149.3804,18.3,1.4,ml,,,,0.36,ak,ak0234lpnou5,2023-04-10T20:03:29.793Z,"24 km E of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-10T19:58:37.250Z,53.8775,-166.593666666667,5.71,0.84,ml,18,113,,0.12,av,av91843266,2023-04-10T21:48:37.340Z,"3 km WSW of Dutch Harbor, Alaska",earthquake,0.34,0.54,0.237066306105595,18,reviewed,av,av
 2023-04-10T19:57:13.990Z,51.8613333333333,-178.049333333333,-1.8,1.6,ml,5,154,,0.12,av,av91843261,2023-04-10T21:44:08.250Z,"97 km W of Adak, Alaska",earthquake,0.45,0.97,0.373777170406916,5,reviewed,av,av
@@ -310,6 +312,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T13:56:09.770Z,62.7369,-149.0354,46.8,2.5,ml,,,,0.74,ak,ak0234lltd1z,2023-04-10T13:58:01.331Z,"63 km ENE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-10T13:52:53.040Z,33.589,-116.6115,13.14,0.97,ml,30,41,0.01585,0.15,ci,ci40439264,2023-04-10T15:07:39.820Z,"7km ENE of Anza, CA",earthquake,0.25,0.37,0.184,27,reviewed,ci,ci
 2023-04-10T13:51:24.146Z,63.0234,-150.4581,104.5,1.7,ml,,,,0.31,ak,ak0234llsbmm,2023-04-10T13:58:03.990Z,"Central Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-04-10T13:41:36.840Z,33.1655,-115.6293333,5.45,1.25,ml,25,56,0.01657,0.16,ci,ci40439256,2023-04-10T21:46:09.706Z,"12km WNW of Calipatria, CA",earthquake,0.34,0.31,0.321,18,reviewed,ci,ci
-2023-04-10T13:39:10.141Z,51.8494,-178.0233,4.7,2,ml,,,,0.41,ak,ak0234llppzq,2023-04-11T01:58:08.470Z,"95 km W of Adak, Alaska",earthquake,,0.1,,,reviewed,ak,ak
-2023-04-10T13:39:01.170Z,33.042,-116.3951667,6.28,0.69,ml,14,100,0.05045,0.11,ci,ci40439248,2023-04-10T23:46:13.393Z,"20km ESE of Julian, CA",earthquake,0.23,0.6,0.194,5,reviewed,ci,ci
