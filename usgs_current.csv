@@ -366,5 +366,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T11:07:59.296Z,64.8712,-148.9401,17.5,1,ml,,,,0.32,ak,ak0234n7vg49,2023-04-11T11:09:58.239Z,"31 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-11T10:53:37.990Z,36.5376667,-121.1188333,9.17,1.12,md,26,104,0.02155,0.09,nc,nc73870675,2023-04-11T15:59:15.859Z,"2km ENE of Pinnacles, CA",earthquake,0.23,0.37,0.253,22,reviewed,nc,nc
 2023-04-11T10:53:27.380Z,19.2441673278809,-155.403671264648,31.8999996185303,2,md,34,150,,0.119999997,hv,hv73361297,2023-04-11T10:56:45.120Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.64,0.930000007,0.629999995,11,automatic,hv,hv
-2023-04-11T10:48:50.240Z,38.7928352,-122.7321701,1.24,0.76,md,6,130,0.01022,0.02,nc,nc73870670,2023-04-11T11:55:11.400Z,"3km NE of The Geysers, CA",earthquake,0.41,1.24,0.04,7,automatic,nc,nc
-2023-04-11T10:47:36.759Z,57.3383,-156.4858,90.5,2.6,ml,,,,0.3,ak,ak0234n7ijek,2023-04-11T10:49:27.502Z,"58 km ESE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
