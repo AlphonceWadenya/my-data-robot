@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-12T23:48:19.170Z,38.8289986,-122.7961655,1.25,0.77,md,14,55,0.01044,0.02,nc,nc73872725,2023-04-12T23:49:55.934Z,"6km W of Cobb, CA",earthquake,0.25,0.72,0.2,15,automatic,nc,nc
 2023-04-12T23:46:39.930Z,38.7898331,-122.7661667,2.75,0.94,md,13,89,0.0119,0.02,nc,nc73872720,2023-04-12T23:48:15.717Z,"2km NNW of The Geysers, CA",earthquake,0.44,0.84,0.16,12,automatic,nc,nc
-2023-04-12T23:38:02.400Z,38.8241653,-122.8016663,2.58,0.79,md,16,48,0.006612,0.01,nc,nc73872715,2023-04-12T23:39:40.794Z,"6km NW of The Geysers, CA",earthquake,0.3,0.93,0.15,16,automatic,nc,nc
+2023-04-12T23:38:02.400Z,38.8241653,-122.8016663,2.58,0.79,md,16,48,0.006612,0.01,nc,nc73872715,2023-04-12T23:54:10.773Z,"6km NW of The Geysers, CA",earthquake,0.3,0.93,0.15,16,automatic,nc,nc
 2023-04-12T23:31:35.080Z,37.4886665,-121.8186646,5.54,1.88,md,21,99,0.04093,0.04,nc,nc73872710,2023-04-12T23:48:11.735Z,"10km NE of Milpitas, CA",earthquake,0.23,0.39,0.13,16,automatic,nc,nc
 2023-04-12T23:30:55.340Z,19.1678333282471,-155.505493164062,30.5799999237061,2.28,ml,34,114,,0.100000001,hv,hv73362187,2023-04-12T23:36:26.830Z,"4 km SW of Pāhala, Hawaii",earthquake,0.59,0.939999998,3.66,6,automatic,hv,hv
 2023-04-12T23:28:23.920Z,38.8260002,-122.8099976,0.61,0.25,md,8,71,0.002602,0.02,nc,nc73872705,2023-04-12T23:40:10.688Z,"7km NW of The Geysers, CA",earthquake,0.31,0.82,0.16,8,automatic,nc,nc
@@ -379,7 +379,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T03:43:06.870Z,34.1516667,-117.3503333,9.82,2.14,ml,105,25,0.04821,0.16,ci,ci40439904,2023-04-12T15:52:25.395Z,"1km WSW of Muscoy, CA",earthquake,0.1,0.22,0.126,89,reviewed,ci,ci
 2023-04-12T03:42:00.542Z,37.528,-117.9208,1.1,0.8,ml,4,233.53,0.367,0.1022,nn,nn00858132,2023-04-12T20:14:12.789Z,"20 km SE of Dyer, Nevada",earthquake,,15.2,0.37,3,reviewed,nn,nn
 2023-04-12T03:35:39.390Z,37.4281667,-113.1265,11.32,2.76,ml,18,79,0.07194,0.23,uu,uu60536881,2023-04-12T13:20:16.365Z,"Utah",earthquake,0.47,0.74,0.306,18,reviewed,uu,uu
-2023-04-12T03:28:15.374Z,69.6126,-144.2188,8.8,2.5,ml,,,,0.74,ak,ak0234oqrqf5,2023-04-12T03:34:23.787Z,"62 km SSW of Kaktovik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-04-12T03:28:15.374Z,69.6126,-144.2188,8.8,2.5,ml,,,,0.74,ak,ak0234oqrqf5,2023-04-12T23:54:00.040Z,"62 km SSW of Kaktovik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-12T03:23:39.820Z,33.0543333,-116.3928333,13.28,0.91,ml,41,75,0.04445,0.2,ci,ci40439896,2023-04-12T15:15:12.287Z,"20km E of Julian, CA",earthquake,0.24,0.63,0.103,11,reviewed,ci,ci
 2023-04-12T03:23:26.720Z,38.7900009,-122.7321701,0.8,0.45,md,6,120,0.007635,0.01,nc,nc73871115,2023-04-12T04:30:16.586Z,"2km NE of The Geysers, CA",earthquake,0.34,2.21,0.28,7,automatic,nc,nc
 2023-04-12T03:16:52.160Z,61.2966666666667,-152.335666666667,2.38,-0.23,ml,7,159,,0.19,av,av91845021,2023-04-12T22:22:14.020Z,"69 km WNW of Tyonek, Alaska",earthquake,0.61,2.99,0.143174127935153,7,reviewed,av,av
