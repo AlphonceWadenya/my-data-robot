@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-18T18:37:36.081Z,61.8573,-150.9714,69.2,1.8,ml,,,,0.18,ak,ak0234ywzai0,2023-04-18T18:39:02.189Z,"26 km ESE of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-04-18T18:37:15.490Z,38.8318329,-122.8153305,1.74,0.92,md,19,67,0.009373,0.02,nc,nc73875185,2023-04-18T18:38:50.200Z,"8km NW of The Geysers, CA",earthquake,0.22,0.53,0.21,19,automatic,nc,nc
 2023-04-18T18:16:30.199Z,61.1322,-147.327,11.4,1.6,ml,,,,0.72,ak,ak0234ywus0b,2023-04-18T18:18:13.598Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-18T17:53:19.468Z,63.6161,-149.8748,136.2,1.3,ml,,,,0.57,ak,ak0234ywh9bv,2023-04-18T18:22:26.991Z,"49 km WSW of Denali Park, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-04-18T17:49:12.790Z,33.8351667,-117.6501667,3.86,0.95,ml,14,172,0.05246,0.12,ci,ci40442392,2023-04-18T18:32:06.227Z,"8km WSW of Corona, CA",earthquake,0.33,0.53,0.078,6,reviewed,ci,ci
