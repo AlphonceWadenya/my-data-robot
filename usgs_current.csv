@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-18T17:23:53.310Z,36.6759987,-121.3330002,5.2,2.86,md,55,49,0.03322,0.26,nc,nc73875160,2023-04-18T17:29:39.343Z,"13km S of Tres Pinos, CA",earthquake,0.34,0.88,0.09,72,automatic,nc,nc
+2023-04-18T17:23:53.310Z,36.6759987,-121.3330002,5.2,2.86,md,55,49,0.03322,0.26,nc,nc73875160,2023-04-18T17:33:12.151Z,"13km S of Tres Pinos, CA",earthquake,0.34,0.88,0.09,72,automatic,nc,nc
 2023-04-18T17:10:01.837Z,61.4143,-152.2742,5.5,0.5,ml,,,,0.29,ak,ak0234yw7zx3,2023-04-18T17:11:25.668Z,"70 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-18T16:51:04.422Z,-7.504,156.086,71.662,4.9,mb,51,61,4.276,0.58,us,us6000k5c8,2023-04-18T17:22:49.040Z,"106 km NW of Gizo, Solomon Islands",earthquake,9.78,6.948,0.087,41,reviewed,us,us
 2023-04-18T16:44:51.884Z,18.063,145.4028,433.479,4.6,mb,103,120,4.478,0.81,us,us6000k5c7,2023-04-18T17:03:41.040Z,"Pagan region, Northern Mariana Islands",earthquake,11.81,8.632,0.038,207,reviewed,us,us
@@ -164,4 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T18:03:41.342Z,31.66461803,-104.288774,9.447900391,3.572780945,mlv,29,118,0.09596818792,0.3,tx,tx2023hnbc,2023-04-18T14:25:44.040Z,"57 km S of Whites City, New Mexico",earthquake,1.052166318,1.457032521,0.329402548,22,reviewed,tx,tx
 2023-04-17T18:01:05.800Z,33.0466667,-114.9533333,-0.2,1.25,ml,11,61,0.0771,0.22,ci,ci40441984,2023-04-18T00:16:03.343Z,"44km NNW of Los Algodones, B.C., MX",quarry blast,0.63,31.61,0.133,7,reviewed,ci,ci
 2023-04-17T17:44:38.500Z,38.8235016,-122.8031693,1.79,0.94,md,13,73,0.005395,0.05,nc,nc73874810,2023-04-17T18:04:14.074Z,"6km NW of The Geysers, CA",earthquake,0.29,0.54,0.24,16,automatic,nc,nc
-2023-04-17T17:37:42.190Z,38.8326683,-122.8178329,1.69,0.76,md,7,83,0.01107,0.01,nc,nc73874805,2023-04-17T17:54:14.007Z,"8km NW of The Geysers, CA",earthquake,0.5,1.01,0.4,6,automatic,nc,nc
