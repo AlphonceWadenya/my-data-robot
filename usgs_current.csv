@@ -68,6 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-21T15:25:00.100Z,37.5541667,-118.6461667,7.15,0.73,md,13,120,0.08611,0.04,nc,nc73876270,2023-04-21T20:26:14.355Z,"3km ESE of Toms Place, CA",earthquake,0.47,1.42,0.274,11,reviewed,nc,nc
 2023-04-21T15:24:31.688Z,60.137,-152.8458,105.5,1.5,ml,,,,0.72,ak,ak02353tq8io,2023-04-21T15:26:54.333Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-21T15:20:52.116Z,62.8583,-149.3969,11.4,1.4,ml,,,,0.77,ak,ak02353tpf8b,2023-04-21T15:23:18.855Z,"58 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-21T15:06:16.640Z,58.2421666666667,-155.154,4.74,0.23,ml,11,70,,0.16,av,av91856941,2023-04-21T22:45:52.090Z,"85 km NNW of Karluk, Alaska",earthquake,0.32,0.57,0.171985677874248,11,reviewed,av,av
 2023-04-21T15:02:52.475Z,-6.269,146.6152,54.492,5.2,mb,36,140,16.6,0.5,us,us6000k64v,2023-04-21T22:17:56.039Z,"65 km NW of Lae, Papua New Guinea",earthquake,9.64,7.082,0.061,88,reviewed,us,us
 2023-04-21T15:00:27.920Z,35.9671666666667,-84.6531666666667,13.24,2.5,md,24,68,0.4723,0.18,se,se60521426,2023-04-21T16:32:47.040Z,"9 km WSW of Oakdale, Tennessee",earthquake,0.33,1.63,0.0524780018372688,22,reviewed,se,se
 2023-04-21T14:56:32.892Z,31.56370808,-104.1605551,8.470996094,2.7,ml,23,69,0.03303049169,0.2,tx,tx2023hucx,2023-04-21T19:05:33.688Z,"44 km NW of Toyah, Texas",earthquake,0.8350955127000002,0.8568649458,0.1,19,reviewed,tx,tx
@@ -284,5 +285,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-20T22:55:41.070Z,33.7466667,-117.4985,8.69,0.43,ml,3,244,0.08348,0.01,ci,ci40443392,2023-04-20T23:35:39.746Z,"12km NE of Trabuco Canyon, CA",earthquake,0.47,1.1,0.073,2,reviewed,ci,ci
 2023-04-20T22:51:01.070Z,60.0588333333333,-153.068833333333,1.81,-0.87,ml,5,208,,0.1,av,av91856241,2023-04-21T03:36:54.000Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.89,0.71,0.407547224872243,5,reviewed,av,av
 2023-04-20T22:46:26.900Z,53.8783333333333,-166.554,4.16,0.26,ml,5,177,,0.05,av,av91856236,2023-04-21T03:34:08.210Z,"1 km WNW of Unalaska, Alaska",earthquake,0.42,0.93,0.19500232914192,5,reviewed,av,av
-2023-04-20T22:42:51.520Z,51.8541666666667,-178.053166666667,-1.8,0.59,ml,5,169,,0.14,av,av91856231,2023-04-21T03:31:31.540Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.46,1.08,0.473056832745623,5,reviewed,av,av
-2023-04-20T22:42:03.420Z,34.2061667,-117.4553333,2.49,1.33,ml,31,62,0.02679,0.17,ci,ci40443376,2023-04-20T23:45:39.179Z,"5km WSW of Devore, CA",earthquake,0.19,0.15,0.138,29,reviewed,ci,ci
