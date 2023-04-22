@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-22T15:43:51.530Z,19.2280006408691,-155.398330688477,30.6299991607666,1.97000003,md,35,143,,0.119999997,hv,hv73372597,2023-04-22T15:47:00.130Z,"Island of Hawaii, Hawaii",earthquake,0.54,0.720000029,0.579999983,14,automatic,hv,hv
 2023-04-22T15:32:29.257Z,62.8939,-149.3639,57.3,1.5,ml,,,,0.55,ak,ak02355hbajx,2023-04-22T15:34:15.720Z,"59 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-22T15:29:40.855Z,19.1111,-69.013,8.212,4,mb,18,116,0.843,0.56,us,us6000k6dv,2023-04-22T15:51:01.040Z,"Dominican Republic region",earthquake,2.63,8.095,0.366,2,reviewed,us,us
 2023-04-22T15:23:55.990Z,19.2476673126221,-155.388168334961,30.7900009155273,2.47,ml,44,137,,0.150000006,hv,hv73372572,2023-04-22T15:29:26.050Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.54,0.649999976,2.16,16,automatic,hv,hv
 2023-04-22T15:07:31.260Z,38.8148346,-122.8046646,1.77,0.76,md,10,87,0.009535,0.01,nc,nc73876595,2023-04-22T15:25:15.174Z,"6km NW of The Geysers, CA",earthquake,0.28,1.07,0.07,11,automatic,nc,nc
 2023-04-22T14:50:36.520Z,38.8286667,-122.800499,1.94,0.5,md,12,87,0.009146,0.03,nc,nc73876590,2023-04-22T15:08:14.066Z,"7km W of Cobb, CA",earthquake,0.34,0.78,0.3,11,automatic,nc,nc
