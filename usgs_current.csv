@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-25T18:40:28.540Z,38.8261681,-122.8181686,0.69,0.78,md,19,55,0.006903,0.02,nc,nc73877640,2023-04-25T18:42:03.082Z,"8km NW of The Geysers, CA",earthquake,0.17,0.44,0.16,20,automatic,nc,nc
 2023-04-25T18:18:33.800Z,38.8264999,-122.7868347,1.94,0.72,md,10,87,0.0122,0.02,nc,nc73877635,2023-04-25T18:34:11.171Z,"6km W of Cobb, CA",earthquake,0.54,1.28,0.15,11,automatic,nc,nc
 2023-04-25T18:17:30.525Z,59.9277,-151.9141,57.3,1.5,ml,,,,0.54,ak,ak0235ahmf7g,2023-04-25T18:18:59.778Z,"10 km WSW of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-04-25T18:01:43.659Z,64.4026,-147.22,13,1.1,ml,,,,0.55,ak,ak0235ahj0rh,2023-04-25T18:04:55.342Z,"20 km SW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
