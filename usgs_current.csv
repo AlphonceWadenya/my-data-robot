@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T20:22:17.320Z,51.8578333333333,-178.083833333333,3.83,1.04,ml,5,206,,0.14,av,av91863316,2023-04-25T21:21:22.460Z,"99 km W of Adak, Alaska",earthquake,0.71,0.42,0.225218070875106,5,reviewed,av,av
 2023-04-25T20:20:07.963Z,60.2794,-152.1289,85.4,1.4,ml,,,,0.2,ak,ak0235aitvto,2023-04-25T20:22:14.604Z,"36 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-25T20:18:43.957Z,62.8628,-148.1533,54.2,1.5,ml,,,,0.72,ak,ak0235aitj63,2023-04-25T20:20:46.920Z,"71 km SE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-04-25T20:18:17.980Z,32.7571667,-115.4208333,8.91,1.38,ml,10,156,0.05276,0.18,ci,ci40445552,2023-04-25T20:21:51.385Z,"7km SSW of Holtville, CA",earthquake,0.89,1.39,0.128,8,automatic,ci,ci
+2023-04-25T20:18:17.640Z,32.7515,-115.4263333,11.72,1.33,ml,12,158,0.05637,0.17,ci,ci40445552,2023-04-25T23:49:23.634Z,"8km SSW of Holtville, CA",earthquake,0.65,0.42,0.189,8,reviewed,ci,ci
 2023-04-25T20:12:43.300Z,44.8025,-110.8278333,4.81,1.58,ml,15,189,0.02148,0.16,uu,uu60538281,2023-04-25T20:58:01.250Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.56,0.45,0.218,4,reviewed,uu,uu
 2023-04-25T20:06:39.100Z,35.8036667,-117.5795,8.17,1.11,ml,20,79,0.01896,0.09,ci,ci40445536,2023-04-25T23:46:00.411Z,"16km WNW of Searles Valley, CA",earthquake,0.2,0.35,0.193,10,reviewed,ci,ci
 2023-04-25T20:01:30.158Z,38.6628,-119.758,8.7,1.4,ml,15,76.84,0.036,0.1207,nn,nn00858683,2023-04-25T22:38:50.464Z,"4 km SSE of Markleeville, California",earthquake,,1.1,1.08,4,reviewed,nn,nn
@@ -252,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T00:16:54.896Z,59.5142,-152.7204,77.5,1.6,ml,,,,0.67,ak,ak0235a6wghd,2023-04-25T00:19:30.837Z,"48 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-25T00:15:07.330Z,58.1918333333333,-155.272333333333,2.45,-0.69,ml,6,139,,0.06,av,av91862426,2023-04-25T19:35:42.400Z,"Alaska Peninsula",earthquake,0.33,0.58,0.18969579269986,6,reviewed,av,av
 2023-04-25T00:06:04.060Z,32.9141667,-115.5373333,9.33,1.56,ml,20,75,0.02339,0.27,ci,ci40445080,2023-04-25T15:04:27.087Z,"7km S of Brawley, CA",earthquake,0.45,0.61,0.283,14,reviewed,ci,ci
-2023-04-24T23:52:23.690Z,53.3856666666667,-168.223333333333,7.96,0.49,ml,4,272,,0.17,av,av91098198,2023-04-25T00:18:34.460Z,"65 km NE of Nikolski, Alaska",earthquake,1.07,1.5,0.490703206258138,4,reviewed,av,av
