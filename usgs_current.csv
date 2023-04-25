@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-24T10:47:07.860Z,33.3881667,-116.9,14.44,0.73,ml,22,62,0.04653,0.16,ci,ci40444784,2023-04-24T10:50:39.129Z,"5km NW of Palomar Observatory, CA",earthquake,0.35,0.58,0.155,19,automatic,ci,ci
 2023-04-24T10:40:54.600Z,38.1785,-112.883,5.79,1.43,ml,18,91,0.1161,0.11,uu,uu60538066,2023-04-24T16:17:33.650Z,"5 km SE of Minersville, Utah",earthquake,0.42,1.65,0.068,3,reviewed,uu,uu
 2023-04-24T10:39:44.280Z,33.6011667,-116.8011667,6.23,0.5,ml,14,83,0.03182,0.11,ci,ci40444776,2023-04-24T13:10:27.555Z,"13km WNW of Anza, CA",earthquake,0.28,0.5,0.311,8,reviewed,ci,ci
-2023-04-24T10:32:25.990Z,54.0276666666667,-166.172166666667,19.25,-0.35,ml,8,327,,0.11,av,av91098233,2023-04-25T02:20:14.050Z,"28 km WSW of Akutan, Alaska",earthquake,1.02,1.07,0.188642699652006,9,reviewed,av,av
