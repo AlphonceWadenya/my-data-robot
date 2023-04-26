@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-26T15:54:13.500Z,38.8079987,-122.8266678,1.12,0.92,md,13,66,0.002145,0.03,nc,nc73877980,2023-04-26T15:55:49.510Z,"7km WNW of The Geysers, CA",earthquake,0.26,0.53,0.19,13,automatic,nc,nc
 2023-04-26T15:45:19.895Z,59.4151,-152.4832,66.9,2.1,ml,,,,0.36,ak,ak0235c3jg45,2023-04-26T15:47:16.307Z,"32 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-26T15:42:27.060Z,19.4126663208008,-155.281829833984,0.839999973773956,1.76,ml,17,79,,0.129999995,hv,hv73377557,2023-04-26T15:47:57.320Z,"6 km WSW of Volcano, Hawaii",earthquake,0.25,0.189999998,0.34,6,automatic,hv,hv
 2023-04-26T15:37:02.320Z,61.3934,-151.7747,49,0.3,ml,,,,0.43,ak,ak0235c3hp14,2023-04-26T15:38:50.589Z,"46 km NW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -251,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T16:13:48.588Z,65.4386,-144.7756,0,1.5,ml,,,,1.07,ak,ak0235ageqiy,2023-04-25T16:16:03.089Z,"14 km S of Central, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-25T16:08:51.790Z,61.6725,-152.1405,11.33,0.41,ml,5,277,,0.09,av,av91863081,2023-04-26T02:57:08.890Z,"52 km SW of Skwentna, Alaska",earthquake,0.66,0.82,0.225026625027462,6,reviewed,av,av
 2023-04-25T16:07:09.670Z,33.3756667,-116.3908333,11.4,0.42,ml,15,158,0.1094,0.11,ci,ci40445424,2023-04-25T17:31:04.707Z,"13km N of Borrego Springs, CA",earthquake,0.39,0.87,0.09,6,reviewed,ci,ci
-2023-04-25T15:53:57.109Z,61.5051,-150.018,62.7,1.1,ml,,,,0.26,ak,ak0235ag1w7y,2023-04-25T15:55:48.010Z,"3 km WSW of Big Lake, Alaska",earthquake,,2,,,automatic,ak,ak
