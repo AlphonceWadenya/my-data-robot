@@ -1,10 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-26T22:52:57.939Z,64.5504,-149.0271,9,1.1,ml,,,,0.59,ak,ak0235c7r2ap,2023-04-26T22:54:58.383Z,"3 km ESE of Nenana, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-26T22:33:14.922Z,61.7902,-153.4655,17.1,0.5,ml,,,,0.73,ak,ak0235c7mwsa,2023-04-26T22:35:19.593Z,"110 km WSW of Skwentna, Alaska",earthquake,,6.5,,,automatic,ak,ak
 2023-04-26T22:27:47.071Z,44.4074,148.1191,72.632,4.2,mb,35,168,3.98,0.37,us,us7000jw54,2023-04-26T22:48:22.040Z,"93 km SSE of Kuril’sk, Russia",earthquake,11.55,9.727,0.108,24,reviewed,us,us
 2023-04-26T22:11:49.482Z,62.4916,-149.6721,3.7,1.3,ml,,,,0.66,ak,ak0235c7i9ac,2023-04-26T22:13:51.769Z,"22 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-26T22:07:25.457Z,62.8649,-150.6148,118.1,1.1,ml,,,,0.74,ak,ak0235c7hckh,2023-04-26T22:09:44.526Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-26T22:04:53.950Z,33.7538333,-117.1068333,-0.52,1.05,ml,34,88,0.04501,0.2,ci,ci40446024,2023-04-26T22:42:31.213Z,"3km WNW of Green Acres, CA",quarry blast,0.38,31.61,0.145,24,reviewed,ci,ci
 2023-04-26T21:28:39.980Z,19.3295001983643,-155.196502685547,2.90000009536743,1.85,ml,34,112,,0.230000004,hv,hv73377917,2023-04-26T21:34:11.850Z,"13 km SSE of Volcano, Hawaii",earthquake,0.55,1.35000002,0.25,8,automatic,hv,hv
+2023-04-26T21:26:34.300Z,60.0148333333333,-153.099333333333,0.59,-0.72,ml,5,121,,0.09,av,av91864751,2023-04-26T22:52:33.220Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.27,1.29,0.179343095548003,5,reviewed,av,av
+2023-04-26T21:25:16.620Z,39.3845,-120.4405,9.7,1,ml,10,195.26,0.301,0.1314,nn,nn00858744,2023-04-26T22:53:10.857Z,"Northern California",earthquake,,10.4,1.07,4,reviewed,nn,nn
 2023-04-26T20:59:30.760Z,19.4134998321533,-155.261169433594,1.11000001430511,1.85,ml,14,113,,0.159999996,hv,hv73377857,2023-04-26T21:05:01.120Z,"4 km SW of Volcano, Hawaii",earthquake,0.29,0.400000006,0.18,6,automatic,hv,hv
 2023-04-26T20:55:00.010Z,44.4578333,-110.6108333,3.91,1.29,md,7,192,0.02648,0.06,uu,uu60538386,2023-04-26T21:50:19.760Z,"45 km ESE of West Yellowstone, Montana",earthquake,0.63,0.42,0.487,4,reviewed,uu,uu
 2023-04-26T20:53:20.650Z,54.9496666666667,-162.248333333333,0.28,1.29,ml,9,250,,0.17,av,av91864736,2023-04-26T21:06:39.730Z,"13 km SSE of King Cove, Alaska",earthquake,0.75,2.2,0.250108091743649,8,reviewed,av,av
