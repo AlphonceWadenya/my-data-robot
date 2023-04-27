@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-27T09:35:09.490Z,38.824501,-122.786499,1.67,1.27,md,12,64,0.01211,0.02,nc,nc73880846,2023-04-27T09:36:45.605Z,"6km W of Cobb, CA",earthquake,0.37,0.56,0.23,13,automatic,nc,nc
+2023-04-27T09:35:09.490Z,38.824501,-122.786499,1.67,1.27,md,12,64,0.01211,0.02,nc,nc73880846,2023-04-27T09:48:10.406Z,"6km W of Cobb, CA",earthquake,0.37,0.56,0.23,13,automatic,nc,nc
 2023-04-27T09:26:30.218Z,61.5327,-150.0134,21.9,1.2,ml,,,,0.41,ak,ak0235dne565,2023-04-27T09:28:44.376Z,"3 km WNW of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-27T09:24:19.020Z,19.1620006561279,-155.490325927734,32.4700012207031,1.84000003,md,33,164,,0.109999999,hv,hv73378577,2023-04-27T09:27:31.510Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.67,1,1.84000003,4,automatic,hv,hv
 2023-04-27T09:15:39.273Z,60.7947,-150.9274,34.4,1.4,ml,,,,0.38,ak,ak0235dnbszr,2023-04-27T09:17:04.966Z,"19 km SW of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -254,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-26T10:08:03.440Z,39.1966667,-111.991,12.29,1.86,ml,22,55,0.2291,0.18,uu,uu60538321,2023-04-26T13:19:29.150Z,"11 km ESE of Scipio, Utah",earthquake,0.32,0.81,0.033,7,reviewed,uu,uu
 2023-04-26T09:58:45.020Z,39.9261667,-123.5705,3.05,2.1,md,28,51,0.1237,0.12,nc,nc73877925,2023-04-27T00:53:17.062Z,"28km NNW of Laytonville, CA",earthquake,0.16,1,0.177,34,reviewed,nc,nc
 2023-04-26T09:53:17.410Z,33.9766667,-116.7043333,17.41,0.7,ml,24,92,0.07746,0.1,ci,ci40445816,2023-04-26T19:07:45.937Z,"10km NE of Cabazon, CA",earthquake,0.22,0.46,0.217,20,reviewed,ci,ci
-2023-04-26T09:47:39.660Z,33.3561667,-116.355,13.54,0.79,ml,38,126,0.03107,0.18,ci,ci40445808,2023-04-26T19:02:45.864Z,"11km N of Borrego Springs, CA",earthquake,0.27,0.61,0.161,19,reviewed,ci,ci
