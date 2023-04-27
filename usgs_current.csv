@@ -234,5 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-26T14:58:06.999Z,61.5047,-152.611,0,0.7,ml,,,,1.2,ak,ak0235c30s1w,2023-04-26T15:07:38.739Z,"83 km SW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-26T14:46:26.920Z,19.4915,-155.464166666667,0.06,2.94,ml,49,37,,0.14,hv,hv73377467,2023-04-27T02:45:57.707Z,"Island of Hawaii, Hawaii",earthquake,0.24,0.58,0.178779046669715,29,reviewed,hv,hv
 2023-04-26T14:46:02.420Z,19.1205005645752,-155.408996582031,31.0100002288818,3.2,ml,19,228,,0.119999997,hv,hv73377462,2023-04-27T06:14:27.830Z,"11 km SE of Pāhala, Hawaii",earthquake,1.13,1.54999995,1.89,24,automatic,hv,hv
-2023-04-26T14:45:37.410Z,34.2055,-116.8256667,7.23,1.25,ml,28,59,0.09704,0.12,ci,ci40445872,2023-04-26T20:07:18.578Z,"6km SSE of Big Bear City, CA",earthquake,0.21,0.76,0.223,21,reviewed,ci,ci
-2023-04-26T14:44:30.920Z,35.7765,-117.59,7.6,1.08,ml,18,65,0.03963,0.11,ci,ci40445864,2023-04-26T20:02:23.984Z,"17km W of Searles Valley, CA",earthquake,0.19,0.43,0.097,8,reviewed,ci,ci
