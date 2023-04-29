@@ -301,5 +301,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T09:47:56.870Z,32.691,-115.5246667,3.7,1.59,ml,30,49,0.08484,0.23,ci,ci40212519,2023-04-28T18:18:06.968Z,"3km WNW of Calexico, CA",earthquake,0.27,0.53,0.235,17,reviewed,ci,ci
 2023-04-28T09:46:14.190Z,33.5291667,-116.9528333,10.68,0.27,ml,18,70,0.05857,0.12,ci,ci40212511,2023-04-28T20:54:10.609Z,"13km NW of Aguanga, CA",earthquake,0.25,0.67,0.158,7,reviewed,ci,ci
 2023-04-28T09:39:14.714Z,61.0187,-147.4247,1,1.8,ml,,,,1.17,ak,ak0235fb08rz,2023-04-28T09:41:17.954Z,"43 km WNW of Tatitlek, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-04-28T09:34:49.790Z,54.7578333333333,-164.1015,5.9,0.4,ml,6,171,,0.25,av,av91098613,2023-04-28T23:31:15.160Z,"45 km WSW of False Pass, Alaska",earthquake,0.96,1.05,0.240201528963064,6,reviewed,av,av
-2023-04-28T09:32:54.560Z,37.665,-118.8071667,3.21,0.19,md,9,218,0.01488,0.02,nc,nc73881351,2023-04-28T17:40:15.861Z,"15km ENE of Mammoth Lakes, CA",earthquake,0.8,0.8,0.238,10,reviewed,nc,nc
