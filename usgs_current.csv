@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-29T07:44:27.050Z,33.3498333,-116.2266667,10.5,1.23,ml,51,41,0.1584,0.22,ci,ci40213991,2023-04-29T07:47:57.683Z,"17km NE of Borrego Springs, CA",earthquake,0.24,0.7,0.168,27,automatic,ci,ci
+2023-04-29T07:44:27.050Z,33.3498333,-116.2266667,10.5,1.23,ml,51,41,0.1584,0.22,ci,ci40213991,2023-04-29T07:54:59.210Z,"17km NE of Borrego Springs, CA",earthquake,0.24,0.7,0.168,27,automatic,ci,ci
 2023-04-29T07:36:58.950Z,32.6758333,-115.5163333,1.38,1.42,ml,14,121,0.1254,0.31,ci,ci40213983,2023-04-29T07:40:31.294Z,"2km WSW of Calexico, CA",earthquake,0.86,1.29,0.26,17,automatic,ci,ci
 2023-04-29T07:30:27.151Z,61.7128,-149.7201,29.1,1.3,ml,,,,0.83,ak,ak0235gxatkr,2023-04-29T07:33:14.444Z,"10 km NNE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-29T07:20:21.320Z,32.7133333,-115.542,7.29,1.33,ml,13,82,0.08428,0.24,ci,ci40213975,2023-04-29T07:23:59.101Z,"2km SSW of Heber, CA",earthquake,0.61,1.32,0.323,14,automatic,ci,ci
@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T07:16:01.300Z,32.7031667,-115.541,9.53,1.39,ml,11,127,0.09149,0.21,ci,ci40213967,2023-04-29T07:19:35.277Z,"3km SSW of Heber, CA",earthquake,0.66,1.61,0.186,14,automatic,ci,ci
 2023-04-29T07:15:15.620Z,38.831665,-122.817337,1.65,1.05,md,16,55,0.01002,0.02,nc,nc73881676,2023-04-29T07:31:12.696Z,"8km NW of The Geysers, CA",earthquake,0.28,0.41,0.28,18,automatic,nc,nc
 2023-04-29T07:03:56.112Z,-5.1143,153.4486,55.642,5,mb,82,70,7.555,0.88,us,us7000jwwp,2023-04-29T07:20:50.040Z,"156 km ESE of Kokopo, Papua New Guinea",earthquake,9.31,7.053,0.065,77,reviewed,us,us
-2023-04-29T06:48:53.870Z,36.9343338,-121.579834,8.02,1.12,md,9,118,0.05072,0.03,nc,nc73881671,2023-04-29T07:07:12.532Z,"8km NE of Aromas, CA",earthquake,0.36,0.76,0.29,12,automatic,nc,nc
+2023-04-29T06:48:53.870Z,36.9343338,-121.579834,8.02,1.12,md,9,118,0.05072,0.03,nc,nc73881671,2023-04-29T07:59:12.866Z,"8km NE of Aromas, CA",earthquake,0.36,0.76,0.29,12,automatic,nc,nc
 2023-04-29T06:46:51.260Z,33.6095,-116.8791667,14.91,0.45,ml,17,61,0.03321,0.12,ci,ci40213951,2023-04-29T06:50:25.111Z,"15km S of Valle Vista, CA",earthquake,0.3,0.56,0.204,11,automatic,ci,ci
 2023-04-29T06:46:20.185Z,60.151,-152.5168,91.4,1.2,ml,,,,0.42,ak,ak0235gwssw2,2023-04-29T06:48:00.254Z,"48 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-29T06:41:34.910Z,38.8059998,-122.8143311,3.09,1.09,md,25,61,0.01195,0.02,nc,nc73881666,2023-04-29T07:34:11.716Z,"6km WNW of The Geysers, CA",earthquake,0.23,0.47,0.13,25,automatic,nc,nc
