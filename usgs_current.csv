@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-29T19:29:59.782Z,62.3555,-149.14,0.1,2,ml,,,,0.57,ak,ak0235h4fvmy,2023-04-29T19:31:45.681Z,"42 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-29T19:10:07.272Z,62.3603,-149.1229,2.6,1.4,ml,,,,0.65,ak,ak0235h4bozb,2023-04-29T19:13:07.757Z,"43 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-04-29T19:08:48.410Z,32.72,-115.5446667,9.82,2.73,ml,31,49,0.07852,0.25,ci,ci40214839,2023-04-29T19:23:29.118Z,"2km SW of Heber, CA",earthquake,0.37,0.95,0.281,25,automatic,ci,ci
+2023-04-29T19:08:48.410Z,32.72,-115.5446667,9.82,2.73,ml,31,49,0.07852,0.25,ci,ci40214839,2023-04-29T19:28:38.240Z,"2km SW of Heber, CA",earthquake,0.37,0.95,0.281,25,automatic,ci,ci
 2023-04-29T19:08:09.250Z,32.738,-115.5471667,9.11,1.75,ml,16,116,0.06782,0.24,ci,ci40214831,2023-04-29T19:11:51.478Z,"2km WNW of Heber, CA",earthquake,0.72,1.32,0.237,23,automatic,ci,ci
 2023-04-29T19:05:39.687Z,60.1265,-150.5213,236.2,0.7,ml,,,,1.09,ak,ak0235h4aubt,2023-04-29T19:08:52.194Z,"Kenai Peninsula, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-04-29T19:04:20.600Z,38.7278328,-122.9171677,6.42,1.46,md,34,94,0.06873,0.05,nc,nc73881941,2023-04-29T19:21:15.026Z,"12km SE of Cloverdale, CA",earthquake,0.26,0.88,0.12,33,automatic,nc,nc
