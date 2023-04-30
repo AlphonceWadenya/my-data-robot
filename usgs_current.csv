@@ -418,4 +418,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T11:58:33.310Z,38.7966652,-122.7646637,1.44,1.1,md,18,65,0.005532,0.03,nc,nc73881776,2023-04-29T14:08:10.163Z,"2km NNW of The Geysers, CA",earthquake,0.23,0.42,0.13,19,automatic,nc,nc
 2023-04-29T11:57:43.930Z,19.4218330383301,-155.274169921875,0.340000003576279,1.87,md,17,101,,0.109999999,hv,hv73382552,2023-04-29T12:00:31.820Z,"4 km WSW of Volcano, Hawaii",earthquake,0.2,0.400000006,0.620000005,9,automatic,hv,hv
 2023-04-29T11:44:21.947Z,40.1586,-121.0357,4.2,0.9,ml,4,285.07,0.595,0.0556,nn,nn00858893,2023-04-29T15:48:22.020Z,"3 km ESE of Canyondam, California",earthquake,,4.3,0.13,4,reviewed,nn,nn
-2023-04-29T11:43:21.400Z,38.8153343,-122.8241653,2.08,0.84,md,17,53,0.007552,0.02,nc,nc73881771,2023-04-29T13:40:10.970Z,"7km NW of The Geysers, CA",earthquake,0.26,0.42,0.22,17,automatic,nc,nc
