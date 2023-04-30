@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-30T13:16:36.740Z,32.7065,-115.5351667,8.87,1.85,ml,25,49,0.09303,0.28,ci,ci40216039,2023-04-30T13:20:13.907Z,"3km S of Heber, CA",earthquake,0.57,1.39,0.206,27,automatic,ci,ci
+2023-04-30T13:16:36.740Z,32.7065,-115.5351667,8.87,1.85,ml,25,49,0.09303,0.28,ci,ci40216039,2023-04-30T13:27:25.610Z,"3km S of Heber, CA",earthquake,0.57,1.39,0.206,27,automatic,ci,ci
 2023-04-30T13:02:07.807Z,61.3829,-151.9026,88,1.4,ml,,,,0.52,ak,ak0235io8qli,2023-04-30T13:14:15.412Z,"51 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-30T12:59:21.186Z,59.2608,-152.1134,62,1.5,ml,,,,0.5,ak,ak0235inzjee,2023-04-30T13:02:14.650Z,"15 km SW of Nanwalek, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-04-30T12:58:01.090Z,32.7975,-115.63,14.39,1.26,ml,6,219,0.1545,0.27,ci,ci40216031,2023-04-30T13:01:39.678Z,"7km W of El Centro, CA",earthquake,2.69,2.05,0.375,12,automatic,ci,ci
@@ -398,4 +398,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T13:39:42.230Z,33.389,-116.894,14.41,0.92,ml,34,36,0.04398,0.19,ci,ci40214415,2023-04-29T13:43:25.271Z,"5km NW of Palomar Observatory, CA",earthquake,0.28,0.57,0.148,22,automatic,ci,ci
 2023-04-29T13:34:09.207Z,54.7519,-157.8341,35.5,2.8,ml,,,,0.58,ak,ak0235h0w9i6,2023-04-29T14:49:56.040Z,"153 km SSE of Perryville, Alaska",earthquake,,15.4,,,automatic,ak,ak
 2023-04-29T13:31:23.710Z,19.4145,-155.29,1.05,0.23,md,11,116,,0.09,hv,hv73382717,2023-04-29T14:12:35.350Z,"6 km WSW of Volcano, Hawaii",earthquake,0.24,0.25,0.060760730822361,2,reviewed,hv,hv
-2023-04-29T13:23:53.490Z,19.4013333333333,-155.272333333333,0.3,0.31,md,13,68,,0.08,hv,hv73382707,2023-04-29T14:16:01.150Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.23,0.11428959042535,3,reviewed,hv,hv
