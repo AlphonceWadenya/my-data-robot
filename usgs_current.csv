@@ -134,6 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T05:42:11.510Z,33.4318333,-116.9031667,2.39,0.57,ml,16,84,0.08506,0.26,ci,ci40217111,2023-05-02T05:45:40.925Z,"4km WSW of Aguanga, CA",earthquake,0.45,0.7,0.188,13,automatic,ci,ci
 2023-05-02T05:35:16.079Z,38.4164,-118.9082,11.1,1.8,ml,11,134.82,0.357,0.1964,nn,nn00858971,2023-05-02T20:09:33.454Z,"27 km WSW of Hawthorne, Nevada",earthquake,,1.1,0.18,3,reviewed,nn,nn
 2023-05-02T05:27:42.809Z,39.7893,-120.723,12.2,0.5,ml,3,327.4,0.29,0.1061,nn,nn00858970,2023-05-02T19:47:53.390Z,"3 km NNW of Plumas Eureka (historical), California",earthquake,,10.7,0,1,reviewed,nn,nn
+2023-05-02T05:08:15.610Z,58.2241666666667,-155.261166666667,2.28,0.06,ml,4,291,,0.12,av,av91871161,2023-05-02T22:45:34.940Z,"87 km NNW of Karluk, Alaska",earthquake,1.23,0.84,0.0785903415458459,4,reviewed,av,av
 2023-05-02T04:53:49.550Z,38.7438333,-122.4171667,7.45,1.38,md,30,91,0.06536,0.05,nc,nc73882931,2023-05-02T21:52:13.213Z,"14km ESE of Hidden Valley Lake, CA",earthquake,0.27,0.53,0.153,30,reviewed,nc,nc
 2023-05-02T04:51:21.773Z,37.0539,-116.2159,5.9,0.7,ml,30,57.22,0.067,0.1683,nn,nn00858954,2023-05-02T15:46:49.985Z,"50 km ENE of Beatty, Nevada",earthquake,,1.3,0.33,21,reviewed,nn,nn
 2023-05-02T04:29:37.390Z,32.6875,-115.5753333,16.39,2.08,ml,10,80,0.08654,0.21,ci,ci40217087,2023-05-02T04:35:02.173Z,"6km SW of Heber, CA",earthquake,0.61,1.29,0.237,26,automatic,ci,ci
@@ -192,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-01T23:02:35.480Z,19.4198341369629,-155.321502685547,4.40000009536743,1.79999995,md,20,86,,0.159999996,hv,hv73386102,2023-05-01T23:05:37.770Z,"Island of Hawaii, Hawaii",earthquake,0.44,1.07000005,0.899999976,8,automatic,hv,hv
 2023-05-01T23:00:30.681Z,-10.0095,160.9951,70.587,4.5,mb,32,110,10.95,0.52,us,us7000jxf1,2023-05-02T01:08:51.040Z,"112 km WNW of Kirakira, Solomon Islands",earthquake,10.23,7.493,0.093,34,reviewed,us,us
 2023-05-01T22:52:27.250Z,38.8326683,-122.815834,2.01,0.38,md,11,87,0.01029,0.01,nc,nc73882851,2023-05-01T23:09:15.029Z,"8km NW of The Geysers, CA",earthquake,0.3,0.77,0.25,11,automatic,nc,nc
-2023-05-01T22:46:44.425Z,60.7806,-150.7514,27.1,1.7,ml,,,,0.28,ak,ak0235khehfe,2023-05-01T22:48:12.097Z,"16 km SSW of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
