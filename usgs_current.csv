@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-02T21:54:41.774Z,60.2967,-153.1339,133.8,1.6,ml,,,,0.31,ak,ak0235m4e3u9,2023-05-02T21:56:41.737Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-02T21:48:55.476Z,61.038,-151.8114,78.7,0.6,ml,,,,0.13,ak,ak0235m4culn,2023-05-02T21:50:29.553Z,"36 km W of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-05-02T21:36:16.100Z,46.48433303833008,-122.44349670410156,17.6700000762939,2.4353456497192383,ml,67,59,,0.129999995,uw,uw61912127,2023-05-02T21:38:56.820Z,"5 km SSE of Mossyrock, Washington",earthquake,0.2,0.779999971,0.43522176146507263,79,automatic,uw,uw
+2023-05-02T21:36:16.050Z,46.48266666666667,-122.44116666666666,18.67,2.1,ml,57,54,0.1143,0.13,uw,uw61912127,2023-05-02T21:55:04.740Z,"6 km SSE of Mossyrock, Washington",earthquake,0.17,0.45,0.190558387158149,38,reviewed,uw,uw
 2023-05-02T21:33:39.240Z,33.7928333,-116.1451667,7.04,1.93,ml,50,71,0.06371,0.2,ci,ci40217503,2023-05-02T21:38:06.373Z,"10km NE of Indio, CA",earthquake,0.22,0.61,0.167,26,automatic,ci,ci
 2023-05-02T21:27:44.170Z,36.1031685,-120.6819992,0.7,1.88,md,12,131,0.07751,0.09,nc,nc73883086,2023-05-02T21:45:14.169Z,"22km ENE of San Ardo, CA",earthquake,0.48,8.64,0.11,8,automatic,nc,nc
 2023-05-02T21:21:36.220Z,-21.818,-68.5898,133.928,4.1,mb,15,69,1.137,0.66,us,us7000jxl6,2023-05-02T21:35:42.040Z,"74 km SSW of Ollagüe, Chile",earthquake,6.35,9.841,0.301,3,reviewed,us,us
@@ -184,5 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-01T22:14:38.210Z,37.5673333,-118.8483333,2.41,0.88,md,12,277,0.02732,0.05,nc,nc73882846,2023-05-02T08:41:11.467Z,"14km SE of Mammoth Lakes, CA",earthquake,0.68,1.01,0.175,12,reviewed,nc,nc
 2023-05-01T22:03:55.430Z,38.7971649,-122.7549973,1.95,0.77,md,10,92,0.005051,0.01,nc,nc73882841,2023-05-01T22:27:16.763Z,"2km N of The Geysers, CA",earthquake,0.28,0.74,0.05,8,automatic,nc,nc
 2023-05-01T22:01:02.260Z,38.7854996,-122.7473297,2.41,0.54,md,8,103,0.008591,0.02,nc,nc73882836,2023-05-01T22:17:19.705Z,"1km NE of The Geysers, CA",earthquake,0.36,0.75,0.28,9,automatic,nc,nc
-2023-05-01T21:55:29.230Z,42.5801667,-111.401,9.48,2.3,ml,22,138,0.2888,0.18,uu,uu60538866,2023-05-01T22:13:42.670Z,"11 km NNW of Georgetown, Idaho",earthquake,0.79,0.89,0.17,3,reviewed,uu,uu
-2023-05-01T21:55:22.895Z,64.7411,-151.0955,22.4,1.4,ml,,,,0.4,ak,ak0235kguxlt,2023-05-01T21:57:22.821Z,"36 km SW of Manley Hot Springs, Alaska",earthquake,,0.7,,,automatic,ak,ak
