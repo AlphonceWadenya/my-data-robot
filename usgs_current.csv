@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-02T04:29:37.820Z,32.6971664,-115.5469971,8.13,2.16,ml,19,67,0.06788,0.21,ci,ci40217087,2023-05-02T04:31:53.584Z,"4km SSW of Heber, CA",earthquake,0.43,1.07,0.275,29,automatic,ci,ci
+2023-05-02T04:29:37.390Z,32.6875,-115.5753333,16.39,2.08,ml,10,80,0.08654,0.21,ci,ci40217087,2023-05-02T04:35:02.173Z,"6km SW of Heber, CA",earthquake,0.61,1.29,0.237,26,automatic,ci,ci
 2023-05-02T04:21:59.770Z,19.1903324127197,-155.485336303711,31.5100002288818,2.1400001,md,40,73,,0.100000001,hv,hv73386322,2023-05-02T04:25:25.310Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.56,0.860000014,1.40999997,19,automatic,hv,hv
 2023-05-02T03:39:17.815Z,45.8504,148.7714,169.256,4.2,mb,30,161,4.712,0.65,us,us7000jxg3,2023-05-02T03:54:33.040Z,"98 km NE of Kuril’sk, Russia",earthquake,10.77,14.495,0.093,32,reviewed,us,us
 2023-05-02T03:39:08.550Z,19.389,-155.247833333333,1.51,2.57,ml,36,56,,0.11,hv,hv73386287,2023-05-02T04:16:05.251Z,"6 km SSW of Volcano, Hawaii",earthquake,0.2,0.15,0.134790663710723,19,reviewed,hv,hv
@@ -14,6 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T02:03:54.513Z,56.2322,-148.0384,10,3.7,ml,77,193,2.932,1.19,us,us7000jxfm,2023-05-02T03:47:02.040Z,"Gulf of Alaska",earthquake,9.01,2.007,0.048,56,reviewed,us,us
 2023-05-02T02:01:40.690Z,19.4174995422363,-155.278167724609,-0.0900000035762787,1.84,ml,11,90,,0.0900000036,hv,hv73386202,2023-05-02T02:07:13.250Z,"5 km WSW of Volcano, Hawaii",earthquake,0.22,0.419999987,0.79,3,automatic,hv,hv
 2023-05-02T01:48:21.310Z,36.7088,-116.0574,3.1,-0.1,ml,8,233.95,0.035,0.0519,nn,nn00858952,2023-05-02T03:14:10.043Z,"Nevada",earthquake,,2,0.15,4,reviewed,nn,nn
+2023-05-02T01:41:18.952Z,42.5318,19.1835,13.012,2.6,ml,19,75,0.117,0.62,us,us7000jxg6,2023-05-02T04:37:15.580Z,"Montenegro-Albania border region",earthquake,5.04,2.045,0.077,22,reviewed,us,us
 2023-05-02T01:39:02.038Z,63.2422,-144.7075,6.5,1.6,ml,,,,0.53,ak,ak0235lse4xn,2023-05-02T01:41:07.950Z,"45 km S of Dry Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-02T01:21:41.209Z,-0.4651,132.4608,36.132,4.7,mb,25,178,2.447,0.76,us,us7000jxfh,2023-05-02T01:34:21.040Z,"38 km N of Fef, Indonesia",earthquake,13.27,10.795,0.133,17,reviewed,us,us
 2023-05-02T01:20:46.060Z,36.2454986572266,-89.4463348388672,3.94000005722046,1.22000003,md,7,109,0.05331,0.100000001,nm,nm60523241,2023-05-02T01:28:22.250Z,"southeastern Missouri",earthquake,0.64,0.610000014,0.529999971,5,reviewed,nm,nm
@@ -22,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T00:48:58.943Z,63.9409,-146.7748,3.8,1.6,ml,,,,0.81,ak,ak0235lrur5y,2023-05-02T00:50:42.797Z,"48 km WSW of Whitestone, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-02T00:33:20.710Z,38.8105011,-122.7581635,6.07,0.92,md,7,210,0.009936,0.11,nc,nc73882896,2023-05-02T01:04:13.715Z,"3km WSW of Cobb, CA",earthquake,2.96,4.74,0.13,9,automatic,nc,nc
 2023-05-02T00:19:35.380Z,35.9474983,-117.4970016,-1.12,3.05,ml,44,83,0.1548,0.2,ci,ci40217047,2023-05-02T01:21:08.332Z,"22km NNW of Searles Valley, CA",earthquake,0.24,0.57,0.256,24,automatic,ci,ci
-2023-05-02T00:11:21.343Z,61.5532,-149.9371,35.1,1.9,ml,,,,0.59,ak,ak0235lrmqrq,2023-05-02T00:47:45.922Z,"Southern Alaska",earthquake,,4,,,automatic,ak,ak
+2023-05-02T00:11:21.343Z,61.5532,-149.9371,35.1,1.9,ml,,,,0.59,ak,ak0235lrmqrq,2023-05-02T00:47:45.922Z,"3 km NNE of Big Lake, Alaska",earthquake,,4,,,automatic,ak,ak
 2023-05-02T00:10:37.610Z,38.822834,-122.8246689,1.56,0.88,md,13,59,0.008098,0.12,nc,nc73882881,2023-05-02T00:42:14.582Z,"8km NW of The Geysers, CA",earthquake,0.45,0.97,0.18,14,automatic,nc,nc
 2023-05-01T23:55:21.200Z,38.8198318,-122.8231659,2.39,0.77,md,17,50,0.009831,0.02,nc,nc73882876,2023-05-02T00:21:14.442Z,"8km NW of The Geysers, CA",earthquake,0.25,0.79,0.15,17,automatic,nc,nc
 2023-05-01T23:53:27.580Z,38.911335,-123.6384964,8.32,1.75,md,8,213,0.1149,0.05,nc,nc73882871,2023-05-02T02:41:18.312Z,"5km E of Point Arena, CA",earthquake,0.8,1.56,0.11,7,automatic,nc,nc
