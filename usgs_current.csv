@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-05-03T13:33:47.398Z,61.3467,-144.2742,20.2,1.1,ml,,,,0.32,ak,ak0235nn1hw3,2023-05-03T13:35:56.344Z,"20 km SSE of Chitina, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-03T13:23:44.900Z,35.807,-117.8086667,1.73,1.5,ml,12,87,0.03563,0.25,ci,ci40218047,2023-05-03T13:27:32.302Z,"17km SSE of Little Lake, CA",earthquake,0.66,1.02,0.211,13,automatic,ci,ci
-2023-05-03T13:22:03.200Z,38.8176651,-122.8068314,3.11,0.75,md,15,54,0.006257,0.01,nc,nc73883416,2023-05-03T13:33:11.236Z,"6km NW of The Geysers, CA",earthquake,0.34,0.89,0.11,15,automatic,nc,nc
+2023-05-03T13:22:03.200Z,38.8176651,-122.8068314,3.11,0.75,md,15,54,0.006257,0.01,nc,nc73883416,2023-05-03T13:46:13.315Z,"6km NW of The Geysers, CA",earthquake,0.34,0.89,0.11,15,automatic,nc,nc
 2023-05-03T13:02:09.440Z,38.8235016,-122.8503342,2.68,0.97,md,8,118,0.01196,0.01,nc,nc73883406,2023-05-03T13:26:12.189Z,"10km WNW of The Geysers, CA",earthquake,0.43,1.52,0.2,9,automatic,nc,nc
 2023-05-03T12:57:29.710Z,38.8305016,-122.8150024,2.22,0.77,md,13,57,0.008073,0.01,nc,nc73883401,2023-05-03T13:15:13.121Z,"8km NW of The Geysers, CA",earthquake,0.35,0.75,0.17,13,automatic,nc,nc
 2023-05-03T12:52:55.620Z,33.7788333,-116.924,13.24,0.64,ml,12,204,0.09152,0.14,ci,ci40218007,2023-05-03T12:58:50.005Z,"3km E of San Jacinto, CA",earthquake,0.54,0.62,0.066,8,reviewed,ci,ci
@@ -114,7 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T01:43:49.430Z,35.8706667,-117.7098333,9.42,1.44,ml,17,118,0.07643,0.15,ci,ci40217711,2023-05-03T01:47:29.540Z,"19km ESE of Little Lake, CA",earthquake,0.31,0.6,0.185,15,automatic,ci,ci
 2023-05-03T01:43:20.780Z,33.7101667,-116.7466667,17.98,1.7,ml,50,46,0.02711,0.19,ci,ci40217703,2023-05-03T13:04:19.990Z,"4km SW of Idyllwild, CA",earthquake,0.21,0.38,0.243,26,reviewed,ci,ci
 2023-05-03T01:42:16.860Z,38.8250008,-122.8501663,1.97,1.06,md,20,96,0.005822,0.03,nc,nc73883201,2023-05-03T02:04:25.909Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.43,0.13,22,automatic,nc,nc
-2023-05-03T01:40:24.530Z,35.873333,-117.7115021,8.95,3.47,mlr,51,114,0.07784,0.2,ci,ci40217695,2023-05-03T05:58:58.164Z,"19km ESE of Little Lake, CA",earthquake,0.22,0.49,0.242,18,automatic,ci,ci
+2023-05-03T01:40:24.490Z,35.8715,-117.7166667,8.85,3.56,ml,35,41,0.07402,0.15,ci,ci40217695,2023-05-03T13:47:08.648Z,"19km ESE of Little Lake, CA",earthquake,0.15,0.5,0.136,80,reviewed,ci,ci
 2023-05-03T01:39:11.390Z,38.8253326,-122.8521652,2.08,0.86,md,15,89,0.00429,0.02,nc,nc73883191,2023-05-03T01:55:13.848Z,"10km WNW of The Geysers, CA",earthquake,0.27,0.45,0.23,17,automatic,nc,nc
 2023-05-03T01:38:03.240Z,36.925,-82.9841666666667,7.88,2.46,md,17,84,0.2097,0.2,se,se60523511,2023-05-03T12:45:50.671Z,"5 km SW of Benham, Kentucky",earthquake,0.34,1.46,0.0624599865726077,12,reviewed,se,se
 2023-05-03T01:36:32.420Z,34.0633333,-117.2803333,12.48,1.09,ml,29,84,0.1053,0.22,ci,ci40217687,2023-05-03T02:01:43.168Z,"2km NW of Loma Linda, CA",earthquake,0.39,0.88,0.211,30,automatic,ci,ci
@@ -239,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T13:55:52.446Z,-28.996,-71.7156,28.382,4.3,mb,45,96,0.889,1.07,us,us7000jxhs,2023-05-02T14:22:32.040Z,"104 km WSW of Vallenar, Chile",earthquake,4.83,5.829,0.188,8,reviewed,us,us
 2023-05-02T13:53:35.950Z,17.9661666666667,-66.7685,11.51,2.38,md,4,208,0.1058,0.09,pr,pr71407523,2023-05-02T14:15:00.830Z,"5 km S of Magas Arriba, Puerto Rico",earthquake,0.8,1.21,0.0686557688518277,3,reviewed,pr,pr
 2023-05-02T13:51:03.110Z,19.4118328094482,-155.320327758789,2.35999989509583,1.77,ml,32,79,,0.170000002,hv,hv73386777,2023-05-02T13:56:34.130Z,"9 km WSW of Volcano, Hawaii",earthquake,0.32,0.379999995,0.39,8,automatic,hv,hv
-2023-05-02T13:44:05.720Z,40.2908333,-124.4426667,11.67,2.33,md,18,245,0.07659,0.12,nc,nc73883011,2023-05-03T00:11:18.204Z,"14km WSW of Petrolia, CA",earthquake,0.54,0.35,0.253,26,reviewed,nc,nc
