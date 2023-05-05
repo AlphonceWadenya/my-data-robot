@@ -67,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T16:16:27.730Z,33.0591667,-114.9991667,-0.19,1.14,ml,11,67,0.0885,0.24,ci,ci40219455,2023-05-05T18:45:05.707Z,"45km NE of Holtville, CA",quarry blast,0.61,31.61,0.102,7,reviewed,ci,ci
 2023-05-05T16:02:13.482Z,62.9451,-149.4617,67,1,ml,,,,0.75,ak,ak0235qzprvo,2023-05-05T16:04:05.714Z,"56 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-05T16:01:48.568Z,42.8976,146.1596,35.64,4.5,mb,42,135,2.39,0.54,us,us6000k9tw,2023-05-05T16:45:16.040Z,"67 km SE of Nemuro, Japan",earthquake,8.57,7.772,0.069,62,reviewed,us,us
-2023-05-05T15:56:00.940Z,19.1665000915527,-155.493667602539,35.0299987792969,2.47,ml,42,112,,0.119999997,hv,hv73390102,2023-05-05T16:48:19.040Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.52,0.720000029,3.34,7,automatic,hv,hv
+2023-05-05T15:56:01.050Z,19.1756666666667,-155.491333333333,35.16,2.5,ml,40,95,,0.1,hv,hv73390102,2023-05-05T22:28:42.490Z,"Island of Hawaii, Hawaii",earthquake,0.46,0.7,0.191782691122774,15,reviewed,hv,hv
 2023-05-05T15:47:49.370Z,32.6905,-115.531,8.9,1.7,ml,24,61,0.08156,0.31,ci,ci40219423,2023-05-05T17:22:51.735Z,"3km WNW of Calexico, CA",earthquake,0.48,1.37,0.287,14,reviewed,ci,ci
 2023-05-05T15:37:25.320Z,58.183,-155.2371,0,1.4,ml,,,,0.39,ak,ak0235qzbv90,2023-05-05T15:39:26.814Z,"82 km NW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-05T15:35:31.079Z,35.798,-96.65366667,7.93,1.19,ml,61,46,0.1340736902,0.23,ok,ok2023ittg,2023-05-05T15:46:54.257Z,"5 km N of Stroud, Oklahoma",earthquake,,0.6,0.18,25,reviewed,ok,ok
