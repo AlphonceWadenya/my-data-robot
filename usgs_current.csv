@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-05T03:34:16.670Z,38.7871666,-122.7471695,1.97,0.78,md,12,83,0.009057,0.02,nc,nc73883971,2023-05-05T03:35:51.079Z,"1km NE of The Geysers, CA",earthquake,0.29,0.85,0.06,11,automatic,nc,nc
+2023-05-05T03:46:18.865Z,64.7986,-150.3092,22.1,2.6,ml,,,,0.26,ak,ak0235qs8kxq,2023-05-05T03:47:59.055Z,"27 km SE of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-05T03:34:16.670Z,38.7871666,-122.7471695,1.97,0.78,md,12,83,0.009057,0.02,nc,nc73883971,2023-05-05T03:47:12.263Z,"1km NE of The Geysers, CA",earthquake,0.29,0.85,0.06,11,automatic,nc,nc
 2023-05-05T03:20:55.070Z,-24.1238,179.8326,516.693,4.4,mb,19,100,5.446,1.2,us,us6000k9lt,2023-05-05T03:41:49.040Z,"south of the Fiji Islands",earthquake,12.94,8.388,0.155,15,reviewed,us,us
+2023-05-05T03:18:13.171Z,31.9557,-102.0583,5,2.5,mb_lg,17,57,0.196,0.53,us,us6000k9lr,2023-05-05T03:47:01.040Z,"western Texas",earthquake,2.09,1.965,0.255,4,reviewed,us,us
 2023-05-05T03:09:55.850Z,38.7794991,-122.7488327,-0.72,1.15,md,17,169,0.01017,0.16,nc,nc73883966,2023-05-05T03:26:12.129Z,"1km ENE of The Geysers, CA",earthquake,0.6,1.4,0.12,16,automatic,nc,nc
 2023-05-05T03:08:24.736Z,64.9749,-147.3597,4.2,1.1,ml,,,,0.25,ak,ak0235qs0g6h,2023-05-05T03:10:29.771Z,"12 km E of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-05T03:07:53.003Z,13.2263,143.8581,136.475,4.6,mb,64,61,1.047,0.65,us,us6000k9lq,2023-05-05T03:25:53.040Z,"87 km W of Umatac Village, Guam",earthquake,9.67,3.738,0.049,122,reviewed,us,us
@@ -48,6 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-04T21:58:24.300Z,38.8088341,-122.7750015,1.18,0.78,md,8,113,0.006264,0.01,nc,nc73883876,2023-05-04T22:39:13.463Z,"4km NNW of The Geysers, CA",earthquake,0.45,0.79,0.06,10,automatic,nc,nc
 2023-05-04T21:46:16.030Z,33.6896667,-117.4048333,9.84,0.82,ml,14,75,0.04418,0.15,ci,ci40219199,2023-05-04T23:44:28.957Z,"8km WNW of Lake Elsinore, CA",earthquake,0.34,0.56,0.144,8,reviewed,ci,ci
 2023-05-04T21:42:05.380Z,33.8658333,-116.8476667,18.43,1.31,ml,39,69,0.05279,0.15,ci,ci40219191,2023-05-04T23:41:50.625Z,"7km SSE of Banning, CA",earthquake,0.23,0.41,0.213,22,reviewed,ci,ci
+2023-05-04T21:41:07.520Z,58.255,-155.093,2.43,-0.4,ml,5,127,,0.04,av,av91874126,2023-05-05T03:44:16.150Z,"Alaska Peninsula",earthquake,0.23,1.27,0.233537570772364,5,reviewed,av,av
 2023-05-04T21:41:03.450Z,33.844,-117.4836667,-0.52,1.38,ml,23,51,0.04169,0.27,ci,ci40219175,2023-05-04T23:28:25.139Z,"5km SE of Home Gardens, CA",quarry blast,0.43,31.61,0.184,40,reviewed,ci,ci
 2023-05-04T21:40:17.040Z,38.833168,-122.8156662,1.86,1.07,md,22,55,0.01069,0.02,nc,nc73883871,2023-05-04T22:19:12.352Z,"8km NW of The Geysers, CA",earthquake,0.19,0.51,0.14,23,automatic,nc,nc
 2023-05-04T21:22:10.170Z,33.8506667,-117.488,-0.52,1.06,ml,13,102,0.04878,0.22,ci,ci40219151,2023-05-04T23:22:09.917Z,"4km SE of Home Gardens, CA",quarry blast,0.56,31.61,0.161,15,reviewed,ci,ci
@@ -101,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-04T17:39:21.190Z,58.2553333333333,-155.093,2.86,-0.47,ml,5,127,,0.03,av,av91099038,2023-05-05T01:44:24.540Z,"85 km NNW of Karluk, Alaska",earthquake,0.38,1.35,0.284691772800641,5,reviewed,av,av
 2023-05-04T17:36:08.600Z,58.1848333333333,-155.3145,2.44,0,ml,7,197,,0.06,av,av91873871,2023-05-05T01:40:01.520Z,"85 km NW of Karluk, Alaska",earthquake,0.32,0.47,0.225162662057277,7,reviewed,av,av
 2023-05-04T17:35:49.420Z,32.7055,-115.5405,10.7,1.89,ml,25,60,0.06517,0.22,ci,ci40218999,2023-05-04T22:42:21.386Z,"3km SSW of Heber, CA",earthquake,0.54,0.56,0.252,21,reviewed,ci,ci
-2023-05-04T17:29:24.930Z,39.9248333,-123.5705,3.49,2.09,md,24,51,0.1228,0.09,nc,nc73883846,2023-05-05T00:52:12.372Z,"27km NNW of Laytonville, CA",earthquake,0.15,0.92,0.181,22,reviewed,nc,nc
+2023-05-04T17:29:24.930Z,39.9248333,-123.5705,3.49,2.09,md,24,51,0.1228,0.09,nc,nc73883846,2023-05-05T03:47:12.436Z,"27km NNW of Laytonville, CA",earthquake,0.15,0.92,0.181,22,reviewed,nc,nc
 2023-05-04T17:09:07.930Z,38.8116684,-122.8300018,1.74,0.75,md,9,97,0.002869,0.01,nc,nc73883841,2023-05-04T19:54:10.521Z,"7km WNW of The Geysers, CA",earthquake,0.34,0.75,0.23,10,automatic,nc,nc
 2023-05-04T16:55:52.110Z,58.2523333333333,-155.0975,-1.95,-0.61,ml,4,137,,0.1,av,av91099033,2023-05-05T01:22:22.640Z,"85 km NNW of Karluk, Alaska",earthquake,0.31,3.65,0.152255177674826,4,reviewed,av,av
 2023-05-04T16:44:12.519Z,36.37516667,-97.653,9.44,1.17,ml,28,40,0.1502705118,0.07,ok,ok2023isaa,2023-05-04T16:57:59.942Z,"5 km ENE of Fairmont, Oklahoma",earthquake,,1.1,0.28,21,reviewed,ok,ok
