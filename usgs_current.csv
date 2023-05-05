@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-05T13:52:37.800Z,34.1074982,-117.7446671,8.72,1.07,ml,14,185,0.1949,0.2,ci,ci40219375,2023-05-05T13:56:13.702Z,"2km ENE of La Verne, CA",earthquake,0.97,4.38,0.392,4,automatic,ci,ci
 2023-05-05T13:46:36.480Z,33.3704987,-116.3841629,11.24,1.07,ml,29,98,0.1057,0.18,ci,ci40219359,2023-05-05T13:50:06.677Z,"13km N of Borrego Springs, CA",earthquake,0.4,1.12,0.015,3,automatic,ci,ci
 2023-05-05T13:35:11.040Z,33.0296667,-115.9935,3.04,1.32,ml,26,79,0.1439,0.22,ci,ci40219351,2023-05-05T13:46:17.780Z,"18km SE of Ocotillo Wells, CA",earthquake,0.44,1.75,0.137,27,automatic,ci,ci
 2023-05-05T13:32:49.530Z,36.8856659,-121.32267,5.17,1.4,md,7,138,0.02518,0.04,nc,nc73884191,2023-05-05T13:51:13.916Z,"8km ENE of Hollister, CA",earthquake,0.45,0.74,0.1,8,automatic,nc,nc
@@ -232,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-04T14:19:43.780Z,38.8053322,-122.8066635,1.45,1.09,md,23,51,0.009258,0.02,nc,nc73883801,2023-05-04T15:50:11.001Z,"5km NW of The Geysers, CA",earthquake,0.21,0.34,0.14,23,automatic,nc,nc
 2023-05-04T14:10:42.472Z,36.217,-115.3619,10.6,0.9,ml,17,103.55,0.052,0.2296,nn,nn00859053,2023-05-05T02:04:09.675Z,"11 km NNW of Summerlin South, Nevada",earthquake,,2.8,1.1,5,reviewed,nn,nn
 2023-05-04T14:06:03.840Z,58.255,-155.097166666667,1.38,-0.59,ml,5,122,,0.07,av,av91873716,2023-05-05T00:36:07.040Z,"Alaska Peninsula",earthquake,0.25,1.94,0.367180940192045,5,reviewed,av,av
-2023-05-04T13:54:06.510Z,19.6361666666667,-155.863333333333,19.78,1.56,md,21,80,,0.16,hv,hv73389152,2023-05-04T22:03:30.680Z,"Island of Hawaii, Hawaii",earthquake,0.65,0.92,0.0851203446839783,7,reviewed,hv,hv
