@@ -245,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T12:05:03.997Z,38.0704,-118.7497,9.4,0.6,ml,4,179.67,0.264,0.1472,nn,nn00859097,2023-05-05T17:51:12.420Z,"California-Nevada border region",earthquake,,5,0,1,reviewed,nn,nn
 2023-05-05T11:44:06.382Z,-7.2205,120.1677,580.943,5,mb,88,35,2.231,0.68,us,us6000k9qy,2023-05-05T12:02:56.040Z,"144 km NNE of Labuan Bajo, Indonesia",earthquake,9.62,6.393,0.046,152,reviewed,us,us
 2023-05-05T11:37:10.115Z,-37.2869,177.2709,194.926,5.6,mww,89,24,0.869,1.07,us,us6000k9qv,2023-05-05T23:27:44.133Z,"78 km NNE of Whakatane, New Zealand",earthquake,6.76,3.715,0.045,48,reviewed,us,us
-2023-05-05T11:33:10.550Z,17.9538333333333,-66.9656666666667,17.04,2.31,md,5,207,0.07637,0.11,pr,pr71408218,2023-05-05T12:35:52.560Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.83,0.73,0.106551987062873,3,reviewed,pr,pr
