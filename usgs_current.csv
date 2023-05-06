@@ -251,4 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T10:55:02.740Z,51.7011666666667,-177.1085,9.86,1.69,ml,9,208,,0.12,av,av91874891,2023-05-06T00:36:04.620Z,"37 km WSW of Adak, Alaska",earthquake,0.53,1.19,0.14515492991926,4,reviewed,av,av
 2023-05-05T10:44:19.441Z,38.5204,-119.548,5.7,0.8,ml,7,94.64,0.069,0.1693,nn,nn00859095,2023-05-05T17:48:06.269Z,"6 km SW of Coleville, California",earthquake,,4,0,1,reviewed,nn,nn
 2023-05-05T10:42:30.810Z,38.7866669,-122.7590027,3.52,0.38,md,9,113,0.01395,0.02,nc,nc73884131,2023-05-05T11:05:17.970Z,"1km NNW of The Geysers, CA",earthquake,0.75,1.4,0.16,8,automatic,nc,nc
-2023-05-05T10:35:29.690Z,38.6035,-122.7998333,7.07,1.07,md,35,46,0.05818,0.08,nc,nc73884126,2023-05-05T21:23:18.906Z,"6km E of Healdsburg, CA",earthquake,0.19,0.48,0.192,33,reviewed,nc,nc
