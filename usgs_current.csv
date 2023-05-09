@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-09T11:00:28.040Z,37.6629982,-118.856163,1.65,1.1,md,9,151,0.02973,0.03,nc,nc73885636,2023-05-09T11:02:06.155Z,"11km ENE of Mammoth Lakes, CA",earthquake,0.46,1.45,0.09,9,automatic,nc,nc
-2023-05-09T10:56:32.820Z,38.8354988,-122.7896652,1.8,0.78,md,10,82,0.002954,0.01,nc,nc73885631,2023-05-09T10:58:06.264Z,"6km WNW of Cobb, CA",earthquake,0.31,0.51,0.21,11,automatic,nc,nc
+2023-05-09T11:00:28.040Z,37.6629982,-118.856163,1.65,1.1,md,9,151,0.02973,0.03,nc,nc73885636,2023-05-09T11:16:11.063Z,"11km ENE of Mammoth Lakes, CA",earthquake,0.46,1.45,0.09,9,automatic,nc,nc
+2023-05-09T10:56:32.820Z,38.8354988,-122.7896652,1.8,0.78,md,10,82,0.002954,0.01,nc,nc73885631,2023-05-09T11:16:11.178Z,"6km WNW of Cobb, CA",earthquake,0.31,0.51,0.21,11,automatic,nc,nc
 2023-05-09T10:33:20.730Z,37.661499,-118.8536682,1.94,1.36,md,11,133,0.02742,0.03,nc,nc73885616,2023-05-09T10:50:13.944Z,"11km ENE of Mammoth Lakes, CA",earthquake,0.4,1.26,0.12,11,automatic,nc,nc
 2023-05-09T10:29:55.099Z,62.1289,-145.6572,20.9,2,ml,,,,0.94,ak,ak0235xigfrp,2023-05-09T10:31:50.583Z,"6 km WNW of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-09T10:04:07.679Z,62.6444,-151.1519,2,1.6,ml,,,,0.6,ak,ak0235xiaz7j,2023-05-09T10:06:09.534Z,"25 km NW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -181,4 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T11:48:15.100Z,19.4050006866455,-155.327499389648,0.670000016689301,1.88999999,md,16,69,,0.270000011,hv,hv73392657,2023-05-08T11:51:21.920Z,"10 km WSW of Volcano, Hawaii",earthquake,0.42,0.600000024,1.15999997,7,automatic,hv,hv
 2023-05-08T11:36:28.425Z,11.7025,35.9956,9.774,4.4,mb,47,69,6.715,0.41,us,us6000kacz,2023-05-08T11:57:40.040Z,"152 km W of Bahir Dar, Ethiopia",earthquake,11.82,5.213,0.091,35,reviewed,us,us
 2023-05-08T11:35:30.548Z,39.5058,-120.2524,13.2,0.9,ml,12,85.86,0.119,0.164,nn,nn00859193,2023-05-08T23:10:24.973Z,"Northern California",earthquake,,1.9,0.24,4,reviewed,nn,nn
-2023-05-08T11:13:49.300Z,19.4090003967285,-155.341171264648,2.00999999046326,1.9,ml,26,61,,0.230000004,hv,hv73392602,2023-05-08T11:19:19.540Z,"11 km WSW of Volcano, Hawaii",earthquake,0.44,1,0.08,4,automatic,hv,hv
