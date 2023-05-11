@@ -91,7 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T04:16:37.300Z,19.0618,-67.7545,44,3.77,md,18,247,0.8326,0.61,pr,pr2023131001,2023-05-11T05:05:01.450Z,"86 km NE of Punta Cana, Dominican Republic",earthquake,3.24,11.47,0.04,10,reviewed,pr,pr
 2023-05-11T04:09:45.130Z,33.7093333,-116.754,15.64,0.47,ml,18,172,0.03325,0.1,ci,ci40222575,2023-05-11T14:19:21.453Z,"5km SW of Idyllwild, CA",earthquake,0.27,0.27,0.22,3,reviewed,ci,ci
 2023-05-11T04:04:56.105Z,63.3016,-150.4687,111.3,1.8,ml,,,,0.41,ak,ak02360pt9ox,2023-05-11T04:07:36.809Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-05-11T03:54:46.710Z,34.2383333,-117.5011667,6.26,1.62,ml,50,22,0.03056,0.22,ci,ci40222567,2023-05-11T04:05:34.300Z,"2km S of Lytle Creek, CA",earthquake,0.21,0.53,0.095,26,automatic,ci,ci
+2023-05-11T03:54:46.560Z,34.2363333,-117.501,8.34,1.56,ml,63,21,0.01556,0.17,ci,ci40222567,2023-05-11T15:51:15.690Z,"2km S of Lytle Creek, CA",earthquake,0.14,0.3,0.125,48,reviewed,ci,ci
 2023-05-11T03:46:39.090Z,33.827,-117.2213333,2.7,1.34,ml,60,49,0.03704,0.2,ci,ci40222551,2023-05-11T15:28:02.284Z,"5km N of Perris, CA",earthquake,0.16,0.28,0.154,37,reviewed,ci,ci
 2023-05-11T03:43:46.420Z,19.1863327026367,-155.482162475586,30.3799991607666,1.82000005,md,32,205,,0.119999997,hv,hv73395927,2023-05-11T05:41:27.280Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.79,0.930000007,1.03999996,3,automatic,hv,hv
 2023-05-11T03:42:53.220Z,38.8170013,-122.8231659,2.11,0.94,md,11,73,0.009382,0.02,nc,nc73886411,2023-05-11T04:07:15.251Z,"7km NW of The Geysers, CA",earthquake,0.33,0.88,0.19,12,automatic,nc,nc
@@ -200,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T16:02:17.110Z,44.307,-114.846833333333,4.66,2.29,ml,18,62,0.5849,0.14,mb,mb90013268,2023-05-10T21:28:21.210Z,"12 km NE of Stanley, Idaho",earthquake,0.29,0.76,0.20285217230957,22,reviewed,mb,mb
 2023-05-10T16:02:00.451Z,-15.6002,-174.6077,210.097,7.6,mww,111,17,3.631,0.81,us,us6000kawn,2023-05-11T09:33:22.886Z,"95 km WNW of Hihifo, Tonga",earthquake,7.68,0.986,0.055,32,reviewed,us,us
 2023-05-10T15:59:57.880Z,47.86266666666667,-122.02316666666667,25.13,0.86,ml,8,176,0.02738,0.09,uw,uw61923296,2023-05-10T21:15:06.480Z,"Puget Sound region, Washington",earthquake,0.56,0.67,0.03667536702452667,3,reviewed,uw,uw
-2023-05-10T15:55:20.429Z,34.67516667,-96.1315,17.33,1.68,ml,39,260,0.2159576217,0.28,ok,ok2023jcxi,2023-05-10T16:05:46.199Z,"9 km WNW of Wardville, Oklahoma",earthquake,,1.8,0.23,15,reviewed,ok,ok
-2023-05-10T15:51:03.890Z,33.5865,-116.75,13.15,0.94,ml,33,30,0.01378,0.2,ci,ci40222271,2023-05-10T16:07:55.346Z,"8km WNW of Anza, CA",earthquake,0.28,0.46,0.142,24,reviewed,ci,ci
