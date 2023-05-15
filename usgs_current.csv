@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-15T10:23:54.600Z,19.2374992370605,-155.403335571289,31.3199996948242,1.82000005,md,39,153,,0.119999997,hv,hv73403042,2023-05-15T10:26:58.680Z,"Island of Hawaii, Hawaii",earthquake,0.57,0.680000007,1.37,10,automatic,hv,hv
 2023-05-15T10:22:14.594Z,65.1332,-148.0216,8.4,1,ml,,,,0.1,ak,ak02367fmxlf,2023-05-15T10:24:02.087Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-15T10:20:14.870Z,37.8376656,-122.0491638,8.78,1.04,md,15,57,0.02383,0.03,nc,nc73888356,2023-05-15T10:21:50.511Z,"2km SW of Alamo, CA",earthquake,0.29,0.53,0.14,7,automatic,nc,nc
 2023-05-15T10:19:34.970Z,35.5056667,-118.389,10.06,0.8,ml,16,66,0.1714,0.07,ci,ci40225399,2023-05-15T10:23:13.742Z,"13km SE of Bodfish, CA",earthquake,0.16,0.6,0.093,8,automatic,ci,ci
@@ -191,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T11:12:44.668Z,60.1285,-152.6098,89.6,1.4,ml,,,,0.21,ak,ak02365smxv6,2023-05-14T11:14:54.221Z,"52 km WNW of Happy Valley, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-05-14T11:09:37.150Z,18.0015,-66.8795,14.1,2.05,md,8,107,0.0263,0.12,pr,pr71409403,2023-05-14T11:19:23.870Z,"Puerto Rico region",earthquake,0.85,0.82,0.0595309267454207,5,reviewed,pr,pr
 2023-05-14T10:46:55.050Z,17.928,-66.9676666666667,16.51,2.33,md,12,229,0.08372,0.08,pr,pr71409393,2023-05-14T11:05:51.270Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.45,0.43,0.0859217763482774,6,reviewed,pr,pr
-2023-05-14T10:25:15.350Z,38.8366661,-122.8366699,1.45,1.51,md,20,105,0.002131,0.02,nc,nc73887946,2023-05-14T12:04:11.449Z,"10km NW of The Geysers, CA",earthquake,0.23,0.36,0.12,22,automatic,nc,nc
