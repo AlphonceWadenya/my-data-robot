@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-16T11:31:27.250Z,33.2316666,-116.0759964,10.57,1.36,ml,47,54,0.1008,0.24,ci,ci40225983,2023-05-16T11:34:54.263Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.3,0.7,0.158,4,automatic,ci,ci
 2023-05-16T11:24:17.310Z,33.7096667,-116.7293333,17.79,0.37,ml,12,85,0.01273,0.15,ci,ci40225967,2023-05-16T11:27:54.443Z,"4km SSW of Idyllwild, CA",earthquake,0.56,0.71,0.08,4,automatic,ci,ci
-2023-05-16T11:10:37.180Z,37.2921677,-121.6618347,6.6,1.23,md,13,81,0.03432,0.05,nc,nc73888736,2023-05-16T11:12:13.610Z,"16km E of Seven Trees, CA",earthquake,0.35,0.73,0.12,8,automatic,nc,nc
+2023-05-16T11:10:37.180Z,37.2921677,-121.6618347,6.6,1.23,md,13,81,0.03432,0.05,nc,nc73888736,2023-05-16T11:33:09.853Z,"16km E of Seven Trees, CA",earthquake,0.35,0.73,0.12,8,automatic,nc,nc
 2023-05-16T11:05:48.670Z,38.7936668,-122.7281647,1.55,1.09,md,12,116,0.02561,0.02,nc,nc73888731,2023-05-16T11:25:09.805Z,"3km NE of The Geysers, CA",earthquake,0.29,0.96,0.2,12,automatic,nc,nc
 2023-05-16T11:02:43.520Z,60.1201,-152.6018,88.6,2,ml,,,,0.18,ak,ak023693nhls,2023-05-16T11:04:15.577Z,"52 km WNW of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-16T11:01:24.120Z,34.0388333,-116.8436667,20.93,1.04,ml,28,69,0.03003,0.18,ci,ci40225959,2023-05-16T11:05:03.176Z,"13km NNE of Banning, CA",earthquake,0.28,0.62,0.189,28,automatic,ci,ci
