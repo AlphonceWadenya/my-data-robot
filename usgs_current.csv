@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T17:11:22.212Z,57.6418,-156.1189,1.1,1.5,ml,,,,0.41,ak,ak0236autbj1,2023-05-17T17:12:34.265Z,"77 km E of Ugashik, Alaska",earthquake,,17.3,,,automatic,ak,ak
 2023-05-17T17:08:29.120Z,38.3713341,-122.9148331,18.45,2.4,md,6,208,0.3412,0.12,nc,nc73889221,2023-05-17T17:10:03.142Z,"5km SE of Occidental, CA",earthquake,6.51,10.73,0.78,2,automatic,nc,nc
 2023-05-17T17:05:41.460Z,38.8351669,-122.8193359,2.16,0.82,md,13,65,0.01307,0.01,nc,nc73889216,2023-05-17T17:24:10.044Z,"8km NW of The Geysers, CA",earthquake,0.37,1.17,0.14,14,automatic,nc,nc
-2023-05-17T17:05:13.470Z,38.7949982,-122.7791672,3.47,1.03,md,21,83,0.007075,0.02,nc,nc73889211,2023-05-17T17:17:11.994Z,"3km NW of The Geysers, CA",earthquake,0.31,0.55,0.24,22,automatic,nc,nc
+2023-05-17T17:05:13.470Z,38.7949982,-122.7791672,3.47,1.03,md,21,83,0.007075,0.02,nc,nc73889211,2023-05-17T17:32:13.094Z,"3km NW of The Geysers, CA",earthquake,0.31,0.55,0.24,22,automatic,nc,nc
 2023-05-17T16:47:12.290Z,38.8356667,-122.7845001,2.09,1.01,md,16,69,0.005322,0.02,nc,nc73889206,2023-05-17T17:22:14.032Z,"6km WNW of Cobb, CA",earthquake,0.26,0.52,0.1,16,automatic,nc,nc
 2023-05-17T16:30:34.075Z,-6.596,147.1225,52.094,4.9,mb,83,73,2.791,0.68,us,us6000kck9,2023-05-17T16:54:46.085Z,"19 km NE of Lae, Papua New Guinea",earthquake,10,7.155,0.051,123,reviewed,us,us
 2023-05-17T16:10:50.600Z,40.5231667,-124.7598343,1.67,2.84,md,30,263,0.4803,0.24,nc,nc73889196,2023-05-17T16:38:13.733Z,"42km W of Ferndale, CA",earthquake,2.04,3.19,0.11,12,automatic,nc,nc
@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-16T17:43:31.670Z,17.919,-66.9518333333333,9.92,2.6,md,17,226,0.06701,0.11,pr,pr71409623,2023-05-16T17:56:01.370Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.57,0.42,0.347729004988166,10,reviewed,pr,pr
 2023-05-16T17:39:12.193Z,62.1308,-145.3297,22.3,1.3,ml,,,,0.46,ak,ak023697fyb7,2023-05-16T17:41:05.951Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-16T17:38:16.020Z,40.2343333,-121.1595,5.7,2.29,md,33,42,0.01717,0.15,nc,nc73888836,2023-05-16T20:52:11.300Z,"2km NE of Almanor, CA",earthquake,0.26,0.34,0.135,36,reviewed,nc,nc
-2023-05-16T17:33:11.610Z,47.8,-122.576,29.31,1.48,ml,15,57,0.04142,0.24,uw,uw61916182,2023-05-16T19:10:14.680Z,"5 km W of Kingston, Washington",earthquake,0.72,1.03,0.1374338315946595,7,reviewed,uw,uw
