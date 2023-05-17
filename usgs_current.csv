@@ -202,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-16T11:43:52.060Z,33.4815,-116.4445,12.12,0.88,ml,42,88,0.04464,0.12,ci,ci40226007,2023-05-16T20:20:25.846Z,"23km ESE of Anza, CA",earthquake,0.17,0.39,0.088,18,reviewed,ci,ci
 2023-05-16T11:43:07.610Z,33.481,-116.452,11.45,1.51,ml,55,78,0.04766,0.2,ci,ci40225999,2023-05-16T13:15:45.650Z,"22km ESE of Anza, CA",earthquake,0.23,0.44,0.188,26,reviewed,ci,ci
 2023-05-16T11:41:41.120Z,38.838665,-122.7868347,1.85,0.37,md,6,124,0.002753,0.02,nc,nc73888751,2023-05-16T11:58:12.018Z,"6km WNW of Cobb, CA",earthquake,0.98,2.02,0.28,7,automatic,nc,nc
-2023-05-16T11:37:26.630Z,40.2371667,-121.1678333,6.02,3.24,ml,42,33,0.02014,0.2,nc,nc73888746,2023-05-16T23:58:52.060Z,"2km NNE of Almanor, CA",earthquake,0.28,0.64,0.166,44,reviewed,nc,nc
