@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T20:59:53.310Z,32.8108333,-115.5836667,11.76,2.19,ml,33,55,0.09243,0.29,ci,ci40226959,2023-05-17T21:12:32.666Z,"4km NW of El Centro, CA",earthquake,0.43,0.82,0.248,26,automatic,ci,ci
 2023-05-17T20:54:19.229Z,60.9306,-151.5497,69.1,1.1,ml,,,,0.26,ak,ak0236awutwi,2023-05-17T20:56:31.554Z,"27 km SW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-17T20:51:50.650Z,38.7868347,-122.765831,1.79,0.75,md,12,94,0.01458,0.03,nc,nc73889326,2023-05-17T21:11:11.534Z,"1km NW of The Geysers, CA",earthquake,0.35,0.88,0.04,11,automatic,nc,nc
-2023-05-17T20:35:21.880Z,38.7801666,-122.7663345,1.06,1.56,md,27,84,0.009443,0.04,nc,nc73889311,2023-05-17T20:58:10.449Z,"1km WNW of The Geysers, CA",earthquake,0.2,0.34,0.14,27,automatic,nc,nc
+2023-05-17T20:35:21.880Z,38.7801666,-122.7663345,1.06,1.56,md,27,84,0.009443,0.04,nc,nc73889311,2023-05-17T21:26:13.636Z,"1km WNW of The Geysers, CA",earthquake,0.2,0.34,0.14,27,automatic,nc,nc
 2023-05-17T20:35:14.930Z,32.8933333,-116.2743333,7.01,0.99,ml,22,88,0.0658,0.14,ci,ci40226951,2023-05-17T20:38:49.079Z,"25km ENE of Pine Valley, CA",earthquake,0.24,0.59,0.115,10,automatic,ci,ci
 2023-05-17T20:28:35.290Z,38.7266655,-122.685997,-0.84,0.96,md,6,185,0.04273,0.29,nc,nc73889301,2023-05-17T21:04:12.489Z,"5km S of Anderson Springs, CA",earthquake,3.71,5.34,0.21,5,automatic,nc,nc
 2023-05-17T20:24:27.650Z,17.9565,-66.9531666666667,7.55,2.56,md,5,214,0.07273,0.15,pr,pr71409753,2023-05-17T20:37:28.060Z,"5 km WSW of Guánica, Puerto Rico",earthquake,1.02,0.43,0.142077902302006,4,reviewed,pr,pr
@@ -235,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-16T21:38:38.900Z,34.9841667,-118.1858333,-0.91,1.28,ml,15,59,0.1108,0.24,ci,ci40226287,2023-05-17T19:59:10.930Z,"8km S of Mojave, CA",quarry blast,0.53,31.61,0.119,11,reviewed,ci,ci
 2023-05-16T21:38:04.560Z,58.2661,-155.3357,1.5,1.5,ml,,,,0.43,ak,ak023699tgfc,2023-05-16T21:39:43.336Z,"90 km ESE of King Salmon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-16T21:29:25.590Z,19.2393341064453,-155.401840209961,33.25,2.53,ml,42,136,,0.159999996,hv,hv73405347,2023-05-16T22:08:40.040Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.58,0.769999981,2.55,12,automatic,hv,hv
-2023-05-16T21:29:02.475Z,10.6891,-45.5449,10,4.7,mb,71,63,8.953,0.78,us,us6000kce9,2023-05-16T21:49:12.040Z,"North Atlantic Ocean",earthquake,9.7,1.865,0.055,102,reviewed,us,us
