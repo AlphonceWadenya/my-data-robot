@@ -195,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-16T13:49:55.040Z,17.968,-66.8336666666667,12.26,2.24,md,7,201,0.04396,0.07,pr,pr71409603,2023-05-16T14:03:41.630Z,"Puerto Rico",earthquake,0.59,0.5,0.0272314511807712,4,reviewed,pr,pr
 2023-05-16T13:44:01.948Z,39.4204,-119.6875,6.7,1.6,ml,23,83.7,0.06,0.1318,nn,nn00859590,2023-05-16T16:37:16.876Z,"12 km NNW of Virginia City, Nevada",earthquake,,0.8,0.37,6,reviewed,nn,nn
 2023-05-16T13:38:18.390Z,33.4725,-116.5536667,8.79,0.39,ml,18,111,0.04621,0.12,ci,ci40226023,2023-05-16T20:13:46.910Z,"14km SE of Anza, CA",earthquake,0.25,0.48,0.109,10,reviewed,ci,ci
-2023-05-16T13:35:58.230Z,44.886,-111.409,14.84,0.72,ml,7,260,0.05731,0.07,mb,mb90014273,2023-05-16T23:03:20.310Z,"western Montana",earthquake,2.28,1.48,0.210925519252872,3,reviewed,mb,mb
