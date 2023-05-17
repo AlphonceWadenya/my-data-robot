@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-17T19:48:25.986Z,36.65289307,-98.65428162,3.333110809,1.78,ml,14,99.73603058,0.05732312053,0.3558333481,ok,ok2023jpzq,2023-05-17T19:50:16.206Z,"Oklahoma",earthquake,3.666887827,2.916585683,0.22,8,automatic,ok,ok
+2023-05-17T19:47:49.782Z,58.2835,-155.0436,25.4,0.6,ml,,,,0.81,ak,ak0236aw7yn6,2023-05-17T19:49:52.476Z,"86 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-17T19:37:07.700Z,19.0611667633057,-155.468505859375,33.4900016784668,2.01999998,md,25,242,,0.150000006,hv,hv73406637,2023-05-17T19:42:22.070Z,"11 km E of Naalehu, Hawaii",earthquake,0.84,1.40999997,0.980000019,7,automatic,hv,hv
 2023-05-17T19:25:09.492Z,64.9892,-147.2902,0,1.7,ml,,,,1.08,ak,ak0236aw35s5,2023-05-17T19:27:04.259Z,"15 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-17T19:24:49.710Z,38.8126678,-122.8290024,1.42,0.87,md,16,62,0.003797,0.02,nc,nc73889276,2023-05-17T19:41:13.997Z,"7km WNW of The Geysers, CA",earthquake,0.21,0.48,0.18,16,automatic,nc,nc
