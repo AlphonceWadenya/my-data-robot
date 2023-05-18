@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T17:26:55.659Z,58.2164,-155.1602,39.9,0.4,ml,,,,1.11,ak,ak0236cig1sf,2023-05-18T17:29:00.239Z,"83 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-18T17:25:35.850Z,36.1308333,-117.577,2.71,0.12,ml,5,161,0.09628,0.12,ci,ci40227583,2023-05-18T18:04:02.497Z,"35km ENE of Coso Junction, CA",earthquake,0.96,3.91,0.017,1,reviewed,ci,ci
 2023-05-18T17:20:21.972Z,58.9473,-152.8875,207.4,2,ml,,,,0.81,ak,ak0236ciel7l,2023-05-18T17:23:17.168Z,"71 km SW of Nanwalek, Alaska",earthquake,,7.9,,,automatic,ak,ak
-2023-05-18T17:14:51.100Z,40.375,-124.2926667,27.53,2.24,md,18,170,0.09451,0.08,nc,nc73889661,2023-05-18T20:48:25.771Z,"6km N of Petrolia, CA",earthquake,0.5,0.52,0.5,21,reviewed,nc,nc
+2023-05-18T17:14:51.100Z,40.375,-124.2926667,27.53,2.24,md,18,170,0.09451,0.08,nc,nc73889661,2023-05-18T20:52:10.475Z,"6km N of Petrolia, CA",earthquake,0.5,0.52,0.5,21,reviewed,nc,nc
 2023-05-18T17:12:45.210Z,38.8066673,-122.8268356,2.4,0.9,md,12,69,0.00286,0.03,nc,nc73889656,2023-05-18T17:31:15.219Z,"7km WNW of The Geysers, CA",earthquake,0.34,0.79,0.2,13,automatic,nc,nc
 2023-05-18T17:10:48.910Z,62.6814,-148.2943,45.7,1.5,ml,,,,0.56,ak,ak0236cicid7,2023-05-18T17:13:08.371Z,"85 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-18T17:01:34.250Z,37.8699989,-121.9788361,11.08,1.63,md,11,189,0.0156,0.03,nc,nc73889651,2023-05-18T19:24:15.928Z,"4km NNW of Diablo, CA",earthquake,0.56,0.73,0.2,8,automatic,nc,nc
@@ -71,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T13:59:44.934Z,64.2251,-149.9925,5.2,1.1,ml,,,,1.2,ak,ak0236cg99q5,2023-05-18T14:02:21.022Z,"39 km W of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-18T13:54:31.079Z,58.3759,-155.2173,0,0.4,ml,,,,1.37,ak,ak0236cg8624,2023-05-18T13:57:19.316Z,"91 km ESE of King Salmon, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-18T13:51:15.650Z,19.2514991760254,-155.408340454102,32.2200012207031,2.22,ml,48,126,,0.129999995,hv,hv73407682,2023-05-18T13:56:47.700Z,"9 km NE of Pāhala, Hawaii",earthquake,0.58,0.790000021,3.61,6,automatic,hv,hv
-2023-05-18T13:46:15.740Z,40.2155,-121.1318333,7.22,2.85,md,41,35,0.0338,0.23,nc,nc73889591,2023-05-18T20:41:10.410Z,"2km ENE of Prattville, CA",earthquake,0.37,0.62,0.171,76,reviewed,nc,nc
+2023-05-18T13:46:15.740Z,40.2155,-121.1318333,7.22,2.85,md,41,35,0.0338,0.23,nc,nc73889591,2023-05-18T20:54:17.491Z,"2km ENE of Prattville, CA",earthquake,0.37,0.62,0.171,76,reviewed,nc,nc
 2023-05-18T13:40:31.490Z,34.035,-116.3246667,9.63,0.7,ml,19,69,0.06409,0.09,ci,ci40227391,2023-05-18T16:34:41.658Z,"11km S of Joshua Tree, CA",earthquake,0.18,0.32,0.14,6,reviewed,ci,ci
 2023-05-18T13:34:43.390Z,34.0338333,-116.321,8.97,1.13,ml,39,46,0.06729,0.13,ci,ci40227383,2023-05-18T16:28:50.028Z,"11km S of Joshua Tree, CA",earthquake,0.15,0.35,0.09,21,reviewed,ci,ci
 2023-05-18T13:34:41.790Z,61.706,-151.3314,10.2,1.5,ml,,,,0.36,ak,ak0236cg3wkz,2023-05-18T13:36:46.730Z,"31 km S of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -273,6 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T21:06:00.744Z,63.7844,-147.7011,0,1.1,ml,,,,0.85,ak,ak0236ax5xpm,2023-05-17T21:08:19.317Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-17T20:59:56.020Z,59.4105,-152.9037,70.8,1.2,ml,,,,0.29,ak,ak0236awvzbm,2023-05-17T21:02:08.096Z,"56 km W of Nanwalek, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-05-17T20:59:53.200Z,32.8083333,-115.5851667,11.48,2.2,ml,43,54,0.05243,0.26,ci,ci40226959,2023-05-17T23:04:43.427Z,"3km NW of El Centro, CA",earthquake,0.29,0.48,0.225,25,reviewed,ci,ci
-2023-05-17T20:54:19.229Z,60.9306,-151.5497,69.1,1.1,ml,,,,0.26,ak,ak0236awutwi,2023-05-17T20:56:31.554Z,"27 km SW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-05-17T20:51:50.650Z,38.7868347,-122.765831,1.79,0.75,md,12,94,0.01458,0.03,nc,nc73889326,2023-05-17T21:11:11.534Z,"1km NW of The Geysers, CA",earthquake,0.35,0.88,0.04,11,automatic,nc,nc
-2023-05-17T20:50:39.570Z,47.909,-121.87866666666666,-0.41,1.44,md,5,119,0.1269,0.17,uw,uw61916497,2023-05-18T04:53:29.120Z,"3 km NNE of Woods Creek, Washington",explosion,0.72,31.61,0.17467399057632127,5,reviewed,uw,uw
