@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-18T15:55:52.433Z,40.1087,-121.0971,8,4,mw,4,,,,ew,ew1684425360,2023-05-18T15:56:05.583Z,"7 km SSW of Canyondam, California",earthquake,20.161,5,0.4,4,automatic,ew,ew
+2023-05-18T15:53:22.043Z,59.6115,-152.1984,60.7,1.7,ml,,,,0.49,ak,ak0236chesvg,2023-05-18T15:55:07.901Z,"27 km SW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-18T15:40:54.280Z,38.8148346,-122.8188324,1.04,1.08,md,23,52,0.01004,0.03,nc,nc73889626,2023-05-18T15:42:31.017Z,"7km NW of The Geysers, CA",earthquake,0.17,0.39,0.15,25,automatic,nc,nc
 2023-05-18T15:34:51.310Z,38.7926674,-122.746666,1.46,1.02,md,7,91,0.01221,0.02,nc,nc73889621,2023-05-18T15:51:14.603Z,"2km NNE of The Geysers, CA",earthquake,0.35,0.96,0.13,8,automatic,nc,nc
 2023-05-18T15:26:28.270Z,19.4136657714844,-155.257659912109,0.589999973773956,2.22,ml,26,56,,0.140000001,hv,hv73407777,2023-05-18T15:31:59.620Z,"4 km SW of Volcano, Hawaii",earthquake,0.18,0.239999995,0.37,10,automatic,hv,hv
@@ -139,6 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T04:31:58.903Z,58.9562,-154.3892,124.3,1.5,ml,,,,0.47,ak,ak0236caqeb6,2023-05-18T04:34:28.772Z,"58 km SSE of Kokhanok, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-05-18T04:14:22.551Z,62.9313,-151.2304,114.6,1.1,ml,,,,0.25,ak,ak0236camobz,2023-05-18T04:16:14.975Z,"53 km NNW of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-05-18T03:55:04.116Z,63.4726,-148.6104,8.6,0.7,ml,,,,0.62,ak,ak0236ca9zod,2023-05-18T03:57:17.101Z,"19 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-18T03:52:12.750Z,44.8113333333333,-111.6075,13.43,1.26,ml,18,82,0.09143,0.18,mb,mb90014448,2023-05-18T15:53:22.770Z,"33 km W of Hebgen Lake Estates, Montana",earthquake,0.35,0.65,0.204378719541121,15,reviewed,mb,mb
 2023-05-18T03:49:24.989Z,61.4513,-149.9007,38.7,0.9,ml,,,,0.33,ak,ak0236ca8qz6,2023-05-18T03:51:20.773Z,"8 km SSE of Big Lake, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-18T03:44:37.210Z,58.1759,-155.3082,0.5,0.7,ml,,,,0.16,ak,ak0236ca7pc9,2023-05-18T03:56:09.798Z,"84 km NW of Karluk, Alaska",earthquake,,127.1,,,automatic,ak,ak
 2023-05-18T03:44:15.006Z,58.2824,-155.1585,14.9,0,ml,,,,0.45,ak,ak0236ca7nmk,2023-05-18T03:46:27.473Z,"89 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
