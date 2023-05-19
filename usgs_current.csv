@@ -2,7 +2,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-19T10:30:22.670Z,38.8354988,-122.7904968,1.94,1.09,md,19,54,0.002908,0.03,nc,nc73889871,2023-05-19T10:31:58.590Z,"6km WNW of Cobb, CA",earthquake,0.23,0.42,0.12,21,automatic,nc,nc
 2023-05-19T10:28:23.348Z,59.7546,-152.6056,81.3,1.5,ml,,,,0.36,ak,ak0236e1tmji,2023-05-19T10:30:03.845Z,"43 km W of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-19T10:22:15.870Z,38.8221664,-122.8225021,2.32,0.66,md,8,88,0.009785,0.01,nc,nc73889866,2023-05-19T10:23:49.239Z,"8km NW of The Geysers, CA",earthquake,0.56,1.2,0.31,8,automatic,nc,nc
-2023-05-19T10:15:22.710Z,38.8325005,-122.8148346,1.44,1.34,md,26,45,0.009823,0.04,nc,nc73889851,2023-05-19T10:29:11.599Z,"8km NW of The Geysers, CA",earthquake,0.18,0.32,0.14,28,automatic,nc,nc
+2023-05-19T10:15:46.701Z,-23.2615,170.8345,34.663,5,mb,54,122,3.189,0.82,us,us6000kd46,2023-05-19T10:37:15.040Z,"southeast of the Loyalty Islands",earthquake,8.89,5.066,0.067,73,reviewed,us,us
+2023-05-19T10:15:22.710Z,38.8325005,-122.8148346,1.44,1.34,md,26,45,0.009823,0.04,nc,nc73889851,2023-05-19T10:37:14.647Z,"8km NW of The Geysers, CA",earthquake,0.18,0.32,0.14,28,automatic,nc,nc
 2023-05-19T10:10:59.210Z,38.8139992,-122.8714981,9.67,0.48,md,8,214,0.01612,0.05,nc,nc73889846,2023-05-19T10:27:17.585Z,"11km WNW of The Geysers, CA",earthquake,1.55,1.4,0.29,7,automatic,nc,nc
 2023-05-19T10:07:39.911Z,61.3889,-145.8413,15.6,1.3,ml,,,,0.58,ak,ak0236e1p5s7,2023-05-19T10:09:33.629Z,"39 km NE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-19T10:04:23.330Z,-23.4135,170.3607,21.728,4.8,mb,27,126,2.801,1.24,us,us6000kd43,2023-05-19T10:28:10.040Z,"southeast of the Loyalty Islands",earthquake,9.38,5.29,0.125,21,reviewed,us,us
@@ -263,4 +264,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T10:46:58.531Z,61.9798,-148.3026,30.6,1.4,ml,,,,0.54,ak,ak0236cee7nh,2023-05-18T10:48:52.361Z,"22 km NNE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-05-18T10:44:33.780Z,18.3918,-64.1173,4,3.79,md,20,219,0.8401,0.94,pr,pr2023138002,2023-05-18T12:30:58.861Z,"71 km E of Cruz Bay, U.S. Virgin Islands",earthquake,11.82,3.86,0.02,3,reviewed,pr,pr
 2023-05-18T10:43:45.391Z,-6.204,-101.7577,10,4.8,mb,82,89,12.696,0.8,us,us6000kcsa,2023-05-18T11:00:27.040Z,"central East Pacific Rise",earthquake,8.52,1.844,0.036,235,reviewed,us,us
-2023-05-18T10:38:14.923Z,60.1981,-147.8193,13.6,1.2,ml,,,,0.36,ak,ak0236cecek4,2023-05-18T10:39:49.754Z,"18 km NE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
