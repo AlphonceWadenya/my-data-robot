@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-20T05:45:15.394Z,60.8219,-151.1401,5.7,1.8,ml,,,,0.95,ak,ak0236fmhfon,2023-05-20T05:47:39.085Z,"16 km NNE of Nikiski, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-20T05:43:51.080Z,38.8346672,-122.8054962,2.6,0.77,md,15,60,0.01181,0.02,nc,nc73890196,2023-05-20T05:45:24.785Z,"7km W of Cobb, CA",earthquake,0.31,1.02,0.18,14,automatic,nc,nc
 2023-05-20T05:12:44.980Z,61.5994,-151.5796,5,1.6,ml,,,,0.81,ak,ak0236fmaf82,2023-05-20T05:15:04.431Z,"44 km SSW of Skwentna, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-05-20T05:07:40.550Z,60.8934,-149.5801,15.6,2.6,ml,,,,0.7,ak,ak0236fm9cdi,2023-05-20T05:09:16.261Z,"4 km SE of Hope, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-20T05:04:57.440Z,33.6901667,-116.7908333,16.41,0.73,ml,21,82,0.06726,0.2,ci,ci40229031,2023-05-20T05:08:29.548Z,"9km SW of Idyllwild, CA",earthquake,0.42,0.66,0.187,13,automatic,ci,ci
@@ -294,8 +296,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-19T05:58:48.176Z,62.0882,-146.9512,63.9,1.4,ml,,,,1,ak,ak0236dz0y17,2023-05-19T06:01:33.580Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-19T05:58:06.350Z,19.4228324890137,-155.241500854492,0.649999976158142,2.04,ml,20,127,,0.0799999982,hv,hv73408927,2023-05-19T06:03:37.650Z,"2 km SSW of Volcano, Hawaii",earthquake,0.21,0.270000011,0.24,12,automatic,hv,hv
 2023-05-19T05:54:14.178Z,-23.2906,171.013,10,4.8,mb,35,88,3.356,0.82,us,us6000kd2f,2023-05-19T23:05:38.040Z,"southeast of the Loyalty Islands",earthquake,9.69,1.911,0.105,28,reviewed,us,us
-2023-05-19T05:53:43.680Z,40.9735,-73.8842,10.299,2.2,ml,33,83,0.113,0.21,us,us6000kd2b,2023-05-20T05:28:58.434Z,"2 km S of Hastings-on-Hudson, New York",earthquake,2.1,7.565,0.105,12,reviewed,us,us
+2023-05-19T05:53:43.680Z,40.9735,-73.8842,10.299,2.2,ml,33,83,0.113,0.21,us,us6000kd2b,2023-05-20T05:47:09.026Z,"2 km S of Hastings-on-Hudson, New York",earthquake,2.1,7.565,0.105,12,reviewed,us,us
 2023-05-19T05:52:50.210Z,38.8003349,-122.7593307,2.27,0.43,md,12,91,0.0004155,0.02,nc,nc73889796,2023-05-19T06:11:18.029Z,"3km N of The Geysers, CA",earthquake,0.33,0.83,0.21,13,automatic,nc,nc
 2023-05-19T05:52:27.808Z,-23.2007,171.011,10,4.9,mb,28,119,3.338,0.43,us,us6000kdbf,2023-05-19T23:02:45.040Z,"southeast of the Loyalty Islands",earthquake,7.87,1.722,0.123,21,reviewed,us,us
-2023-05-19T05:49:10.326Z,58.1328,-155.376,18.8,0.5,ml,,,,1.25,ak,ak0236dyyxr1,2023-05-19T05:51:17.986Z,"83 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-19T05:44:54.330Z,38.8378334,-122.8040009,1.18,0.88,md,16,60,0.01068,0.02,nc,nc73889791,2023-05-19T06:01:11.960Z,"7km WNW of Cobb, CA",earthquake,0.2,0.7,0.15,17,automatic,nc,nc
