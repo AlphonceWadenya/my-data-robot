@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-20T15:37:28.700Z,38.7989998,-122.8003311,0.99,0.29,md,10,102,0.009779,0.03,nc,nc73890381,2023-05-20T15:51:10.704Z,"4km WNW of The Geysers, CA",earthquake,0.28,0.64,0.07,10,automatic,nc,nc
+2023-05-20T15:37:28.700Z,38.7989998,-122.8003311,0.99,0.29,md,10,102,0.009779,0.03,nc,nc73890381,2023-05-20T15:58:13.746Z,"4km WNW of The Geysers, CA",earthquake,0.28,0.64,0.07,10,automatic,nc,nc
 2023-05-20T15:37:03.280Z,19.1463333333333,-155.363,27.99,1.47,md,28,227,,0.12,hv,hv73411777,2023-05-20T15:50:32.990Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.62,0.91,0.0323193297065911,11,reviewed,hv,hv
 2023-05-20T15:25:56.900Z,19.390832901001,-155.136840820312,2.5,1.81,ml,8,148,,0.280000001,hv,hv73411762,2023-05-20T15:31:34.100Z,"8 km S of Fern Forest, Hawaii",earthquake,1.56,2.1099999,3.43,7,automatic,hv,hv
 2023-05-20T15:25:54.300Z,19.3255004882812,-155.123992919922,2.20000004768372,1.91,ml,41,120,,0.170000002,hv,hv73411757,2023-05-20T15:31:28.200Z,"15 km S of Fern Forest, Hawaii",earthquake,0.33,0.589999974,2.72,11,automatic,hv,hv
