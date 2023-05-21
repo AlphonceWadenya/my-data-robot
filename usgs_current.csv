@@ -287,4 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-20T16:06:30.770Z,34.0898333,-117.3101667,8.14,1.74,ml,72,19,0.00632,0.22,ci,ci40229543,2023-05-20T16:10:07.582Z,"2km N of Colton, CA",earthquake,0.2,0.66,0.201,25,automatic,ci,ci
 2023-05-20T16:05:33.650Z,33.042,-115.9888333,10.4,0.87,ml,9,79,0.1315,0.11,ci,ci40229535,2023-05-20T16:09:17.680Z,"17km SE of Ocotillo Wells, CA",earthquake,0.31,1.39,0.059,5,automatic,ci,ci
 2023-05-20T15:54:43.744Z,61.0426,-151.6046,48,1.6,ml,,,,0.64,ak,ak0236fshr92,2023-05-21T07:38:41.541Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-05-20T15:37:28.700Z,38.7989998,-122.8003311,0.99,0.29,md,10,102,0.009779,0.03,nc,nc73890381,2023-05-20T15:58:13.746Z,"4km WNW of The Geysers, CA",earthquake,0.28,0.64,0.07,10,automatic,nc,nc
