@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-22T23:49:59.860Z,33.7321663,-116.8460007,15.64,1.05,ml,34,89,0.07893,0.16,ci,ci40231895,2023-05-22T23:52:06.846Z,"5km ESE of Valle Vista, CA",earthquake,0.34,0.58,0.276,11,automatic,ci,ci
 2023-05-22T23:43:23.009Z,37.2916,-117.58,0.2,1.4,ml,14,187.54,0.535,0.2978,nn,nn00860124,2023-05-22T23:45:45.527Z,"51 km S of Silver Peak, Nevada",earthquake,,49.8,0.78,11,automatic,nn,nn
 2023-05-22T23:37:48.810Z,38.7921677,-122.8014984,3.03,1.49,md,29,66,0.004028,0.02,nc,nc73891441,2023-05-22T23:41:00.856Z,"4km WNW of The Geysers, CA",earthquake,0.22,0.45,0.19,27,automatic,nc,nc
+2023-05-22T23:36:03.580Z,17.9925,-66.8043333333333,17.58,1.99,md,5,188,0.07339,0.07,pr,pr71410488,2023-05-22T23:47:38.680Z,"1 km E of Indios, Puerto Rico",earthquake,0.48,0.78,0.0614216873678444,5,reviewed,pr,pr
 2023-05-22T23:29:46.030Z,17.9831666666667,-66.8031666666667,17.42,2.19,md,6,192,0.07287,0.08,pr,pr71410478,2023-05-22T23:42:52.660Z,"2 km SE of Indios, Puerto Rico",earthquake,1.21,0.62,0.101721519407831,5,reviewed,pr,pr
 2023-05-22T23:28:42.070Z,38.7698326,-122.7249985,7.44,0.45,md,6,207,0.008228,0.05,nc,nc73891436,2023-05-22T23:30:16.654Z,"3km ESE of The Geysers, CA",earthquake,2.31,6.6,0.32,6,automatic,nc,nc
 2023-05-22T23:27:54.520Z,35.0298333,-117.684,0.24,1.59,ml,18,95,0.09576,0.28,ci,ci40231887,2023-05-22T23:32:30.588Z,"5km NW of Boron, CA",quarry blast,0.89,31.61,0.118,32,automatic,ci,ci
@@ -198,7 +200,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T08:20:47.760Z,33.125,-116.4006667,4.93,0.94,ml,37,91,0.05706,0.19,ci,ci40231063,2023-05-22T19:21:47.145Z,"15km S of Borrego Springs, CA",earthquake,0.27,0.74,0.146,24,reviewed,ci,ci
 2023-05-22T08:14:11.954Z,60.7919,-147.301,16.8,1.7,ml,,,,0.28,ak,ak0236iz5rwr,2023-05-22T08:15:30.479Z,"34 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-22T08:13:02.471Z,65.3914,-145.0094,0,1.8,ml,,,,0.86,ak,ak0236iz5jgn,2023-05-22T08:15:03.647Z,"22 km SSW of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-05-22T08:11:13.210Z,38.8323326,-122.7961655,2.1,1.26,md,24,46,0.007582,0.02,nc,nc73891161,2023-05-22T09:37:12.665Z,"6km W of Cobb, CA",earthquake,0.21,0.41,0.21,25,automatic,nc,nc
+2023-05-22T08:11:13.190Z,38.832,-122.797,2.16,1.13,md,43,39,0.008245,0.04,nc,nc73891161,2023-05-22T23:48:50.979Z,"6km W of Cobb, CA",earthquake,0.11,0.2,0.178,39,reviewed,nc,nc
 2023-05-22T08:09:15.600Z,38.8348351,-122.795166,2.61,0.89,md,9,130,0.005188,0.03,nc,nc73891156,2023-05-22T09:08:12.440Z,"6km WNW of Cobb, CA",earthquake,0.7,1.8,0.31,10,automatic,nc,nc
 2023-05-22T08:03:12.840Z,40.164,-121.073,5.24,2.33,md,30,47,0.1003,0.16,nc,nc73891151,2023-05-22T19:57:16.462Z,"1km SSE of Canyondam, CA",earthquake,0.27,0.7,0.217,42,reviewed,nc,nc
 2023-05-22T07:51:11.617Z,-17.1861,-64.1187,613.114,4.8,mb,85,37,1.38,0.7,us,us6000kdu3,2023-05-22T08:07:29.040Z,"Cochabamba-Santa Cruz border region, Bolivia",earthquake,9.87,7.242,0.022,642,reviewed,us,us
