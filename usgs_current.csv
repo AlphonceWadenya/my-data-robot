@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T22:35:34.802Z,61.0111,-152.0958,19.1,0.8,ml,,,,0.38,ak,ak0236j7me6g,2023-05-22T22:37:26.976Z,"52 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-22T22:17:26.620Z,36.9127,-115.4636,1,1.3,ml,16,306.03,0.4,0.3702,nn,nn00860116,2023-05-22T22:19:36.648Z,"42 km NNE of Indian Springs, Nevada",earthquake,,39.6,0.77,13,automatic,nn,nn
 2023-05-22T22:17:06.870Z,33.4616667,-116.5808333,9.12,1.6,ml,50,45,0.03747,0.17,ci,ci40231831,2023-05-22T22:27:59.400Z,"14km SE of Anza, CA",earthquake,0.18,0.42,0.225,27,automatic,ci,ci
-2023-05-22T22:17:06.740Z,33.4608345,-116.578331,10.29,2.6,ml,14,103,0.03923,0.14,ci,ci40231839,2023-05-22T22:19:30.914Z,"14km SE of Anza, CA",earthquake,0.46,0.84,0.651,7,automatic,ci,ci
+2023-05-22T22:17:06.740Z,33.4608345,-116.578331,10.29,2.6,ml,14,103,0.03923,0.14,ci,ci40231839,2023-05-22T22:39:58.010Z,"14km SE of Anza, CA",earthquake,0.46,0.84,0.651,7,automatic,ci,ci
 2023-05-22T22:16:57.710Z,19.2093334197998,-155.424667358398,33.2999992370605,2.26,ml,38,154,,0.150000006,hv,hv73416287,2023-05-22T22:22:28.750Z,"5 km E of Pāhala, Hawaii",earthquake,0.57,0.720000029,0.01,3,automatic,hv,hv
 2023-05-22T22:14:04.411Z,37.3437,-117.6917,0.1,0.5,ml,8,336.04,0.638,0.3631,nn,nn00860115,2023-05-22T22:16:33.009Z,"45 km S of Silver Peak, Nevada",earthquake,,59.5,0.77,6,automatic,nn,nn
 2023-05-22T21:54:41.520Z,38.8154984,-122.822998,2.24,1.09,md,26,49,0.008194,0.02,nc,nc73891396,2023-05-22T22:13:09.649Z,"7km NW of The Geysers, CA",earthquake,0.21,0.37,0.17,26,automatic,nc,nc
@@ -59,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T17:51:56.640Z,19.3938333333333,-155.277666666667,1.83,0.8,md,19,59,,0.09,hv,hv73415892,2023-05-22T21:54:18.390Z,"7 km SW of Volcano, Hawaii",earthquake,0.33,0.24,0.181291044885866,6,reviewed,hv,hv
 2023-05-22T17:48:03.727Z,37.2787,-117.5892,5.7,1.1,ml,10,224.1,0.064,0.162,nn,nn00860094,2023-05-22T18:57:45.125Z,"California-Nevada border region",earthquake,,5.7,0.84,8,reviewed,nn,nn
 2023-05-22T17:47:39.770Z,38.7965012,-122.7850037,3.42,0.99,md,8,125,0.004024,0.02,nc,nc73891321,2023-05-22T18:07:11.799Z,"3km NW of The Geysers, CA",earthquake,0.67,1.5,0.23,8,automatic,nc,nc
-2023-05-22T17:46:42.747Z,46.0698,21.3982,11.297,4.2,mb,34,44,0.482,0.77,us,us7000k30y,2023-05-22T22:11:27.336Z,"6 km S of Fântânele, Romania",earthquake,3.38,6.236,0.159,11,reviewed,us,us
+2023-05-22T17:46:42.747Z,46.0698,21.3982,11.297,4.2,mb,34,44,0.482,0.77,us,us7000k30y,2023-05-22T22:39:36.016Z,"6 km S of Fântânele, Romania",earthquake,3.38,6.236,0.159,11,reviewed,us,us
 2023-05-22T17:45:04.700Z,18.723,-64.7453333333333,43.37,3.3,md,8,288,0.3902,0.18,pr,pr71410388,2023-05-22T18:12:01.690Z,"43 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.25,3.74,0.0975443620720406,4,reviewed,pr,pr
 2023-05-22T17:43:33.230Z,19.183666229248,-155.496673583984,32.8899993896484,1.77999997,md,30,158,,0.0900000036,hv,hv73415887,2023-05-22T17:49:18.980Z,"2 km SW of Pāhala, Hawaii",earthquake,0.63,0.959999979,1.64999998,6,automatic,hv,hv
 2023-05-22T17:39:05.230Z,19.4375,-155.3105,2.87,2.19,ml,31,68,,0.12,hv,hv73415882,2023-05-22T22:13:07.560Z,"8 km W of Volcano, Hawaii",earthquake,0.27,0.43,0.230646316910696,9,reviewed,hv,hv
@@ -268,4 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T22:52:28.113Z,61.2189,-149.1365,17.4,0.7,ml,,,,0.29,ak,ak0236hk6nd1,2023-05-21T23:04:55.176Z,"25 km ESE of Eagle River, Alaska",earthquake,,1,,,reviewed,ak,ak
 2023-05-21T22:49:39.040Z,33.318,-116.1848333,11.01,0.75,ml,33,50,0.1134,0.2,ci,ci40230823,2023-05-22T19:46:10.408Z,"18km SSW of Oasis, CA",earthquake,0.27,0.6,0.135,8,reviewed,ci,ci
 2023-05-21T22:48:46.840Z,35.6835,-117.516,11.23,1.7,ml,22,61,0.07735,0.2,ci,ci40230815,2023-05-22T13:22:55.359Z,"14km SW of Searles Valley, CA",earthquake,0.41,0.71,0.147,22,reviewed,ci,ci
-2023-05-21T22:42:00.430Z,59.5123,-152.9009,86.3,1.7,ml,,,,0.57,ak,ak0236hk4h1n,2023-05-21T22:44:28.178Z,"58 km WNW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
