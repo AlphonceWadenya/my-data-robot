@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-23T10:52:55.980Z,36.1081657,-117.8981705,3.6,1.34,ml,15,119,0.03631,0.18,ci,ci40232143,2023-05-23T10:55:02.028Z,"8km NNE of Coso Junction, CA",earthquake,0.51,0.83,0.229,8,automatic,ci,ci
-2023-05-23T10:45:22.540Z,38.7421684,-122.9483337,0.16,1.61,md,11,142,0.05864,0.05,nc,nc73891646,2023-05-23T10:46:59.174Z,"9km SE of Cloverdale, CA",earthquake,0.45,1.17,0.29,10,automatic,nc,nc
+2023-05-23T10:56:18.270Z,38.8035011,-122.7788315,1.28,1.1,md,9,148,0.009851,0.01,nc,nc73891651,2023-05-23T10:57:54.372Z,"4km NNW of The Geysers, CA",earthquake,0.42,0.79,0.25,11,automatic,nc,nc
+2023-05-23T10:52:56.070Z,36.1015,-117.8883333,4.18,1.16,ml,12,177,0.0315,0.18,ci,ci40232143,2023-05-23T10:56:36.526Z,"8km NE of Coso Junction, CA",earthquake,0.69,0.55,0.236,12,automatic,ci,ci
+2023-05-23T10:45:22.540Z,38.7421684,-122.9483337,0.16,1.61,md,11,142,0.05864,0.05,nc,nc73891646,2023-05-23T10:57:11.074Z,"9km SE of Cloverdale, CA",earthquake,0.45,1.17,0.29,10,automatic,nc,nc
 2023-05-23T10:44:53.230Z,19.130500793457,-155.397171020508,31.3799991607666,2.1500001,md,45,182,,0.119999997,hv,hv73417147,2023-05-23T10:48:03.280Z,"11 km SE of Pāhala, Hawaii",earthquake,0.54,0.819999993,1.33000004,26,automatic,hv,hv
 2023-05-23T10:40:42.905Z,37.2709,-117.6142,4.2,0,ml,9,239.39,0.046,0.2839,nn,nn00860171,2023-05-23T10:43:05.216Z,"53 km S of Silver Peak, Nevada",earthquake,,4.6,1.03,6,automatic,nn,nn
 2023-05-23T10:28:56.700Z,38.8293343,-122.8166656,1.68,0.39,md,8,123,0.007854,0.02,nc,nc73891641,2023-05-23T10:41:11.091Z,"8km NW of The Geysers, CA",earthquake,0.55,1.23,0.23,9,automatic,nc,nc
