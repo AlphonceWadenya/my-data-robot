@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-23T23:30:21.680Z,33.9798317,-118.0683365,18.73,1.43,ml,16,103,0.1585,0.34,ci,ci40232607,2023-05-23T23:34:07.055Z,"3km E of Pico Rivera, CA",earthquake,1.09,2.5,0.267,7,automatic,ci,ci
 2023-05-23T23:18:42.238Z,60.9412,-150.9526,58.2,1.9,ml,,,,0.16,ak,ak0236kvnjof,2023-05-23T23:20:07.985Z,"14 km W of Point Possession, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-23T23:18:19.907Z,-36.7806,-73.728,18.222,4.2,mb,24,135,0.433,0.54,us,us7000k3cp,2023-05-23T23:29:07.040Z,"54 km W of Talcahuano, Chile",earthquake,1.97,5.844,0.215,6,reviewed,us,us
 2023-05-23T23:09:45.048Z,60.1103,-153.0302,107.5,1.7,ml,,,,0.19,ak,ak0236kvlmg8,2023-05-23T23:11:16.125Z,"70 km ENE of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-23T23:06:58.113Z,51.608,-175.9174,32.7,2.6,ml,,,,0.35,ak,ak0236kvl0ci,2023-05-23T23:27:10.656Z,"57 km ESE of Adak, Alaska",earthquake,,1.4,,,reviewed,ak,ak
-2023-05-23T22:57:32.310Z,-36.799,-73.7412,17.164,4.5,mb,25,194,0.445,0.59,us,us7000k3ck,2023-05-23T23:07:24.040Z,"56 km W of Talcahuano, Chile",earthquake,4.57,5.853,0.135,16,reviewed,us,us
+2023-05-23T22:57:32.310Z,-36.799,-73.7412,17.164,4.5,mb,25,194,0.445,0.59,us,us7000k3ck,2023-05-23T23:33:17.699Z,"56 km W of Talcahuano, Chile",earthquake,4.57,5.853,0.135,16,reviewed,us,us
 2023-05-23T22:33:57.940Z,33.5455,-116.783,10.89,0.65,ml,23,64,0.04301,0.25,ci,ci40232575,2023-05-23T22:37:40.819Z,"10km W of Anza, CA",earthquake,0.44,0.77,0.183,16,automatic,ci,ci
 2023-05-23T22:24:39.300Z,38.8153343,-122.831665,1.4,1.08,md,20,52,0.006743,0.01,nc,nc73889200,2023-05-23T23:07:14.030Z,"8km WNW of The Geysers, CA",earthquake,0.19,0.4,0.14,20,automatic,nc,nc
 2023-05-23T22:21:49.169Z,29.6995,81.2361,10,4.3,mb,36,179,4.023,0.51,us,us7000k3ch,2023-05-23T23:20:52.040Z,"56 km NNE of Dipayal, Nepal",earthquake,11.59,1.964,0.129,17,reviewed,us,us
