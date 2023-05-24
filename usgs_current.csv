@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-24T06:48:01.450Z,19.4051666259766,-155.319671630859,3.51999998092651,1.85000002,md,31,66,,0.150000006,hv,hv73418617,2023-05-24T06:51:04.580Z,"9 km WSW of Volcano, Hawaii",earthquake,0.32,0.5,1.16999996,18,automatic,hv,hv
 2023-05-24T06:44:09.347Z,57.9792,-156.3586,136.5,2.8,ml,,,,0.82,ak,ak0236m980z6,2023-05-24T06:47:37.014Z,"65 km ESE of Egegik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-24T06:30:23.507Z,61.8277,-147.9022,14.6,2.2,ml,,,,0.41,ak,ak0236m9521a,2023-05-24T06:31:41.892Z,"13 km W of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-24T06:22:25.140Z,38.8261681,-122.8521652,1.82,0.89,md,17,89,0.003926,0.02,nc,nc73889285,2023-05-24T06:39:16.642Z,"10km WNW of The Geysers, CA",earthquake,0.25,0.47,0.19,18,automatic,nc,nc
