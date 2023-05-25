@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-25T18:55:50.706Z,62.0501,-149.7163,30.2,1.6,ml,,,,0.59,ak,ak0236o3z0t8,2023-05-25T18:58:28.540Z,"14 km SSE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-25T18:52:59.750Z,19.1515007019043,-155.492172241211,30.1499996185303,1.97000003,md,38,143,,0.170000002,hv,hv73421372,2023-05-25T18:56:16.690Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.85,1.01999998,0.360000014,9,automatic,hv,hv
 2023-05-25T18:44:19.562Z,62.4706,-149.422,32.5,1.3,ml,,,,0.62,ak,ak0236o3wliu,2023-05-25T18:47:04.651Z,"35 km E of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-25T18:18:41.610Z,37.9711685,-121.8440018,17.17,2.23,md,31,107,0.1158,0.11,nc,nc73889815,2023-05-25T18:41:18.108Z,"5km SW of Antioch, CA",earthquake,0.26,0.49,0.18,27,automatic,nc,nc
 2023-05-25T18:10:13.030Z,34.3423333,-118.47,5.42,1.46,ml,24,80,0.03986,0.21,ci,ci40233559,2023-05-25T18:13:55.700Z,"4km NNW of Sylmar, CA",earthquake,0.29,0.6,0.19,29,automatic,ci,ci
@@ -18,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T17:04:05.020Z,36.6705017,-121.3411636,1.76,1.73,md,10,68,0.03714,0.14,nc,nc73889775,2023-05-25T18:38:21.090Z,"13km S of Tres Pinos, CA",earthquake,0.38,1.02,0.1,7,automatic,nc,nc
 2023-05-25T17:03:18.250Z,35.831,-117.6653333,7.8,1.8,ml,21,105,0.05718,0.16,ci,ci40233471,2023-05-25T17:06:55.816Z,"23km N of Ridgecrest, CA",earthquake,0.28,0.7,0.113,21,automatic,ci,ci
 2023-05-25T16:47:51.246Z,58.1811,-155.3486,0,0.1,ml,,,,0.27,ak,ak0236o2qfvd,2023-05-25T16:58:06.178Z,"86 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-05-25T16:41:13.960Z,33.6611667,-116.7471667,12.47,1.01,ml,35,60,0.05696,0.16,ci,ci40233447,2023-05-25T16:44:57.010Z,"9km SSW of Idyllwild, CA",earthquake,0.23,0.36,0.181,28,automatic,ci,ci
+2023-05-25T16:41:13.870Z,33.6665,-116.7466667,13.14,0.95,ml,33,106,0.05214,0.12,ci,ci40233447,2023-05-25T19:00:10.454Z,"9km SSW of Idyllwild, CA",earthquake,0.2,0.32,0.146,23,reviewed,ci,ci
 2023-05-25T16:35:26.260Z,36.01716667,-96.53116667,0,1.29,ml,64,79,0.1763653911,0.3,ok,ok2023kejh,2023-05-25T16:44:18.438Z,"7 km ENE of Drumright, Oklahoma",quarry blast,,0.3,0.15,29,reviewed,ok,ok
 2023-05-25T16:34:02.457Z,-59.5892,-26.3507,94.063,5.1,mb,60,71,7.677,0.62,us,us7000k3yq,2023-05-25T16:53:07.040Z,"South Sandwich Islands region",earthquake,4.9,7.335,0.075,59,reviewed,us,us
 2023-05-25T16:30:42.278Z,31.69246592,-104.3592571,6.182983398,1.9,ml,21,78,0.0580973117,0.3,tx,tx2023kejd,2023-05-25T17:31:38.172Z,"53 km S of Whites City, New Mexico",earthquake,0.874413959,0.87265368,0.2,15,reviewed,tx,tx
