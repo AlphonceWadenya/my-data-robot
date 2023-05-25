@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T03:14:57.757Z,8.8985,-77.1197,10,4.9,mb,32,76,2.156,0.65,us,us7000k3n8,2023-05-25T03:47:25.040Z,"41 km NE of Puerto Obaldía, Panama",earthquake,5.69,1.931,0.095,35,reviewed,us,us
 2023-05-25T03:12:33.200Z,33.4465,-116.5671667,11.41,0.87,ml,29,79,0.05629,0.13,ci,ci40233223,2023-05-25T03:16:08.830Z,"16km SE of Anza, CA",earthquake,0.2,0.45,0.164,24,automatic,ci,ci
 2023-05-25T03:07:14.801Z,65.6256,-149.0978,0,1.1,ml,,,,0.47,ak,ak0236nur5ke,2023-05-25T03:09:31.203Z,"27 km WNW of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-05-25T03:05:33.394Z,8.8894,-77.1231,10,6.6,mww,50,129,2.163,0.91,us,us7000k3n3,2023-05-25T04:25:08.372Z,"Panama-Colombia border region",earthquake,9.44,1.93,0.036,74,reviewed,us,us
+2023-05-25T03:05:33.394Z,8.8894,-77.1231,10,6.6,mww,50,129,2.163,0.91,us,us7000k3n3,2023-05-25T04:30:19.874Z,"Panama-Colombia border region",earthquake,9.44,1.93,0.036,74,reviewed,us,us
 2023-05-25T03:02:13.050Z,34.7363333,-120.1576667,2.14,1.83,ml,21,65,0.1007,0.21,ci,ci40233215,2023-05-25T03:13:28.400Z,"9km NNW of Los Olivos, CA",earthquake,0.34,0.62,0.153,24,automatic,ci,ci
 2023-05-25T03:00:14.249Z,58.1885,-155.2811,0,0.3,ml,,,,0.19,ak,ak0236nupnio,2023-05-25T03:02:10.239Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-05-25T02:58:47.750Z,33.0306667,-115.991,5.08,1.32,ml,26,54,0.1429,0.24,ci,ci40233207,2023-05-25T03:09:20.630Z,"18km SE of Ocotillo Wells, CA",earthquake,0.39,1.31,0.188,27,automatic,ci,ci
@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T01:57:34.730Z,33.4611667,-116.614,11.06,0.13,ml,13,99,0.1061,0.38,ci,ci40233199,2023-05-25T02:01:11.675Z,"12km SSE of Anza, CA",earthquake,1.26,2.55,0.044,3,automatic,ci,ci
 2023-05-25T01:56:14.480Z,38.7746658,-122.7181702,2.6,0.73,md,6,131,0.01406,0.02,nc,nc73889615,2023-05-25T02:36:13.053Z,"2km W of Anderson Springs, CA",earthquake,0.48,0.69,0.3,6,automatic,nc,nc
 2023-05-25T01:54:39.480Z,38.8283348,-122.8014984,1.55,0.49,md,9,81,0.008319,0.01,nc,nc73889610,2023-05-25T02:26:11.992Z,"7km W of Cobb, CA",earthquake,0.43,1.26,0.32,10,automatic,nc,nc
-2023-05-25T01:44:58.570Z,38.8271675,-122.8014984,1.61,1.6,md,25,53,0.007685,0.02,nc,nc73889605,2023-05-25T04:29:11.873Z,"7km NW of The Geysers, CA",earthquake,0.18,0.36,0.14,28,automatic,nc,nc
+2023-05-25T01:44:58.570Z,38.8271675,-122.8014984,1.61,1.6,md,25,53,0.007685,0.02,nc,nc73889605,2023-05-25T04:33:13.775Z,"7km NW of The Geysers, CA",earthquake,0.18,0.36,0.14,28,automatic,nc,nc
 2023-05-25T01:37:10.310Z,38.8235016,-122.8531647,2.18,0.6,md,8,128,0.004969,0.01,nc,nc73889595,2023-05-25T01:54:14.789Z,"10km WNW of The Geysers, CA",earthquake,0.39,0.97,0.13,9,automatic,nc,nc
 2023-05-25T01:27:28.110Z,38.8325005,-122.8014984,2.43,0.69,md,10,93,0.01052,0.01,nc,nc73889590,2023-05-25T01:44:12.732Z,"7km W of Cobb, CA",earthquake,0.4,1.35,0.11,12,automatic,nc,nc
 2023-05-25T01:23:13.310Z,33.3291667,-115.8476667,9.98,1.36,ml,9,176,0.2383,0.15,ci,ci40233191,2023-05-25T01:26:55.144Z,"11km ENE of Salton City, CA",earthquake,1.72,31.61,0.253,27,automatic,ci,ci
@@ -261,4 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T04:55:39.090Z,35.7768333,-117.5685,7.68,1.08,ml,10,140,0.04543,0.19,ci,ci40232719,2023-05-24T13:06:01.598Z,"15km W of Searles Valley, CA",earthquake,0.5,0.99,0.109,8,reviewed,ci,ci
 2023-05-24T04:42:13.265Z,63.2854,-150.3873,109.5,1.4,ml,,,,0.3,ak,ak0236m80qmm,2023-05-24T04:44:18.028Z,"72 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-24T04:36:13.800Z,33.774,-116.9308333,13.48,0.67,ml,31,150,0.08689,0.14,ci,ci40232711,2023-05-24T16:04:06.921Z,"3km ESE of San Jacinto, CA",earthquake,0.26,0.44,0.1,9,reviewed,ci,ci
-2023-05-24T04:30:08.170Z,40.227,-124.1815,11.05,1.51,md,18,156,0.02458,0.11,nc,nc73889275,2023-05-25T02:53:16.152Z,"14km SE of Petrolia, CA",earthquake,0.29,0.3,0.171,9,reviewed,nc,nc
