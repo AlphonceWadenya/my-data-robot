@@ -263,5 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T05:34:58.885Z,31.61466608,-103.9694983,6.889953613000001,2.7,ml,15,50,0.004012248974,0.1,tx,tx2023kfiz,2023-05-26T08:02:07.700Z,"36 km WSW of Mentone, Texas",earthquake,0.4508431272,0.5021525052,0.1,25,reviewed,tx,tx
 2023-05-26T05:29:03.615Z,63.3399,-149.936,110.3,1.5,ml,,,,0.36,ak,ak0236pjm261,2023-05-26T05:31:20.131Z,"49 km W of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-26T05:28:04.230Z,35.8788333,-117.3728333,7.82,1.15,ml,16,104,0.07369,0.14,ci,ci40233879,2023-05-26T18:36:35.092Z,"13km NNE of Searles Valley, CA",earthquake,0.37,1.19,0.158,12,reviewed,ci,ci
-2023-05-26T05:24:22.009Z,37.2977,-117.5859,6.8,1.5,ml,11,106.57,0.081,0.1503,nn,nn00860325,2023-05-26T20:09:28.891Z,"Nevada",earthquake,,2.9,0.73,7,reviewed,nn,nn
-2023-05-26T05:24:09.930Z,58.1798333333333,-155.3135,1.98,-0.12,ml,10,64,,0.07,av,av91772317,2023-05-26T21:02:37.070Z,"84 km NW of Karluk, Alaska",earthquake,0.19,0.5,0.325206953893113,11,reviewed,av,av
