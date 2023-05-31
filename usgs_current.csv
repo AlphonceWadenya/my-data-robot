@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-31T11:20:13.509Z,25.1168,96.1871,10,5.8,mww,109,63,4.398,0.5,us,us7000k58h,2023-05-31T11:41:46.065Z,"125 km WSW of Myitkyina, Myanmar",earthquake,7.54,1.856,0.093,11,reviewed,us,us
+2023-05-31T11:20:13.509Z,25.1168,96.1871,10,5.8,mww,109,63,4.398,0.5,us,us7000k58h,2023-05-31T11:46:57.440Z,"125 km WSW of Myitkyina, Myanmar",earthquake,7.54,1.856,0.093,11,reviewed,us,us
 2023-05-31T11:10:08.010Z,33.6268333,-116.6955,15.75,0.95,ml,37,36,0.06611,0.15,ci,ci40238703,2023-05-31T11:13:42.944Z,"8km NNW of Anza, CA",earthquake,0.23,0.35,0.16,28,automatic,ci,ci
 2023-05-31T11:02:50.430Z,33.3488333,-116.3305,11.11,0.63,ml,15,113,0.1083,0.18,ci,ci40238695,2023-05-31T11:06:34.990Z,"11km NNE of Borrego Springs, CA",earthquake,0.43,0.73,0.107,13,automatic,ci,ci
 2023-05-31T10:55:18.193Z,1.5057,-90.5778,10,5,mb,99,163,9.888,0.93,us,us7000k58f,2023-05-31T11:15:18.040Z,"250 km N of Puerto Ayora, Ecuador",earthquake,10.31,1.913,0.027,434,reviewed,us,us
@@ -224,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T12:10:27.180Z,33.2336667,-115.6323333,2.71,1.4,ml,19,71,0.05106,0.18,ci,ci40237607,2023-05-30T17:38:38.677Z,"11km W of Niland, CA",earthquake,0.29,0.4,0.318,9,reviewed,ci,ci
 2023-05-30T12:05:58.903Z,58.1976,-155.4256,0,0.1,ml,,,,0.73,ak,ak0236w9sggi,2023-05-30T12:07:11.116Z,"90 km SE of King Salmon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-30T11:49:29.997Z,31.59875412,-104.2301677,2.660986328,2.6,ml,14,70,0.09141049426,0.1,tx,tx2023kndj,2023-05-30T17:51:08.022Z,"52 km NW of Toyah, Texas",earthquake,1.54760136,1.942634179,0.1,8,reviewed,tx,tx
-2023-05-30T11:47:29.260Z,33.9501667,-116.6373333,16.93,0.55,ml,19,74,0.08857,0.14,ci,ci40237575,2023-05-30T17:33:47.959Z,"10km WNW of Garnet, CA",earthquake,0.28,0.67,0.062,5,reviewed,ci,ci
