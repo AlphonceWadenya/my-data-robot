@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-01T03:42:47.354Z,35.70823288,-98.05703735,4.307278156,1.98,ml,23,69.27140808,0.1379121244,0.4723381672,ok,ok2023kqei,2023-06-01T03:45:01.742Z,"7 km WSW of Okarche, Oklahoma",earthquake,2.879788278,2.421147401,0.2,19,automatic,ok,ok
 2023-06-01T03:26:29.754Z,61.6508,-151.3247,8.1,1,ml,,,,0.13,ak,ak0236zfmosf,2023-06-01T03:27:43.762Z,"38 km S of Skwentna, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-06-01T03:23:12.400Z,19.2081661224365,-155.382171630859,28.2399997711182,2.23,ml,49,158,,0.170000002,hv,hv73433297,2023-06-01T03:28:45.670Z,"10 km E of Pāhala, Hawaii",earthquake,0.55,0.720000029,3.19,21,automatic,hv,hv
 2023-06-01T03:03:31.746Z,39.8745,-120.6182,3.6,1.8,ml,8,277.48,0.199,0.0998,nn,nn00860596,2023-06-01T03:05:52.192Z,"6 km ENE of Cromberg, California",earthquake,,4.5,0.2,4,automatic,nn,nn
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T02:40:58.861Z,61.5041,-146.6138,31.1,1.2,ml,,,,0.97,ak,ak0236zf4bge,2023-06-01T02:43:35.493Z,"43 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-01T02:33:32.800Z,19.6315,-65.7171,58,3.96,md,14,282,1.3723,0.4,pr,pr2023152000,2023-06-01T02:55:21.444Z,"133 km N of Suárez, Puerto Rico",earthquake,4.01,13.7,0.1,11,reviewed,pr,pr
 2023-06-01T02:19:22.654Z,35.70960236,-98.11399078,5.193984985,1.76,ml,10,69.5112648,0.09450898319,1.009346762,ok,ok2023kqbo,2023-06-01T02:21:50.168Z,"12 km N of Calumet, Oklahoma",earthquake,4.168595451,4.850867929,0.18,7,automatic,ok,ok
-2023-06-01T02:15:54.100Z,33.8241667,-118.1728333,4.81,2.64,ml,65,74,0.04007,0.32,ci,ci40239415,2023-06-01T03:38:29.918Z,"2km NNW of Signal Hill, CA",earthquake,0.35,0.77,0.242,27,automatic,ci,ci
+2023-06-01T02:15:54.100Z,33.8241667,-118.1728333,4.81,2.64,ml,65,74,0.04007,0.32,ci,ci40239415,2023-06-01T03:43:33.859Z,"2km NNW of Signal Hill, CA",earthquake,0.35,0.77,0.242,27,automatic,ci,ci
 2023-06-01T02:10:48.918Z,64.6979,-148.1754,14.1,2.2,ml,,,,0.54,ak,ak0236zexv7f,2023-06-01T03:26:11.373Z,"18 km SSW of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-01T01:51:47.310Z,17.9503333333333,-66.9303333333333,9.83,2.22,md,5,211,0.05448,0.09,pr,pr71411923,2023-06-01T02:01:13.270Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.68,0.55,0.224360398540097,5,reviewed,pr,pr
 2023-06-01T01:29:02.270Z,34.015,-116.8908333,0.12,1.46,ml,9,210,0.1195,0.25,ci,ci40239407,2023-06-01T01:32:54.029Z,"10km N of Banning, CA",earthquake,0.98,31.61,0.255,16,automatic,ci,ci
@@ -220,7 +221,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T09:04:18.771Z,58.2595,-155.1178,3.7,0.8,ml,,,,0.91,ak,ak0236xvj7c6,2023-05-31T09:07:04.013Z,"86 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-31T09:01:11.170Z,33.3868333,-116.8601667,3.73,0.48,ml,17,80,0.1239,0.27,ci,ci40238623,2023-05-31T09:04:38.672Z,"4km N of Palomar Observatory, CA",earthquake,0.45,1.36,0.123,13,automatic,ci,ci
 2023-05-31T09:00:23.266Z,40.1121,-119.7271,15,0.7,ml,3,207.88,0.058,0.1061,nn,nn00860580,2023-06-01T02:04:10.163Z,"20 km NNW of Sutcliffe, Nevada",earthquake,,3.6,0.3,3,reviewed,nn,nn
-2023-05-31T08:54:04.320Z,33.8245,-118.1823333,4.62,2.03,ml,42,71,0.03673,0.33,ci,ci40238615,2023-06-01T03:36:16.009Z,"3km NNW of Signal Hill, CA",earthquake,0.46,0.94,0.205,27,automatic,ci,ci
+2023-05-31T08:54:04.320Z,33.8245,-118.1823333,4.62,2.03,ml,42,71,0.03673,0.33,ci,ci40238615,2023-06-01T03:41:28.191Z,"3km NNW of Signal Hill, CA",earthquake,0.46,0.94,0.205,27,automatic,ci,ci
 2023-05-31T08:49:53.990Z,38.688,-112.5008333,8.05,1.26,ml,11,227,0.08892,0.1,uu,uu60541296,2023-05-31T13:29:43.240Z,"13 km SSW of Kanosh, Utah",earthquake,1.87,1.33,0.157,4,reviewed,uu,uu
 2023-05-31T08:46:40.711Z,31.60623083,-104.2503938,7.314135742,2.1,ml,25,70,0.06663821662,0.3,tx,tx2023kosv,2023-05-31T13:32:32.075Z,"54 km NW of Toyah, Texas",earthquake,1.34224653,1.099679805,0.2,18,reviewed,tx,tx
 2023-05-31T08:42:19.431Z,40.1874,-119.7649,13,0.4,ml,3,249.62,0.031,0.0912,nn,nn00860579,2023-06-01T02:04:09.400Z,"29 km NNW of Sutcliffe, Nevada",earthquake,,4.1,0.23,3,reviewed,nn,nn
@@ -276,4 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T03:54:58.630Z,33.2356667,-115.628,3.21,1.28,ml,12,78,0.05259,0.17,ci,ci40238471,2023-05-31T14:13:51.795Z,"10km W of Niland, CA",earthquake,0.35,0.41,0.236,12,reviewed,ci,ci
 2023-05-31T03:51:52.694Z,59.6251,-152.8374,81,0.8,ml,,,,0.23,ak,ak0236xs8qyt,2023-05-31T03:53:51.503Z,"59 km WSW of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-31T03:46:18.957Z,59.7185,-150.4408,33,1.4,ml,,,,0.66,ak,ak0236xs7ls9,2023-05-31T03:48:58.402Z,"32 km ESE of Fox River, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-05-31T03:44:27.662Z,58.3915,-155.3049,74.9,0.5,ml,,,,0.99,ak,ak0236xs77qa,2023-05-31T03:51:24.317Z,"85 km ESE of King Salmon, Alaska",earthquake,,0.6,,,automatic,ak,ak
