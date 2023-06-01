@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T18:36:19.610Z,38.8323326,-122.819664,1.42,0.85,md,11,57,0.01165,0.02,nc,nc73894781,2023-05-31T19:04:13.907Z,"8km NW of The Geysers, CA",earthquake,0.31,0.8,0.22,11,automatic,nc,nc
 2023-05-31T18:32:23.210Z,19.4146666666667,-155.295,1.51,0.8,md,14,82,,0.1,hv,hv73432632,2023-05-31T19:01:25.410Z,"7 km WSW of Volcano, Hawaii",earthquake,0.21,0.21,0.168466911457096,2,reviewed,hv,hv
 2023-05-31T18:16:52.600Z,37.5691667,-118.781,6.15,0.37,md,10,218,0.04353,0.03,nc,nc73894776,2023-05-31T20:06:10.290Z,"9km W of Toms Place, CA",earthquake,2.13,1.75,0.258,10,reviewed,nc,nc
-2023-05-31T17:55:06.223Z,65.3586,-144.518,12.1,1.6,ml,,,,0.87,ak,ak0236y0lkpq,2023-05-31T18:06:55.482Z,"27 km SSE of Central, Alaska",earthquake,,0.7,,,automatic,ak,ak
