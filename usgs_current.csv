@@ -342,4 +342,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-02T16:25:19.790Z,34.0035,-116.8738333,6.23,0.87,ml,20,89,0.0633,0.21,ci,ci40475952,2023-06-02T16:29:00.106Z,"9km N of Banning, CA",earthquake,0.33,0.9,0.175,20,automatic,ci,ci
 2023-06-02T16:16:01.388Z,60.0132,-139.0741,9.2,1.4,ml,,,,1.02,ak,ak02371augsq,2023-06-02T16:18:05.303Z,"63 km NE of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-02T16:12:05.832Z,39.614,-119.9649,9,1.8,ml,26,67.83,0.007,0.1263,nn,nn00860692,2023-06-03T02:04:56.252Z,"7 km S of Cold Springs, Nevada",earthquake,,1.1,0.22,7,reviewed,nn,nn
-2023-06-02T16:00:54.437Z,-17.7412,-178.4648,535.331,4.6,mb,59,99,3.319,0.89,us,us7000k5ub,2023-06-02T17:07:51.040Z,"237 km E of Levuka, Fiji",earthquake,5.36,7.719,0.083,43,reviewed,us,us
