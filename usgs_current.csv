@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-04T09:23:26.193Z,58.2408,-155.0652,1.1,0.9,ml,,,,0.41,ak,ak02374hsoi1,2023-06-04T09:27:00.757Z,"Alaska Peninsula",earthquake,,2.1,,,automatic,ak,ak
 2023-06-04T09:20:48.430Z,61.6278,-146.1245,29.7,1.4,ml,,,,0.79,ak,ak02374hs31n,2023-06-04T09:23:12.239Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-04T09:02:39.660Z,38.8084984,-122.7740021,0.45,0.63,md,6,122,0.007061,0.04,nc,nc73896801,2023-06-04T09:21:14.510Z,"4km NNW of The Geysers, CA",earthquake,0.53,1.16,0.19,8,automatic,nc,nc
 2023-06-04T08:56:23.583Z,58.2481,-155.1769,1.4,0.8,ml,,,,0.45,ak,ak02374hebau,2023-06-04T08:58:15.331Z,"86 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
