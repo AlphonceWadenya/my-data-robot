@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-06T13:49:42.071Z,36.9788,-116.2741,10.8,0.3,ml,11,87.18,0.036,0.3368,nn,nn00860910,2023-06-06T13:51:27.678Z,"43 km E of Beatty, Nevada",earthquake,,0.8,0.14,7,automatic,nn,nn
 2023-06-06T13:42:45.690Z,38.8101654,-122.760498,-0.63,0.77,md,8,105,0.009546,0.02,nc,nc73897721,2023-06-06T13:44:19.222Z,"4km WSW of Cobb, CA",earthquake,0.34,1.2,0.23,10,automatic,nc,nc
 2023-06-06T13:41:12.280Z,35.1995,-118.6026667,5.77,1.31,ml,21,46,0.07723,0.14,ci,ci40479360,2023-06-06T13:44:47.918Z,"16km WNW of Tehachapi, CA",earthquake,0.25,0.98,0.165,20,automatic,ci,ci
 2023-06-06T13:36:18.431Z,58.2034,-155.2564,2.2,1.9,ml,,,,1.19,ak,ak02377vbuns,2023-06-06T13:44:28.621Z,"85 km NW of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -85,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-06T02:56:01.400Z,40.485,-124.7696667,15.73,3.5,ml,95,223,0.3298,0.14,nc,nc73897551,2023-06-06T06:31:14.174Z,"44km WSW of Ferndale, CA",earthquake,0.55,0.47,0.226,62,reviewed,nc,nc
 2023-06-06T02:33:17.180Z,38.8160019,-122.8256683,1.67,0.52,md,7,90,0.007633,0.01,nc,nc73897546,2023-06-06T03:03:15.934Z,"7km NW of The Geysers, CA",earthquake,0.42,0.8,0.26,8,automatic,nc,nc
 2023-06-06T02:22:01.753Z,58.6873,-152.6099,17.2,2.1,ml,,,,0.72,ak,ak02377op2mn,2023-06-06T02:23:56.901Z,"72 km NNE of Aleneva, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-06T02:19:14.249Z,38.3804,-96.8166,5,2.3,mb_lg,25,107,0.737,0.58,us,us7000k6js,2023-06-06T13:47:27.923Z,"13 km N of Cedar Point, Kansas",earthquake,4.12,2.003,0.09,32,reviewed,us,us
+2023-06-06T02:19:14.270Z,38.38,-96.819,5,2.3,mb_lg,25,107,0.738,0.58,us,us7000k6js,2023-06-06T13:51:45.610Z,"Kansas",earthquake,4.12,2.003,0.09,32,reviewed,us,us
 2023-06-06T02:17:36.290Z,38.8351669,-122.7896652,1.88,0.79,md,12,62,0.003281,0.01,nc,nc73897541,2023-06-06T02:51:14.855Z,"6km WNW of Cobb, CA",earthquake,0.35,0.5,0.23,12,automatic,nc,nc
 2023-06-06T02:09:52.440Z,38.8346672,-122.7898331,1.92,1.05,md,19,58,0.003758,0.02,nc,nc73897536,2023-06-06T02:39:15.785Z,"6km WNW of Cobb, CA",earthquake,0.22,0.42,0.23,18,automatic,nc,nc
 2023-06-06T01:57:49.158Z,61.673,-147.9644,31.2,1.4,ml,,,,1.73,ak,ak02377ob8s9,2023-06-06T02:02:19.610Z,"22 km SW of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -232,5 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T14:15:59.644Z,65.5481,-144.8339,15.6,1.2,ml,,,,0.75,ak,ak0237689juk,2023-06-05T14:17:37.777Z,"northern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-05T14:11:21.450Z,38.7573333,-122.7153333,1.61,0.56,md,11,77,0.008578,0.02,nc,nc73897276,2023-06-06T07:57:56.647Z,"3km SW of Anderson Springs, CA",earthquake,0.37,0.76,0.321,6,reviewed,nc,nc
 2023-06-05T13:57:40.417Z,63.5649,-147.2959,5.7,1.1,ml,,,,0.22,ak,ak023767x2u1,2023-06-05T13:59:22.859Z,"82 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-05T13:52:05.860Z,19.2514991760254,-155.380661010742,29.1299991607666,1.81,ml,42,155,,0.129999995,hv,hv73440757,2023-06-05T13:57:35.900Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.6,0.75999999,0.21,5,automatic,hv,hv
-2023-06-05T13:49:32.570Z,45.8685,-111.367666666667,3.86,1.09,ml,10,87,0.2112,0.09,mb,mb90016833,2023-06-05T15:25:10.580Z,"Western Montana",earthquake,0.37,8.51,0.0449594801171698,6,reviewed,mb,mb
