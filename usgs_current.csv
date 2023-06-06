@@ -234,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T07:18:27.039Z,65.539,-144.0373,0,1.2,ml,,,,0.71,ak,ak023764438v,2023-06-05T07:21:32.086Z,"31 km S of Circle, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-05T07:07:10.293Z,57.7951,-153.2621,39.7,2.3,ml,,,,0.48,ak,ak0237641p2t,2023-06-05T07:09:11.071Z,"23 km WSW of Port Lions, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-06-05T06:58:54.258Z,39.4084,-118.4634,13.2,1,ml,5,108.46,0.284,0.0935,nn,nn00860874,2023-06-05T18:33:41.108Z,"21 km E of Fallon Station, Nevada",earthquake,,2.8,0.05,2,reviewed,nn,nn
-2023-06-05T06:34:48.020Z,34.171,-116.962,7.1,1.87,ml,82,20,0.08024,0.13,ci,ci40478560,2023-06-05T23:17:49.240Z,"9km SSW of Big Bear Lake, CA",earthquake,0.13,0.42,0.191,27,reviewed,ci,ci
