@@ -94,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T23:22:04.780Z,60.0451666666667,-153.079333333333,2.07,0.65,ml,4,184,,0.11,av,av91913201,2023-06-06T00:36:56.410Z,"Southern Alaska",earthquake,0.71,1.36,0.211481513401848,4,reviewed,av,av
 2023-06-05T23:19:53.730Z,60.0521666666667,-153.057833333333,5.21,0.58,ml,3,180,,0.06,av,av91106653,2023-06-06T00:29:06.550Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.67,0.8,0.203337728214426,3,reviewed,av,av
 2023-06-05T23:18:38.854Z,57.5687,-155.5792,19.4,2.7,ml,,,,0.87,ak,ak02376dn0ys,2023-06-05T23:44:44.040Z,"67 km W of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-05T23:17:51.680Z,60.0268333333333,-153.076166666667,-1.37,0.52,ml,4,153,,0.16,av,av91106643,2023-06-06T00:13:00.410Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.97,11.84,0.208289246021429,4,reviewed,av,av
+2023-06-05T23:17:51.680Z,60.0268333333333,-153.076166666667,-1.37,0.52,ml,4,153,,0.16,av,av91106643,2023-06-06T00:13:00.410Z,"Southern Alaska",earthquake,0.97,11.84,0.208289246021429,4,reviewed,av,av
 2023-06-05T23:17:02.340Z,61.0123,-152.817,186.5,2,ml,,,,0.87,ak,ak02376dmray,2023-06-05T23:19:57.093Z,"90 km WNW of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-05T23:16:55.140Z,60.0323333333333,-153.0835,0.37,0.66,ml,4,169,,0.17,av,av91913186,2023-06-06T00:09:40.850Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.55,2.18,0.152106300164628,4,reviewed,av,av
 2023-06-05T23:11:45.290Z,60.0375,-153.069166666667,2.67,0.53,ml,4,152,,0.17,av,av91913166,2023-06-05T23:42:34.500Z,"Southern Alaska",earthquake,0.73,1.68,0.254099753799252,4,reviewed,av,av
@@ -212,7 +212,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T13:08:48.458Z,-10.1278,118.6958,30.042,4.7,mb,36,106,1.579,0.69,us,us7000k6eg,2023-06-05T13:44:55.063Z,"97 km SW of Tambolaka, Indonesia",earthquake,6.99,5.124,0.11,25,reviewed,us,us
 2023-06-05T13:05:24.987Z,61.2517,-147.5256,12.5,1.2,ml,,,,0.47,ak,ak023767lweq,2023-06-05T13:07:01.433Z,"62 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-05T13:04:32.840Z,37.9073334,-122.0070038,14.1,2.23,md,50,108,0.04973,0.1,nc,nc73897256,2023-06-05T15:55:12.741Z,"5km E of Walnut Creek, CA",earthquake,0.2,0.36,0.15,46,automatic,nc,nc
-2023-06-05T12:57:29.020Z,37.9105,-122.0056667,14.26,1.66,md,33,92,0.05259,0.13,nc,nc73897251,2023-06-06T10:10:12.513Z,"5km E of Walnut Creek, CA",earthquake,0.3,0.38,0.163,24,reviewed,nc,nc
+2023-06-05T12:57:29.020Z,37.9105,-122.0056667,14.26,1.66,md,33,92,0.05259,0.13,nc,nc73897251,2023-06-06T10:28:11.629Z,"5km E of Walnut Creek, CA",earthquake,0.3,0.38,0.163,24,reviewed,nc,nc
 2023-06-05T12:56:14.480Z,38.8400002,-122.8775024,2.32,0.71,md,12,115,0.006935,0.02,nc,nc73897246,2023-06-05T15:15:12.532Z,"13km WNW of The Geysers, CA",earthquake,0.41,0.6,0.24,12,automatic,nc,nc
 2023-06-05T12:43:17.051Z,-14.7919,-73.4539,10.029,4.6,mb,18,132,4.317,0.47,us,us7000k6e9,2023-06-05T20:15:26.048Z,"13 km NNW of Upahuacho, Peru",earthquake,5.79,6.483,0.145,14,reviewed,us,us
 2023-06-05T12:33:30.320Z,39.7453,-120.1326,8.8,0.3,ml,4,168.69,0.191,0.0822,nn,nn00860877,2023-06-05T18:43:06.501Z,"Northern California",earthquake,,4.9,0.09,2,reviewed,nn,nn
