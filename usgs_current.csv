@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-07T07:36:23.820Z,61.3226,-141.0882,12.6,1.7,ml,,,,0.19,ak,ak02379famvi,2023-06-07T07:38:16.570Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-07T07:29:15.377Z,58.0939,-154.9457,134.5,0.3,ml,,,,0.59,ak,ak02379f95hx,2023-06-07T07:32:24.173Z,"Alaska Peninsula",earthquake,,4.1,,,automatic,ak,ak
 2023-06-07T07:26:00.910Z,37.0724983,-120.8858337,-0.17,2.14,md,23,92,0.08992,0.31,nc,nc73898081,2023-06-07T07:32:11.378Z,"4km WNW of Los Banos, CA",earthquake,0.76,8.85,0.12,18,automatic,nc,nc
 2023-06-07T07:19:56.582Z,61.6757,-147.9802,29.8,1,ml,,,,0.54,ak,ak02379f728a,2023-06-07T07:21:37.644Z,"22 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -106,7 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-06T23:38:13.572Z,-23.116,170.3839,33.065,5.2,mb,32,85,2.755,0.82,us,us7000k6rg,2023-06-06T23:52:57.040Z,"southeast of the Loyalty Islands",earthquake,7.74,6.289,0.108,28,reviewed,us,us
 2023-06-06T23:36:51.590Z,45.389833333333335,-121.69233333333334,-0.4,0.24,ml,3,239,0.03262,0.04,uw,uw61931036,2023-06-07T06:10:09.350Z,"10 km NNE of Government Camp, Oregon",earthquake,0.85,6.61,0.07441389551522389,3,reviewed,uw,uw
 2023-06-06T23:28:37.310Z,45.37,-121.7075,2.98,-0.01,ml,4,173,0.01151,0.04,uw,uw61931031,2023-06-07T06:05:53.180Z,"8 km NNE of Government Camp, Oregon",earthquake,0.66,0.72,0.11464263128199792,2,reviewed,uw,uw
-2023-06-06T23:25:37.040Z,38.0909996,-122.2570038,7.39,1.72,md,28,67,0.01501,0.16,nc,nc73897891,2023-06-07T02:20:12.593Z,"3km SW of Vallejo, CA",earthquake,0.34,0.69,0.18,21,automatic,nc,nc
+2023-06-06T23:25:37.050Z,38.088,-122.262,6.92,1.71,md,66,39,0.01228,0.17,nc,nc73897891,2023-06-07T07:39:40.200Z,"4km SW of Vallejo, CA",earthquake,0.16,0.35,0.179,50,reviewed,nc,nc
 2023-06-06T23:20:44.290Z,45.3735,-121.71183333333333,1.93,0.26,ml,5,93,0.01557,0.08,uw,uw61931021,2023-06-07T00:11:32.340Z,"8 km NNE of Government Camp, Oregon",earthquake,0.3,0.44,0.1400944981863531,3,reviewed,uw,uw
 2023-06-06T23:18:44.689Z,62.7329,-150.5062,0,2.5,ml,,,,0.79,ak,ak0237816es4,2023-06-07T05:53:31.303Z,"29 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-06T23:18:00.090Z,45.35916666666667,-121.70166666666667,3.09,0.63,ml,9,88,0.002792,0.08,uw,uw61931016,2023-06-07T00:06:29.930Z,"7 km NE of Government Camp, Oregon",earthquake,0.32,0.44,0.17384951321052228,5,reviewed,uw,uw
