@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-09T14:22:24.840Z,36.5359993,-121.1263351,2.6,2.36,md,26,103,0.05943,0.11,nc,nc73899121,2023-06-09T14:25:21.745Z,"2km ENE of Pinnacles, CA",earthquake,0.33,1.67,0.08,28,automatic,nc,nc
 2023-06-09T13:41:47.180Z,40.3763351,-124.2314987,18.9,1.87,md,10,154,0.1015,0.1,nc,nc73899106,2023-06-09T13:58:13.971Z,"7km NE of Petrolia, CA",earthquake,1.08,1.05,0.1,5,automatic,nc,nc
 2023-06-09T13:39:54.770Z,58.2163,-155.1921,4.4,1.2,ml,,,,0.21,ak,ak0237ctyn11,2023-06-09T13:41:29.206Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
 2023-06-09T13:33:13.410Z,35.0836667,-118.2545,0.39,1.06,ml,14,77,0.1172,0.25,ci,ci40481440,2023-06-09T13:36:43.599Z,"8km WNW of Mojave, CA",earthquake,0.36,0.86,0.162,13,automatic,ci,ci
@@ -186,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-08T14:38:41.040Z,35.184,-120.5085,5.64,1.2,md,17,94,0.0354,0.14,nc,nc73898681,2023-06-08T18:59:20.175Z,"10km NE of Arroyo Grande, CA",earthquake,0.29,0.53,0.277,13,reviewed,nc,nc
 2023-06-08T14:32:00.858Z,13.3421,145.5688,62.573,4.9,mb,159,75,1.9,0.85,us,us7000k754,2023-06-08T15:22:02.040Z,"Guam region",earthquake,9.56,6.402,0.034,272,reviewed,us,us
 2023-06-08T14:29:44.510Z,36.773,-121.4463333,5.48,0.72,md,12,205,0.008981,0.09,nc,nc73898676,2023-06-08T17:43:27.338Z,"8km WSW of Ridgemark, CA",earthquake,0.5,0.36,0.225,9,reviewed,nc,nc
-2023-06-08T14:23:40.903Z,67.7882,-149.9213,0,1.6,ml,,,,1.34,ak,ak0237b6x9m2,2023-06-08T14:26:04.857Z,"42 km N of Wiseman, Alaska",earthquake,,0.4,,,automatic,ak,ak
