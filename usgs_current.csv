@@ -120,6 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-10T04:04:23.330Z,35.6445,-118.3173333,7.37,2.34,ml,35,67,0.0578,0.14,ci,ci40482208,2023-06-10T05:27:41.683Z,"14km ESE of Wofford Heights, CA",earthquake,0.19,0.58,0.248,26,automatic,ci,ci
 2023-06-10T04:00:57.630Z,17.9353333333333,-66.9485,9.88,2.27,md,10,224,0.05276,0.21,pr,pr71412808,2023-06-10T04:10:29.000Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.86,0.94,0.158514381728159,4,reviewed,pr,pr
 2023-06-10T03:58:54.250Z,33.321,-116.3175,10.58,0.92,ml,28,114,0.09869,0.2,ci,ci40482200,2023-06-10T04:02:28.060Z,"9km NE of Borrego Springs, CA",earthquake,0.34,0.75,0.135,19,automatic,ci,ci
+2023-06-10T03:49:31.020Z,58.256,-155.149166666667,33.28,0.81,ml,10,129,,0.12,av,av91107228,2023-06-10T18:49:37.430Z,"86 km NNW of Karluk, Alaska",earthquake,0.63,0.68,0.259875968865353,9,reviewed,av,av
 2023-06-10T03:48:42.140Z,58.2435,-155.141166666667,32.53,0.46,ml,12,104,,0.2,av,av91107218,2023-06-10T18:30:54.900Z,"85 km NNW of Karluk, Alaska",earthquake,0.75,0.98,0.274845369712424,11,reviewed,av,av
 2023-06-10T03:48:23.160Z,58.257,-155.141666666667,31.04,0.23,ml,10,95,,0.2,av,av91918826,2023-06-10T18:31:25.350Z,"86 km NNW of Karluk, Alaska",earthquake,0.88,1.13,0.286029876742113,9,reviewed,av,av
 2023-06-10T03:47:02.100Z,32.9421667,-116.273,11.84,0.76,ml,22,131,0.02839,0.2,ci,ci40482184,2023-06-10T03:50:39.537Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.4,0.82,0.113,9,automatic,ci,ci
@@ -202,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-09T19:13:41.183Z,36.605,71.0043,209.511,4,mb,50,74,2.591,0.77,us,us7000k7hj,2023-06-10T16:33:58.040Z,"32 km SSE of Jurm, Afghanistan",earthquake,4.99,6.582,0.092,35,reviewed,us,us
 2023-06-09T19:12:29.015Z,37.2778,-117.597,7.5,1.1,ml,12,94.93,0.06,0.1589,nn,nn00861052,2023-06-09T21:14:28.659Z,"53 km S of Silver Peak, Nevada",earthquake,,1.6,0.45,5,reviewed,nn,nn
 2023-06-09T19:11:10.410Z,51.8503333333333,-177.803833333333,3.91,1.01,ml,5,169,,0.11,av,av91918331,2023-06-09T21:57:56.340Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.44,0.27,0.16226626759397,5,reviewed,av,av
-2023-06-09T18:51:41.440Z,34.163,-116.4276667,8.94,1.08,ml,25,53,0.03825,0.19,ci,ci40481816,2023-06-09T18:55:17.180Z,"5km N of Yucca Valley, CA",earthquake,0.32,0.77,0.128,27,automatic,ci,ci
