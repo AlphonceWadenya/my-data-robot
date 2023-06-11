@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T15:41:10.695Z,64.9843,-146.0869,5.2,1.9,ml,,,,0.64,ak,ak0237g68j99,2023-06-11T15:43:08.053Z,"38 km ENE of Pleasant Valley, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-11T15:39:29.010Z,38.8296661,-122.8010025,1.89,0.73,md,13,60,0.009456,0.02,nc,nc73899986,2023-06-11T15:57:16.556Z,"7km W of Cobb, CA",earthquake,0.29,0.74,0.23,13,automatic,nc,nc
 2023-06-11T15:38:07.156Z,62.639,-150.3187,67.7,1.5,ml,,,,0.51,ak,ak0237g67vu3,2023-06-11T15:39:46.016Z,"23 km NNW of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-06-11T15:13:25.110Z,38.8421669,-122.8763351,2.02,0.78,md,13,126,0.006402,0.02,nc,nc73899976,2023-06-11T15:42:16.578Z,"13km NW of The Geysers, CA",earthquake,0.62,0.77,0.25,15,automatic,nc,nc
+2023-06-11T15:13:25.110Z,38.8421669,-122.8763351,2.02,0.78,md,13,126,0.006402,0.02,nc,nc73899976,2023-06-11T17:54:12.277Z,"13km NW of The Geysers, CA",earthquake,0.62,0.77,0.25,15,automatic,nc,nc
 2023-06-11T14:50:33.410Z,38.840332,-122.8253326,1.42,0.74,md,7,107,0.008119,0.01,nc,nc73899971,2023-06-11T17:28:13.121Z,"9km WNW of Cobb, CA",earthquake,0.71,2.35,0.17,8,automatic,nc,nc
 2023-06-11T14:49:25.880Z,38.8261681,-122.7956696,2.56,0.96,md,7,113,0.01159,0.01,nc,nc73899966,2023-06-11T17:01:13.107Z,"6km W of Cobb, CA",earthquake,0.91,2.5,0.26,9,automatic,nc,nc
 2023-06-11T14:48:42.150Z,38.779335,-122.7576675,1.51,0.64,md,8,140,0.01067,0.02,nc,nc73899961,2023-06-11T16:35:17.943Z,"0km NNW of The Geysers, CA",earthquake,0.8,0.79,0.19,8,automatic,nc,nc
@@ -138,6 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T01:18:51.158Z,63.2553,-151.8397,3.5,1,ml,,,,0.88,ak,ak0237fxrmfw,2023-06-11T01:22:04.885Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-11T01:11:56.310Z,37.4406662,-121.7858353,6.75,1.64,md,16,82,0.01507,0.06,nc,nc73899776,2023-06-11T04:34:12.449Z,"9km NNE of Alum Rock, CA",earthquake,0.29,0.38,0.16,16,automatic,nc,nc
 2023-06-11T01:02:21.298Z,62.6068,-151.457,132.4,1.4,ml,,,,1.04,ak,ak0237fxo4oh,2023-06-11T01:04:43.336Z,"37 km WNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-06-11T00:56:55.100Z,33.6278333,-116.679,14.07,0.35,ml,13,96,0.04119,0.11,ci,ci40483064,2023-06-11T17:58:28.026Z,"8km N of Anza, CA",earthquake,0.32,0.57,0.081,5,reviewed,ci,ci
 2023-06-11T00:46:52.520Z,38.8408318,-122.8241653,1.96,1.29,md,26,89,0.009121,0.04,nc,nc73899771,2023-06-11T04:07:13.295Z,"9km WNW of Cobb, CA",earthquake,0.21,0.39,0.15,27,automatic,nc,nc
 2023-06-11T00:46:33.820Z,17.9986666666667,-66.6775,9.81,2.15,md,7,207,0.08078,0.07,pr,pr71412958,2023-06-11T01:03:30.930Z,"4 km E of Tallaboa, Puerto Rico",earthquake,0.42,1.16,0.0451248180802135,4,reviewed,pr,pr
 2023-06-11T00:46:01.690Z,51.7421666666667,-179.9755,5.07,1.72,ml,4,345,,0.09,av,av91919801,2023-06-11T00:59:22.500Z,"230 km W of Adak, Alaska",earthquake,3.16,10.44,0.19262522797162,4,reviewed,av,av
