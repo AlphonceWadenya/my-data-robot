@@ -139,5 +139,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T11:58:15.344Z,61.2081,-146.2423,20,1.9,ml,,,,0.61,ak,ak0237g3ygda,2023-06-11T11:59:59.705Z,"10 km NNE of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-11T11:54:31.161Z,63.2193,-149.8444,99.3,1.5,ml,,,,0.43,ak,ak0237g3xmq4,2023-06-11T11:56:17.495Z,"48 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-11T11:49:49.530Z,33.9495,-117.9343333,7.58,0.91,ml,21,113,0.009729,0.3,ci,ci40483264,2023-06-11T11:53:20.052Z,"2km SE of La Habra Heights, CA",earthquake,0.55,1,0.286,25,automatic,ci,ci
-2023-06-11T11:36:59.630Z,42.2595,104.6619,10,4.6,mb,43,45,5.708,0.49,us,us7000k7tj,2023-06-11T11:59:10.040Z,"146 km S of Dalandzadgad, Mongolia",earthquake,6.12,1.862,0.082,44,reviewed,us,us
-2023-06-11T11:34:53.294Z,-6.2008,150.6882,10,5.2,mb,44,67,4.728,0.61,us,us7000k7ti,2023-06-11T11:54:39.040Z,"94 km SE of Kimbe, Papua New Guinea",earthquake,7.78,1.732,0.043,180,reviewed,us,us
