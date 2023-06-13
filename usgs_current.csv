@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-13T11:16:53.631Z,38.5283,-119.5037,2.7,1.6,ml,14,160.81,0.059,0.2521,nn,nn00861166,2023-06-13T11:19:11.623Z,"California-Nevada border region",earthquake,,0.9,0.23,11,automatic,nn,nn
 2023-06-13T10:50:22.494Z,64.4155,-163.5968,19.4,3.8,ml,,,,0.75,ak,ak0237jee0j7,2023-06-13T11:12:32.647Z,"30 km WSW of Golovin, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-06-13T10:42:29.630Z,35.8956667,-117.736,6.82,0.93,ml,7,155,0.09003,0.12,ci,ci40484528,2023-06-13T10:45:55.639Z,"16km ESE of Little Lake, CA",earthquake,0.5,1.09,0.247,4,automatic,ci,ci
 2023-06-13T10:42:14.800Z,32.0771667,-117.1106667,22.98,1.84,ml,10,300,0.4461,0.07,ci,ci40484520,2023-06-13T10:45:46.659Z,"24km SW of Primo Tapia, B.C., MX",earthquake,2.9,1.53,0.166,8,automatic,ci,ci
