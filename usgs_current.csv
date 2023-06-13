@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-13T13:29:05.890Z,38.8066673,-122.8141632,3.56,0.77,md,21,60,0.01194,0.06,nc,nc73900676,2023-06-13T13:30:39.829Z,"6km WNW of The Geysers, CA",earthquake,0.32,0.63,0.31,22,automatic,nc,nc
 2023-06-13T13:23:32.200Z,19.1798324584961,-155.486831665039,29.3899993896484,1.80999994,md,29,85,,0.100000001,hv,hv73450137,2023-06-13T13:26:48.040Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.5,1,0.899999976,3,automatic,hv,hv
+2023-06-13T13:20:24.720Z,44.8595,-110.3635,12.5,1.92,ml,21,122,0.1045,0.18,uu,uu60542111,2023-06-13T13:42:21.750Z,"29 km ESE of Mammoth, Wyoming",earthquake,0.43,1.14,0.188,5,reviewed,uu,uu
 2023-06-13T13:18:22.242Z,39.6125,-119.9656,5.8,1.3,ml,8,120.39,0.006,0.0497,nn,nn00861171,2023-06-13T13:21:01.141Z,"Nevada",earthquake,,0.5,0.43,6,automatic,nn,nn
 2023-06-13T13:03:48.590Z,19.2566661834717,-155.366333007812,30.6200008392334,2.04999995,md,47,140,,0.140000001,hv,hv73450132,2023-06-13T13:06:59.420Z,"Island of Hawaii, Hawaii",earthquake,0.53,0.75999999,1.50999999,22,automatic,hv,hv
 2023-06-13T12:57:48.293Z,13.9371,119.9487,10,4.9,mb,114,77,8.786,0.56,us,us7000k85s,2023-06-13T13:32:15.647Z,"12 km WNW of Cabra, Philippines",earthquake,7.67,1.852,0.05,127,reviewed,us,us
@@ -178,4 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T13:51:21.703Z,-20.7987,-178.7632,607.923,4.5,mb,80,78,3.347,0.73,us,us7000k7z4,2023-06-12T14:31:45.040Z,"Fiji region",earthquake,11.32,6.004,0.038,200,reviewed,us,us
 2023-06-12T13:47:54.140Z,36.9603348,-121.6070023,9.17,2.61,md,60,33,0.05288,0.19,nc,nc73900336,2023-06-12T21:58:00.395Z,"6km SW of Gilroy, CA",earthquake,0.29,0.66,0.1,69,automatic,nc,nc
 2023-06-12T13:47:36.020Z,35.931,-117.678,2.22,1.7,ml,23,125,0.1179,0.16,ci,ci40483928,2023-06-12T19:41:39.161Z,"21km E of Little Lake, CA",earthquake,0.25,0.56,0.121,11,reviewed,ci,ci
-2023-06-12T13:39:36.310Z,35.6981667,-117.4415,7.03,1.35,ml,19,147,0.03602,0.13,ci,ci40483912,2023-06-12T19:38:16.143Z,"8km SSW of Searles Valley, CA",earthquake,0.27,0.5,0.15,12,reviewed,ci,ci
