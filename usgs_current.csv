@@ -186,5 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T06:52:31.900Z,38.8375015,-122.8010025,1.62,0.71,md,12,65,0.008373,0.03,nc,nc73900976,2023-06-14T07:10:15.911Z,"7km WNW of Cobb, CA",earthquake,0.28,0.66,0.16,12,automatic,nc,nc
 2023-06-14T06:44:29.066Z,55.2638,-159.8007,4.9,1.9,ml,,,,0.66,ak,ak0237kzics5,2023-06-14T14:30:47.981Z,"45 km E of Sand Point, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-06-14T06:40:45.240Z,38.8346672,-122.7978363,2.04,1.08,md,18,57,0.006943,0.06,nc,nc73900971,2023-06-14T06:58:13.840Z,"7km WNW of Cobb, CA",earthquake,0.26,0.52,0.13,20,automatic,nc,nc
-2023-06-14T06:32:50.979Z,58.1682,-155.3062,0,0.5,ml,,,,0.3,ak,ak0237kzftyh,2023-06-14T06:34:48.068Z,"Alaska Peninsula",earthquake,,4.2,,,automatic,ak,ak
-2023-06-14T06:28:15.720Z,19.6561,-65.8823,84,3.89,md,15,283,1.3449,0.51,pr,pr2023165006,2023-06-14T07:53:22.040Z,"133 km N of San Juan, Puerto Rico",earthquake,4.62,10.47,0.03,7,reviewed,pr,pr
