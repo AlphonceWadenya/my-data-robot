@@ -1,11 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-16T22:37:38.430Z,34.0306664,-117.1090012,9.14,1.69,ml,75,33,0.005565,0.21,ci,ci40487472,2023-06-16T22:39:44.568Z,"5km SSE of Mentone, CA",earthquake,0.21,0.52,0.191,27,automatic,ci,ci
 2023-06-16T22:29:28.990Z,36.5615005,-121.1241684,4.69,1.33,md,7,147,0.05034,0.02,nc,nc73901856,2023-06-16T22:32:18.027Z,"4km NNE of Pinnacles, CA",earthquake,0.52,1.07,0.11,4,automatic,nc,nc
 2023-06-16T22:21:40.311Z,58.2064,-155.2639,2.3,1,ml,,,,0.23,ak,ak0237ojz2xb,2023-06-16T22:23:39.789Z,"85 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-16T22:18:58.911Z,36.7513,-116.2466,7,0,ml,13,84.12,0.036,0.1403,nn,nn00861313,2023-06-16T22:20:50.784Z,"48 km ESE of Beatty, Nevada",earthquake,,0.6,0.19,8,automatic,nn,nn
-2023-06-16T22:11:13.570Z,38.8330002,-122.8184967,1.78,0.72,md,7,94,0.01163,0.01,nc,nc73901851,2023-06-16T22:12:47.835Z,"8km NW of The Geysers, CA",earthquake,0.4,1.36,0.2,10,automatic,nc,nc
+2023-06-16T22:11:13.570Z,38.8330002,-122.8184967,1.78,0.72,md,7,94,0.01163,0.01,nc,nc73901851,2023-06-16T22:38:11.831Z,"8km NW of The Geysers, CA",earthquake,0.4,1.36,0.2,10,automatic,nc,nc
 2023-06-16T22:10:55.895Z,61.9721,-151.3938,74.6,1.7,ml,,,,0.58,ak,ak0237ojwr91,2023-06-16T22:13:17.102Z,"2 km S of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-16T21:58:17.130Z,58.1816666666667,-155.301,-2.19,0.1,ml,4,242,,0.18,av,av91927771,2023-06-16T22:17:33.750Z,"84 km NW of Karluk, Alaska",earthquake,1.18,5.16,0.228498137868782,5,reviewed,av,av
 2023-06-16T21:57:37.047Z,59.2676,-151.768,243,2.2,ml,,,,0.91,ak,ak0237ojlcug,2023-06-16T22:00:26.950Z,"9 km SSE of Port Graham, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-06-16T21:48:16.110Z,18.3488,-68.0818,111,3.46,md,14,152,0.3108,0.47,pr,pr2023167002,2023-06-16T22:35:23.253Z,"Mona Passage, Dominican Republic",earthquake,4.17,2.62,0.18,10,reviewed,pr,pr
 2023-06-16T21:48:15.269Z,19.3012,-67.9507,35,2.8,ml,11,330,1.149,0.57,us,us7000k934,2023-06-16T22:20:06.040Z,"Mona Passage",earthquake,5.75,2.028,0.077,22,reviewed,us,us
 2023-06-16T21:16:06.160Z,58.1756666666667,-155.310833333333,3.75,0.63,ml,9,202,,0.09,av,av91927721,2023-06-16T21:55:49.680Z,"84 km NW of Karluk, Alaska",earthquake,0.59,0.98,0.361341656604684,9,reviewed,av,av
 2023-06-16T21:15:43.891Z,57.1497,-156.7318,109,2.4,ml,,,,0.34,ak,ak0237ojcdah,2023-06-16T21:18:19.062Z,"56 km SE of Ugashik, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -13,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T20:47:44.184Z,37.2602,-117.6148,6.2,1.7,ml,14,127.48,0.037,0.2594,nn,nn00861310,2023-06-16T20:50:18.981Z,"Central California",earthquake,,1.1,0.83,10,automatic,nn,nn
 2023-06-16T20:42:03.598Z,58.2301,-155.2015,6.4,0.6,ml,,,,0.66,ak,ak0237oiwmy5,2023-06-16T21:51:02.950Z,"85 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-16T20:36:52.430Z,17.8821666666667,-66.9046666666667,7.85,3,md,6,245,0.0955,0.14,pr,pr71413673,2023-06-16T20:55:26.810Z,"9 km S of Guánica, Puerto Rico",earthquake,0.94,1.49,0.00406563124862025,3,reviewed,pr,pr
-2023-06-16T20:30:44.982Z,-23.5401,-175.9171,13.584,5.5,mww,128,68,2.45,0.73,us,us7000k92j,2023-06-16T22:33:50.932Z,"262 km SSW of ‘Ohonua, Tonga",earthquake,8.77,3.342,0.093,11,reviewed,us,us
+2023-06-16T20:30:44.982Z,-23.5401,-175.9171,13.584,5.5,mww,128,68,2.45,0.73,us,us7000k92j,2023-06-16T22:35:26.717Z,"262 km SSW of ‘Ohonua, Tonga",earthquake,8.77,3.342,0.093,11,reviewed,us,us
 2023-06-16T20:29:17.990Z,58.253,-155.114666666667,3.08,0.15,ml,6,106,,0.09,av,av91927681,2023-06-16T21:43:34.510Z,"85 km NNW of Karluk, Alaska",earthquake,0.28,0.84,0.162803282908279,6,reviewed,av,av
 2023-06-16T20:27:11.890Z,43.0386666666667,-110.843833333333,3.41,2.2,ml,12,110,0.3319,0.3,mb,mb90018623,2023-06-16T20:54:18.480Z,"11 km NE of Star Valley Ranch, Wyoming",earthquake,1.06,6.9,0.317608119855469,13,reviewed,mb,mb
 2023-06-16T20:24:05.804Z,58.2365,-155.2228,1.3,1.1,ml,,,,0.48,ak,ak0237oiss78,2023-06-16T21:40:41.410Z,"87 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
