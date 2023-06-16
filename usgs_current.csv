@@ -119,6 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T21:34:47.028Z,38.7565,-118.5336,3,1.7,ml,14,87.25,0.445,0.201,nn,nn00861275,2023-06-15T21:37:26.838Z,"22 km ENE of Walker Lake, Nevada",earthquake,,2,0.22,9,automatic,nn,nn
 2023-06-15T21:07:34.955Z,61.4874,-149.9052,32,1.9,ml,,,,0.54,ak,ak0237mvradz,2023-06-15T21:09:35.316Z,"4 km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-15T20:53:52.020Z,37.7905,-122.1888333,9.22,0.97,md,17,82,0.01337,0.06,nc,nc73901516,2023-06-16T06:54:12.122Z,"4km E of Oakland, CA",earthquake,0.23,0.5,0.278,13,reviewed,nc,nc
+2023-06-15T20:41:36.505Z,2.8577,122.5893,532.394,4.1,mb,44,121,3.878,0.71,us,us7000k8sj,2023-06-16T14:14:11.040Z,"261 km NNW of Gorontalo, Indonesia",earthquake,12.84,11.086,0.094,31,reviewed,us,us
 2023-06-15T20:34:17.410Z,36.887001,-121.6223297,0.52,1.74,md,16,75,0.02448,0.21,nc,nc73901511,2023-06-15T21:37:13.767Z,"2km E of Aromas, CA",earthquake,0.38,1.08,0.09,4,automatic,nc,nc
 2023-06-15T20:32:27.400Z,17.9538333333333,-66.9656666666667,14.95,2.49,md,4,216,0.08491,0.05,pr,pr71413548,2023-06-15T21:39:38.820Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.75,0.68,0.222469677803152,3,reviewed,pr,pr
 2023-06-15T20:28:52.515Z,36.9851,-116.4171,1.8,0.8,ml,13,100.11,0.018,0.1716,nn,nn00861274,2023-06-15T20:30:44.686Z,"31 km ENE of Beatty, Nevada",earthquake,,0.4,0.86,9,automatic,nn,nn
@@ -184,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T15:01:59.859Z,64.9347,-147.3001,0,1.7,ml,,,,0.97,ak,ak0237ms5gcw,2023-06-15T15:04:36.562Z,"14 km WNW of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-15T14:58:42.970Z,58.1871666666667,-155.2615,4.23,0.24,ml,6,217,,0.27,av,av91926621,2023-06-15T17:45:39.750Z,"Alaska Peninsula",earthquake,1.18,2.16,0.30293167265925,6,reviewed,av,av
 2023-06-15T14:35:56.020Z,35.7641667,-117.5765,11.79,0.75,ml,12,116,0.1587,0.11,ci,ci40486632,2023-06-15T19:09:53.914Z,"16km W of Searles Valley, CA",earthquake,0.33,0.99,0.048,3,reviewed,ci,ci
-2023-06-15T14:17:26.540Z,33.9536667,-116.4463333,1.94,0.14,ml,3,270,0.03381,0.02,ci,ci40486616,2023-06-15T21:30:26.114Z,"5km E of Desert Hot Springs, CA",earthquake,0.7,0.55,0.03,2,reviewed,ci,ci
