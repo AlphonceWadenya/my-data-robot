@@ -162,5 +162,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T22:18:59.660Z,36.7556,-116.2355,4.6,0,ml,19,70.7,0.034,0.1068,nn,nn00861313,2023-06-16T22:51:39.805Z,"49 km ESE of Beatty, Nevada",earthquake,,1.1,0.34,5,reviewed,nn,nn
 2023-06-16T22:11:13.570Z,38.8330002,-122.8184967,1.78,0.72,md,7,94,0.01163,0.01,nc,nc73901851,2023-06-16T22:38:11.831Z,"8km NW of The Geysers, CA",earthquake,0.4,1.36,0.2,10,automatic,nc,nc
 2023-06-16T22:10:55.895Z,61.9721,-151.3938,74.6,1.7,ml,,,,0.58,ak,ak0237ojwr91,2023-06-16T22:13:17.102Z,"2 km S of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-06-16T21:58:17.130Z,58.1816666666667,-155.301,-2.19,0.1,ml,4,242,,0.18,av,av91927771,2023-06-16T22:17:33.750Z,"84 km NW of Karluk, Alaska",earthquake,1.18,5.16,0.228498137868782,5,reviewed,av,av
-2023-06-16T21:57:59.085Z,60.1867,-151.1601,54.3,1.6,ml,,,,0.3,ak,ak0237ojlcug,2023-06-17T00:18:04.420Z,"13 km ESE of Clam Gulch, Alaska",earthquake,,1.5,,,reviewed,ak,ak
