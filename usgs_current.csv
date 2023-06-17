@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-17T10:33:12.930Z,38.8098335,-122.8233337,2.54,0.64,md,8,138,0.004667,0.02,nc,nc73902016,2023-06-17T10:34:48.884Z,"7km WNW of The Geysers, CA",earthquake,0.59,1.17,0.21,10,automatic,nc,nc
 2023-06-17T10:21:25.140Z,38.8354988,-122.809166,1.85,0.76,md,11,80,0.01211,0.04,nc,nc73902006,2023-06-17T10:23:01.170Z,"8km WNW of Cobb, CA",earthquake,0.32,0.95,0.12,11,automatic,nc,nc
+2023-06-17T10:15:21.268Z,19.2034,121.2054,34.39,5.5,mww,91,39,3.598,1.18,us,us7000k96f,2023-06-17T10:36:02.751Z,"65 km N of Namuac, Philippines",earthquake,8.03,5.057,0.05,39,reviewed,us,us
 2023-06-17T10:03:05.042Z,39.1347,-119.6468,6.5,1.1,ml,10,100.47,0.058,0.1783,nn,nn00861327,2023-06-17T10:05:29.843Z,"Nevada",earthquake,,0.8,0.26,8,automatic,nn,nn
 2023-06-17T09:59:35.980Z,38.7998352,-122.7968369,0.14,0.76,md,10,63,0.008209,0.05,nc,nc73901996,2023-06-17T10:17:15.923Z,"4km NW of The Geysers, CA",earthquake,0.28,0.72,0.14,11,automatic,nc,nc
 2023-06-17T09:49:07.611Z,63.3939,-149.61,77,2.1,ml,,,,0.64,ak,ak0237pzxq2x,2023-06-17T09:51:58.493Z,"32 km W of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
