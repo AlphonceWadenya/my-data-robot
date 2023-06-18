@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-18T03:44:59.487Z,39.0968,-123.0856,8,4.4,mw,4,,,,ew,ew1687059900,2023-06-18T03:45:04.724Z,"8 km ESE of Talmage, California",earthquake,20.161,5,0.4,4,automatic,ew,ew
 2023-06-18T03:34:44.460Z,38.8358345,-122.7945023,2.21,0.76,md,13,58,0.004142,0.01,nc,nc73902346,2023-06-18T03:36:19.253Z,"6km WNW of Cobb, CA",earthquake,0.32,0.87,0.14,13,automatic,nc,nc
 2023-06-18T03:33:45.857Z,62.2253,-151.1157,71,1.8,ml,,,,0.5,ak,ak0237rjt4ft,2023-06-18T03:35:48.765Z,"30 km NNE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-18T03:24:56.450Z,19.1611671447754,-155.50666809082,34.3499984741211,1.87,md,32,211,,0.140000001,hv,hv73454317,2023-06-18T03:28:04.130Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.94,0.819999993,1.66999996,10,automatic,hv,hv
