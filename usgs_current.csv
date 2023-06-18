@@ -170,4 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-17T18:30:45.940Z,18.9306666666667,-66.1796666666667,19.9,3.11,md,15,230,0.5599,0.18,pr,pr71413778,2023-06-17T19:20:33.790Z,"51 km N of San Juan, Puerto Rico",earthquake,0.68,17.38,0.0242504065719968,5,reviewed,pr,pr
 2023-06-17T17:59:34.660Z,34.149,-116.4136667,8.79,0.46,ml,21,65,0.04808,0.14,ci,ci40487816,2023-06-18T14:04:52.537Z,"4km NNE of Yucca Valley, CA",earthquake,0.26,0.54,0.089,5,reviewed,ci,ci
 2023-06-17T17:58:21.880Z,44.0775,-110.383,6.09,2.83,ml,17,118,0.2136,0.22,uu,uu60542476,2023-06-17T18:37:37.240Z,"Wyoming",earthquake,0.88,2.26,0.159,12,reviewed,uu,uu
-2023-06-17T17:41:22.290Z,58.184,-155.326,1.78,0.75,ml,6,244,,0.09,av,av91928746,2023-06-18T05:07:01.530Z,"Alaska Peninsula",earthquake,1.26,0.63,0.152446598637871,6,reviewed,av,av
