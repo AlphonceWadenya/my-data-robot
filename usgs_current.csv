@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-18T17:51:02.103Z,62.9174,-148.3716,13,1,ml,,,,0.97,ak,ak0237rs8yf6,2023-06-18T17:53:06.927Z,"60 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-18T17:35:24.283Z,58.2391,-155.138,35,2,ml,,,,0.15,ak,ak0237rs5ixr,2023-06-18T17:37:26.674Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
 2023-06-18T17:16:30.280Z,-23.7974,-175.712,20.795,5.1,mb,57,115,2.657,0.51,us,us7000k9e9,2023-06-18T17:49:32.040Z,"282 km SSW of ‘Ohonua, Tonga",earthquake,9.24,4.694,0.047,143,reviewed,us,us
 2023-06-18T17:04:11.140Z,49.404333333333334,-120.536,-0.37,1.83,ml,10,188,0.5781,0.54,uw,uw61934126,2023-06-18T17:19:19.200Z,"British Columbia, Canada",explosion,2.39,31.61,0.15841521598605368,6,reviewed,uw,uw
