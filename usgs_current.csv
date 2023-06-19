@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-19T20:32:27.650Z,33.8248329,-117.0025024,13.29,1.32,ml,30,112,0.1164,0.18,ci,ci40489232,2023-06-19T20:34:33.786Z,"6km NW of San Jacinto, CA",earthquake,0.36,0.89,0.145,10,automatic,ci,ci
+2023-06-19T20:32:27.730Z,33.8238333,-117.0048333,12.74,1.19,ml,32,83,0.09938,0.21,ci,ci40489232,2023-06-19T20:36:04.581Z,"6km NW of San Jacinto, CA",earthquake,0.29,0.81,0.172,25,automatic,ci,ci
 2023-06-19T20:32:09.874Z,59.227,-153.5473,116.2,1.8,ml,,,,0.13,ak,ak0237thgjq3,2023-06-19T20:33:26.339Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-06-19T20:30:25.090Z,33.8358333,-117.4996667,2.33,1.56,ml,44,49,0.04907,0.26,ci,ci40489224,2023-06-19T20:34:11.221Z,"5km SSE of Home Gardens, CA",quarry blast,0.33,0.51,0.282,34,automatic,ci,ci
 2023-06-19T20:24:13.654Z,58.1926,-155.2679,3,1.4,ml,,,,0.41,ak,ak0237theuaj,2023-06-19T20:26:38.731Z,"Alaska Peninsula",earthquake,,0.9,,,automatic,ak,ak
@@ -14,6 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T18:24:28.210Z,37.0545006,-121.4988327,5.42,1.32,md,13,61,0.05755,0.17,nc,nc73902981,2023-06-19T20:13:10.516Z,"8km NE of Gilroy, CA",earthquake,0.47,3.91,0.13,8,automatic,nc,nc
 2023-06-19T18:23:07.230Z,46.2245,-119.6025,7.17,0.61,ml,7,207,0.05975,0.04,uw,uw61934456,2023-06-19T19:44:41.570Z,"9 km WSW of Benton City, Washington",earthquake,0.67,0.3,0.04292650257919861,5,reviewed,uw,uw
 2023-06-19T18:16:07.400Z,35.1765,-119.0841667,23.51,2,ml,33,50,0.1684,0.26,ci,ci40489048,2023-06-19T18:26:47.450Z,"18km WSW of Lamont, CA",earthquake,0.36,1.16,0.176,28,automatic,ci,ci
+2023-06-19T18:04:36.010Z,45.3048333333333,-112.023333333333,-2,1.05,ml,6,180,0.07252,0.15,mb,mb90019003,2023-06-19T20:37:49.050Z,"6 km WNW of Virginia City, Montana",quarry blast,1.39,31.61,0.177534126619622,3,reviewed,mb,mb
 2023-06-19T18:02:17.640Z,46.79333333333334,-121.98516666666667,4.26,0.27,ml,9,251,0.04864,0.14,uw,uw61934451,2023-06-19T19:51:37.750Z,"5 km NE of Ashford, Washington",earthquake,0.77,1.09,0.026533749797770373,3,reviewed,uw,uw
 2023-06-19T17:59:00.890Z,33.7391667,-116.8601667,10.68,1.53,ml,53,31,0.07426,0.18,ci,ci40489032,2023-06-19T18:10:22.800Z,"3km ESE of Valle Vista, CA",earthquake,0.21,0.32,0.183,25,automatic,ci,ci
 2023-06-19T17:48:41.260Z,19.2374992370605,-155.401840209961,31.3500003814697,1.82000005,md,33,153,,0.100000001,hv,hv73455552,2023-06-19T17:50:24.260Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.64,0.730000019,0.910000026,3,automatic,hv,hv
@@ -211,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T20:53:17.874Z,58.1908,-155.3533,1.2,0.9,ml,,,,0.24,ak,ak0237ru1pvv,2023-06-18T20:54:54.200Z,"Alaska Peninsula",earthquake,,2.9,,,automatic,ak,ak
 2023-06-18T20:52:53.870Z,19.1668338775635,-155.484497070312,31.1100006103516,2.52999997,md,39,159,,0.119999997,hv,hv73454867,2023-06-18T20:58:25.370Z,"4 km S of Pāhala, Hawaii",earthquake,0.56,0.699999988,0.579999983,23,automatic,hv,hv
 2023-06-18T20:47:33.770Z,45.0148333333333,-112.529166666667,5.02,1.93,ml,11,122,0.2943,0.17,mb,mb90018998,2023-06-19T20:27:46.330Z,"23 km SSE of Dillon, Montana",earthquake,0.69,10.12,0.461178530546392,3,reviewed,mb,mb
-2023-06-18T20:37:00.178Z,30.9335,131.5119,35,4.6,mb,29,160,1.074,0.49,us,us7000k9f3,2023-06-18T20:58:12.040Z,"53 km ENE of Nishinoomote, Japan",earthquake,5.18,1.953,0.132,17,reviewed,us,us
