@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-24T05:49:00.222Z,60.0265,-152.5952,104.7,3.4,ml,,,,0.33,ak,ak02381ibekf,2023-06-24T05:53:02.673Z,"48 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-24T05:45:39.229Z,62.7879,-148.6941,16.5,1.3,ml,,,,0.75,ak,ak02381iamoy,2023-06-24T05:47:45.782Z,"68 km S of Cantwell, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-06-24T04:53:37.832Z,61.787,-151.4594,83,1.3,ml,,,,0.8,ak,ak02381hqwpj,2023-06-24T04:55:43.068Z,"22 km S of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-24T04:39:37.814Z,61.2469,-151.2157,62.5,1.2,ml,,,,0.64,ak,ak02381hnwol,2023-06-24T04:41:49.753Z,"13 km NNW of Beluga, Alaska",earthquake,,1.5,,,automatic,ak,ak
