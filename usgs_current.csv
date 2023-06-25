@@ -203,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-24T04:14:52.620Z,37.0571671,-121.5370026,0.17,0.47,md,7,92,0.05263,0.13,nc,nc73904526,2023-06-24T05:05:18.982Z,"6km NNE of Gilroy, CA",earthquake,0.58,10.1,,1,automatic,nc,nc
 2023-06-24T04:12:46.870Z,33.31,-116.2908333,10.28,0.89,ml,31,106,0.1137,0.22,ci,ci40493696,2023-06-24T04:16:21.446Z,"10km NE of Borrego Springs, CA",earthquake,0.4,0.9,0.118,18,automatic,ci,ci
 2023-06-24T04:12:42.700Z,61.5281,-149.913,34.1,1,ml,,,,0.65,ak,ak02381hi4q6,2023-06-24T04:15:08.041Z,"2 km ENE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-24T04:04:29.030Z,38.8241653,-122.7649994,2.03,0.78,md,11,123,0.01639,0.02,nc,nc73904521,2023-06-24T04:55:14.930Z,"4km W of Cobb, CA",earthquake,0.35,0.73,0.12,11,automatic,nc,nc
-2023-06-24T04:03:39.945Z,61.5052,-149.9018,34.9,1.5,ml,,,,0.25,ak,ak02381hg72i,2023-06-24T15:54:30.490Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
