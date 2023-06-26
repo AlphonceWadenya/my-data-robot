@@ -180,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-25T04:38:51.060Z,33.3315,-116.267,3.49,0.68,ml,24,107,0.1407,0.3,ci,ci40494608,2023-06-25T04:42:25.100Z,"13km NE of Borrego Springs, CA",earthquake,0.6,1.58,0.107,15,automatic,ci,ci
 2023-06-25T04:31:00.910Z,-4.7506,144.8121,97.069,4.5,mb,30,128,4.664,1.04,us,us7000kaxu,2023-06-25T22:53:24.835Z,"near the north coast of New Guinea, Papua New Guinea",earthquake,9.85,7.682,0.121,22,reviewed,us,us
 2023-06-25T04:01:05.713Z,-24.0855,-175.8586,10,4.7,mb,22,121,2.964,0.85,us,us7000kaxs,2023-06-25T04:23:10.040Z,"south of Tonga",earthquake,8.18,1.841,0.076,52,reviewed,us,us
-2023-06-25T03:50:45.990Z,33.9416667,-117.2503333,28.42,1.25,ml,14,83,0.1161,0.27,ci,ci40494576,2023-06-25T03:54:21.996Z,"3km NW of Moreno Valley, CA",earthquake,0.87,0.77,0.329,27,automatic,ci,ci
