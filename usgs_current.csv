@@ -92,7 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T11:13:32.710Z,17.998,-66.8166666666667,16.2,3.04,md,6,173,0.06379,0.18,pr,pr71414883,2023-06-27T14:04:01.560Z,"0 km NNE of Indios, Puerto Rico",earthquake,0.75,1.22,0.09118851982825,3,reviewed,pr,pr
 2023-06-27T11:00:35.898Z,64.9793,-147.48,0.4,0.8,ml,,,,0.75,ak,ak02386k7mcd,2023-06-27T11:03:21.373Z,"6 km ENE of Fox, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-27T10:55:56.469Z,6.8378,-73.1563,152.065,4.5,mb,79,74,0.942,0.53,us,us6000kndk,2023-06-27T11:40:54.040Z,"12 km ENE of Zapatoca, Colombia",earthquake,7.13,8.673,0.04,182,reviewed,us,us
-2023-06-27T10:35:14.400Z,37.3976667,-119.9861667,18.08,2.28,md,26,52,0.1763,0.27,nc,nc73905936,2023-06-27T23:15:11.278Z,"10km S of Mariposa, CA",earthquake,0.4,0.6,0.173,30,reviewed,nc,nc
+2023-06-27T10:35:14.400Z,37.3976667,-119.9861667,18.08,2.28,md,26,52,0.1763,0.27,nc,nc73905936,2023-06-27T23:46:10.494Z,"10km S of Mariposa, CA",earthquake,0.4,0.6,0.173,30,reviewed,nc,nc
 2023-06-27T10:33:04.940Z,37.4071667,-119.9928333,16.49,2.18,md,18,63,0.1655,0.13,nc,nc73905931,2023-06-27T14:49:15.267Z,"9km SSW of Mariposa, CA",earthquake,0.26,0.47,0.193,27,reviewed,nc,nc
 2023-06-27T10:26:53.600Z,37.3936667,-119.9901667,15.73,2.18,md,29,50,0.1788,0.31,nc,nc73905926,2023-06-27T23:31:10.391Z,"10km SSW of Mariposa, CA",earthquake,0.45,0.69,0.187,32,reviewed,nc,nc
 2023-06-27T10:09:48.130Z,33.994,-116.7916667,17.74,1.55,ml,66,52,0.04317,0.17,ci,ci40496776,2023-06-27T16:21:56.590Z,"8km N of Cabazon, CA",earthquake,0.14,0.33,0.187,45,reviewed,ci,ci
@@ -193,5 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T00:00:27.440Z,19.1615009307861,-155.364334106445,28.6200008392334,1.79999995,md,29,238,,0.0900000036,hv,hv73462742,2023-06-27T00:03:43.510Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.92,1.47000003,0.00999999978,5,automatic,hv,hv
 2023-06-26T23:58:30.349Z,2.3583,98.9818,183.394,4.4,mb,31,147,3.5,0.56,us,us6000knbp,2023-06-27T00:41:33.040Z,"34 km S of Parapat, Indonesia",earthquake,7.42,8.484,0.114,22,reviewed,us,us
 2023-06-26T23:48:48.825Z,39.635,-119.652,10.1,1.3,ml,8,130.5,0.123,0.1125,nn,nn00861796,2023-06-27T02:04:32.869Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,2.3,0.27,4,reviewed,nn,nn
-2023-06-26T23:44:28.991Z,-24.045,-175.211,10,4.9,mb,57,59,2.862,0.47,us,us6000knbk,2023-06-27T00:32:17.040Z,"south of Tonga",earthquake,4.13,1.858,0.064,77,reviewed,us,us
-2023-06-26T23:43:33.220Z,38.489,-112.8406667,0.05,-0.64,md,6,121,0.02554,0.05,uu,uu60544087,2023-06-27T14:16:40.650Z,"18 km NE of Milford, Utah",earthquake,0.34,31.61,0.318,2,reviewed,uu,uu
