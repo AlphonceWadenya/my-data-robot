@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-28T14:52:03.517Z,66.1052,-149.0626,0.4,1.2,ml,,,,1.03,ak,ak023889ucdb,2023-06-28T14:54:13.145Z,"11 km N of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-28T14:44:03.176Z,61.1064,-149.4409,26.4,1.4,ml,,,,0.92,ak,ak023889smm5,2023-06-28T14:46:23.884Z,"19 km SSE of Elmendorf Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-28T14:23:24.640Z,37.203167,-119.5309982,33.92,2.97,md,26,95,0.2629,0.16,nc,nc73906356,2023-06-28T14:50:48.602Z,"3km SSW of North Fork, CA",earthquake,0.52,1.83,0.27,17,automatic,nc,nc
 2023-06-28T14:03:37.524Z,58.4091,-155.2969,83.5,0.3,ml,,,,0.28,ak,ak023889jxdn,2023-06-28T14:06:37.441Z,"85 km ESE of King Salmon, Alaska",earthquake,,2,,,automatic,ak,ak
