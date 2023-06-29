@@ -235,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-28T09:54:17.460Z,38.8256683,-122.7971649,2.64,1.14,md,26,34,0.01034,0.02,nc,nc73906291,2023-06-28T12:22:15.139Z,"6km W of Cobb, CA",earthquake,0.24,0.38,0.18,22,automatic,nc,nc
 2023-06-28T09:53:45.600Z,33.3131667,-116.7553333,13.2,0.88,ml,39,34,0.07703,0.14,ci,ci40497872,2023-06-28T13:00:38.640Z,"8km N of Lake Henshaw, CA",earthquake,0.18,0.44,0.2,24,reviewed,ci,ci
 2023-06-28T09:51:26.560Z,33.4676667,-118.0715,8.02,1.43,ml,19,119,0.2584,0.17,ci,ci40497864,2023-06-28T18:51:45.151Z,"21km SW of Newport Beach, CA",earthquake,0.5,2.09,0.141,11,reviewed,ci,ci
-2023-06-28T09:41:54.120Z,33.8301667,-117.6638333,3.62,1.25,ml,48,53,0.05406,0.18,ci,ci40497856,2023-06-28T18:37:24.560Z,"10km WSW of Corona, CA",earthquake,0.19,0.48,0.097,34,reviewed,ci,ci
