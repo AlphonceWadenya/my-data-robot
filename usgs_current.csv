@@ -261,5 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-28T23:03:19.670Z,51.847,-178.124166666667,7.08,0.88,ml,5,194,,0.23,av,av91942031,2023-06-28T23:43:00.610Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.87,1.1,0.470815129967535,5,reviewed,av,av
 2023-06-28T23:02:35.760Z,38.8243333,-122.8085,1.7,0.39,md,14,38,0.001546,0.03,nc,nc73906471,2023-06-29T18:38:01.063Z,"7km NW of The Geysers, CA",earthquake,0.27,0.49,0.425,15,reviewed,nc,nc
 2023-06-28T22:48:24.867Z,46.8499,154.0105,10,4.6,mb,46,117,6.7,1.23,us,us6000knry,2023-06-29T01:56:03.040Z,"east of the Kuril Islands",earthquake,8.4,1.704,0.084,42,reviewed,us,us
-2023-06-28T22:41:53.185Z,-58.9763,-26.0777,117.237,5.1,mb,51,80,7.418,0.93,us,us6000knrs,2023-06-28T22:55:40.040Z,"South Sandwich Islands region",earthquake,11.92,7.74,0.066,74,reviewed,us,us
-2023-06-28T22:40:27.220Z,38.7953333,-122.7431667,1.97,-0.09,md,13,126,0.01309,0.01,nc,nc73906466,2023-06-29T00:55:35.566Z,"2km NNE of The Geysers, CA",earthquake,0.24,0.53,0.274,9,reviewed,nc,nc
