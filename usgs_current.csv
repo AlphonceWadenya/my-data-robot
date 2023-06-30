@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-30T16:49:43.300Z,34.9953346,-118.5210037,9.19,1.45,ml,28,50,0.1462,0.17,ci,ci40500624,2023-06-30T16:51:50.340Z,"17km SSW of Tehachapi, CA",earthquake,0.3,1.07,0.164,6,automatic,ci,ci
+2023-06-30T16:54:56.510Z,34.6155014,-117.3221664,1.42,1.22,ml,24,124,0.252,0.47,ci,ci40500648,2023-06-30T16:57:24.850Z,"9km ENE of Adelanto, CA",earthquake,1.16,4.1,0.272,5,automatic,ci,ci
+2023-06-30T16:52:49.740Z,35.0035,-118.5126667,4.61,1.2,ml,25,66,0.1411,0.23,ci,ci40500640,2023-06-30T16:56:21.930Z,"15km SSW of Tehachapi, CA",earthquake,0.33,1.39,0.149,20,automatic,ci,ci
+2023-06-30T16:49:43.380Z,35.0006667,-118.5205,6.5,1.28,ml,25,45,0.1473,0.2,ci,ci40500624,2023-06-30T16:53:18.444Z,"16km SSW of Tehachapi, CA",earthquake,0.28,1.18,0.215,27,automatic,ci,ci
 2023-06-30T16:47:26.475Z,61.0466,-152.3693,19.2,0.9,ml,,,,0.6,ak,ak0238bm2vrb,2023-06-30T16:49:22.962Z,"66 km W of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-30T16:33:46.490Z,38.8033333,-122.8218307,2.91,0.7,md,8,99,0.007969,0.01,nc,nc73907151,2023-06-30T16:35:21.757Z,"6km WNW of The Geysers, CA",earthquake,0.47,1.47,0.28,10,automatic,nc,nc
 2023-06-30T16:30:10.520Z,40.2478333,-124.8528366,22.82,2.19,md,10,317,0.4412,0.22,nc,nc73907146,2023-06-30T16:42:10.686Z,"49km W of Petrolia, CA",earthquake,15,20.25,0.02,6,automatic,nc,nc
