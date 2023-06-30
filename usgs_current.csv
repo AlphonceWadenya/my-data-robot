@@ -86,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T10:25:04.560Z,38.7816658,-122.7666702,2.02,0.3,md,11,109,0.01095,0.03,nc,nc73907056,2023-06-30T10:26:39.348Z,"1km WNW of The Geysers, CA",earthquake,0.33,0.73,0.13,11,automatic,nc,nc
 2023-06-30T10:21:45.603Z,61.1375,-150.3806,28.8,2.4,ml,,,,1.43,ak,ak0238bicqy3,2023-06-30T12:54:51.040Z,"27 km WSW of Anchorage, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-30T10:17:24.555Z,-6.9974,124.8826,554.632,4.6,mb,74,44,2.807,0.53,us,us6000kp1u,2023-06-30T10:43:21.040Z,"182 km NNW of Maubara, Timor Leste",earthquake,11.55,7.103,0.06,82,reviewed,us,us
-2023-06-30T10:02:37.830Z,33.0175,-116.0286667,2.29,1.94,ml,51,31,0.1396,0.25,ci,ci40500312,2023-06-30T10:13:03.230Z,"17km SE of Ocotillo Wells, CA",earthquake,0.25,0.68,0.163,25,automatic,ci,ci
+2023-06-30T10:02:37.950Z,33.017,-116.0175,7.48,1.95,ml,62,28,0.136,0.19,ci,ci40500312,2023-06-30T19:21:35.296Z,"18km SE of Ocotillo Wells, CA",earthquake,0.17,0.78,0.146,24,reviewed,ci,ci
 2023-06-30T09:56:36.220Z,32.9838333,-116.3485,9.88,1.13,ml,49,48,0.04784,0.17,ci,ci40500304,2023-06-30T19:07:09.420Z,"25km NE of Pine Valley, CA",earthquake,0.18,0.35,0.136,23,reviewed,ci,ci
 2023-06-30T09:52:10.230Z,38.8364983,-122.8033371,2.27,0.57,md,10,73,0.01033,0.01,nc,nc73907051,2023-06-30T09:53:45.221Z,"7km WNW of Cobb, CA",earthquake,0.36,1.22,0.22,12,automatic,nc,nc
 2023-06-30T09:50:11.390Z,41.3675,-111.7361667,10.16,0.95,ml,17,74,0.1887,0.17,uu,uu60544347,2023-06-30T14:27:12.430Z,"8 km ENE of Wolf Creek, Utah",earthquake,0.44,2.09,0.176,4,reviewed,uu,uu
@@ -233,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T19:45:28.670Z,38.7641667,-122.907,4.68,0.87,md,26,157,0.04752,0.04,nc,nc73906831,2023-06-30T00:14:35.460Z,"11km ESE of Cloverdale, CA",earthquake,0.35,0.52,0.191,28,reviewed,nc,nc
 2023-06-29T19:27:42.730Z,19.4361667633057,-155.179168701172,8.89999961853027,1.99,ml,8,193,,0.310000002,hv,hv73465327,2023-06-29T19:33:16.600Z,"5 km SW of Fern Forest, Hawaii",earthquake,2.55,1.86000001,3.19,8,automatic,hv,hv
 2023-06-29T19:27:37.610Z,19.485,-155.448666666667,-1.25,2.32,ml,44,62,,0.15,hv,hv73465322,2023-06-29T20:35:13.250Z,"Island of Hawaii, Hawaii",earthquake,0.21,0.3,0.136872313008328,27,reviewed,hv,hv
-2023-06-29T19:16:25.060Z,33.8293333,-117.6643333,3.22,1.1,ml,28,52,0.05437,0.21,ci,ci40499536,2023-06-29T20:00:54.975Z,"10km WSW of Corona, CA",earthquake,0.27,0.3,0.17,17,reviewed,ci,ci
