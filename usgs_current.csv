@@ -221,5 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T18:47:22.550Z,37,-119.8081667,-0.37,2.11,md,12,74,0.08083,0.05,nc,nc73907191,2023-06-30T22:45:50.965Z,"6km ENE of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast,0.35,31.61,0.27,16,reviewed,nc,nc
 2023-06-30T18:46:23.487Z,45.0334,-27.974,10,4.6,mb,96,50,7.493,1.2,us,us6000kp9u,2023-06-30T21:07:10.040Z,"northern Mid-Atlantic Ridge",earthquake,11.32,1.866,0.054,101,reviewed,us,us
 2023-06-30T18:37:48.124Z,39.6356,-120.001,0.1,0.5,ml,3,177.53,0.042,0.1893,nn,nn00862006,2023-06-30T21:35:39.602Z,"5 km SSW of Cold Springs, Nevada",earthquake,,33,0.08,2,reviewed,nn,nn
-2023-06-30T18:30:56.320Z,38.8331667,-122.8155,1.87,0.38,md,17,54,0.01064,0.02,nc,nc73907186,2023-07-01T06:40:16.609Z,"8km NW of The Geysers, CA",earthquake,0.22,0.35,0.17,16,reviewed,nc,nc
-2023-06-30T18:29:08.780Z,58.2625,-155.122833333333,35.45,0.22,ml,15,86,,0.31,av,av91944256,2023-07-01T01:25:13.550Z,"Alaska Peninsula",earthquake,0.83,1.14,0.220859310256962,14,reviewed,av,av
