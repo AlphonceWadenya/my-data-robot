@@ -88,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T19:45:44.461Z,58.1725,-155.368,0,0,ml,,,,0.4,ak,ak0238bnusj2,2023-06-30T19:47:37.254Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-06-30T19:44:38.677Z,63.0442,-150.6523,118.2,1.1,ml,,,,0.13,ak,ak0238bnukd7,2023-06-30T19:47:34.783Z,"61 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-06-30T19:34:59.651Z,58.1741,-155.2853,0,1.8,ml,,,,0.49,ak,ak0238bnsgtv,2023-06-30T19:37:31.807Z,"83 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-30T19:34:10.850Z,19.6626,-65.8251,90,3.84,md,3,304,1.4596,0.03,pr,pr2023181006,2023-06-30T20:18:32.835Z,"Puerto Rico region",earthquake,2.85,6.37,0.03,2,reviewed,pr,pr
+2023-06-30T19:34:10.850Z,19.6626,-65.8251,90,3.84,md,3,304,1.4596,0.03,pr,pr2023181006,2023-06-30T20:18:32.835Z,"135 km NNE of San Juan, Puerto Rico",earthquake,2.85,6.37,0.03,2,reviewed,pr,pr
 2023-06-30T19:28:09.950Z,38.2385,-122.9748333,11.17,1.77,md,36,150,0.07555,0.09,nc,nc73907216,2023-07-01T01:38:12.916Z,"1km W of Dillon Beach, CA",earthquake,0.26,0.39,0.218,39,reviewed,nc,nc
 2023-06-30T19:26:36.320Z,33.8738333,-117.5008333,-0.53,1.03,ml,19,70,0.07296,0.23,ci,ci40500808,2023-06-30T21:50:22.277Z,"2km ESE of Home Gardens, CA",quarry blast,0.54,31.61,0.122,12,reviewed,ci,ci
 2023-06-30T19:16:27.800Z,46.89033333333333,-121.924,12.76,0.31,ml,17,101,0.01891,0.11,uw,uw61937556,2023-06-30T20:13:30.510Z,"16 km NNE of Ashford, Washington",earthquake,0.34,0.61,0.21024528403430495,11,reviewed,uw,uw
@@ -242,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T06:15:12.490Z,34.998,-118.5181667,9.76,1.22,ml,33,54,0.1452,0.12,ci,ci40500248,2023-06-30T18:13:30.050Z,"16km SSW of Tehachapi, CA",earthquake,0.16,0.44,0.138,21,reviewed,ci,ci
 2023-06-30T06:05:23.547Z,39.6063,-119.9697,7.1,0.6,ml,4,231.44,0.007,0.1491,nn,nn00861986,2023-06-30T17:43:46.972Z,"8 km S of Cold Springs, Nevada",earthquake,,3.5,0.1,2,reviewed,nn,nn
 2023-06-30T06:04:15.540Z,58.189,-155.282833333333,1.91,-0.17,ml,7,145,,0.06,av,av91943666,2023-07-01T02:55:27.940Z,"84 km NW of Karluk, Alaska",earthquake,0.22,0.43,0.276167967145337,7,reviewed,av,av
-2023-06-30T05:54:06.140Z,44.0623333,-110.5026667,10.29,1.12,md,14,109,0.2024,0.16,uu,uu60544332,2023-06-30T14:31:21.120Z,"49 km NNE of Kelly, Wyoming",earthquake,0.76,1.51,0.272,8,reviewed,uu,uu
