@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-01T07:37:16.043Z,63.0859,-150.6974,117,2,ml,,,,0.35,ak,ak0238d475uc,2023-07-01T07:39:27.400Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-01T07:36:06.970Z,35.7086667,-117.5225,1.69,1.1,ml,16,86,0.09141,0.21,ci,ci40501248,2023-07-01T07:39:43.456Z,"12km WSW of Searles Valley, CA",earthquake,0.6,1.25,0.079,8,automatic,ci,ci
 2023-07-01T07:33:33.512Z,58.1662,-155.403,0,1.9,ml,,,,0.53,ak,ak0238d46cbr,2023-07-01T07:35:18.184Z,"87 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-01T07:29:40.249Z,-0.1476,88.7173,10,5.8,mww,108,24,8.974,0.7,us,us6000kpdw,2023-07-01T07:52:02.818Z,"South Indian Ocean",earthquake,7.75,1.821,0.098,10,reviewed,us,us
+2023-07-01T07:29:40.249Z,-0.1476,88.7173,10,5.8,mww,108,24,8.974,0.7,us,us6000kpdw,2023-07-01T07:57:57.751Z,"South Indian Ocean",earthquake,7.75,1.821,0.098,10,reviewed,us,us
 2023-07-01T07:23:01.613Z,58.344,-133.2877,0,3.1,ml,,,,0.76,ak,ak0238d444pd,2023-07-01T07:25:40.156Z,"66 km E of Juneau, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-01T07:22:15.770Z,33.1786667,-115.6111667,2.12,1.31,ml,17,85,0.003937,0.14,ci,ci40501232,2023-07-01T07:25:49.956Z,"11km WNW of Calipatria, CA",earthquake,0.29,0.24,0.172,21,automatic,ci,ci
 2023-07-01T07:18:47.087Z,-23.9268,-66.7,205.202,4.1,mwr,32,72,1.669,0.89,us,us6000kpdt,2023-07-01T07:36:52.040Z,"50 km NW of San Antonio de los Cobres, Argentina",earthquake,8.54,9.091,,,reviewed,us,guc
