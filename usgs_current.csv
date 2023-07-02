@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-02T08:41:13.416Z,61.5867,-146.7011,24.4,1.4,ml,,,,0.58,ak,ak0238escslp,2023-07-02T08:42:59.885Z,"45 km S of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-07-02T08:40:25.140Z,38.8313332,-122.8146667,1.24,0.76,md,13,56,0.008701,0.01,nc,nc73907741,2023-07-02T08:41:59.189Z,"8km NW of The Geysers, CA",earthquake,0.24,0.74,0.33,14,automatic,nc,nc
+2023-07-02T08:38:37.900Z,33.6773333,-116.7193333,16.48,0.43,ml,14,97,0.03719,0.21,ci,ci40501936,2023-07-02T08:42:05.446Z,"7km S of Idyllwild, CA",earthquake,0.76,0.81,0.088,6,automatic,ci,ci
 2023-07-02T08:30:49.960Z,38.7961655,-122.7446671,1.46,0.76,md,12,98,0.01257,0.02,nc,nc73907736,2023-07-02T08:33:34.169Z,"2km NNE of The Geysers, CA",earthquake,0.32,0.7,0.15,10,automatic,nc,nc
-2023-07-02T08:29:45.020Z,38.7885017,-122.7446671,0.3,1.12,md,15,85,0.008134,0.05,nc,nc73907731,2023-07-02T08:32:28.981Z,"2km NE of The Geysers, CA",earthquake,0.25,0.46,0.15,12,automatic,nc,nc
+2023-07-02T08:29:45.020Z,38.7885017,-122.7446671,0.3,1.12,md,15,85,0.008134,0.05,nc,nc73907731,2023-07-02T08:41:12.899Z,"2km NE of The Geysers, CA",earthquake,0.25,0.46,0.15,12,automatic,nc,nc
 2023-07-02T08:24:53.560Z,35.1115,-119.0396667,16.96,1.32,ml,13,82,0.2061,0.27,ci,ci40501928,2023-07-02T08:28:24.544Z,"20km SW of Lamont, CA",earthquake,0.61,2.47,0.115,19,automatic,ci,ci
 2023-07-02T08:08:58.974Z,58.3066,-133.554,0.8,3,ml,,,,0.72,ak,ak0238es5thl,2023-07-02T08:19:47.812Z,"50 km E of Juneau, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-02T08:07:49.844Z,63.3149,-145.4696,0,1.1,ml,,,,0.9,ak,ak0238es5l24,2023-07-02T08:10:12.022Z,"26 km NNE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -213,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-01T08:51:41.296Z,64.9596,-146.65,11.4,0.8,ml,,,,0.5,ak,ak0238d4vnf5,2023-07-01T08:53:15.976Z,"13 km NE of Pleasant Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-07-01T08:48:57.870Z,34.0686667,-118.948,13.72,1.97,ml,47,79,0.0193,0.29,ci,ci40501272,2023-07-01T10:10:26.556Z,"14km WNW of Malibu, CA",earthquake,0.5,0.69,0.17,26,automatic,ci,ci
 2023-07-01T08:47:54.983Z,61.5803,-148.0454,15.2,0.7,ml,,,,0.68,ak,ak0238d4utm2,2023-07-01T08:50:57.155Z,"32 km SE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-01T08:41:53.340Z,35.7635,-117.5801667,9.91,0.55,ml,7,198,0.1557,0.15,ci,ci40501264,2023-07-01T08:45:26.565Z,"16km W of Searles Valley, CA",earthquake,1.34,2.59,0.015,4,automatic,ci,ci
-2023-07-01T08:40:15.710Z,38.8468333,-122.8161667,1.72,0.17,md,14,64,0.009619,0.03,nc,nc73907356,2023-07-01T10:59:25.913Z,"8km WNW of Cobb, CA",earthquake,0.31,0.54,0.197,12,reviewed,nc,nc
