@@ -135,7 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-02T19:32:57.771Z,58.6247,-155.1068,11.6,1.5,ml,,,,0.26,ak,ak0238eyuq8h,2023-07-02T20:41:58.110Z,"90 km SSE of Igiugig, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-02T19:31:59.102Z,-29.3625,-176.9885,42.094,5.2,mb,17,275,0.821,1.16,us,us6000kppy,2023-07-02T19:47:39.040Z,"Kermadec Islands region",earthquake,10.94,10.347,0.103,31,reviewed,us,us
 2023-07-02T19:29:47.230Z,38.024334,-122.1931686,12.33,1.14,md,5,167,0.06558,0.04,nc,nc73907926,2023-07-02T20:13:11.009Z,"2km SSW of Port Costa, CA",earthquake,0.61,1.26,0.3,5,automatic,nc,nc
-2023-07-02T19:23:52.790Z,39.5495,-121.9876667,26.28,2.13,md,20,81,0.2409,0.08,nc,nc73907921,2023-07-03T07:07:11.775Z,"18km E of Willows, CA",earthquake,0.26,1.15,0.218,22,reviewed,nc,nc
+2023-07-02T19:23:52.790Z,39.5495,-121.9876667,26.28,2.13,md,20,81,0.2409,0.08,nc,nc73907921,2023-07-03T08:46:14.360Z,"18km E of Willows, CA",earthquake,0.26,1.15,0.218,22,reviewed,nc,nc
 2023-07-02T19:10:27.390Z,19.1276664733887,-155.376495361328,30.7900009155273,1.86000001,md,32,186,,0.109999999,hv,hv73468307,2023-07-02T19:13:49.660Z,"13 km SE of Pāhala, Hawaii",earthquake,0.75,1.11000001,0.540000021,5,automatic,hv,hv
 2023-07-02T19:09:40.909Z,51.905,-174.8595,66.7,2.7,ml,,,,0.33,ak,ak0238eyps7v,2023-07-02T20:32:59.758Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,1.1,,,reviewed,ak,ak
 2023-07-02T19:03:43.523Z,57.7294,-155.9357,17.6,2,ml,,,,0.33,ak,ak0238eyohdc,2023-07-02T20:35:39.300Z,"90 km W of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
