@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-04T11:25:16.630Z,34.1385,-117.4241667,4.34,1.4,ml,55,25,0.05403,0.21,ci,ci40503216,2023-07-04T11:28:49.926Z,"6km NE of Fontana, CA",earthquake,0.21,0.62,0.141,26,automatic,ci,ci
+2023-07-04T11:25:16.630Z,34.1385,-117.4241667,4.34,1.4,ml,55,25,0.05403,0.21,ci,ci40503216,2023-07-04T11:36:15.570Z,"6km NE of Fontana, CA",earthquake,0.21,0.62,0.141,26,automatic,ci,ci
 2023-07-04T11:19:55.640Z,38.7923317,-122.7624969,3.52,0.75,md,11,76,0.008562,0.02,nc,nc73908706,2023-07-04T11:22:40.470Z,"2km NNW of The Geysers, CA",earthquake,0.45,1.03,0.11,10,automatic,nc,nc
 2023-07-04T11:13:21.710Z,35.7051667,-117.5205,7.77,1.07,ml,13,149,0.08835,0.14,ci,ci40503200,2023-07-04T11:16:50.843Z,"13km WSW of Searles Valley, CA",earthquake,0.61,1.6,0.146,7,automatic,ci,ci
 2023-07-04T11:11:53.540Z,38.8180008,-122.8098297,3.29,1.36,md,29,42,0.00539,0.02,nc,nc73908701,2023-07-04T11:29:19.210Z,"6km NW of The Geysers, CA",earthquake,0.21,0.39,0.16,31,automatic,nc,nc
