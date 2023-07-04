@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-04T13:22:11.920Z,38.8088341,-122.8131638,3.23,1.29,md,21,56,0.01251,0.06,nc,nc73908736,2023-07-04T13:34:11.033Z,"6km NW of The Geysers, CA",earthquake,0.3,0.54,0.22,18,automatic,nc,nc
+2023-07-04T13:38:57.719Z,63.0679,-148.5092,70.1,2.5,ml,,,,0.5,ak,ak0238i6e3v7,2023-07-04T13:40:35.862Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-07-04T13:22:11.920Z,38.8088341,-122.8131638,3.23,1.29,md,21,56,0.01251,0.06,nc,nc73908736,2023-07-04T13:40:16.073Z,"6km NW of The Geysers, CA",earthquake,0.3,0.54,0.22,18,automatic,nc,nc
 2023-07-04T13:01:59.770Z,38.8330002,-122.8143311,1.45,1.04,md,15,69,0.01015,0.06,nc,nc73908731,2023-07-04T13:18:13.924Z,"8km NW of The Geysers, CA",earthquake,0.28,0.66,0.15,16,automatic,nc,nc
 2023-07-04T12:58:48.213Z,57.7698,-155.9816,7.1,2,ml,,,,0.52,ak,ak0238i5wxv9,2023-07-04T13:00:56.720Z,"89 km ENE of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-04T12:39:05.780Z,39.3353348,-123.2891693,2.63,1.78,md,12,74,0.1297,0.05,nc,nc73908726,2023-07-04T13:12:10.890Z,"10km SE of Willits, CA",earthquake,0.31,8.32,0.11,10,automatic,nc,nc
