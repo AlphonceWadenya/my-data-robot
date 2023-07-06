@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-06T20:04:33.230Z,45.36933333333333,-122.006,-1.57,1.5,ml,10,179,0.1547,0.09,uw,uw61938686,2023-07-06T21:46:17.310Z,"2 km NW of Mount Hood Village, Oregon",explosion,0.9,31.61,0.12320915458597925,10,reviewed,uw,uw
 2023-07-06T20:04:08.059Z,-9.4818,148.7817,59.34,5.5,mb,101,21,1.602,1.1,us,us6000kqkr,2023-07-06T21:15:06.172Z,"99 km SE of Popondetta, Papua New Guinea",earthquake,8.28,4.947,0.039,226,reviewed,us,us
 2023-07-06T19:54:39.510Z,35.7255,-121.0856667,7.37,1.13,md,21,78,0.07016,0.08,nc,nc73909666,2023-07-06T21:22:13.336Z,"13km NE of San Simeon, CA",earthquake,0.22,0.49,0.227,12,reviewed,nc,nc
-2023-07-06T19:47:59.000Z,36.0071667,-120.9578333,10.25,1.45,md,38,49,0.05833,0.12,nc,nc73909661,2023-07-06T21:33:13.533Z,"5km WSW of San Ardo, CA",earthquake,0.17,0.4,0.336,29,reviewed,nc,nc
+2023-07-06T19:47:59.000Z,36.0071667,-120.9578333,10.25,1.45,md,38,49,0.05833,0.12,nc,nc73909661,2023-07-06T21:51:10.536Z,"5km WSW of San Ardo, CA",earthquake,0.17,0.4,0.336,29,reviewed,nc,nc
 2023-07-06T19:41:19.833Z,58.2726,-155.106,35,0.5,ml,,,,0.47,ak,ak0238ll1yq7,2023-07-06T19:43:21.832Z,"Alaska Peninsula",earthquake,,0.9,,,automatic,ak,ak
 2023-07-06T19:38:42.859Z,36.0215,-97.91783333,5.85,1.93,ml,91,32,0.08818269555,0.19,ok,ok2023ndil,2023-07-06T19:49:53.241Z,"4 km N of Dover, Oklahoma",earthquake,,0.4,0.26,50,reviewed,ok,ok
 2023-07-06T19:24:55.210Z,19.1936664581299,-155.50666809082,34.1199989318848,1.93,ml,44,70,,0.0900000036,hv,hv73472837,2023-07-06T19:30:25.370Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.45,0.680000007,3.27,7,automatic,hv,hv
@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-05T22:20:37.990Z,34.1415,-117.4086667,6.48,1,ml,32,51,0.04871,0.21,ci,ci40504272,2023-07-06T20:50:10.457Z,"5km NW of Rialto, CA",earthquake,0.29,0.63,0.183,14,reviewed,ci,ci
 2023-07-05T22:13:43.890Z,44.8105,-111.031,8.11,0.11,md,9,168,0.05414,0.13,uu,uu60544712,2023-07-05T22:45:04.090Z,"13 km ENE of Hebgen Lake Estates, Montana",earthquake,0.67,1.13,0.146,4,reviewed,uu,uu
 2023-07-05T21:56:44.417Z,52.8087,-166.7841,23.3,2.8,ml,,,,0.36,ak,ak0238jysrgb,2023-07-06T01:31:24.181Z,"119 km S of Unalaska, Alaska",earthquake,,2,,,reviewed,ak,ak
-2023-07-05T21:47:12.710Z,37.1218333,-121.5775,3.71,0.93,md,21,63,0.05706,0.12,nc,nc73909236,2023-07-06T21:10:51.108Z,"5km NE of San Martin, CA",earthquake,0.26,0.87,0.176,17,reviewed,nc,nc
