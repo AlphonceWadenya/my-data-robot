@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-08T22:41:16.600Z,38.7581673,-122.7298355,2.07,1.23,md,9,138,0.005179,0.02,nc,nc73910376,2023-07-08T22:43:58.029Z,"3km SE of The Geysers, CA",earthquake,0.77,0.73,0.3,8,automatic,nc,nc
 2023-07-08T22:36:04.840Z,60.9273,-151.2629,59,1.8,ml,,,,0.27,ak,ak0238oxvusk,2023-07-08T22:37:34.037Z,"Kenai Peninsula, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-07-08T22:10:30.412Z,61.838,-148.3227,30.4,1.7,ml,,,,0.54,ak,ak0238oxqc5d,2023-07-08T22:12:22.356Z,"8 km ENE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-07-08T21:53:03.188Z,57.8458,-154.3245,30.3,1.5,ml,,,,1.2,ak,ak0238oxe291,2023-07-08T21:55:07.406Z,"Kodiak Island region, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -189,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-07T22:58:25.404Z,59.5133,-153.0476,105.2,1.7,ml,,,,0.32,ak,ak0238nah9n0,2023-07-07T23:00:31.150Z,"66 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-07T22:51:19.050Z,33.9388333,-116.014,7.11,1.27,ml,25,83,0.06299,0.23,ci,ci39607138,2023-07-07T23:02:00.310Z,"23km SSE of Twentynine Palms, CA",earthquake,0.38,1.18,0.105,28,automatic,ci,ci
 2023-07-07T22:48:56.580Z,35.6661666666667,-83.3546666666667,4.84,2.15,md,15,113,0.3416,0.11,se,se60533326,2023-07-08T17:19:51.768Z,"Tennessee-North Carolina border region",earthquake,0.53,1.13,0.0550196923068516,13,reviewed,se,se
-2023-07-07T22:40:27.700Z,18.1863,-68.7285,143,3.65,md,19,187,0.4773,0.5,pr,pr2023188001,2023-07-08T03:58:45.040Z,"Mona Passage",earthquake,3.09,1.73,0.26,15,reviewed,pr,pr
