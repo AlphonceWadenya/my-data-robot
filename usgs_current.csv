@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-08T18:55:05.298Z,35.48106766,-98.04148865,2.315555573,1.8,ml,10,66.7784729,0.05750872567,0.561831715,ok,ok2023ngya,2023-07-08T18:57:27.008Z,"9 km SW of El Reno, Oklahoma",earthquake,4.290521657,3.458142692,0.26,8,automatic,ok,ok
 2023-07-08T18:38:40.295Z,60.7035,-152.4936,9.3,2,ml,,,,0.87,ak,ak0238ovimjh,2023-07-08T18:40:23.236Z,"64 km W of Salamatof, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-07-08T18:38:38.550Z,38.8463326,-122.8133316,1.32,0.4,md,7,95,0.01142,0.03,nc,nc73910311,2023-07-08T18:40:16.026Z,"8km WNW of Cobb, CA",earthquake,0.35,0.89,0.26,9,automatic,nc,nc
 2023-07-08T18:34:41.612Z,65.1575,-148.5271,7.7,1.2,ml,,,,0.79,ak,ak0238ovhrs1,2023-07-08T18:36:42.968Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
