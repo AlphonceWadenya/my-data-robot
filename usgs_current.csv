@@ -225,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-08T09:40:37.546Z,65.082,-150.1722,14.4,1,ml,,,,0.89,ak,ak0238oq65be,2023-07-08T09:42:32.965Z,"23 km ENE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-08T09:27:42.982Z,61.6897,-150.6872,34.1,1,ml,,,,0.19,ak,ak0238oq3dfe,2023-07-08T09:29:26.834Z,"18 km NNW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-08T08:59:46.272Z,61.8354,-151.9131,108.7,2.3,ml,,,,0.58,ak,ak0238oposyz,2023-07-09T05:06:56.040Z,"32 km WSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-08T08:50:17.238Z,39.3781,-119.9654,6.9,0.8,ml,15,112.1,0.09,0.1867,nn,nn00862332,2023-07-08T16:44:00.328Z,"Nevada",earthquake,,1.6,0.24,4,reviewed,nn,nn
