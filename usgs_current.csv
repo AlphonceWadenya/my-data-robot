@@ -257,4 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-08T21:49:58.930Z,38.8193321,-122.8164978,2.83,1.18,md,22,44,0.006453,0.05,nc,nc73910356,2023-07-09T01:16:17.312Z,"7km NW of The Geysers, CA",earthquake,0.24,0.51,0.12,23,automatic,nc,nc
 2023-07-08T21:49:19.020Z,35.6621667,-117.5278333,10.28,1.29,ml,16,122,0.08484,0.24,ci,ci39607978,2023-07-08T21:52:52.459Z,"14km ENE of Ridgecrest, CA",earthquake,0.57,1.11,0.116,11,automatic,ci,ci
 2023-07-08T21:48:00.710Z,38.7879982,-122.7363358,0.84,1.32,md,23,86,0.004764,0.06,nc,nc73910346,2023-07-09T00:51:14.169Z,"2km NE of The Geysers, CA",earthquake,0.25,0.51,0.11,18,automatic,nc,nc
-2023-07-08T21:44:01.330Z,33.6678333,-116.7828333,9.74,0.28,ml,9,99,0.07173,0.18,ci,ci39607970,2023-07-08T21:47:32.988Z,"10km SW of Idyllwild, CA",earthquake,0.58,1.37,0.068,6,automatic,ci,ci
