@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-10T15:09:31.695Z,60.7837,-151.1495,50.1,1,ml,,,,0.2,ak,ak0238s4msa9,2023-07-10T15:11:07.518Z,"Kenai Peninsula, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-07-10T15:02:12.994Z,57.7363,-154.8773,81.9,1.3,ml,,,,0.26,ak,ak0238s4l8tv,2023-07-10T15:04:35.380Z,"Kodiak Island region, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-10T14:56:32.708Z,60.6686,-150.8805,49.2,2.7,ml,,,,0.23,ak,ak0238s4bfeu,2023-07-10T15:13:12.116Z,"15 km NNW of Sterling, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-07-10T14:56:22.340Z,38.7576675,-122.7438354,0.84,1.79,md,25,85,0.01534,0.08,nc,nc73911111,2023-07-10T15:12:14.881Z,"2km SSE of The Geysers, CA",earthquake,0.26,0.42,0.14,25,automatic,nc,nc
+2023-07-10T14:56:22.340Z,38.7576675,-122.7438354,0.84,1.79,md,25,85,0.01534,0.08,nc,nc73911111,2023-07-10T15:41:12.046Z,"2km SSE of The Geysers, CA",earthquake,0.26,0.42,0.14,25,automatic,nc,nc
 2023-07-10T14:53:27.287Z,58.5185,-152.349,45.5,2,ml,,,,0.76,ak,ak0238s4arug,2023-07-10T14:56:08.435Z,"Kodiak Island region, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-10T14:45:29.693Z,57.69,-154.9465,73.6,3.4,ml,,,,0.28,ak,ak0238s492al,2023-07-10T14:47:06.707Z,"32 km WNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-10T14:39:14.730Z,38.7835007,-122.7436676,0.68,1.12,md,17,80,0.005433,0.03,nc,nc73911106,2023-07-10T15:14:09.888Z,"1km ENE of The Geysers, CA",earthquake,0.24,0.45,0.11,14,automatic,nc,nc
@@ -16,6 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-10T13:31:46.432Z,60.6599,-150.8996,42.3,1.5,ml,,,,0.42,ak,ak0238s3knyr,2023-07-10T13:33:22.740Z,"15 km NNW of Sterling, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-10T13:13:09.320Z,38.8231659,-122.8030014,-0.7,0.28,md,8,96,0.01632,0.16,nc,nc73911091,2023-07-10T14:45:14.676Z,"6km NW of The Geysers, CA",earthquake,0.43,6.44,0.08,9,automatic,nc,nc
 2023-07-10T13:08:01.600Z,38.8154984,-122.8208313,2.88,1.08,md,15,80,0.009293,0.02,nc,nc73911086,2023-07-10T14:17:15.507Z,"7km NW of The Geysers, CA",earthquake,0.33,0.78,0.2,16,automatic,nc,nc
+2023-07-10T13:05:43.757Z,81.1362,120.0438,10,4,mb,26,147,14.065,0.41,us,us7000kelh,2023-07-10T15:42:13.040Z,"east of Severnaya Zemlya",earthquake,10.84,1.916,0.111,22,reviewed,us,us
 2023-07-10T13:02:44.725Z,59.3947,-139.3139,11.8,2.5,ml,,,,0.51,ak,ak0238s3eg2g,2023-07-10T15:22:58.040Z,"28 km SE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-10T13:01:47.914Z,58.1847,-155.2994,1.4,0.6,ml,,,,0.2,ak,ak0238s3e8lj,2023-07-10T13:02:58.036Z,"84 km NW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-07-10T13:01:11.478Z,11.3546,125.3771,71.408,5,mb,145,91,4.262,0.73,us,usd000k1rd,2023-07-10T14:11:41.946Z,"Samar, Philippines",earthquake,9.14,2.479,0.044,169,reviewed,us,us
