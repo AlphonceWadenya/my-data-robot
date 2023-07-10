@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-09T10:12:20.522Z,58.0954,-155.5715,21.6,1.5,ml,,,,0.91,ak,ak0238qe4w1w,2023-07-09T10:14:28.776Z,"88 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-07-09T10:09:21.525Z,63.0446,-150.3879,103.1,1.7,ml,,,,0.56,ak,ak0238qe48zc,2023-07-09T10:24:19.589Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-09T10:07:48.330Z,51.8616666666667,-177.8795,3.51,0.35,ml,6,199,,0.17,av,av91954881,2023-07-09T15:41:32.470Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.64,0.82,0.13115482601544,6,reviewed,av,av
-2023-07-09T09:54:49.202Z,61.6765,-148.8078,35.3,1.4,ml,,,,0.19,ak,ak0238qdsiqg,2023-07-09T09:56:11.289Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
