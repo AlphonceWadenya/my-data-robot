@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-11T15:53:14.770Z,35.5629997,-117.3871689,1.47,1.72,ml,19,55,0.04222,0.2,ci,ci39609882,2023-07-11T15:55:27.274Z,"22 km S of Trona, CA",earthquake,0.32,0.48,0.223,11,automatic,ci,ci
 2023-07-11T15:44:05.730Z,38.7874985,-122.7454987,1.75,0.74,md,9,86,0.00807,0.02,nc,nc73911451,2023-07-11T15:45:40.445Z,"2 km NE of The Geysers, CA",earthquake,0.3,1.04,0.06,10,automatic,nc,nc
 2023-07-11T15:38:39.705Z,65.4382,-148.0034,13.1,1,ml,,,,0.21,ak,ak0238tscd5u,2023-07-11T15:40:02.395Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-11T15:34:53.654Z,65.4281,-147.9632,0.4,0.8,ml,,,,0.72,ak,ak0238tsbjdh,2023-07-11T15:36:17.637Z,"29 km ESE of Livengood, Alaska",earthquake,,23.9,,,automatic,ak,ak
