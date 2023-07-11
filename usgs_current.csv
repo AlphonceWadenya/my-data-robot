@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-11T22:41:36.332Z,58.1781,-155.3671,0.9,0.6,ml,,,,0.26,ak,ak0238twj1a9,2023-07-11T22:42:56.308Z,"Alaska Peninsula",earthquake,,1.6,,,automatic,ak,ak
-2023-07-11T22:34:51.090Z,38.8289986,-122.8101654,1.91,0.45,md,10,83,0.005596,0.03,nc,nc73911561,2023-07-11T22:36:28.417Z,"7 km NW of The Geysers, CA",earthquake,0.37,1.32,0.31,12,automatic,nc,nc
+2023-07-11T22:34:51.090Z,38.8289986,-122.8101654,1.91,0.45,md,10,83,0.005596,0.03,nc,nc73911561,2023-07-11T22:51:14.022Z,"7 km NW of The Geysers, CA",earthquake,0.37,1.32,0.31,12,automatic,nc,nc
 2023-07-11T22:00:22.870Z,36.1461667,-118.1821667,4.57,1.16,ml,14,134,0.2665,0.19,ci,ci39610306,2023-07-11T22:04:00.327Z,"22km SW of Olancha, CA",earthquake,0.45,2.99,0.119,5,automatic,ci,ci
 2023-07-11T21:58:54.034Z,60.9863,-141.0084,10.4,2.5,ml,,,,0.5,ak,ak0238tw1a7v,2023-07-11T22:00:46.326Z,"114 km ESE of McCarthy, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-07-11T21:58:42.920Z,34.0685,-97.437,12.6,2.9,ml,63,67,0.1709664506,0.28,ok,ok2023nmqp,2023-07-11T22:48:33.819Z,"10 km S of Wilson, Oklahoma",earthquake,,1.3,0.21,21,reviewed,ok,ok
 2023-07-11T21:58:08.030Z,-24.0913,-66.8124,196.619,4.5,mb,39,37,1.691,0.79,us,us7000kezc,2023-07-11T22:29:16.040Z,"52 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.44,7.323,0.124,19,reviewed,us,us
+2023-07-11T21:48:15.890Z,44.6253333333333,-112.5905,9.43,0.79,ml,6,144,0.03905,0.04,mb,mb90021198,2023-07-11T22:50:43.760Z,"1 km S of Lima, Montana",earthquake,0.37,0.42,0.290452272454031,5,reviewed,mb,mb
 2023-07-11T21:48:14.070Z,19.2035007476807,-155.372329711914,28.5,1.98,ml,31,178,,0.100000001,hv,hv73478887,2023-07-11T21:53:44.680Z,"Island of Hawaii, Hawaii",earthquake,0.62,0.879999995,0.31,3,automatic,hv,hv
 2023-07-11T21:44:27.530Z,44.6105,-112.58,8.05,3.68,ml,14,74,0.0462,0.07,mb,mb90021183,2023-07-11T22:16:46.310Z,"Idaho-Montana border region",earthquake,0.25,0.37,0.14936299108712,49,reviewed,mb,mb
 2023-07-11T21:44:11.970Z,44.6123333333333,-112.586166666667,8.3,2.46,ml,13,79,0.04159,0.06,mb,mb90021188,2023-07-11T22:28:29.520Z,"2 km S of Lima, Montana",earthquake,0.25,0.47,0.140914722919419,9,reviewed,mb,mb
@@ -99,6 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T11:52:45.509Z,36.02616667,-97.91366667,6.01,1.93,ml,89,37,0.09358163609,0.2,ok,ok2023nlwp,2023-07-11T12:03:02.404Z,"Oklahoma",earthquake,,0.4,0.22,47,reviewed,ok,ok
 2023-07-11T11:42:07.159Z,24.0417,121.5466,22.435,3.1,ml,11,117,0.139,0.45,us,us7000keun,2023-07-11T13:37:23.484Z,"Taiwan",earthquake,3.74,3.13,0.081,20,reviewed,us,us
 2023-07-11T11:41:48.910Z,34.1333333,-117.4296667,4,0.68,ml,18,83,0.05915,0.13,ci,ci39609666,2023-07-11T13:25:05.387Z,"5km NNE of Fontana, CA",earthquake,0.34,0.77,0.22,10,reviewed,ci,ci
+2023-07-11T11:31:44.390Z,46.935833333333335,-121.927,12.34,0.06,ml,11,135,0.03489,0.14,uw,uw61939711,2023-07-11T22:53:29.470Z,"18 km SSE of Carbonado, Washington",earthquake,0.56,0.79,0.20788694660843143,6,reviewed,uw,uw
 2023-07-11T11:31:20.880Z,62.7418,-149.4749,60.8,1.3,ml,,,,0.65,ak,ak0238tpx3a0,2023-07-11T11:33:24.363Z,"45 km NE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-11T11:25:40.995Z,64.8741,-149.0195,18.8,0.7,ml,,,,0.21,ak,ak0238tpvuj7,2023-07-11T11:27:05.222Z,"30 km N of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-11T11:17:29.880Z,38.8268318,-122.8501663,1.44,0.67,md,10,114,0.01239,0.01,nc,nc73911371,2023-07-11T12:59:16.957Z,"10 km NW of The Geysers, CA",earthquake,0.35,0.67,0.09,9,automatic,nc,nc
