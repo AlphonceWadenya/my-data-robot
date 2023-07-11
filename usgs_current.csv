@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-11T23:39:12.908Z,63.4571,-150.869,0.4,1.7,ml,,,,0.33,ak,ak0238tx3zne,2023-07-11T23:41:02.499Z,"43 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-11T23:24:50.322Z,58.1703,-155.4475,1.3,0.4,ml,,,,0.44,ak,ak0238tx0uso,2023-07-11T23:26:54.951Z,"89 km NW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-07-11T23:23:50.970Z,19.204833984375,-155.376998901367,28.4500007629395,2.15,ml,37,161,,0.119999997,hv,hv73478987,2023-07-11T23:29:22.380Z,"10 km E of Pāhala, Hawaii",earthquake,0.66,0.850000024,3.3,7,automatic,hv,hv
 2023-07-11T22:59:10.820Z,19.1633338928223,-155.480331420898,33.2200012207031,1.94000006,md,25,212,,0.0900000036,hv,hv73478967,2023-07-11T23:02:12.950Z,"Island of Hawaii, Hawaii",earthquake,0.78,1.07000005,0.829999983,7,automatic,hv,hv
@@ -17,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T21:48:14.070Z,19.2035007476807,-155.372329711914,28.5,1.98,ml,31,178,,0.100000001,hv,hv73478887,2023-07-11T21:53:44.680Z,"11 km E of Pāhala, Hawaii",earthquake,0.62,0.879999995,0.31,3,automatic,hv,hv
 2023-07-11T21:44:27.530Z,44.6105,-112.58,8.05,3.68,ml,14,74,0.0462,0.07,mb,mb90021183,2023-07-11T22:16:46.310Z,"3 km SSE of Lima, Montana",earthquake,0.25,0.37,0.14936299108712,49,reviewed,mb,mb
 2023-07-11T21:44:11.970Z,44.6123333333333,-112.586166666667,8.3,2.46,ml,13,79,0.04159,0.06,mb,mb90021188,2023-07-11T22:28:29.520Z,"2 km S of Lima, Montana",earthquake,0.25,0.47,0.140914722919419,9,reviewed,mb,mb
-2023-07-11T21:42:16.250Z,37.5088333,-118.96,2.44,1.23,md,15,131,0.109,0.05,nc,nc73911546,2023-07-11T23:37:50.110Z,"14 km S of Mammoth Lakes, CA",earthquake,0.54,1.87,0.334,13,reviewed,nc,nc
+2023-07-11T21:42:16.250Z,37.5088333,-118.96,2.44,1.23,md,15,131,0.109,0.05,nc,nc73911546,2023-07-11T23:43:11.313Z,"14 km S of Mammoth Lakes, CA",earthquake,0.54,1.87,0.334,13,reviewed,nc,nc
 2023-07-11T21:41:30.143Z,58.2708,-154.9582,1.1,0.2,ml,,,,0.19,ak,ak0238tvxl7a,2023-07-11T21:43:24.039Z,"83 km NNW of Karluk, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2023-07-11T21:38:25.652Z,62.9114,-151.1427,65.6,1.8,ml,,,,1.28,ak,ak0238tvwxph,2023-07-11T21:40:26.978Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-07-11T21:25:40.097Z,58.7975,-154.296,85.6,1.7,ml,,,,0.34,ak,ak0238tvu6ih,2023-07-11T21:27:24.662Z,"76 km SSE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
