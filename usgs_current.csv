@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-12T17:37:35.230Z,33.4723333,-115.7976667,6.46,1.07,ml,19,66,0.05888,0.25,ci,ci39610834,2023-07-12T17:41:04.416Z,"14km ESE of North Shore, CA",earthquake,0.45,1.14,0.115,14,automatic,ci,ci
 2023-07-12T17:21:49.730Z,32.9801667,-116.3175,8.73,1.04,ml,33,52,0.02812,0.22,ci,ci39610826,2023-07-12T17:25:29.555Z,"25km SW of Ocotillo Wells, CA",earthquake,0.29,0.61,0.222,20,automatic,ci,ci
 2023-07-12T17:16:15.300Z,38.779335,-122.7286682,0.38,1.56,md,25,75,0.01796,0.07,nc,nc73911956,2023-07-12T17:29:11.524Z,"2 km E of The Geysers, CA",earthquake,0.25,0.54,0.16,23,automatic,nc,nc
 2023-07-12T16:34:46.420Z,19.1486663818359,-155.467666625977,30.2800006866455,1.99000001,md,36,170,,0.109999999,hv,hv73479627,2023-07-12T16:37:53.960Z,"6 km S of Pāhala, Hawaii",earthquake,0.61,1.09000003,1.03999996,12,automatic,hv,hv
@@ -184,7 +185,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T22:42:44.058Z,-6.5576,130.0755,128.337,4.4,mb,21,101,2.029,0.41,us,us7000kezh,2023-07-11T23:05:24.040Z,"Banda Sea",earthquake,9.64,9.291,0.148,13,reviewed,us,us
 2023-07-11T22:34:51.090Z,38.8289986,-122.8101654,1.91,0.45,md,10,83,0.005596,0.03,nc,nc73911561,2023-07-11T22:51:14.022Z,"7 km NW of The Geysers, CA",earthquake,0.37,1.32,0.31,12,automatic,nc,nc
 2023-07-11T22:34:04.687Z,51.0677,179.1896,32.153,4,ml,39,228,0.319,0.48,us,us7000kezm,2023-07-11T23:37:55.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,7.09,8.093,0.074,24,reviewed,us,us
-2023-07-11T22:12:35.210Z,38.7828333,-122.9115,4.63,0.89,md,32,141,0.03476,0.06,nc,nc73911556,2023-07-12T15:22:15.779Z,"10 km ESE of Cloverdale, CA",earthquake,0.31,0.54,0.124,28,reviewed,nc,nc
+2023-07-11T22:12:35.210Z,38.7828333,-122.9115,4.63,0.89,md,32,141,0.03476,0.06,nc,nc73911556,2023-07-12T17:43:13.608Z,"10 km ESE of Cloverdale, CA",earthquake,0.31,0.54,0.124,28,reviewed,nc,nc
 2023-07-11T22:06:07.590Z,44.6126666666667,-112.586333333333,8.35,0.73,ml,7,137,0.04143,0.06,mb,mb90021203,2023-07-12T17:16:57.720Z,"2 km S of Lima, Montana",earthquake,0.35,0.47,0.180486420700091,6,reviewed,mb,mb
 2023-07-11T22:03:13.270Z,38.8368333,-122.8118333,1.81,0.3,md,16,71,0.01349,0.02,nc,nc73911551,2023-07-12T15:48:13.080Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.49,0.314,17,reviewed,nc,nc
 2023-07-11T22:00:22.770Z,36.1465,-118.1791667,3.89,1.18,ml,15,134,0.2641,0.14,ci,ci39610306,2023-07-11T23:27:39.210Z,"22km SW of Olancha, CA",earthquake,0.29,1.9,0.097,4,reviewed,ci,ci
@@ -229,5 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T18:05:21.827Z,-24.1888,-67.3799,221.733,4.4,mb,21,87,1.433,0.91,us,us7000kexg,2023-07-11T21:03:02.040Z,"107 km W of San Antonio de los Cobres, Argentina",earthquake,6.69,9.62,0.203,7,reviewed,us,us
 2023-07-11T18:03:33.740Z,46.1195,-111.548166666667,10.27,1.16,ml,7,93,0.2379,0.04,mb,mb90021138,2023-07-11T19:56:50.010Z,"10 km SW of Toston, Montana",earthquake,0.55,1.84,0.080148010499826,4,reviewed,mb,mb
 2023-07-11T18:03:32.510Z,44.8026667,-110.9935,7.5,1.12,ml,11,167,0.04426,0.1,uu,uu60545047,2023-07-11T20:34:09.480Z,"Yellowstone National Park, Wyoming",earthquake,0.6,0.87,0.248,3,reviewed,uu,uu
-2023-07-11T17:41:44.930Z,44.8248333333333,-111.568833333333,12.79,1.11,ml,7,101,0.09897,0.04,mb,mb90021133,2023-07-11T19:47:56.710Z,"30 km WNW of Hebgen Lake Estates, Montana",earthquake,0.49,0.84,0.0916760329151045,5,reviewed,mb,mb
-2023-07-11T17:39:28.090Z,36.1411667,-118.2355,2.96,1.63,ml,24,124,0.293,0.12,ci,ci39610058,2023-07-11T23:36:08.239Z,"26km SW of Olancha, CA",earthquake,0.19,1.58,0.108,10,reviewed,ci,ci
