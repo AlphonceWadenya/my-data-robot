@@ -261,7 +261,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-12T18:42:09.132Z,62.7236,-150.2888,69.9,1.1,ml,,,,0.83,ak,ak0238vhosz5,2023-07-12T18:44:04.530Z,"Central Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-07-12T18:38:20.789Z,58.1706,-155.4087,1.1,0.2,ml,,,,0.19,ak,ak0238vhnz0e,2023-07-12T18:39:17.629Z,"87 km NW of Karluk, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2023-07-12T18:28:33.710Z,52.7481666666667,-169.92,-0.81,0.1,ml,5,266,,0.24,av,av91110103,2023-07-12T21:44:19.930Z,"74 km WSW of Nikolski, Alaska",earthquake,3.88,1.35,0.310584939939899,5,reviewed,av,av
-2023-07-12T18:25:15.860Z,33.0441667,-114.9806667,2.88,0.86,ml,9,78,0.07178,0.15,ci,ci39610922,2023-07-13T17:06:47.353Z,"45km NNW of Los Algodones, B.C., MX",earthquake,0.49,0.79,0.112,2,automatic,ci,ci
+2023-07-12T18:25:15.840Z,33.0473333,-114.985,2.92,1.07,ml,13,60,0.07513,0.2,ci,ci39610922,2023-07-13T17:46:12.656Z,"45km NNW of Los Algodones, B.C., MX",earthquake,0.44,0.79,0.059,3,reviewed,ci,ci
 2023-07-12T18:20:52.600Z,37.4623333,-117.8658333,6.93,2.62,md,24,128,0.3189,0.08,nc,nc73911981,2023-07-13T00:52:13.426Z,"14 km NE of Deep Springs, CA",earthquake,0.3,1.88,0.302,29,reviewed,nc,nc
 2023-07-12T18:16:54.030Z,38.8261681,-122.7958298,2.84,1.1,md,24,35,0.01147,0.04,nc,nc73911976,2023-07-12T21:58:20.271Z,"6 km W of Cobb, CA",earthquake,0.23,0.48,0.19,24,automatic,nc,nc
 2023-07-12T18:15:48.330Z,38.8311667,-122.8165,1.62,1.19,md,39,47,0.009242,0.03,nc,nc73911971,2023-07-12T21:26:17.057Z,"8 km NW of The Geysers, CA",earthquake,0.13,0.22,0.172,35,reviewed,nc,nc
