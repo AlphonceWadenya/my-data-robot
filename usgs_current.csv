@@ -9,6 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-14T19:53:02.010Z,19.1620006561279,-155.5068359375,30.9300003051758,2.32,ml,41,110,,0.109999999,hv,hv73481467,2023-07-14T19:58:34.100Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.51,0.699999988,3.65,15,automatic,hv,hv
 2023-07-14T19:47:47.960Z,33.6833333,-116.783,15.43,0.45,ml,13,144,0.06375,0.08,ci,ci39613138,2023-07-14T19:51:19.289Z,"9km SW of Idyllwild, CA",earthquake,0.36,0.53,0.13,7,automatic,ci,ci
 2023-07-14T19:39:06.280Z,64.0216,-148.7456,1.5,1.5,ml,,,,0.55,ak,ak0238ytca78,2023-07-14T19:40:53.743Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-07-14T19:38:13.090Z,44.6141666666667,-112.582166666667,8.08,1.14,ml,13,56,0.04426,0.07,mb,mb90021458,2023-07-14T20:56:20.080Z,"2 km SSE of Lima, Montana",earthquake,0.26,0.44,0.126450971941483,14,reviewed,mb,mb
 2023-07-14T19:31:34.120Z,32.5805,-116.9966667,1.76,1.31,ml,20,149,0.06233,0.25,ci,ci39613130,2023-07-14T19:35:06.109Z,"5km NE of San Ysidro, CA",quarry blast,0.7,0.8,0.081,6,automatic,ci,ci
 2023-07-14T19:26:59.780Z,38.2706667,-122.2478333,-0.16,1.42,md,14,67,0.02702,0.11,nc,nc73912986,2023-07-14T20:18:12.515Z,"4 km SE of Napa, CA",quarry blast,0.36,31.61,0.467,16,reviewed,nc,nc
 2023-07-14T19:25:11.026Z,64.9745,-147.2108,0,1.3,ml,,,,1.57,ak,ak0238yt9aji,2023-07-14T19:28:15.650Z,"14 km NW of Two Rivers, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -19,6 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-14T18:53:49.606Z,61.2505,-149.2741,31.4,1,ml,,,,0.5,ak,ak0238ystxyo,2023-07-14T18:55:23.055Z,"17 km ESE of Eagle River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-14T18:39:42.910Z,36.0938333,-117.9015,4.73,2.82,ml,39,81,0.04459,0.16,ci,ci39613050,2023-07-14T19:48:01.055Z,"7km NE of Coso Junction, CA",earthquake,0.2,0.57,0.133,38,reviewed,ci,ci
 2023-07-14T18:37:30.770Z,33.6691667,-116.7225,13.04,0.48,ml,15,103,0.04062,0.07,ci,ci39613034,2023-07-14T18:56:24.185Z,"8km S of Idyllwild, CA",earthquake,0.27,0.42,0.18,11,reviewed,ci,ci
+2023-07-14T18:36:07.020Z,39.4005,-123.2695,6.08,1.34,md,15,77,0.08629,0.05,nc,nc73912966,2023-07-14T20:56:16.370Z,"8 km E of Willits, CA",earthquake,0.2,0.8,0.171,15,reviewed,nc,nc
 2023-07-14T18:18:43.026Z,60.3658,-152.2382,77.1,2.5,ml,,,,0.2,ak,ak0238ysmfe6,2023-07-14T19:05:14.040Z,"47 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-14T18:18:40.120Z,35.9738333,-117.4998333,2.93,2,ml,35,31,0.1942,0.16,ci,ci39613010,2023-07-14T19:24:18.100Z,"24km NNW of Searles Valley, CA",earthquake,0.2,0.76,0.126,20,reviewed,ci,ci
 2023-07-14T18:06:01.000Z,32.9198333,-116.2488333,6.24,0.92,ml,27,93,0.0575,0.22,ci,ci39612994,2023-07-14T18:09:38.412Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.38,0.97,0.074,10,automatic,ci,ci
@@ -113,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-14T06:20:59.210Z,37.611,-122.4655,8.1,1.17,md,29,108,0.02717,0.05,nc,nc73912791,2023-07-14T13:40:13.954Z,"2 km E of Pacifica, CA",earthquake,0.22,0.3,0.239,21,reviewed,nc,nc
 2023-07-14T06:10:13.505Z,33.2476,140.3712,24.681,4.4,mb,43,141,0.486,0.82,us,us7000kfmv,2023-07-14T08:39:18.040Z,"198 km SSE of Tateyama, Japan",earthquake,3.97,5.393,0.098,30,reviewed,us,us
 2023-07-14T06:05:16.930Z,38.8433342,-122.8351669,1.43,0.98,md,5,203,0.004745,0.01,nc,nc73912786,2023-07-14T06:58:15.662Z,"10 km WNW of Cobb, CA",earthquake,1.14,0.7,0.24,4,automatic,nc,nc
-2023-07-14T05:56:05.890Z,20.0571670532227,-155.853332519531,15.289999961853,2.7,ml,46,154,,0.189999998,hv,hv73481007,2023-07-14T18:22:19.331Z,"9 km N of Puako, Hawaii",earthquake,0.76,3.04999995,4.14,11,automatic,hv,hv
+2023-07-14T05:56:05.690Z,20.0853333333333,-155.830666666667,20.83,3.05,ml,49,143,,0.12,hv,hv73481007,2023-07-14T20:54:58.280Z,"12 km N of Puako, Hawaii",earthquake,0.57,0.86,0.137126719922177,19,reviewed,hv,hv
 2023-07-14T05:40:10.310Z,38.7715,-122.7265,0.67,0.34,md,9,110,0.009975,0.03,nc,nc73912781,2023-07-14T10:27:15.851Z,"3 km ESE of The Geysers, CA",earthquake,0.33,0.61,0.305,6,reviewed,nc,nc
 2023-07-14T05:38:24.247Z,43.3513,-127.3559,10,2.5,ml,35,300,2.437,0.59,us,us7000kfmk,2023-07-14T08:32:02.040Z,"off the coast of Oregon",earthquake,13.13,2.027,0.047,60,reviewed,us,us
 2023-07-14T05:32:09.480Z,38.7840004,-122.7256699,1.17,0.91,md,9,104,0.008674,0.03,nc,nc73912776,2023-07-14T06:23:20.447Z,"3 km ENE of The Geysers, CA",earthquake,0.29,0.61,0.19,10,automatic,nc,nc
