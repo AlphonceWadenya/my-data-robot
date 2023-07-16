@@ -4,6 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T18:23:03.804Z,64.8543,-149.0853,12,0.1,ml,,,,0.37,ak,ak023923q3xo,2023-07-16T18:24:13.720Z,"28 km N of Four Mile Road, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-07-16T18:18:38.141Z,-22.9155,-66.6127,213.583,4.4,mb,75,48,1.444,0.89,us,us7000kg6p,2023-07-16T18:35:17.040Z,"96 km WSW of Abra Pampa, Argentina",earthquake,5.32,6.939,0.064,70,reviewed,us,us
 2023-07-16T18:10:20.179Z,36.02849579,-97.91995239,4.682231903,1.7,ml,24,51.36273193,0.0924045518,0.7902241669,ok,ok2023nvmo,2023-07-16T18:13:59.890Z,"5 km N of Dover, Oklahoma",earthquake,2.638113008,2.413092928,0.28,13,automatic,ok,ok
+2023-07-16T18:09:44.890Z,46.2245,-119.60133333333333,7,0.29,ml,9,208,0.06055,0.06,uw,uw61932117,2023-07-16T18:50:09.700Z,"9 km WSW of Benton City, Washington",earthquake,0.52,0.25,0.07951562116839256,5,reviewed,uw,uw
 2023-07-16T18:03:13.190Z,66.3115,-154.718,0,1.8,ml,,,,1,ak,ak023923luc3,2023-07-16T18:06:50.346Z,"35 km NW of Hughes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-16T17:59:52.820Z,35.6238333,-117.5765,2.18,0.98,ml,14,95,0.1003,0.15,ci,ci39614282,2023-07-16T18:03:21.147Z,"9km E of Ridgecrest, CA",earthquake,0.33,0.66,0.15,5,automatic,ci,ci
 2023-07-16T17:17:47.779Z,63.5567,-150.6128,1.6,1.1,ml,,,,0.61,ak,ak0239233hfd,2023-07-16T17:20:06.185Z,"55 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
