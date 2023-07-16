@@ -86,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T10:37:12.520Z,31.5388333,-115.6795,5.82,4.18,ml,18,67,0.172,0.25,ci,ci39614090,2023-07-16T15:54:35.858Z,"86km ESE of Maneadero, B.C., MX",earthquake,0.37,2.15,0.125,62,reviewed,ci,ci
 2023-07-16T10:26:31.410Z,33.2235,-116.0645,9.64,0.91,ml,27,58,0.08677,0.25,ci,ci39614074,2023-07-16T10:30:03.604Z,"11km NE of Ocotillo Wells, CA",earthquake,0.39,1.08,0.113,14,automatic,ci,ci
 2023-07-16T10:24:27.940Z,31.5345,-115.6675,0.53,1.97,ml,5,119,0.174,0.15,ci,ci39614066,2023-07-16T10:28:13.700Z,"88km ESE of Maneadero, B.C., MX",earthquake,0.39,31.61,0.051,6,automatic,ci,ci
-2023-07-16T10:16:03.504Z,54.6475,-159.6762,35,3.8,mb,40,169,0.841,0.59,us,us7000kg40,2023-07-16T10:29:13.040Z,"south of Alaska",earthquake,6.59,1.996,0.191,7,reviewed,us,us
+2023-07-16T10:16:03.504Z,54.6475,-159.6762,35,3.8,mb,40,169,0.841,0.59,us,us7000kg40,2023-07-16T17:57:40.266Z,"south of Alaska",earthquake,6.59,1.996,0.191,7,reviewed,us,us
 2023-07-16T10:02:44.850Z,36.8391685,-121.4103317,8.42,1.86,md,34,77,,0.1,nc,nc73913596,2023-07-16T12:24:18.882Z,"1 km SW of Hollister, CA",earthquake,0.26,0.57,0.24,25,automatic,nc,nc
 2023-07-16T09:47:33.533Z,38.5348,-118.1605,6.3,1.3,ml,7,73.8,0.392,0.2037,nn,nn00862790,2023-07-16T17:00:22.252Z,"16 km NNW of Mina, Nevada",earthquake,,1.8,0.06,2,reviewed,nn,nn
 2023-07-16T09:34:22.049Z,38.1415,-118.2346,12.5,1.2,ml,5,132.51,0.205,0.102,nn,nn00862744,2023-07-16T16:57:13.710Z,"29 km SSW of Mina, Nevada",earthquake,,2.8,0.17,3,reviewed,nn,nn
