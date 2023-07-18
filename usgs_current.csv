@@ -172,5 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T08:05:29.100Z,33.263,-116.2916667,11.24,0.79,ml,40,36,0.0769,0.19,ci,ci39614578,2023-07-17T19:13:50.463Z,"8km E of Borrego Springs, CA",earthquake,0.21,0.38,0.141,14,reviewed,ci,ci
 2023-07-17T08:02:24.880Z,33.6566667,-116.733,14.41,0.23,ml,20,85,0.05086,0.12,ci,ci39614570,2023-07-17T15:05:51.192Z,"9km S of Idyllwild, CA",earthquake,0.27,0.46,0.115,4,reviewed,ci,ci
 2023-07-17T07:59:31.926Z,38.5365,-118.1477,6.9,1,ml,6,138.98,0.4,0.1455,nn,nn00862882,2023-07-17T20:38:46.772Z,"16 km NNW of Mina, Nevada",earthquake,,1.8,0.33,4,reviewed,nn,nn
-2023-07-17T07:54:32.010Z,60.376,-152.1009,88.9,0.8,ml,,,,0.24,ak,ak02393kwdqj,2023-07-17T07:55:40.612Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-17T07:52:31.940Z,17.9285,-66.834,12.11,2.56,md,8,220,0.06324,0.07,pr,pr71418288,2023-07-17T08:11:45.850Z,"7 km SSW of Indios, Puerto Rico",earthquake,0.92,0.44,0.112087484012612,6,reviewed,pr,pr
