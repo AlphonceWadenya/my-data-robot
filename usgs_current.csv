@@ -173,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T07:01:45.650Z,17.9616666666667,-66.8335,11.93,2.34,md,10,204,0.04554,0.22,pr,pr71418278,2023-07-17T07:13:16.780Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.66,0.66,0.129324385859838,5,reviewed,pr,pr
 2023-07-17T06:56:39.115Z,38.4535,-119.3965,3.1,1.1,ml,8,125.03,0.061,0.1081,nn,nn00862880,2023-07-17T20:35:32.698Z,"9 km SE of Walker, California",earthquake,,2.7,0.12,3,reviewed,nn,nn
 2023-07-17T06:56:22.120Z,19.2631664276123,-155.369506835938,30.5900001525879,2.18,ml,47,155,,0.129999995,hv,hv73484747,2023-07-17T07:01:54.220Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.46,0.639999986,2.32,16,automatic,hv,hv
-2023-07-17T06:54:34.592Z,38.5333,-118.1516,7.7,0.9,ml,6,138.23,0.395,0.0694,nn,nn00862879,2023-07-17T20:32:23.461Z,"16 km NNW of Mina, Nevada",earthquake,,1.5,0.47,5,reviewed,nn,nn
