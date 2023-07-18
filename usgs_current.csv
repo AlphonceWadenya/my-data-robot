@@ -173,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T07:52:31.940Z,17.9285,-66.834,12.11,2.56,md,8,220,0.06324,0.07,pr,pr71418288,2023-07-17T08:11:45.850Z,"7 km SSW of Indios, Puerto Rico",earthquake,0.92,0.44,0.112087484012612,6,reviewed,pr,pr
 2023-07-17T07:49:59.230Z,33.8705,-117.7331667,10.82,0.64,ml,25,104,0.05756,0.15,ci,ci39614562,2023-07-17T15:01:27.191Z,"8km ESE of Yorba Linda, CA",earthquake,0.28,0.38,0.101,5,reviewed,ci,ci
 2023-07-17T07:47:47.150Z,38.8183327,-122.8216629,2.2,1.33,md,18,59,0.01113,0.03,nc,nc73913881,2023-07-17T09:29:15.429Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.39,0.14,15,automatic,nc,nc
-2023-07-17T07:32:59.011Z,61.6746,-148.1292,18.7,0.9,ml,,,,0.56,ak,ak02393krqh9,2023-07-17T14:13:08.755Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
