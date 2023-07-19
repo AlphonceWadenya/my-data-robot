@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-19T13:41:52.960Z,38.788166,-122.7758331,3.65,1.66,md,32,82,0.01069,0.06,nc,nc73914571,2023-07-19T13:44:37.048Z,"2 km NW of The Geysers, CA",earthquake,0.25,0.44,0.17,31,automatic,nc,nc
+2023-07-19T13:44:46.170Z,35.0308333,-116.9631667,1.98,1.59,ml,14,68,0.1576,0.12,ci,ci39616170,2023-07-19T13:48:26.850Z,"16km NNE of Barstow, CA",earthquake,0.24,0.58,0.15,19,automatic,ci,ci
+2023-07-19T13:41:52.960Z,38.788166,-122.7758331,3.65,1.66,md,32,82,0.01069,0.06,nc,nc73914571,2023-07-19T13:45:48.604Z,"2 km NW of The Geysers, CA",earthquake,0.25,0.44,0.17,31,automatic,nc,nc
 2023-07-19T13:31:06.022Z,61.2275,-151.7621,76.8,1.1,ml,,,,0.63,ak,ak02396zepai,2023-07-19T13:33:37.152Z,"37 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-19T13:29:26.840Z,38.7908325,-122.7231674,1.89,0.52,md,7,95,0.01303,0.01,nc,nc73914566,2023-07-19T13:32:06.866Z,"3 km WNW of Anderson Springs, CA",earthquake,0.37,1.7,0.26,7,automatic,nc,nc
 2023-07-19T13:20:55.020Z,38.836834,-122.8036652,2.01,0.54,md,9,104,0.01052,0.01,nc,nc73914561,2023-07-19T13:43:14.059Z,"7 km WNW of Cobb, CA",earthquake,0.37,1.04,0.34,10,automatic,nc,nc
-2023-07-19T13:15:28.720Z,38.8235016,-122.810997,1.7,0.77,md,12,74,0.0007288,0.03,nc,nc73914556,2023-07-19T13:33:13.996Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.66,0.24,11,automatic,nc,nc
+2023-07-19T13:15:28.720Z,38.8235016,-122.810997,1.7,0.77,md,12,74,0.0007288,0.03,nc,nc73914556,2023-07-19T13:50:14.105Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.66,0.24,11,automatic,nc,nc
 2023-07-19T13:13:13.810Z,34.687,-119.0193333,2.51,1.32,ml,9,84,0.08352,0.19,ci,ci39616154,2023-07-19T13:16:49.904Z,"17km SSW of Frazier Park, CA",earthquake,0.74,0.67,0.462,12,automatic,ci,ci
 2023-07-19T13:01:33.060Z,33.7775,-116.9003333,13.07,1.27,ml,41,37,0.09229,0.17,ci,ci39616130,2023-07-19T13:27:27.380Z,"3km N of Valle Vista, CA",earthquake,0.21,0.46,0.265,27,reviewed,ci,ci
 2023-07-19T12:58:06.691Z,63.2163,-152.449,6.7,0.9,ml,,,,0.67,ak,ak02396yz22j,2023-07-19T13:00:48.432Z,"Central Alaska",earthquake,,3.3,,,automatic,ak,ak
@@ -73,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T04:37:48.810Z,33.9743347,-118.1989975,14.37,3.02,ml,130,23,0.04141,0.3,ci,ci39615986,2023-07-19T12:50:33.016Z,"1km WSW of Bell, CA",earthquake,0.22,0.41,0.38,18,reviewed,ci,ci
 2023-07-19T04:37:36.470Z,36.6398333,-121.0955,10.83,1.58,md,28,197,0.07599,0.15,nc,nc73914446,2023-07-19T07:36:13.710Z,"13 km NNE of Pinnacles, CA",earthquake,0.51,0.54,0.19,31,reviewed,nc,nc
 2023-07-19T04:33:02.668Z,60.3415,-152.5304,96.2,1.7,ml,,,,0.17,ak,ak02396u280q,2023-07-19T04:34:27.758Z,"57 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-07-19T04:22:09.636Z,28.96636963,-98.27929687,4.230672201,3.9,ml,14,51,0.1403671936,0.1,tx,tx2023nzxt,2023-07-19T12:37:34.850Z,"19 km E of Pleasanton, Texas",earthquake,1.009091897,2.903891821,0.2,11,reviewed,tx,tx
+2023-07-19T04:22:09.636Z,28.96636963,-98.27929687,4.230672201,3.9,ml,14,51,0.1403671936,0.1,tx,tx2023nzxt,2023-07-19T13:49:40.479Z,"19 km E of Pleasanton, Texas",earthquake,1.009091897,2.903891821,0.2,11,reviewed,tx,tx
 2023-07-19T04:20:57.670Z,33.5126667,-116.4428333,8.29,0.69,ml,25,68,0.01787,0.18,ci,ci39615954,2023-07-19T04:24:35.896Z,"21km SW of La Quinta, CA",earthquake,0.34,0.63,0.091,16,automatic,ci,ci
 2023-07-19T04:08:35.620Z,38.1426,-117.8764,6.8,1.4,ml,9,127.36,0.102,0.1792,nn,nn00862965,2023-07-19T04:11:16.327Z,"34 km SE of Mina, Nevada",earthquake,,0.5,0.27,7,automatic,nn,nn
 2023-07-19T04:06:44.119Z,62.3572,-152.2114,0,1.2,ml,,,,0.74,ak,ak02396twivv,2023-07-19T04:08:57.710Z,"58 km NW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -172,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-18T14:01:21.980Z,46.18783333333333,-122.63183333333333,16.83,0.71,ml,12,125,0.08372,0.11,uw,uw61932862,2023-07-18T22:44:44.350Z,"21 km ENE of Kelso, Washington",earthquake,0.55,0.59,0.13617293748267573,10,reviewed,uw,uw
 2023-07-18T13:56:59.630Z,38.7928352,-122.7363358,0.16,0.77,md,8,96,0.009589,0.01,nc,nc73914286,2023-07-18T16:28:13.509Z,"2 km NE of The Geysers, CA",earthquake,0.28,2.13,0.17,6,automatic,nc,nc
 2023-07-18T13:52:13.779Z,64.6741,-146.874,11.2,0.7,ml,,,,0.32,ak,ak02395bzvfl,2023-07-18T13:54:10.909Z,"8 km E of Eielson Air Force Base, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-18T13:50:07.822Z,58.1999,-155.4328,0,2.1,ml,,,,1.21,ak,ak02395bzfji,2023-07-18T14:18:38.040Z,"90 km SE of King Salmon, Alaska",earthquake,,0.7,,,automatic,ak,ak
