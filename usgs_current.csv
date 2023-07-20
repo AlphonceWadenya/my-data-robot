@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-20T20:44:10.380Z,36.7624,-116.2605,8.8,1.2,ml,34,44.85,0.026,0.1243,nn,nn00863038,2023-07-20T22:44:41.474Z,"California-Nevada border region",earthquake,,0.5,0.19,15,reviewed,nn,nn
 2023-07-20T20:35:21.100Z,58.1706666666667,-155.335333333333,2.32,0.09,ml,9,118,,0.08,av,av91971321,2023-07-20T22:13:01.960Z,"84 km NW of Karluk, Alaska",earthquake,0.23,0.43,0.282021521019006,9,reviewed,av,av
 2023-07-20T20:24:56.220Z,18.4876666666667,-67.5251666666667,16.96,2.99,md,10,301,0.1116,0.14,pr,pr71418638,2023-07-20T21:55:20.880Z,"33 km WNW of Rincón, Puerto Rico",earthquake,1,0.49,0.161007647691823,5,reviewed,pr,pr
-2023-07-20T20:14:39.585Z,62.2737,-154.4846,4.9,2.5,ml,,,,0.47,ak,ak02398r0ifq,2023-07-20T20:26:47.040Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-07-20T20:14:39.585Z,62.2737,-154.4846,4.9,2.5,ml,,,,0.47,ak,ak02398r0ifq,2023-07-20T20:26:47.040Z,"82 km S of Nikolai, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-20T19:55:04.659Z,57.7255,-154.2565,79.2,1.5,ml,,,,0.71,ak,ak02398qnsht,2023-07-20T19:58:21.235Z,"21 km NE of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-20T19:27:37.930Z,33.2878333,-116.1955,7.49,1.32,ml,45,42,0.1068,0.26,ci,ci39617834,2023-07-20T19:38:17.000Z,"17km ENE of Borrego Springs, CA",earthquake,0.31,1.02,0.14,25,automatic,ci,ci
 2023-07-20T19:22:20.030Z,38.8428345,-122.8253326,1.71,0.94,md,14,95,0.008992,0.01,nc,nc73915021,2023-07-20T19:50:20.095Z,"9 km WNW of Cobb, CA",earthquake,0.29,0.6,0.26,17,automatic,nc,nc
@@ -225,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T23:54:28.710Z,33.7093333,-116.7685,14.85,1.07,ml,41,27,0.04533,0.16,ci,ci39617106,2023-07-20T01:36:51.585Z,"6km SW of Idyllwild, CA",earthquake,0.23,0.37,0.179,27,reviewed,ci,ci
 2023-07-19T23:49:06.990Z,35.79,-121.3848333,5.39,1.86,md,35,188,0.131,0.08,nc,nc73914721,2023-07-20T03:56:14.210Z,"24 km NW of San Simeon, CA",earthquake,0.35,0.58,0.102,39,reviewed,nc,nc
 2023-07-19T23:46:05.296Z,62.9299,-149.6823,82.5,1,ml,,,,0.23,ak,ak023975g90x,2023-07-19T23:48:42.096Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-07-19T23:39:53.950Z,38.8206673,-122.8093338,2.95,1.04,md,23,49,0.002784,0.02,nc,nc73914716,2023-07-19T23:42:38.589Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.46,0.19,21,automatic,nc,nc
-2023-07-19T23:39:29.160Z,38.8203316,-122.8096695,2.95,1,md,19,44,0.003075,0.01,nc,nc73914711,2023-07-19T23:41:03.369Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.62,0.24,20,automatic,nc,nc
