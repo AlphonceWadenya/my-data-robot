@@ -23,6 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-20T12:29:10.880Z,38.8354988,-122.8059998,1.8,0.7,md,15,64,0.0125,0.02,nc,nc73914946,2023-07-20T14:40:12.215Z,"7 km WNW of Cobb, CA",earthquake,0.26,0.67,0.11,14,automatic,nc,nc
 2023-07-20T12:24:47.930Z,19.1971664428711,-155.50016784668,33.9900016784668,1.91,ml,46,135,,0.119999997,hv,hv73489717,2023-07-20T12:30:19.330Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.5,0.730000019,3.97,5,automatic,hv,hv
 2023-07-20T12:17:01.690Z,33.4403333,-116.5905,13.24,0.5,ml,19,81,0.0551,0.16,ci,ci39617330,2023-07-20T12:20:37.259Z,"15km SSE of Anza, CA",earthquake,0.31,0.82,0.117,9,automatic,ci,ci
+2023-07-20T12:10:36.540Z,37.7425,-112.58,7.99,1.31,ml,9,244,0.4287,0.22,uu,uu60545797,2023-07-20T14:42:24.530Z,"Utah",earthquake,4.79,1.69,0.134,5,reviewed,uu,uu
 2023-07-20T11:54:21.050Z,44.7848333,-111.057,9.72,0.29,ml,9,141,0.03702,0.12,uu,uu60545792,2023-07-20T14:02:52.190Z,"Yellowstone National Park, Montana",earthquake,0.65,1.71,0.204,2,reviewed,uu,uu
 2023-07-20T11:45:13.224Z,57.5403,-156.1962,93.8,1.4,ml,,,,0.22,ak,ak02398lu75m,2023-07-20T11:47:56.135Z,"72 km E of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-20T11:43:50.501Z,58.1718,-155.3977,0,0.2,ml,,,,0.25,ak,ak02398ltulm,2023-07-20T11:56:01.254Z,"87 km NW of Karluk, Alaska",earthquake,,201.1,,,automatic,ak,ak
@@ -223,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T15:08:04.530Z,33.2436667,-116.3241667,8.05,0.82,ml,33,56,0.07775,0.16,ci,ci39616258,2023-07-19T18:29:39.811Z,"5km ESE of Borrego Springs, CA",earthquake,0.21,0.46,0.108,14,reviewed,ci,ci
 2023-07-19T15:07:19.340Z,38.8441667,-122.8765,2.28,1.24,md,37,54,0.007429,0.04,nc,nc73914586,2023-07-20T00:46:12.951Z,"13 km NW of The Geysers, CA",earthquake,0.18,0.26,0.126,33,reviewed,nc,nc
 2023-07-19T14:58:37.659Z,58.2479,-155.1184,35,0.7,ml,,,,0.27,ak,ak0239705zo5,2023-07-19T15:00:12.039Z,"85 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-19T14:44:33.620Z,38.7818333,-122.7628333,0.84,1.08,md,38,59,0.01133,0.05,nc,nc73914581,2023-07-19T23:01:12.336Z,"1 km NW of The Geysers, CA",earthquake,0.16,0.26,0.192,34,reviewed,nc,nc
