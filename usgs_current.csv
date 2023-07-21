@@ -11,7 +11,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-21T20:53:25.910Z,33.6701667,-116.776,14.51,0.8,ml,21,64,0.0658,0.16,ci,ci39618842,2023-07-21T20:56:59.082Z,"9km SW of Idyllwild, CA",earthquake,0.35,0.42,0.175,20,automatic,ci,ci
 2023-07-21T20:53:10.480Z,33.787,-116.9025,0.24,0.45,ml,12,103,0.1012,0.34,ci,ci39618834,2023-07-21T20:56:56.346Z,"4km N of Valle Vista, CA",earthquake,1.04,31.61,0.078,4,automatic,ci,ci
 2023-07-21T20:50:18.238Z,61.5436,-146.5679,25,1.1,ml,,,,0.92,ak,ak0239aerj1y,2023-07-21T20:52:39.137Z,"47 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-21T20:40:50.870Z,33.9103333,-117.3466667,11.51,0.97,ml,15,132,0.08635,0.31,ci,ci39618818,2023-07-21T20:44:32.675Z,"3km NNE of Woodcrest, CA",earthquake,0.96,1.83,0.087,17,automatic,ci,ci
 2023-07-21T20:16:12.325Z,61.6564,-149.9609,33.7,1.5,ml,,,,0.57,ak,ak0239aek899,2023-07-21T20:18:39.999Z,"8 km WNW of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-21T20:10:21.218Z,57.2004,-155.0233,36.1,1.8,ml,,,,0.46,ak,ak0239aeiynd,2023-07-21T20:12:27.524Z,"53 km SW of Karluk, Alaska",earthquake,,4.1,,,automatic,ak,ak
 2023-07-21T20:10:05.750Z,33.497,-116.7631667,7.64,1.01,ml,36,38,0.0383,0.18,ci,ci39618794,2023-07-21T20:14:02.084Z,"10km SW of Anza, CA",earthquake,0.19,0.55,0.119,26,automatic,ci,ci
@@ -47,6 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-21T17:08:43.300Z,37.463665,-118.7314987,5.35,1.52,md,15,139,0.1481,0.05,nc,nc73915266,2023-07-21T19:11:14.593Z,"12 km SSW of Toms Place, CA",earthquake,0.69,2.58,0.09,13,automatic,nc,nc
 2023-07-21T17:07:36.600Z,38.8325005,-122.8101654,2.03,1.09,md,20,47,0.009093,0.01,nc,nc73915261,2023-07-21T18:43:12.429Z,"8 km W of Cobb, CA",earthquake,0.21,0.4,0.15,24,automatic,nc,nc
 2023-07-21T16:58:38.143Z,39.1665,-119.6308,1.5,1.5,ml,11,45.09,0.081,0.2082,nn,nn00863057,2023-07-21T17:00:59.404Z,"8 km SSW of Dayton, Nevada",earthquake,,5.8,0.29,9,automatic,nn,nn
+2023-07-21T16:57:12.260Z,44.6085,-112.588,7.71,0.81,ml,10,96,0.04093,0.09,mb,mb90022143,2023-07-21T21:47:38.130Z,"3 km S of Lima, Montana",earthquake,0.41,0.58,0.175569361057345,12,reviewed,mb,mb
 2023-07-21T16:48:48.490Z,33.6543333,-116.7173333,14.73,0.34,ml,17,81,0.03911,0.08,ci,ci39618570,2023-07-21T17:43:29.095Z,"10km S of Idyllwild, CA",earthquake,0.24,0.4,0.123,12,reviewed,ci,ci
 2023-07-21T16:47:45.770Z,36.6328316,-121.2051697,9.11,2.21,md,41,82,,0.11,nc,nc73915251,2023-07-21T17:50:12.143Z,"12 km NNW of Pinnacles, CA",earthquake,0.24,0.51,0.14,22,automatic,nc,nc
 2023-07-21T16:41:45.683Z,2.4063,126.8905,56.921,4.4,mb,25,125,1.692,0.63,us,us7000khg2,2023-07-21T17:02:04.040Z,"145 km WNW of Tobelo, Indonesia",earthquake,6.04,9.95,0.124,19,reviewed,us,us
