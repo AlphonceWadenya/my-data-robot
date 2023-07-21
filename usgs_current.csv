@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-21T14:35:42.530Z,36.2493324,-120.8164978,7,2.05,md,30,76,0.03556,0.11,nc,nc73915196,2023-07-21T14:40:42.358Z,"23 km NE of San Lucas, CA",earthquake,0.3,0.47,0.18,22,automatic,nc,nc
+2023-07-21T14:35:42.530Z,36.2493324,-120.8164978,7,2.05,md,30,76,0.03556,0.11,nc,nc73915196,2023-07-21T14:44:14.954Z,"23 km NE of San Lucas, CA",earthquake,0.3,0.47,0.18,22,automatic,nc,nc
 2023-07-21T14:05:04.878Z,61.1204,-147.4489,17.5,1.7,ml,,,,0.59,ak,ak0239aax96f,2023-07-21T14:07:21.471Z,"50 km NW of Tatitlek, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-07-21T14:04:11.922Z,61.5156,-151.2404,0,1.5,ml,,,,0.86,ak,ak0239aawwto,2023-07-21T14:06:31.762Z,"38 km W of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-21T14:01:56.700Z,33.093,-116.6071667,14.67,0.53,ml,17,95,0.01445,0.26,ci,ci39618450,2023-07-21T14:05:25.337Z,"2km NNW of Julian, CA",earthquake,0.67,0.81,0.225,6,automatic,ci,ci
@@ -120,6 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-20T21:41:09.143Z,46.9723,152.9214,35,4.2,mb,36,161,6.868,0.49,us,us7000kh8f,2023-07-20T22:11:26.040Z,"Kuril Islands",earthquake,4.45,1.977,0.093,32,reviewed,us,us
 2023-07-20T21:30:17.720Z,43.309333333333335,-123.345,-0.39,1.04,md,8,108,0.02076,0.23,uw,uw61942466,2023-07-21T00:26:03.010Z,"6 km NW of Roseburg North, Oregon",explosion,0.56,31.61,0.19211074662509975,6,reviewed,uw,uw
 2023-07-20T21:25:50.659Z,36.0851,-115.1316,12,0.4,ml,7,150.3,0.028,0.0956,nn,nn00863040,2023-07-20T23:43:37.136Z,"1 km SE of Paradise, Nevada",earthquake,,1.2,0.55,2,reviewed,nn,nn
+2023-07-20T21:24:13.540Z,33.4685,-116.5555,10.91,0.67,ml,22,86,0.04697,0.14,ci,ci39617970,2023-07-21T14:46:34.653Z,"15km SE of Anza, CA",earthquake,0.24,0.46,0.106,13,reviewed,ci,ci
 2023-07-20T21:16:30.230Z,19.4440002441406,-155.602493286133,34.9199981689453,1.75,ml,19,68,,0.270000011,hv,hv73490267,2023-07-20T21:22:00.840Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,1.02,1.58000004,0.12,4,automatic,hv,hv
 2023-07-20T21:16:28.361Z,61.3067,-152.4499,0,1.8,ml,,,,0.75,ak,ak02398rmclw,2023-07-20T21:18:24.281Z,"75 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-20T21:15:13.556Z,39.232,-119.6012,2.2,1.4,ml,7,79.38,0.074,0.1448,nn,nn00863039,2023-07-21T00:36:16.679Z,"0 km SW of Dayton, Nevada",earthquake,,7.2,0.28,2,reviewed,nn,nn
