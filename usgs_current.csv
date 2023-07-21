@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-21T02:56:19.000Z,38.8235016,-122.8088303,2.86,0.77,md,10,75,0.0009773,0.03,nc,nc73915091,2023-07-21T02:57:53.893Z,"7 km NW of The Geysers, CA",earthquake,0.44,1.13,0.12,10,automatic,nc,nc
 2023-07-21T02:25:50.734Z,-11.456,166.4962,156.887,4.5,mb,48,110,9.289,0.66,us,us7000khba,2023-07-21T02:45:02.040Z,"Santa Cruz Islands",earthquake,11.16,6.743,0.057,92,reviewed,us,us
 2023-07-21T02:03:28.761Z,56.9433,-154.1883,0,2.7,ml,,,,0.64,ak,ak0239a3robw,2023-07-21T02:14:54.040Z,"Kodiak Island region, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-21T01:34:13.650Z,19.1578330993652,-155.50666809082,33.2299995422363,2.23,ml,38,118,,0.119999997,hv,hv73490517,2023-07-21T01:39:44.710Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.51,0.779999971,3.57,7,automatic,hv,hv
