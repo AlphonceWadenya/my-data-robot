@@ -210,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T07:03:53.012Z,61.4914,-146.4792,20.9,1.8,ml,,,,0.61,ak,ak0239bua8px,2023-07-22T07:06:09.436Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-22T06:56:19.174Z,39.3473,-119.9822,7,0.7,ml,7,144.94,0.069,0.0779,nn,nn00863106,2023-07-22T14:03:03.178Z,"6 km SSE of Floriston, California",earthquake,,2.1,0.26,3,reviewed,nn,nn
 2023-07-22T06:56:06.984Z,39.3515,-119.9845,7.9,0.9,ml,12,113.49,0.071,0.1375,nn,nn00863105,2023-07-22T13:59:55.545Z,"Nevada",earthquake,,1.4,0.32,4,reviewed,nn,nn
-2023-07-22T06:51:13.669Z,39.1713,-119.5944,4.3,0.3,ml,4,215.31,0.083,0.057,nn,nn00863104,2023-07-22T13:56:45.415Z,"Nevada",earthquake,,5.4,0.14,2,reviewed,nn,nn
