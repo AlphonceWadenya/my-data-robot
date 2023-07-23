@@ -185,5 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T18:02:02.001Z,59.4274,-152.7793,83.5,1.4,ml,,,,0.48,ak,ak0239c0toq0,2023-07-22T18:04:25.825Z,"49 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-22T17:48:23.140Z,38.7949982,-122.7661667,2.36,1.05,md,11,77,0.01709,0.02,nc,nc73915566,2023-07-22T20:20:21.838Z,"2 km NNW of The Geysers, CA",earthquake,0.27,0.75,0.18,12,automatic,nc,nc
 2023-07-22T17:43:54.450Z,36.7771667,-121.327,7.73,2.48,md,64,82,,0.1,nc,nc73915561,2023-07-23T00:24:17.458Z,"2 km SSW of Tres Pinos, CA",earthquake,0.14,0.38,0.169,100,reviewed,nc,nc
-2023-07-22T17:30:43.275Z,37.4039,-114.3339,5.6,2,ml,12,89.6,0.383,0.1512,nn,nn00863133,2023-07-22T18:11:40.956Z,"28 km SE of Caliente, Nevada",earthquake,,1.9,0.42,6,reviewed,nn,nn
-2023-07-22T17:29:48.375Z,39.6216,-119.9672,8.2,0.3,ml,4,147,0.015,0.1884,nn,nn00863139,2023-07-22T18:02:14.517Z,"6 km S of Cold Springs, Nevada",earthquake,,3.9,0.13,4,reviewed,nn,nn
