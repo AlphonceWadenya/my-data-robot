@@ -197,7 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T09:17:45.432Z,64.674,-147.4794,24.4,0.1,ml,,,,0.74,ak,ak0239bvk3db,2023-07-22T09:23:38.917Z,"10 km SW of North Pole, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-22T09:17:10.976Z,38.4427,-119.3795,5.9,1.1,ml,6,337.35,0.077,0.1743,nn,nn00863112,2023-07-22T14:18:43.989Z,"11 km SE of Walker, California",earthquake,,2.6,0.01,2,reviewed,nn,nn
 2023-07-22T09:12:27.530Z,37.5786667,-118.792,0.85,0.72,md,14,290,0.03159,0.03,nc,nc73915466,2023-07-22T20:41:17.148Z,"10 km W of Toms Place, CA",earthquake,2.04,0.87,0.237,15,reviewed,nc,nc
-2023-07-22T09:07:57.440Z,33.2675,-116.4191667,3.82,0.46,ml,15,108,0.00182,0.18,ci,ci39619146,2023-07-22T09:11:26.600Z,"4km WNW of Borrego Springs, CA",earthquake,0.39,0.47,0.096,6,automatic,ci,ci
-2023-07-22T09:07:30.130Z,38.7876667,-122.7438333,1.74,0.36,md,18,84,0.007101,0.02,nc,nc73915461,2023-07-22T19:58:25.604Z,"2 km NE of The Geysers, CA",earthquake,0.19,0.37,0.222,11,reviewed,nc,nc
-2023-07-22T09:03:26.390Z,33.2665,-116.4268333,4.07,0.8,ml,27,50,0.00828,0.19,ci,ci39619138,2023-07-22T09:06:59.109Z,"5km WNW of Borrego Springs, CA",earthquake,0.3,0.53,0.092,19,automatic,ci,ci
-2023-07-22T09:00:58.380Z,17.98,-67.0671666666667,6.06,2.65,md,13,188,0.02424,0.11,pr,pr71418863,2023-07-22T09:29:47.710Z,"2 km WNW of La Parguera, Puerto Rico",earthquake,0.39,0.19,0.0800116406942413,4,reviewed,pr,pr
