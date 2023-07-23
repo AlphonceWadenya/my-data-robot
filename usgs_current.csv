@@ -199,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T10:14:39.510Z,36.1673333333333,-89.4603333333333,11.5,1.69,md,24,45,0.03391,0.07,nm,nm60538231,2023-07-22T22:55:39.855Z,"10 km SSE of Ridgely, Tennessee",earthquake,0.16,0.36,0.127681045994954,20,reviewed,nm,nm
 2023-07-22T10:08:18.787Z,38.4479,-119.3803,5.1,0.9,ml,6,220.25,0.072,0.1666,nn,nn00863114,2023-07-22T14:24:58.908Z,"California-Nevada border region",earthquake,,3.2,0.05,2,reviewed,nn,nn
 2023-07-22T10:02:44.236Z,37.1158,-115.8551,1,0.6,ml,15,266.52,0.103,0.2635,nn,nn00863087,2023-07-22T10:04:31.652Z,"59 km S of Rachel, Nevada",earthquake,,4.3,0.34,9,automatic,nn,nn
-2023-07-22T09:54:14.440Z,33.4818333,-116.5346667,13.46,0.62,ml,21,85,0.05788,0.14,ci,ci39619162,2023-07-22T09:57:47.533Z,"15km ESE of Anza, CA",earthquake,0.31,0.48,0.08,17,automatic,ci,ci
