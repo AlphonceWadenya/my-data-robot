@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-24T09:39:00.291Z,62.2237,-151.1643,75.8,1.2,ml,,,,0.26,ak,ak0239f6reml,2023-07-24T09:40:47.080Z,"28 km NNE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-24T09:08:15.862Z,63.1592,-150.5743,118.3,2.2,ml,,,,0.36,ak,ak0239f6ksmq,2023-07-24T09:10:19.369Z,"71 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-24T08:57:15.630Z,32.3978333,-115.2281667,11.29,2.06,ml,25,51,0.06849,0.32,ci,ci39620242,2023-07-24T09:07:45.870Z,"6km NW of Delta, B.C., MX",earthquake,0.6,1.12,0.23,20,automatic,ci,ci
 2023-07-24T08:54:56.810Z,33.4858333,-116.8871667,12.62,0.29,ml,20,69,0.06809,0.21,ci,ci39620234,2023-07-24T08:58:32.972Z,"5km NNW of Aguanga, CA",earthquake,0.39,0.87,0.103,8,automatic,ci,ci
