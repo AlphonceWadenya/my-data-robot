@@ -185,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-23T09:57:53.010Z,38.7936668,-122.7581635,1.81,1.07,md,12,83,0.01973,0.02,nc,nc73915761,2023-07-23T11:11:17.487Z,"2 km N of The Geysers, CA",earthquake,0.29,0.9,0.16,11,automatic,nc,nc
 2023-07-23T09:47:43.607Z,12.7062,-88.2828,61.391,4.1,mb,29,166,0.759,0.55,us,us7000khs9,2023-07-23T19:58:30.742Z,"offshore El Salvador",earthquake,4.79,3.542,0.093,32,reviewed,us,us
 2023-07-23T09:38:05.480Z,59.7951,-152.1652,70.3,2.7,ml,,,,0.13,ak,ak0239dj7utg,2023-07-23T14:29:32.166Z,"18 km W of Anchor Point, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2023-07-23T09:30:56.143Z,58.2839,-154.9709,12.4,0.5,ml,,,,0.81,ak,ak0239dj68zy,2023-07-23T09:33:48.877Z,"85 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
