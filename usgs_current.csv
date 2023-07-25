@@ -185,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T08:54:56.850Z,33.4826667,-116.8878333,11.79,0.27,ml,30,57,0.0695,0.18,ci,ci39620234,2023-07-24T20:40:54.157Z,"5km NNW of Aguanga, CA",earthquake,0.22,0.58,0.102,8,reviewed,ci,ci
 2023-07-24T08:48:42.910Z,37.3458333,-121.7033333,8.35,0.93,md,30,40,0.04861,0.08,nc,nc73916096,2023-07-24T17:50:02.692Z,"11 km ESE of Alum Rock, CA",earthquake,0.18,0.37,0.151,25,reviewed,nc,nc
 2023-07-24T08:35:35.640Z,39.9331,-119.1395,16.1,0.8,ml,4,282.63,0.292,0.0597,nn,nn00863220,2023-07-25T05:23:34.903Z,"Nevada",earthquake,,5.9,0.17,4,reviewed,nn,nn
-2023-07-24T08:32:08.260Z,18.134,-67.7973333333333,135.65,3.27,md,11,309,0.3918,0.23,pr,pr71419128,2023-07-24T08:47:11.970Z,"Mona Passage, Puerto Rico",earthquake,2.34,0.97,0.0506774086586188,6,reviewed,pr,pr
