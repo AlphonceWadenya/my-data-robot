@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-25T20:28:27.630Z,19.199333190918,-155.473327636719,32.1599998474121,1.85,ml,24,108,,0.109999999,hv,hv73497217,2023-07-25T20:33:57.740Z,"0 km SE of Pāhala, Hawaii",earthquake,0.83,0.959999979,0.17,3,automatic,hv,hv
 2023-07-25T20:25:53.590Z,38.8043327,-122.8178329,2.84,1.04,md,14,69,0.009954,0.01,nc,nc73916696,2023-07-25T20:27:30.078Z,"6 km WNW of The Geysers, CA",earthquake,0.34,0.73,0.21,14,automatic,nc,nc
 2023-07-25T20:16:53.490Z,35.6708333,-117.4885,4.55,0.73,ml,12,127,0.05306,0.14,ci,ci39621914,2023-07-25T20:20:29.162Z,"13km SW of Searles Valley, CA",earthquake,0.43,0.76,0.156,4,automatic,ci,ci
 2023-07-25T20:12:44.620Z,38.8388329,-122.7693329,1.75,0.25,md,10,162,0.006679,0.02,nc,nc73916681,2023-07-25T20:31:12.392Z,"4 km WNW of Cobb, CA",earthquake,0.46,0.56,0.17,10,automatic,nc,nc
@@ -211,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T21:15:32.980Z,33.1691667,-115.936,7.61,1.26,ml,33,72,0.03528,0.18,ci,ci39621066,2023-07-25T18:30:33.372Z,"14km S of Salton City, CA",earthquake,0.28,0.42,0.128,24,reviewed,ci,ci
 2023-07-24T20:51:38.869Z,36.2259,-115.3702,7.4,1.1,ml,4,78.35,0.063,0.1441,nn,nn00863203,2023-07-24T22:08:11.654Z,"12 km NNW of Summerlin South, Nevada",earthquake,,7.7,0.18,2,reviewed,nn,nn
 2023-07-24T20:40:00.892Z,57.202,-157.7562,169,2.1,ml,,,,0.98,ak,ak0239fdbe1l,2023-07-24T20:43:16.950Z,"40 km SSW of Ugashik, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-07-24T20:38:39.070Z,33.8936667,-116.6915,13.42,2.53,ml,104,17,0.07957,0.17,ci,ci39621018,2023-07-25T19:13:38.781Z,"9km ESE of Cabazon, CA",earthquake,0.11,0.27,0.155,102,reviewed,ci,ci
-2023-07-24T20:37:47.624Z,58.195,-155.2555,1.1,0.1,ml,,,,0.14,ak,ak0239fdaui2,2023-07-24T20:40:00.741Z,"Alaska Peninsula",earthquake,,2.2,,,automatic,ak,ak
