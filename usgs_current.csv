@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-26T14:19:56.980Z,38.795166,-122.8010025,14.87,0.67,md,7,175,0.007018,0.06,nc,nc73916976,2023-07-26T14:21:33.776Z,"4 km WNW of The Geysers, CA",earthquake,4.87,2.97,0.17,6,automatic,nc,nc
+2023-07-26T14:19:56.980Z,38.795166,-122.8010025,14.87,0.67,md,7,175,0.007018,0.06,nc,nc73916976,2023-07-26T14:36:13.950Z,"4 km WNW of The Geysers, CA",earthquake,4.87,2.97,0.17,6,automatic,nc,nc
 2023-07-26T14:19:28.230Z,33.7041667,-116.8105,17.57,0.57,ml,16,79,0.08025,0.2,ci,ci39622578,2023-07-26T14:22:57.891Z,"9km ESE of Valle Vista, CA",earthquake,0.58,0.86,0.062,11,automatic,ci,ci
 2023-07-26T14:15:43.523Z,58.1961,-155.2543,1.3,0.5,ml,,,,0.33,ak,ak0239iko7sg,2023-07-26T14:16:42.729Z,"84 km NW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-07-26T14:09:19.360Z,45.5066666666667,-111.433333333333,3.8,1.82,ml,28,65,0.1649,0.21,mb,mb90022523,2023-07-26T14:31:22.710Z,"20 km WSW of Gallatin Gateway, Montana",earthquake,0.37,14.51,0.199769226410705,15,reviewed,mb,mb
@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-26T11:45:41.046Z,63.4853,-147.7456,3.9,1.6,ml,,,,0.55,ak,ak0239ij2c9k,2023-07-26T11:47:28.757Z,"61 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-26T11:37:21.729Z,37.1312,-115.289,3.3,1.4,ml,25,135.94,0.334,0.2822,nn,nn00863294,2023-07-26T11:39:32.047Z,"28 km SSW of Alamo, Nevada",earthquake,,2.1,0.73,19,automatic,nn,nn
 2023-07-26T11:34:08.886Z,58.1796,-155.4165,0,0.2,ml,,,,0.56,ak,ak0239iizwwo,2023-07-26T11:35:39.863Z,"88 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-07-26T11:24:43.440Z,38.8909988,-123.0043335,2.66,1.48,md,12,165,0.06449,0.03,nc,nc73916916,2023-07-26T12:09:13.046Z,"10 km N of Cloverdale, CA",earthquake,0.55,1.86,0.12,14,automatic,nc,nc
+2023-07-26T11:24:43.440Z,38.8909988,-123.0043335,2.66,1.48,md,12,165,0.06449,0.03,nc,nc73916916,2023-07-26T14:36:14.098Z,"10 km N of Cloverdale, CA",earthquake,0.55,1.86,0.12,14,automatic,nc,nc
 2023-07-26T11:13:06.490Z,19.3875007629395,-155.280670166016,1.39999997615814,1.71,ml,18,62,,0.129999995,hv,hv73497832,2023-07-26T11:18:36.830Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.189999998,0.16,6,automatic,hv,hv
 2023-07-26T11:07:30.949Z,60.5101,-151.199,26.7,1.3,ml,,,,0.24,ak,ak0239iiu69y,2023-07-26T11:09:03.444Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-26T11:06:12.050Z,31.5678,-104.5765,5,2.7,ml,31,81,0.119,0.44,us,us6000kvm9,2023-07-26T11:15:42.040Z,"63 km NNE of Van Horn, Texas",earthquake,2.65,1.984,0.076,46,reviewed,us,us
