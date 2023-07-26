@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-26T16:55:03.086Z,57.1491,-157.707,4,1.9,ml,,,,0.64,ak,ak0239im3kis,2023-07-26T16:57:04.570Z,"44 km SSW of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-26T16:46:38.229Z,36.03266667,-97.90583333,4.91,1.91,ml,92,36,0.1025798703,0.23,ok,ok2023onqv,2023-07-26T16:56:21.124Z,"5 km N of Dover, Oklahoma",earthquake,,0.5,0.22,45,reviewed,ok,ok
 2023-07-26T16:39:50.290Z,38.8320007,-122.8174973,1.62,0.43,md,10,56,0.01037,0.01,nc,nc73917021,2023-07-26T16:57:15.797Z,"8 km NW of The Geysers, CA",earthquake,0.36,1.02,0.32,9,automatic,nc,nc
-2023-07-26T16:20:32.328Z,-7.3435,121.9408,10,5.1,mb,67,49,3.177,0.85,us,us6000kvqb,2023-07-26T16:38:27.040Z,"144 km NNW of Maumere, Indonesia",earthquake,6.99,1.865,0.095,36,reviewed,us,us
+2023-07-26T16:20:32.328Z,-7.3435,121.9408,10,5.1,mb,67,49,3.177,0.85,us,us6000kvqb,2023-07-26T16:38:27.040Z,"Flores Sea",earthquake,6.99,1.865,0.095,36,reviewed,us,us
 2023-07-26T16:20:10.750Z,38.8391685,-122.876503,2.25,0.38,md,6,148,0.00621,0.01,nc,nc73917016,2023-07-26T16:46:15.738Z,"12 km WNW of The Geysers, CA",earthquake,0.55,1.54,0.26,8,automatic,nc,nc
 2023-07-26T16:17:57.747Z,61.714,-151.9222,93,0.9,ml,,,,0.27,ak,ak0239ilvjj2,2023-07-26T16:19:33.864Z,"41 km SW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-26T16:01:37.860Z,17.9511666666667,-67.0706666666667,7.66,2,md,5,245,0.03104,0.08,pr,pr71419313,2023-07-26T16:13:29.860Z,"3 km SW of La Parguera, Puerto Rico",earthquake,0.62,0.25,0.158994204686497,3,reviewed,pr,pr
@@ -41,6 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-26T13:34:01.855Z,61.6007,-146.4911,28.7,1.5,ml,,,,1.04,ak,ak0239ik6rkp,2023-07-26T13:35:57.419Z,"45 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-26T13:23:16.750Z,38.8311653,-122.8141632,2.1,1.1,md,22,48,0.008391,0.02,nc,nc73916961,2023-07-26T16:52:15.764Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.48,0.14,22,automatic,nc,nc
 2023-07-26T13:18:44.560Z,43.6466666666667,-110.115833333333,5,2.02,ml,14,147,0.356,0.2,mb,mb90022518,2023-07-26T13:50:31.130Z,"Wyoming",earthquake,0.71,31.61,0.18516658755118,15,reviewed,mb,mb
+2023-07-26T13:16:53.460Z,46.186,-122.20183333333334,5.26,-0.02,ml,7,121,0.02422,0.18,uw,uw61944036,2023-07-26T17:43:10.840Z,"36 km NNE of Amboy, Washington",earthquake,0.71,0.91,0.061730467632704365,4,reviewed,uw,uw
 2023-07-26T13:12:27.210Z,36.5908318,-121.1291656,12.02,1.02,md,7,181,0.04913,0.08,nc,nc73916956,2023-07-26T13:29:18.551Z,"7 km N of Pinnacles, CA",earthquake,1.29,2.03,0.29,5,automatic,nc,nc
 2023-07-26T13:10:23.313Z,58.1488,-155.5881,23.8,0.7,ml,,,,1.19,ak,ak0239ik1o1n,2023-07-26T13:12:16.423Z,"86 km SE of King Salmon, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-26T13:09:17.950Z,33.5728333,-117.2526667,5.55,1.51,ml,53,72,0.05492,0.26,ci,ci39622570,2023-07-26T13:13:04.837Z,"4km SE of Wildomar, CA",earthquake,0.28,1.91,0.176,26,automatic,ci,ci
@@ -140,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-26T02:02:46.839Z,59.3908,-152.5957,80,1.4,ml,,,,0.54,ak,ak0239idg8h7,2023-07-26T02:05:21.968Z,"38 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-26T02:02:42.417Z,14.7756,-94.0275,35,4.7,mb,55,197,2.359,0.85,us,us6000kvkf,2023-07-26T09:20:24.033Z,"off the coast of Chiapas, Mexico",earthquake,10.07,1.958,0.032,295,reviewed,us,us
 2023-07-26T01:50:13.972Z,59.3979,-155.5335,6.8,1.4,ml,,,,0.33,ak,ak0239id50ph,2023-07-26T01:51:51.056Z,"21 km ENE of Igiugig, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-26T01:47:47.120Z,34.2988333,-118.5585,11.68,1.7,ml,36,50,0.05868,0.25,ci,ci39622242,2023-07-26T01:58:44.410Z,"6km WNW of Granada Hills, CA",earthquake,0.34,0.75,0.155,26,automatic,ci,ci
+2023-07-26T01:47:46.910Z,34.3018333,-118.5683333,12.72,1.59,ml,49,53,0.02562,0.22,ci,ci39622242,2023-07-26T17:44:26.890Z,"6km NNE of Chatsworth, CA",earthquake,0.23,0.49,0.149,39,reviewed,ci,ci
 2023-07-26T01:43:55.142Z,58.1448,-156.4397,177.4,1.1,ml,,,,1.15,ak,ak0239id3lf8,2023-07-26T01:47:08.864Z,"55 km E of Egegik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-26T01:34:35.209Z,65.0359,-149.1404,10,0.7,ml,,,,0.93,ak,ak0239id1mw0,2023-07-26T01:37:03.806Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-26T01:13:15.180Z,47.4655,-115.796166666667,0.02,1.66,ml,9,107,0.5277,0.09,mb,mb90022508,2023-07-26T13:30:08.820Z,"Idaho-Montana border region",earthquake,0.41,31.61,0.0995816030470988,8,reviewed,mb,mb
