@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-26T15:35:14.690Z,39.5003319,-122.9463348,4.18,2.79,md,29,57,0.1893,0.12,nc,nc73917006,2023-07-26T15:38:20.458Z,"10 km N of Lake Pillsbury, CA",earthquake,0.24,1.67,0.18,35,automatic,nc,nc
+2023-07-26T15:29:17.931Z,54.5785,-160.9571,25.8,4.5,ml,,,,0.91,ak,ak0239ilclar,2023-07-26T15:40:46.988Z,"89 km SSW of Sand Point, Alaska",earthquake,,1,,,reviewed,ak,ak
 2023-07-26T15:10:49.609Z,58.245,-155.0902,1.2,0.3,ml,,,,0.13,ak,ak0239il8la8,2023-07-26T15:12:19.807Z,"84 km NNW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-07-26T15:04:25.643Z,61.0003,-146.9994,14.8,1.6,ml,,,,0.79,ak,ak0239il7950,2023-07-26T15:06:52.111Z,"23 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-26T15:03:19.631Z,63.059,-150.8345,115.4,1.5,ml,,,,0.61,ak,ak0239il70vt,2023-07-26T15:06:42.244Z,"62 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
