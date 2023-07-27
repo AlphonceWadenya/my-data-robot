@@ -203,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-26T17:08:53.270Z,38.8053322,-122.7773361,2.76,0.74,md,7,202,0.008336,0.01,nc,nc73917026,2023-07-26T17:27:15.985Z,"4 km NNW of The Geysers, CA",earthquake,0.79,1.69,0.07,10,automatic,nc,nc
 2023-07-26T16:55:03.086Z,57.1491,-157.707,4,1.9,ml,,,,0.64,ak,ak0239im3kis,2023-07-26T16:57:04.570Z,"44 km SSW of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-26T16:46:38.229Z,36.03266667,-97.90583333,4.91,1.91,ml,92,36,0.1025798703,0.23,ok,ok2023onqv,2023-07-26T16:56:21.124Z,"5 km N of Dover, Oklahoma",earthquake,,0.5,0.22,45,reviewed,ok,ok
-2023-07-26T16:39:50.290Z,38.8320007,-122.8174973,1.62,0.43,md,10,56,0.01037,0.01,nc,nc73917021,2023-07-26T16:57:15.797Z,"8 km NW of The Geysers, CA",earthquake,0.36,1.02,0.32,9,automatic,nc,nc
-2023-07-26T16:39:21.928Z,31.51355404,-103.8412911,3.303686523,2,ml,23,78,0.04089587409,0.3,tx,tx2023onqp,2023-07-27T16:08:25.875Z,"22 km NNW of Toyah, Texas",earthquake,1.172082122,1.758093558,0.1,6,reviewed,tx,tx
