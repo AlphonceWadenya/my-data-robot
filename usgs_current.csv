@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-27T04:40:13.226Z,60.811,-151.0261,37.1,0.9,ml,,,,0.39,ak,ak0239k2eisq,2023-07-27T04:42:00.351Z,"19 km NE of Nikiski, Alaska",earthquake,,6.7,,,automatic,ak,ak
+2023-07-27T04:39:12.610Z,34.0406685,-117.1963348,10.61,1.39,ml,55,65,0.09509,0.19,ci,ci39623314,2023-07-27T04:41:19.579Z,"2 km SW of Redlands, CA",earthquake,0.27,0.62,0.275,15,automatic,ci,ci
 2023-07-27T04:33:49.075Z,60.8391,-151.2112,30.9,1.6,ml,,,,0.81,ak,ak0239k2d3jv,2023-07-27T04:36:42.830Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-27T04:28:29.180Z,19.2654991149902,-156.304168701172,5.96999979019165,2.93,ml,44,267,,0.209999993,hv,hv73498812,2023-07-27T04:34:03.940Z,"Hawaii region, Hawaii",earthquake,2.95,3.67000008,2.88,10,automatic,hv,hv
+2023-07-27T04:28:29.180Z,19.2654991149902,-156.304168701172,5.96999979019165,2.93,ml,44,267,,0.209999993,hv,hv73498812,2023-07-27T04:39:27.096Z,"Hawaii region, Hawaii",earthquake,2.95,3.67000008,2.88,10,automatic,hv,hv
 2023-07-27T04:27:55.870Z,34.0336667,-117.2035,10.01,0.9,ml,21,82,0.1136,0.24,ci,ci39623306,2023-07-27T04:31:36.686Z,"3km SW of Redlands, CA",earthquake,0.42,1.03,0.267,20,automatic,ci,ci
 2023-07-27T04:25:55.053Z,63.2924,-147.5451,72.9,0.9,ml,,,,0.31,ak,ak0239k2bea9,2023-07-27T04:28:37.947Z,"71 km E of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-07-27T03:56:36.129Z,-22.3313,-179.5276,575.562,4.4,mb,38,63,4.182,0.95,us,us6000kvu7,2023-07-27T04:18:34.040Z,"south of the Fiji Islands",earthquake,15.45,8.036,0.089,36,reviewed,us,us
@@ -9,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T03:34:58.305Z,63.5776,-147.8275,7.5,2.6,ml,,,,0.88,ak,ak0239k1rwbb,2023-07-27T03:52:57.040Z,"56 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-27T03:25:11.235Z,59.1318,-152.779,60,1.5,ml,,,,0.39,ak,ak0239k1pvar,2023-07-27T03:27:12.583Z,"54 km WSW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-27T03:12:59.080Z,65.3985,-144.797,0,1.1,ml,,,,0.64,ak,ak0239k1n6m2,2023-07-27T03:15:21.749Z,"19 km S of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-27T03:12:35.820Z,36.0281667,-121.5401667,8.06,1.41,md,31,193,0.1089,0.12,nc,nc73917191,2023-07-27T04:35:12.125Z,"3 km ENE of Lopez Point, CA",earthquake,0.38,0.58,0.178,28,reviewed,nc,nc
+2023-07-27T03:12:35.820Z,36.0281667,-121.5401667,8.06,1.41,md,31,193,0.1089,0.12,nc,nc73917191,2023-07-27T04:39:15.157Z,"3 km ENE of Lopez Point, CA",earthquake,0.38,0.58,0.178,28,reviewed,nc,nc
 2023-07-27T02:57:28.967Z,63.2353,-153.4385,8.9,1,ml,,,,0.9,ak,ak0239k1bbz4,2023-07-27T03:06:24.598Z,"53 km ENE of Nikolai, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-27T02:48:10.780Z,38.7986679,-122.7756653,3.18,0.75,md,12,71,0.01103,0.02,nc,nc73917181,2023-07-27T03:21:12.651Z,"3 km NW of The Geysers, CA",earthquake,0.38,0.62,0.1,14,automatic,nc,nc
 2023-07-27T02:29:12.850Z,33.7643333,-117.0296667,16.62,1.35,ml,8,135,0.06078,0.08,ci,ci39623274,2023-07-27T02:32:48.715Z,"5km NE of Green Acres, CA",earthquake,0.41,0.63,0.277,8,automatic,ci,ci
