@@ -195,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-26T23:50:39.665Z,31.65762078,-104.4843666,5.617407227000001,2,ml,17,102,0.01779140575,0.2,tx,tx2023ooev,2023-07-27T14:25:29.766Z,"58 km S of Whites City, New Mexico",earthquake,1.457661604,0.769514937,0.1,7,reviewed,tx,tx
 2023-07-26T23:41:58.470Z,56.9106666666667,-158.078166666667,4.02,1.09,ml,6,242,,0.12,av,av91978446,2023-07-27T03:11:13.750Z,"71 km NNE of Chignik, Alaska",earthquake,0.84,1.09,0.322353678598288,6,reviewed,av,av
 2023-07-26T23:38:09.547Z,31.6689,138.2267,354.719,4.8,mb,113,116,1.97,0.67,us,us6000kvtf,2023-07-26T23:52:12.040Z,"Izu Islands, Japan region",earthquake,9.03,7.194,0.044,159,reviewed,us,us
-2023-07-26T23:23:37.480Z,62.5148,-151.5227,77,1.4,ml,,,,0.56,ak,ak0239iq2thw,2023-07-26T23:26:11.188Z,"39 km W of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
