@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-29T07:35:57.740Z,35.211,-118.6728333,6.67,1.11,ml,25,80,0.02391,0.18,ci,ci39624946,2023-07-29T07:39:31.720Z,"14 km E of Arvin, CA",earthquake,0.32,0.56,0.17,16,automatic,ci,ci
+2023-07-29T07:35:38.118Z,60.285,-152.1772,89.1,2.5,ml,,,,0.4,ak,ak0239nf8gim,2023-07-29T07:37:26.658Z,"38 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-29T07:26:24.828Z,61.9782,-149.5393,34.7,1.4,ml,,,,0.5,ak,ak0239nf6jgy,2023-07-29T07:28:24.548Z,"26 km SE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-29T07:17:44.882Z,32.8886,-100.9492,2.547,2.7,mb_lg,24,38,0.207,0.51,us,us6000kwgz,2023-07-29T07:26:52.040Z,"19 km N of Snyder, Texas",earthquake,1.66,7.09,0.061,98,reviewed,us,us
 2023-07-29T07:13:24.520Z,17.9655,-66.9536666666667,6.21,2.46,md,12,191,0.04337,0.15,pr,pr71419593,2023-07-29T07:32:02.210Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.45,0.32,0.0594819880423745,3,reviewed,pr,pr
