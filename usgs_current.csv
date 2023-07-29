@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T10:40:38.155Z,39.501,-120.3029,8.4,1.2,ml,13,142.91,0.075,0.1321,nn,nn00863650,2023-07-28T14:39:00.900Z,"11 km SSE of Sierraville, California",earthquake,,2.4,0.41,6,reviewed,nn,nn
 2023-07-28T10:38:54.758Z,61.7429,-152.0803,119.2,1.2,ml,,,,0.27,ak,ak0239lti4oz,2023-07-28T10:40:29.045Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-28T10:37:17.750Z,58.1853333333333,-155.312166666667,2.6,0.51,ml,8,155,,0.12,av,av91980931,2023-07-29T01:51:34.760Z,"85 km NW of Karluk, Alaska",earthquake,0.31,0.49,0.361076702031986,8,reviewed,av,av
-2023-07-28T10:32:57.090Z,34.0366667,-116.8408333,20.56,1.29,ml,50,54,0.02749,0.16,ci,ci39624186,2023-07-28T19:15:22.570Z,"13 km NNE of Banning, CA",earthquake,0.18,0.42,0.172,26,reviewed,ci,ci
