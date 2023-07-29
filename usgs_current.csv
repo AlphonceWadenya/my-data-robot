@@ -36,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-29T01:41:18.592Z,58.1941,-155.4083,1.1,0.6,ml,,,,0.21,ak,ak0239nbp53n,2023-07-29T01:43:12.284Z,"89 km NW of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-07-29T01:40:53.870Z,33.4013333,-116.3966667,8.32,0.79,ml,19,142,0.1241,0.23,ci,ci39624842,2023-07-29T01:44:39.236Z,"16 km N of Borrego Springs, CA",earthquake,0.52,1.36,0.123,16,automatic,ci,ci
 2023-07-29T01:34:01.491Z,58.2618,-155.1332,1.5,1,ml,,,,0.5,ak,ak0239nbnlrx,2023-07-29T01:36:37.805Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
-2023-07-29T01:34:01.010Z,38.5158333,-119.5203333,4.78,3.13,ml,21,97,0.03182,0.06,nc,nc73917796,2023-07-29T06:16:10.987Z,"4 km W of Walker, CA",earthquake,0.35,0.32,0.174,57,reviewed,nc,nc
+2023-07-29T01:34:01.010Z,38.5158333,-119.5203333,4.78,3.13,ml,21,97,0.03182,0.06,nc,nc73917796,2023-07-29T06:35:16.948Z,"4 km W of Walker, CA",earthquake,0.35,0.32,0.174,57,reviewed,nc,nc
 2023-07-29T01:23:49.578Z,60.4288,-143.2925,19.2,1.3,ml,,,,0.32,ak,ak0239nblclp,2023-07-29T01:25:13.391Z,"113 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-29T01:10:37.350Z,33.8926667,-119.1001667,0.87,2.33,ml,19,189,0.2044,0.33,ci,ci39624810,2023-07-29T01:14:28.749Z,"30 km WSW of Malibu, CA",earthquake,1.5,31.61,0.129,26,automatic,ci,ci
 2023-07-29T01:10:35.570Z,33.9138336,-119.2136688,9.86,1.75,ml,24,149,0.2529,0.26,ci,ci39624802,2023-07-29T01:37:25.040Z,"26 km S of Port Hueneme, CA",earthquake,0.77,1.98,0.356,6,automatic,ci,ci
@@ -127,6 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T17:04:18.014Z,-14.6485,167.6423,9.524,4.8,mb,26,202,6.685,1.09,us,us6000kw99,2023-07-28T17:44:31.040Z,"75 km NE of Port-Olry, Vanuatu",earthquake,13.93,6.118,0.121,22,reviewed,us,us
 2023-07-28T17:03:53.512Z,-58.7785,-25.131,32.459,4.8,mb,25,180,7.724,0.97,us,us6000kw9a,2023-07-28T18:40:37.040Z,"South Sandwich Islands region",earthquake,16.21,5.605,0.128,21,reviewed,us,us
 2023-07-28T16:40:50.900Z,34.0701667,-118.1281667,10.4,1.43,ml,15,98,0.02151,0.14,ci,ci39624370,2023-07-28T20:10:22.819Z,"1 km NNW of Monterey Park, CA",earthquake,0.32,0.55,0.135,8,reviewed,ci,ci
+2023-07-28T16:40:21.300Z,37.3481667,-121.705,8.37,1.07,md,21,53,0.05018,0.07,nc,nc73917636,2023-07-29T06:36:14.160Z,"11 km E of Alum Rock, CA",earthquake,0.24,0.42,0.252,19,reviewed,nc,nc
 2023-07-28T16:14:23.950Z,37.5701667,-118.8495,-0.65,0.38,md,11,247,0.0256,0.05,nc,nc73917631,2023-07-29T06:30:43.468Z,"14 km ESE of Mammoth Lakes, CA",earthquake,1.04,0.36,0.144,10,reviewed,nc,nc
 2023-07-28T16:13:03.420Z,37.5805,-118.8505,-0.68,0.92,md,9,222,0.01947,0.05,nc,nc73917626,2023-07-28T17:51:14.623Z,"13 km ESE of Mammoth Lakes, CA",earthquake,0.71,0.54,0.19,10,reviewed,nc,nc
 2023-07-28T16:11:17.560Z,37.5448333,-118.8323333,0.02,1.51,md,21,193,0.04519,0.04,nc,nc73917621,2023-07-28T23:29:14.509Z,"14 km W of Toms Place, CA",earthquake,0.39,1.43,0.164,21,reviewed,nc,nc
