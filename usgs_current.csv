@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-31T18:53:03.853Z,56.2047,-153.1123,16.6,2.4,ml,,,,0.6,ak,ak0239qwyqyv,2023-07-31T18:56:29.483Z,"Kodiak Island region, Alaska",earthquake,,8.2,,,automatic,ak,ak
+2023-07-31T18:51:09.306Z,59.968,-153.1869,0,0.9,ml,,,,0.96,ak,ak0239qwybte,2023-07-31T18:53:11.349Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-31T18:37:58.962Z,58.1781,-155.2439,0.1,0.9,ml,,,,0.47,ak,ak0239qwvfma,2023-07-31T18:40:14.302Z,"82 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-31T18:29:19.919Z,58.1856,-155.2829,1.2,0.1,ml,,,,0.64,ak,ak0239qwtmvr,2023-07-31T18:31:09.195Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-07-31T18:28:50.390Z,38.836834,-122.8026657,2.54,0.38,md,7,114,0.009751,0.01,nc,nc73918776,2023-07-31T18:30:27.829Z,"7 km WNW of Cobb, CA",earthquake,0.52,1.88,0.2,8,automatic,nc,nc
