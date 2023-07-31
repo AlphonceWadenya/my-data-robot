@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-31T23:53:05.700Z,19.4936676025391,-155.461502075195,2.10999989509583,1.7,ml,10,83,,0.0700000003,hv,hv73505277,2023-07-31T23:58:36.410Z,"24 km WNW of Volcano, Hawaii",earthquake,0.43,1.64999998,0.96,4,automatic,hv,hv
 2023-07-31T23:48:25.311Z,61.9123,-152.2066,125.5,1.2,ml,,,,0.27,ak,ak0239qzwvxf,2023-07-31T23:50:50.623Z,"43 km WSW of Skwentna, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-07-31T23:46:23.150Z,38.7150002,-122.9154968,5.54,1.37,md,20,156,0.07611,0.04,nc,nc73918866,2023-07-31T23:48:00.754Z,"12 km NNW of Healdsburg, CA",earthquake,0.45,1.42,0.2,20,automatic,nc,nc
+2023-07-31T23:46:23.150Z,38.7150002,-122.9154968,5.54,1.37,md,20,156,0.07611,0.04,nc,nc73918866,2023-07-31T23:57:11.004Z,"12 km NNW of Healdsburg, CA",earthquake,0.45,1.42,0.2,20,automatic,nc,nc
 2023-07-31T23:41:19.379Z,63.262,-151.5344,0,0.7,ml,,,,0.84,ak,ak0239qzvdfw,2023-07-31T23:43:51.308Z,"32 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-31T23:40:57.060Z,58.8549,-151.1783,89.3,1.7,ml,,,,0.91,ak,ak0239qzv8ne,2023-07-31T23:43:33.068Z,"66 km SSE of Port Graham, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-07-31T23:33:20.013Z,64.9941,-147.4831,0,1.7,ml,,,,0.77,ak,ak0239qztns1,2023-07-31T23:35:13.434Z,"7 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-31T23:30:01.580Z,39.4286652,-122.7109985,10.81,2.75,ml,6,169,0.4671,0.22,nc,nc73918856,2023-07-31T23:36:10.865Z,"21 km E of Lake Pillsbury, CA",earthquake,6.01,6.47,0.719,5,automatic,nc,nc
 2023-07-31T23:26:47.522Z,69.5406,-144.8654,0,2.4,ml,,,,0.91,ak,ak0239qzs7w0,2023-07-31T23:30:38.273Z,"81 km SW of Kaktovik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-07-31T23:09:54.717Z,58.887,-153.969,12.2,1.4,ml,,,,0.33,ak,ak0239qzol9r,2023-07-31T23:11:45.122Z,"76 km SE of Kokhanok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-31T23:09:20.872Z,58.8861,-153.9527,8.4,1,ml,,,,0.14,ak,ak0239qzoinr,2023-07-31T23:11:30.969Z,"Kodiak Island region, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -19,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-31T22:04:27.797Z,65.1852,-143.419,3.1,1,ml,,,,0.77,ak,ak0239qz210b,2023-07-31T22:16:06.063Z,"northern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-31T21:51:22.322Z,16.5901,-97.5367,39.206,4.8,mb,76,177,1.38,0.58,us,us6000kwxr,2023-07-31T22:31:03.478Z,"6 km NNW of Quinicuena, Mexico",earthquake,8.86,8.909,0.035,245,reviewed,us,us
 2023-07-31T21:36:58.450Z,38.777668,-122.7448349,1.31,1.13,md,17,72,0.008432,0.03,nc,nc73918816,2023-07-31T21:47:12.243Z,"1 km E of The Geysers, CA",earthquake,0.26,0.51,0.11,20,automatic,nc,nc
+2023-07-31T21:36:25.410Z,35.8541667,-117.6848333,9.21,1.5,mh,16,116,0.07939,0.11,ci,ci39626466,2023-07-31T23:54:41.693Z,"22 km ESE of Little Lake, CA",earthquake,0.25,0.53,,0,reviewed,ci,ci
 2023-07-31T21:35:24.528Z,58.2102,-155.2528,0,-0.2,ml,,,,1.33,ak,ak0239qyn8bw,2023-07-31T21:37:31.356Z,"85 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-31T21:29:07.962Z,32.83538818,-100.9445265,4.768676758,3.1,ml,15,78,0.0404942445,0.2,tx,tx2023oxdt,2023-07-31T22:24:13.937Z,"13 km N of Snyder, Texas",earthquake,0.6221222401,1.174849667,0.1,11,reviewed,tx,tx
 2023-07-31T21:12:46.402Z,39.6298,143.4738,10.561,4.8,mb,67,147,2.178,0.6,us,us6000kwxg,2023-07-31T21:31:08.040Z,"off the east coast of Honshu, Japan",earthquake,7.53,4.963,0.066,71,reviewed,us,us
