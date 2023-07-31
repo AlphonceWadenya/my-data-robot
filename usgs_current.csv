@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-31T03:18:08.040Z,33.7798347,-116.0373306,7.35,1.19,ml,33,54,0.1304,0.15,ci,ci39625898,2023-07-31T03:20:24.138Z,"17 km NE of Coachella, CA",earthquake,0.26,1.39,0.126,6,automatic,ci,ci
+2023-07-31T03:18:08.050Z,33.7823333,-116.0393333,4.81,1.07,ml,28,63,0.1333,0.17,ci,ci39625898,2023-07-31T03:21:35.254Z,"17 km NE of Coachella, CA",earthquake,0.26,0.86,0.095,25,automatic,ci,ci
 2023-07-31T03:09:40.110Z,33.9695,-116.8181667,12.09,1.22,ml,41,25,0.06241,0.15,ci,ci39625890,2023-07-31T03:20:51.840Z,"6 km NNW of Cabazon, CA",earthquake,0.18,0.45,0.152,27,automatic,ci,ci
-2023-07-31T02:55:42.810Z,38.7781677,-122.7421646,2.21,0.78,md,13,74,0.01988,0.03,nc,nc73918556,2023-07-31T02:57:15.539Z,"1 km E of The Geysers, CA",earthquake,0.35,0.86,0.09,11,automatic,nc,nc
+2023-07-31T02:55:42.810Z,38.7781677,-122.7421646,2.21,0.78,md,13,74,0.01988,0.03,nc,nc73918556,2023-07-31T03:23:18.934Z,"1 km E of The Geysers, CA",earthquake,0.35,0.86,0.09,11,automatic,nc,nc
 2023-07-31T02:54:56.885Z,58.1984,-155.279,1.1,0.1,ml,,,,0.93,ak,ak0239qng4yg,2023-07-31T02:57:24.315Z,"85 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-07-31T02:54:03.740Z,35.595,-118.1045,18.57,1.01,ml,6,136,0.2249,0.09,ci,ci39625882,2023-07-31T02:57:43.472Z,"27 km WSW of Inyokern, CA",earthquake,0.57,2.62,0.199,9,automatic,ci,ci
 2023-07-31T02:48:28.120Z,38.8105011,-122.7815018,1.17,0.76,md,10,95,0.002827,0.01,nc,nc73918551,2023-07-31T03:12:14.875Z,"4 km NNW of The Geysers, CA",earthquake,0.36,0.68,0.1,11,automatic,nc,nc
