@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-31T13:24:23.690Z,65.4445,-144.7774,4.2,1.1,ml,,,,0.63,ak,ak0239qttekh,2023-07-31T13:26:15.203Z,"14 km S of Central, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-31T13:01:34.830Z,38.8289986,-122.814003,1.73,0.71,md,11,78,0.006382,0.02,nc,nc73918686,2023-07-31T13:20:13.378Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.77,0.31,13,automatic,nc,nc
 2023-07-31T12:36:48.056Z,60.2946,-141.066,0,1.7,ml,,,,0.61,ak,ak0239qtalfp,2023-07-31T12:39:29.788Z,"112 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-31T12:28:02.840Z,64.6066,-148.0279,9.9,1.6,ml,,,,1.23,ak,ak0239qt8s7w,2023-07-31T12:29:33.600Z,"25 km SSW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -190,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-30T13:43:01.028Z,68.6604,-148.4505,0,2.2,ml,,,,0.83,ak,ak0239p6e2xi,2023-07-30T13:45:47.127Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-30T13:37:43.239Z,58.1742,-155.3887,1.1,0.2,ml,,,,0.69,ak,ak0239p6cvw3,2023-07-30T13:47:30.385Z,"87 km NW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-07-30T13:34:27.987Z,51.1257,-178.9923,29.247,2.8,ml,17,219,0.443,0.3,us,us6000kwq7,2023-07-30T20:54:41.040Z,"183 km WSW of Adak, Alaska",earthquake,3.26,6.88,0.091,22,reviewed,us,us
-2023-07-30T13:26:12.652Z,58.1495,-155.4572,26.9,0.5,ml,,,,1.02,ak,ak0239p6agwo,2023-07-30T13:28:52.559Z,"87 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
