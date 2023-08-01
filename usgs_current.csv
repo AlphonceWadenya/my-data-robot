@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-01T05:33:46.300Z,38.8429985,-122.838501,1.55,0.29,md,10,106,0.004993,0.01,nc,nc73918921,2023-08-01T05:35:22.169Z,"10 km NW of The Geysers, CA",earthquake,0.32,0.57,0.15,10,automatic,nc,nc
 2023-08-01T05:31:50.200Z,38.8240013,-122.7941666,2.63,1.08,md,23,59,0.01244,0.03,nc,nc73918916,2023-08-01T05:33:27.725Z,"6 km NNW of The Geysers, CA",earthquake,0.23,0.43,0.18,26,automatic,nc,nc
 2023-08-01T05:21:49.660Z,33.479,-116.4818333,14.04,0.41,ml,16,100,0.06451,0.14,ci,ci39626586,2023-08-01T05:25:31.849Z,"20 km ESE of Anza, CA",earthquake,0.36,0.78,0.116,8,automatic,ci,ci
 2023-08-01T05:21:03.720Z,35.2128333,-118.6778333,5.78,1.33,ml,32,61,0.02028,0.23,ci,ci39626578,2023-08-01T05:24:41.114Z,"14 km E of Arvin, CA",earthquake,0.34,0.89,0.122,13,automatic,ci,ci
@@ -240,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-31T06:10:46.969Z,64.9361,-149.0148,15.2,0.8,ml,,,,0.54,ak,ak0239qpkf3s,2023-07-31T06:12:53.227Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-31T05:58:49.740Z,38.7673333,-122.7161667,1.64,0.48,md,5,144,0.008891,0.01,nc,nc73918611,2023-08-01T01:02:39.343Z,"2 km WSW of Anderson Springs, CA",earthquake,0.81,1.36,0.087,4,reviewed,nc,nc
 2023-07-31T05:43:50.360Z,59.8666,-152.291,91.9,0.3,ml,,,,0.65,ak,ak0239qp61tt,2023-07-31T05:46:11.969Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-07-31T05:39:34.210Z,17.9765,-66.8375,17.17,2.41,md,14,194,0.03977,0.09,pr,pr71419853,2023-07-31T05:49:27.070Z,"2 km SW of Indios, Puerto Rico",earthquake,0.35,0.42,0.141827547502292,7,reviewed,pr,pr
-2023-07-31T05:38:15.860Z,45.925333333333334,-122.93533333333333,25.8,1.23,ml,32,73,0.08375,0.18,uw,uw61936437,2023-07-31T07:27:05.030Z,"Oregon",earthquake,0.3,0.48,0.1496494074132383,20,reviewed,uw,uw
