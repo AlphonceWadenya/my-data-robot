@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-01T06:50:07.611Z,61.6884,-150.1157,30.3,1.2,ml,,,,0.61,ak,ak0239sdc97d,2023-08-01T06:52:13.634Z,"7 km SSW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-01T06:31:49.400Z,33.9485,-118.341,21.03,1.67,ml,40,84,0.04532,0.28,ci,ci39626626,2023-08-01T06:35:33.628Z,"1 km SSE of Inglewood, CA",earthquake,0.45,0.65,0.159,28,automatic,ci,ci
 2023-08-01T06:23:20.990Z,33.6876667,-116.7348333,15.86,0.78,ml,31,64,0.03257,0.16,ci,ci39626618,2023-08-01T06:26:51.492Z,"6 km SSW of Idyllwild, CA",earthquake,0.31,0.47,0.154,22,automatic,ci,ci
 2023-08-01T06:20:50.623Z,-23.6037,-179.9236,515.329,4.2,mb,24,100,4.995,0.61,us,us6000kwzs,2023-08-01T06:42:47.040Z,"south of the Fiji Islands",earthquake,14.01,9.903,0.098,29,reviewed,us,us
