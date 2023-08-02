@@ -102,7 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T06:07:45.920Z,33.5551667,-116.6108333,14.08,0.73,ml,18,91,0.003687,0.12,ci,ci39627458,2023-08-02T06:11:26.410Z,"6 km E of Anza, CA",earthquake,0.32,0.54,0.206,17,automatic,ci,ci
 2023-08-02T05:53:53.070Z,35.5225,-118.3633333,1.94,0.88,ml,13,93,0.1665,0.11,ci,ci39627450,2023-08-02T11:17:01.925Z,"14 km ESE of Bodfish, CA",earthquake,0.3,1.41,0.16,8,reviewed,ci,ci
 2023-08-02T05:48:55.106Z,58.2005,-155.2504,1.1,0.6,ml,,,,0.8,ak,ak0239u09ubq,2023-08-02T05:49:55.530Z,"84 km NW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
-2023-08-02T05:38:08.620Z,33.186,-115.5735,3.11,4.2,mw,67,89,0.03635,0.24,ci,ci39627442,2023-08-02T14:15:40.434Z,"8 km SW of Niland, CA",earthquake,0.22,0.3,,4,reviewed,ci,ci
+2023-08-02T05:38:08.620Z,33.186,-115.5735,3.11,4.2,mw,67,89,0.03635,0.24,ci,ci39627442,2023-08-02T14:58:07.919Z,"8 km SW of Niland, CA",earthquake,0.22,0.3,,4,reviewed,ci,ci
 2023-08-02T05:30:56.670Z,18.5456666666667,-66.8396666666667,19.09,2.89,md,14,209,0.214,0.25,pr,pr71420118,2023-08-02T05:43:11.860Z,"Puerto Rico region",earthquake,0.82,0.53,0.144342644051723,7,reviewed,pr,pr
 2023-08-02T05:15:44.060Z,19.1983337402344,-155.382995605469,31.3799991607666,2.54,ml,49,162,,0.119999997,hv,hv73506832,2023-08-02T05:53:29.040Z,"10 km E of Pāhala, Hawaii",earthquake,0.5,0.600000024,3.3,25,automatic,hv,hv
 2023-08-02T05:13:36.681Z,58.2213,-155.1753,3.5,1.8,ml,,,,0.35,ak,ak0239u02auc,2023-08-02T05:15:40.128Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
@@ -148,6 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T00:40:43.561Z,53.3507,-164.1761,26.149,2.5,ml,17,212,1.15,0.46,us,us6000kx8k,2023-08-02T04:24:27.040Z,"136 km SE of Akutan, Alaska",earthquake,5.26,16.572,0.148,6,reviewed,us,us
 2023-08-02T00:40:24.627Z,-18.7983,-71.234,35,4.4,mwr,32,148,0.947,1.46,us,us6000kx7l,2023-08-02T01:20:14.040Z,"105 km WSW of Arica, Chile",earthquake,4.05,1.946,,,reviewed,us,guc
 2023-08-02T00:37:32.260Z,46.8966666666667,-112.595833333333,10.92,0.83,ml,7,128,0.04812,0.03,mb,mb90023228,2023-08-02T14:44:12.270Z,"9 km SE of Lincoln, Montana",earthquake,0.41,0.5,0.129638321482629,6,reviewed,mb,mb
+2023-08-02T00:16:34.330Z,46.9056666666667,-112.602333333333,11.3,2.07,ml,13,132,0.04189,0.08,mb,mb90023223,2023-08-02T14:54:46.150Z,"8 km SE of Lincoln, Montana",earthquake,0.34,0.47,0.202182533561766,21,reviewed,mb,mb
 2023-08-02T00:14:02.270Z,38.8188324,-122.8213348,2.3,0.91,md,21,58,0.009906,0.02,nc,nc73919251,2023-08-02T00:55:13.818Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.44,0.19,22,automatic,nc,nc
 2023-08-02T00:12:08.063Z,62.8953,-151.1057,109.1,1.4,ml,,,,0.44,ak,ak0239tx2uw6,2023-08-02T00:14:23.129Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-02T00:10:11.662Z,9.3869,93.9173,10,5.2,mb,78,45,5.108,1.13,us,us6000kx7b,2023-08-02T00:27:48.040Z,"282 km SSE of Port Blair, India",earthquake,8.11,1.842,0.057,101,reviewed,us,us
