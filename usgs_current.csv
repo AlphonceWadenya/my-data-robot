@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-02T19:19:01.370Z,37.1763344,-121.557663,7.1,2.49,md,64,39,,0.1,nc,nc73919481,2023-08-02T19:28:25.671Z,"10 km ENE of Morgan Hill, CA",earthquake,0.16,0.42,0.14,74,automatic,nc,nc
+2023-08-02T19:34:24.102Z,61.9384,-147.3179,104.9,2.3,ml,,,,1.29,ak,ak0239u8iudm,2023-08-02T19:37:25.401Z,"7 km W of Eureka Roadhouse, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-08-02T19:19:01.370Z,37.1763344,-121.557663,7.1,2.49,md,64,39,,0.1,nc,nc73919481,2023-08-02T19:33:40.177Z,"10 km ENE of Morgan Hill, CA",earthquake,0.16,0.42,0.14,74,automatic,nc,nc
 2023-08-02T19:16:03.040Z,33.8578333,-117.5106667,0.61,1.24,ml,25,46,0.0679,0.31,ci,ci39628026,2023-08-02T19:19:39.627Z,"2 km SSE of Home Gardens, CA",quarry blast,0.56,31.61,0.286,35,automatic,ci,ci
 2023-08-02T18:55:39.150Z,38.7994995,-122.8249969,4.1,0.75,md,5,219,0.009909,0.01,nc,nc73919471,2023-08-02T18:57:13.803Z,"6 km WNW of The Geysers, CA",earthquake,2.95,5.48,0.12,8,automatic,nc,nc
 2023-08-02T18:48:52.890Z,38.8011665,-122.8188324,2.94,1.34,md,27,63,0.01116,0.02,nc,nc73919466,2023-08-02T19:29:20.270Z,"6 km WNW of The Geysers, CA",earthquake,0.24,0.42,0.17,30,automatic,nc,nc
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T18:03:03.580Z,17.9806666666667,-66.837,18.23,1.96,md,6,189,0.04061,0.11,pr,pr71420228,2023-08-02T18:13:25.070Z,"Puerto Rico region",earthquake,0.5,0.71,0.221427587858489,6,reviewed,pr,pr
 2023-08-02T17:47:32.312Z,60.1247,-152.6242,85.4,1.6,ml,,,,0.36,ak,ak0239u7es3z,2023-08-02T17:50:01.441Z,"53 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-02T17:24:32.370Z,19.2998332977295,-155.405838012695,29.3400001525879,2.12,ml,36,109,,0.129999995,hv,hv73507372,2023-08-02T17:30:03.030Z,"13 km NE of Pāhala, Hawaii",earthquake,0.49,0.639999986,0.42,7,automatic,hv,hv
-2023-08-02T17:24:21.460Z,38.836834,-122.8031693,1.73,0.7,md,9,73,0.01014,0.01,nc,nc73919441,2023-08-02T18:11:18.812Z,"7 km WNW of Cobb, CA",earthquake,0.39,0.72,0.17,9,automatic,nc,nc
+2023-08-02T17:24:21.460Z,38.836834,-122.8031693,1.73,0.7,md,9,73,0.01014,0.01,nc,nc73919441,2023-08-02T19:36:14.314Z,"7 km WNW of Cobb, CA",earthquake,0.39,0.72,0.17,9,automatic,nc,nc
 2023-08-02T17:23:10.200Z,44.6556667,-110.0225,13.4,0.83,md,7,109,0.1046,0.06,uu,uu60546882,2023-08-02T17:36:22.490Z,"39 km S of Silver Gate, Montana",earthquake,0.49,0.89,0.1,5,reviewed,uu,uu
 2023-08-02T16:47:43.480Z,44.7185,-111.021,9.4,0.68,ml,14,78,0.04217,0.16,uu,uu60546862,2023-08-02T17:11:11.340Z,"9 km NE of West Yellowstone, Montana",earthquake,0.46,0.94,0.082,2,reviewed,uu,uu
 2023-08-02T16:40:39.210Z,46.9056666666667,-112.596666666667,10.79,0.72,ml,9,111,0.04575,0.08,mb,mb90023318,2023-08-02T17:39:20.990Z,"8 km SE of Lincoln, Montana",earthquake,0.34,0.48,0.123845898969488,5,reviewed,mb,mb
