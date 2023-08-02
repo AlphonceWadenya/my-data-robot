@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-02T14:39:14.501Z,63.9226,-148.7624,0,1.1,ml,,,,0.74,ak,ak0239u5kq6y,2023-08-02T14:41:23.600Z,"12 km NE of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-02T14:31:58.400Z,35.5238333,-118.3603333,4.45,0.76,ml,9,101,0.1668,0.11,ci,ci39627770,2023-08-02T14:35:34.912Z,"14 km ESE of Bodfish, CA",earthquake,0.35,0.91,0.076,6,automatic,ci,ci
 2023-08-02T14:29:12.520Z,35.5185,-118.3655,2.86,1.08,ml,14,63,0.169,0.14,ci,ci39627754,2023-08-02T14:32:43.959Z,"14 km SE of Bodfish, CA",earthquake,0.25,0.91,0.144,7,automatic,ci,ci
 2023-08-02T14:28:45.970Z,35.5173333,-118.3636667,2.81,1.43,ml,22,62,0.1707,0.13,ci,ci39627746,2023-08-02T14:32:24.192Z,"14 km SE of Bodfish, CA",earthquake,0.2,0.84,0.188,17,automatic,ci,ci
@@ -145,6 +146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T00:45:43.580Z,35.9016667,-117.725,3.76,0.5,ml,6,226,0.08904,0.13,ci,ci39627346,2023-08-02T00:49:15.373Z,"17 km ESE of Little Lake, CA",earthquake,0.81,1.48,0.093,2,automatic,ci,ci
 2023-08-02T00:40:43.561Z,53.3507,-164.1761,26.149,2.5,ml,17,212,1.15,0.46,us,us6000kx8k,2023-08-02T04:24:27.040Z,"136 km SE of Akutan, Alaska",earthquake,5.26,16.572,0.148,6,reviewed,us,us
 2023-08-02T00:40:24.627Z,-18.7983,-71.234,35,4.4,mwr,32,148,0.947,1.46,us,us6000kx7l,2023-08-02T01:20:14.040Z,"105 km WSW of Arica, Chile",earthquake,4.05,1.946,,,reviewed,us,guc
+2023-08-02T00:37:32.260Z,46.8966666666667,-112.595833333333,10.92,0.83,ml,7,128,0.04812,0.03,mb,mb90023228,2023-08-02T14:44:12.270Z,"9 km SE of Lincoln, Montana",earthquake,0.41,0.5,0.129638321482629,6,reviewed,mb,mb
 2023-08-02T00:14:02.270Z,38.8188324,-122.8213348,2.3,0.91,md,21,58,0.009906,0.02,nc,nc73919251,2023-08-02T00:55:13.818Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.44,0.19,22,automatic,nc,nc
 2023-08-02T00:12:08.063Z,62.8953,-151.1057,109.1,1.4,ml,,,,0.44,ak,ak0239tx2uw6,2023-08-02T00:14:23.129Z,"47 km NNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-02T00:10:11.662Z,9.3869,93.9173,10,5.2,mb,78,45,5.108,1.13,us,us6000kx7b,2023-08-02T00:27:48.040Z,"282 km SSE of Port Blair, India",earthquake,8.11,1.842,0.057,101,reviewed,us,us
