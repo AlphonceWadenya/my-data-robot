@@ -148,7 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T06:07:45.850Z,33.5561667,-116.6135,14.71,0.69,ml,26,89,0.004285,0.12,ci,ci39627458,2023-08-02T15:02:27.779Z,"6 km E of Anza, CA",earthquake,0.24,0.33,0.238,11,reviewed,ci,ci
 2023-08-02T05:53:53.070Z,35.5225,-118.3633333,1.94,0.88,ml,13,93,0.1665,0.11,ci,ci39627450,2023-08-02T11:17:01.925Z,"14 km ESE of Bodfish, CA",earthquake,0.3,1.41,0.16,8,reviewed,ci,ci
 2023-08-02T05:48:55.106Z,58.2005,-155.2504,1.1,0.6,ml,,,,0.8,ak,ak0239u09ubq,2023-08-02T05:49:55.530Z,"84 km NW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
-2023-08-02T05:38:08.620Z,33.186,-115.5735,3.11,4.2,mw,67,89,0.03635,0.24,ci,ci39627442,2023-08-02T17:48:59.443Z,"8 km SW of Niland, CA",earthquake,0.22,0.3,,4,reviewed,ci,ci
+2023-08-02T05:38:08.620Z,33.186,-115.5735,3.11,4.12,mw,67,89,0.03635,0.24,ci,ci39627442,2023-08-02T18:38:14.487Z,"8 km SW of Niland, CA",earthquake,0.22,0.3,,6,reviewed,ci,ci
 2023-08-02T05:30:56.670Z,18.5456666666667,-66.8396666666667,19.09,2.89,md,14,209,0.214,0.25,pr,pr71420118,2023-08-02T05:43:11.860Z,"Puerto Rico region",earthquake,0.82,0.53,0.144342644051723,7,reviewed,pr,pr
 2023-08-02T05:15:44.060Z,19.1983337402344,-155.382995605469,31.3799991607666,2.54,ml,49,162,,0.119999997,hv,hv73506832,2023-08-02T05:53:29.040Z,"10 km E of Pāhala, Hawaii",earthquake,0.5,0.600000024,3.3,25,automatic,hv,hv
 2023-08-02T05:13:36.681Z,58.2213,-155.1753,3.5,1.8,ml,,,,0.35,ak,ak0239u02auc,2023-08-02T05:15:40.128Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
@@ -295,4 +295,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T18:58:26.970Z,38.8348351,-122.8068314,2.28,1.09,md,17,53,0.0117,0.02,nc,nc73919096,2023-08-01T19:00:03.761Z,"7 km W of Cobb, CA",earthquake,0.27,0.55,0.15,19,automatic,nc,nc
 2023-08-01T18:54:55.236Z,61.6338,-149.9668,25.6,1.5,ml,,,,0.59,ak,ak0239skif03,2023-08-01T18:56:39.829Z,"7 km W of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-01T18:48:46.750Z,35.0526667,-118.3525,-0.93,1.5,ml,27,34,0.06257,0.17,ci,ci39627026,2023-08-01T20:28:35.557Z,"12 km SE of Tehachapi, CA",quarry blast,0.3,31.61,0.135,17,reviewed,ci,ci
-2023-08-01T18:37:05.656Z,40.4176,42.2239,10,4.1,mb,45,54,1.24,0.81,us,us6000kx47,2023-08-01T21:21:32.040Z,"18 km SSW of Şenkaya, Turkey",earthquake,3.35,1.885,0.114,24,reviewed,us,us
