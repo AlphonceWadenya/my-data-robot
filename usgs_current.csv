@@ -134,10 +134,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T04:56:18.580Z,38.1794,38.6787,10,4.2,mwr,30,60,0.746,1.03,us,us6000kxg6,2023-08-03T05:30:15.040Z,"16 km NNE of Sincik, Turkey",earthquake,2.68,1.94,0.055,32,reviewed,us,us
 2023-08-03T04:43:04.473Z,62.8471,-149.5736,77.6,0.9,ml,,,,0.55,ak,ak0239vn6kq7,2023-08-03T04:44:51.545Z,"51 km NNE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-03T04:40:35.866Z,58.8852,-153.9687,11,1.4,ml,,,,0.38,ak,ak0239vn6002,2023-08-03T04:42:27.122Z,"77 km SE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-08-03T04:31:29.920Z,37.5641667,-118.8575,5.13,0.55,md,15,232,0.03428,0.03,nc,nc73919621,2023-08-03T17:25:49.267Z,"13 km SE of Mammoth Lakes, CA",earthquake,0.5,0.55,0.17,13,reviewed,nc,nc
+2023-08-03T04:31:29.920Z,37.5641667,-118.8575,5.13,0.55,md,15,232,0.03428,0.03,nc,nc73919621,2023-08-03T17:41:17.914Z,"13 km SE of Mammoth Lakes, CA",earthquake,0.5,0.55,0.17,13,reviewed,nc,nc
 2023-08-03T04:30:44.976Z,61.2859,-152.503,3.1,1.4,ml,,,,0.53,ak,ak0239vn3vjl,2023-08-03T04:32:37.300Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-03T04:30:09.620Z,46.87416666666667,-121.93283333333333,7.68,0.04,ml,11,140,0.01577,0.08,uw,uw61937532,2023-08-03T04:54:54.910Z,"14 km NNE of Ashford, Washington",earthquake,0.9,0.54,0.051531820107368655,6,reviewed,uw,uw
-2023-08-03T04:21:47.660Z,41.1016667,-121.6056667,6.13,2.27,md,37,41,0.0741,0.09,nc,nc73919616,2023-08-03T17:30:15.847Z,"18 km NW of Fall River Mills, CA",earthquake,0.19,0.74,0.151,41,reviewed,nc,nc
+2023-08-03T04:21:47.660Z,41.1016667,-121.6056667,6.13,2.27,md,37,41,0.0741,0.09,nc,nc73919616,2023-08-03T17:42:10.918Z,"18 km NW of Fall River Mills, CA",earthquake,0.19,0.74,0.151,41,reviewed,nc,nc
 2023-08-03T04:09:28.530Z,37.5733333,-118.859,-0.98,0.6,md,10,232,0.02901,0.07,nc,nc73919611,2023-08-03T12:44:11.278Z,"13 km SE of Mammoth Lakes, CA",earthquake,0.66,0.41,0.225,10,reviewed,nc,nc
 2023-08-03T03:58:15.019Z,36.4705,-98.755,8.53,1.67,ml,81,71,0.04229170093,0.16,ok,ok2023pbhn,2023-08-03T12:36:56.570Z,"16 km SE of Waynoka, Oklahoma",earthquake,,0.4,0.21,28,reviewed,ok,ok
 2023-08-03T03:49:57.203Z,58.8807,-153.9141,15.7,1.2,ml,,,,0.13,ak,ak0239vmmjhk,2023-08-03T03:51:29.763Z,"79 km SE of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -226,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T18:17:47.168Z,39.1805,-120.4426,8.6,0.6,ml,5,189.91,0.14,0.1524,nn,nn00863860,2023-08-03T02:04:02.384Z,"15 km S of Kingvale, California",earthquake,,7.4,0,1,reviewed,nn,nn
 2023-08-02T18:03:03.580Z,17.9806666666667,-66.837,18.23,1.96,md,6,189,0.04061,0.11,pr,pr71420228,2023-08-02T18:13:25.070Z,"Puerto Rico region",earthquake,0.5,0.71,0.221427587858489,6,reviewed,pr,pr
 2023-08-02T17:47:32.312Z,60.1247,-152.6242,85.4,1.6,ml,,,,0.36,ak,ak0239u7es3z,2023-08-02T17:50:01.441Z,"53 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-02T17:41:30.769Z,34.38483333,-96.8,0,1.5,ml,35,75,0.1970613298,0.35,ok,ok2023pane,2023-08-03T12:55:19.439Z,"3 km SE of Mill Creek, Oklahoma",quarry blast,,0.6,0.25,3,reviewed,ok,ok
