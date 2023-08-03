@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-03T19:23:27.360Z,34.4178333,-116.9751667,1.1,1.45,ml,14,106,0.1406,0.3,ci,ci40529088,2023-08-03T19:27:02.769Z,"3 km SSW of Lucerne Valley, CA",earthquake,0.99,1.67,0.182,28,automatic,ci,ci
 2023-08-03T19:12:23.782Z,60.1163,-152.6346,109,1.6,ml,,,,0.3,ak,ak0239vvxh3e,2023-08-03T19:14:11.129Z,"53 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-03T19:07:07.080Z,59.5063,-152.9532,87.7,1.6,ml,,,,0.26,ak,ak0239vvwd84,2023-08-03T19:08:40.706Z,"60 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-03T19:06:22.364Z,59.7235,-153.2418,103,1.7,ml,,,,0.68,ak,ak0239vvw6os,2023-08-03T19:08:31.037Z,"49 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -233,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T19:46:44.580Z,33.874,-116.856,14.16,0.69,ml,16,156,0.06329,0.07,ci,ci39628106,2023-08-03T00:18:09.438Z,"6 km SSE of Banning, CA",earthquake,0.22,0.48,0.025,10,reviewed,ci,ci
 2023-08-02T19:43:31.280Z,46.19016666666667,-122.19183333333334,-1.74,-0.13,mh,6,130,0.00964,0.15,uw,uw61937412,2023-08-02T21:24:13.280Z,"36 km NNE of Amboy, Washington",earthquake,0.79,10.96,,0,reviewed,uw,uw
 2023-08-02T19:34:24.102Z,61.9384,-147.3179,104.9,2.3,ml,,,,1.29,ak,ak0239u8iudm,2023-08-02T19:37:25.401Z,"7 km W of Eureka Roadhouse, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-08-02T19:32:06.047Z,60.9237,-149.5591,30.1,1.1,ml,,,,0.25,ak,ak0239u8idhv,2023-08-02T20:22:52.066Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,reviewed,ak,ak
