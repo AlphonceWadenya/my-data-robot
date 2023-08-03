@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-03T03:23:22.630Z,38.8078346,-122.8201675,-0.69,1.07,md,7,148,0.007115,0.17,nc,nc73919596,2023-08-03T03:24:57.159Z,"6 km WNW of The Geysers, CA",earthquake,0.84,2.77,0.1,9,automatic,nc,nc
+2023-08-03T03:21:36.613Z,62.9283,-150.642,82.4,1.4,ml,,,,0.58,ak,ak0239vmghul,2023-08-03T03:23:49.244Z,"48 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-03T03:02:32.720Z,38.8076668,-122.7961655,3.47,0.62,md,8,96,0.0007379,0.02,nc,nc73919591,2023-08-03T03:20:13.947Z,"5 km NW of The Geysers, CA",earthquake,0.64,1.56,0.18,10,automatic,nc,nc
 2023-08-03T02:33:27.309Z,60.9661,-150.1665,41.1,1.6,ml,,,,0.52,ak,ak0239vlxm4a,2023-08-03T02:35:35.143Z,"28 km E of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-03T02:31:00.190Z,40.4171677,-124.6760025,27.12,2.63,md,18,265,0.2756,0.11,nc,nc73919586,2023-08-03T02:52:10.782Z,"35 km WNW of Petrolia, CA",earthquake,2.23,2.39,0.2,8,automatic,nc,nc
@@ -249,4 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T03:42:31.567Z,62.9761,-150.3282,11.8,1.1,ml,,,,0.45,ak,ak0239tz1n04,2023-08-02T03:44:27.512Z,"57 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-02T03:36:22.613Z,15.1442,39.3556,10,4.8,mb,57,79,4.944,0.55,us,us6000kx8b,2023-08-03T03:03:51.040Z,"33 km N of Adi Keyh, Eritrea",earthquake,11.79,1.899,0.07,62,reviewed,us,us
 2023-08-02T03:31:18.550Z,46.9036666666667,-112.602,12.63,1.63,ml,13,107,0.04239,0.09,mb,mb90023253,2023-08-02T14:11:11.450Z,"8 km SE of Lincoln, Montana",earthquake,0.41,0.66,0.118445535150524,8,reviewed,mb,mb
-2023-08-02T03:22:34.485Z,-19.0483,-67.1741,252.654,4.4,mb,48,54,2.005,0.74,us,us6000kx87,2023-08-03T02:56:33.040Z,"Oruro-Potosi border region, Bolivia",earthquake,7.26,9.275,0.061,78,reviewed,us,us
