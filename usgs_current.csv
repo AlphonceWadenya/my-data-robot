@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-04T04:49:29.900Z,58.2613,-155.1293,26.1,1.9,ml,,,,0.74,ak,ak0239xar9ha,2023-08-04T04:51:07.054Z,"86 km NNW of Karluk, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-08-04T04:34:07.330Z,17.9216666666667,-66.9915,5.85,2.37,md,10,236,0.0691,0.11,pr,pr71420443,2023-08-04T04:44:51.510Z,"8 km SE of La Parguera, Puerto Rico",earthquake,0.53,0.37,0.0179584343556427,3,reviewed,pr,pr
 2023-08-04T04:27:31.590Z,38.8284988,-122.814003,1.21,0.76,md,8,83,0.005949,0.02,nc,nc73920006,2023-08-04T04:44:13.662Z,"8 km NW of The Geysers, CA",earthquake,0.36,0.86,0.3,10,automatic,nc,nc
 2023-08-04T03:53:57.088Z,40.1913,-119.8121,5.9,2,ml,9,233.41,0.065,0.1655,nn,nn00863939,2023-08-04T03:56:14.633Z,"27 km E of Herlong, California",earthquake,,0.8,0.27,6,automatic,nn,nn
