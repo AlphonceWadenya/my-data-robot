@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-04T03:53:57.088Z,40.1913,-119.8121,5.9,2,ml,9,233.41,0.065,0.1655,nn,nn00863939,2023-08-04T03:56:14.633Z,"27 km E of Herlong, California",earthquake,,0.8,0.27,6,automatic,nn,nn
 2023-08-04T03:45:41.420Z,38.8371658,-122.7996674,1.91,0.38,md,7,119,0.007386,0.02,nc,nc73919996,2023-08-04T03:47:18.007Z,"7 km WNW of Cobb, CA",earthquake,0.44,1.61,0.3,8,automatic,nc,nc
 2023-08-04T03:32:21.655Z,61.7737,-150.7061,41.9,1.1,ml,,,,0.94,ak,ak0239xa261w,2023-08-04T03:34:49.571Z,"27 km NNW of Susitna, Alaska",earthquake,,3,,,automatic,ak,ak
 2023-08-04T03:30:43.750Z,39.4824982,-123.1108322,2.8,1.54,md,12,181,0.0983,0.08,nc,nc73919991,2023-08-04T03:47:21.349Z,"16 km WNW of Lake Pillsbury, CA",earthquake,0.97,2.36,0.04,5,automatic,nc,nc
