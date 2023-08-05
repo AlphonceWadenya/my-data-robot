@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-05T13:38:07.708Z,60.1229,-147.2159,19.9,1.8,ml,,,,0.54,ak,ak0239z3l3tu,2023-08-05T13:39:47.043Z,"44 km E of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-05T13:35:44.830Z,38.8230019,-122.8451691,2.06,0.76,md,11,104,0.007921,0.01,nc,nc73920656,2023-08-05T13:37:19.751Z,"9 km WNW of The Geysers, CA",earthquake,0.37,0.73,0.4,12,automatic,nc,nc
 2023-08-05T13:34:43.605Z,62.8317,-149.6885,73.1,1.2,ml,,,,0.44,ak,ak0239z3kbqg,2023-08-05T13:36:22.930Z,"47 km NNE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-05T13:33:46.250Z,38.8235016,-122.8116684,2.95,0.74,md,16,76,0.00125,0.03,nc,nc73920651,2023-08-05T13:35:19.631Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.86,0.29,17,automatic,nc,nc
