@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-06T03:47:40.490Z,32.9216667,-116.2521667,10.77,1.77,ml,52,54,0.05416,0.21,ci,ci40530560,2023-08-06T03:51:28.351Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.28,0.64,0.145,27,automatic,ci,ci
+2023-08-06T03:47:40.490Z,32.9216667,-116.2521667,10.77,1.77,ml,52,54,0.05416,0.21,ci,ci40530560,2023-08-06T03:58:38.300Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.28,0.64,0.145,27,automatic,ci,ci
 2023-08-06T03:41:00.975Z,60.3686,-141.4205,9,2.5,ml,,,,0.93,ak,ak023a0l6qwh,2023-08-06T03:42:34.862Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-06T03:39:29.839Z,60.344,-141.3535,18.1,2.8,ml,,,,0.2,ak,ak023a0l6dp3,2023-08-06T03:40:32.469Z,"127 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-06T03:05:26.220Z,33.6366667,-116.7495,18.48,0.63,ml,21,67,0.04456,0.23,ci,ci40530552,2023-08-06T03:09:10.758Z,"12 km NW of Anza, CA",earthquake,0.46,0.56,0.249,12,automatic,ci,ci
@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T02:04:13.400Z,36.027832,-121.5479965,6.72,1.99,md,23,203,0.1139,0.18,nc,nc73920876,2023-08-06T03:05:12.645Z,"2 km ENE of Lopez Point, CA",earthquake,1.17,1.83,0.14,19,automatic,nc,nc
 2023-08-06T01:59:30.044Z,62.0123,-148.2532,20,2.4,ml,,,,0.74,ak,ak023a0k3sul,2023-08-06T02:20:36.040Z,"26 km NNE of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-06T01:45:27.210Z,38.7939987,-122.8069992,3.71,0.76,md,12,81,0.006443,0.02,nc,nc73920866,2023-08-06T02:14:13.356Z,"5 km WNW of The Geysers, CA",earthquake,0.42,0.71,0.15,13,automatic,nc,nc
-2023-08-06T01:44:54.730Z,37.5178337,-118.8544998,5.65,1.98,md,20,113,0.07484,0.02,nc,nc73920861,2023-08-06T02:16:10.371Z,"16 km WSW of Toms Place, CA",earthquake,0.53,0.87,0.08,18,automatic,nc,nc
+2023-08-06T01:44:54.730Z,37.5178337,-118.8544998,5.65,1.98,md,20,113,0.07484,0.02,nc,nc73920861,2023-08-06T03:54:13.920Z,"16 km WSW of Toms Place, CA",earthquake,0.53,0.87,0.08,18,automatic,nc,nc
 2023-08-06T01:44:35.306Z,-1.15,120.2938,10,5.2,mww,55,62,2.298,0.73,us,us6000ky6z,2023-08-06T02:03:05.040Z,"54 km ESE of Palu, Indonesia",earthquake,5.97,1.682,0.098,10,reviewed,us,us
 2023-08-06T01:41:54.870Z,19.2305,-64.0333,37,4.18,md,17,309,1.2741,0.53,pr,pr2023218000,2023-08-06T02:56:22.600Z,"127 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,3.77,31.57,0.11,14,reviewed,pr,pr
 2023-08-06T00:42:18.530Z,40.1326675,-123.8516693,19.8,1.62,md,7,210,0.1075,0.07,nc,nc73920846,2023-08-06T03:03:15.635Z,"3 km WNW of Redway, CA",earthquake,1.35,0.83,0.13,4,automatic,nc,nc
