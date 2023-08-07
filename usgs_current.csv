@@ -149,7 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-07T01:39:05.320Z,34.2981667,-118.4868333,8.77,2.13,ml,53,38,0.007177,0.25,ci,ci40531032,2023-08-07T19:09:53.030Z,"3 km NNE of Granada Hills, CA",earthquake,0.24,0.45,0.186,24,reviewed,ci,ci
 2023-08-07T01:33:06.574Z,36.6941,71.2439,188.927,4.1,mb,17,115,2.644,0.89,us,us6000kydf,2023-08-07T03:16:02.040Z,"25 km W of Ashkāsham, Afghanistan",earthquake,8.16,11.72,0.184,8,reviewed,us,us
 2023-08-07T01:13:47.934Z,59.4116,-152.5832,84.3,1.6,ml,,,,0.82,ak,ak023a27dbrd,2023-08-07T01:16:05.240Z,"38 km W of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-08-07T01:06:09.739Z,57.4703,-153.5769,11.7,3.2,ml,,,,0.72,ak,ak023a27bqst,2023-08-07T01:08:23.186Z,"25 km ESE of Larsen Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-08-07T01:06:09.739Z,57.4703,-153.5769,11.7,3.2,ml,,,,0.72,ak,ak023a27bqst,2023-08-07T22:25:53.040Z,"25 km ESE of Larsen Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-07T01:00:25.730Z,38.75,-122.736,1.2,0.48,md,9,116,0.007203,0.05,nc,nc73921246,2023-08-07T22:08:37.927Z,"4 km SSE of The Geysers, CA",earthquake,0.4,0.34,0.079,4,reviewed,nc,nc
 2023-08-07T00:57:01.938Z,45.7375,148.9089,162.942,4.6,mb,73,162,4.429,1.04,us,us6000kyd8,2023-08-07T01:16:24.040Z,"98 km NE of Kuril’sk, Russia",earthquake,9.3,7.979,0.033,265,reviewed,us,us
 2023-08-07T00:53:34.860Z,33.5185,-116.5721667,14.68,0.57,ml,25,65,0.03429,0.15,ci,ci37563324,2023-08-07T15:37:46.324Z,"10 km ESE of Anza, CA",earthquake,0.27,0.38,0.239,7,reviewed,ci,ci
