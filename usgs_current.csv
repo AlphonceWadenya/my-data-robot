@@ -189,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T23:46:53.090Z,48.23466666666667,-121.6975,9.84,0.45,md,3,174,0.06303,0.01,uw,uw61938722,2023-08-07T04:44:37.290Z,"5 km SSE of Swede Heaven, Washington",earthquake,1.09,1.37,0.38627815009808986,3,reviewed,uw,uw
 2023-08-06T23:32:33.630Z,8.2839,-82.9507,21.173,4.4,mwr,39,132,0.386,0.79,us,us6000kycq,2023-08-06T23:48:06.040Z,"Panama-Costa Rica border region",earthquake,4.95,8.075,0.075,17,reviewed,us,us
 2023-08-06T23:31:33.519Z,-23.2502,-179.8982,556.793,4.3,mb,26,98,4.817,0.88,us,us6000kycr,2023-08-07T00:16:58.040Z,"south of the Fiji Islands",earthquake,15.26,12.232,0.111,23,reviewed,us,us
-2023-08-06T23:25:26.210Z,35.3173333,-118.5655,5.21,3.34,ml,64,24,0.1212,0.19,ci,ci40530992,2023-08-07T19:43:19.763Z,"23 km NNW of Tehachapi, CA",earthquake,0.15,0.58,0.14,118,reviewed,ci,ci
