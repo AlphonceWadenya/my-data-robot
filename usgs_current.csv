@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-07T19:21:43.790Z,39.2809982,-123.2356644,4.14,1.56,md,9,98,0.09071,0.04,nc,nc73921536,2023-08-07T19:23:19.665Z,"3 km WNW of Redwood Valley, CA",earthquake,0.32,2.14,0.07,7,automatic,nc,nc
 2023-08-07T19:13:23.830Z,38.8391685,-122.8056641,9.55,0.22,md,7,107,0.01612,0.07,nc,nc73921531,2023-08-07T19:14:59.582Z,"7 km WNW of Cobb, CA",earthquake,1.46,7.96,0.07,8,automatic,nc,nc
+2023-08-07T19:01:59.210Z,46.0043333333333,-112.464333333333,-2,1.96,ml,11,168,0.06322,0.08,mb,mb90023788,2023-08-07T19:28:10.130Z,"5 km E of Butte, Montana",quarry blast,0.5,31.61,0.256814942501688,19,reviewed,mb,mb
 2023-08-07T18:52:04.990Z,38.8258324,-122.7958298,2.55,0.74,md,11,59,0.01139,0.01,nc,nc73921526,2023-08-07T18:53:40.332Z,"6 km W of Cobb, CA",earthquake,0.4,1.13,0.48,11,automatic,nc,nc
 2023-08-07T18:51:38.360Z,38.8253326,-122.7971649,2.42,1.03,md,22,34,0.01027,0.02,nc,nc73921521,2023-08-07T18:53:15.867Z,"6 km NNW of The Geysers, CA",earthquake,0.23,0.42,0.21,23,automatic,nc,nc
 2023-08-07T18:48:22.730Z,35.0208333,-117.6866667,0.26,1.54,ml,17,73,0.0866,0.26,ci,ci40531408,2023-08-07T18:52:23.091Z,"4 km NW of Boron, CA",quarry blast,0.66,31.61,0.143,28,automatic,ci,ci
