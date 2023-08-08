@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T10:21:17.445Z,39.326,-119.9178,9,0.6,ml,9,77.79,0.098,0.132,nn,nn00864135,2023-08-08T10:23:14.859Z,"Nevada",earthquake,,1.2,0.14,7,automatic,nn,nn
 2023-08-08T10:20:50.220Z,47.605666666666664,-121.78016666666667,17.31,1.52,ml,15,138,0.107,0.18,uw,uw61939457,2023-08-08T11:31:03.404Z,"Washington",earthquake,0.47,0.61,0.23761197741535778,8,reviewed,uw,uw
 2023-08-08T10:19:31.560Z,38.7845001,-122.7789993,1.06,0.77,md,9,112,0.01112,0.02,nc,nc73921751,2023-08-08T10:43:16.052Z,"2 km WNW of The Geysers, CA",earthquake,0.28,0.55,0.1,10,automatic,nc,nc
-2023-08-08T10:17:23.670Z,47.6095,-121.79433333333333,17.43,3.7800000000000002,ml,23,102,0.108,0.26,uw,uw61939452,2023-08-08T13:50:31.569Z,"8 km ENE of Fall City, Washington",earthquake,0.51,0.92,0.17746793781331416,21,reviewed,uw,uw
+2023-08-08T10:17:23.670Z,47.6095,-121.79433333333333,17.43,3.7800000000000002,ml,23,102,0.108,0.26,uw,uw61939452,2023-08-08T13:55:33.020Z,"8 km ENE of Fall City, Washington",earthquake,0.51,0.92,0.17746793781331416,21,reviewed,uw,uw
 2023-08-08T10:14:01.930Z,37.3273315,-122.2145004,8.51,1.48,md,8,68,0.04329,0.07,nc,nc73921746,2023-08-08T12:56:11.846Z,"7 km SSE of Portola Valley, CA",earthquake,0.46,0.95,0.1,8,automatic,nc,nc
 2023-08-08T09:44:17.946Z,38.1789,-117.9686,9,2.6,ml,23,119.57,0.024,0.3375,nn,nn00864131,2023-08-08T09:48:48.565Z,"26 km SSE of Mina, Nevada",earthquake,,0.3,0.82,13,automatic,nn,nn
 2023-08-08T09:23:30.689Z,58.7719,-155.8442,240.5,1.8,ml,,,,0.57,ak,ak023a3zq8x8,2023-08-08T09:26:05.100Z,"48 km E of King Salmon, Alaska",earthquake,,2.2,,,automatic,ak,ak
@@ -97,6 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T02:06:12.900Z,38.8424988,-122.875,2.09,1.84,md,32,67,0.005573,0.03,nc,nc73921626,2023-08-08T05:02:13.205Z,"13 km NW of The Geysers, CA",earthquake,0.2,0.31,0.15,32,automatic,nc,nc
 2023-08-08T02:01:18.570Z,19.48,-67.203,21,4.31,md,22,212,1.0166,0.28,pr,pr2023220000,2023-08-08T02:45:25.262Z,"109 km N of San Antonio, Puerto Rico",earthquake,0.86,19.86,0.09,19,reviewed,pr,pr
 2023-08-08T01:57:00.821Z,31.68252359,-104.4049337,5.668823242,2,ml,28,68,0.01801031348,0.1,tx,tx2023pkha,2023-08-08T11:20:01.680Z,"54 km S of Whites City, New Mexico",earthquake,1.308973698,1.2035070990000003,0,6,reviewed,tx,tx
+2023-08-08T01:54:54.680Z,44.7616667,-110.9533333,5.34,0.12,md,9,130,0.03771,0.14,uu,uu60547172,2023-08-08T13:57:28.740Z,"16 km NE of West Yellowstone, Montana",earthquake,0.47,1.27,0.295,7,reviewed,uu,uu
 2023-08-08T01:51:07.740Z,47.612,-121.815,16.74,1.58,ml,26,106,0.09489,0.11,uw,uw61939382,2023-08-08T05:41:24.490Z,"Washington",earthquake,0.27,0.38,0.10849808524123561,20,reviewed,uw,uw
 2023-08-08T01:27:37.834Z,62.3925,-151.8327,89.7,2,ml,,,,0.39,ak,ak023a3uznhz,2023-08-08T01:29:45.715Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-08T01:24:05.187Z,64.9499,-147.2909,0,2.1,ml,,,,0.99,ak,ak023a3uyxty,2023-08-08T01:25:52.340Z,"14 km NW of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
