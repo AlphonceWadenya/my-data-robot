@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-08T05:25:16.476Z,31.5905,-104.5271,5,2.9,ml,36,83,0.081,0.43,us,us6000kykp,2023-08-08T05:47:07.040Z,"western Texas",earthquake,1.8,1.951,0.055,52,reviewed,us,us
 2023-08-08T05:21:32.970Z,18.0496666666667,-66.7858333333333,16.39,2.46,md,10,102,0.03,0.19,pr,pr71420818,2023-08-08T05:32:22.840Z,"Puerto Rico region",earthquake,0.49,0.96,0.0838698699394747,5,reviewed,pr,pr
 2023-08-08T04:47:27.831Z,58.268,-155.1102,30.2,0.8,ml,,,,0.31,ak,ak023a3ww7v3,2023-08-08T04:48:42.135Z,"Alaska Peninsula",earthquake,,0.2,,,automatic,ak,ak
 2023-08-08T04:44:11.241Z,62.9946,-148.3025,80.7,1.2,ml,,,,0.74,ak,ak023a3wvjfo,2023-08-08T04:46:32.501Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -178,4 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-07T06:35:46.560Z,19.3988333333333,-155.26,1.76,2.26,ml,31,40,,0.1,hv,hv73513577,2023-08-07T20:25:29.840Z,"5 km SSW of Volcano, Hawaii",earthquake,0.17,0.18,0.230457666952159,16,reviewed,hv,hv
 2023-08-07T06:16:42.560Z,38.8328323,-122.8088303,2.13,0.32,md,9,96,0.009473,0.01,nc,nc73921336,2023-08-07T08:20:11.879Z,"8 km W of Cobb, CA",earthquake,0.57,1.38,0.21,9,automatic,nc,nc
 2023-08-07T05:51:35.310Z,38.7976667,-122.7955,-0.14,0.47,md,5,127,0.007429,0.02,nc,nc73921331,2023-08-07T23:21:15.172Z,"4 km NW of The Geysers, CA",earthquake,0.38,0.89,0.186,5,reviewed,nc,nc
-2023-08-07T05:47:37.637Z,60.9998,-146.9871,21.1,1.8,ml,,,,0.56,ak,ak023a29ybqb,2023-08-07T05:49:38.176Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
