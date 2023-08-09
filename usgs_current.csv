@@ -119,6 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T00:29:17.660Z,-25.3423,179.7734,528.906,4.6,mb,31,114,13.443,0.75,us,us6000kyrv,2023-08-09T00:48:15.040Z,"south of the Fiji Islands",earthquake,12.64,9.511,0.043,164,reviewed,us,us
 2023-08-09T00:19:22.837Z,60.4267,-152.2788,84.9,1.7,ml,,,,0.39,ak,ak023a5hvtir,2023-08-09T00:43:27.379Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-09T00:09:41.200Z,33.8753333,-116.2708333,2.69,1.11,ml,26,62,0.09522,0.19,ci,ci40532200,2023-08-09T00:23:31.009Z,"13 km ENE of Thousand Palms, CA",earthquake,0.36,0.91,0.126,26,automatic,ci,ci
+2023-08-09T00:00:07.905Z,31.68255871,-104.3995503,6.131567383,2.2,ml,45,68,0.02257465411,0.2,tx,tx2023plyt,2023-08-09T14:54:01.659Z,"54 km S of Whites City, New Mexico",earthquake,0.6084703786,0.5323845061,0.1,6,reviewed,tx,tx
 2023-08-08T23:55:53.160Z,45.85016666666667,-122.44916666666667,-0.79,2.05,ml,15,99,0.08495,0.17,uw,uw61948516,2023-08-09T05:49:07.670Z,"3 km WSW of Yacolt, Washington",explosion,0.6,31.61,0.2564864343536164,10,reviewed,uw,uw
 2023-08-08T23:49:19.598Z,60.2927,-151.7963,54.4,1.1,ml,,,,0.37,ak,ak023a487vdr,2023-08-08T23:50:56.506Z,"23 km WNW of Clam Gulch, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-08T23:34:59.697Z,39.1856,-120.469,9,1.4,ml,14,128.56,0.153,0.1441,nn,nn00864189,2023-08-09T00:48:29.713Z,"15 km SSW of Kingvale, California",earthquake,,3.2,0.16,7,reviewed,nn,nn
