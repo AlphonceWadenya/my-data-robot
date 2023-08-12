@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-12T02:31:22.220Z,38.8084984,-122.8223343,2,0.86,md,11,63,0.00536,0.01,nc,nc73923231,2023-08-12T02:32:59.915Z,"7 km WNW of The Geysers, CA",earthquake,0.33,0.81,0.28,13,automatic,nc,nc
+2023-08-12T02:28:13.411Z,58.1682,-155.4275,6.1,0.3,ml,,,,0.16,ak,ak023aahqmxy,2023-08-12T02:30:10.263Z,"88 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-12T02:24:20.210Z,38.8079987,-122.7566681,0.5,1.09,md,8,106,0.007738,0.01,nc,nc73923226,2023-08-12T02:25:54.386Z,"3 km WSW of Cobb, CA",earthquake,0.42,0.97,0.06,9,automatic,nc,nc
 2023-08-12T02:18:13.030Z,34.0736667,-116.9703333,0.54,0.91,ml,16,170,0.1521,0.34,ci,ci40534944,2023-08-12T02:21:50.862Z,"8 km ENE of Yucaipa, CA",earthquake,1.19,31.61,0.134,18,automatic,ci,ci
 2023-08-12T02:03:22.308Z,62.4073,-151.0891,11.9,1.1,ml,,,,0.28,ak,ak023aahlap2,2023-08-12T02:05:30.634Z,"19 km WSW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -250,5 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T02:40:30.970Z,53.8496666666667,-166.797166666667,4.89,-0.03,ml,7,86,,0.11,av,av91113048,2023-08-11T20:13:06.600Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.3,0.95,0.247750338552553,7,reviewed,av,av
 2023-08-11T02:36:38.541Z,60.5199,-151.1869,20,1.8,ml,,,,0.37,ak,ak023a8u9232,2023-08-11T02:38:06.195Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-11T02:34:05.910Z,38.0015,-112.5285,5.89,1.85,ml,22,145,0.3845,0.13,uu,uu60547397,2023-08-11T15:06:27.850Z,"21 km NNW of Panguitch, Utah",earthquake,0.5,1.42,0.204,6,reviewed,uu,uu
-2023-08-11T02:31:12.185Z,58.1769,-155.4222,0,0,ml,,,,0.41,ak,ak023a8u7xgy,2023-08-11T20:22:09.740Z,"Alaska Peninsula",earthquake,,1.2,,,automatic,ak,ak
-2023-08-11T02:31:11.106Z,62.5226,-150.8119,65.9,2.5,ml,,,,0.53,ak,ak023a8u7xcu,2023-08-11T02:39:21.040Z,"3 km NW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
