@@ -170,4 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T22:43:42.320Z,32.4283333,-115.4853333,11.07,2.7,ml,37,56,0.1361,0.26,ci,ci40534808,2023-08-11T23:21:28.280Z,"19 km SSE of Progreso, B.C., MX",earthquake,0.27,0.73,0.235,25,reviewed,ci,ci
 2023-08-11T22:39:10.940Z,38.8289986,-122.8113327,0.96,0.31,md,8,89,0.005681,0.02,nc,nc73923176,2023-08-11T22:58:13.289Z,"8 km NW of The Geysers, CA",earthquake,0.3,1.43,0.2,7,automatic,nc,nc
 2023-08-11T22:30:08.590Z,33.3046667,-115.6743333,7.77,1.67,ml,42,80,0.0687,0.21,ci,ci40534800,2023-08-11T23:14:19.150Z,"7 km SE of Bombay Beach, CA",earthquake,0.26,0.54,0.13,22,reviewed,ci,ci
-2023-08-11T22:25:16.160Z,38.831665,-122.8161697,1.76,1.08,md,21,52,0.009532,0.02,nc,nc73923171,2023-08-11T22:43:14.199Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.42,0.17,23,automatic,nc,nc
