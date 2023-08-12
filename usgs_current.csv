@@ -198,7 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T14:40:29.180Z,44.8756666666667,-111.442833333333,7.25,1.23,ml,12,93,0.1864,0.12,mb,mb90024318,2023-08-11T15:29:18.420Z,"Idaho-Montana border region",earthquake,0.76,1.1,0.199157243779737,11,reviewed,mb,mb
 2023-08-11T14:38:06.181Z,60.7984,-150.9483,38.8,1.1,ml,,,,0.61,ak,ak023a91ema2,2023-08-11T14:39:54.315Z,"19 km SW of Point Possession, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-08-11T14:24:08.922Z,59.9365,-152.1586,72,3.3,ml,,,,0.31,ak,ak023a91bmgs,2023-08-12T06:24:25.040Z,"23 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-11T14:22:50.106Z,36.8597,-116.195,7.7,0.3,ml,26,63.93,0.063,0.1285,nn,nn00864309,2023-08-11T16:23:35.079Z,"50 km E of Beatty, Nevada",earthquake,,0.9,0.31,10,reviewed,nn,nn
-2023-08-11T14:21:58.230Z,38.8388329,-122.8248367,1.9,1.08,md,21,67,0.008321,0.02,nc,nc73922991,2023-08-11T15:17:19.710Z,"9 km WNW of Cobb, CA",earthquake,0.22,0.42,0.12,22,automatic,nc,nc
-2023-08-11T14:21:38.177Z,60.1106,-153.1852,124.3,2.1,ml,,,,0.3,ak,ak023a91b1jc,2023-08-12T06:19:56.040Z,"62 km NE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-08-11T14:20:09.080Z,35.598,-120.7371667,6.65,1.22,md,27,56,0.05399,0.07,nc,nc73922986,2023-08-11T17:49:16.514Z,"6 km NNW of Templeton, CA",earthquake,0.2,0.66,0.172,14,reviewed,nc,nc
