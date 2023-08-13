@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-13T22:47:41.890Z,19.378833770752,-155.278167724609,1.61000001430511,2.71000004,md,31,82,,0.230000004,hv,hv73523932,2023-08-13T22:50:48.470Z,"Hawaii region, Hawaii",earthquake,0.37,0.330000013,1.80999994,19,automatic,hv,hv
 2023-08-13T22:30:12.200Z,38.824501,-122.8123322,1.48,0.92,md,19,43,0.002081,0.01,nc,nc73923816,2023-08-13T22:31:49.597Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.47,0.21,19,automatic,nc,nc
 2023-08-13T22:28:58.832Z,61.8355,-150.7069,45.1,1.6,ml,,,,0.3,ak,ak023ach6r0b,2023-08-13T22:30:30.524Z,"34 km NNW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-13T22:24:49.500Z,19.4039993286133,-155.275665283203,1.29999995231628,1.82,ml,16,45,,0.280000001,hv,hv73523857,2023-08-13T22:30:19.930Z,"6 km SW of Volcano, Hawaii",earthquake,0.37,0.400000006,0.19,5,automatic,hv,hv
@@ -214,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-12T23:46:23.186Z,63.0633,-148.1142,66.7,1.8,ml,,,,0.61,ak,ak023aaucm9a,2023-08-12T23:48:23.961Z,"55 km SE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-12T23:44:07.615Z,62.566,-149.9619,18.5,1.6,ml,,,,0.68,ak,ak023aauc5mg,2023-08-12T23:46:58.761Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-12T23:43:24.298Z,-30.0388,-176.3347,10,4.9,mb,33,77,1.583,0.88,us,us6000kzm7,2023-08-13T00:05:42.040Z,"Kermadec Islands region",earthquake,7.71,1.769,0.101,31,reviewed,us,us
-2023-08-12T22:52:30.396Z,37.0983,-116.218,3.6,0.9,ml,10,134.93,0.144,0.1028,nn,nn00864385,2023-08-12T22:54:31.935Z,"52 km ENE of Beatty, Nevada",earthquake,,0,0.62,7,automatic,nn,nn
