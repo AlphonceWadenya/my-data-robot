@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-15T15:10:22.369Z,58.0639,-155.7942,96,1.3,ml,,,,0.97,ak,ak023afnzggw,2023-08-15T15:13:57.854Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-08-15T15:00:44.889Z,49.3688,155.788,40.267,4.7,mb,48,112,3.932,0.89,us,us6000l04n,2023-08-15T15:39:17.040Z,"147 km S of Severo-Kuril’sk, Russia",earthquake,11.33,7.974,0.079,48,reviewed,us,us
 2023-08-15T14:53:11.140Z,19.3913326263428,-155.273330688477,1.35000002384186,2.55,ml,33,59,,0.189999998,hv,hv73527452,2023-08-15T14:58:41.400Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.25999999,2.13,21,automatic,hv,hv
-2023-08-15T14:44:24.220Z,37.8656667,-122.0476667,9.8,3.04,ml,120,43,0.04408,0.11,nc,nc73924411,2023-08-15T18:43:29.103Z,"2 km NW of Alamo, CA",earthquake,0.11,0.19,0.219,136,reviewed,nc,nc
+2023-08-15T14:44:24.220Z,37.8656667,-122.0476667,9.8,3.04,ml,120,43,0.04408,0.11,nc,nc73924411,2023-08-15T18:53:55.936Z,"2 km NW of Alamo, CA",earthquake,0.11,0.19,0.219,136,reviewed,nc,nc
 2023-08-15T14:41:13.510Z,33.7698333,-116.1485,2.74,1.01,ml,33,70,0.06649,0.18,ci,ci40537280,2023-08-15T16:35:38.872Z,"8 km NE of Indio, CA",earthquake,0.21,0.71,0.124,18,reviewed,ci,ci
 2023-08-15T14:41:11.000Z,33.7671667,-116.1411667,3.35,0.58,ml,11,104,0.1601,0.11,ci,ci37564924,2023-08-15T16:35:38.784Z,"9 km NE of Indio, CA",earthquake,0.36,1.56,0.024,2,reviewed,ci,ci
 2023-08-15T14:38:15.290Z,33.9683333,-116.8225,12.27,0.4,ml,17,117,0.06776,0.11,ci,ci40537272,2023-08-15T15:59:58.663Z,"6 km NNW of Cabazon, CA",earthquake,0.25,0.69,0.087,6,reviewed,ci,ci
@@ -142,7 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-15T07:44:55.820Z,19.3855,-155.280666666667,0.98,0.56,md,16,113,,0.06,hv,hv73526662,2023-08-15T08:07:52.750Z,"8 km SW of Volcano, Hawaii",earthquake,0.23,0.14,0.109904799778651,4,reviewed,hv,hv
 2023-08-15T07:44:37.670Z,19.3961666666667,-155.281,1.25,0.33,md,16,43,,0.1,hv,hv73526657,2023-08-15T10:50:32.790Z,"Island of Hawaii, Hawaii",earthquake,0.19,0.31,0.0731434125251538,3,reviewed,hv,hv
 2023-08-15T07:40:42.970Z,19.3935,-155.278833333333,1.2,0.54,md,17,50,,0.08,hv,hv73526642,2023-08-15T07:53:13.260Z,"Island of Hawaii, Hawaii",earthquake,0.15,0.2,0.0607037308917887,4,reviewed,hv,hv
-2023-08-15T07:40:00.500Z,38.834,-122.8065,2.52,1.31,md,49,33,0.01095,0.03,nc,nc73924306,2023-08-15T18:19:10.215Z,"7 km W of Cobb, CA",earthquake,0.11,0.2,0.132,42,reviewed,nc,nc
+2023-08-15T07:40:00.500Z,38.834,-122.8065,2.52,1.31,md,49,33,0.01095,0.03,nc,nc73924306,2023-08-15T18:53:18.407Z,"7 km W of Cobb, CA",earthquake,0.11,0.2,0.132,42,reviewed,nc,nc
 2023-08-15T07:29:48.509Z,60.9687,-150.8615,16.3,0.9,ml,,,,0.17,ak,ak023afjc4ua,2023-08-15T07:31:36.327Z,"10 km WNW of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-15T07:18:45.130Z,19.3843333333333,-155.2805,1.38,0.72,md,18,69,,0.09,hv,hv73526597,2023-08-15T07:35:12.710Z,"8 km SW of Volcano, Hawaii",earthquake,0.25,0.21,0.211136491700403,4,reviewed,hv,hv
 2023-08-15T07:15:38.354Z,57.2808,-156.8705,82.4,1.8,ml,,,,0.14,ak,ak023afj9417,2023-08-15T07:17:03.700Z,"40 km SE of Ugashik, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -268,4 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-14T19:03:52.120Z,34.9933333,-118.1951667,-0.93,1.3,ml,15,57,0.1175,0.25,ci,ci37528381,2023-08-14T22:54:22.192Z,"7 km SSW of Mojave, CA",quarry blast,0.61,31.61,0.097,17,reviewed,ci,ci
 2023-08-14T19:03:33.440Z,34.8528333,-118.7825,-1.17,1.3,ml,12,64,0.07608,0.16,ci,ci40536720,2023-08-14T22:37:34.948Z,"8 km E of Lebec, CA",quarry blast,0.42,31.61,0.073,11,reviewed,ci,ci
 2023-08-14T18:58:23.230Z,46.026,-122.878,-0.36,1.4000000000000001,ml,20,77,0.09315,0.24,uw,uw61941257,2023-08-15T03:47:22.760Z,"2 km SSE of Prescott, Oregon",explosion,0.6,31.61,0.1260445458194872,13,reviewed,uw,uw
-2023-08-14T18:47:58.582Z,31.6854167,-104.3839626,6.491479492,1.9,ml,34,65,0.0503566677,0.2,tx,tx2023pwnk,2023-08-15T09:48:01.789Z,"54 km S of Whites City, New Mexico",earthquake,0.8910985893999999,1.044070067,0.1,23,reviewed,tx,tx
