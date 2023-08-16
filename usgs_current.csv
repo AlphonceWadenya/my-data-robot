@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-16T05:22:48.899Z,36.69,-116.3324,10,0.3,ml,15,139.15,0.038,0.0942,nn,nn00864523,2023-08-16T05:24:55.102Z,"Nevada",earthquake,,0.8,0.24,11,automatic,nn,nn
 2023-08-16T04:59:13.247Z,36.6991,-116.3267,7.8,-0.1,ml,9,174.97,0.028,0.0608,nn,nn00864522,2023-08-16T05:01:14.555Z,"45 km ESE of Beatty, Nevada",earthquake,,1.1,0.45,6,automatic,nn,nn
 2023-08-16T04:44:58.140Z,38.822834,-122.809166,0.71,0.76,md,9,78,0.0009038,0.02,nc,nc73924606,2023-08-16T05:02:11.983Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.76,0.31,9,automatic,nc,nc
 2023-08-16T04:44:55.925Z,37.344,-117.6305,3.5,0.5,ml,10,185.81,0.273,0.2119,nn,nn00864520,2023-08-16T04:47:24.357Z,"California-Nevada border region",earthquake,,6.4,1.06,6,automatic,nn,nn
@@ -282,5 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-15T05:43:50.990Z,19.3898333333333,-155.283333333333,1.26,0.61,md,16,46,,0.08,hv,hv73526417,2023-08-15T05:58:44.350Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.17,0.072344495076849,2,reviewed,hv,hv
 2023-08-15T05:36:14.150Z,38.8268318,-122.8056641,2.79,0.78,md,11,73,0.004862,0.01,nc,nc73924281,2023-08-15T06:08:14.562Z,"7 km NW of The Geysers, CA",earthquake,0.4,1.35,0.35,13,automatic,nc,nc
 2023-08-15T05:33:39.730Z,19.3985,-155.284,1.22,0.68,md,16,39,,0.1,hv,hv73526407,2023-08-15T05:51:59.680Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.22,0.171832149650637,3,reviewed,hv,hv
-2023-08-15T05:27:24.020Z,19.3841667175293,-155.279327392578,-1.04999995231628,1.91,ml,7,114,,0.0500000007,hv,hv73526397,2023-08-15T05:33:00.510Z,"8 km SW of Volcano, Hawaii",earthquake,0.29,0.270000011,0.25,9,automatic,hv,hv
-2023-08-15T05:27:23.190Z,19.3945007324219,-155.27783203125,0.540000021457672,2.03,ml,17,91,,0.119999997,hv,hv73526392,2023-08-15T05:32:54.580Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.180000007,0.24,9,automatic,hv,hv
