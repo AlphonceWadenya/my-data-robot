@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-16T19:26:44.290Z,19.3958339691162,-155.279495239258,2.21000003814697,1.88999999,md,28,91,,0.379999995,hv,hv73530212,2023-08-16T19:29:51.840Z,"7 km SW of Volcano, Hawaii",earthquake,0.47,0.389999986,0.99000001,16,automatic,hv,hv
-2023-08-16T19:20:38.612Z,63.1842,-148.9202,98.2,1.6,ml,,,,1.44,ak,ak023ahdyqdx,2023-08-16T19:22:39.404Z,"23 km S of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-08-16T19:20:52.239Z,62.1715,-150.1019,14.3,1.2,ml,,,,0.57,ak,ak023ahdyqdx,2023-08-16T19:49:49.131Z,"Central Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-08-16T19:16:38.772Z,60.1239,-153.2614,124.1,1.9,ml,,,,0.3,ak,ak023ahdxw0h,2023-08-16T19:44:53.778Z,"59 km E of Port Alsworth, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2023-08-16T19:04:40.040Z,19.3931666666667,-155.276333333333,6.61,1.72,md,16,51,,0.16,hv,hv73530177,2023-08-16T19:46:26.150Z,"Island of Hawaii, Hawaii",earthquake,0.51,0.62,0.153262426604574,2,reviewed,hv,hv
 2023-08-16T19:00:23.930Z,35.2866667,-119.5366667,7.53,1.56,ml,11,174,0.1496,0.21,ci,ci40538312,2023-08-16T19:04:02.586Z,"14 km SSW of Buttonwillow, CA",earthquake,1.46,6.81,0.249,14,automatic,ci,ci
@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T16:40:56.360Z,19.4023342132568,-155.276840209961,1.07000005245209,1.79999995,md,13,76,,0.159999996,hv,hv73529952,2023-08-16T16:46:28.810Z,"6 km SW of Volcano, Hawaii",earthquake,0.36,0.25,0.779999971,12,automatic,hv,hv
 2023-08-16T16:40:33.649Z,63.107,-151.3602,0,1.1,ml,,,,1,ak,ak023ahcapic,2023-08-16T16:42:21.344Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-16T16:39:59.675Z,-24.3781,-176.0386,26.179,4.9,mb,30,111,3.285,1.06,us,us7000knt7,2023-08-16T18:53:25.040Z,"south of the Fiji Islands",earthquake,10.76,4.558,0.068,69,reviewed,us,us
-2023-08-16T16:38:48.909Z,62.8769,-150.1017,79.7,1.1,ml,,,,0.74,ak,ak023ahcab96,2023-08-16T16:40:56.646Z,"47 km N of Chase, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-08-16T16:38:48.909Z,62.8769,-150.1017,79.7,1.1,ml,,,,0.74,ak,ak023ahcab96,2023-08-16T16:40:56.646Z,"Central Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-08-16T16:23:22.550Z,19.2343330383301,-155.393173217773,30.9699993133545,1.83000004,md,30,168,,0.0900000036,hv,hv73529912,2023-08-16T16:26:31.510Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.62,0.689999998,1.36000001,8,automatic,hv,hv
 2023-08-16T16:16:17.940Z,36.0828333,-117.8925,3.8,0.37,ml,7,185,0.04617,0.04,ci,ci40538136,2023-08-16T17:51:12.166Z,"6 km NE of Coso Junction, CA",earthquake,0.24,0.3,0.071,1,reviewed,ci,ci
 2023-08-16T16:13:06.590Z,19.4018325805664,-155.274505615234,0.300000011920929,2.11,ml,17,37,,0.109999999,hv,hv73529882,2023-08-16T16:18:36.920Z,"6 km SW of Volcano, Hawaii",earthquake,0.14,0.239999995,0.22,8,automatic,hv,hv
@@ -202,6 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-15T20:26:30.062Z,59.3794,-153.8307,102.3,1.7,ml,,,,0.15,ak,ak023afr234u,2023-08-15T20:28:02.099Z,"42 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-15T20:23:38.820Z,33.7176667,-118.7276667,2.88,2.32,ml,34,104,0.2709,0.16,ci,ci40537624,2023-08-15T22:45:51.892Z,"32 km W of Rancho Palos Verdes, CA",earthquake,0.23,0.84,0.181,24,reviewed,ci,ci
 2023-08-15T19:54:36.560Z,33.8873333,-117.4926667,-0.49,0.9,ml,19,52,0.06547,0.31,ci,ci40537576,2023-08-15T20:23:14.614Z,"3 km ENE of Home Gardens, CA",quarry blast,0.57,31.61,0.12,12,reviewed,ci,ci
-2023-08-15T19:51:21.030Z,46.85883333333334,-123.23566666666666,-0.38,1.6500000000000001,ml,14,115,0.0267,0.49,uw,uw61941472,2023-08-16T02:44:24.870Z,"2 km N of Oakville, Washington",explosion,0.93,31.61,0.250336382963137,10,reviewed,uw,uw
-2023-08-15T19:51:19.270Z,35.0586667,-118.3401667,-0.93,1.13,ml,23,61,0.06792,0.14,ci,ci40537568,2023-08-15T20:24:22.711Z,"13 km SE of Tehachapi, CA",quarry blast,0.33,31.61,0.119,11,reviewed,ci,ci
-2023-08-15T19:49:24.140Z,36.0133333,-120.5725,3.79,2.22,md,54,46,0.02936,0.07,nc,nc73924496,2023-08-16T01:04:14.534Z,"18 km NW of Parkfield, CA",earthquake,0.16,0.23,0.101,45,reviewed,nc,nc
