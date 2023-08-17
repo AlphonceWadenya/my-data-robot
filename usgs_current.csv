@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-17T07:16:09.918Z,36.5863,-115.775,1.6,0.8,ml,8,337.43,0.168,0.0988,nn,nn00864576,2023-08-17T07:18:49.925Z,"Nevada",earthquake,,31.7,0.27,6,automatic,nn,nn
 2023-08-17T06:45:06.950Z,58.1933,-155.1135,1.1,1.2,ml,,,,0.42,ak,ak023aitwqh3,2023-08-17T06:46:54.816Z,"79 km NNW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-08-17T06:22:18.623Z,36.6415,-116.2601,4.3,0.2,ml,8,205.14,0.063,0.1541,nn,nn00864574,2023-08-17T06:24:09.729Z,"California-Nevada border region",earthquake,,6.1,0.34,6,automatic,nn,nn
 2023-08-17T06:19:39.970Z,35.4976667,-118.3956667,7.95,1.43,ml,22,65,0.1767,0.11,ci,ci40538624,2023-08-17T06:30:11.690Z,"13 km SE of Bodfish, CA",earthquake,0.17,1,0.245,15,automatic,ci,ci
@@ -170,9 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T07:34:35.699Z,49.2796,156.0542,33.703,4.7,mb,53,165,3.971,1.03,us,us7000knm1,2023-08-16T07:55:59.040Z,"155 km S of Severo-Kuril’sk, Russia",earthquake,10.97,6.746,0.065,71,reviewed,us,us
 2023-08-16T07:34:28.000Z,38.8400002,-122.8089981,1.85,0.67,md,7,87,0.01465,0.01,nc,nc73924661,2023-08-16T07:54:13.050Z,"8 km WNW of Cobb, CA",earthquake,0.63,1.38,0.27,10,automatic,nc,nc
 2023-08-16T07:25:31.370Z,35.5058333,-118.3936667,7.51,1.05,ml,15,102,0.1698,0.15,ci,ci40537888,2023-08-16T12:46:24.063Z,"13 km SE of Bodfish, CA",earthquake,0.33,2.31,0.114,11,reviewed,ci,ci
-2023-08-16T07:22:48.620Z,19.4015,-155.271333333333,0.39,0.5,md,16,42,,0.09,hv,hv73529027,2023-08-16T08:30:51.440Z,"6 km SW of Volcano, Hawaii",earthquake,0.12,0.23,0.0854862379418653,4,reviewed,hv,hv
-2023-08-16T07:22:34.920Z,19.22483253479,-155.373504638672,29.9799995422363,1.76,ml,10,221,,0.0799999982,hv,hv73529022,2023-08-16T07:28:05.920Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.88,1.11000001,1.03,3,automatic,hv,hv
-2023-08-16T07:22:34.900Z,19.222,-155.371166666667,31.29,1.48,md,18,199,,0.1,hv,hv73529032,2023-08-16T09:16:33.240Z,"11 km E of Pāhala, Hawaii",earthquake,0.59,0.76,0.0202299170557427,9,reviewed,hv,hv
-2023-08-16T07:22:11.403Z,39.7828,-119.852,13.7,0.6,ml,8,87.93,0.163,0.1192,nn,nn00864559,2023-08-16T21:17:21.906Z,"15 km NE of Cold Springs, Nevada",earthquake,,3.2,0.47,6,reviewed,nn,nn
-2023-08-16T07:20:42.720Z,38.8431664,-122.8306656,1.93,0.7,md,10,89,0.005922,0.03,nc,nc73924656,2023-08-16T07:40:11.966Z,"10 km WNW of Cobb, CA",earthquake,0.33,0.55,0.41,13,automatic,nc,nc
-2023-08-16T07:19:12.445Z,39.6741,-120.3464,0.8,0,ml,3,221.41,0.118,0.1772,nn,nn00864558,2023-08-16T21:07:58.425Z,"Northern California",earthquake,,159,0.22,2,reviewed,nn,nn
