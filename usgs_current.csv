@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-18T20:36:36.970Z,35.5853348,-117.3768311,2.99,2.98,ml,48,64,0.06108,0.18,ci,ci39644162,2023-08-18T20:38:48.349Z,"20 km S of Trona, CA",earthquake,0.26,0.34,0.273,24,automatic,ci,ci
+2023-08-18T20:40:03.380Z,19.2593326568604,-155.391998291016,32.1800003051758,2.28999996,md,44,130,,0.109999999,hv,hv73532837,2023-08-18T20:43:23.270Z,"11 km NE of Pāhala, Hawaii",earthquake,0.54,0.660000026,1.63,31,automatic,hv,hv
+2023-08-18T20:36:36.970Z,35.5853348,-117.3768311,2.99,2.98,ml,48,64,0.06108,0.18,ci,ci39644162,2023-08-18T20:44:17.449Z,"20 km S of Trona, CA",earthquake,0.26,0.34,0.273,24,automatic,ci,ci
 2023-08-18T20:28:42.960Z,33.9355,-116.725,14.48,0.79,ml,22,65,0.1181,0.19,ci,ci39644154,2023-08-18T20:32:13.131Z,"6 km ENE of Cabazon, CA",earthquake,0.34,0.82,0.135,18,automatic,ci,ci
 2023-08-18T20:20:54.881Z,63.151,-144.441,0,1.2,ml,,,,0.51,ak,ak023akpmw8g,2023-08-18T20:22:53.097Z,"42 km NW of Mentasta Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-18T20:12:01.928Z,56.9345,-156.1628,0,1.9,ml,,,,0.56,ak,ak023akpl2f4,2023-08-18T20:14:02.049Z,"98 km SE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -111,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T09:03:38.390Z,36.934166,-121.3499985,6.99,1.63,md,16,93,,0.05,nc,nc73925591,2023-08-18T10:41:13.702Z,"11 km NNE of Hollister, CA",earthquake,0.34,1.06,0.17,15,automatic,nc,nc
 2023-08-18T09:01:12.710Z,37.1311667,-121.5468333,9.87,0.56,md,8,81,0.07132,0.12,nc,nc73925596,2023-08-18T17:38:27.117Z,"8 km NE of San Martin, CA",earthquake,0.55,1.31,0.163,9,reviewed,nc,nc
 2023-08-18T08:39:24.720Z,47.609,-121.79433333333333,17.33,1.4000000000000001,ml,23,58,0.1083,0.13,uw,uw61942087,2023-08-18T18:34:55.390Z,"Washington",earthquake,0.26,0.4,0.11466295242097013,19,reviewed,uw,uw
-2023-08-18T08:38:35.630Z,33.2901667,-116.3001667,9.82,0.94,ml,23,66,0.1004,0.21,ci,ci39643730,2023-08-18T08:42:14.217Z,"8 km ENE of Borrego Springs, CA",earthquake,0.37,0.93,0.171,18,automatic,ci,ci
+2023-08-18T08:38:35.480Z,33.2788333,-116.3123333,12.04,0.96,ml,33,97,0.06625,0.18,ci,ci39643730,2023-08-18T20:44:40.384Z,"6 km ENE of Borrego Springs, CA",earthquake,0.3,0.5,0.155,22,reviewed,ci,ci
 2023-08-18T08:24:20.830Z,38.7946663,-122.7371674,1.84,0.25,md,7,100,0.01142,0.01,nc,nc73925586,2023-08-18T08:55:11.147Z,"3 km NE of The Geysers, CA",earthquake,0.31,1.1,0.03,6,automatic,nc,nc
 2023-08-18T08:20:00.830Z,37.4631667,-118.7758333,11.26,0.84,md,20,182,0.1335,0.03,nc,nc73925581,2023-08-18T17:35:26.788Z,"14 km SW of Toms Place, CA",earthquake,0.58,1.25,0.14,18,reviewed,nc,nc
 2023-08-18T08:17:57.637Z,52.2097,151.1431,594.37,4.5,mb,130,104,4.092,0.63,us,us7000kp6r,2023-08-18T08:31:21.040Z,"Sea of Okhotsk",earthquake,10.79,8.297,0.027,390,reviewed,us,us
@@ -174,7 +175,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T03:44:17.369Z,51.6268,-178.4514,13.4,1.4,ml,,,,0.4,ak,ak023akfnkgm,2023-08-18T14:26:39.307Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,25.4,,,reviewed,ak,ak
 2023-08-18T03:41:50.470Z,36.8641667,-121.5926667,5.69,1.15,md,22,96,0.02026,0.09,nc,nc73925476,2023-08-18T19:21:14.667Z,"5 km ESE of Aromas, CA",earthquake,0.29,0.41,0.186,23,reviewed,nc,nc
 2023-08-18T03:37:40.760Z,34.1415,-117.4103333,6.47,0.79,ml,22,143,0.04802,0.14,ci,ci39643386,2023-08-18T17:46:57.802Z,"5 km NW of Rialto, CA",earthquake,0.31,0.5,0.191,10,reviewed,ci,ci
-2023-08-18T03:36:12.610Z,36.4711667,-121.0483333,7.42,1.23,md,35,114,0.01766,0.1,nc,nc73925471,2023-08-18T20:17:17.972Z,"11 km SE of Pinnacles, CA",earthquake,0.25,0.38,0.228,19,reviewed,nc,nc
+2023-08-18T03:36:12.610Z,36.4711667,-121.0483333,7.42,1.23,md,35,114,0.01766,0.1,nc,nc73925471,2023-08-18T20:43:14.146Z,"11 km SE of Pinnacles, CA",earthquake,0.25,0.38,0.228,19,reviewed,nc,nc
 2023-08-18T03:26:01.330Z,36.0058333,-120.5703333,0.18,0.62,md,12,112,0.02757,0.09,nc,nc73925466,2023-08-18T17:32:26.063Z,"17 km NW of Parkfield, CA",earthquake,0.32,0.48,0.354,3,reviewed,nc,nc
 2023-08-18T03:22:00.212Z,50.9944,178.4198,12.8,2.9,ml,,,,0.71,ak,ak023akfiuhd,2023-08-18T14:23:35.821Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2023-08-18T03:20:13.464Z,64.497,-147.8708,0,1.2,ml,,,,0.82,ak,ak023akfifr6,2023-08-18T03:22:25.878Z,"35 km S of South Van Horn, Alaska",earthquake,,0.8,,,automatic,ak,ak
