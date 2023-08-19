@@ -234,5 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T06:40:54.147Z,9.2651,93.9048,10,4.7,mb,33,136,6.603,0.51,us,us7000kp6j,2023-08-18T07:48:15.040Z,"294 km SSE of Port Blair, India",earthquake,10.97,1.927,0.112,24,reviewed,us,us
 2023-08-18T06:37:35.756Z,9.5343,93.7101,10,4.6,mb,49,70,5.348,0.6,us,us7000kp6n,2023-08-18T08:22:22.040Z,"258 km SSE of Port Blair, India",earthquake,10.29,1.877,0.091,36,reviewed,us,us
 2023-08-18T06:35:02.440Z,34.0606667,-117.138,11.23,1.23,ml,58,43,0.03291,0.12,ci,ci39643594,2023-08-18T20:30:12.400Z,"1 km SSW of Mentone, CA",earthquake,0.12,0.2,0.232,32,reviewed,ci,ci
-2023-08-18T06:26:45.340Z,32.4008333,-115.1158333,8.01,2.08,ml,17,75,0.04748,0.19,ci,ci39643586,2023-08-18T20:17:23.216Z,"9 km NE of Delta, B.C., MX",earthquake,0.38,1.11,0.267,4,reviewed,ci,ci
-2023-08-18T06:25:17.380Z,32.3968333,-115.1353333,7.96,2.44,ml,20,72,0.05576,0.27,ci,ci39643578,2023-08-18T18:45:27.667Z,"7 km NE of Delta, B.C., MX",earthquake,0.57,0.92,0.163,27,reviewed,ci,ci
