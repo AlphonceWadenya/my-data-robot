@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-19T02:17:53.100Z,31.6605,-104.3954,7.722,3.7,ml,27,115,0.09,0.35,us,us7000kpe7,2023-08-19T02:25:02.040Z,"57 km S of Whites City, New Mexico",earthquake,2.69,6.554,0.088,67,reviewed,us,us
+2023-08-19T02:26:04.254Z,61.8516,-149.8519,32.3,2,ml,,,,0.47,ak,ak023am2hm89,2023-08-19T02:27:47.006Z,"15 km NE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-08-19T02:17:53.100Z,31.6605,-104.3954,7.722,3.7,ml,27,115,0.09,0.35,us,us7000kpe7,2023-08-19T02:28:40.537Z,"57 km S of Whites City, New Mexico",earthquake,2.69,6.554,0.088,67,reviewed,us,us
 2023-08-19T02:17:05.670Z,19.238000869751,-155.401504516602,30.4400005340576,2.05,ml,39,153,,0.109999999,hv,hv73533127,2023-08-19T02:22:37.510Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.52,0.730000019,3.37,7,automatic,hv,hv
 2023-08-19T02:01:34.464Z,63.1816,-150.4833,110.8,1.6,ml,,,,0.44,ak,ak023am2cbnq,2023-08-19T02:03:55.350Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-19T01:56:35.900Z,40.2433319,-121.1429977,-0.94,2.4,md,10,107,0.2304,0.07,nc,nc73925821,2023-08-19T02:18:10.052Z,"4 km NNE of Prattville, CA",earthquake,0.46,9.55,0.15,12,automatic,nc,nc
@@ -87,14 +88,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T16:35:05.540Z,33.9641667,-116.7866667,6.72,0.83,ml,17,101,0.07294,0.09,ci,ci39643970,2023-08-18T23:13:05.979Z,"5 km N of Cabazon, CA",earthquake,0.29,1.04,0.164,9,reviewed,ci,ci
 2023-08-18T16:29:12.461Z,62.4477,-149.3937,13.8,1.2,ml,,,,0.33,ak,ak023aknazzi,2023-08-18T16:31:01.409Z,"36 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-18T16:25:38.060Z,36.46983333,-96.78533333,0,1.32,ml,31,137,0.03779258381,0.64,ok,ok2023qdqs,2023-08-18T16:37:45.649Z,"6 km SW of Ralston, Oklahoma",quarry blast,,0.8,0.27,13,reviewed,ok,ok
-2023-08-18T16:17:46.666Z,61.2936,-152.5074,5.8,1.1,ml,,,,0.15,ak,ak023akn8i16,2023-08-18T16:19:58.564Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-08-18T16:17:46.666Z,61.2936,-152.5074,5.8,1.1,ml,,,,0.15,ak,ak023akn8i16,2023-08-19T02:28:52.800Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-18T16:13:56.081Z,61.4979,-151.9693,7,1.4,ml,,,,0.48,ak,ak023akn7nw8,2023-08-19T02:23:44.760Z,"61 km NW of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-18T16:13:48.800Z,35.6685,-117.5321667,11.74,0.88,ml,16,103,0.08838,0.15,ci,ci39643938,2023-08-18T23:08:06.217Z,"14 km ENE of Ridgecrest, CA",earthquake,0.42,0.97,0.135,8,reviewed,ci,ci
 2023-08-18T16:10:03.542Z,27.8841,53.9515,10,4.8,mb,57,63,3.556,0.8,us,us7000kp9x,2023-08-18T16:44:49.040Z,"29 km NW of Gerāsh, Iran",earthquake,9.43,1.879,0.052,116,reviewed,us,us
 2023-08-18T16:09:11.598Z,61.3596,-150.9277,61,1.7,ml,,,,0.45,ak,ak023akn6plj,2023-08-18T16:11:17.998Z,"25 km NNE of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-18T15:56:03.780Z,33.5968333,-116.6975,16.3,0.47,ml,15,84,0.04568,0.08,ci,ci39643922,2023-08-18T23:04:59.279Z,"5 km NNW of Anza, CA",earthquake,0.3,0.42,0.07,8,reviewed,ci,ci
 2023-08-18T15:35:14.483Z,52.5978,-170.9124,10,3.7,ml,20,185,0.611,0.82,us,us7000kp9v,2023-08-18T16:48:04.040Z,"143 km WSW of Nikolski, Alaska",earthquake,6.3,1.975,0.097,20,reviewed,us,us
-2023-08-18T15:30:27.810Z,44.8771666666667,-111.448166666667,5.38,0.83,ml,7,147,0.04826,0.16,mb,mb90024673,2023-08-18T16:53:47.790Z,"23 km WNW of Hebgen Lake Estates, Montana",earthquake,1.56,2.31,0.171832664992697,5,reviewed,mb,mb
+2023-08-18T15:30:27.810Z,44.8771666666667,-111.448166666667,5.38,0.83,ml,7,147,0.04826,0.16,mb,mb90024673,2023-08-18T16:53:47.790Z,"Idaho-Montana border region",earthquake,1.56,2.31,0.171832664992697,5,reviewed,mb,mb
 2023-08-18T15:23:46.191Z,58.8829,-154.4249,121.1,1.8,ml,,,,0.55,ak,ak023akmocqb,2023-08-18T15:26:39.954Z,"65 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-18T15:20:33.480Z,60.0441666666667,-153.081833333333,-2.17,-0.64,ml,5,97,,0.07,av,av92007611,2023-08-19T02:11:35.850Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.22,2.53,0.463995184411659,5,reviewed,av,av
 2023-08-18T15:18:01.628Z,62.644,-149.469,59.2,1.4,ml,,,,0.88,ak,ak023akmn6o2,2023-08-18T15:20:02.677Z,"39 km ENE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
