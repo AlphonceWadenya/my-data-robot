@@ -188,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-19T06:48:47.416Z,38.8737,-119.6688,0,0.3,ml,4,145.8,0.051,0.1249,nn,nn00864679,2023-08-20T02:04:09.649Z,"California-Nevada border region",earthquake,,0,0.04,2,reviewed,nn,nn
 2023-08-19T06:42:55.326Z,62.1742,-148.49,38.9,1.1,ml,,,,0.67,ak,ak023am4yw1o,2023-08-19T06:45:59.978Z,"42 km N of Chickaloon, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-08-19T06:34:36.355Z,8.9393,126.2798,70.595,4.7,mb,78,120,1.983,0.72,us,us7000kpfc,2023-08-19T06:53:48.040Z,"1 km NW of Bacolod, Philippines",earthquake,10.45,7.393,0.065,72,reviewed,us,us
-2023-08-19T06:32:40.249Z,58.1938,-155.5445,16,0.4,ml,,,,0.6,ak,ak023am4wpq0,2023-08-19T06:34:20.115Z,"Alaska Peninsula",earthquake,,0.9,,,automatic,ak,ak
