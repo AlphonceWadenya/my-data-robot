@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-20T12:59:45.982Z,61.4981,-149.9758,33.5,1.1,ml,,,,0.26,ak,ak023anw6gme,2023-08-20T13:01:16.178Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-20T12:47:53.422Z,61.13,-145.9497,22.9,1.4,ml,,,,0.74,ak,ak023anw3wlq,2023-08-20T12:50:23.764Z,"21 km E of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-20T12:35:00.620Z,33.344,-116.9295,14.11,0.97,ml,27,42,0.05677,0.2,ci,ci39645274,2023-08-20T12:38:40.460Z,"6 km WSW of Palomar Observatory, CA",earthquake,0.3,0.73,0.142,23,automatic,ci,ci
 2023-08-20T12:17:37.217Z,31.62252643,-104.5071544,7.10847168,2.9,ml,12,143,0.04647258769,0.1,tx,tx2023qgzo,2023-08-20T12:44:21.930Z,"62 km SSW of Whites City, New Mexico",earthquake,1.055535196,0.6292069733999999,0.1,10,reviewed,tx,tx
