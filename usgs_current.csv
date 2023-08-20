@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-20T07:21:16.430Z,34.3434982,-116.8690033,0.92,3.31,ml,129,22,0.03467,0.18,ci,ci39645178,2023-08-20T07:27:04.802Z,"9 km NNW of Big Bear City, CA",earthquake,0.15,0.38,0.213,19,automatic,ci,ci
+2023-08-20T07:21:16.430Z,34.3434982,-116.8690033,0.92,3.31,ml,129,22,0.03467,0.18,ci,ci39645178,2023-08-20T07:32:20.190Z,"9 km NNW of Big Bear City, CA",earthquake,0.15,0.38,0.213,19,automatic,ci,ci
 2023-08-20T07:20:10.094Z,63.1234,-151.4207,10.4,0.9,ml,,,,0.78,ak,ak023ansyuwy,2023-08-20T07:22:57.117Z,"48 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-20T07:17:01.932Z,62.3105,-150.0638,18.2,1.1,ml,,,,0.23,ak,ak023ansy74h,2023-08-20T07:18:17.197Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-20T07:15:18.130Z,19.1518325805664,-155.363159179688,29.25,2.88,ml,49,182,,0.119999997,hv,hv73534367,2023-08-20T07:21:10.946Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.56,0.75,3.05,29,automatic,hv,hv
