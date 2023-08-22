@@ -249,6 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-21T02:51:14.020Z,34.4283333,-119.1915,0.78,2.1,ml,27,61,0.04545,0.26,ci,ci39645962,2023-08-21T02:55:00.183Z,"5 km ESE of Ojai, CA",earthquake,0.34,31.61,0.122,25,automatic,ci,ci
 2023-08-21T02:39:02.710Z,38.8274994,-122.8118362,3.05,0.32,md,7,204,0.004323,0.02,nc,nc73926591,2023-08-21T02:56:11.233Z,"7 km NW of The Geysers, CA",earthquake,1.44,1.69,0.11,8,automatic,nc,nc
 2023-08-21T02:36:04.623Z,58.1822,-155.3289,1.1,0.1,ml,,,,1.49,ak,ak023apdmgem,2023-08-21T02:37:52.970Z,"Alaska Peninsula",earthquake,,1.2,,,automatic,ak,ak
-2023-08-21T02:30:22.330Z,38.5448333,-119.5455,1.7,3.13,ml,20,83,,0.06,nc,nc73926586,2023-08-21T21:48:25.040Z,"7 km WNW of Walker, CA",earthquake,0.23,0.5,0.212,40,reviewed,nc,nc
-2023-08-21T02:30:07.285Z,62.6148,-148.2917,49.7,1.9,ml,,,,0.42,ak,ak023apdl6bc,2023-08-21T02:31:42.780Z,"91 km N of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-08-21T02:30:02.630Z,34.4303333,-119.1795,0.79,1.47,ml,18,69,0.03533,0.27,ci,ci39645938,2023-08-21T02:33:35.069Z,"6 km ESE of Ojai, CA",earthquake,0.5,31.61,0.21,18,automatic,ci,ci
