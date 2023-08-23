@@ -348,4 +348,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T23:48:40.340Z,19.2006664276123,-155.373504638672,30.7199993133545,2.08,ml,37,175,,0.100000001,hv,hv73538307,2023-08-22T23:54:12.130Z,"11 km E of Pāhala, Hawaii",earthquake,0.62,0.889999986,0.84,7,automatic,hv,hv
 2023-08-22T23:46:53.280Z,58.1905,-155.3938,1.1,1.2,ml,,,,0.35,ak,ak023ardq5io,2023-08-22T23:47:41.735Z,"88 km NW of Karluk, Alaska",earthquake,,3.4,,,automatic,ak,ak
 2023-08-22T23:44:12.250Z,46.86666666666667,-121.8845,7.83,2.73,ml,71,45,0.04714,0.14,uw,uw61943417,2023-08-23T16:10:20.605Z,"16 km NE of Ashford, Washington",earthquake,0.13,0.11,0.1866854478946034,52,reviewed,uw,uw
-2023-08-22T23:37:30.310Z,33.9291667,-117.2003333,14.24,0.74,ml,18,115,0.02924,0.23,ci,ci39648010,2023-08-22T23:46:40.701Z,"3 km E of Moreno Valley, CA",earthquake,0.54,0.85,0.182,14,automatic,ci,ci
