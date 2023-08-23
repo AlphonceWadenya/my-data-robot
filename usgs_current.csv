@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-23T22:25:48.450Z,33.3041649,-116.1669998,3.91,1.19,ml,39,55,0.1329,0.24,ci,ci39648946,2023-08-23T22:27:53.341Z,"18 km N of Ocotillo Wells, CA",earthquake,0.27,1.28,0.182,5,automatic,ci,ci
+2023-08-23T22:25:48.330Z,33.3098333,-116.1645,2.93,1.28,ml,38,56,0.1388,0.25,ci,ci39648946,2023-08-23T22:29:17.029Z,"18 km SSW of Oasis, CA",earthquake,0.28,1.06,0.101,26,automatic,ci,ci
 2023-08-23T22:12:53.560Z,33.306,-116.163,3.77,0.67,ml,14,69,0.1363,0.3,ci,ci39648922,2023-08-23T22:16:25.653Z,"18 km N of Ocotillo Wells, CA",earthquake,0.53,2.15,0.102,11,automatic,ci,ci
 2023-08-23T22:06:08.330Z,37.3393326,-121.6556702,13.59,1.19,md,6,88,0.01069,0.15,nc,nc73927606,2023-08-23T22:23:14.147Z,"16 km E of Alum Rock, CA",earthquake,0.81,1.88,0.32,7,automatic,nc,nc
 2023-08-23T22:02:10.630Z,33.8385,-117.4976667,1.94,1.57,ml,43,41,0.04861,0.21,ci,ci39648906,2023-08-23T22:13:28.224Z,"5 km SSE of Home Gardens, CA",quarry blast,0.28,0.45,0.173,30,automatic,ci,ci
