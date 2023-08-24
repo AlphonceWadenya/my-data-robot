@@ -361,5 +361,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T04:53:20.990Z,19.1474990844727,-155.496170043945,29.7600002288818,2.23,ml,24,199,,0.119999997,hv,hv73538627,2023-08-23T04:58:52.020Z,"6 km SSW of Pāhala, Hawaii",earthquake,1.08,1.15999997,3.41,15,automatic,hv,hv
 2023-08-23T04:50:19.190Z,44.6111666666667,-112.599666666667,8.42,0.87,ml,7,96,0.03223,0.09,mb,mb90025388,2023-08-23T16:53:48.400Z,"2 km SSW of Lima, Montana",earthquake,0.33,0.54,0.175789769957953,6,reviewed,mb,mb
 2023-08-23T04:48:43.320Z,56.1106,-158.3277,42.7,1.9,ml,,,,1.12,ak,ak023aspyo3o,2023-08-23T04:51:26.378Z,"Alaska Peninsula",earthquake,,1.9,,,automatic,ak,ak
-2023-08-23T04:45:50.481Z,61.7697,-142.8726,78.3,1.5,ml,,,,0.52,ak,ak023aspy1l4,2023-08-23T04:47:50.419Z,"37 km N of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-08-23T04:42:09.894Z,61.2971,-152.6136,0.1,1.9,ml,,,,1.13,ak,ak023aspxb90,2023-08-23T04:44:01.303Z,"83 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
