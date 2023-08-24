@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-24T13:42:32.520Z,38.0251656,-121.8659973,6.16,1.54,md,8,132,0.1185,0.33,nc,nc73927976,2023-08-24T13:44:07.089Z,"2 km E of Pittsburg, CA",earthquake,1.52,21.01,0.05,5,automatic,nc,nc
 2023-08-24T13:35:46.030Z,33.5926667,-116.6101667,13.26,0.66,ml,19,94,0.01304,0.15,ci,ci39649442,2023-08-24T13:39:17.966Z,"7 km NE of Anza, CA",earthquake,0.41,0.5,0.119,12,automatic,ci,ci
 2023-08-24T13:29:25.800Z,19.3645,-155.299,1.83,0.51,md,17,101,,0.09,hv,hv73542027,2023-08-24T13:41:30.190Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.42,0.144093757308788,4,reviewed,hv,hv
 2023-08-24T13:17:16.266Z,62.2229,-151.0829,70.3,1.6,ml,,,,0.57,ak,ak023auio7u2,2023-08-24T13:19:32.481Z,"30 km NNE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
