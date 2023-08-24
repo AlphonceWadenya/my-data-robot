@@ -362,5 +362,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T06:43:14.660Z,12.3751,144.1263,34.14,4.7,mb,42,69,1.407,0.65,us,us7000kq9v,2023-08-23T08:44:23.040Z,"114 km SSW of Merizo Village, Guam",earthquake,11.04,5.821,0.059,88,reviewed,us,us
 2023-08-23T06:39:37.584Z,60.6869,-151.5979,61.9,1.2,ml,,,,0.43,ak,ak023asr3li6,2023-08-23T06:40:59.898Z,"16 km W of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-23T06:38:02.470Z,19.4053333333333,-155.2885,0.91,0.79,md,21,38,,0.1,hv,hv73538827,2023-08-23T08:22:38.470Z,"7 km SW of Volcano, Hawaii",earthquake,0.15,0.16,0.00624442506132439,3,reviewed,hv,hv
-2023-08-23T06:34:22.010Z,35.7151667,-117.5746667,7.54,0.93,ml,15,121,0.1326,0.16,ci,ci39648106,2023-08-23T06:37:49.413Z,"14 km NE of Ridgecrest, CA",earthquake,0.43,1.79,0.085,7,automatic,ci,ci
-2023-08-23T06:32:08.520Z,44.6671666666667,-114.382666666667,10.22,3.19,ml,60,66,0.5479,0.23,mb,mb90025233,2023-08-23T17:42:08.840Z,"21 km NNW of Challis, Idaho",earthquake,0.4,0.81,0.334337283684548,46,reviewed,mb,mb
