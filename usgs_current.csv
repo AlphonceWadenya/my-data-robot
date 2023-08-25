@@ -206,7 +206,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-25T08:39:29.930Z,51.5905,-178.425,4.83,1.81,ml,16,186,,0.21,av,av92020391,2023-08-25T21:09:59.740Z,"127 km WSW of Adak, Alaska",earthquake,0.69,1.6,0.303285475746691,16,reviewed,av,av
 2023-08-25T08:32:38.160Z,19.4473333333333,-155.593166666667,41.48,2.06,ml,38,62,,0.2,hv,hv73543512,2023-08-25T16:06:52.020Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.59,0.67,0.14050959952755,12,reviewed,hv,hv
 2023-08-25T08:31:10.283Z,40.0617,-121.0128,4.7,0.7,ml,4,314.06,0.538,0.113,nn,nn00865036,2023-08-25T20:35:44.654Z,"3 km NNW of Paxton, California",earthquake,,7.2,0.29,3,reviewed,nn,nn
-2023-08-25T08:24:59.910Z,34.4285,-119.1971667,3.32,1.03,ml,10,147,0.05003,0.29,ci,ci39650370,2023-08-25T08:28:35.244Z,"5 km ESE of Ojai, CA",earthquake,0.56,0.58,0.157,7,automatic,ci,ci
+2023-08-25T08:24:59.930Z,34.4276667,-119.1965,3.07,1,ml,12,139,0.04963,0.2,ci,ci39650370,2023-08-25T23:34:34.857Z,"5 km ESE of Ojai, CA",earthquake,0.31,0.31,0.117,6,reviewed,ci,ci
 2023-08-25T08:24:04.179Z,20.3241,-109.1215,10,4.4,mb,126,201,6.568,1.14,us,us7000kqwh,2023-08-25T13:05:59.040Z,"Revilla Gigedo Islands region",earthquake,10.76,1.962,0.039,190,reviewed,us,us
 2023-08-25T07:55:15.527Z,39.9599,-120.5693,9.2,1.2,ml,8,238.84,0.186,0.1622,nn,nn00865028,2023-08-25T16:41:57.574Z,"12 km NW of Lake Davis, California",earthquake,,4.1,0.28,5,reviewed,nn,nn
 2023-08-25T07:48:53.193Z,39.5862,-119.9943,2.4,0.5,ml,3,264.97,0.033,0.0615,nn,nn00865035,2023-08-25T20:29:32.193Z,"7 km NNE of Verdi, California",earthquake,,5.9,0,1,reviewed,nn,nn
@@ -319,6 +319,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-25T00:05:23.300Z,38.8383331,-122.836998,1.97,0.76,md,10,119,0.01527,0.02,nc,nc73928186,2023-08-25T00:31:13.434Z,"10 km NW of The Geysers, CA",earthquake,0.36,0.93,0.22,9,automatic,nc,nc
 2023-08-24T23:56:46.400Z,19.3904991149902,-155.279006958008,0.589999973773956,1.9,ml,14,99,,0.100000001,hv,hv73542857,2023-08-25T00:02:17.970Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.140000001,0.59,9,automatic,hv,hv
 2023-08-24T23:55:16.560Z,38.8626667,-122.8618333,1.39,0.39,md,18,172,0.01158,0.02,nc,nc73928181,2023-08-25T15:27:59.953Z,"13 km WNW of Cobb, CA",earthquake,0.24,0.33,0.274,16,reviewed,nc,nc
+2023-08-24T23:50:42.840Z,37.058,-121.5091667,8.82,0.79,md,17,69,0.06144,0.08,nc,nc73928176,2023-08-25T23:34:51.369Z,"8 km NE of Gilroy, CA",earthquake,0.46,1.08,0.14,15,reviewed,nc,nc
 2023-08-24T23:43:27.584Z,38.5941,-118.5151,2,1.1,ml,9,111.03,0.343,0.1686,nn,nn00864995,2023-08-25T00:21:58.287Z,"12 km NE of Hawthorne, Nevada",earthquake,,2.7,0.25,5,reviewed,nn,nn
 2023-08-24T23:41:07.230Z,19.916,-155.525666666667,34.18,2.66,ml,47,126,,0.13,hv,hv73542842,2023-08-25T02:54:17.015Z,"19 km SSW of Honoka‘a, Hawaii",earthquake,0.38,0.67,0.181477677744913,24,reviewed,hv,hv
 2023-08-24T23:38:26.250Z,38.8370018,-122.8324966,0.96,0.69,md,8,194,0.01401,0.01,nc,nc73928171,2023-08-24T23:59:18.231Z,"9 km NW of The Geysers, CA",earthquake,0.58,1.27,0.5,8,automatic,nc,nc
