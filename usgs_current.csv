@@ -323,5 +323,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-25T05:49:13.780Z,35.3196666666667,-84.5785,9.91,1.74,md,8,78,0.1012,0.09,se,se60501063,2023-08-25T16:58:36.912Z,"4 km W of Etowah, Tennessee",earthquake,0.43,0.44,0.0380872904402478,7,reviewed,se,se
 2023-08-25T05:49:04.680Z,34.4611667,-117.9565,9.1,0.35,ml,8,84,0.01223,0.04,ci,ci39650290,2023-08-25T17:37:37.864Z,"7 km SW of Pearblossom, CA",earthquake,0.17,0.3,0.155,8,reviewed,ci,ci
 2023-08-25T05:47:41.200Z,18.0161666666667,-66.7598333333333,13.33,2.24,md,10,172,0.0304,0.23,pr,pr71422098,2023-08-25T05:59:45.290Z,"0 km E of Magas Arriba, Puerto Rico",earthquake,0.8,0.62,0.135121143308969,5,reviewed,pr,pr
-2023-08-25T05:40:03.450Z,60.045,-153.0685,1.33,0.02,ml,4,160,,0.14,av,av92020281,2023-08-25T20:17:50.650Z,"64 km ENE of Pedro Bay, Alaska",earthquake,1.87,1.13,0.287331260961429,4,reviewed,av,av
-2023-08-25T05:35:46.765Z,61.2926,-152.4976,0,1.6,ml,,,,0.21,ak,ak023aw1k0qc,2023-08-25T05:37:46.244Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
