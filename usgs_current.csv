@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-26T03:33:09.120Z,40.2286682,-121.1350021,1.51,2.1,md,5,132,0.224,0.04,nc,nc73929286,2023-08-26T03:34:45.486Z,"3 km NE of Prattville, CA",earthquake,0.7,7.75,0.09,3,automatic,nc,nc
+2023-08-26T03:38:45.930Z,38.7891655,-122.8056641,3.09,1.41,md,27,84,0.002194,0.03,nc,nc73929296,2023-08-26T03:40:20.388Z,"4 km WNW of The Geysers, CA",earthquake,0.25,0.44,0.2,28,automatic,nc,nc
+2023-08-26T03:33:09.120Z,40.2286682,-121.1350021,1.51,2.1,md,5,132,0.224,0.04,nc,nc73929286,2023-08-26T03:39:10.779Z,"3 km NE of Prattville, CA",earthquake,0.7,7.75,0.09,3,automatic,nc,nc
 2023-08-26T03:32:36.007Z,60.4954,-143.0576,7,1.1,ml,,,,0.48,ak,ak023axnvu2o,2023-08-26T03:34:37.412Z,"104 km S of McCarthy, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-26T03:29:45.630Z,38.7766685,-122.7669983,0.07,0.95,md,11,101,0.006019,0.07,nc,nc73929281,2023-08-26T03:31:19.984Z,"1 km W of The Geysers, CA",earthquake,0.33,0.54,0.21,12,automatic,nc,nc
 2023-08-26T03:21:10.680Z,37.6326675,-119.0488358,-0.04,0.98,md,8,126,0.01869,0.01,nc,nc73929276,2023-08-26T03:37:14.765Z,"6 km W of Mammoth Lakes, CA",earthquake,0.36,1.15,0.11,8,automatic,nc,nc
@@ -334,4 +335,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-25T03:58:20.550Z,19.3481666666667,-155.304,2.72,0.75,md,9,153,,0.09,hv,hv73543217,2023-08-25T04:28:46.360Z,"12 km SW of Volcano, Hawaii",earthquake,0.57,0.78,0.101615522734001,3,reviewed,hv,hv
 2023-08-25T03:55:57.260Z,19.3625,-155.304333333333,2.04,0.99,md,16,91,,0.1,hv,hv73543212,2023-08-25T04:18:01.950Z,"11 km SW of Volcano, Hawaii",earthquake,0.26,0.47,0.194372933334496,4,reviewed,hv,hv
 2023-08-25T03:48:04.150Z,19.3433333333333,-155.197666666667,6.51,0.54,md,13,135,,0.05,hv,hv73543192,2023-08-25T04:24:23.760Z,"11 km SSE of Volcano, Hawaii",earthquake,0.7,0.85,0.0366825816879563,4,reviewed,hv,hv
-2023-08-25T03:41:37.830Z,19.363,-155.295,2.09,0.98,md,14,123,,0.12,hv,hv73543182,2023-08-25T04:41:32.500Z,"10 km SW of Volcano, Hawaii",earthquake,0.32,0.43,0.196000990852697,3,reviewed,hv,hv
