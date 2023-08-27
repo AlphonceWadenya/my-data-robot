@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-27T00:21:00.354Z,65.6092,-152.0525,21,1.6,ml,,,,0.47,ak,ak023az9kg3l,2023-08-27T00:23:15.127Z,"48 km N of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-27T00:14:35.325Z,61.6906,-150.1751,29.9,2,ml,,,,0.69,ak,ak023az9j0rw,2023-08-27T00:16:22.260Z,"9 km SW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-27T00:03:20.180Z,19.3636665344238,-155.297332763672,1.80999994277954,1.72000003,md,15,109,,0.0799999982,hv,hv73546557,2023-08-27T00:06:26.200Z,"10 km SW of Volcano, Hawaii",earthquake,0.36,0.5,0.949999988,12,automatic,hv,hv
-2023-08-26T23:55:27.667Z,64.9999,-147.3514,9.6,1.4,ml,,,,1.02,ak,ak023axzxeym,2023-08-26T23:57:36.772Z,"13 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
