@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-28T15:24:56.568Z,63.1134,-150.4951,110.3,1.6,ml,,,,0.25,ak,ak023b162254,2023-08-28T15:27:03.181Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-28T15:17:38.670Z,32.8523333,-115.6043333,14.37,1.5,ml,12,91,0.06123,0.26,ci,ci39653194,2023-08-28T15:21:06.682Z,"3 km W of Imperial, CA",earthquake,0.67,1.32,0.368,7,automatic,ci,ci
 2023-08-28T15:16:35.640Z,37.4761658,-118.8198318,3.2,2.57,md,24,116,0.1139,0.04,nc,nc73930141,2023-08-28T15:23:17.841Z,"16 km SW of Toms Place, CA",earthquake,0.4,1.33,0.17,30,automatic,nc,nc
 2023-08-28T15:13:44.400Z,17.9705,-66.9613333333333,15.21,2.38,md,6,184,0.07825,0.09,pr,pr71422418,2023-08-28T15:23:04.230Z,"Puerto Rico",earthquake,0.86,0.61,0.0637594033496176,4,reviewed,pr,pr
