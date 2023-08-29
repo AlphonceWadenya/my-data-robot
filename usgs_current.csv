@@ -227,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-28T07:51:48.610Z,19.3891666666667,-155.2785,1.15,0.56,md,14,57,,0.08,hv,hv73549257,2023-08-28T08:32:56.060Z,"Hawaii region, Hawaii",earthquake,0.19,0.24,0.311535551515954,3,reviewed,hv,hv
 2023-08-28T07:41:32.487Z,64.4384,-146.7687,7.7,0.7,ml,,,,0.22,ak,ak023b11e6m3,2023-08-28T07:43:47.625Z,"11 km NW of Harding-Birch Lakes, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-28T07:36:47.010Z,38.027668,-118.7860031,2.4,1.67,md,9,191,0.2604,0.04,nc,nc73930081,2023-08-29T02:03:51.855Z,"28 km SE of Bodie, CA",earthquake,1.98,6.39,0.17,5,automatic,nc,nc
-2023-08-28T07:33:58.210Z,34.4335,-119.1723333,2.28,1.38,ml,15,127,0.02899,0.3,ci,ci39652898,2023-08-28T19:56:20.917Z,"7 km ESE of Ojai, CA",earthquake,0.65,0.67,0.267,17,automatic,ci,ci
-2023-08-28T07:28:58.983Z,36.8632,-116.1256,3.2,-0.1,ml,7,128.86,0.06,0.0572,nn,nn00865147,2023-08-29T02:04:12.707Z,"52 km NW of Indian Springs, Nevada",earthquake,,5.5,0.33,3,reviewed,nn,nn
