@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-31T20:47:25.831Z,61.7031,-151.2776,76,2.5,ml,,,,0.51,ak,ak023b67s4r1,2023-08-31T20:49:03.381Z,"32 km S of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-31T20:23:58.530Z,19.3925,-155.277333333333,1.54,2.01,ml,25,50,,0.11,hv,hv73555162,2023-08-31T20:36:12.210Z,"7 km SW of Volcano, Hawaii",earthquake,0.15,0.13,0.259453965917676,13,reviewed,hv,hv
-2023-08-31T20:22:51.010Z,38.7823334,-122.7453308,0.39,1.08,md,16,77,0.006786,0.04,nc,nc73931421,2023-08-31T20:24:24.862Z,"1 km ENE of The Geysers, CA",earthquake,0.24,0.46,0.08,15,automatic,nc,nc
+2023-08-31T20:22:51.010Z,38.7823334,-122.7453308,0.39,1.08,md,16,77,0.006786,0.04,nc,nc73931421,2023-08-31T20:48:15.332Z,"1 km ENE of The Geysers, CA",earthquake,0.24,0.46,0.08,15,automatic,nc,nc
 2023-08-31T20:21:36.837Z,35.34930801,-97.93083954,3.452839851,2,ml,15,126.313446,0.04272605106,0.6827086435,ok,ok2023rbrz,2023-08-31T20:24:40.752Z,"Oklahoma",earthquake,3.615662392,2.596982437,0.13,10,automatic,ok,ok
 2023-08-31T20:12:37.920Z,35.7809,-115.1715,15.9,2.2,ml,13,285.55,1.088,0.5336,nn,nn00865326,2023-08-31T20:15:45.150Z,"24 km ESE of Goodsprings, Nevada",earthquake,,1.5,1.01,12,automatic,nn,nn
 2023-08-31T20:10:21.360Z,36.9954987,-121.5593338,4.56,1.92,md,6,145,,0.33,nc,nc73931416,2023-08-31T20:37:14.259Z,"1 km SE of Gilroy, CA",earthquake,2.91,26.18,0.14,2,automatic,nc,nc
@@ -238,5 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T21:18:57.860Z,38.7858315,-122.7773361,3.3,1.06,md,13,99,0.01106,0.02,nc,nc73931101,2023-08-30T21:40:15.435Z,"2 km WNW of The Geysers, CA",earthquake,0.41,0.83,0.12,14,automatic,nc,nc
 2023-08-30T21:17:18.250Z,37.7429,141.9388,48.798,4.6,mb,60,133,3.117,1.44,us,us7000ks74,2023-08-31T06:21:43.487Z,"85 km E of Minami-Sōma, Japan",earthquake,7.53,7.118,0.058,90,reviewed,us,us
 2023-08-30T20:59:36.760Z,63.0504,-148.0203,59.9,1.9,ml,,,,0.63,ak,ak023b4kbdos,2023-08-30T21:01:44.594Z,"60 km SE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-30T20:49:40.480Z,38.8380013,-122.793663,1.92,0.74,md,11,90,0.002624,0.01,nc,nc73931096,2023-08-30T21:29:14.366Z,"6 km WNW of Cobb, CA",earthquake,0.32,0.77,0.48,12,automatic,nc,nc
-2023-08-30T20:45:10.300Z,33.0628333,-116.4676667,14.92,1.4,ml,42,53,0.1026,0.22,ci,ci39655378,2023-08-30T21:02:13.021Z,"13 km E of Julian, CA",earthquake,0.28,0.51,0.22,27,reviewed,ci,ci
