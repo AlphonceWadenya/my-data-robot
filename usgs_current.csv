@@ -172,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-31T20:54:39.940Z,38.8311653,-122.8178329,1.74,1.09,md,21,48,0.009845,0.02,nc,nc73931431,2023-08-31T21:22:15.549Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.37,0.15,22,automatic,nc,nc
 2023-08-31T20:47:25.831Z,61.7031,-151.2776,76,2.5,ml,,,,0.51,ak,ak023b67s4r1,2023-08-31T21:55:09.040Z,"32 km S of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-31T20:40:44.060Z,54.3718333333333,-164.545666666667,1.98,2.13,ml,5,243,,0.21,av,av92025411,2023-08-31T21:58:03.930Z,"84 km ENE of Akutan, Alaska",earthquake,1.09,1.85,0.205283545213616,5,reviewed,av,av
-2023-08-31T20:40:40.870Z,58.2653333333333,-155.136833333333,6.08,0.55,ml,7,133,,0.17,av,av91114473,2023-08-31T21:48:50.590Z,"Alaska Peninsula",earthquake,0.73,0.66,0.221821414338054,7,reviewed,av,av
