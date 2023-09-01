@@ -212,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-31T07:23:37.980Z,19.337,-155.313333333333,3.08,2.33,ml,41,76,,0.11,hv,hv73554422,2023-08-31T15:14:12.310Z,"Island of Hawaii, Hawaii",earthquake,0.24,0.59,0.198487574360057,17,reviewed,hv,hv
 2023-08-31T07:23:26.834Z,67.4347,-167.8839,10.095,2.6,mb_lg,22,252,2.164,0.87,us,us7000ksav,2023-08-31T09:47:20.040Z,"112 km SSW of Point Hope, Alaska",earthquake,9.15,9.254,0.18,8,reviewed,us,us
 2023-08-31T07:23:02.086Z,37.0382,-116.73,6.9,1.2,ml,40,70.57,0.106,0.1307,nn,nn00865294,2023-08-31T17:21:08.071Z,"14 km N of Beatty, Nevada",earthquake,,1.1,0.26,19,reviewed,nn,nn
-2023-08-31T07:16:15.660Z,38.8411674,-122.8775024,2.6,0.45,md,7,130,0.005499,0.02,nc,nc73931271,2023-08-31T07:33:15.832Z,"13 km NW of The Geysers, CA",earthquake,0.74,0.76,0.23,7,automatic,nc,nc
