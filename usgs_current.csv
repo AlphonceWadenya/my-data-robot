@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-04T13:54:35.370Z,59.8269,-153.3148,120.8,2.3,ml,,,,0.24,ak,ak023bcpt0b3,2023-09-04T13:55:53.566Z,"44 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-09-04T13:53:17.780Z,35.461,-118.0886667,6.53,0.91,ml,14,70,0.08646,0.15,ci,ci39658154,2023-09-04T13:56:44.873Z,"32 km SW of Inyokern, CA",earthquake,0.28,0.93,0.266,10,automatic,ci,ci
+2023-09-04T13:50:21.500Z,33.8663333,-117.8345,11.56,1.5,ml,19,100,0.05332,0.25,ci,ci39658146,2023-09-04T13:53:59.857Z,"3 km SW of Yorba Linda, CA",earthquake,0.59,1.1,0.333,23,automatic,ci,ci
 2023-09-04T13:40:44.652Z,62.0572,-147.7648,33.3,1.6,ml,,,,0.4,ak,ak023bcpq0xd,2023-09-04T13:42:29.799Z,"28 km NNW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-04T12:53:30.710Z,33.3863335,-116.3881683,8.37,1.53,ml,41,53,0.1203,0.22,ci,ci39658138,2023-09-04T12:57:03.862Z,"15 km N of Borrego Springs, CA",earthquake,0.31,1.55,0.278,10,automatic,ci,ci
 2023-09-04T12:53:04.000Z,38.824501,-122.8431702,2.45,1.03,md,17,74,0.006507,0.05,nc,nc73932956,2023-09-04T13:13:11.980Z,"9 km NW of The Geysers, CA",earthquake,0.29,0.54,0.22,18,automatic,nc,nc
@@ -183,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T14:07:51.127Z,62.2697,-150.965,66.4,1.2,ml,,,,0.36,ak,ak023bb2l1wo,2023-09-03T14:09:48.859Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-03T14:00:07.907Z,52.4844,-170.8186,10,3.6,ml,18,194,0.625,0.91,us,us7000kt1l,2023-09-03T18:35:20.040Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,8.07,1.974,0.115,10,reviewed,us,us
 2023-09-03T13:58:02.180Z,37.4895,-118.8438333,6.78,0.78,md,8,189,0.101,0.02,nc,nc73932571,2023-09-03T18:54:11.720Z,"16 km WSW of Toms Place, CA",earthquake,1.03,2.85,0.101,8,reviewed,nc,nc
-2023-09-03T13:53:28.500Z,48.6285,-123.134,16.39,0.53,ml,9,155,0.01723,0.37,uw,uw61956826,2023-09-03T16:44:36.620Z,"13 km NW of Friday Harbor, Washington",earthquake,2.83,1.8,0.06783382869504301,3,reviewed,uw,uw
