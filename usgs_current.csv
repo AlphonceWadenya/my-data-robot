@@ -4,8 +4,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T04:39:12.329Z,58.2246,-155.1337,2.1,0.5,ml,,,,0.22,ak,ak023be7w6rk,2023-09-05T04:40:57.886Z,"Alaska Peninsula",earthquake,,1.7,,,automatic,ak,ak
 2023-09-05T04:38:06.210Z,19.3986663818359,-155.270660400391,1.72000002861023,2.03,ml,27,41,,0.150000006,hv,hv73562892,2023-09-05T04:43:40.900Z,"6 km SW of Volcano, Hawaii",earthquake,0.23,0.270000011,0.31,10,automatic,hv,hv
 2023-09-05T04:38:05.920Z,19.4090003967285,-155.376327514648,2.23000001907349,2.35,ml,8,109,,0.25,hv,hv73562897,2023-09-05T04:43:44.890Z,"15 km WSW of Volcano, Hawaii",earthquake,0.98,4.96000004,0.27,6,automatic,hv,hv
-2023-09-05T04:27:15.970Z,35.749,140.2135,57.907,4.9,mb,64,134,1.805,1.28,us,us7000ktbl,2023-09-05T04:46:19.971Z,"near the east coast of Honshu, Japan",earthquake,7.11,6.116,0.054,108,reviewed,us,us
+2023-09-05T04:27:15.970Z,35.749,140.2135,57.907,4.9,mb,64,134,1.805,1.28,us,us7000ktbl,2023-09-05T04:51:23.933Z,"near the east coast of Honshu, Japan",earthquake,7.11,6.116,0.054,108,reviewed,us,us
 2023-09-05T04:17:01.577Z,60.5716,-151.6372,80.3,1.5,ml,,,,0.46,ak,ak023be7rg6l,2023-09-05T04:18:55.019Z,"18 km WSW of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-09-05T04:11:33.411Z,-29.8331,-179.2076,319.581,4.9,mb,63,80,1.258,0.76,us,us7000ktbg,2023-09-05T04:52:36.040Z,"Kermadec Islands region",earthquake,10.51,5.057,0.038,217,reviewed,us,us
 2023-09-05T04:10:51.390Z,63.9589,-148.6145,109.5,1.8,ml,,,,0.35,ak,ak023be7q20j,2023-09-05T04:13:44.792Z,"20 km ENE of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-05T04:09:30.730Z,37.4640007,-118.819664,1.04,1.72,md,21,151,0.126,0.03,nc,nc73933241,2023-09-05T04:29:19.119Z,"16 km SW of Toms Place, CA",earthquake,0.5,2.04,0.14,19,automatic,nc,nc
 2023-09-05T04:06:43.590Z,38.7784996,-122.7596664,0.52,2.06,md,40,53,0.01854,0.06,nc,nc73933236,2023-09-05T04:45:13.226Z,"0 km WNW of The Geysers, CA",earthquake,0.17,0.34,0.2,38,automatic,nc,nc
