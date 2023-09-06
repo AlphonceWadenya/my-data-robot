@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-06T04:35:50.030Z,62.2108,-148.8951,26.3,1.7,ml,,,,0.61,ak,ak023bfveraz,2023-09-06T04:37:41.405Z,"48 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-06T04:31:56.070Z,19.1451663970947,-155.436340332031,29.0300006866455,2.16,ml,40,213,,0.109999999,hv,hv73564882,2023-09-06T04:37:26.580Z,"7 km SE of Pāhala, Hawaii",earthquake,0.65,0.980000019,0.23,7,automatic,hv,hv
+2023-09-06T04:30:14.279Z,59.2228,-153.4925,102.3,1.7,ml,,,,0.46,ak,ak023bfvdlyr,2023-09-06T04:32:33.473Z,"67 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-06T04:26:25.828Z,61.0536,-154.4497,6.6,1.7,ml,,,,0.41,ak,ak023bfvcrzq,2023-09-06T04:28:24.835Z,"62 km ESE of Lime Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-06T04:17:38.712Z,65.0065,-151.7931,12.3,1.2,ml,,,,0.25,ak,ak023bfvavjj,2023-09-06T04:19:42.932Z,"22 km SE of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-06T04:12:03.976Z,61.6223,-146.3233,35.8,2.1,ml,,,,0.61,ak,ak023bfv9qa5,2023-09-06T04:13:36.345Z,"47 km SSE of Nelchina, Alaska",earthquake,,0.7,,,automatic,ak,ak
