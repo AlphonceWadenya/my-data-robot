@@ -17,6 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-07T11:05:02.310Z,44.7698333,-111.1125,11.59,-0.04,md,9,76,0.02668,0.14,uu,uu60549422,2023-09-07T13:22:36.550Z,"6 km E of Hebgen Lake Estates, Montana",earthquake,0.71,1.49,0.24,5,reviewed,uu,uu
 2023-09-07T10:56:31.639Z,62.1576,-152.1161,105.2,1.4,ml,,,,0.33,ak,ak023bhmn61n,2023-09-07T10:58:36.743Z,"41 km WNW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-07T10:50:47.530Z,42.1756667,-112.6725,9.78,1.79,ml,17,125,0.1181,0.14,uu,uu60549417,2023-09-07T13:15:51.130Z,"23 km N of Snowville, Utah",earthquake,0.74,0.47,0.11,4,reviewed,uu,uu
+2023-09-07T10:45:14.533Z,-30.299,-71.4416,42.054,4.3,mwr,31,135,0.409,0.89,us,us7000ktwh,2023-09-07T13:54:34.040Z,"Near the coast of Coquimbo, Chile",earthquake,5.57,8.643,,,reviewed,us,guc
 2023-09-07T10:20:40.942Z,57.1731,-155.0531,21,1.9,ml,,,,0.31,ak,ak023bhmfhce,2023-09-07T13:06:34.508Z,"56 km SW of Karluk, Alaska",earthquake,,4,,,reviewed,ak,ak
 2023-09-07T10:16:23.250Z,34.6798333,-118.0313333,5.02,0.58,ml,12,99,0.05244,0.16,ci,ci39660242,2023-09-07T10:19:53.199Z,"11 km E of Lancaster, CA",earthquake,0.4,1.06,0.086,8,automatic,ci,ci
 2023-09-07T10:10:04.970Z,34.0608333,-117.1653333,6.85,0.8,ml,22,69,0.05071,0.29,ci,ci39660234,2023-09-07T10:13:37.160Z,"2 km ENE of Redlands, CA",earthquake,0.49,0.95,0.179,15,automatic,ci,ci
@@ -96,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-07T02:44:52.308Z,61.813,-150.6257,46.2,1.4,ml,,,,0.68,ak,ak023bhht67m,2023-09-07T02:47:40.047Z,"30 km NNW of Susitna, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-09-07T02:44:07.680Z,36.5014992,-121.0763321,5.02,2.45,md,22,100,,0.11,nc,nc73934006,2023-09-07T04:39:14.668Z,"7 km ESE of Pinnacles, CA",earthquake,0.33,0.97,0.18,23,automatic,nc,nc
 2023-09-07T02:39:09.490Z,19.3913326263428,-155.288497924805,-0.00999999977648258,1.70000005,md,11,109,,0.140000001,hv,hv73567002,2023-09-07T02:44:40.800Z,"8 km SW of Volcano, Hawaii",earthquake,0.27,0.360000014,0.99000001,8,automatic,hv,hv
-2023-09-07T02:23:26.950Z,34.411,-119.1901667,2.23,1.48,ml,22,74,0.05064,0.29,ci,ci39660122,2023-09-07T02:27:15.514Z,"6 km SE of Ojai, CA",earthquake,0.46,0.64,0.228,23,automatic,ci,ci
+2023-09-07T02:23:26.860Z,34.4058333,-119.1838333,1.61,1.32,ml,22,73,0.04928,0.23,ci,ci39660122,2023-09-07T13:50:22.693Z,"7 km SE of Ojai, CA",earthquake,0.29,0.41,0.145,12,reviewed,ci,ci
 2023-09-07T02:20:50.858Z,59.5044,-153.5657,126.9,1.9,ml,,,,0.36,ak,ak023bhho4t1,2023-09-07T03:28:43.048Z,"43 km SE of Pedro Bay, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-09-07T02:10:45.362Z,58.4631,-138.9109,0,3,ml,,,,0.91,ak,ak023bhhlvbs,2023-09-07T02:19:25.040Z,"Southeastern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-07T02:04:33.929Z,62.9736,-149.1688,67.7,1.5,ml,,,,0.42,ak,ak023bhhkk5c,2023-09-07T02:06:22.581Z,"47 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
