@@ -226,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T22:04:58.200Z,36.8613333,-121.3141667,3.45,0.98,md,8,165,0.04273,0.05,nc,nc73933896,2023-09-07T16:59:21.210Z,"7 km NE of Ridgemark, CA",earthquake,0.52,0.55,0.145,6,reviewed,nc,nc
 2023-09-06T21:58:40.860Z,34.3711667,-119.3885,3.34,1.4,ml,15,179,0.03902,0.12,ci,ci39660002,2023-09-06T23:50:58.952Z,"12 km ESE of Carpinteria, CA",earthquake,0.47,0.35,0.098,10,reviewed,ci,ci
 2023-09-06T21:54:50.099Z,32.35748291,-102.0678115,6.822875977,1.9,ml,18,62,0.07636418903,0.1,tx,tx2023rmud,2023-09-07T13:36:08.393Z,"western Texas",earthquake,0.9567804945,1.479474954,0.1,6,reviewed,tx,tx
-2023-09-06T21:48:17.420Z,33.3945,-116.8483333,8.05,0.68,ml,28,69,0.0425,0.21,ci,ci39659986,2023-09-07T01:03:46.186Z,"4 km NNE of Palomar Observatory, CA",earthquake,0.28,0.79,0.094,12,reviewed,ci,ci
-2023-09-06T21:46:01.287Z,63.5616,-151.1028,0,1.2,ml,,,,0.54,ak,ak023bg5ldpc,2023-09-06T21:47:42.814Z,"30 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
