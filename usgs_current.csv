@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-07T23:18:58.430Z,33.6723333,-116.7745,15.5,1.05,ml,37,42,0.06349,0.18,ci,ci39660922,2023-09-07T23:22:27.984Z,"9 km SW of Idyllwild, CA",earthquake,0.23,0.42,0.183,26,automatic,ci,ci
+2023-09-07T23:02:17.459Z,56.2452,163.9004,10,5,mb,100,71,4.441,0.78,us,us7000ku1x,2023-09-07T23:23:02.040Z,"88 km E of Ust’-Kamchatsk Staryy, Russia",earthquake,9.03,1.784,0.027,434,reviewed,us,us
 2023-09-07T22:55:44.110Z,38.8318329,-122.8108368,1.89,0.97,md,14,95,0.008447,0.01,nc,nc73934411,2023-09-07T23:15:16.323Z,"8 km W of Cobb, CA",earthquake,0.3,0.52,0.27,15,automatic,nc,nc
 2023-09-07T22:42:49.497Z,61.2256,-151.2623,66,2.9,ml,,,,0.33,ak,ak023bhtpenv,2023-09-07T23:02:07.040Z,"13 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-07T22:30:48.900Z,38.8185005,-122.7789993,1.55,1.06,md,19,63,0.005397,0.06,nc,nc73934391,2023-09-07T22:55:13.205Z,"5 km W of Cobb, CA",earthquake,0.25,0.45,0.08,19,automatic,nc,nc
@@ -21,6 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-07T19:20:22.747Z,64.9445,-147.2862,0,1.6,ml,,,,1,ak,ak023bhrsc0y,2023-09-07T19:22:20.541Z,"14 km NW of Two Rivers, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-07T19:20:13.343Z,4.3756,127.7555,128.631,5.1,mww,86,50,3.443,0.83,us,us7000ku0l,2023-09-07T19:37:51.040Z,"Pulau-Pulau Talaud, Indonesia",earthquake,8.15,6.111,0.093,11,reviewed,us,us
 2023-09-07T19:19:09.670Z,33.5836667,-116.7495,12.52,0.73,ml,20,63,0.01576,0.07,ci,ci39660682,2023-09-07T22:36:26.842Z,"8 km WNW of Anza, CA",earthquake,0.22,0.31,0.121,13,reviewed,ci,ci
+2023-09-07T19:09:17.860Z,60.0253333333333,-153.086833333333,-2.8,-0.84,ml,4,110,,0.09,av,av92034431,2023-09-07T23:19:19.920Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.26,2.05,0.288660736370839,4,reviewed,av,av
 2023-09-07T19:06:32.650Z,38.8326683,-122.8013306,2.08,0.21,md,8,74,0.01032,0.01,nc,nc73934311,2023-09-07T19:24:14.003Z,"7 km W of Cobb, CA",earthquake,0.43,1.27,0.07,8,automatic,nc,nc
 2023-09-07T18:37:22.600Z,34.3236667,-119.3693333,7.1,1.7,ml,27,113,0.05037,0.27,ci,ci39660650,2023-09-07T21:54:44.588Z,"14 km WNW of Ventura, CA",earthquake,0.48,0.67,0.112,23,reviewed,ci,ci
 2023-09-07T18:25:15.870Z,58.1895,-155.285333333333,-1.12,0.27,ml,7,145,,0.08,av,av92034361,2023-09-07T23:10:31.870Z,"84 km NW of Karluk, Alaska",earthquake,0.2,31.61,0.289305145177255,7,reviewed,av,av
