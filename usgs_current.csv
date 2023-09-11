@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-11T07:46:23.680Z,38.8371658,-122.8036652,1.92,0.71,md,8,116,0.01048,0.01,nc,nc73935661,2023-09-11T07:47:57.817Z,"7 km WNW of Cobb, CA",earthquake,0.4,1.08,0.19,8,automatic,nc,nc
 2023-09-11T07:21:42.710Z,33.4895,-116.5816667,10,0.5,ml,17,75,0.01793,0.18,ci,ci39662498,2023-09-11T07:25:10.079Z,"11 km SE of Anza, CA",earthquake,0.35,0.64,0.155,10,automatic,ci,ci
 2023-09-11T07:17:49.880Z,39.8709984,-121.0019989,-1.11,2.57,md,19,61,0.3801,0.31,nc,nc73935651,2023-09-11T07:41:55.165Z,"9 km SSW of Quincy, CA",earthquake,0.71,5.22,0.15,12,automatic,nc,nc
 2023-09-11T07:01:10.540Z,33.5643333,-116.6533333,9.1,0.33,ml,13,72,0.01916,0.09,ci,ci39662490,2023-09-11T07:04:44.571Z,"2 km ENE of Anza, CA",earthquake,0.31,0.51,0.157,10,automatic,ci,ci
