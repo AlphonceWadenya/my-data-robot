@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T05:19:39.560Z,58.3586666666667,-154.806,4.25,-0.11,ml,10,158,,0.19,av,av92039246,2023-09-11T23:01:22.970Z,"90 km NNW of Karluk, Alaska",earthquake,0.61,0.55,0.225914222893713,10,reviewed,av,av
 2023-09-11T05:14:00.244Z,-55.7972,-27.1835,35,5.1,mb,33,116,5.561,0.84,us,us7000kuyi,2023-09-11T05:32:54.040Z,"South Sandwich Islands region",earthquake,12.81,1.945,0.097,34,reviewed,us,us
 2023-09-11T05:05:00.350Z,40.9628333,-121.5678333,14.09,2.08,md,39,35,0.09538,0.12,nc,nc73935621,2023-09-11T21:17:20.162Z,"12 km WSW of Fall River Mills, CA",earthquake,0.18,0.46,0.204,45,reviewed,nc,nc
-2023-09-11T04:48:36.880Z,63.2355,-154.4712,14.2,1.6,ml,,,,0.3,ak,ak023bo5692g,2023-09-11T04:50:46.738Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
