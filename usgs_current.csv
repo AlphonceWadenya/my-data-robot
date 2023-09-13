@@ -81,7 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-13T02:08:38.380Z,38.8263321,-122.8146667,1.89,1.32,md,25,46,0.004634,0.01,nc,nc73936186,2023-09-13T03:07:11.941Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.34,0.11,27,automatic,nc,nc
 2023-09-13T02:06:51.199Z,59.7894,-153.1405,102.5,1.5,ml,,,,0.29,ak,ak023bret3vj,2023-09-13T02:08:39.308Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-13T02:02:26.850Z,17.9495,-66.3258333333333,12.82,2.3,md,9,205,0.2091,0.31,pr,pr71424653,2023-09-13T02:20:15.300Z,"3 km SSW of Las Ochenta, Puerto Rico",earthquake,1.36,0.89,0.0148960027006333,3,reviewed,pr,pr
-2023-09-13T01:53:19.730Z,35.7118333,-117.5701667,1.64,1.04,ml,16,90,0.128,0.14,ci,ci39663770,2023-09-13T01:56:57.379Z,"14 km NE of Ridgecrest, CA",earthquake,0.37,0.56,0.151,9,automatic,ci,ci
+2023-09-13T01:53:19.720Z,35.7058333,-117.575,2.29,1.08,ml,22,79,0.09062,0.16,ci,ci39663770,2023-09-13T13:45:13.609Z,"13 km NE of Ridgecrest, CA",earthquake,0.28,0.36,0.123,8,reviewed,ci,ci
 2023-09-13T01:25:13.072Z,59.6021,-156.0013,6.8,1.8,ml,,,,0.53,ak,ak023brebnxn,2023-09-13T01:27:36.373Z,"31 km NNW of Igiugig, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-13T01:21:57.590Z,33.2461667,-116.2396667,9.86,0.83,ml,33,70,0.05467,0.19,ci,ci39663762,2023-09-13T13:41:54.975Z,"13 km E of Borrego Springs, CA",earthquake,0.25,0.66,0.065,10,reviewed,ci,ci
 2023-09-13T01:15:27.048Z,39.4913,-119.6093,0.6,2.1,ml,9,72.18,0.279,0.2334,nn,nn00865763,2023-09-13T01:17:47.426Z,"13 km ESE of Sparks, Nevada",earthquake,,94.1,0.2,8,automatic,nn,nn
