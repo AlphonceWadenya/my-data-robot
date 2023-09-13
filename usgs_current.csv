@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-13T17:50:45.876Z,64.3962,-149.6576,5.5,0.9,ml,,,,0.57,ak,ak023bro011n,2023-09-13T17:52:55.902Z,"23 km WNW of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-13T17:24:08.890Z,38.8370018,-122.8008347,1.76,0.21,md,8,84,0.008313,0.02,nc,nc73936406,2023-09-13T17:25:43.936Z,"7 km WNW of Cobb, CA",earthquake,0.45,1.3,0.07,8,automatic,nc,nc
 2023-09-13T17:20:22.880Z,34.6901667,-120.0101667,1.27,1.67,ml,21,38,0.04221,0.21,ci,ci39664170,2023-09-13T17:24:14.688Z,"10 km ENE of Los Olivos, CA",earthquake,0.37,0.74,0.141,17,automatic,ci,ci
 2023-09-13T17:11:19.030Z,38.8354988,-122.7891693,2.03,0.75,md,15,72,0.003047,0.02,nc,nc73936386,2023-09-13T17:12:53.566Z,"6 km WNW of Cobb, CA",earthquake,0.29,0.45,0.14,15,automatic,nc,nc
@@ -181,4 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T18:12:50.850Z,35.767,-117.5813333,8.31,0.67,ml,13,108,0.1549,0.15,ci,ci39663498,2023-09-12T18:52:58.952Z,"16 km W of Searles Valley, CA",earthquake,0.43,1.4,0.157,5,reviewed,ci,ci
 2023-09-12T18:07:48.342Z,59.7859,-153.3152,114.8,1.4,ml,,,,0.1,ak,ak023bq0swk2,2023-09-12T18:09:14.043Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-12T18:01:43.508Z,59.4258,-153.6486,83.9,1.5,ml,,,,1.72,ak,ak023bq0rlvy,2023-09-12T18:04:04.527Z,"Southern Alaska",earthquake,,1.9,,,automatic,ak,ak
-2023-09-12T17:54:03.490Z,33.7186667,-117.3288333,-0.51,1.04,ml,17,113,0.05798,0.21,ci,ci39663490,2023-09-12T18:42:04.497Z,"6 km N of Lake Elsinore, CA",quarry blast,0.54,31.61,0.185,12,reviewed,ci,ci
