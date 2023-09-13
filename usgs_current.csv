@@ -180,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T18:01:43.508Z,59.4258,-153.6486,83.9,1.5,ml,,,,1.72,ak,ak023bq0rlvy,2023-09-12T18:04:04.527Z,"Southern Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-09-12T17:54:03.490Z,33.7186667,-117.3288333,-0.51,1.04,ml,17,113,0.05798,0.21,ci,ci39663490,2023-09-12T18:42:04.497Z,"6 km N of Lake Elsinore, CA",quarry blast,0.54,31.61,0.185,12,reviewed,ci,ci
 2023-09-12T17:35:23.400Z,33.2718333,-116.8091667,15.21,0.33,ml,20,75,0.05534,0.17,ci,ci39663466,2023-09-12T18:34:12.045Z,"5 km NW of Lake Henshaw, CA",earthquake,0.31,0.64,0.102,6,reviewed,ci,ci
-2023-09-12T17:34:18.685Z,61.3841,-147.5648,24,1.4,ml,,,,0.65,ak,ak023bq0d6zw,2023-09-12T17:36:10.126Z,"47 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
