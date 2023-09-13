@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-13T19:09:51.476Z,58.1374,-155.5757,19.3,0.1,ml,,,,0.51,ak,ak023broy4bv,2023-09-13T19:11:31.956Z,"88 km SE of King Salmon, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-09-13T18:57:13.700Z,34.9675,-118.2038333,4.87,1.19,ml,9,63,0.09078,0.18,ci,ci39664282,2023-09-13T19:04:02.748Z,"10 km SSW of Mojave, CA",earthquake,0.5,1.18,0.075,7,automatic,ci,ci
-2023-09-13T18:56:01.980Z,34.3046667,-119.739,-0.37,1.76,ml,24,129,0.1372,0.33,ci,ci39664274,2023-09-13T19:13:02.660Z,"14 km SSW of Santa Barbara, CA",earthquake,0.55,0.95,0.126,13,reviewed,ci,ci
+2023-09-13T18:57:13.700Z,34.9675,-118.2038333,4.87,1.19,ml,9,63,0.09078,0.18,ci,ci39664282,2023-09-13T19:13:57.706Z,"10 km SSW of Mojave, CA",earthquake,0.5,1.18,0.075,7,automatic,ci,ci
+2023-09-13T18:56:01.980Z,34.3046667,-119.739,-0.37,1.76,ml,24,129,0.1372,0.33,ci,ci39664274,2023-09-13T19:13:39.734Z,"14 km SSW of Santa Barbara, CA",earthquake,0.55,0.95,0.126,13,reviewed,ci,ci
 2023-09-13T18:39:54.566Z,63.3877,-145.8967,16.8,1,ml,,,,0.83,ak,ak023broj4g0,2023-09-13T18:42:29.244Z,"36 km NNW of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-13T18:31:56.640Z,19.2556667327881,-155.369827270508,31.3199996948242,1.82000005,md,28,160,,0.119999997,hv,hv73576917,2023-09-13T18:33:52.840Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.65,0.720000029,1.55999994,6,automatic,hv,hv
 2023-09-13T18:30:51.993Z,61.7209,-150.4676,31.4,1.6,ml,,,,0.28,ak,ak023broh6sv,2023-09-13T18:32:36.315Z,"19 km N of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -182,4 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T19:46:13.554Z,38.7408,-119.6682,7.9,1.1,ml,9,71.23,0.132,0.1297,nn,nn00865757,2023-09-13T00:20:46.724Z,"11 km ENE of Markleeville, California",earthquake,,2.1,0.26,4,reviewed,nn,nn
 2023-09-12T19:33:21.950Z,46.20466666666667,-122.192,7.05,-0.03,ml,19,59,0.004952,0.24,uw,uw61950392,2023-09-13T18:11:24.100Z,"38 km NNE of Amboy, Washington",earthquake,0.46,0.44,0.21652345591437616,7,reviewed,uw,uw
 2023-09-12T19:25:20.630Z,33.7031667,-116.8083333,16.26,0.19,ml,10,170,0.08006,0.09,ci,ci39663562,2023-09-12T23:24:41.694Z,"9 km WSW of Idyllwild, CA",earthquake,0.54,0.64,0.077,6,reviewed,ci,ci
-2023-09-12T19:19:32.100Z,35.0531667,-118.3508333,-0.93,1.47,ml,33,32,0.06288,0.18,ci,ci39663546,2023-09-12T20:53:20.633Z,"12 km SE of Tehachapi, CA",quarry blast,0.3,31.61,0.134,15,reviewed,ci,ci
