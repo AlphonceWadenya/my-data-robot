@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-14T19:22:28.063Z,38.1792,-117.7891,6.8,1.4,ml,8,185.45,0.121,0.1685,nn,nn00865835,2023-09-14T19:25:05.953Z,"36 km SE of Mina, Nevada",earthquake,,0.8,0.77,6,automatic,nn,nn
 2023-09-14T19:18:10.890Z,38.8323326,-122.8150024,1.84,0.72,md,12,104,0.009719,0.01,nc,nc73936816,2023-09-14T19:19:47.067Z,"8 km NW of The Geysers, CA",earthquake,0.31,0.74,0.36,12,automatic,nc,nc
 2023-09-14T19:05:43.880Z,38.8361664,-122.7945023,1.74,1.04,md,11,142,0.003945,0.02,nc,nc73936811,2023-09-14T19:07:17.137Z,"6 km WNW of Cobb, CA",earthquake,0.41,0.99,0.32,11,automatic,nc,nc
 2023-09-14T19:02:12.870Z,33.1125,-116.3436667,15.25,0.85,ml,15,82,0.1098,0.19,ci,ci39665306,2023-09-14T19:05:45.951Z,"16 km S of Borrego Springs, CA",earthquake,0.37,0.7,0.18,9,automatic,ci,ci
-2023-09-14T18:50:41.899Z,29.07623291,-97.86362592,3.301391602,4.1,ml,25,91,0.09802612957,0.3,tx,tx2023sbec,2023-09-14T19:24:43.460Z,"18 km NE of Falls City, Texas",earthquake,1.741539814,2.5430346,0.2,14,reviewed,tx,tx
+2023-09-14T18:50:41.899Z,29.07623291,-97.86362592,3.301391602,4.1,ml,25,91,0.09802612957,0.3,tx,tx2023sbec,2023-09-14T19:29:13.525Z,"18 km NE of Falls City, Texas",earthquake,1.741539814,2.5430346,0.2,14,reviewed,tx,tx
 2023-09-14T18:33:16.156Z,58.2367,-155.209,1.1,0.3,ml,,,,0.29,ak,ak023btc13of,2023-09-14T18:34:31.056Z,"Alaska Peninsula",earthquake,,1.7,,,automatic,ak,ak
 2023-09-14T18:20:55.920Z,60.0557,-152.9099,105.1,1.7,ml,,,,0.38,ak,ak023btbyefs,2023-09-14T18:22:39.347Z,"66 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-14T18:19:53.340Z,33.8458333,-117.5048333,1.82,1.56,ml,30,39,0.05729,0.25,ci,ci39665242,2023-09-14T18:23:34.470Z,"4 km SSE of Home Gardens, CA",quarry blast,0.34,0.53,0.223,31,automatic,ci,ci
@@ -43,19 +44,19 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T12:37:09.077Z,36.7061,-116.3255,8.8,-0.2,ml,6,249.44,0.021,0.0452,nn,nn00865816,2023-09-14T14:41:07.301Z,"44 km ESE of Beatty, Nevada",earthquake,,2.3,0.37,2,reviewed,nn,nn
 2023-09-14T12:11:55.455Z,31.65930986,-104.3697376,6.182983398,2.1,ml,26,70,0.05229250719,0.1,tx,tx2023saqx,2023-09-14T14:41:30.495Z,"57 km S of Whites City, New Mexico",earthquake,1.052325653,1.105374667,0,6,reviewed,tx,tx
 2023-09-14T12:06:24.220Z,35.881,-117.6931667,8.63,1.61,ml,26,97,0.09284,0.15,ci,ci39664818,2023-09-14T17:36:33.800Z,"20 km ESE of Little Lake, CA",earthquake,0.2,0.51,0.245,15,reviewed,ci,ci
-2023-09-14T11:55:52.482Z,36.8032,-116.2103,1.8,0.4,ml,14,79.97,0.075,0.1098,nn,nn00865813,2023-09-14T11:57:46.094Z,"50 km ESE of Beatty, Nevada",earthquake,,3.4,0.32,11,automatic,nn,nn
+2023-09-14T11:55:53.135Z,36.7944,-116.2229,4.8,0.3,ml,28,51.49,0.041,0.1427,nn,nn00865813,2023-09-14T19:30:18.338Z,"49 km ESE of Beatty, Nevada",earthquake,,1.3,0.33,14,reviewed,nn,nn
 2023-09-14T11:54:57.570Z,33.1006667,-116.345,12.66,1.93,ml,53,32,0.1194,0.18,ci,ci39664810,2023-09-14T13:04:27.311Z,"18 km S of Borrego Springs, CA",earthquake,0.22,0.72,0.16,26,reviewed,ci,ci
 2023-09-14T11:42:31.739Z,61.3112,-150.054,35.7,1.9,ml,,,,0.3,ak,ak023bt7x139,2023-09-14T11:44:22.194Z,"6 km SW of Point MacKenzie, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-09-14T11:36:17.900Z,38.4908333,-112.8381667,0.14,1.14,ml,9,110,0.02711,0.06,uu,uu60550107,2023-09-14T13:49:40.030Z,"18 km NE of Milford, Utah",earthquake,0.26,31.61,0.717,3,reviewed,uu,uu
 2023-09-14T11:34:35.400Z,34.014,-117.1128333,13.6,0.58,ml,22,51,0.02142,0.17,ci,ci39664802,2023-09-14T17:36:33.504Z,"6 km WNW of Calimesa, CA",earthquake,0.25,0.77,0.156,11,reviewed,ci,ci
 2023-09-14T11:15:57.950Z,33.9216667,-117.089,16.53,1.74,ml,77,19,0.07423,0.16,ci,ci39664794,2023-09-14T17:29:26.450Z,"8 km SSW of Calimesa, CA",earthquake,0.11,0.31,0.228,23,reviewed,ci,ci
 2023-09-14T11:14:12.760Z,33.6605,-116.922,14.27,0.61,ml,18,46,0.02655,0.12,ci,ci39664786,2023-09-14T13:04:52.824Z,"10 km SSW of Valle Vista, CA",earthquake,0.27,0.35,0.26,12,reviewed,ci,ci
-2023-09-14T11:12:59.260Z,38.879,-122.973,3.43,1.35,md,44,65,0.03983,0.05,nc,nc73936706,2023-09-14T18:25:11.241Z,"9 km NNE of Cloverdale, CA",earthquake,0.2,0.44,0.137,41,reviewed,nc,nc
+2023-09-14T11:12:59.260Z,38.879,-122.973,3.43,1.35,md,44,65,0.03983,0.05,nc,nc73936706,2023-09-14T19:30:14.619Z,"9 km NNE of Cloverdale, CA",earthquake,0.2,0.44,0.137,41,reviewed,nc,nc
 2023-09-14T10:47:15.850Z,33.3758333,-116.3635,15.11,0.52,ml,15,173,0.1164,0.14,ci,ci39664778,2023-09-14T13:05:02.346Z,"13 km N of Borrego Springs, CA",earthquake,0.59,0.89,0.148,9,reviewed,ci,ci
 2023-09-14T10:45:19.259Z,37.9335,-118.6046,8.5,1,ml,9,142.45,0.328,0.0995,nn,nn00865812,2023-09-14T18:52:50.205Z,"16 km NW of Benton, California",earthquake,,3.7,0.41,6,reviewed,nn,nn
 2023-09-14T10:45:03.190Z,33.315,-116.872,14.39,0.52,ml,27,57,0.03929,0.18,ci,ci39664770,2023-09-14T17:29:45.173Z,"5 km S of Palomar Observatory, CA",earthquake,0.29,0.49,0.182,10,reviewed,ci,ci
 2023-09-14T10:44:53.636Z,18.2126,-99.0904,59.742,4,mb,35,163,0.817,1,us,us7000kvp7,2023-09-14T11:41:12.710Z,"10 km SSE of Chaucingo, Mexico",earthquake,7.33,12.784,0.056,87,reviewed,us,us
-2023-09-14T10:42:20.953Z,39.1878,-120.4613,8.8,1.5,ml,18,101.53,0.152,0.1577,nn,nn00865810,2023-09-14T18:28:03.476Z,"15 km S of Kingvale, California",earthquake,,1.8,0.22,9,reviewed,nn,nn
+2023-09-14T10:42:21.810Z,39.1875,-120.459,-2.19,2.13,md,24,37,0.1509,0.12,nc,nc73936696,2023-09-14T19:28:14.389Z,"26 km W of Sunnyside-Tahoe City, CA",earthquake,0.26,1.2,0.283,26,reviewed,nc,nc
 2023-09-14T10:23:26.300Z,33.8106667,-116.9491667,11.11,0.57,ml,12,73,0.1112,0.12,ci,ci39664762,2023-09-14T13:05:37.315Z,"3 km NNE of San Jacinto, CA",earthquake,0.33,0.76,0.168,10,reviewed,ci,ci
 2023-09-14T10:00:25.234Z,38.2525,-118.3601,8.1,1.7,ml,12,58.76,0.114,0.1654,nn,nn00865806,2023-09-14T17:41:29.356Z,"California-Nevada border region",earthquake,,1.7,0.23,8,reviewed,nn,nn
 2023-09-14T09:58:47.370Z,19.654,-65.3293,30,3.83,md,15,298,1.3515,0.2,pr,pr2023257000,2023-09-14T11:23:08.040Z,"146 km NNE of Vieques, Puerto Rico",earthquake,1.21,17.05,0.09,13,reviewed,pr,pr
