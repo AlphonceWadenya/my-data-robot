@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-14T10:47:15.880Z,33.3764992,-116.3690033,14.56,1.48,ml,20,202,0.1153,0.14,ci,ci39664778,2023-09-14T10:49:21.514Z,"13 km N of Borrego Springs, CA",earthquake,0.5,0.66,0.561,12,automatic,ci,ci
+2023-09-14T10:47:15.850Z,33.3758333,-116.3635,15.11,0.52,ml,15,173,0.1164,0.14,ci,ci39664778,2023-09-14T10:50:44.054Z,"13 km N of Borrego Springs, CA",earthquake,0.59,0.89,0.148,9,automatic,ci,ci
 2023-09-14T10:45:18.696Z,37.9407,-118.6087,3.1,1,ml,8,144.21,0.321,0.2813,nn,nn00865812,2023-09-14T10:48:22.553Z,"17 km NW of Benton, California",earthquake,,24.2,0.41,4,automatic,nn,nn
 2023-09-14T10:45:03.460Z,33.3181667,-116.869,12.38,0.5,ml,17,73,0.03575,0.25,ci,ci39664770,2023-09-14T10:48:40.292Z,"4 km S of Palomar Observatory, CA",earthquake,0.58,1.25,0.136,9,automatic,ci,ci
 2023-09-14T10:42:19.548Z,39.1821,-120.4837,0,1.6,ml,10,239.75,0.364,0.1543,nn,nn00865810,2023-09-14T10:44:34.834Z,"Northern California",earthquake,,5.9,0.25,7,automatic,nn,nn
