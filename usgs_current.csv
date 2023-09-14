@@ -168,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-13T10:20:10.130Z,38.8326667,-122.8178333,1.97,0.31,md,21,55,0.01107,0.04,nc,nc73936301,2023-09-13T19:12:23.330Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.35,0.16,17,reviewed,nc,nc
 2023-09-13T10:12:50.317Z,63.0691,-148.4492,68.5,1.4,ml,,,,0.65,ak,ak023brjluxz,2023-09-13T10:14:53.750Z,"43 km SE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-13T10:09:27.275Z,61.4961,-151.9516,9.3,1,ml,,,,0.78,ak,ak023brjl60k,2023-09-13T16:17:30.233Z,"61 km NW of Beluga, Alaska",earthquake,,0.1,,,reviewed,ak,ak
-2023-09-13T09:54:16.390Z,38.8353348,-122.8151703,0.54,0.24,md,10,62,0.0162,0.05,nc,nc73936296,2023-09-13T09:55:50.907Z,"8 km W of Cobb, CA",earthquake,0.31,0.79,0.13,9,automatic,nc,nc
