@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-16T16:49:57.650Z,34.0328331,-116.7373352,10.66,2.85,ml,117,18,0.05855,0.2,ci,ci39667082,2023-09-16T16:52:13.557Z,"14 km NNE of Cabazon, CA",earthquake,0.16,0.42,0.279,18,automatic,ci,ci
+2023-09-16T16:49:57.620Z,34.0325,-116.7348333,11.9,2.75,ml,83,24,0.06064,0.19,ci,ci39667082,2023-09-16T16:53:46.889Z,"14 km NNE of Cabazon, CA",earthquake,0.17,0.48,0.21,25,automatic,ci,ci
 2023-09-16T16:10:52.860Z,64.4027,-149.9615,0,1.5,ml,,,,1.21,ak,ak023bwls2ti,2023-09-16T16:12:45.191Z,"37 km W of Anderson, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-16T16:10:42.280Z,19.1515007019043,-155.473007202148,32.3499984741211,2.27999997,md,43,161,,0.119999997,hv,hv73578817,2023-09-16T16:16:13.860Z,"5 km S of Pāhala, Hawaii",earthquake,0.59,0.74000001,0.779999971,27,automatic,hv,hv
 2023-09-16T15:56:48.450Z,55.5644,160.0484,188.729,4.4,mb,33,131,2.675,0.75,us,us7000kw7f,2023-09-16T16:10:43.040Z,"Kamchatka Peninsula, Russia",earthquake,12.39,10.956,0.092,34,reviewed,us,us
@@ -112,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-16T02:19:28.300Z,19.1768341064453,-155.473663330078,33.2000007629395,2.35,ml,50,81,,0.129999995,hv,hv73578577,2023-09-16T03:15:54.040Z,"2 km S of Pāhala, Hawaii",earthquake,0.48,0.649999976,3.19,21,automatic,hv,hv
 2023-09-16T02:01:48.890Z,-30.726,-178.4238,10,5,mb,60,69,1.523,0.95,us,us7000kw4g,2023-09-16T02:34:40.040Z,"Kermadec Islands, New Zealand",earthquake,9.22,1.777,0.058,96,reviewed,us,us
 2023-09-16T02:00:36.408Z,36.8494,-116.0606,6.2,-0.4,ml,5,304.7,0.047,0.0544,nn,nn00865903,2023-09-16T15:52:59.776Z,"46 km NW of Indian Springs, Nevada",earthquake,,2.1,0.78,3,reviewed,nn,nn
-2023-09-16T01:29:18.738Z,-5.8331,102.9306,29.281,4.8,mb,39,92,1.463,0.69,us,us7000kw4e,2023-09-16T01:44:16.040Z,"202 km S of Pagar Alam, Indonesia",earthquake,4.75,5.833,0.103,29,reviewed,us,us
+2023-09-16T01:29:18.738Z,-5.8331,102.9306,29.281,4.8,mb,39,92,1.463,0.69,us,us7000kw4e,2023-09-16T01:44:16.040Z,"southern Sumatra, Indonesia",earthquake,4.75,5.833,0.103,29,reviewed,us,us
 2023-09-16T01:14:28.170Z,47.6635,-120.802,11.41,0.56,ml,11,116,0.2008,0.12,uw,uw61960166,2023-09-16T04:20:18.620Z,"12 km NW of Leavenworth, Washington",earthquake,0.44,1.58,0.16520559193984424,10,reviewed,uw,uw
 2023-09-16T01:11:45.130Z,19.1656665802002,-155.496170043945,34.2099990844727,1.71000004,md,25,115,,0.129999995,hv,hv73578567,2023-09-16T01:15:10.610Z,"Hawaii region, Hawaii",earthquake,0.84,1.09000003,1.63999999,6,automatic,hv,hv
 2023-09-16T01:05:11.998Z,61.7214,-150.0677,33.2,1.8,ml,,,,0.42,ak,ak023bwctf0f,2023-09-16T01:07:18.944Z,"3 km SSW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
