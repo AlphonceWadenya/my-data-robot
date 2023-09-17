@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-17T06:25:15.340Z,34.4436667,-117.9196667,9.43,0.69,ml,14,64,0.03,0.22,ci,ci39667370,2023-09-17T06:28:45.612Z,"7 km S of Pearblossom, CA",earthquake,0.5,0.83,0.165,12,automatic,ci,ci
 2023-09-17T05:28:20.570Z,34.4403333,-117.9128333,11.6,0.91,ml,14,64,0.03622,0.15,ci,ci39667362,2023-09-17T05:31:50.480Z,"7 km S of Pearblossom, CA",earthquake,0.35,0.56,0.299,17,automatic,ci,ci
 2023-09-17T05:17:45.550Z,33.4921667,-116.7548333,7.09,0.74,ml,27,40,0.04304,0.15,ci,ci39667354,2023-09-17T05:21:20.221Z,"10 km SW of Anza, CA",earthquake,0.18,0.51,0.09,19,automatic,ci,ci
 2023-09-17T05:11:28.280Z,38.815834,-122.8205032,2.95,0.35,md,7,91,0.01111,0.01,nc,nc73937756,2023-09-17T05:13:05.059Z,"7 km NW of The Geysers, CA",earthquake,0.44,1.74,0.22,8,automatic,nc,nc
@@ -157,4 +158,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-16T06:47:31.736Z,59.7518,-153.1478,105.8,2.2,ml,,,,0.95,ak,ak023bwg1mn4,2023-09-16T06:50:31.893Z,"53 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-16T06:42:19.240Z,36.6708333333333,-89.534,11.55,2.69,md,45,49,0.05463,0.17,nm,nm60551786,2023-09-17T02:18:24.834Z,"9 km N of New Madrid, Missouri",earthquake,0.27,0.43,0.127903215572039,35,reviewed,nm,nm
 2023-09-16T06:34:16.650Z,40.5506668,-122.6616669,3.73,2.38,md,16,88,0.1502,0.16,nc,nc73937366,2023-09-16T07:36:11.703Z,"15 km WSW of Shasta, CA",earthquake,0.45,1.74,0.12,17,automatic,nc,nc
-2023-09-16T06:27:08.458Z,38.9873,-118.238,4.4,1.1,ml,7,95.32,0.123,0.0403,nn,nn00865907,2023-09-16T16:05:29.349Z,"California-Nevada border region",earthquake,,4.8,0.35,2,reviewed,nn,nn
