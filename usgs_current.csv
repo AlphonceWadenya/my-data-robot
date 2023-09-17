@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-17T13:42:22.506Z,61.2769,-150.439,46.7,1.6,ml,,,,0.56,ak,ak023by7px2i,2023-09-17T13:44:11.266Z,"26 km WSW of Point MacKenzie, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-17T13:32:34.594Z,61.6041,-146.5358,33.4,1.9,ml,,,,0.43,ak,ak023by7nsub,2023-09-17T13:33:57.762Z,"44 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-17T13:02:36.867Z,60.7231,-151.9834,73.3,1.6,ml,,,,0.77,ak,ak023by7hdja,2023-09-17T13:05:38.936Z,"38 km W of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-17T12:58:45.533Z,-15.6024,168.1502,10,4.6,mb,26,136,6.142,0.74,us,us7000kwb6,2023-09-17T13:18:56.040Z,"95 km ENE of Norsup, Vanuatu",earthquake,9.4,1.84,0.133,18,reviewed,us,us
