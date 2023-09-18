@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-18T13:29:27.499Z,62.364,-149.1877,0.5,1.8,ml,,,,0.8,ak,ak023bzv6hn1,2023-09-18T13:31:23.802Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-09-18T13:21:23.790Z,26.4336,125.3032,183.483,6.3,mww,113,35,2.262,1.21,us,us7000kwg2,2023-09-18T13:39:55.445Z,"180 km N of Hirara, Japan",earthquake,6.53,4.942,0.044,49,reviewed,us,us
 2023-09-18T12:45:38.480Z,38.8149986,-122.7628326,1.63,0.78,md,8,110,0.01405,0.03,nc,nc73938401,2023-09-18T12:47:12.869Z,"4 km WSW of Cobb, CA",earthquake,0.41,1.12,0.17,8,automatic,nc,nc
 2023-09-18T12:45:07.185Z,60.7472,-150.6103,60.8,2.5,ml,,,,0.18,ak,ak023bzuofxa,2023-09-18T12:46:16.465Z,"20 km SSE of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-09-18T12:34:24.180Z,38.8041649,-122.8093338,1.07,1.28,md,22,64,0.0116,0.03,nc,nc73938396,2023-09-18T13:12:11.406Z,"6 km WNW of The Geysers, CA",earthquake,0.2,0.34,0.29,24,automatic,nc,nc
@@ -94,6 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-18T00:37:22.726Z,57.8926,-155.276,78.7,1.5,ml,,,,0.66,ak,ak023bznhksl,2023-09-18T00:40:18.620Z,"60 km NW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-09-18T00:35:32.348Z,61.4088,-146.1488,25.9,2.3,ml,,,,0.54,ak,ak023bznh5g2,2023-09-18T00:37:03.100Z,"32 km NNE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-18T00:15:35.630Z,38.8230019,-122.8553314,2.29,0.77,md,11,96,0.004694,0.02,nc,nc73938076,2023-09-18T00:17:12.965Z,"10 km WNW of The Geysers, CA",earthquake,0.36,0.73,0.18,13,automatic,nc,nc
+2023-09-17T23:55:12.940Z,46.3783333333333,-114.424,4.24,1.24,ml,8,260,0.176,0.09,mb,mb90027558,2023-09-18T13:35:38.730Z,"16 km WNW of Pinesdale, Montana",earthquake,1.61,8.19,0.210582724790418,4,reviewed,mb,mb
 2023-09-17T23:31:53.260Z,38.8388329,-122.8221664,1.83,1.14,md,23,83,0.01041,0.02,nc,nc73938056,2023-09-18T00:21:12.979Z,"9 km WNW of Cobb, CA",earthquake,0.2,0.38,0.2,23,automatic,nc,nc
 2023-09-17T23:18:53.102Z,55.3077,164.6612,10,4.5,mb,51,123,4.209,0.46,us,us7000kwdc,2023-09-18T02:37:23.040Z,"171 km SE of Ust’-Kamchatsk Staryy, Russia",earthquake,10.64,1.915,0.079,47,reviewed,us,us
 2023-09-17T23:17:31.037Z,38.5344,-116.4518,7.8,1.6,ml,8,179.6,1.087,0.196,nn,nn00865958,2023-09-17T23:20:13.634Z,"85 km NE of Tonopah, Nevada",earthquake,,1.9,0.2,7,automatic,nn,nn
