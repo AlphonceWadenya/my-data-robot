@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-19T09:30:38.008Z,60.3386,-152.12,94.2,1.9,ml,,,,0.45,ak,ak023c1gcbyj,2023-09-19T09:33:38.380Z,"40 km NW of Ninilchik, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-09-19T09:16:25.380Z,17.9838333333333,-66.9455,8.47,1.71,md,3,178,0.06365,0.04,pr,pr71425253,2023-09-19T09:31:08.380Z,"3 km W of Fuig, Puerto Rico",earthquake,2.97,1.71,0.142104035349279,3,reviewed,pr,pr
 2023-09-19T08:57:59.820Z,34.5338333,-119.919,3.43,1.33,ml,12,139,0.03635,0.21,ci,ci39668650,2023-09-19T09:01:29.207Z,"14 km NW of Goleta, CA",earthquake,0.65,0.84,0.179,14,automatic,ci,ci
 2023-09-19T08:47:20.193Z,64.7108,-149.5911,18.4,1.1,ml,,,,0.41,ak,ak023c1fuifn,2023-09-19T08:49:03.913Z,"25 km WNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-19T08:46:28.550Z,33.0585,-116.3673333,14.56,0.84,ml,28,46,0.0938,0.27,ci,ci39668642,2023-09-19T08:50:01.930Z,"22 km S of Borrego Springs, CA",earthquake,0.38,0.89,0.202,14,automatic,ci,ci
 2023-09-19T08:32:56.429Z,59.5647,-153.0607,107.9,2,ml,,,,0.24,ak,ak023c1frdhm,2023-09-19T08:35:33.854Z,"63 km ESE of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-19T08:25:26.740Z,37.1561661,-121.5321655,8.96,1.15,md,7,104,0.05911,0.1,nc,nc73938891,2023-09-19T08:42:15.006Z,"10 km NE of San Martin, CA",earthquake,0.65,2.31,0.21,6,automatic,nc,nc
-2023-09-19T08:21:18.530Z,19.1523342132568,-155.476837158203,32.1300010681152,2.1400001,md,45,163,,0.140000001,hv,hv73580647,2023-09-19T08:24:30.660Z,"Hawaii region, Hawaii",earthquake,0.54,0.660000026,1.13999999,28,automatic,hv,hv
+2023-09-19T08:21:18.530Z,19.1523342132568,-155.476837158203,32.1300010681152,2.1400001,md,45,163,,0.140000001,hv,hv73580647,2023-09-19T08:24:30.660Z,"5 km S of Pāhala, Hawaii",earthquake,0.54,0.660000026,1.13999999,28,automatic,hv,hv
 2023-09-19T08:12:47.350Z,38.8175011,-122.8024979,0.14,0.76,md,11,89,0.01105,0.02,nc,nc73938881,2023-09-19T08:14:21.774Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.94,0.09,12,automatic,nc,nc
 2023-09-19T08:00:44.660Z,32.9535,-115.6575,20.16,1.4,ml,8,130,0.09653,0.24,ci,ci39668634,2023-09-19T08:04:19.135Z,"10 km SSW of Westmorland, CA",earthquake,1.45,1.32,0.311,16,automatic,ci,ci
 2023-09-19T07:38:36.150Z,33.0335,-116.4191667,8.75,1.14,ml,34,51,0.06194,0.18,ci,ci39668626,2023-09-19T07:42:14.318Z,"18 km ESE of Julian, CA",earthquake,0.25,0.74,0.243,25,automatic,ci,ci
