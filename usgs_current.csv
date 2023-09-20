@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-20T21:01:10.360Z,38.8376656,-122.7985001,2.19,0.21,md,9,70,0.006413,0.02,nc,nc73939551,2023-09-20T21:02:44.711Z,"7 km WNW of Cobb, CA",earthquake,0.43,1.49,0.09,9,automatic,nc,nc
 2023-09-20T20:41:30.190Z,60.4837,-152.6915,102.8,1.6,ml,,,,0.51,ak,ak023c3ahsnv,2023-09-20T20:43:32.786Z,"74 km NW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-09-20T20:30:44.640Z,33.8615,-117.5038333,0.58,1.54,ml,30,55,0.0658,0.33,ci,ci39669866,2023-09-20T20:34:33.983Z,"2 km SE of Home Gardens, CA",quarry blast,0.52,31.61,0.498,28,automatic,ci,ci
 2023-09-20T20:29:58.490Z,38.8359985,-122.8123322,2.22,0.76,md,8,73,0.01271,0.01,nc,nc73939541,2023-09-20T20:31:34.323Z,"8 km WNW of Cobb, CA",earthquake,0.35,1.17,0.23,9,automatic,nc,nc
@@ -10,6 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-20T19:46:19.090Z,17.9525,-67.0808333333333,7.4,2.13,md,15,230,0.0387,0.08,pr,pr71425358,2023-09-20T19:56:44.430Z,"4 km SW of La Parguera, Puerto Rico",earthquake,0.37,0.13,0.117024628529108,4,reviewed,pr,pr
 2023-09-20T19:26:10.290Z,38.8284988,-122.854332,1.78,0.66,md,12,71,0.002201,0.01,nc,nc73939496,2023-09-20T19:27:45.592Z,"10 km NW of The Geysers, CA",earthquake,0.34,0.52,0.32,12,automatic,nc,nc
 2023-09-20T19:22:32.588Z,-44.8387,35.2805,7.56,5.8,mww,43,44,16.779,0.99,us,us7000kwz5,2023-09-20T19:46:47.212Z,"Prince Edward Islands region",earthquake,11.32,4.438,0.083,14,reviewed,us,us
+2023-09-20T19:11:17.160Z,34.7131667,-116.3385,8.39,0.9,ml,8,101,0.116,0.09,ci,ci37573244,2023-09-20T21:02:30.154Z,"16 km W of Ludlow, CA",earthquake,0.26,0.92,0.192,5,reviewed,ci,ci
 2023-09-20T19:10:38.380Z,34.2051667,-117.0576667,2.92,1.2,ml,42,49,0.06731,0.14,ci,ci39669778,2023-09-20T20:52:59.190Z,"5 km E of Running Springs, CA",earthquake,0.18,0.53,0.125,28,reviewed,ci,ci
 2023-09-20T18:56:15.550Z,34.9891667,-118.193,-0.93,1.27,ml,18,64,0.1139,0.21,ci,ci39669754,2023-09-20T20:42:06.931Z,"7 km SSW of Mojave, CA",earthquake,0.52,31.61,0.071,11,reviewed,ci,ci
 2023-09-20T18:55:47.143Z,59.7367,-153.2684,127.1,1.9,ml,,,,0.35,ak,ak023c39dysa,2023-09-20T18:57:45.162Z,"47 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
