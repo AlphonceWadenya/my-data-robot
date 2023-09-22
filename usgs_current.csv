@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-22T07:21:21.564Z,62.5318,-150.9615,76.9,1.6,ml,,,,0.63,ak,ak023c6dpjss,2023-09-22T07:23:36.737Z,"10 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-09-22T07:20:10.747Z,62.146,-152.0674,107.9,1.2,ml,,,,0.61,ak,ak023c6dpb8g,2023-09-22T07:22:20.376Z,"39 km WNW of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-22T06:59:28.795Z,62.5551,-153.1008,5.4,1.4,ml,,,,0.59,ak,ak023c6dc9o9,2023-09-22T07:01:52.506Z,"82 km SE of Nikolai, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-22T06:55:36.420Z,38.8176651,-122.7639999,1.83,0.44,md,10,112,0.0136,0.02,nc,nc73940186,2023-09-22T06:57:13.144Z,"4 km W of Cobb, CA",earthquake,0.32,0.78,0.24,11,automatic,nc,nc
 2023-09-22T06:55:20.460Z,38.838501,-122.8186646,2.03,0.26,md,8,171,0.01314,0.02,nc,nc73940181,2023-09-22T06:56:54.113Z,"8 km WNW of Cobb, CA",earthquake,0.73,1.46,0.15,8,automatic,nc,nc
