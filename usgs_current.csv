@@ -204,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T03:52:14.200Z,48.1765,-122.517,25.67,1.83,ml,31,43,0.04558,0.21,uw,uw61961151,2023-09-21T04:55:30.750Z,"0 km ENE of Camano, Washington",earthquake,0.38,0.78,0.1606632152979055,24,reviewed,uw,uw
 2023-09-21T03:51:52.600Z,38.8230019,-122.8266678,3.74,0.86,md,7,175,0.006533,0.01,nc,nc73939646,2023-09-21T03:53:26.548Z,"8 km NW of The Geysers, CA",earthquake,1.21,2.02,0.24,6,automatic,nc,nc
 2023-09-21T03:50:00.690Z,58.2471666666667,-155.1465,31.52,0.91,ml,18,74,,0.27,av,av92052296,2023-09-21T17:15:05.340Z,"85 km NNW of Karluk, Alaska",earthquake,0.75,0.96,0.30341909916519,17,reviewed,av,av
-2023-09-21T03:22:42.338Z,58.1605,-155.4102,0.1,0.8,ml,,,,0.83,ak,ak023c4nsq7d,2023-09-21T03:24:14.186Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
-2023-09-21T03:22:42.200Z,57.0701666666667,-135.717666666667,7.51,1,ml,5,181,,0.22,av,av91116323,2023-09-21T17:30:27.840Z,"23 km W of Sitka, Alaska",earthquake,1.67,1.03,0.174840595247039,7,reviewed,av,av
