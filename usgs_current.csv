@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-23T04:27:11.690Z,32.0338326,-116.3215027,17.72,1.9,ml,21,140,0.3186,0.27,ci,ci40570720,2023-09-23T04:29:45.277Z,"34 km ENE of Ensenada, B.C., MX",earthquake,0.65,1.54,0.353,10,automatic,ci,ci
+2023-09-23T04:25:06.038Z,64.3661,-146.1385,7.6,0.9,ml,,,,0.59,ak,ak023c7zhf57,2023-09-23T04:26:59.766Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-23T04:17:20.160Z,34.2295,-117.4373333,11.68,1.11,ml,18,83,0.04291,0.18,ci,ci40570712,2023-09-23T04:20:58.865Z,"3 km WNW of Devore, CA",earthquake,0.44,0.83,0.296,27,automatic,ci,ci
 2023-09-23T04:17:09.842Z,59.2046,-151.5606,63.1,1.9,ml,,,,0.58,ak,ak023c7zfppk,2023-09-23T04:20:25.033Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-23T04:03:07.325Z,34.96514893,-97.59249878,2.341665506,1.99,ml,10,85.43807411,0.04938168079,0.638858314,ok,ok2023sqmi,2023-09-23T04:05:55.803Z,"8 km SSE of Dibble, Oklahoma",earthquake,3.577332184,2.954569993,0.3,9,automatic,ok,ok
@@ -90,7 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-22T18:33:45.810Z,32.946,-115.5321667,6.49,1.45,ml,19,99,0.05048,0.22,ci,ci40570472,2023-09-22T18:37:27.793Z,"4 km S of Brawley, CA",earthquake,0.45,1.33,0.279,18,automatic,ci,ci
 2023-09-22T18:31:05.290Z,34.0125,-116.8,17.06,0.83,ml,16,93,0.0235,0.16,ci,ci40570464,2023-09-22T18:34:41.954Z,"11 km N of Cabazon, CA",earthquake,0.37,0.72,0.199,17,automatic,ci,ci
 2023-09-22T18:15:08.920Z,58.1718333333333,-155.386,2.03,-0.33,ml,11,75,,0.07,av,av92054061,2023-09-23T02:30:54.470Z,"86 km NW of Karluk, Alaska",earthquake,0.19,0.39,0.189912103743841,11,reviewed,av,av
-2023-09-22T18:03:14.430Z,37.3110008,-122.0713348,6.68,2.84,md,70,65,0.02823,0.13,nc,nc73940346,2023-09-23T04:16:33.468Z,"4 km WSW of Cupertino, CA",earthquake,0.17,0.38,0.1,105,automatic,nc,nc
+2023-09-22T18:03:14.430Z,37.3110008,-122.0713348,6.68,2.84,md,70,65,0.02823,0.13,nc,nc73940346,2023-09-23T04:27:54.301Z,"4 km WSW of Cupertino, CA",earthquake,0.17,0.38,0.1,105,automatic,nc,nc
 2023-09-22T18:02:14.650Z,19.2943333333333,-155.458166666667,6.1,2.38,ml,45,48,,0.16,hv,hv73582987,2023-09-22T20:51:56.710Z,"10 km NNE of Pāhala, Hawaii",earthquake,0.27,0.9,0.153179962743099,22,reviewed,hv,hv
 2023-09-22T17:55:34.064Z,61.5292,-146.4616,27.1,1.9,ml,,,,0.6,ak,ak023c6jv72l,2023-09-22T17:56:52.346Z,"44 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-22T17:42:04.810Z,58.1775,-155.280166666667,2.47,0.52,ml,11,95,,0.09,av,av91116513,2023-09-23T00:15:31.160Z,"83 km NW of Karluk, Alaska",earthquake,0.27,0.41,0.301820580104038,12,reviewed,av,av
@@ -228,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-22T05:07:15.960Z,11.909,-87.2135,47.931,4.9,mb,202,140,0.974,0.7,us,us7000kxan,2023-09-22T15:01:24.405Z,"near the coast of Nicaragua",earthquake,7.29,8.583,0.028,411,reviewed,us,us
 2023-09-22T04:36:23.820Z,19.1466674804688,-155.363830566406,27.8199996948242,2.04999995,md,46,183,,0.140000001,hv,hv73582737,2023-09-22T04:39:30.660Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.61,0.959999979,1.30999994,27,automatic,hv,hv
 2023-09-22T04:32:15.100Z,58.2525,-155.143833333333,33.52,-0.19,ml,7,141,,0.06,av,av91116478,2023-09-22T20:17:19.170Z,"86 km NNW of Karluk, Alaska",earthquake,0.53,0.63,0.242135637127066,7,reviewed,av,av
-2023-09-22T04:30:06.445Z,39.7418,-120.562,8,1.4,ml,12,155.4,0.1,0.1446,nn,nn00866255,2023-09-22T17:53:08.103Z,"Northern California",earthquake,,2.4,0.23,4,reviewed,nn,nn
