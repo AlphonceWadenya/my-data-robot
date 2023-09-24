@@ -44,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T16:21:10.660Z,33.468,-116.409,11.68,0.73,ml,25,50,0.05699,0.23,ci,ci40571640,2023-09-24T16:24:38.802Z,"24 km SSW of La Quinta, CA",earthquake,0.39,0.85,0.155,19,automatic,ci,ci
 2023-09-24T16:19:09.180Z,60.4319,-143.2425,13.7,0.6,ml,,,,0.45,ak,ak023c9u4oue,2023-09-24T16:20:18.986Z,"112 km S of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-24T16:18:54.810Z,34.0526667,-117.2381667,13.99,0.74,ml,17,57,0.09866,0.3,ci,ci40571632,2023-09-24T16:22:34.864Z,"2 km ENE of Loma Linda, CA",earthquake,0.63,1.19,0.191,13,automatic,ci,ci
-2023-09-24T16:13:40.261Z,60.4764,-143.2509,12.9,1.6,ml,,,,0.47,ak,ak023c9u3gy2,2023-09-24T16:15:51.100Z,"108 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-24T16:13:40.261Z,60.4764,-143.2509,12.9,1.6,ml,,,,0.47,ak,ak023c9u3gy2,2023-09-24T16:15:51.100Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-24T16:02:21.570Z,17.98,-66.9376666666667,14.9,2.39,md,5,171,0.05581,0.09,pr,pr71425683,2023-09-24T16:19:33.910Z,"2 km WSW of Fuig, Puerto Rico",earthquake,0.74,1.34,0.0156285170132673,3,reviewed,pr,pr
 2023-09-24T16:00:30.200Z,62.3672,-151.3753,79.2,1.4,ml,,,,0.4,ak,ak023c9u0nv0,2023-09-24T16:02:26.744Z,"34 km WSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-24T15:52:21.960Z,36.1958351,-120.3026657,6.68,1.21,md,5,141,0.07674,0.14,nc,nc73941306,2023-09-24T15:53:58.294Z,"8 km NE of Coalinga, CA",earthquake,0.83,1.47,0.05,4,automatic,nc,nc
@@ -105,6 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T08:40:53.631Z,57.6684,-149.9204,40.1,2.8,ml,,,,0.93,ak,ak023c9phtgz,2023-09-24T08:43:57.509Z,"Gulf of Alaska",earthquake,,8.6,,,automatic,ak,ak
 2023-09-24T08:39:54.733Z,58.1766,-155.3812,1.1,0.4,ml,,,,0.18,ak,ak023c9phlu9,2023-09-24T08:41:01.854Z,"Alaska Peninsula",earthquake,,2.2,,,automatic,ak,ak
 2023-09-24T08:39:43.922Z,61.9084,-149.3725,2.7,1.4,ml,,,,0.49,ak,ak023c9phl08,2023-09-24T08:41:14.047Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-24T08:33:26.240Z,58.1755,-155.373666666667,1.98,-0.28,ml,7,127,,0.07,av,av92056191,2023-09-24T20:57:48.940Z,"86 km NW of Karluk, Alaska",earthquake,0.31,0.54,0.135070748301111,7,reviewed,av,av
 2023-09-24T08:27:05.513Z,61.6679,-146.574,32.1,1.3,ml,,,,0.64,ak,ak023c9pexg7,2023-09-24T08:28:48.599Z,"37 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-24T08:24:20.394Z,39.4,-119.8537,7.6,0.2,ml,7,105.37,0.07,0.0437,nn,nn00866315,2023-09-24T18:48:46.650Z,"14 km SSE of Mogul, Nevada",earthquake,,2.3,0.18,2,reviewed,nn,nn
 2023-09-24T08:13:46.143Z,-17.4583,-178.8754,534.162,4.5,mb,33,92,4.787,0.53,us,us7000kxsk,2023-09-24T08:51:18.040Z,"203 km ENE of Levuka, Fiji",earthquake,15.97,12.383,0.102,31,reviewed,us,us
@@ -220,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-23T21:10:44.998Z,62.5664,-151.351,93.7,1.3,ml,,,,0.41,ak,ak023c89inoz,2023-09-23T21:12:34.750Z,"31 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-23T21:05:17.280Z,17.9501666666667,-66.2796666666667,9.43,2.41,md,9,189,0.1652,0.19,pr,pr71425628,2023-09-23T21:26:39.800Z,"3 km SSE of Salinas, Puerto Rico",earthquake,0.66,0.97,0.0265544429365856,4,reviewed,pr,pr
 2023-09-23T21:02:01.193Z,61.6288,-150.1118,31.1,1.5,ml,,,,0.41,ak,ak023c89gul3,2023-09-23T21:03:41.940Z,"13 km SSW of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-09-23T20:56:55.682Z,36.6828804,-97.68083954,3.345361471,2.05,ml,28,51.89940643,0.2067554891,0.413691524,ok,ok2023srtu,2023-09-23T21:02:04.693Z,"Oklahoma",earthquake,2.220539635,1.904764213,0.23,13,automatic,ok,ok
