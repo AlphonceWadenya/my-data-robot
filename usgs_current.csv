@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T19:15:00.390Z,34.97333333,-97.55966667,4.9,1.73,ml,60,44,0.06568710995,0.3,ok,ok2023stlx,2023-09-25T14:43:42.371Z,"9 km SE of Dibble, Oklahoma",earthquake,,0.6,0.19,6,reviewed,ok,ok
 2023-09-24T19:14:15.078Z,58.1852,-155.3491,1.1,0.8,ml,,,,0.38,ak,ak023c9vvxj7,2023-09-25T00:56:15.160Z,"86 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-24T19:03:58.880Z,46.8868333333333,-112.537666666667,7.51,0.84,ml,8,123,0.06186,0.15,mb,mb90028078,2023-09-25T14:13:13.180Z,"13 km SE of Lincoln, Montana",earthquake,0.63,0.87,0.135994403131192,2,reviewed,mb,mb
-2023-09-24T18:53:59.999Z,39.736,-120.5647,8.4,1.6,ml,14,154.12,0.104,0.1208,nn,nn00866317,2023-09-25T16:57:41.143Z,"0 km SSE of Valley Ranch, California",earthquake,,2,0.16,9,reviewed,nn,nn
