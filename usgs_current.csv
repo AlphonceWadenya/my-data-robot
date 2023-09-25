@@ -87,6 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T03:07:38.609Z,36.46283333,-98.759,8.15,1.16,ml,43,69,0.03599293696,0.14,ok,ok2023subn,2023-09-25T12:00:17.361Z,"17 km SE of Waynoka, Oklahoma",earthquake,,0.4,0.27,20,reviewed,ok,ok
 2023-09-25T03:00:18.570Z,38.8323326,-122.814003,1.62,0.31,md,8,88,0.009437,0.01,nc,nc73941611,2023-09-25T03:01:54.559Z,"8 km NW of The Geysers, CA",earthquake,0.31,1,0.15,9,automatic,nc,nc
 2023-09-25T02:59:52.111Z,62.2765,-153.2959,0,1.7,ml,,,,0.33,ak,ak023cb9kmtn,2023-09-25T03:01:59.803Z,"99 km SSE of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-25T02:53:24.720Z,33.1541667,-115.6915,0.24,1.31,ml,7,229,0.06463,0.23,ci,ci40571968,2023-09-25T14:27:37.639Z,"14 km NNW of Westmorland, CA",earthquake,0.91,31.61,0.064,4,reviewed,ci,ci
 2023-09-25T02:50:55.984Z,60.5406,-147.6624,17,1.6,ml,,,,0.84,ak,ak023cb9ipoe,2023-09-25T02:53:10.567Z,"56 km NNE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-25T02:48:03.453Z,64.7053,-146.8724,10.5,1.4,ml,,,,0.05,ak,ak023cb9i66x,2023-09-25T02:49:29.532Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-25T02:44:15.618Z,53.3072,159.6483,70.895,4.3,mb,28,153,0.665,0.54,us,us7000kxwy,2023-09-25T04:45:04.040Z,"73 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,12.82,8.946,0.081,43,reviewed,us,us
@@ -107,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T00:40:31.129Z,34.48,-97.77266667,19.89,3.68,ml,97,47,0,0.36,ok,ok2023stwr,2023-09-25T13:02:21.060Z,"9 km WNW of Velma, Oklahoma",earthquake,,0.7,0.23,32,reviewed,ok,ok
 2023-09-25T00:29:23.672Z,60.053,-152.8584,95.8,1.3,ml,,,,0.13,ak,ak023cb879xr,2023-09-25T00:30:41.400Z,"63 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-25T00:22:20.180Z,35.03,-117.6805,0.25,1.34,ml,18,69,0.09627,0.3,ci,ci40571888,2023-09-25T00:25:51.207Z,"4 km NW of Boron, CA",quarry blast,0.76,31.61,0.128,18,automatic,ci,ci
-2023-09-25T00:15:30.002Z,63.0918,-151.7226,0.2,1.8,ml,,,,0.76,ak,ak023cb84aeg,2023-09-25T00:17:55.864Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-25T00:15:30.002Z,63.0918,-151.7226,0.2,1.8,ml,,,,0.76,ak,ak023cb84aeg,2023-09-25T00:17:55.864Z,"50 km S of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-25T00:14:55.240Z,35.4225,-118.4296667,7.89,0.99,ml,12,123,0.1311,0.17,ci,ci40571880,2023-09-25T00:18:30.292Z,"19 km SSE of Bodfish, CA",earthquake,0.51,2.71,0.112,8,automatic,ci,ci
 2023-09-25T00:03:20.102Z,61.4874,-149.8803,32.8,2,ml,,,,0.25,ak,ak023cb81p1m,2023-09-25T00:04:46.463Z,"5 km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-25T00:02:43.930Z,19.1873340606689,-155.488830566406,33.4900016784668,1.73000002,md,27,124,,0.109999999,hv,hv73584892,2023-09-25T00:05:54.980Z,"2 km SSW of Pāhala, Hawaii",earthquake,1.01,1.41999996,1.73000002,4,automatic,hv,hv
@@ -165,6 +166,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T19:03:58.880Z,46.8868333333333,-112.537666666667,7.51,0.84,ml,8,123,0.06186,0.15,mb,mb90028078,2023-09-25T14:13:13.180Z,"13 km SE of Lincoln, Montana",earthquake,0.63,0.87,0.135994403131192,2,reviewed,mb,mb
 2023-09-24T18:53:59.552Z,39.735,-120.5597,3.6,1.6,ml,9,153.06,0.202,0.0743,nn,nn00866317,2023-09-24T18:56:06.399Z,"0 km ESE of Valley Ranch, California",earthquake,,13.3,0.21,7,automatic,nn,nn
 2023-09-24T18:51:58.790Z,33.87,-118.2513333,8.62,1.42,ml,17,86,0.06391,0.36,ci,ci40571712,2023-09-24T18:55:32.821Z,"4 km SW of Compton, CA",earthquake,0.79,1.46,0.141,33,automatic,ci,ci
+2023-09-24T18:51:31.840Z,33.8101667,-116.9375,16.43,0.62,ml,17,94,0.02539,0.12,ci,ci40571704,2023-09-25T14:21:51.078Z,"4 km NNE of San Jacinto, CA",earthquake,0.26,0.49,0.09,4,reviewed,ci,ci
 2023-09-24T18:51:18.308Z,61.7519,-147.8358,38,1.9,ml,,,,0.26,ak,ak023c9vifo6,2023-09-24T18:52:42.134Z,"11 km WSW of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-24T18:50:18.060Z,57.5094,-153.1987,32.4,1.9,ml,,,,0.3,ak,ak023c9vi7xq,2023-09-24T18:52:20.076Z,"34 km N of Old Harbor, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-24T18:47:32.717Z,60.817,-150.7473,14.2,1.4,ml,,,,0.4,ak,ak023c9vhlx3,2023-09-24T18:50:00.268Z,"12 km SSW of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -205,6 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T14:48:39.440Z,58.2693,-154.9438,7.8,0.6,ml,,,,1.45,ak,ak023c9t43rt,2023-09-24T21:43:45.860Z,"83 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-24T14:47:43.998Z,58.2587,-154.9247,1.1,0.2,ml,,,,0.51,ak,ak023c9t3wdb,2023-09-24T21:41:18.310Z,"81 km NNW of Karluk, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2023-09-24T14:30:36.773Z,35.3848,141.3354,33.073,4.6,mb,16,162,2.786,1.02,us,us7000kxtt,2023-09-24T15:25:01.040Z,"59 km SE of Hasaki, Japan",earthquake,11.9,8.119,0.244,5,reviewed,us,us
-2023-09-24T14:26:26.919Z,60.1045,-152.8914,122,1.1,ml,,,,0.5,ak,ak023c9szd0j,2023-09-24T14:28:46.208Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-09-24T14:22:12.410Z,38.8198318,-122.8003311,2.83,0.77,md,12,66,0.008401,0.03,nc,nc73941276,2023-09-24T14:23:48.093Z,"6 km NW of The Geysers, CA",earthquake,0.33,0.56,0.07,16,automatic,nc,nc
-2023-09-24T14:21:55.151Z,-2.3793,29.5403,10,4.5,mb,14,171,2.133,0.57,us,us7000kxts,2023-09-25T14:14:14.598Z,"11 km N of Nzega, Rwanda",earthquake,6.99,1.961,0.171,10,reviewed,us,us
