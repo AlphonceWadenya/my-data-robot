@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T10:16:03.419Z,63.9814,-148.2539,107.6,0.8,ml,,,,0.26,ak,ak023c9qjgfk,2023-09-24T21:33:31.541Z,"Central Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-09-24T10:15:56.210Z,35.4228333,-118.4233333,5.55,0.89,ml,21,69,0.1313,0.2,ci,ci40571472,2023-09-24T10:19:28.341Z,"19 km SSE of Bodfish, CA",earthquake,0.36,2.12,0.137,8,automatic,ci,ci
 2023-09-24T10:12:43.660Z,58.2445,-155.155333333333,32,-0.33,ml,12,116,,0.14,av,av92056326,2023-09-24T21:16:01.530Z,"85 km NNW of Karluk, Alaska",earthquake,0.61,0.8,0.321361093561452,12,reviewed,av,av
-2023-09-24T10:01:54.353Z,58.2473,-154.8805,89.3,0.4,ml,,,,0.16,ak,ak023c9qgbt7,2023-09-24T10:03:09.172Z,"79 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
