@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T19:29:27.880Z,32.7048333,-115.5576667,15.47,1.53,ml,13,69,0.08045,0.31,ci,ci40574040,2023-09-28T19:33:04.855Z,"4 km SW of Heber, CA",earthquake,0.74,1.07,0.384,18,automatic,ci,ci
 2023-09-28T19:25:22.530Z,35.5901667,-117.4646667,2.82,1.31,ml,15,64,0.1044,0.16,ci,ci40574032,2023-09-28T19:28:48.832Z,"19 km E of Ridgecrest, CA",earthquake,0.33,0.71,0.213,11,automatic,ci,ci
 2023-09-28T19:23:17.570Z,32.7226667,-115.5538333,8.04,1.68,ml,17,96,0.0707,0.21,ci,ci40574024,2023-09-28T19:26:59.865Z,"2 km WSW of Heber, CA",earthquake,0.52,2.29,0.244,24,automatic,ci,ci
-2023-09-28T19:21:17.447Z,-5.2575,152.7555,48.948,5.7,mww,67,56,1.212,0.81,us,us6000lbhd,2023-09-28T19:35:34.040Z,"114 km SSE of Kokopo, Papua New Guinea",earthquake,7.07,6.324,0.061,26,reviewed,us,us
+2023-09-28T19:21:17.447Z,-5.2575,152.7555,48.948,5.7,mww,67,56,1.212,0.81,us,us6000lbhd,2023-09-28T19:39:04.791Z,"114 km SSE of Kokopo, Papua New Guinea",earthquake,7.07,6.324,0.061,26,reviewed,us,us
 2023-09-28T18:45:37.140Z,19.3276672363281,-155.242004394531,7.05000019073486,2.14,ml,26,177,,0.200000003,hv,hv73587482,2023-09-28T18:51:09.700Z,"12 km S of Volcano, Hawaii",earthquake,1.06,0.860000014,0.33,8,automatic,hv,hv
 2023-09-28T18:45:31.120Z,19.3444995880127,-155.254501342773,30.3600006103516,2.21,ml,52,111,,0.140000001,hv,hv73587487,2023-09-28T18:51:15.710Z,"11 km S of Volcano, Hawaii",earthquake,0.4,0.469999999,1.87,20,automatic,hv,hv
 2023-09-28T17:56:18.980Z,38.2998352,-119.3659973,5.51,2.72,md,30,93,0.07621,0.17,nc,nc73943081,2023-09-28T19:35:31.736Z,"13 km WNW of Bridgeport, CA",earthquake,0.35,1.01,0.23,20,automatic,nc,nc
@@ -88,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T09:24:49.927Z,31.581,-104.548,6.5686,2.4,ml(texnet),25,79,0.1,0.2,tx,tx2023taan,2023-09-28T18:17:48.990Z,"65 km NNE of Van Horn, Texas",earthquake,1.839983141,2.445726724,0,7,reviewed,tx,tx
 2023-09-28T09:16:48.540Z,19.1504993438721,-155.481674194336,33.75,2.27999997,md,47,151,,0.109999999,hv,hv73587172,2023-09-28T09:20:03.420Z,"Hawaii region, Hawaii",earthquake,0.55,0.769999981,1.27999997,27,automatic,hv,hv
 2023-09-28T09:15:54.893Z,56.9736,-154.2147,182.4,1.7,ml,,,,0.58,ak,ak023cgc3a8x,2023-09-28T09:18:18.100Z,"Kodiak Island region, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2023-09-28T09:13:43.990Z,46.23616666666667,-123.04266666666666,16.47,0.78,md,4,282,0.1549,0.14,uw,uw61953882,2023-09-28T16:33:54.560Z,"8 km NNW of West Longview, Washington",earthquake,1.7,2.22,0.22758692429214555,4,reviewed,uw,uw
+2023-09-28T09:13:44.040Z,46.23866666666667,-123.03833333333333,15.58,0.7000000000000001,md,3,281,0.157,0.13,uw,uw61953882,2023-09-28T19:39:58.560Z,"8 km NNW of West Longview, Washington",earthquake,1.69,2.62,0.30546422555904473,4,reviewed,uw,uw
 2023-09-28T09:06:45.924Z,60.0561,-141.0951,17.8,1.3,ml,,,,0.62,ak,ak023cgc1c40,2023-09-28T09:08:13.072Z,"95 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-28T09:05:40.098Z,-2.9004,126.5447,9.199,4.9,mb,48,60,3.72,1.3,us,us6000lbby,2023-09-28T09:49:55.040Z,"112 km SE of Sanana, Indonesia",earthquake,7.21,4.134,0.096,49,reviewed,us,us
 2023-09-28T08:58:30.710Z,38.8336678,-122.814003,1.37,0.8,md,12,75,0.01071,0.01,nc,nc73942966,2023-09-28T09:00:06.546Z,"8 km W of Cobb, CA",earthquake,0.26,0.85,0.22,17,automatic,nc,nc
@@ -114,6 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T06:36:34.340Z,48.75483333333333,-121.84916666666666,-0.69,1.47,ml,4,202,0.06566,0.04,uw,uw61953862,2023-09-28T16:00:34.930Z,"16 km SSE of Glacier, Washington",earthquake,1.02,1.92,0.07963100269826318,5,reviewed,uw,uw
 2023-09-28T06:34:16.650Z,39.0123333,-111.4123333,-0.99,1.17,ml,7,158,0.04419,0.08,uu,uu60551017,2023-09-28T13:51:49.840Z,"17 km NW of Emery, Utah",earthquake,0.8,0.67,0.239,3,reviewed,uu,uu
 2023-09-28T06:28:04.373Z,1.1982,-78.823,52.807,4.1,mb,17,97,0.097,0.72,us,us6000lbba,2023-09-28T07:11:48.040Z,"9 km S of San Lorenzo de Esmeraldas, Ecuador",earthquake,6.4,5.554,0.234,5,reviewed,us,us
+2023-09-28T06:02:07.730Z,58.2496666666667,-155.136166666667,32.72,0.03,ml,11,92,,0.1,av,av92064726,2023-09-28T19:41:34.770Z,"85 km NNW of Karluk, Alaska",earthquake,0.52,0.72,0.278595650869383,11,reviewed,av,av
 2023-09-28T05:58:49.570Z,39.1534996,-123.0634995,5.73,1.79,md,12,97,0.02558,0.08,nc,nc73942921,2023-09-28T06:00:26.641Z,"9 km ENE of Talmage, CA",earthquake,0.39,0.8,0.13,10,automatic,nc,nc
 2023-09-28T05:58:00.960Z,38.831665,-122.8188324,1.26,0.66,md,15,58,0.01072,0.02,nc,nc73942916,2023-09-28T05:59:34.656Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.64,0.42,16,automatic,nc,nc
 2023-09-28T05:53:11.904Z,11.5766,43.2248,9.795,4.6,mb,50,87,0.373,0.69,us,us6000lbb5,2023-09-28T15:00:32.667Z,"8 km E of Djibouti, Djibouti",earthquake,8.29,5.222,0.09,37,reviewed,us,us
@@ -226,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-27T20:05:00.940Z,38.4896667,-112.8388333,0.1,-0.02,md,7,207,0.0268,0.09,uu,uu60550987,2023-09-28T18:31:13.050Z,"18 km NE of Milford, Utah",earthquake,0.82,7.83,0.742,3,reviewed,uu,uu
 2023-09-27T20:00:21.390Z,38.558,-119.5118333,4.58,3.6,ml,25,112,0.02859,0.07,nc,nc73942611,2023-09-28T16:50:25.875Z,"6 km NNW of Walker, CA",earthquake,0.2,0.34,0.182,161,reviewed,nc,nc
 2023-09-27T19:56:53.767Z,57.5072,-156.2358,87.9,2.2,ml,,,,0.22,ak,ak023ceur22o,2023-09-27T19:59:40.321Z,"69 km E of Ugashik, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-09-27T19:39:34.492Z,31.601,-104.55,5.5403,2.5,ml(texnet),27,75,0.1,0.2,tx,tx2023syzg,2023-09-28T11:16:53.529Z,"65 km SSW of Whites City, New Mexico",earthquake,1.715207165,1.405031439,0.1,19,reviewed,tx,tx
