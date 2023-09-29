@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T16:46:37.320Z,35.9370003,-120.4881668,9.69,1.81,md,31,56,0.0165,0.07,nc,nc73943416,2023-09-29T16:49:29.840Z,"7 km NW of Parkfield, CA",earthquake,0.25,0.34,0.19,19,automatic,nc,nc
 2023-09-29T16:46:23.300Z,35.3199997,-118.5731659,4.82,2.14,ml,49,44,0.1279,0.19,ci,ci40574488,2023-09-29T16:57:08.370Z,"24 km NNW of Tehachapi, CA",earthquake,0.24,1.05,0.217,27,automatic,ci,ci
 2023-09-29T16:24:54.010Z,17.944,-66.283,7.95,2.56,md,13,191,0.169,0.31,pr,pr71426503,2023-09-29T16:42:47.130Z,"4 km SSE of Salinas, Puerto Rico",earthquake,0.79,1.61,0.0167074369109312,3,reviewed,pr,pr
-2023-09-29T16:15:13.340Z,33.0386658,-116.2113342,5.03,1.04,ml,16,76,0.1141,0.19,ci,ci40574472,2023-09-29T16:17:25.165Z,"14 km SSW of Ocotillo Wells, CA",earthquake,0.41,1.05,0.078,4,automatic,ci,ci
+2023-09-29T16:15:13.170Z,33.0256667,-116.2053333,4.96,1.06,ml,26,72,0.1087,0.17,ci,ci40574472,2023-09-29T17:49:44.241Z,"15 km SSW of Ocotillo Wells, CA",earthquake,0.28,0.62,0.061,7,reviewed,ci,ci
 2023-09-29T16:12:05.280Z,33.0256667,-116.2028333,4.19,1.34,ml,54,52,0.1103,0.17,ci,ci40574464,2023-09-29T17:07:56.320Z,"15 km SSW of Ocotillo Wells, CA",earthquake,0.14,0.5,0.07,9,reviewed,ci,ci
 2023-09-29T16:07:25.510Z,38.8154984,-122.8201675,2.48,1.1,md,23,50,0.009664,0.02,nc,nc73943406,2023-09-29T16:08:59.513Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.45,0.18,22,automatic,nc,nc
 2023-09-29T16:06:53.850Z,33.593,-116.6278333,14.2,1.38,ml,48,35,0.02636,0.15,ci,ci40574456,2023-09-29T17:34:36.210Z,"6 km NE of Anza, CA",earthquake,0.15,0.25,0.202,23,reviewed,ci,ci
@@ -205,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T17:52:30.440Z,32.7331667,-115.5568333,12.86,1.69,ml,23,98,0.03722,0.24,ci,ci40573984,2023-09-28T18:37:08.042Z,"3 km W of Heber, CA",earthquake,0.48,0.59,0.275,16,reviewed,ci,ci
 2023-09-28T17:51:20.700Z,17.922,-66.948,9.01,2.27,md,6,232,0.08406,0.07,pr,pr71426413,2023-09-28T18:37:35.970Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.9,1.24,0.0158514446743454,3,reviewed,pr,pr
 2023-09-28T17:51:03.653Z,60.4346,-143.2918,19.7,1,ml,,,,0.21,ak,ak023cgh2cwt,2023-09-28T17:52:35.041Z,"113 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-09-28T17:50:10.000Z,35.9801667,-117.6805,2.06,1.15,ml,17,120,0.1041,0.18,ci,ci40573976,2023-09-28T18:33:05.013Z,"21 km ENE of Little Lake, CA",earthquake,0.35,0.42,0.048,7,reviewed,ci,ci
-2023-09-28T17:49:56.040Z,46.7585,-121.9245,3.88,0.68,ml,16,170,0.0191,0.06,uw,uw61962756,2023-09-29T02:29:11.570Z,"8 km E of Ashford, Washington",earthquake,0.3,0.49,0.148318387706611,3,reviewed,uw,uw
