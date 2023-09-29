@@ -215,6 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T21:43:24.296Z,58.2444,-155.1213,29.7,1.6,ml,,,,0.43,ak,ak023cgjef71,2023-09-29T04:39:04.080Z,"84 km NNW of Karluk, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-09-28T21:37:54.930Z,58.2548333333333,-155.163166666667,31.98,-0.23,ml,8,126,,0.08,av,av92065911,2023-09-29T04:31:17.290Z,"87 km NNW of Karluk, Alaska",earthquake,1.01,0.58,0.337920604208271,8,reviewed,av,av
 2023-09-28T21:34:28.555Z,56.8375,-155.5867,11.2,1.9,ml,,,,0.36,ak,ak023cgjci2v,2023-09-28T21:36:09.837Z,"87 km W of Akhiok, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-28T21:26:41.660Z,54.226,-165.957333333333,11.45,-0.37,ml,5,292,,0.13,av,av91116978,2023-09-29T03:52:46.670Z,"15 km NW of Akutan, Alaska",earthquake,1.13,0.85,0.257010858034761,5,reviewed,av,av
-2023-09-28T21:26:34.710Z,58.2516666666667,-155.156666666667,31.18,0.5,ml,16,87,,0.21,av,av91116983,2023-09-29T04:00:44.820Z,"86 km NNW of Karluk, Alaska",earthquake,0.59,0.81,0.233548688900881,15,reviewed,av,av
-2023-09-28T21:26:34.690Z,58.2525,-155.157166666667,31.03,0.56,ml,17,73,,0.15,av,av92065891,2023-09-29T03:48:25.600Z,"Alaska Peninsula",earthquake,0.46,0.6,0.258253555062978,17,reviewed,av,av
