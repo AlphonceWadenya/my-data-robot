@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-01T02:53:29.740Z,61.5755,-146.5685,19.9,1.8,ml,,,,0.69,ak,ak023cl6rdri,2023-10-01T02:55:29.892Z,"47 km SSE of Nelchina, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-10-01T02:48:15.030Z,38.8056679,-122.7825012,1.09,0.76,md,11,64,0.007712,0.02,nc,nc73943991,2023-10-01T02:49:49.096Z,"4 km NW of The Geysers, CA",earthquake,0.29,0.63,0.05,10,automatic,nc,nc
 2023-10-01T02:32:42.140Z,17.9053333333333,-66.8511666666667,12.27,2.86,md,22,218,0.07432,0.11,pr,pr71426768,2023-10-01T02:47:17.620Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.47,0.34,0.180819631003882,8,reviewed,pr,pr
+2023-10-01T02:29:28.020Z,17.9178333333333,-66.8506666666667,13.03,2.68,md,7,225,0.06308,0.08,pr,pr71426763,2023-10-01T02:55:47.480Z,"Puerto Rico region",earthquake,0.75,0.32,0.139678002009046,7,reviewed,pr,pr
 2023-10-01T02:22:42.640Z,17.8898333333333,-66.8501666666667,11.68,3.18,md,23,223,0.08917,0.15,pr,pr71426748,2023-10-01T02:47:49.520Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.49,0.36,0.117185937478606,15,reviewed,pr,pr
 2023-10-01T02:19:33.290Z,17.9241666666667,-66.852,13.78,2.25,md,8,221,0.05687,0.15,pr,pr71426743,2023-10-01T02:47:24.720Z,"Puerto Rico region",earthquake,0.96,0.43,0.0993646079011654,3,reviewed,pr,pr
 2023-10-01T02:17:09.335Z,61.2827,-146.8229,29.1,1.6,ml,,,,0.24,ak,ak023cl6jmet,2023-10-01T02:18:21.678Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
