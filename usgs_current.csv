@@ -95,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T11:42:32.525Z,63.0872,-151.3407,0,1.5,ml,,,,0.8,ak,ak023cmzla1g,2023-10-02T11:44:19.835Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-02T11:31:38.130Z,46.18983333333333,-122.2205,6.15,0.12,ml,10,184,0.02683,0.11,uw,uw61963496,2023-10-02T16:26:07.940Z,"35 km NNE of Amboy, Washington",earthquake,0.63,0.55,0.21066199960915027,7,reviewed,uw,uw
 2023-10-02T11:31:18.570Z,19.1165008544922,-155.390502929688,30.9099998474121,1.75,md,24,229,,0.100000001,hv,hv73589887,2023-10-02T11:34:18.610Z,"13 km SE of Pāhala, Hawaii",earthquake,0.95,1.55999994,0.870000005,3,automatic,hv,hv
-2023-10-02T11:28:56.810Z,33.9731667,-116.8175,18.62,1.74,ml,27,43,0.06235,0.25,ci,ci40575456,2023-10-02T11:33:09.379Z,"7 km NNW of Cabazon, CA",earthquake,0.41,1,0.267,11,automatic,ci,ci
+2023-10-02T11:28:56.840Z,33.9718333,-116.8185,16.91,1.19,ml,25,66,0.06378,0.21,ci,ci40575456,2023-10-02T23:30:16.531Z,"7 km NNW of Cabazon, CA",earthquake,0.38,0.89,0.214,12,reviewed,ci,ci
 2023-10-02T11:28:34.010Z,33.9668333,-116.8181667,17.37,1.85,ml,70,30,0.06005,0.16,ci,ci40575448,2023-10-02T23:25:43.850Z,"6 km NNW of Cabazon, CA",earthquake,0.13,0.29,0.199,28,reviewed,ci,ci
 2023-10-02T11:28:19.910Z,33.974,-116.818,16.95,1.05,ml,25,58,0.06158,0.16,ci,ci40575440,2023-10-02T12:56:27.650Z,"7 km NNW of Cabazon, CA",earthquake,0.29,0.74,0.145,29,reviewed,ci,ci
 2023-10-02T11:24:36.980Z,33.9258333,-117.0383333,16.56,0.93,ml,35,89,0.04823,0.15,ci,ci40575432,2023-10-02T23:13:41.797Z,"6 km W of Beaumont, CA",earthquake,0.19,0.5,0.228,23,reviewed,ci,ci
@@ -168,7 +168,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T03:44:44.070Z,38.833168,-122.8144989,1.65,0.7,md,10,55,0.01035,0.01,nc,nc73944416,2023-10-02T03:46:16.697Z,"8 km NW of The Geysers, CA",earthquake,0.32,1.2,0.52,11,automatic,nc,nc
 2023-10-02T03:35:32.372Z,59.2375,-153.5465,97.6,2.1,ml,,,,0.42,ak,ak023cmusb6d,2023-10-02T03:38:12.631Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-02T03:21:22.285Z,32.758,-100.655,3.8394,3.6,ml(texnet),14,54,0.1,0.1,tx,tx2023tgwm,2023-10-02T20:58:38.565Z,"16 km NE of Hermleigh, Texas",earthquake,0.8525087612,1.486177393,0.1,13,reviewed,tx,tx
-2023-10-02T03:12:22.230Z,29.0882,142.4389,10,4.6,mb,26,202,4.602,0.66,us,us6000lc6p,2023-10-02T03:44:38.040Z,"Izu Islands, Japan region",earthquake,8.5,1.888,0.151,13,reviewed,us,us
+2023-10-02T03:12:21.932Z,29.1144,142.4227,10,4.5,mb,34,202,4.573,0.96,us,us6000lc6p,2023-10-02T23:35:39.040Z,"Izu Islands, Japan region",earthquake,11.55,1.95,0.125,19,reviewed,us,us
 2023-10-02T02:40:31.920Z,37.8930016,-121.9743347,8.44,1.11,md,8,148,0.03705,0.05,nc,nc73944406,2023-10-02T02:42:06.197Z,"6 km SSW of Clayton, CA",earthquake,0.97,0.53,0.33,7,automatic,nc,nc
 2023-10-02T02:36:27.789Z,36.37966667,-97.64633333,8.22,1.11,ml,71,38,0.1430719244,0.18,ok,ok2023tgva,2023-10-02T13:53:43.014Z,"5 km ENE of Fairmont, Oklahoma",earthquake,,2.3,0.19,28,reviewed,ok,ok
 2023-10-02T02:33:43.168Z,28.787,142.6196,10,5,mb,64,64,8.129,0.5,us,us6000lc6i,2023-10-02T23:25:45.040Z,"Bonin Islands, Japan region",earthquake,10.3,1.839,0.052,118,reviewed,us,us
