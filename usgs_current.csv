@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-02T17:35:32.640Z,32.9365,-115.4686667,6.29,1.65,ml,20,53,0.07936,0.22,ci,ci40575592,2023-10-02T17:39:23.331Z,"7 km SE of Brawley, CA",earthquake,0.43,1.63,0.253,22,automatic,ci,ci
 2023-10-02T17:11:22.174Z,37.4025,-114.3262,13.3,1.8,ml,7,88.46,0.378,0.1276,nn,nn00866637,2023-10-02T17:26:12.569Z,"28 km SE of Caliente, Nevada",earthquake,,2.8,0.38,5,reviewed,nn,nn
 2023-10-02T17:08:57.971Z,57.2745,-156.0124,14.4,2.5,ml,,,,0.71,ak,ak023cn2ynad,2023-10-02T17:10:54.233Z,"87 km ESE of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-02T17:08:03.920Z,19.4458332061768,-155.98616027832,3.26999998092651,1.94000006,md,30,249,,0.340000004,hv,hv73590027,2023-10-02T17:11:12.100Z,"8 km SW of Captain Cook, Hawaii",earthquake,1.53,0.75,0.730000019,7,automatic,hv,hv
