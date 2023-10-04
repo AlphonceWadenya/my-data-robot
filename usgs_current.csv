@@ -73,6 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T04:36:23.270Z,44.7525,-110.7893333,7.71,0.91,ml,8,165,0.05641,0.12,uu,uu60551567,2023-10-04T14:27:12.690Z,"25 km SSW of Mammoth, Wyoming",earthquake,0.63,0.83,0.403,3,reviewed,uu,uu
 2023-10-04T04:35:35.930Z,44.7478333,-110.7925,6.04,0.32,md,7,156,0.05785,0.06,uu,uu60551562,2023-10-04T14:29:18.670Z,"26 km SSW of Mammoth, Wyoming",earthquake,0.63,1.88,0.223,6,reviewed,uu,uu
 2023-10-04T04:32:19.020Z,46.1795,-111.734833333333,3.92,1.34,ml,14,82,0.2657,0.19,mb,mb90029098,2023-10-04T14:09:50.050Z,"8 km WSW of Radersburg, Montana",earthquake,0.54,8.68,0.212965988046547,14,reviewed,mb,mb
+2023-10-04T04:28:57.150Z,44.7431667,-110.7971667,4.82,1.67,ml,13,78,0.05902,0.13,uu,uu60551557,2023-10-04T14:46:47.810Z,"25 km ENE of West Yellowstone, Montana",earthquake,0.33,0.5,0.385,5,reviewed,uu,uu
 2023-10-04T04:21:49.730Z,44.7375,-110.7945,7.71,2.36,ml,19,46,0.06022,0.19,uu,uu60551542,2023-10-04T13:25:54.910Z,"25 km ENE of West Yellowstone, Montana",earthquake,0.41,0.63,0.382,7,reviewed,uu,uu
 2023-10-04T04:19:32.475Z,-27.8202,-71.5071,21.732,4.3,mb,20,190,0.542,0.82,us,us6000lcpq,2023-10-04T04:31:19.040Z,"111 km NW of Vallenar, Chile",earthquake,3.67,9.586,0.266,4,reviewed,us,us
 2023-10-04T04:05:46.139Z,60.9371,-146.8899,22.3,1.6,ml,,,,0.45,ak,ak023cq6a1cl,2023-10-04T04:07:44.206Z,"14 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
