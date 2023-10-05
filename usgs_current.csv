@@ -266,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T23:47:20.170Z,31.0367,141.8015,10,5.1,mww,99,100,2.672,0.62,us,us6000lcyc,2023-10-05T00:05:06.040Z,"Izu Islands, Japan region",earthquake,9.55,1.861,0.078,16,reviewed,us,us
 2023-10-04T23:44:53.136Z,61.7869,-149.5475,35.4,1.4,ml,,,,0.31,ak,ak023cqhtnb5,2023-10-04T23:47:01.127Z,"17 km WNW of Fishhook, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-04T23:37:16.050Z,64.6311,-150.1616,3.3,1.8,ml,,,,0.6,ak,ak023cqhs2fp,2023-10-04T23:39:55.176Z,"46 km SSE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-04T23:34:18.457Z,59.4726,-152.6305,71.2,2.1,ml,,,,0.28,ak,ak023cqhrfh1,2023-10-04T23:39:35.040Z,"42 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
