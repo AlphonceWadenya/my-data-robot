@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T16:17:25.080Z,19.388,-155.278833333333,1.52,1.56,md,16,59,,0.07,hv,hv73593612,2023-10-05T16:38:08.930Z,"Island of Hawaii, Hawaii",earthquake,0.17,0.2,0.0952277474210874,2,reviewed,hv,hv
 2023-10-05T16:15:03.540Z,36.9505005,-121.6653366,4.76,1.71,md,5,209,0.01977,0.09,nc,nc73945816,2023-10-05T16:16:36.769Z,"6 km E of Interlaken, CA",earthquake,2.68,0.72,0.2,6,automatic,nc,nc
 2023-10-05T16:03:28.080Z,19.3665,-155.296666666667,1.73,0.54,md,16,105,,0.07,hv,hv73593572,2023-10-05T16:18:58.100Z,"10 km SW of Volcano, Hawaii",earthquake,0.26,0.33,0.109919278447749,2,reviewed,hv,hv
-2023-10-05T16:02:08.510Z,19.3676666666667,-155.296666666667,1.92,0.68,md,17,104,,0.09,hv,hv73593567,2023-10-05T16:12:50.370Z,"10 km SW of Volcano, Hawaii",earthquake,0.21,0.33,0.0369304174347739,3,reviewed,hv,hv
+2023-10-05T16:02:08.510Z,19.3676666666667,-155.296666666667,1.92,0.68,md,17,104,,0.09,hv,hv73593567,2023-10-05T16:12:50.370Z,"Island of Hawaii, Hawaii",earthquake,0.21,0.33,0.0369304174347739,3,reviewed,hv,hv
 2023-10-05T16:01:14.714Z,58.2666,-133.585,2.4,2.9,ml,,,,0.33,ak,ak023cs0xntb,2023-10-05T16:03:36.058Z,"49 km E of Juneau, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-05T15:56:40.970Z,19.382833480835,-155.273498535156,0.479999989271164,1.79999995,md,12,98,,0.129999995,hv,hv73593552,2023-10-05T15:59:42.390Z,"7 km SSW of Volcano, Hawaii",earthquake,0.18,0.25,0.699999988,12,automatic,hv,hv
 2023-10-05T15:54:22.430Z,19.371166229248,-155.28483581543,-1.04999995231628,2.38,ml,34,109,,0.349999994,hv,hv73593547,2023-10-05T15:59:57.070Z,"9 km SW of Volcano, Hawaii",earthquake,0.24,0.310000002,2.33,16,automatic,hv,hv
@@ -60,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T12:22:45.384Z,59.9741,-141.0338,16.1,2,ml,,,,0.95,ak,ak023cryohwj,2023-10-05T12:24:53.112Z,"Southeastern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-05T12:16:48.452Z,63.4998,-144.6811,0,1.7,ml,,,,0.8,ak,ak023cryn7ql,2023-10-05T12:18:29.032Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-05T12:15:58.590Z,19.3745,-155.284,1.44,0.56,md,17,98,,0.07,hv,hv73593157,2023-10-05T12:36:53.600Z,"Island of Hawaii, Hawaii",earthquake,0.29,0.25,0.348769941004764,4,reviewed,hv,hv
-2023-10-05T12:03:49.990Z,19.3726666666667,-155.282666666667,1.67,1.34,md,21,105,,0.1,hv,hv73593137,2023-10-05T12:24:02.200Z,"Island of Hawaii, Hawaii",earthquake,0.18,0.22,0.240805722915879,2,reviewed,hv,hv
+2023-10-05T12:03:49.990Z,19.3726666666667,-155.282666666667,1.67,1.34,md,21,105,,0.1,hv,hv73593137,2023-10-05T12:24:02.200Z,"9 km SSW of Volcano, Hawaii",earthquake,0.18,0.22,0.240805722915879,2,reviewed,hv,hv
 2023-10-05T12:01:18.790Z,19.3863333333333,-155.277666666667,1.77,1.95,ml,25,61,,0.1,hv,hv73593132,2023-10-05T12:16:14.920Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.16,0.174028139939269,8,reviewed,hv,hv
 2023-10-05T12:01:05.112Z,29.8541,139.9886,11.848,4.9,mb,60,44,3.255,0.74,us,us6000ld3f,2023-10-05T12:56:51.040Z,"Izu Islands, Japan region",earthquake,9.02,2.616,0.048,136,reviewed,us,us
 2023-10-05T11:56:35.223Z,30.1352,139.8268,12.555,4.8,mb,39,132,2.971,0.74,us,us6000ld3e,2023-10-05T12:33:51.040Z,"Izu Islands, Japan region",earthquake,10.55,4.453,0.056,99,reviewed,us,us
@@ -83,6 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T10:28:11.822Z,36.7649,-116.1141,2.6,-0.2,ml,9,136.65,0.008,0.0774,nn,nn00866812,2023-10-05T14:25:45.591Z,"45 km WNW of Indian Springs, Nevada",earthquake,,1.6,0.54,6,reviewed,nn,nn
 2023-10-05T10:20:29.650Z,19.3698333333333,-155.289333333333,1.71,0.48,md,14,113,,0.08,hv,hv73592887,2023-10-05T10:44:48.590Z,"9 km SW of Volcano, Hawaii",earthquake,0.27,0.25,0.204144552457432,3,reviewed,hv,hv
 2023-10-05T10:20:13.988Z,38.4585,-119.3968,1.3,1.4,ml,8,125.71,0.115,0.2241,nn,nn00866804,2023-10-05T10:24:36.892Z,"9 km SE of Walker, California",earthquake,,6.6,0.15,5,automatic,nn,nn
+2023-10-05T10:03:59.676Z,37.8108,-114.7478,7,1.7,ml,4,139.75,0.471,0.0118,nn,nn00866802,2023-10-05T16:42:28.041Z,"29 km WSW of Pioche, Nevada",earthquake,,9.9,0.29,3,reviewed,nn,nn
 2023-10-05T10:01:42.282Z,61.3963,-147.889,22,2.7,ml,,,,0.58,ak,ak023crxd4am,2023-10-05T13:30:26.170Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-05T09:59:34.630Z,19.3726666666667,-155.281166666667,1.78,1.86,ml,26,106,,0.1,hv,hv73592852,2023-10-05T10:29:11.760Z,"Hawaii region, Hawaii",earthquake,0.17,0.2,0.121496017653182,7,reviewed,hv,hv
 2023-10-05T09:59:29.080Z,19.3815002441406,-155.274505615234,1.30999994277954,1.7,ml,5,154,,0.0799999982,hv,hv73592847,2023-10-05T10:05:00.220Z,"Hawaii region, Hawaii",earthquake,0.97,0.689999998,0.32,5,automatic,hv,hv
@@ -108,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T08:17:14.945Z,64.8785,-150.8184,16,1.2,ml,,,,0.71,ak,ak023crw9mg6,2023-10-05T08:19:15.643Z,"16 km SSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-05T08:09:18.460Z,19.3381666666667,-155.3065,3.26,1.8,ml,27,66,,0.1,hv,hv73592662,2023-10-05T09:37:22.410Z,"13 km SSW of Volcano, Hawaii",earthquake,0.27,0.62,0.215984326483506,14,reviewed,hv,hv
 2023-10-05T07:37:52.900Z,17.917,-66.8486666666667,10.86,2.45,md,7,228,0.06467,0.19,pr,pr71427533,2023-10-05T07:49:02.610Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,1.09,2.43,0.155262778895982,3,reviewed,pr,pr
-2023-10-05T07:26:44.330Z,41.1693344,-124.1784973,16.32,2.62,md,9,227,0.1178,0.11,nc,nc73945676,2023-10-05T09:25:14.512Z,"12 km NNW of Trinidad, CA",earthquake,1.61,0.8,0.16,7,automatic,nc,nc
+2023-10-05T07:26:44.330Z,41.1693344,-124.1784973,16.32,2.62,md,9,227,0.1178,0.11,nc,nc73945676,2023-10-05T16:39:31.926Z,"12 km NNW of Trinidad, CA",earthquake,1.61,0.8,0.16,7,automatic,nc,nc
 2023-10-05T07:05:12.668Z,61.3223,-146.4517,27.2,2.4,ml,,,,0.5,ak,ak023crvlm2q,2023-10-05T07:46:01.040Z,"22 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-05T07:00:35.893Z,-17.8712,-178.4983,563.757,4.3,mb,24,135,4.344,0.89,us,us6000ld19,2023-10-05T07:28:43.040Z,"232 km E of Levuka, Fiji",earthquake,14.04,12.984,0.122,20,reviewed,us,us
 2023-10-05T06:59:58.221Z,59.7033,-152.3079,75.1,2.1,ml,,,,0.66,ak,ak023crvkili,2023-10-05T07:02:35.610Z,"28 km WSW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
