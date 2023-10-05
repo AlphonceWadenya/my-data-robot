@@ -85,6 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T14:45:53.120Z,38.7938347,-122.8101654,2.96,1.3,md,24,76,0.00781,0.02,nc,nc73945776,2023-10-05T17:29:20.227Z,"5 km WNW of The Geysers, CA",earthquake,0.25,0.46,0.19,25,automatic,nc,nc
 2023-10-05T14:45:45.060Z,19.3846666666667,-155.279666666667,1.28,0.58,md,24,67,,0.09,hv,hv73593422,2023-10-05T15:04:10.420Z,"Island of Hawaii, Hawaii",earthquake,0.21,0.17,0.210828761139326,5,reviewed,hv,hv
 2023-10-05T14:45:21.280Z,38.0805,-112.7541667,2.55,1.2,md,11,107,0.1936,0.18,uu,uu60551782,2023-10-05T15:37:52.140Z,"Utah",earthquake,0.44,9.95,0.097,10,reviewed,uu,uu
+2023-10-05T14:36:32.520Z,55.9395,-159.601,2.08,1.56,ml,6,309,,0.3,av,av92074846,2023-10-05T22:46:50.060Z,"Alaska Peninsula",earthquake,2.77,2.68,0.235076852745288,6,reviewed,av,av
 2023-10-05T14:30:49.987Z,61.902,-149.2736,40.9,1.9,ml,,,,0.44,ak,ak023crzx33a,2023-10-05T14:32:28.045Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-05T14:29:52.901Z,65.8897,-146.965,9.7,1.7,ml,,,,0.89,ak,ak023crzwvlm,2023-10-05T14:32:07.764Z,"55 km SSE of Beaver, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-05T14:24:18.460Z,40.5195007,-124.3983307,18.23,2.01,md,14,292,0.06387,0.08,nc,nc73945766,2023-10-05T16:31:12.860Z,"13 km WSW of Ferndale, CA",earthquake,1.7,0.45,0.03,8,automatic,nc,nc
@@ -269,4 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T23:04:28.802Z,32.116,-102.042,7.3609,2.2,ml(texnet),24,57,0.1,0.1,tx,tx2023tman,2023-10-05T13:26:35.574Z,"13 km NNE of Midland, Texas",earthquake,0.7957112782,1.231052434,0,7,reviewed,tx,tx
 2023-10-04T23:02:56.970Z,36.0101667,-117.723,2.34,1.51,ml,17,152,0.03741,0.07,ci,ci40577304,2023-10-05T17:13:21.041Z,"18 km ENE of Little Lake, CA",earthquake,0.17,0.18,0.122,9,reviewed,ci,ci
 2023-10-04T22:55:05.698Z,63.0181,-151.548,0,1.4,ml,,,,1,ak,ak023cqhagx5,2023-10-04T22:57:24.631Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-04T22:50:08.530Z,36.5618324,-121.1546631,7.48,1.85,md,19,125,0.02663,0.05,nc,nc73945506,2023-10-05T02:14:11.056Z,"4 km NNW of Pinnacles, CA",earthquake,0.28,0.72,0.12,22,automatic,nc,nc
