@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-05T08:09:18.440Z,19.3361663818359,-155.305328369141,3.10999989509583,2.22000003,md,31,87,,0.170000002,hv,hv73592662,2023-10-05T08:12:32.180Z,"13 km SSW of Volcano, Hawaii",earthquake,0.29,0.730000019,0.970000029,18,automatic,hv,hv
 2023-10-05T07:37:52.900Z,17.917,-66.8486666666667,10.86,2.45,md,7,228,0.06467,0.19,pr,pr71427533,2023-10-05T07:49:02.610Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,1.09,2.43,0.155262778895982,3,reviewed,pr,pr
 2023-10-05T07:26:44.330Z,41.1693344,-124.1784973,16.32,2.62,md,9,227,0.1178,0.11,nc,nc73945676,2023-10-05T07:48:11.956Z,"12 km NNW of Trinidad, CA",earthquake,1.61,0.8,0.16,7,automatic,nc,nc
 2023-10-05T07:05:12.668Z,61.3223,-146.4517,27.2,2.4,ml,,,,0.5,ak,ak023crvlm2q,2023-10-05T07:46:01.040Z,"22 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -225,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T08:37:05.093Z,56.7729,-156.5008,0,2.1,ml,,,,1.21,ak,ak023cq8ujil,2023-10-04T08:39:06.007Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
 2023-10-04T08:21:56.450Z,60.0481666666667,-153.045833333333,8.36,-0.4,ml,5,200,,0.15,av,av92072816,2023-10-04T22:30:46.970Z,"66 km ENE of Pedro Bay, Alaska",earthquake,1.33,0.9,0.202220167782213,5,reviewed,av,av
 2023-10-04T08:21:06.040Z,58.1726666666667,-155.365166666667,0.52,-0.27,ml,10,78,,0.07,av,av92072811,2023-10-04T23:11:52.370Z,"86 km NW of Karluk, Alaska",earthquake,0.18,1.4,0.167327219591895,10,reviewed,av,av
-2023-10-04T08:06:01.316Z,60.802,-150.6795,44.6,1.5,ml,,,,0.35,ak,ak023cq8nw0z,2023-10-04T08:08:00.825Z,"Kenai Peninsula, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-10-04T08:02:42.190Z,58.1636666666667,-155.325166666667,1.65,-0.07,ml,8,118,,0.07,av,av92072786,2023-10-04T22:21:40.110Z,"Alaska Peninsula",earthquake,0.22,1.05,0.3118985863878,8,reviewed,av,av
