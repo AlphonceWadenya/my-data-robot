@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-06T10:51:44.630Z,38.8129997,-122.796669,3.1,1.08,md,24,38,0.005136,0.02,nc,nc73946196,2023-10-06T10:53:18.440Z,"5 km NW of The Geysers, CA",earthquake,0.23,0.5,0.17,24,automatic,nc,nc
 2023-10-06T10:31:08.183Z,59.1547,-151.8999,33.9,2.2,ml,,,,0.58,ak,ak023ctl2tnm,2023-10-06T10:33:01.792Z,"22 km S of Port Graham, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-10-06T10:29:51.066Z,63.673,-147.5646,183.3,1.7,ml,,,,1.33,ak,ak023ctl2hj6,2023-10-06T10:32:14.239Z,"67 km E of Denali Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-06T10:20:33.110Z,36.5395011901855,-89.6136703491211,6.59000015258789,2.36999989,md,12,89,0.09007,0.0599999987,nm,nm60554396,2023-10-06T10:25:50.440Z,"southeastern Missouri",earthquake,0.39,2.0999999,0.720000029,12,reviewed,nm,nm
