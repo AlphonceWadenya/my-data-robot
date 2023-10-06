@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-06T03:46:41.080Z,19.3861675262451,-155.279006958008,0.879999995231628,1.91999996,md,12,143,,0.119999997,hv,hv73595082,2023-10-06T03:49:42.460Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.270000011,0.889999986,12,automatic,hv,hv
+2023-10-06T03:28:05.078Z,3.8981,-82.5855,10,5.4,mww,84,132,4.542,0.91,us,us6000ldd0,2023-10-06T03:49:34.040Z,"south of Panama",earthquake,4.93,1.832,0.063,24,reviewed,us,us
 2023-10-06T03:24:42.570Z,36.6375,-115.8122,2.3,0.8,ml,14,152.21,0.123,0.1828,nn,nn00866887,2023-10-06T03:26:31.985Z,"14 km WNW of Indian Springs, Nevada",earthquake,,1,1.02,11,automatic,nn,nn
 2023-10-06T03:15:38.550Z,19.3680000305176,-155.287170410156,1.63999998569489,1.87,ml,23,111,,0.119999997,hv,hv73595007,2023-10-06T03:21:09.750Z,"9 km SW of Volcano, Hawaii",earthquake,0.23,0.289999992,0.57,9,automatic,hv,hv
 2023-10-06T03:11:50.230Z,19.3801670074463,-155.278167724609,1.42999994754791,2,ml,24,77,,0.170000002,hv,hv73594997,2023-10-06T03:17:21.020Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.25,0.31,10,automatic,hv,hv
