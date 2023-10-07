@@ -217,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-06T15:55:18.100Z,38.8236656,-122.8526688,2.26,0.94,md,17,84,0.005078,0.03,nc,nc73946316,2023-10-06T16:12:14.760Z,"10 km WNW of The Geysers, CA",earthquake,0.28,0.51,0.25,17,automatic,nc,nc
 2023-10-06T15:55:05.510Z,19.388500213623,-155.275665283203,1.50999999046326,2.49,ml,38,53,,0.180000007,hv,hv73596772,2023-10-06T16:00:35.790Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.180000007,0.46,18,automatic,hv,hv
 2023-10-06T15:52:40.520Z,19.3883333333333,-155.280333333333,1.42,2.03,ml,27,60,,0.12,hv,hv73596767,2023-10-07T01:54:34.440Z,"Hawaii region, Hawaii",earthquake,0.18,0.14,0.215206562074913,13,reviewed,hv,hv
-2023-10-06T15:51:08.871Z,58.3145,-133.3528,0,2.4,ml,,,,0.94,ak,ak023cto6a1z,2023-10-06T15:56:55.621Z,"62 km E of Juneau, Alaska",earthquake,,0.4,,,automatic,ak,ak
