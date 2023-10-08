@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-08T12:42:00.060Z,33.9746667,-117.7228333,13.37,1.11,ml,24,78,0.04266,0.2,ci,ci40578992,2023-10-08T12:45:36.118Z,"4 km ESE of Chino Hills, CA",earthquake,0.36,0.64,0.451,26,automatic,ci,ci
-2023-10-08T12:40:08.810Z,36.0031662,-120.5608368,4.46,0.88,md,10,95,0.02061,0.03,nc,nc73947106,2023-10-08T12:41:43.974Z,"16 km NW of Parkfield, CA",earthquake,0.41,0.61,0.22,4,automatic,nc,nc
+2023-10-08T12:40:08.810Z,36.0031662,-120.5608368,4.46,0.88,md,10,95,0.02061,0.03,nc,nc73947106,2023-10-08T12:57:13.221Z,"16 km NW of Parkfield, CA",earthquake,0.41,0.61,0.22,4,automatic,nc,nc
 2023-10-08T12:39:25.265Z,62.0733,-147.8537,23.9,1.8,ml,,,,0.73,ak,ak023cwxdz8u,2023-10-08T12:41:29.234Z,"31 km NNW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-08T12:35:12.230Z,33.0428333,-115.6083333,5.05,1.49,ml,22,91,0.02266,0.19,ci,ci40578984,2023-10-08T12:45:37.770Z,"1 km ENE of Westmorland, CA",earthquake,0.35,0.58,0.162,26,automatic,ci,ci
 2023-10-08T12:26:36.820Z,19.3834991455078,-155.278335571289,1.5,1.9,ml,21,68,,0.119999997,hv,hv73599902,2023-10-08T12:32:08.210Z,"8 km SW of Volcano, Hawaii",earthquake,0.22,0.189999998,0.28,10,automatic,hv,hv
