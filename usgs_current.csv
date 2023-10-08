@@ -72,7 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-08T13:48:49.760Z,33.03,-116.0008333,2.9,0.59,ml,12,107,0.1444,0.16,ci,ci40579000,2023-10-08T13:52:34.477Z,"18 km SE of Ocotillo Wells, CA",earthquake,0.39,0.56,0.152,3,automatic,ci,ci
 2023-10-08T13:45:45.240Z,62.1878,-151.3663,97.9,1.5,ml,,,,0.27,ak,ak023cwy0wcc,2023-10-08T13:47:31.628Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-08T13:39:26.260Z,36.7171,-116.309,7.6,-0.4,ml,6,111.91,0.015,0.0481,nn,nn00866997,2023-10-08T16:12:51.266Z,"45 km ESE of Beatty, Nevada",earthquake,,2.4,0.66,4,reviewed,nn,nn
-2023-10-08T13:31:46.080Z,38.6873322,-122.5074997,1.49,2.26,md,45,54,0.08917,0.2,nc,nc73947126,2023-10-08T16:15:15.283Z,"12 km SE of Middletown, CA",earthquake,0.26,3.3,0.14,42,automatic,nc,nc
+2023-10-08T13:31:46.080Z,38.6873322,-122.5074997,1.49,2.26,md,45,54,0.08917,0.2,nc,nc73947126,2023-10-08T18:35:43.170Z,"12 km SE of Middletown, CA",earthquake,0.26,3.3,0.14,42,automatic,nc,nc
 2023-10-08T13:27:57.400Z,17.9166666666667,-66.9126666666667,13.8,2.51,md,8,230,0.05537,0.11,pr,pr71427983,2023-10-08T13:44:32.820Z,"Puerto Rico region",earthquake,0.86,0.29,0.102747591804647,4,reviewed,pr,pr
 2023-10-08T13:24:32.730Z,60.6686,-151.1021,46.6,3.2,ml,,,,0.28,ak,ak023cwxwdc9,2023-10-08T13:25:45.921Z,"10 km ESE of Nikiski, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-10-08T13:21:36.361Z,56.8766,-157.346,104.2,1.9,ml,,,,0.51,ak,ak023cwxvqh0,2023-10-08T13:23:56.534Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
@@ -246,7 +246,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T20:55:34.750Z,35.1711667,-119.6085,0.17,1.42,ml,11,104,0.1188,0.22,ci,ci40578744,2023-10-07T20:59:14.146Z,"14 km WNW of Taft, CA",earthquake,0.57,31.61,0.118,20,automatic,ci,ci
 2023-10-07T20:54:11.505Z,38.131,-117.911,0,1.4,ml,9,135,0.089,0.2072,nn,nn00866976,2023-10-07T20:56:56.964Z,"33 km SSE of Mina, Nevada",earthquake,,6.2,0.32,7,automatic,nn,nn
 2023-10-07T20:14:40.320Z,17.9081666666667,-66.9278333333333,13.39,3,md,22,225,0.06626,0.19,pr,pr71427813,2023-10-07T20:44:03.720Z,"7 km SSW of Guánica, Puerto Rico",earthquake,0.58,0.33,0.114878600441292,7,reviewed,pr,pr
-2023-10-07T20:02:20.700Z,33.1945,-116.0325,7.39,0.74,ml,15,58,0.05047,0.19,ci,ci40578728,2023-10-07T20:05:50.042Z,"11 km ENE of Ocotillo Wells, CA",earthquake,0.43,0.93,0.163,9,automatic,ci,ci
+2023-10-07T20:02:20.610Z,33.1891667,-116.0343333,6.93,0.89,ml,18,62,0.04997,0.15,ci,ci40578728,2023-10-08T18:35:25.713Z,"10 km ENE of Ocotillo Wells, CA",earthquake,0.22,0.61,0.116,4,reviewed,ci,ci
 2023-10-07T20:01:10.140Z,17.8865,-66.9275,13.66,3.28,md,18,245,0.08711,0.08,pr,pr71427808,2023-10-07T21:55:35.040Z,"9 km SSW of Guánica, Puerto Rico",earthquake,0.58,0.21,0.0660349343433331,9,reviewed,pr,pr
 2023-10-07T19:52:47.410Z,17.9158,-66.9118,8,4.01,md,14,219,0.1429,0.09,pr,pr2023280001,2023-10-08T03:05:04.621Z,"6 km S of Guánica, Puerto Rico",earthquake,0.46,1.77,0.13,10,reviewed,pr,pr
 2023-10-07T19:50:49.517Z,61.3452,-149.9684,39.3,1.6,ml,,,,0.33,ak,ak023cve38dz,2023-10-07T19:52:30.560Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -262,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T18:50:20.090Z,38.7818336,-122.7415009,0.39,0.73,md,8,112,0.003987,0.01,nc,nc73946766,2023-10-07T21:01:12.873Z,"1 km ENE of The Geysers, CA",earthquake,0.32,0.6,0.1,7,automatic,nc,nc
 2023-10-07T18:49:53.940Z,19.3980007171631,-155.289840698242,2.76999998092651,2.13000011,md,30,71,,0.389999986,hv,hv73598962,2023-10-07T18:53:04.440Z,"7 km SW of Volcano, Hawaii",earthquake,0.56,0.670000017,1.16999996,12,automatic,hv,hv
 2023-10-07T18:42:07.290Z,19.1813335418701,-155.477493286133,32.8899993896484,1.83000004,md,31,90,,0.109999999,hv,hv73598952,2023-10-07T18:45:20.070Z,"Hawaii region, Hawaii",earthquake,0.7,1.04999995,0.409999996,9,automatic,hv,hv
-2023-10-07T18:32:55.147Z,-0.2694,125.1609,45.847,4.8,mb,91,40,2.436,0.85,us,us6000ldvm,2023-10-07T19:32:45.040Z,"113 km SE of Modisi, Indonesia",earthquake,6.2,6.595,0.062,85,reviewed,us,us
