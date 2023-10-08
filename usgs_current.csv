@@ -309,4 +309,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T22:55:08.750Z,17.934,-66.9903333333333,9.72,2.3,md,4,235,0.06223,0.2,pr,pr71427838,2023-10-07T23:06:04.400Z,"7 km SE of La Parguera, Puerto Rico",earthquake,1.49,1.6,0.100805532923504,4,reviewed,pr,pr
 2023-10-07T22:52:52.690Z,34.4775,-116.7898333,9.09,1.18,ml,36,71,0.1329,0.16,ci,ci40578784,2023-10-08T20:45:33.409Z,"17 km ENE of Lucerne Valley, CA",earthquake,0.18,0.47,0.151,19,reviewed,ci,ci
 2023-10-07T22:49:51.629Z,64.5891,-148.8283,15.3,1.3,ml,,,,0.16,ak,ak023cvfvbne,2023-10-07T22:51:15.819Z,"13 km ENE of Nenana, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-07T22:47:30.230Z,19.675,-68.8311,15,3.93,md,12,255,0.5253,0.42,pr,pr2023280002,2023-10-07T23:28:58.040Z,"Dominican Republic region",earthquake,2.46,3.28,0.33,5,reviewed,pr,pr
