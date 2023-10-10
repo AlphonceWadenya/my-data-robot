@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-10T15:52:09.443Z,61.7792,-149.6406,38.7,1.8,ml,,,,0.48,ak,ak023d0abvsg,2023-10-10T15:54:35.919Z,"17 km N of Meadow Lakes, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-10-10T15:50:38.351Z,60.3753,-151.2076,49.2,1.8,ml,,,,0.3,ak,ak023d0abil7,2023-10-10T15:52:06.961Z,"5 km E of Cohoe, Alaska",earthquake,,2.5,,,automatic,ak,ak
+2023-10-10T15:49:42.820Z,35.6618333,-117.4463333,2.28,2.2,ml,24,65,0.01871,0.14,ci,ci40580592,2023-10-10T15:53:21.502Z,"12 km SSW of Searles Valley, CA",earthquake,0.26,0.5,0.178,26,automatic,ci,ci
 2023-10-10T15:36:18.120Z,33.4813333,-116.4498333,10.04,1.82,ml,49,38,0.04655,0.21,ci,ci40580584,2023-10-10T15:40:13.796Z,"22 km ESE of Anza, CA",earthquake,0.21,0.41,0.259,25,automatic,ci,ci
 2023-10-10T15:35:40.160Z,33.4775,-116.4515,9.89,1.99,ml,58,27,0.0506,0.23,ci,ci40580568,2023-10-10T15:46:55.370Z,"22 km ESE of Anza, CA",earthquake,0.21,0.46,0.285,26,automatic,ci,ci
 2023-10-10T15:26:49.340Z,37.7313347,-122.142334,5.94,2.27,md,55,32,0.01962,0.09,nc,nc73948576,2023-10-10T15:49:52.369Z,"1 km ENE of San Leandro, CA",earthquake,0.14,0.28,0.12,49,automatic,nc,nc
@@ -127,6 +130,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T00:33:12.760Z,19.3758335113525,-155.279663085938,1.28999996185303,1.86,ml,19,133,,0.230000004,hv,hv73602427,2023-10-10T00:38:42.820Z,"8 km SSW of Volcano, Hawaii",earthquake,0.36,0.389999986,0.18,7,automatic,hv,hv
 2023-10-10T00:29:13.420Z,33.6835,-116.7871667,14.43,0.93,ml,22,74,0.06978,0.16,ci,ci40580312,2023-10-10T13:28:40.778Z,"9 km SW of Idyllwild, CA",earthquake,0.35,0.53,0.207,23,reviewed,ci,ci
 2023-10-10T00:28:35.730Z,38.7923317,-122.7606659,2.59,1.1,md,12,111,0.008315,0.03,nc,nc73948316,2023-10-10T01:25:11.623Z,"2 km NNW of The Geysers, CA",earthquake,0.36,0.76,0.1,12,automatic,nc,nc
+2023-10-10T00:16:05.491Z,31.608,-103.994,6.8514,2.2,ml(texnet),20,59,0,0.1,tx,tx2023tvgk,2023-10-10T15:55:00.668Z,"37 km NNW of Toyah, Texas",earthquake,0.9932262018,1.217236869,0.1,7,reviewed,tx,tx
 2023-10-10T00:13:15.347Z,-23.6067,-63.6564,538.053,5.6,mww,95,25,4.209,0.8,us,us6000leee,2023-10-10T04:15:33.089Z,"63 km SE of Embarcación, Argentina",earthquake,10.66,6.116,0.055,32,reviewed,us,us
 2023-10-10T00:09:15.212Z,31.662,-104.483,6.0287,1.9,ml(texnet),12,71,0,0.2,tx,tx2023tvgf,2023-10-10T10:43:39.762Z,"57 km S of Whites City, New Mexico",earthquake,1.056033408,0.6515030464,0.2,9,reviewed,tx,tx
 2023-10-10T00:01:00.660Z,39.6126,-119.9661,6.2,0.6,ml,5,157.56,0.007,0.0783,nn,nn00867075,2023-10-10T13:41:41.510Z,"7 km S of Cold Springs, Nevada",earthquake,,1.5,0.19,4,reviewed,nn,nn
@@ -201,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T16:11:05.975Z,59.5922,-152.5481,68.2,1.5,ml,,,,0.5,ak,ak023cyn569x,2023-10-09T16:13:21.343Z,"44 km NW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-10-09T16:02:09.289Z,36.21766667,-95.83033333,0,1.32,ml,24,117,0.3086394344,0.28,ok,ok2023tuqc,2023-10-10T13:02:04.402Z,"6 km SSE of Owasso, Oklahoma",quarry blast,,0.5,0.33,4,reviewed,ok,ok
 2023-10-09T15:57:15.400Z,34.0883333,-118.2615,11.47,2.59,ml,93,31,0.03872,0.18,ci,ci40579712,2023-10-10T15:45:23.066Z,"0 km SE of Silver Lake, CA",earthquake,0.13,0.22,0.149,26,reviewed,ci,ci
-2023-10-09T15:54:06.648Z,62.5803,-151.8454,98.2,1.7,ml,,,,0.41,ak,ak023cymsyig,2023-10-09T15:56:31.157Z,"56 km W of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-10-09T15:51:03.314Z,28.679,-98.192,3.1058,2,ml(texnet),11,69,0.1,0.1,tx,tx2023tupt,2023-10-10T14:17:35.045Z,"southern Texas",earthquake,1.183119873,2.747870203,0.2,7,reviewed,tx,tx
