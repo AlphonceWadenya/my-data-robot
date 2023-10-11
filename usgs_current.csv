@@ -168,7 +168,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T22:24:51.370Z,19.38450050354,-155.278671264648,0.170000001788139,1.89999998,md,7,148,,0.129999995,hv,hv73603982,2023-10-10T22:27:40.150Z,"Island of Hawaii, Hawaii",earthquake,0.34,0.349999994,0.349999994,7,automatic,hv,hv
 2023-10-10T22:23:41.210Z,45.904,-119.31683333333334,-0.32,2.11,ml,14,109,0.2858,0.15,uw,uw61965351,2023-10-11T17:39:05.077Z,"2 km SE of Umatilla, Oregon",explosion,0.41,31.61,0.10264437433768347,8,reviewed,uw,uw
 2023-10-10T22:20:37.130Z,46.9076666666667,-112.519833333333,13.21,1.34,ml,9,130,0.06487,0.16,mb,mb90029418,2023-10-11T15:09:19.780Z,"13 km ESE of Lincoln, Montana",earthquake,0.75,0.69,0.18261114904442,10,reviewed,mb,mb
-2023-10-10T22:08:39.890Z,37.2853,-118.1868,0,0.1,ml,3,327.3,0.19,0.2143,nn,nn00867115,2023-10-11T00:21:15.236Z,"16 km NE of Big Pine, California",earthquake,,10.4,0,1,reviewed,nn,nn
+2023-10-10T22:08:39.890Z,37.2853,-118.1868,0,0.1,ml,3,327.3,0.19,0.2143,nn,nn00867115,2023-10-11T00:21:15.236Z,"California-Nevada border region",earthquake,,10.4,0,1,reviewed,nn,nn
 2023-10-10T22:08:04.790Z,17.8901666666667,-66.8726666666667,12.95,2.29,md,8,237,0.08466,0.06,pr,pr71428148,2023-10-10T22:18:19.970Z,"Puerto Rico region",earthquake,0.81,0.36,0.0366257011071571,5,reviewed,pr,pr
 2023-10-10T21:54:42.790Z,37.2163315,-118.3918304,9.74,1.65,md,6,144,0.08804,0.02,nc,nc73948681,2023-10-10T23:40:39.284Z,"6 km S of Wilkerson, CA",earthquake,1.07,2.02,0.47,4,automatic,nc,nc
 2023-10-10T21:41:34.920Z,38.8258324,-122.8065033,2.17,1.32,md,23,36,0.003702,0.02,nc,nc73948676,2023-10-10T22:11:19.558Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.38,0.1,25,automatic,nc,nc
@@ -181,6 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T20:18:01.364Z,66.1089,-148.8017,3.3,1.5,ml,,,,0.47,ak,ak023d0d3qug,2023-10-10T20:19:41.403Z,"17 km NE of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-10T20:05:12.520Z,33.0356667,-115.6098333,9,1.56,ml,11,97,0.0236,0.21,ci,ci40580768,2023-10-10T21:09:19.437Z,"1 km E of Westmorland, CA",earthquake,0.46,0.99,0.165,3,reviewed,ci,ci
 2023-10-10T19:51:55.540Z,38.7806664,-122.720665,1.84,0.89,md,7,204,0.01281,0.01,nc,nc73948661,2023-10-10T20:22:14.933Z,"3 km WNW of Anderson Springs, CA",earthquake,0.63,0.88,0.25,6,automatic,nc,nc
-2023-10-10T19:29:24.769Z,36.01416667,-96.5215,0,1.53,ml,34,76,0.2177572686,0.33,ok,ok2023twsl,2023-10-11T13:34:45.613Z,"7 km ENE of Drumright, Oklahoma",quarry blast,,0.4,0.17,7,reviewed,ok,ok
-2023-10-10T19:28:24.090Z,62.2198,-148.4998,33.8,1.7,ml,,,,0.71,ak,ak023d0cki5l,2023-10-10T19:30:01.862Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-10T19:27:49.260Z,33.8463333,-117.487,-0.51,1.41,ml,44,33,0.04531,0.26,ci,ci40580744,2023-10-10T20:59:53.952Z,"5 km SE of Home Gardens, CA",quarry blast,0.38,31.61,0.134,33,reviewed,ci,ci
