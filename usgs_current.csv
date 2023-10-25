@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-25T23:38:14.630Z,34.0186653,-117.2576675,15.45,1.89,ml,70,20,0.0735,0.19,ci,ci40587744,2023-10-25T23:40:39.757Z,"3 km S of Loma Linda, CA",earthquake,0.2,0.35,0.253,27,automatic,ci,ci
 2023-10-25T23:09:48.810Z,35.509,-118.3955,5.66,0.98,ml,17,67,0.1663,0.14,ci,ci40587720,2023-10-25T23:21:53.117Z,"12 km SE of Bodfish, CA",earthquake,0.25,1.06,0.081,8,reviewed,ci,ci
 2023-10-25T23:01:09.132Z,61.4975,-146.6758,32.4,1.1,ml,,,,0.55,ak,ak023dp7umht,2023-10-25T23:03:15.296Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-25T22:56:55.990Z,19.3369998931885,-155.30583190918,2.6800000667572,1.81,ml,21,85,,0.109999999,hv,hv73624357,2023-10-25T23:02:26.310Z,"13 km SSW of Volcano, Hawaii",earthquake,0.28,0.560000002,0.61,4,automatic,hv,hv
@@ -59,6 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-25T16:54:29.660Z,34.6853333,-116.2858333,5.4,1.25,ml,9,106,0.1108,0.09,ci,ci40587256,2023-10-25T18:01:50.602Z,"12 km WSW of Ludlow, CA",earthquake,0.29,1.86,0.13,12,reviewed,ci,ci
 2023-10-25T16:44:04.190Z,38.8373337,-122.7975006,2.36,0.44,md,9,80,0.005691,0.02,nc,nc73951250,2023-10-25T18:28:11.164Z,"7 km WNW of Cobb, CA",earthquake,0.41,1.68,0.24,10,automatic,nc,nc
 2023-10-25T16:17:56.570Z,46.89833333333333,-121.94166666666666,6.65,1.04,ml,11,120,0.005085,0.07,uw,uw61959152,2023-10-25T16:51:35.240Z,"16 km NNE of Ashford, Washington",earthquake,0.28,0.54,0.14133679009228567,10,reviewed,uw,uw
+2023-10-25T15:52:18.043Z,36.6662,83.7634,10,4.4,mb,35,87,5.75,1.08,us,us7000l6b4,2023-10-25T23:36:16.040Z,"southern Xinjiang, China",earthquake,4.78,1.903,0.149,13,reviewed,us,us
 2023-10-25T15:43:46.069Z,60.6593,-147.6384,22,1.1,ml,,,,0.23,ak,ak023dp3c8ku,2023-10-25T15:45:06.215Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-25T15:32:02.875Z,61.1435,-147.8634,1.5,0.2,ml,,,,0.62,ak,ak023dp39sge,2023-10-25T15:33:59.709Z,"60 km NE of Whittier, Alaska",earthquake,,8.4,,,automatic,ak,ak
 2023-10-25T15:31:50.840Z,38.7948341,-122.7346649,2.1,0.95,md,8,170,0.01169,0.01,nc,nc73951245,2023-10-25T15:54:12.269Z,"3 km NE of The Geysers, CA",earthquake,0.58,0.91,0.24,6,automatic,nc,nc
