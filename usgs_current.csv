@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-25T19:47:03.370Z,19.1713333129883,-155.484497070312,31.7399997711182,2.32,ml,47,91,,0.100000001,hv,hv73624077,2023-10-25T19:52:33.710Z,"3 km S of Pāhala, Hawaii",earthquake,0.47,0.75999999,3.79,10,automatic,hv,hv
 2023-10-25T19:43:14.423Z,60.7578,-151.425,75,1.3,ml,,,,0.34,ak,ak023dp5pwk2,2023-10-25T19:45:20.165Z,"Kenai Peninsula, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-10-25T19:41:14.650Z,38.8171654,-122.8098297,2.43,1.09,md,23,42,0.006223,0.02,nc,nc73951350,2023-10-25T19:42:48.932Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.49,0.07,24,automatic,nc,nc
+2023-10-25T19:41:14.650Z,38.8171654,-122.8098297,2.43,1.09,md,23,42,0.006223,0.02,nc,nc73951350,2023-10-25T19:52:10.642Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.49,0.07,24,automatic,nc,nc
 2023-10-25T19:28:11.271Z,59.7793,-152.87,101.8,1.6,ml,,,,0.44,ak,ak023dp5mokn,2023-10-25T19:30:25.645Z,"58 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-25T19:18:45.267Z,57.8436,-154.6234,34.3,1.4,ml,,,,0.69,ak,ak023dp5km1a,2023-10-25T19:20:21.453Z,"32 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-25T19:15:48.800Z,33.8606667,-117.5038333,0.61,1.02,ml,33,41,0.06524,0.29,ci,ci40587448,2023-10-25T19:19:35.537Z,"2 km SE of Home Gardens, CA",quarry blast,0.47,31.61,0.103,16,automatic,ci,ci
@@ -218,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T19:57:16.040Z,19.3533325195312,-155.283828735352,3.05999994277954,1.79,ml,15,139,,0.150000006,hv,hv73622642,2023-10-24T20:02:46.910Z,"11 km SSW of Volcano, Hawaii",earthquake,0.42,0.819999993,0.35,6,automatic,hv,hv
 2023-10-24T19:56:12.890Z,38.8408333,-122.8265,1.46,0.34,md,7,101,0.007368,0.03,nc,nc73950890,2023-10-24T20:24:10.939Z,"9 km WNW of Cobb, CA",earthquake,0.68,0.95,0.05,6,reviewed,nc,nc
 2023-10-24T19:53:02.278Z,37.2972,-117.5965,6.5,2.2,ml,19,65.65,0.076,0.1646,nn,nn00867834,2023-10-24T20:40:12.994Z,"50 km S of Silver Peak, Nevada",earthquake,,1.6,0.53,7,reviewed,nn,nn
-2023-10-24T19:51:04.640Z,32.7491667,-115.4133333,15.26,2.67,ml,37,69,0.06269,0.27,ci,ci40586488,2023-10-24T20:16:14.320Z,"8 km SSW of Holtville, CA",earthquake,0.32,0.52,0.121,25,reviewed,ci,ci
