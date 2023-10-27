@@ -310,4 +310,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-26T22:33:46.580Z,19.3388333333333,-155.307833333333,3.08,1.02,md,22,87,,0.09,hv,hv73626127,2023-10-26T22:52:15.920Z,"13 km SW of Volcano, Hawaii",earthquake,0.23,0.42,0.19503103259543,5,reviewed,hv,hv
 2023-10-26T22:32:45.808Z,31.388,-103.523,3.2523,1.5,ml(texnet),15,71,0,0.2,tx,tx2023vaen,2023-10-27T17:45:49.140Z,"2 km NE of Lindsay, Texas",earthquake,1.554440064,1.649083569,0.1,6,reviewed,tx,tx
 2023-10-26T22:32:13.335Z,60.6174,-145.281,0,1.4,ml,,,,0.51,ak,ak023dquz6wl,2023-10-26T22:33:56.651Z,"27 km ENE of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-26T22:29:02.540Z,19.325,-155.229833333333,1.22,0.77,md,16,191,,0.13,hv,hv73626122,2023-10-26T23:07:20.300Z,"Island of Hawaii, Hawaii",earthquake,0.41,0.63,0.327747776379399,5,reviewed,hv,hv
