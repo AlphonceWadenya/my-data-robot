@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-29T16:38:52.950Z,19.1498336791992,-155.443664550781,29.2099990844727,2.44,ml,49,167,,0.150000006,hv,hv73631167,2023-10-29T16:44:23.770Z,"6 km SSE of Pāhala, Hawaii",earthquake,0.6,0.910000026,0.25,15,automatic,hv,hv
 2023-10-29T16:19:07.825Z,37.4243,-117.9641,2,1.2,ml,8,190.63,0.057,0.3536,nn,nn00868123,2023-10-29T16:21:53.204Z,"California-Nevada border region",earthquake,,30.7,0.42,5,automatic,nn,nn
 2023-10-29T16:18:32.346Z,58.5505,-155.0997,8.4,2.5,ml,,,,0.37,ak,ak023dvpxo76,2023-10-29T16:19:56.016Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
 2023-10-29T16:15:39.030Z,17.9426666666667,-66.9443333333333,10.34,2.51,md,15,217,0.04491,0.12,pr,pr71430318,2023-10-29T16:33:35.160Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.38,0.38,0.274579319899745,7,reviewed,pr,pr
