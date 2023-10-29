@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-29T07:26:19.180Z,33.0748329,-115.5781631,10.57,2.35,ml,60,60,0.03661,0.25,ci,ci40590616,2023-10-29T07:28:40.722Z,"6 km NE of Westmorland, CA",earthquake,0.22,0.4,0.34,25,automatic,ci,ci
 2023-10-29T06:35:02.470Z,33.8443333,-117.7466667,7.71,1.13,ml,20,60,0.03898,0.21,ci,ci40590592,2023-10-29T06:38:34.651Z,"7 km ENE of Villa Park, CA",earthquake,0.4,0.77,0.255,19,automatic,ci,ci
 2023-10-29T06:29:12.070Z,33.7951667,-116.9323333,12.79,0.39,ml,10,135,0.1042,0.15,ci,ci40590584,2023-10-29T06:32:39.767Z,"3 km ENE of San Jacinto, CA",earthquake,0.58,1.02,0.108,5,automatic,ci,ci
 2023-10-29T06:28:19.950Z,19.3408336639404,-155.30583190918,2.61999988555908,2.03999996,md,26,107,,0.109999999,hv,hv73630632,2023-10-29T06:31:28.420Z,"13 km SW of Volcano, Hawaii",earthquake,0.32,0.779999971,0.959999979,15,automatic,hv,hv
