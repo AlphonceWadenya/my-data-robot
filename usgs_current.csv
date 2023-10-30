@@ -216,3 +216,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T21:04:40.560Z,38.8019981,-122.8150024,3.3,1.08,md,24,64,0.01303,0.02,nc,nc73953430,2023-10-29T21:16:10.084Z,"6 km WNW of The Geysers, CA",earthquake,0.25,0.46,0.12,24,automatic,nc,nc
 2023-10-29T20:59:39.300Z,38.8023338,-122.8144989,3.32,1.5,md,30,64,0.0132,0.02,nc,nc73953425,2023-10-29T22:39:11.519Z,"6 km WNW of The Geysers, CA",earthquake,0.22,0.41,0.13,30,automatic,nc,nc
 2023-10-29T20:58:00.240Z,53.9018333333333,-167.9025,2.36,1.66,ml,6,168,,0.09,av,av92100376,2023-10-29T21:52:54.400Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.97,2.26,0.248883484362893,5,reviewed,av,av
+2023-10-29T20:56:12.430Z,33.5973333,-116.6455,14.49,0.18,ml,9,156,0.04132,0.1,ci,ci40590912,2023-10-30T20:46:08.831Z,"5 km NNE of Anza, CA",earthquake,0.51,0.69,0.102,3,reviewed,ci,ci
