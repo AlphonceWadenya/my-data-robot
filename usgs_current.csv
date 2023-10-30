@@ -59,9 +59,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T12:56:15.530Z,38.8219986,-122.7651672,2.6,0.7,md,8,126,0.009237,0.01,nc,nc73953680,2023-10-30T13:41:12.775Z,"4 km W of Cobb, CA",earthquake,0.5,1.16,0.07,8,automatic,nc,nc
 2023-10-30T12:45:22.390Z,19.3598333333333,-155.302833333333,1.98,2.39,ml,19,95,,0.1,hv,hv73632682,2023-10-30T18:03:44.770Z,"11 km SW of Volcano, Hawaii",earthquake,0.22,0.32,0.191328228491057,15,reviewed,hv,hv
 2023-10-30T12:34:53.228Z,58.1536,-155.4492,26.7,0.7,ml,,,,0.7,ak,ak023dxb6rk6,2023-10-30T12:37:06.165Z,"87 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-30T12:31:38.000Z,33.4843333,-116.4226667,5.45,3.41,ml,117,22,0.03905,0.18,ci,ci40591304,2023-10-30T19:58:49.519Z,"22 km SSW of La Quinta, CA",earthquake,0.09,0.34,0.158,188,reviewed,ci,ci
+2023-10-30T12:31:38.000Z,33.4843333,-116.4226667,5.45,3.41,ml,117,22,0.03905,0.18,ci,ci40591304,2023-10-30T20:54:45.803Z,"22 km SSW of La Quinta, CA",earthquake,0.09,0.34,0.158,188,reviewed,ci,ci
 2023-10-30T12:29:58.182Z,40.4476,84.8014,10,4.1,mb,24,144,4.901,0.67,us,us7000l7j4,2023-10-30T12:43:30.040Z,"184 km SW of Korla, China",earthquake,11.41,1.988,0.214,6,reviewed,us,us
 2023-10-30T12:27:12.580Z,38.8221664,-122.7900009,0.82,1.04,md,11,71,0.01149,0.03,nc,nc73953670,2023-10-30T13:02:11.440Z,"6 km NNW of The Geysers, CA",earthquake,0.9,2.25,0.1,11,automatic,nc,nc
+2023-10-30T12:26:31.590Z,33.4893333,-116.474,14.59,0.66,ml,20,140,0.083,0.14,ci,ci40591296,2023-10-30T20:55:03.877Z,"20 km ESE of Anza, CA",earthquake,0.42,0.34,0.118,12,reviewed,ci,ci
 2023-10-30T12:15:18.944Z,-3.1644,128.3601,30.935,4.4,mb,26,67,2.048,0.53,us,us7000l7j0,2023-10-30T12:54:28.984Z,"61 km NNE of Ambon, Indonesia",earthquake,7.49,6.208,0.155,12,reviewed,us,us
 2023-10-30T11:59:36.050Z,34.0381667,-117.2383333,17.63,1.25,ml,53,39,0.07657,0.19,ci,ci40591280,2023-10-30T15:38:36.927Z,"2 km ESE of Loma Linda, CA",earthquake,0.2,0.39,0.11,19,reviewed,ci,ci
 2023-10-30T11:55:54.477Z,4.8218,125.626,175.217,4.4,mb,28,129,2.234,0.73,us,us7000l7iy,2023-10-30T12:13:51.040Z,"66 km SSE of Sarangani, Philippines",earthquake,9.29,1.87,0.11,24,reviewed,us,us
@@ -217,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T21:04:40.560Z,38.8019981,-122.8150024,3.3,1.08,md,24,64,0.01303,0.02,nc,nc73953430,2023-10-29T21:16:10.084Z,"6 km WNW of The Geysers, CA",earthquake,0.25,0.46,0.12,24,automatic,nc,nc
 2023-10-29T20:59:39.300Z,38.8023338,-122.8144989,3.32,1.5,md,30,64,0.0132,0.02,nc,nc73953425,2023-10-29T22:39:11.519Z,"6 km WNW of The Geysers, CA",earthquake,0.22,0.41,0.13,30,automatic,nc,nc
 2023-10-29T20:58:00.240Z,53.9018333333333,-167.9025,2.36,1.66,ml,6,168,,0.09,av,av92100376,2023-10-29T21:52:54.400Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.97,2.26,0.248883484362893,5,reviewed,av,av
-2023-10-29T20:56:12.430Z,33.5973333,-116.6455,14.49,0.18,ml,9,156,0.04132,0.1,ci,ci40590912,2023-10-30T20:46:08.831Z,"5 km NNE of Anza, CA",earthquake,0.51,0.69,0.102,3,reviewed,ci,ci
