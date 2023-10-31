@@ -25,6 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T16:24:30.570Z,38.8203316,-122.7723312,15.42,0.71,md,13,184,0.0103,0.09,nc,nc73954180,2023-10-31T16:58:11.345Z,"4 km W of Cobb, CA",earthquake,1.42,0.97,0.16,14,automatic,nc,nc
 2023-10-31T16:03:39.626Z,60.6113,-144.3268,14.3,2,ml,,,,0.65,ak,ak023dz0x60a,2023-10-31T16:05:13.955Z,"78 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-31T15:51:36.650Z,31.625,-103.993,9.8849,2.6,ml(texnet),22,54,0,0.1,tx,tx2023viuv,2023-10-31T18:05:26.744Z,"38 km WSW of Mentone, Texas",earthquake,0.7625887078,0.8143870178,0.3,30,reviewed,tx,tx
+2023-10-31T15:35:50.018Z,4.8022,32.0665,10,4.8,mb,38,66,5.53,0.8,us,us7000l7uj,2023-10-31T19:22:14.040Z,"53 km E of Juba, South Sudan",earthquake,10.68,1.872,0.105,28,reviewed,us,us
 2023-10-31T15:30:18.250Z,47.6935,-113.825166666667,11.52,0.79,ml,6,226,0.2186,0.07,mb,mb90031433,2023-10-31T15:59:59.980Z,"western Montana",earthquake,1.2,2.28,0.236497484115929,3,reviewed,mb,mb
 2023-10-31T15:28:37.830Z,38.7955017,-122.7580032,3.76,1.01,md,20,85,0.005287,0.02,nc,nc73954165,2023-10-31T16:22:13.028Z,"2 km N of The Geysers, CA",earthquake,0.28,0.68,0.23,19,automatic,nc,nc
 2023-10-31T15:23:35.360Z,38.6881676,-122.4964981,7.87,1.56,md,13,110,0.09454,0.06,nc,nc73954160,2023-10-31T15:55:10.868Z,"12 km SE of Middletown, CA",earthquake,0.37,1.36,0.17,15,automatic,nc,nc
