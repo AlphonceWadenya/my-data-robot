@@ -207,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T06:05:32.160Z,38.8313332,-122.8168335,1.59,0.99,md,21,51,0.01627,0.01,nc,nc73954020,2023-10-31T06:40:11.604Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.42,0.26,22,automatic,nc,nc
 2023-10-31T06:05:28.430Z,33.2723333,-116.7825,11.53,0.67,ml,27,66,0.04135,0.14,ci,ci40592416,2023-10-31T17:36:37.904Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.22,0.6,0.096,10,reviewed,ci,ci
 2023-10-31T05:57:54.930Z,46.901833333333336,-120.5885,-0.84,0.62,md,7,119,0.01631,1.2,uw,uw61502848,2023-10-31T18:23:45.680Z,"10 km SSW of Ellensburg, Washington",earthquake,2.61,4.88,0.339112845564181,4,reviewed,uw,uw
-2023-10-31T05:57:13.880Z,46.91983333333334,-120.5615,-0.88,1.46,ml,13,107,0.01112,0.78,uw,uw61960562,2023-10-31T18:10:56.720Z,"8 km S of Ellensburg, Washington",earthquake,1.37,2.79,0.11653182558907327,11,reviewed,uw,uw
-2023-10-31T05:56:11.443Z,62.1035,-147.7676,39.4,1.2,ml,,,,0.2,ak,ak023dyuop4o,2023-10-31T05:57:38.432Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
