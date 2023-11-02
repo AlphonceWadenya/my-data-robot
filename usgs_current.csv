@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-02T18:36:30.190Z,36.8943329,-121.6173325,0.38,2.32,md,10,76,0.0226,0.06,nc,nc73955185,2023-11-02T18:38:06.065Z,"2 km ENE of Aromas, CA",earthquake,0.3,0.63,0.12,9,automatic,nc,nc
+2023-11-02T18:36:30.190Z,36.8943329,-121.6173325,0.38,2.32,md,10,76,0.0226,0.06,nc,nc73955185,2023-11-02T18:47:12.135Z,"2 km ENE of Aromas, CA",earthquake,0.3,0.63,0.12,9,automatic,nc,nc
 2023-11-02T18:32:43.080Z,38.8111649,-122.8014984,2.43,1.09,md,26,36,0.005798,0.02,nc,nc73955180,2023-11-02T18:41:12.223Z,"5 km NW of The Geysers, CA",earthquake,0.21,0.39,0.13,27,automatic,nc,nc
 2023-11-02T18:31:37.490Z,38.8103333,-122.8016663,2.53,2.24,md,38,38,0.005504,0.03,nc,nc73955175,2023-11-02T18:42:15.231Z,"5 km NW of The Geysers, CA",earthquake,0.16,0.29,0.18,46,automatic,nc,nc
 2023-11-02T18:28:16.707Z,60.6258,-144.3221,5.5,1.6,ml,,,,0.44,ak,ak023e2dbw26,2023-11-02T18:30:54.586Z,"79 km E of Cordova, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -106,7 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T05:27:16.034Z,-24.9688,-71.0125,26.857,4.4,mb,29,144,1.232,0.7,us,us7000l893,2023-11-02T06:33:00.040Z,"71 km NW of Taltal, Chile",earthquake,5.58,1.836,0.203,11,reviewed,us,us
 2023-11-02T05:15:34.535Z,64.28,-148.5152,3.7,1.2,ml,,,,0.42,ak,ak023e25injh,2023-11-02T05:17:41.939Z,"32 km E of Clear, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-02T04:51:38.256Z,59.4249,-145.0736,59.2,2,ml,,,,0.62,ak,ak023e254y01,2023-11-02T04:53:39.013Z,"130 km SSE of Cordova, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-11-02T04:40:49.110Z,38.9323333,-123.1391667,5.76,1.17,md,18,63,0.04233,0.08,nc,nc73954935,2023-11-02T18:37:44.613Z,"18 km NW of Cloverdale, CA",earthquake,0.2,0.47,0.197,17,reviewed,nc,nc
+2023-11-02T04:40:49.110Z,38.9323333,-123.1391667,5.76,1.17,md,18,63,0.04233,0.08,nc,nc73954935,2023-11-02T18:47:11.135Z,"18 km NW of Cloverdale, CA",earthquake,0.2,0.47,0.197,17,reviewed,nc,nc
 2023-11-02T04:39:10.360Z,46.118,-122.16933333333333,10.3,1.06,ml,22,109,0.01801,0.22,uw,uw61961002,2023-11-02T17:29:24.370Z,"Mount St. Helens area, Washington",earthquake,0.46,0.65,0.061441837591982074,13,reviewed,uw,uw
 2023-11-02T04:37:41.900Z,19.4348,-64.762,34,3.71,md,12,300,1.0997,0.5,pr,pr2023306000,2023-11-02T05:12:27.040Z,"122 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.1,30.22,0.07,4,reviewed,pr,pr
 2023-11-02T04:33:13.496Z,56.002,-156.5314,10,2.8,ml,,,,0.33,ak,ak023e25120f,2023-11-02T12:25:52.446Z,"Alaska Peninsula",earthquake,,0,,,reviewed,ak,ak
