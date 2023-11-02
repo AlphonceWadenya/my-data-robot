@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T21:33:06.392Z,36.724,-117.198,0,1.1,ml,17,204.96,0.178,0.1506,nn,nn00868291,2023-11-01T22:16:22.784Z,"Central California",earthquake,,0,0.25,6,reviewed,nn,nn
 2023-11-01T21:27:07.780Z,19.1663341522217,-155.500839233398,32.5099983215332,1.85000002,md,31,212,,0.129999995,hv,hv73636022,2023-11-01T21:30:15.250Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.88,0.899999976,0.239999995,5,automatic,hv,hv
 2023-11-01T21:25:06.640Z,38.706501,-122.5273361,2.16,1.81,md,18,122,0.08448,0.13,nc,nc73954750,2023-11-02T00:34:12.526Z,"9 km SE of Middletown, CA",earthquake,0.39,4.63,0.07,18,automatic,nc,nc
-2023-11-01T21:21:53.754Z,39.5385,-119.6425,0,2,ml,13,91.74,0.078,0.2565,nn,nn00868281,2023-11-01T21:54:36.888Z,"9 km E of Sparks, Nevada",explosion,,0,0.21,6,reviewed,nn,nn
