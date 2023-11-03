@@ -5,6 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T20:24:52.942Z,62.9038,-150.229,77.8,1.8,ml,,,,0.48,ak,ak023e421gz2,2023-11-03T20:27:03.996Z,"51 km N of Chase, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-03T20:20:38.620Z,34.4066667,-119.1683333,2.78,1.89,ml,22,67,0.0395,0.27,ci,ci39706682,2023-11-03T20:24:23.507Z,"8 km SE of Ojai, CA",earthquake,0.48,0.56,0.206,29,automatic,ci,ci
 2023-11-03T20:12:18.650Z,34.4205017,-119.1644974,10.45,3.96,mlr,109,33,0.02768,0.31,ci,ci39706674,2023-11-03T20:49:15.110Z,"8 km ESE of Ojai, CA",earthquake,0.24,0.67,0.38,17,reviewed,ci,ci
+2023-11-03T20:07:06.020Z,19.4751666666667,-155.603666666667,5.04,0.56,md,14,82,,0.14,hv,hv73638437,2023-11-03T20:54:02.100Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.48,0.67,0.0522015286732119,6,reviewed,hv,hv
 2023-11-03T20:06:38.033Z,31.592,-104.551,3.3824,2.3,ml(texnet),18,164,0.1,0.3,tx,tx2023vopt,2023-11-03T20:24:12.603Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.056514493,0.1,14,automatic,tx,tx
 2023-11-03T19:58:07.182Z,60.8197,-147.6885,25.5,1.4,ml,,,,0.56,ak,ak023e41n86m,2023-11-03T19:59:39.616Z,"54 km E of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-03T19:58:05.539Z,63.0479,-150.9074,114.2,2,ml,,,,0.28,ak,ak023e41n8cn,2023-11-03T20:13:40.782Z,"61 km N of Petersville, Alaska",earthquake,,0.6,,,reviewed,ak,ak
