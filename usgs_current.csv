@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T18:07:21.390Z,38.6850014,-122.5028305,3.61,1.27,md,8,128,0.09186,0.03,nc,nc73956050,2023-11-04T18:24:16.126Z,"12 km SE of Middletown, CA",earthquake,0.41,3.99,0.27,8,automatic,nc,nc
 2023-11-04T17:50:57.290Z,19.2876663208008,-155.38166809082,1.3400000333786,1.75999999,md,15,178,,0.129999995,hv,hv73639017,2023-11-04T17:54:03.580Z,"Hawaii region, Hawaii",earthquake,0.48,0.610000014,0.219999999,5,automatic,hv,hv
 2023-11-04T17:50:49.770Z,38.6878319,-122.4978333,6.47,2.18,md,30,57,,0.11,nc,nc73956045,2023-11-04T18:03:15.005Z,"12 km SE of Middletown, CA",earthquake,0.24,0.85,0.08,34,automatic,nc,nc
+2023-11-04T17:43:09.407Z,-19.6779,-175.6875,215.218,4.6,mb,33,151,1.552,1.05,us,us7000l8w5,2023-11-04T18:33:12.040Z,"Tonga",earthquake,13.84,8.49,0.09,40,reviewed,us,us
 2023-11-04T17:37:58.257Z,37.0857,-116.1903,3.8,0.4,ml,11,69.27,0.13,0.1208,nn,nn00868442,2023-11-04T17:39:51.097Z,"Nevada",earthquake,,0,0.96,8,automatic,nn,nn
 2023-11-04T17:25:39.015Z,31.667,-104.186,4.4005,1.7,ml(texnet),19,62,0.1,0.3,tx,tx2023vqfz,2023-11-04T17:53:30.068Z,"54 km NW of Toyah, Texas",earthquake,0,1.206462837,0.2,14,automatic,tx,tx
 2023-11-04T17:11:33.477Z,57.8236,-153.3854,47.5,2.2,ml,,,,0.39,ak,ak023e5npotz,2023-11-04T17:15:27.650Z,"30 km W of Port Lions, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -33,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T12:53:55.645Z,62.2815,-149.875,19.2,1.2,ml,,,,0.43,ak,ak023e5kzklo,2023-11-04T12:56:34.540Z,"13 km ESE of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-04T12:49:52.601Z,-20.5156,-177.8899,382.817,4.3,mb,45,78,2.595,0.75,us,us7000l8v5,2023-11-04T13:12:04.040Z,"278 km WNW of Houma, Tonga",earthquake,12.29,7.405,0.066,68,reviewed,us,us
 2023-11-04T12:49:21.218Z,63.1072,-150.3568,105.1,1.4,ml,,,,0.22,ak,ak023e5kyn2x,2023-11-04T12:51:23.022Z,"71 km NNE of Petersville, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-11-04T12:27:34.660Z,35.4138333333333,-83.5285,13.01,2.51,md,21,53,0.2441,0.14,se,se60501268,2023-11-04T16:34:38.434Z,"7 km WSW of Bryson City, North Carolina",earthquake,0.43,1.81,0.0608846971042487,13,reviewed,se,se
+2023-11-04T12:27:34.660Z,35.4138333333333,-83.5285,13.01,2.51,md,21,53,0.2441,0.14,se,se60501268,2023-11-04T18:36:00.574Z,"7 km WSW of Bryson City, North Carolina",earthquake,0.43,1.81,0.0608846971042487,13,reviewed,se,se
 2023-11-04T12:26:00.906Z,20.2008,122.0072,11.274,4.4,mb,52,101,2.743,0.86,us,us7000l8v3,2023-11-04T12:55:51.040Z,"27 km S of Basco, Philippines",earthquake,8.43,4.493,0.1,29,reviewed,us,us
 2023-11-04T12:18:33.010Z,38.7849998,-122.7233353,1,1.52,md,15,85,0.01061,0.03,nc,nc73955965,2023-11-04T14:19:11.707Z,"3 km WNW of Anderson Springs, CA",earthquake,0.26,0.59,0.11,17,automatic,nc,nc
 2023-11-04T12:16:56.622Z,36.5899,-116.275,7.1,-0.3,ml,7,137.23,0.076,0.0386,nn,nn00868441,2023-11-04T14:16:39.086Z,"49 km NNW of Pahrump, Nevada",earthquake,,3.1,0.57,5,reviewed,nn,nn
