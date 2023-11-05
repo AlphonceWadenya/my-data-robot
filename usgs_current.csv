@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-05T08:35:48.142Z,63.4746,-149.5804,97.9,1.6,ml,,,,0.34,ak,ak023e761b7i,2023-11-05T08:37:59.910Z,"32 km WNW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-05T08:20:12.461Z,60.7583,-150.8834,49.3,1.8,ml,,,,0.26,ak,ak023e75y0pq,2023-11-05T08:21:50.026Z,"21 km SSW of Point Possession, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-05T08:11:07.919Z,60.4915,-143.06,18.8,0.8,ml,,,,1.1,ak,ak023e75w2x3,2023-11-05T08:12:43.175Z,"105 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-05T07:59:41.200Z,34.1201667,-117.4705,8.71,0.7,ml,19,114,0.08984,0.2,ci,ci39708402,2023-11-05T08:03:18.932Z,"3 km NNW of Fontana, CA",earthquake,0.47,0.98,0.174,15,automatic,ci,ci
@@ -206,7 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T08:56:15.954Z,62.7919,-150.8729,90.1,1.6,ml,,,,0.62,ak,ak023e5ime9n,2023-11-04T08:57:59.337Z,"Central Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-11-04T08:48:36.630Z,17.8841666666667,-66.8963333333333,7.33,2.14,md,4,291,0.09184,0.09,pr,pr71430723,2023-11-04T09:01:47.160Z,"9 km S of Guánica, Puerto Rico",earthquake,0.84,0.35,0.184774812567358,2,reviewed,pr,pr
 2023-11-04T08:46:17.297Z,31.642,-104.306,4.6359,1.6,ml(texnet),20,69,0,0.3,tx,tx2023vpou,2023-11-04T09:31:45.795Z,"western Texas",earthquake,0,1.226128034,0.2,16,automatic,tx,tx
-2023-11-04T08:39:04.854Z,31.66,-104.306,8.1111,2.4,ml(texnet),61,58,0,0.2,tx,tx2023vpon,2023-11-04T14:46:07.570Z,"57 km S of Whites City, New Mexico",earthquake,0.6109940244,0.8376315058,0.1,41,reviewed,tx,tx
-2023-11-04T08:38:29.820Z,35.638,-117.6111667,8.23,1.07,ml,19,73,0.1258,0.22,ci,ci39707266,2023-11-04T08:42:13.731Z,"6 km ENE of Ridgecrest, CA",earthquake,0.43,1.37,0.134,10,automatic,ci,ci
-2023-11-04T08:36:38.440Z,17.9753333333333,-66.847,14.36,2.82,md,30,177,0.0307,0.21,pr,pr71430713,2023-11-04T09:15:22.670Z,"3 km SW of Indios, Puerto Rico",earthquake,0.41,0.41,0.18000426915066,14,reviewed,pr,pr
-2023-11-04T08:36:32.431Z,31.646,-104.306,4.0781,1.9,mlv,18,69,0,0.3,tx,tx2023vpom,2023-11-04T09:28:35.550Z,"59 km S of Whites City, New Mexico",earthquake,0,1.302804559,0.1,13,automatic,tx,tx
