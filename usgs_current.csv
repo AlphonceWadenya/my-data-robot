@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T20:58:16.978Z,57.9388,-156.0843,9.7,1.4,ml,,,,0.17,ak,ak023e7dbdj5,2023-11-05T21:00:08.803Z,"82 km ESE of Egegik, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2023-11-05T20:53:08.251Z,60.0487,-152.1191,75.8,1.9,ml,,,,0.46,ak,ak023e7daaa1,2023-11-05T20:56:01.868Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-05T20:49:45.880Z,38.8311653,-122.8089981,2.51,0.71,md,11,67,0.007804,0.02,nc,nc73956515,2023-11-05T21:30:11.845Z,"8 km W of Cobb, CA",earthquake,0.31,0.84,0.16,11,automatic,nc,nc
-2023-11-05T20:42:34.069Z,12.6579,-90.4237,10,4.4,mb,54,165,1.372,0.63,us,us7000l926,2023-11-05T21:02:20.040Z,"121 km SSW of Acajutla, El Salvador",earthquake,5.73,1.886,0.063,74,reviewed,us,us
