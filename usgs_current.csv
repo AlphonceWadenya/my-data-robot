@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T01:51:05.370Z,40.1398315,-121.1248322,-1.77,3.43,ml,60,24,0.2348,0.4,nc,nc73956640,2023-11-06T03:22:54.284Z,"5 km SW of Canyondam, CA",earthquake,0.43,1.96,0.243,24,automatic,nc,nc
 2023-11-06T01:41:52.270Z,38.8253326,-122.850502,1.75,0.54,md,10,135,0.005445,0.02,nc,nc73956630,2023-11-06T01:58:13.391Z,"10 km WNW of The Geysers, CA",earthquake,0.41,0.67,0.27,10,automatic,nc,nc
 2023-11-06T01:35:42.034Z,58.8575,-153.758,15.9,2.3,ml,,,,0.43,ak,ak023e8pelzv,2023-11-06T01:37:16.019Z,"87 km SE of Kokhanok, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-06T01:34:01.220Z,46.54083333333333,-122.48683333333334,20.41,0.9,ml,24,71,0.05773,0.15,uw,uw61970601,2023-11-06T05:24:42.350Z,"Washington",earthquake,0.29,0.65,0.10572074986232305,8,reviewed,uw,uw
+2023-11-06T01:34:01.220Z,46.54083333333333,-122.48683333333334,20.41,0.9,ml,24,71,0.05773,0.15,uw,uw61970601,2023-11-06T05:25:13.650Z,"1 km N of Mossyrock, Washington",earthquake,0.29,0.65,0.10572074986232305,8,reviewed,uw,uw
 2023-11-06T01:17:48.771Z,58.7813,-153.6851,14.3,1.1,ml,,,,0.86,ak,ak023e8pas40,2023-11-06T01:20:43.810Z,"Kodiak Island region, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-06T01:11:58.882Z,58.7372,-153.405,16.6,1.9,ml,,,,0.72,ak,ak023e8p9i40,2023-11-06T01:13:26.138Z,"Kodiak Island region, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-06T01:11:01.770Z,35.9373322,-120.4875031,9.54,2.78,md,53,49,,0.1,nc,nc73956620,2023-11-06T01:18:47.906Z,"7 km NW of Parkfield, CA",earthquake,0.16,0.25,0.14,70,automatic,nc,nc
@@ -211,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T05:36:48.650Z,18.7551666666667,-67.4141666666667,17.73,3.05,md,18,309,0.4436,0.26,pr,pr71430773,2023-11-05T05:49:12.870Z,"44 km NW of San Antonio, Puerto Rico",earthquake,0.91,1.09,0.0935680536751979,8,reviewed,pr,pr
 2023-11-05T05:34:48.350Z,60.5777,-151.2057,26.1,1.8,ml,,,,0.61,ak,ak023e748soz,2023-11-05T05:36:33.140Z,"3 km NE of Kenai, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-05T05:31:32.210Z,32.852,-115.744,5.61,0.97,ml,19,101,0.104,0.26,ci,ci39708290,2023-11-05T05:35:14.295Z,"16 km W of Imperial, CA",earthquake,0.47,1.49,0.192,8,automatic,ci,ci
-2023-11-05T05:25:35.930Z,37.5621667,-118.8318333,3.96,-0.02,md,10,206,0.0279,0.03,nc,nc71131779,2023-11-05T07:22:36.535Z,"13 km W of Toms Place, CA",earthquake,1.12,1,0.153,8,reviewed,nc,nc
-2023-11-05T05:25:11.280Z,37.6396667,-119.07,-0.21,0.16,md,6,151,0.01047,0.01,nc,nc71131774,2023-11-05T09:42:10.530Z,"8 km W of Mammoth Lakes, CA",earthquake,0.66,0.65,0.276,7,reviewed,nc,nc
