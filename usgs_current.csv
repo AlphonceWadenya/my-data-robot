@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-06T21:31:03.750Z,40.3844986,-124.3160019,23.44,2.54,md,15,244,0.0221,0.11,nc,nc73957010,2023-11-06T21:37:11.466Z,"7 km NNW of Petrolia, CA",earthquake,1.61,0.96,0.08,11,automatic,nc,nc
-2023-11-06T21:22:54.660Z,38.8343315,-122.8170013,1.29,0.77,md,13,69,0.01219,0.03,nc,nc73957005,2023-11-06T21:37:10.466Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.74,0.12,15,automatic,nc,nc
+2023-11-06T21:31:03.750Z,40.3844986,-124.3160019,23.44,2.54,md,15,244,0.0221,0.11,nc,nc73957010,2023-11-06T21:48:14.533Z,"7 km NNW of Petrolia, CA",earthquake,1.61,0.96,0.08,11,automatic,nc,nc
+2023-11-06T21:30:59.991Z,-7.4825,156.1122,26.361,5.3,mww,72,61,5.111,0.6,us,us7000l98e,2023-11-06T21:49:11.040Z,"105 km NW of Gizo, Solomon Islands",earthquake,9.22,5.02,0.083,14,reviewed,us,us
+2023-11-06T21:22:54.660Z,38.8343315,-122.8170013,1.29,0.77,md,13,69,0.01219,0.03,nc,nc73957005,2023-11-06T21:48:13.532Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.74,0.12,15,automatic,nc,nc
 2023-11-06T21:21:28.110Z,38.8378334,-122.8255005,1.16,0.63,md,8,88,0.007836,0.02,nc,nc73957000,2023-11-06T21:38:13.472Z,"9 km NW of The Geysers, CA",earthquake,0.36,1,0.05,8,automatic,nc,nc
 2023-11-06T21:18:42.140Z,35.5065002,-118.3844986,8.28,1.69,ml,27,65,0.1722,0.14,ci,ci39709522,2023-11-06T21:20:48.324Z,"13 km SE of Bodfish, CA",earthquake,0.24,1.16,0.142,17,automatic,ci,ci
 2023-11-06T21:11:18.250Z,38.8361664,-122.8119965,2.2,1.02,md,12,57,0.01284,0.01,nc,nc73956995,2023-11-06T21:27:15.409Z,"8 km WNW of Cobb, CA",earthquake,0.31,1.03,0.29,13,automatic,nc,nc
