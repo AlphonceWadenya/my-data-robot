@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-07T22:48:24.610Z,37.1731682,-117.8000031,2.16,2.42,ml,21,99,0.1367,0.36,ci,ci39710146,2023-11-07T22:52:32.555Z,"43 km E of Big Pine, CA",earthquake,0.5,1.89,0.238,19,automatic,ci,ci
+2023-11-07T22:48:24.610Z,37.1731682,-117.8000031,2.16,2.42,ml,21,99,0.1367,0.36,ci,ci39710146,2023-11-07T23:19:32.353Z,"43 km E of Big Pine, CA",earthquake,0.5,1.89,0.238,19,automatic,ci,ci
 2023-11-07T22:46:53.862Z,59.2344,-151.9219,53.9,2.3,ml,,,,0.51,ak,ak023eapifze,2023-11-07T22:49:10.690Z,"13 km S of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-07T22:36:42.420Z,38.7953339,-122.8066635,3.33,0.26,md,9,108,0.00754,0.02,nc,nc73957470,2023-11-07T22:49:10.058Z,"5 km WNW of The Geysers, CA",earthquake,0.61,1.31,0.02,9,automatic,nc,nc
 2023-11-07T22:27:07.850Z,33.980999,-117.1466675,16.68,1.06,ml,22,183,0.1286,0.13,ci,ci39710138,2023-11-07T22:29:23.551Z,"9 km W of Calimesa, CA",earthquake,0.86,1.23,0.3,6,automatic,ci,ci
@@ -205,7 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T23:30:01.350Z,46.92166666666667,-120.5445,-0.89,1.48,ml,8,99,0.01992,0.9,uw,uw61970851,2023-11-07T06:10:24.920Z,"8 km S of Ellensburg, Washington",earthquake,1.77,5.54,0.033988838392889686,6,reviewed,uw,uw
 2023-11-06T23:27:26.470Z,62.5978,-150.7054,74.1,1.8,ml,,,,0.42,ak,ak023e92gedj,2023-11-06T23:29:45.569Z,"11 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-06T23:24:11.340Z,46.199333333333335,-122.19333333333333,1.92,0.36,ml,10,99,0.001777,0.06,uw,uw61970846,2023-11-07T06:02:02.150Z,"37 km NNE of Amboy, Washington",earthquake,0.4,0.3,0.13683023951514683,6,reviewed,uw,uw
-2023-11-06T23:21:29.480Z,34.0838333,-116.9875,2.4,2.13,ml,70,41,0.04392,0.13,ci,ci39709602,2023-11-07T20:45:47.660Z,"8 km NE of Yucaipa, CA",earthquake,0.1,0.22,0.213,24,reviewed,ci,ci
-2023-11-06T23:20:21.990Z,33.9068333,-116.7486667,17.85,1.4,ml,46,52,0.03026,0.16,ci,ci39709594,2023-11-07T20:08:47.292Z,"4 km ESE of Cabazon, CA",earthquake,0.2,0.41,0.106,22,reviewed,ci,ci
-2023-11-06T23:15:53.723Z,57.4338,-154.1037,49.694,4.1,mb,54,143,0.89,0.69,us,us7000l98t,2023-11-07T00:09:04.313Z,"14 km SSW of Larsen Bay, Alaska",earthquake,6.1,11.742,0.301,3,reviewed,us,us
-2023-11-06T23:15:25.462Z,57.5046,-154.2321,28,3.9,ml,,,,0.72,ak,ak023e92dtky,2023-11-06T23:54:15.382Z,"15 km ESE of Karluk, Alaska",earthquake,,0.7,,,reviewed,ak,ak
