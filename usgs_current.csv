@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T04:36:31.932Z,63.5495,-147.6914,16.1,2.2,ml,,,,0.34,ak,ak023e8r73qx,2023-11-06T04:38:06.210Z,"63 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-06T04:29:27.642Z,-24.0649,-179.6961,465.414,4.4,mb,38,64,5.052,0.84,us,us7000l93h,2023-11-06T23:48:08.040Z,"south of the Fiji Islands",earthquake,11.55,7.348,0.108,25,reviewed,us,us
 2023-11-06T03:59:27.510Z,38.8436661,-122.8793335,2.38,0.67,md,10,99,0.006316,0.02,nc,nc73956675,2023-11-06T04:18:14.188Z,"13 km ENE of Cloverdale, CA",earthquake,0.38,0.58,0.21,9,automatic,nc,nc
-2023-11-06T03:53:29.939Z,63.8104,-148.7588,106.5,1.6,ml,,,,0.33,ak,ak023e8qpb5t,2023-11-06T03:55:43.538Z,"11 km ESE of Healy, Alaska",earthquake,,1.5,,,automatic,ak,ak
