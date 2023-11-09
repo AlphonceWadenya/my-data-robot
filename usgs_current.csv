@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-09T13:38:11.110Z,38.8246651,-122.8238297,0.89,0.27,md,6,162,0.008885,0.02,nc,nc73960461,2023-11-09T13:39:46.944Z,"8 km NW of The Geysers, CA",earthquake,0.69,0.7,0.12,7,automatic,nc,nc
 2023-11-09T13:26:26.920Z,38.8378334,-122.8256683,1.78,1.03,md,19,74,0.007705,0.02,nc,nc73960456,2023-11-09T13:38:10.893Z,"9 km NW of The Geysers, CA",earthquake,0.23,0.45,0.25,21,automatic,nc,nc
 2023-11-09T13:04:55.161Z,31.636,-103.987,4.1188,1.6,ml(texnet),15,88,0,0.4,tx,tx2023vzax,2023-11-09T13:18:28.041Z,"western Texas",earthquake,0,1.234190915,0.2,12,automatic,tx,tx
 2023-11-09T13:04:05.425Z,31.627,-103.994,8.2171,2,ml(texnet),16,46,0,0.6,tx,tx2023vzav,2023-11-09T13:18:23.848Z,"38 km WSW of Mentone, Texas",earthquake,0,2.438334591,0.2,12,automatic,tx,tx
@@ -146,6 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T21:16:47.440Z,36.463,-121.0381667,6.84,0.55,md,5,116,0.01773,0.13,nc,nc73960166,2023-11-08T23:05:17.006Z,"12 km SE of Pinnacles, CA",earthquake,0.63,0.78,0.124,6,reviewed,nc,nc
 2023-11-08T21:16:33.630Z,38.8146667,-122.7628326,2.13,1.11,md,15,109,0.01402,0.03,nc,nc73960156,2023-11-09T00:38:13.538Z,"4 km WSW of Cobb, CA",earthquake,0.3,0.54,0.13,17,automatic,nc,nc
 2023-11-08T21:14:37.780Z,38.8320007,-122.8180008,1.51,0.73,md,12,70,0.01059,0.01,nc,nc73960151,2023-11-08T21:33:14.478Z,"8 km NW of The Geysers, CA",earthquake,0.29,0.62,0.13,14,automatic,nc,nc
+2023-11-08T21:13:26.666Z,31.628,-104.011,6.3886,2.2,ml(texnet),15,50,0,0.1,tx,tx2023vxvn,2023-11-09T13:41:25.978Z,"39 km WSW of Mentone, Texas",earthquake,0.6273465089,0.5187623918,0.1,19,reviewed,tx,tx
 2023-11-08T21:05:02.793Z,31.666,-104.021,4.8365,1.8,ml(texnet),15,50,0,0.2,tx,tx2023vxvf,2023-11-08T21:34:43.950Z,"40 km W of Mentone, Texas",earthquake,0,1.244947522,0.2,12,automatic,tx,tx
 2023-11-08T21:03:14.574Z,31.719,-104.279,1.8806,1.5,mlv,7,137,0,1,tx,tx2023vxvd,2023-11-08T21:49:39.782Z,"western Texas",earthquake,0,3.845481421,0.7,7,automatic,tx,tx
 2023-11-08T20:57:39.310Z,33.2763333,-116.2613333,7.04,1.97,ml,75,25,0.1019,0.21,ci,ci39710466,2023-11-09T00:41:55.130Z,"11 km ENE of Borrego Springs, CA",earthquake,0.16,0.76,0.161,24,reviewed,ci,ci
