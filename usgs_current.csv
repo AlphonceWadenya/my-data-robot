@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-10T13:39:26.630Z,19.2533340454102,-155.369659423828,31.6200008392334,2.62,ml,51,152,,0.109999999,hv,hv73642847,2023-11-10T13:44:58.150Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.47,0.560000002,3.26,31,automatic,hv,hv
+2023-11-10T13:38:36.510Z,36.574501,-121.1606674,6.1,1.3,md,9,135,0.02011,0.08,nc,nc73960926,2023-11-10T13:40:10.190Z,"5 km NNW of Pinnacles, CA",earthquake,0.49,0.88,0.27,7,automatic,nc,nc
 2023-11-10T13:26:31.760Z,38.788166,-122.768837,1.66,1.62,md,30,80,0.01434,0.03,nc,nc73960911,2023-11-10T13:34:11.250Z,"2 km NW of The Geysers, CA",earthquake,0.21,0.33,0.18,32,automatic,nc,nc
 2023-11-10T13:26:09.756Z,60.3474,-152.2134,83,2.5,ml,,,,0.53,ak,ak023efin79p,2023-11-10T13:28:22.668Z,"44 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-10T13:03:04.346Z,60.5015,-152.4861,107,1.8,ml,,,,0.23,ak,ak023efii9eq,2023-11-10T13:04:34.922Z,"65 km WSW of Salamatof, Alaska",earthquake,,0.6,,,automatic,ak,ak
