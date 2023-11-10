@@ -54,6 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T03:55:07.246Z,55.6135,166.2035,10,4.9,mww,60,90,5.126,0.8,us,us7000l9zi,2023-11-10T04:15:21.040Z,"242 km ESE of Ust’-Kamchatsk Staryy, Russia",earthquake,10.53,1.866,0.089,12,reviewed,us,us
 2023-11-10T03:50:35.199Z,-6.0431,130.1688,10,5.9,mww,88,43,7.325,0.94,us,us7000l9ze,2023-11-10T05:53:53.204Z,"289 km W of Tual, Indonesia",earthquake,7.8,1.75,0.071,19,reviewed,us,us
 2023-11-10T03:48:52.887Z,-6.0269,130.0031,10,4.9,mb,32,121,8.751,0.37,us,us7000l9zd,2023-11-10T04:03:59.040Z,"Banda Sea",earthquake,9.57,1.885,0.11,26,reviewed,us,us
+2023-11-10T03:45:31.070Z,38.7888333,-122.7368333,2.5,0.45,md,26,88,0.005589,0.02,nc,nc73960741,2023-11-10T11:45:51.776Z,"2 km NE of The Geysers, CA",earthquake,0.16,0.36,0.281,18,reviewed,nc,nc
 2023-11-10T03:26:32.255Z,31.992,-103.846,6.9657,1.7,ml(texnet),6,187,0,0.2,tx,tx2023wadh,2023-11-10T03:38:23.762Z,"33 km SE of Malaga, New Mexico",earthquake,0,5.271417256,0.2,6,automatic,tx,tx
 2023-11-10T03:25:57.340Z,19.4888324737549,-155.492004394531,4.82999992370605,1.93,ml,21,63,,0.239999995,hv,hv73642592,2023-11-10T03:31:28.760Z,"27 km W of Volcano, Hawaii",earthquake,0.51,1.24000001,0.36,3,automatic,hv,hv
 2023-11-10T03:24:36.920Z,33.4871674,-116.4846649,10.1,1.01,ml,31,98,0.08012,0.17,ci,ci39711050,2023-11-10T03:39:31.060Z,"19 km ESE of Anza, CA",earthquake,0.42,0.65,0.251,7,automatic,ci,ci
