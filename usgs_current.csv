@@ -187,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T13:55:30.510Z,33.9851667,-116.7428333,12.53,0.69,ml,30,91,0.07346,0.11,ci,ci39710730,2023-11-09T15:17:14.237Z,"9 km NNE of Cabazon, CA",earthquake,0.21,0.44,0.19,12,reviewed,ci,ci
 2023-11-09T13:54:42.907Z,31.7,-104.199,2.3485,1.5,ml(texnet),8,210,0.1,0.5,tx,tx2023vzcn,2023-11-09T14:38:19.388Z,"western Texas",earthquake,0,3.398701554,0.1,6,automatic,tx,tx
 2023-11-09T13:47:24.417Z,31.664,-104.292,3.1803,1.6,mlv,17,67,0,0.5,tx,tx2023vzcg,2023-11-09T14:02:01.009Z,"57 km S of Whites City, New Mexico",earthquake,0,1.372015184,0.1,13,automatic,tx,tx
-2023-11-09T13:38:11.110Z,38.8246651,-122.8238297,0.89,0.27,md,6,162,0.008885,0.02,nc,nc73960461,2023-11-09T13:55:14.994Z,"8 km NW of The Geysers, CA",earthquake,0.69,0.7,0.12,7,automatic,nc,nc
