@@ -178,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T16:51:21.130Z,33.5048333,-116.505,10.01,0.46,ml,22,116,0.05684,0.12,ci,ci39711730,2023-11-11T16:57:23.623Z,"17 km ESE of Anza, CA",earthquake,0.27,0.32,0.168,8,automatic,ci,ci
 2023-11-11T16:43:29.240Z,38.8320007,-122.8176651,1.71,0.71,md,9,135,0.01044,0.02,nc,nc73961641,2023-11-11T16:58:10.695Z,"8 km NW of The Geysers, CA",earthquake,0.45,1.23,0.33,9,automatic,nc,nc
 2023-11-11T16:43:13.780Z,38.7840004,-122.7431641,0.44,1.3,md,13,81,0.00509,0.02,nc,nc73961636,2023-11-11T19:32:10.480Z,"1 km ENE of The Geysers, CA",earthquake,0.21,0.64,0.32,12,automatic,nc,nc
-2023-11-11T16:36:56.620Z,35.7126667,-117.5665,2.14,0.49,ml,22,82,0.1256,0.14,ci,ci39711722,2023-11-11T16:42:47.238Z,"14 km NE of Ridgecrest, CA",earthquake,0.21,0.33,0.103,5,automatic,ci,ci
