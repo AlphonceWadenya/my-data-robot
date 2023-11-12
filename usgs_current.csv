@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-12T19:39:57.170Z,33.765667,-116.9353333,15.18,1.34,ml,41,45,0.07897,0.16,ci,ci39712234,2023-11-12T19:42:02.216Z,"3 km SE of San Jacinto, CA",earthquake,0.26,0.51,0.173,13,automatic,ci,ci
 2023-11-12T19:29:54.000Z,32.918,-116.2356667,7.36,1.32,ml,48,45,0.06764,0.18,ci,ci39712226,2023-11-12T19:36:04.356Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.16,0.43,0.161,20,automatic,ci,ci
 2023-11-12T19:14:40.939Z,60.0468,-139.5238,0,1.9,ml,,,,1.09,ak,ak023eix7zq5,2023-11-12T19:16:23.468Z,"56 km NNE of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-12T18:50:40.411Z,38.1424,-117.8843,1.8,1.4,ml,13,169.75,0.097,0.2075,nn,nn00868808,2023-11-12T18:53:30.348Z,"33 km SE of Mina, Nevada",earthquake,,1.7,0.24,8,automatic,nn,nn
