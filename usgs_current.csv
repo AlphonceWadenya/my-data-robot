@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-13T21:56:14.484Z,58.1738,-155.3953,1.1,0.9,ml,,,,0.19,ak,ak023ekm75go,2023-11-13T21:57:44.368Z,"87 km NW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-11-13T21:28:06.400Z,36.6218338,-121.215332,7.74,1.31,md,6,204,0.05553,0.03,nc,nc73962581,2023-11-13T21:39:11.606Z,"12 km NNW of Pinnacles, CA",earthquake,0.96,1.19,0.21,6,automatic,nc,nc
 2023-11-13T20:50:27.970Z,19.3390007019043,-155.127838134766,3.50999999046326,1.72,ml,23,109,,0.200000003,hv,hv73647022,2023-11-13T20:55:58.660Z,"14 km S of Fern Forest, Hawaii",earthquake,0.54,1.21000004,0.53,3,automatic,hv,hv
 2023-11-13T20:30:37.530Z,32.6073333,-116.9838333,2.96,1.03,ml,23,108,0.04528,0.22,ci,ci39712714,2023-11-13T20:36:45.950Z,"6 km ESE of Chula Vista, CA",earthquake,0.34,0.33,0.097,6,automatic,ci,ci
@@ -82,6 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T11:22:20.030Z,33.2511667,-116.1118333,10.85,1.37,ml,72,44,0.1062,0.2,ci,ci39712426,2023-11-13T20:19:42.371Z,"12 km N of Ocotillo Wells, CA",earthquake,0.15,0.47,0.183,22,reviewed,ci,ci
 2023-11-13T11:20:52.496Z,62.098,-148.2574,38.7,1.2,ml,,,,0.38,ak,ak023ekg16kh,2023-11-13T11:22:49.870Z,"35 km NNE of Chickaloon, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-13T11:19:49.740Z,38.8219986,-122.8541641,2.31,0.92,md,16,66,0.005929,0.03,nc,nc73962391,2023-11-13T13:10:10.900Z,"10 km WNW of The Geysers, CA",earthquake,0.27,0.56,0.17,19,automatic,nc,nc
+2023-11-13T11:11:14.882Z,28.534,-98.405,4.7687,2.1,ml(texnet),15,95,0.1,0.2,tx,tx2023wgfc,2023-11-13T21:57:49.599Z,"16 km ENE of Tilden, Texas",earthquake,3.190832514,2.632686827,0.1,9,reviewed,tx,tx
 2023-11-13T11:07:51.504Z,31.686,-104.421,6.2274,1.8,ml(texnet),16,58,0,0.3,tx,tx2023wgez,2023-11-13T11:47:03.791Z,"54 km S of Whites City, New Mexico",earthquake,0,2.484719786,0.2,12,automatic,tx,tx
 2023-11-13T11:00:50.590Z,19.3401666666667,-155.299666666667,3.19,2.42,ml,44,61,,0.11,hv,hv73646562,2023-11-13T20:36:38.630Z,"13 km SSW of Volcano, Hawaii",earthquake,0.22,0.41,0.173457790275874,23,reviewed,hv,hv
 2023-11-13T10:52:47.980Z,18.008,-66.8138,14,3.32,md,14,150,0.0732,0.17,pr,pr2023317000,2023-11-13T11:22:50.330Z,"1 km NNE of Indios, Puerto Rico",earthquake,0.46,0.78,0.08,8,reviewed,pr,pr
