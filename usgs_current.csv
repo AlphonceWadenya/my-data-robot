@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-14T20:30:39.140Z,32.7589989,-116.9076691,4.76,1.55,ml,17,89,0.03743,0.14,ci,ci39713162,2023-11-14T20:33:06.579Z,"3 km ENE of Rancho San Diego, CA",earthquake,0.42,0.95,0.197,8,automatic,ci,ci
 2023-11-14T20:24:52.850Z,38.8388329,-122.8355026,1.23,0.57,md,6,155,0.0002438,0.01,nc,nc73962926,2023-11-14T20:26:27.080Z,"10 km NW of The Geysers, CA",earthquake,0.53,0.99,0.44,7,automatic,nc,nc
 2023-11-14T20:20:41.408Z,57.2078,-155.1071,55,1.9,ml,,,,0.25,ak,ak023em8xeng,2023-11-14T20:22:54.644Z,"56 km SW of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-11-14T20:19:27.660Z,38.8721657,-122.8541641,7.51,0.3,md,9,234,0.02974,0.12,nc,nc73962921,2023-11-14T20:21:03.465Z,"12 km S of Kelseyville, CA",earthquake,2.07,1.82,0.18,8,automatic,nc,nc
@@ -25,6 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T17:43:57.690Z,19.1761665344238,-155.479339599609,31.5,1.82000005,md,24,157,,0.159999996,hv,hv73647712,2023-11-14T17:47:12.560Z,"2 km S of Pāhala, Hawaii",earthquake,0.91,1.15999997,0.180000007,5,automatic,hv,hv
 2023-11-14T17:43:32.449Z,61.2793,-150.2816,35.9,1.6,ml,,,,0.71,ak,ak023em7a0m4,2023-11-14T17:46:14.991Z,"18 km WSW of Point MacKenzie, Alaska",earthquake,,7.4,,,automatic,ak,ak
 2023-11-14T17:43:09.813Z,31.684,-104.49,0.6362,1.6,mlv,12,104,0,1.1,tx,tx2023winp,2023-11-14T18:16:18.173Z,"55 km S of Whites City, New Mexico",earthquake,0,1.501101963,0.7,10,automatic,tx,tx
+2023-11-14T17:37:31.896Z,-14.8914,-177.5623,390.403,4.4,mb,101,102,6.635,0.53,us,us6000lne8,2023-11-14T20:31:27.040Z,"87 km SE of Alo, Wallis and Futuna",earthquake,12.42,5.991,0.057,98,reviewed,us,us
 2023-11-14T17:26:16.990Z,38.8339996,-122.815834,1.17,0.19,md,11,71,0.01151,0.02,nc,nc73962871,2023-11-14T19:13:10.126Z,"8 km NW of The Geysers, CA",earthquake,0.3,0.7,0.08,11,automatic,nc,nc
 2023-11-14T17:19:31.830Z,19.361665725708,-155.303833007812,1.69000005722046,1.81,ml,21,55,,0.150000006,hv,hv73647672,2023-11-14T17:25:02.060Z,"11 km SW of Volcano, Hawaii",earthquake,0.26,0.439999998,0.19,6,automatic,hv,hv
 2023-11-14T17:15:31.848Z,5.6511,125.2946,227.568,4.4,mb,85,109,1.437,0.84,us,us6000lne4,2023-11-14T20:11:13.040Z,"5 km SSE of Pangyan, Philippines",earthquake,9.28,6.285,0.064,75,reviewed,us,us
