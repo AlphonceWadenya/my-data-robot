@@ -240,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T07:34:52.881Z,38.1857,-117.8512,12.5,1,ml,8,77.54,0.106,0.156,nn,nn00868869,2023-11-14T17:55:27.498Z,"32 km SE of Mina, Nevada",earthquake,,1.4,0,1,reviewed,nn,nn
 2023-11-14T07:30:57.860Z,37.4743333,-118.7685,11.06,0.93,md,9,321,0.1251,0.02,nc,nc73962736,2023-11-14T08:00:10.065Z,"12 km SW of Toms Place, CA",earthquake,2.06,2.06,0.187,9,reviewed,nc,nc
 2023-11-14T07:30:51.180Z,35.9713333,-117.6778333,1.9,1.37,ml,24,65,0.1069,0.2,ci,ci39712914,2023-11-14T15:34:23.480Z,"21 km E of Little Lake, CA",earthquake,0.35,0.43,0.087,8,reviewed,ci,ci
-2023-11-14T07:15:16.010Z,34.2388333,-117.6221667,12.1,0.9,ml,35,56,0.03013,0.14,ci,ci39712906,2023-11-14T16:50:04.991Z,"12 km WSW of Lytle Creek, CA",earthquake,0.2,0.38,0.164,15,reviewed,ci,ci
