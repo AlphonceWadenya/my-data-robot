@@ -170,4 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-15T07:56:13.280Z,46.8785,-112.5205,8.65,0.68,ml,6,155,0.04766,0.07,mb,mb90032888,2023-11-15T15:09:41.780Z,"14 km SE of Lincoln, Montana",earthquake,0.51,0.65,0.284473520878357,4,reviewed,mb,mb
 2023-11-15T07:44:53.035Z,61.6382,-149.7828,32.9,1.9,ml,,,,0.31,ak,ak023enovad3,2023-11-15T07:46:10.981Z,"2 km ENE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-15T07:34:33.060Z,38.7883339,-122.7623367,0.69,0.77,md,8,95,0.01244,0.01,nc,nc73963096,2023-11-15T07:44:10.076Z,"1 km NNW of The Geysers, CA",earthquake,0.37,1.11,0.06,7,automatic,nc,nc
-2023-11-15T07:20:53.676Z,41.9503,-119.6303,0,0.8,ml,3,208.41,0.503,0.1118,nn,nn00868908,2023-11-15T16:51:23.238Z,"44 km ENE of Fort Bidwell, California",earthquake,,0,0.58,2,reviewed,nn,nn
