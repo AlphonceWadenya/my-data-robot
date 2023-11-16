@@ -165,4 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-15T06:29:08.787Z,60.635,-143.0226,22.6,0.9,ml,,,,1.29,ak,ak023eno6jlq,2023-11-15T06:31:13.399Z,"89 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-15T05:53:33.570Z,19.3348331451416,-155.290832519531,2.02999997138977,1.83000004,md,23,73,,0.230000004,hv,hv73648457,2023-11-15T05:56:49.240Z,"Island of Hawaii, Hawaii",earthquake,0.33,0.439999998,0.810000002,13,automatic,hv,hv
 2023-11-15T05:51:03.530Z,61.7912,-150.3004,15.8,1.5,ml,,,,0.69,ak,ak023ennptch,2023-11-15T05:53:23.655Z,"14 km WNW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-15T05:40:41.218Z,-40.8937,174.7136,10,4.1,mb,26,99,0.415,0.76,us,us6000lnhh,2023-11-15T06:51:27.187Z,"Cook Strait, New Zealand",earthquake,3.02,1.929,0.369,4,reviewed,us,us
