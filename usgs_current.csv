@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-17T09:40:28.260Z,32.4179993,-115.2001648,9.81,3.3,ml,34,52,0.08273,0.37,ci,ci39714146,2023-11-17T09:42:38.837Z,"7 km N of Delta, B.C., MX",earthquake,0.42,1.13,0.275,21,automatic,ci,ci
 2023-11-17T09:31:45.340Z,19.3111667633057,-155.356506347656,1.77999997138977,2.29,ml,34,106,,0.289999992,hv,hv73650422,2023-11-17T09:37:17.130Z,"17 km NE of Pāhala, Hawaii",earthquake,0.46,0.720000029,0.26,3,automatic,hv,hv
 2023-11-17T09:17:12.957Z,38.55,-119.5291,4.9,1.6,ml,8,215.53,0.037,0.155,nn,nn00869013,2023-11-17T09:20:37.577Z,"2 km SW of Coleville, California",earthquake,,0.7,0.2,2,automatic,nn,nn
 2023-11-17T09:01:26.649Z,39.5275,-120.3795,7.4,1.8,ml,9,125.9,0.173,0.2685,nn,nn00869012,2023-11-17T09:03:37.689Z,"6 km S of Sierraville, California",earthquake,,24.8,0.32,5,automatic,nn,nn
@@ -55,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-17T01:48:28.440Z,37.1155014,-121.8339996,0.52,1.5,md,9,68,0.03735,0.05,nc,nc73963641,2023-11-17T05:14:10.610Z,"9 km NNE of Day Valley, CA",earthquake,0.52,1.79,0.24,7,automatic,nc,nc
 2023-11-17T01:45:25.340Z,19.2376670837402,-155.409332275391,32.3600006103516,1.83000004,md,27,150,,0.100000001,hv,hv73650237,2023-11-17T01:48:26.730Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.77,0.920000017,1.74000001,6,automatic,hv,hv
 2023-11-17T01:38:54.236Z,31.649,-104.018,3.9953,1.7,ml(texnet),19,47,0,0.5,tx,tx2023wmug,2023-11-17T01:53:19.149Z,"40 km W of Mentone, Texas",earthquake,0,1.195492301,0.2,13,automatic,tx,tx
-2023-11-17T01:37:10.738Z,21.226,99.333,10.398,5.7,mww,92,46,0.247,0.85,us,us6000lp06,2023-11-17T08:51:47.831Z,"76 km SW of Kēng Tung, Myanmar",earthquake,7.37,4.112,0.062,25,reviewed,us,us
+2023-11-17T01:37:10.738Z,21.226,99.333,10.398,5.7,mww,92,46,0.247,0.85,us,us6000lp06,2023-11-17T09:39:54.044Z,"76 km SW of Kēng Tung, Myanmar",earthquake,7.37,4.112,0.062,25,reviewed,us,us
 2023-11-17T01:36:48.858Z,59.8802,-148.8905,18.6,2.5,ml,,,,0.66,ak,ak023eqwbno5,2023-11-17T02:35:55.040Z,"37 km SE of Lowell Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-17T01:23:12.210Z,31.661,-104.02,5.3816,2.6,ml(texnet),22,46,0,0.5,tx,tx2023wmts,2023-11-17T01:53:13.354Z,"40 km W of Mentone, Texas",earthquake,0,2.076700052,0.2,17,automatic,tx,tx
 2023-11-17T01:21:36.008Z,37.0265,-116.3767,10.2,-0.1,ml,11,72.99,0.036,0.112,nn,nn00868997,2023-11-17T03:43:21.006Z,"36 km ENE of Beatty, Nevada",earthquake,,1.2,0.67,7,reviewed,nn,nn
