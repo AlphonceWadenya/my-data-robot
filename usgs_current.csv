@@ -198,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-17T05:47:53.270Z,60.0271666666667,-153.119833333333,0.28,-0.27,ml,3,207,,0.03,av,av92121171,2023-11-17T19:46:03.560Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.53,1.44,0.214721769117329,3,reviewed,av,av
 2023-11-17T05:37:50.720Z,17.9238333333333,-66.8963333333333,13.38,2.13,md,4,261,0.05347,0.16,pr,pr71431518,2023-11-17T05:59:16.090Z,"5 km SSE of Guánica, Puerto Rico",earthquake,1.63,0.52,0.0124726930121288,2,reviewed,pr,pr
 2023-11-17T05:37:03.480Z,17.9826666666667,-66.5188333333333,15.11,2.24,md,11,177,0.1024,0.18,pr,pr71431513,2023-11-17T05:48:24.230Z,"2 km WSW of Potala Pastillo, Puerto Rico",earthquake,0.58,0.65,0.174433823897345,8,reviewed,pr,pr
-2023-11-17T05:34:55.670Z,33.3505,-116.262,13.85,1.62,ml,74,20,0.09115,0.18,ci,ci39714098,2023-11-17T20:45:09.112Z,"15 km NE of Borrego Springs, CA",earthquake,0.14,0.47,0.124,26,reviewed,ci,ci
-2023-11-17T05:31:45.297Z,61.98,-151.9192,109.6,2.1,ml,,,,0.48,ak,ak023eqyob8h,2023-11-17T05:34:01.033Z,"27 km W of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
