@@ -183,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-19T12:41:56.180Z,33.6896667,-117.0275,12.39,0.88,ml,43,39,0.02842,0.15,ci,ci39715178,2023-11-19T14:45:05.845Z,"6 km ESE of Winchester, CA",earthquake,0.22,0.28,0.191,22,reviewed,ci,ci
 2023-11-19T12:35:45.769Z,61.2061,-146.9445,0,1.6,ml,,,,1.46,ak,ak023eudxwke,2023-11-19T12:38:31.384Z,"33 km WNW of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-19T12:18:28.015Z,31.641,-104.485,8.7448,1.8,ml(texnet),13,128,0,0.3,tx,tx2023wrgj,2023-11-19T12:34:02.949Z,"60 km S of Whites City, New Mexico",earthquake,0,5.58583916,0.3,11,automatic,tx,tx
-2023-11-19T11:45:55.010Z,34.2388333333333,-81.2793333333333,11.61,1.69,md,7,137,0.04585,0.01,se,se60501308,2023-11-20T00:25:40.231Z,"3 km SSE of Jenkinsville, South Carolina",earthquake,1.51,0.45,0.0199652680810107,6,reviewed,se,se
