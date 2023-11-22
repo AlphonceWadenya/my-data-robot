@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-22T13:53:41.180Z,40.2739983,-124.2921677,14.9,1.64,md,8,160,0.04118,0.07,nc,nc73965931,2023-11-22T13:55:17.500Z,"6 km S of Petrolia, CA",earthquake,0.81,1.16,0.22,4,automatic,nc,nc
+2023-11-22T13:49:17.984Z,63.365,-150.3442,111.6,1.8,ml,,,,0.28,ak,ak023ezd8bbq,2023-11-22T13:51:33.389Z,"69 km W of Cantwell, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-11-22T13:47:57.120Z,19.3050003051758,-155.379333496094,2.94000005722046,2.25,ml,42,109,,0.180000007,hv,hv73657772,2023-11-22T13:53:27.410Z,"15 km NE of Pāhala, Hawaii",earthquake,0.34,0.889999986,3.02,6,automatic,hv,hv
 2023-11-22T13:42:45.260Z,39.911335,-122.6851654,10.16,2.11,md,8,93,0.01232,0.36,nc,nc73965921,2023-11-22T13:49:14.898Z,"27 km WSW of Rancho Tehama Reserve, CA",earthquake,1.62,1.28,0.19,6,automatic,nc,nc
 2023-11-22T13:39:29.940Z,19.3606662750244,-155.289169311523,0.670000016689301,2.25,ml,36,114,,0.25,hv,hv73657762,2023-11-22T13:45:01.730Z,"10 km SSW of Volcano, Hawaii",earthquake,0.29,0.389999986,1.98,14,automatic,hv,hv
 2023-11-22T13:38:36.340Z,19.3640003204346,-155.289505004883,1.62999999523163,1.95,ml,26,60,,0.150000006,hv,hv73657757,2023-11-22T13:44:08.150Z,"Island of Hawaii, Hawaii",earthquake,0.26,0.379999995,3.8,4,automatic,hv,hv
@@ -283,4 +286,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T14:10:21.840Z,30.876,-103.333,2.7638,1.5,ml(texnet),10,120,0,0.2,tx,tx2023wvbb,2023-11-21T18:18:43.828Z,"41 km ESE of Balmorhea, Texas",earthquake,2.428297569,1.043963903,0.2,6,reviewed,tx,tx
 2023-11-21T14:01:36.830Z,33.0621667,-116.0366667,9.28,1.56,ml,47,29,0.1215,0.18,ci,ci39716050,2023-11-21T17:35:07.220Z,"13 km SE of Ocotillo Wells, CA",earthquake,0.16,0.62,0.065,16,reviewed,ci,ci
 2023-11-21T13:57:27.040Z,19.3578338623047,-155.286331176758,2.02999997138977,1.85,ml,20,123,,0.109999999,hv,hv73655532,2023-11-21T14:02:59.730Z,"10 km SSW of Volcano, Hawaii",earthquake,0.31,0.460000008,3.61,5,automatic,hv,hv
-2023-11-21T13:55:30.310Z,33.981,-116.7276667,15.79,1.55,ml,54,71,0.08185,0.15,ci,ci39716042,2023-11-21T17:14:55.250Z,"9 km NE of Cabazon, CA",earthquake,0.14,0.37,0.163,22,reviewed,ci,ci
