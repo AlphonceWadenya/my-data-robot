@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-25T14:40:41.901Z,35.1215477,-97.55386353,2.159765959,2.27,ml,26,49.48455811,0.05507053807,0.8726008382,ok,ok2023xckb,2023-11-25T14:43:25.418Z,"Oklahoma",earthquake,2.12515921,1.861809818,0.28,18,automatic,ok,ok
+2023-11-25T14:40:41.901Z,35.1215477,-97.55386353,2.159765959,2.27,ml,26,49.48455811,0.05507053807,0.8726008382,ok,ok2023xckb,2023-11-25T14:43:48.400Z,"2 km NE of Cole, Oklahoma",earthquake,2.12515921,1.861809818,0.28,18,automatic,ok,ok
 2023-11-25T14:34:33.551Z,64.4642,-144.8905,6.5,1.4,ml,,,,0.49,ak,ak023f4cclw4,2023-11-25T14:36:47.811Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-25T14:31:13.310Z,19.3465003967285,-155.415328979492,3.29999995231628,2,ml,7,335,,0.379999995,hv,hv73662207,2023-11-25T14:36:50.810Z,"Hawaii region, Hawaii",earthquake,9.33,30.3999996,3.6,3,automatic,hv,hv
-2023-11-25T14:21:36.500Z,38.8333321,-122.8176651,1.83,1.04,md,18,57,0.01156,0.02,nc,nc73967251,2023-11-25T14:30:10.465Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.51,0.31,19,automatic,nc,nc
+2023-11-25T14:21:36.500Z,38.8333321,-122.8176651,1.83,1.04,md,18,57,0.01156,0.02,nc,nc73967251,2023-11-25T14:43:11.532Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.51,0.31,19,automatic,nc,nc
 2023-11-25T14:16:32.390Z,38.8306656,-122.8176651,1.82,1.34,md,27,50,0.009374,0.02,nc,nc73967246,2023-11-25T14:33:13.484Z,"8 km NW of The Geysers, CA",earthquake,0.17,0.36,0.12,27,automatic,nc,nc
 2023-11-25T14:10:26.053Z,31.673,-104.185,6.6508,1.6,ml(texnet),16,103,0.1,0.4,tx,tx2023xcjc,2023-11-25T14:22:18.413Z,"54 km NW of Toyah, Texas",earthquake,0,3.242435161,0.2,12,automatic,tx,tx
 2023-11-25T14:09:15.470Z,61.5964,-151.0351,17.4,1.6,ml,,,,0.86,ak,ak023f4c77kr,2023-11-25T14:11:28.868Z,"28 km WNW of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -248,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T14:54:08.523Z,38.2597,-118.3587,6.6,1.4,ml,11,87.1,0.115,0.2654,nn,nn00869250,2023-11-24T14:56:34.698Z,"26 km WSW of Mina, Nevada",earthquake,,0.9,0.25,5,automatic,nn,nn
 2023-11-24T14:49:53.300Z,36.0019989,-120.5603333,2.49,1.77,md,16,91,0.02061,0.05,nc,nc73966806,2023-11-24T17:03:11.015Z,"16 km NW of Parkfield, CA",earthquake,0.31,0.5,0.24,9,automatic,nc,nc
 2023-11-24T14:48:51.663Z,36.5897,-116.2739,8.4,0.1,ml,16,134.27,0.076,0.0884,nn,nn00869249,2023-11-24T16:35:24.181Z,"California-Nevada border region",earthquake,,1.9,0.07,8,reviewed,nn,nn
-2023-11-24T14:43:53.085Z,36.614,-115.9526,12.8,0,ml,9,301.64,0.049,0.0625,nn,nn00869258,2023-11-24T16:29:00.404Z,"25 km W of Indian Springs, Nevada",earthquake,,1.6,0.05,3,reviewed,nn,nn
