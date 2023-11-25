@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-25T04:44:55.250Z,32.6049995,-115.3046646,12.46,1.88,ml,20,69,0.1211,0.29,ci,ci39717706,2023-11-25T04:47:01.849Z,"6 km NE of Puebla, B.C., MX",earthquake,0.74,1.8,0.271,12,automatic,ci,ci
+2023-11-25T04:32:44.650Z,18.6165,-66.4078333333333,31.34,2.53,md,11,255,0.1804,0.19,pr,pr71432098,2023-11-25T04:45:51.610Z,"Puerto Rico region",earthquake,1.05,1.16,0.0234578659089193,5,reviewed,pr,pr
 2023-11-25T04:31:04.570Z,36.6451683,-121.161499,13.31,1,md,7,167,0.0758,0.13,nc,nc73967076,2023-11-25T04:42:10.345Z,"13 km N of Pinnacles, CA",earthquake,1.25,3.34,0.24,6,automatic,nc,nc
 2023-11-25T03:55:18.890Z,60.9424,-150.7037,34.4,2.6,ml,,,,0.26,ak,ak023f45xb4h,2023-11-25T04:17:05.040Z,"2 km NNW of Point Possession, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-25T03:48:22.220Z,19.295166015625,-155.386505126953,1.23000001907349,2.02,ml,39,113,,0.159999996,hv,hv73661132,2023-11-25T03:53:52.410Z,"14 km NE of Pāhala, Hawaii",earthquake,0.3,0.419999987,0.27,7,automatic,hv,hv
