@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-25T04:31:04.570Z,36.6451683,-121.161499,13.31,1,md,7,167,0.0758,0.13,nc,nc73967076,2023-11-25T04:32:40.973Z,"13 km N of Pinnacles, CA",earthquake,1.25,3.34,0.24,6,automatic,nc,nc
 2023-11-25T03:55:18.890Z,60.9424,-150.7037,34.4,2.6,ml,,,,0.26,ak,ak023f45xb4h,2023-11-25T04:17:05.040Z,"2 km NNW of Point Possession, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-25T03:48:22.220Z,19.295166015625,-155.386505126953,1.23000001907349,2.02,ml,39,113,,0.159999996,hv,hv73661132,2023-11-25T03:53:52.410Z,"14 km NE of Pāhala, Hawaii",earthquake,0.3,0.419999987,0.27,7,automatic,hv,hv
 2023-11-25T03:41:40.778Z,31.642,-104.007,6.7564,1.5,ml(texnet),17,38,0,0.3,tx,tx2023xboi,2023-11-25T04:10:42.184Z,"39 km W of Mentone, Texas",earthquake,0,2.115899063,0.2,13,automatic,tx,tx
