@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-26T15:51:29.940Z,38.7668343,-122.7411652,1.85,1.02,md,12,79,0.01378,0.03,nc,nc73967726,2023-11-26T15:53:06.275Z,"2 km SE of The Geysers, CA",earthquake,0.27,0.5,0.13,14,automatic,nc,nc
+2023-11-26T16:00:30.750Z,38.8436661,-122.8174973,1.73,1.09,md,16,67,0.01189,0.02,nc,nc73967736,2023-11-26T16:09:10.635Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.46,0.27,17,automatic,nc,nc
+2023-11-26T15:51:29.940Z,38.7668343,-122.7411652,1.85,1.02,md,12,79,0.01378,0.03,nc,nc73967726,2023-11-26T16:08:13.630Z,"2 km SE of The Geysers, CA",earthquake,0.27,0.5,0.13,14,automatic,nc,nc
 2023-11-26T15:41:07.970Z,38.7801666,-122.765831,0.66,1.07,md,14,81,0.009432,0.03,nc,nc73967721,2023-11-26T15:57:15.568Z,"1 km WNW of The Geysers, CA",earthquake,0.25,0.42,0.23,14,automatic,nc,nc
 2023-11-26T15:33:22.070Z,19.2859992980957,-155.384506225586,1.44000005722046,1.76,ml,30,160,,0.180000007,hv,hv73663917,2023-11-26T15:38:52.710Z,"13 km NE of Pāhala, Hawaii",earthquake,0.56,0.639999986,3.24,4,automatic,hv,hv
 2023-11-26T15:24:53.677Z,61.9034,-150.7122,67.6,2.5,ml,,,,0.23,ak,ak023f60fad3,2023-11-26T15:26:30.476Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -205,8 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T16:25:39.909Z,61.5098,-146.5181,27.3,1.5,ml,,,,0.82,ak,ak023f4dhk4m,2023-11-25T16:28:04.506Z,"43 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-25T16:20:05.040Z,41.3495,-111.2961667,-3.4,3.26,ml,38,47,0.1952,0.2,uu,uu60555092,2023-11-25T19:59:35.040Z,"22 km SSW of Woodruff, Utah",earthquake,0.27,1.04,0.113,22,reviewed,uu,uu
 2023-11-25T16:17:23.540Z,57.0174,-154.0542,16.2,2,ml,,,,0.27,ak,ak023f4dfu7s,2023-11-25T21:59:21.441Z,"10 km NE of Akhiok, Alaska",earthquake,,2.1,,,reviewed,ak,ak
-2023-11-25T16:13:04.420Z,-21.2847,-68.6597,115.609,4.1,mb,16,105,0.744,0.99,us,us6000lqq5,2023-11-25T19:55:09.040Z,"42 km W of Ollagüe, Chile",earthquake,9.84,15.725,0.233,6,reviewed,us,us
-2023-11-25T16:12:42.660Z,19.344165802002,-155.300827026367,3.70000004768372,2.07,ml,29,56,,0.170000002,hv,hv73662407,2023-11-25T16:18:12.370Z,"Hawaii region, Hawaii",earthquake,0.31,0.810000002,1.93,12,automatic,hv,hv
-2023-11-25T16:10:29.264Z,62.9887,-151.7538,20.4,1.6,ml,,,,0.94,ak,ak023f4debke,2023-11-25T16:12:42.469Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-11-25T16:08:21.434Z,65.147,-146.037,8.6,1.8,ml,,,,0.54,ak,ak023f4ddvj3,2023-11-25T16:10:15.521Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-25T16:07:58.760Z,19.3578338623047,-155.285507202148,2.29999995231628,1.75999999,md,16,123,,0.170000002,hv,hv73662392,2023-11-25T16:13:29.910Z,"10 km SSW of Volcano, Hawaii",earthquake,0.41,0.550000012,0.409999996,13,automatic,hv,hv
