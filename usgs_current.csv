@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-26T05:39:08.961Z,62.2227,-148.8647,5.2,1.4,ml,,,,0.89,ak,ak023f5uk2lj,2023-11-26T05:41:55.519Z,"49 km N of Sutton-Alpine, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-26T05:35:33.399Z,61.0542,-149.6739,35.6,1.6,ml,,,,0.5,ak,ak023f5uj9m7,2023-11-26T05:38:11.644Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-11-26T05:10:00.207Z,31.633,-104.514,3.5924,1.6,ml(texnet),8,146,0,0.2,tx,tx2023xdmt,2023-11-26T05:26:31.051Z,"61 km SSW of Whites City, New Mexico",earthquake,0,2.602381397,0.1,6,automatic,tx,tx
-2023-11-26T04:59:30.845Z,31.6325,-104.2986,5.489,2.5,ml,27,59,0.176,0.42,us,us6000lqtb,2023-11-26T05:30:10.040Z,"59 km NW of Toyah, Texas",earthquake,3.89,5.748,0.052,48,reviewed,us,us
+2023-11-26T05:10:00.137Z,31.635,-104.515,3.9403,1.6,ml(texnet),16,147,0,0.3,tx,tx2023xdmt,2023-11-26T05:41:56.011Z,"western Texas",earthquake,0,1.714700819,0.1,13,automatic,tx,tx
+2023-11-26T04:59:30.869Z,31.648,-104.302,3.978,2.4,ml(texnet),18,69,0,0.2,tx,tx2023xdmk,2023-11-26T05:41:46.852Z,"western Texas",earthquake,0,1.35522881,0.2,13,automatic,tx,tx
 2023-11-26T04:49:39.740Z,38.8400002,-122.8105011,2.02,0.7,md,8,130,0.01582,0.02,nc,nc73967506,2023-11-26T05:31:10.929Z,"8 km WNW of Cobb, CA",earthquake,0.38,1.36,0.25,9,automatic,nc,nc
 2023-11-26T04:47:22.960Z,32.6408333,-115.7876667,8.42,1.33,ml,23,59,0.0524,0.22,ci,ci39718026,2023-11-26T04:53:21.416Z,"20 km WNW of Progreso, B.C., MX",earthquake,0.32,0.67,0.27,15,automatic,ci,ci
 2023-11-26T04:43:09.380Z,35.7701667,-117.5793333,2.56,1.07,ml,28,66,0.1383,0.15,ci,ci39718018,2023-11-26T04:49:16.400Z,"16 km W of Searles Valley, CA",earthquake,0.2,0.76,0.203,8,automatic,ci,ci
