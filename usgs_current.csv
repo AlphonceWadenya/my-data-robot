@@ -213,5 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T12:03:11.829Z,58.8096,-154.2733,90.5,1.6,ml,,,,0.2,ak,ak023f4az1se,2023-11-25T12:05:30.312Z,"Alaska Peninsula",earthquake,,1.5,,,automatic,ak,ak
 2023-11-25T12:00:23.755Z,31.624,-104.366,6.5429,3.2,ml(texnet),22,63,0.1,0.2,tx,tx2023xceu,2023-11-25T12:21:39.003Z,"61 km S of Whites City, New Mexico",earthquake,0.9495990474,1.165592396,0.2,15,reviewed,tx,tx
 2023-11-25T11:53:48.036Z,59.9179,-151.0324,26.8,1.6,ml,,,,0.46,ak,ak023f4aoes3,2023-11-25T11:55:26.104Z,"Kenai Peninsula, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-11-25T11:31:18.960Z,19.3878326416016,-155.279830932617,-0.0399999991059303,1.75,ml,17,73,,0.170000002,hv,hv73661902,2023-11-25T11:36:50.380Z,"Island of Hawaii, Hawaii",earthquake,0.17,0.230000004,2.56,6,automatic,hv,hv
-2023-11-25T11:31:17.306Z,62.7163,-152.5085,0,1.6,ml,,,,0.81,ak,ak023f4ajmnm,2023-11-25T11:43:14.772Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
