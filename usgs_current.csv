@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-29T21:45:05.850Z,38.810833,-122.8021698,0.29,1.49,md,8,113,0.00608,0.02,nc,nc73969641,2023-11-29T21:46:40.637Z,"5 km NW of The Geysers, CA",earthquake,0.27,0.76,0.16,9,automatic,nc,nc
 2023-11-29T21:43:50.580Z,36.8843,-116.2117,4.1,0.5,ml,12,155.73,0.037,0.2668,nn,nn00869467,2023-11-29T21:45:45.947Z,"48 km E of Beatty, Nevada",earthquake,,1.1,0.15,9,automatic,nn,nn
 2023-11-29T21:34:09.908Z,62.3527,-149.8079,7.4,1.7,ml,,,,0.78,ak,ak023fb2nz9a,2023-11-29T21:36:50.673Z,"15 km ENE of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-29T21:07:36.060Z,38.8353348,-122.8066635,4.4,0.22,md,10,89,0.01222,0.03,nc,nc73969616,2023-11-29T21:41:16.981Z,"7 km WNW of Cobb, CA",earthquake,0.56,0.74,0.1,8,automatic,nc,nc
