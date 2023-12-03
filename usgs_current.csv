@@ -225,7 +225,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T21:55:34.657Z,8.2427,126.7447,63.872,4.7,mb,20,125,1.641,0.73,us,us7000lfnm,2023-12-02T22:13:37.040Z,"35 km ENE of Barcelona, Philippines",earthquake,10.31,9.042,0.095,34,reviewed,us,us
 2023-12-02T21:46:42.167Z,8.4491,126.7099,59.62,5.1,mb,84,91,1.77,0.75,us,us7000lfnh,2023-12-02T22:43:30.677Z,"Mindanao, Philippines",earthquake,9.36,6.347,0.046,152,reviewed,us,us
 2023-12-02T21:39:39.587Z,8.2719,126.7396,66.287,4.5,mb,19,118,1.658,0.28,us,us7000lfnf,2023-12-02T21:55:32.040Z,"Mindanao, Philippines",earthquake,13.18,9.395,0.124,19,reviewed,us,us
-2023-12-02T21:30:41.387Z,40.3796,-126.7281,10,3.4,ml,27,264,2.101,0.65,us,us7000lfn3,2023-12-03T18:29:11.493Z,"off the coast of Northern California",earthquake,9.7,2.022,0.04,81,reviewed,us,us
+2023-12-02T21:30:41.387Z,40.3796,-126.7281,10,3.4,ml,27,264,2.101,0.65,us,us7000lfn3,2023-12-03T18:40:09.550Z,"off the coast of Northern California",earthquake,9.7,2.022,0.04,81,reviewed,us,us
 2023-12-02T21:29:49.054Z,53.4955,-163.4515,35,4.6,mb,30,212,1.25,0.57,us,us7000lfn4,2023-12-03T00:55:11.475Z,"Unimak Island region, Alaska",earthquake,6.54,2.014,0.087,39,reviewed,us,us
 2023-12-02T21:07:50.995Z,8.2866,126.7257,39.036,5.1,mb,28,114,1.659,0.81,us,us7000lfn9,2023-12-02T22:20:03.040Z,"Mindanao, Philippines",earthquake,10.06,6.867,0.094,37,reviewed,us,us
 2023-12-02T21:07:49.330Z,38.828167,-122.802002,1.93,0.75,md,12,63,0.007903,0.02,nc,nc73970871,2023-12-02T23:01:11.723Z,"7 km W of Cobb, CA",earthquake,0.36,1.15,0.13,13,automatic,nc,nc
@@ -250,4 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T19:17:00.697Z,8.4752,126.8942,24.237,5.3,mb,109,36,1.91,0.88,us,us7000lfll,2023-12-02T19:47:51.040Z,"61 km NE of Barcelona, Philippines",earthquake,8.36,3.626,0.047,152,reviewed,us,us
 2023-12-02T19:01:04.573Z,64.7079,-149.2845,12.5,1.7,ml,,,,0.93,ak,ak023ffzw2hl,2023-12-02T19:03:15.798Z,"14 km NW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-02T18:49:47.147Z,60.4213,-142.9312,6.2,1,ml,,,,0.19,ak,ak023ffzl0je,2023-12-02T18:51:11.845Z,"112 km S of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-12-02T18:40:06.180Z,19.0933,-64.4801,45,3.84,md,16,300,0.6923,0.43,pr,pr2023336003,2023-12-02T21:54:39.040Z,"Virgin Islands region",earthquake,2.97,7.96,0.17,12,reviewed,pr,pr
