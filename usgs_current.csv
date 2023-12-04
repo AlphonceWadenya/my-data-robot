@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-04T05:47:02.860Z,37.0651665,-118.5318298,9.66,3.5,ml,41,57,0.2416,0.09,nc,nc73971566,2023-12-04T05:51:21.004Z,"24 km WSW of Big Pine, CA",earthquake,0.27,1.08,0.297,32,automatic,nc,nc
+2023-12-04T05:47:02.860Z,37.0651665,-118.5318298,9.66,3.5,ml,41,57,0.2416,0.09,nc,nc73971566,2023-12-04T05:56:08.407Z,"24 km WSW of Big Pine, CA",earthquake,0.27,1.08,0.297,32,reviewed,nc,nc
 2023-12-04T05:45:30.839Z,62.9336,-150.4334,99.4,1.4,ml,,,,0.17,ak,ak023fj2w6jf,2023-12-04T05:47:54.732Z,"51 km NNE of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-04T05:38:29.499Z,60.2779,-152.3667,81.9,1.7,ml,,,,0.42,ak,ak023fj2uof9,2023-12-04T05:40:01.479Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-04T05:33:31.540Z,17.9186666666667,-66.9383333333333,15.09,2.58,md,15,229,0.06028,0.19,pr,pr71433118,2023-12-04T05:42:59.640Z,"Puerto Rico region",earthquake,0.84,0.66,0.123159653702411,7,reviewed,pr,pr
