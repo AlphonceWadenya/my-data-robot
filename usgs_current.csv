@@ -258,6 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T04:19:27.800Z,47.07533333333333,-122.00583333333333,14.33,0.5700000000000001,ml,26,241,0.08705,0.1,uw,uw61965982,2023-12-03T05:39:07.480Z,"3 km E of Carbonado, Washington",earthquake,0.46,0.4,0.11854626657110562,8,reviewed,uw,uw
 2023-12-03T04:04:29.008Z,37.0119,-12.9326,10,4.3,mb,24,89,3.286,0.73,us,us7000lfr7,2023-12-03T04:49:01.040Z,"Azores-Cape St. Vincent Ridge",earthquake,8.12,1.831,0.178,9,reviewed,us,us
 2023-12-03T03:55:42.189Z,8.35,126.9224,54.246,4.9,mb,48,110,1.841,0.69,us,us7000lfr6,2023-12-03T04:19:09.040Z,"57 km ENE of Barcelona, Philippines",earthquake,7.41,7.335,0.063,78,reviewed,us,us
-2023-12-03T03:47:50.243Z,17.134,-94.5714,132.63,4.3,mb,54,136,2.482,0.95,us,us7000lfr5,2023-12-03T04:33:12.040Z,"13 km SSE of Hermanos Cedillo, Mexico",earthquake,9.86,4.561,0.057,87,reviewed,us,us
-2023-12-03T03:47:03.280Z,37.2951,-117.602,5.7,1,ml,8,164.78,0.071,0.1633,nn,nn00869613,2023-12-03T03:49:44.141Z,"51 km S of Silver Peak, Nevada",earthquake,,1.3,0.42,4,automatic,nn,nn
-2023-12-03T03:45:47.450Z,38.8233337,-122.7641678,1.78,1.09,md,15,124,0.008422,0.02,nc,nc73971016,2023-12-03T05:53:11.184Z,"4 km W of Cobb, CA",earthquake,0.27,0.45,0.16,15,automatic,nc,nc
