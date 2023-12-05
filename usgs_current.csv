@@ -244,4 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-04T22:13:20.830Z,38.8223343,-122.807663,2.26,1.21,md,22,41,0.01729,0.02,nc,nc73971846,2023-12-05T02:19:10.906Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.4,0.17,23,automatic,nc,nc
 2023-12-04T22:07:19.579Z,49.2375,-119.5765,9.147,3.2,ml,34,131,0.091,0.67,us,us7000lg8e,2023-12-05T19:31:07.729Z,"6 km NNW of Oliver, Canada",earthquake,3.35,3.476,0.048,56,reviewed,us,us
 2023-12-04T22:04:57.060Z,17.9225,-66.2825,13.72,2.59,md,18,214,0.1153,0.2,pr,pr71433163,2023-12-04T22:50:46.680Z,"6 km SSE of Salinas, Puerto Rico",earthquake,0.72,0.41,0.128040667020849,9,reviewed,pr,pr
-2023-12-04T21:56:25.048Z,60.3523,-153.2399,7.2,1.6,ml,,,,0.83,ak,ak023fjchgnc,2023-12-04T21:58:28.373Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
