@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-09T09:47:22.050Z,33.2688332,-116.7801666,11.93,1.64,ml,61,29,0.03735,0.18,ci,ci40617936,2023-12-09T09:49:33.386Z,"3 km NNW of Lake Henshaw, CA",earthquake,0.23,0.67,0.218,19,automatic,ci,ci
+2023-12-09T09:47:22.090Z,33.2686667,-116.7866667,10.7,1.49,ml,79,21,0.04012,0.19,ci,ci40617936,2023-12-09T09:54:38.187Z,"4 km NW of Lake Henshaw, CA",earthquake,0.13,0.29,0.16,27,automatic,ci,ci
 2023-12-09T09:46:14.840Z,38.8419991,-122.8786697,2.34,0.37,md,11,112,0.008098,0.02,nc,nc73973691,2023-12-09T09:47:50.876Z,"13 km ENE of Cloverdale, CA",earthquake,0.45,0.6,0.24,11,automatic,nc,nc
 2023-12-09T09:07:15.390Z,38.8209991,-122.7624969,1.65,1.25,md,23,122,0.01109,0.03,nc,nc73973681,2023-12-09T09:49:14.794Z,"3 km W of Cobb, CA",earthquake,0.24,0.37,0.17,23,automatic,nc,nc
 2023-12-09T09:06:18.240Z,38.8201675,-122.7653351,2.28,1.02,md,15,113,0.01089,0.02,nc,nc73973676,2023-12-09T09:39:14.724Z,"4 km W of Cobb, CA",earthquake,0.3,0.55,0.22,16,automatic,nc,nc
@@ -54,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-09T05:55:11.880Z,36.5644989,-121.1610031,5.93,1.75,md,18,127,0.02092,0.1,nc,nc73973531,2023-12-09T08:52:11.401Z,"4 km NNW of Pinnacles, CA",earthquake,0.38,0.79,0.29,16,automatic,nc,nc
 2023-12-09T05:54:13.686Z,-29.7112,-176.5571,10,5,mb,25,163,1.27,0.67,us,us7000lhp0,2023-12-09T06:15:25.040Z,"Kermadec Islands region",earthquake,7.7,1.927,0.126,20,reviewed,us,us
 2023-12-09T05:50:03.190Z,36.5438347,-121.1231689,6.93,1.12,md,6,122,0.05731,0.12,nc,nc73973526,2023-12-09T08:24:10.236Z,"2 km NE of Pinnacles, CA",earthquake,0.74,2.23,0.13,5,automatic,nc,nc
-2023-12-09T05:27:26.499Z,40.4354,-84.1067,6.622,3,mb_lg,14,53,0.303,0.21,us,us7000lhnz,2023-12-09T09:40:28.659Z,"5 km W of Jackson Center, Ohio",earthquake,0.74,4.068,0.069,55,reviewed,us,us
+2023-12-09T05:27:26.499Z,40.4354,-84.1067,6.622,3,mb_lg,14,53,0.303,0.21,us,us7000lhnz,2023-12-09T09:51:07.050Z,"5 km W of Jackson Center, Ohio",earthquake,0.74,4.068,0.069,55,reviewed,us,us
 2023-12-09T05:26:43.339Z,31.596,-103.975,5.2888,1.9,ml,16,63,0,0.3,tx,tx2023ybgs,2023-12-09T05:54:42.469Z,"35 km NNW of Toyah, Texas",earthquake,0,2.292405951,0.2,12,automatic,tx,tx
 2023-12-09T05:21:07.109Z,31.677,-104.478,6.8551,1.8,ml,7,88,0,0.2,tx,tx2023ybgq,2023-12-09T05:31:34.222Z,"56 km S of Whites City, New Mexico",earthquake,0,3.134132621,0.2,7,automatic,tx,tx
 2023-12-09T05:04:55.966Z,-45.7937,-75.9473,14.53,4.5,mb,27,150,1.83,0.78,us,us7000lhny,2023-12-09T05:20:55.040Z,"246 km W of Puerto Chacabuco, Chile",earthquake,9.1,5.084,0.156,13,reviewed,us,us
@@ -263,5 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T10:02:41.320Z,46.884,-112.5455,11.73,0.86,ml,9,109,0.06559,0.26,mb,mb90035593,2023-12-08T17:59:02.140Z,"13 km SE of Lincoln, Montana",earthquake,0.86,1.22,0.18410457368845,6,reviewed,mb,mb
 2023-12-08T09:58:54.931Z,-20.0657,-173.345,10,5.2,mb,41,57,2.059,1.36,us,us7000lha7,2023-12-08T10:21:45.040Z,"108 km ESE of Fangale’ounga, Tonga",earthquake,8.64,1.874,0.079,52,reviewed,us,us
 2023-12-08T09:58:08.456Z,31.304,-104.322,0.4045,1.6,ml,5,143,0.4,1,tx,tx2023xzuh,2023-12-08T10:24:51.828Z,"50 km W of Toyah, Texas",earthquake,0,3.20434309,0.1,5,automatic,tx,tx
-2023-12-08T09:54:40.530Z,33.4653333,-116.436,10.32,1.07,ml,50,39,0.05855,0.17,ci,ci40617536,2023-12-08T18:31:34.230Z,"24 km NNW of Borrego Springs, CA",earthquake,0.17,0.34,0.137,20,reviewed,ci,ci
-2023-12-08T09:53:57.950Z,19.3898333333333,-155.2415,1.02,0.67,md,17,82,,0.11,hv,hv73677972,2023-12-08T10:12:06.120Z,"5 km S of Volcano, Hawaii",earthquake,0.18,0.3,0.105614030216845,4,reviewed,hv,hv
