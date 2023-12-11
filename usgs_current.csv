@@ -178,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-10T09:57:21.418Z,0.3595,122.0391,191.709,4.4,mb,35,59,1.463,0.83,us,us7000lhwp,2023-12-10T10:41:54.040Z,"115 km W of Gorontalo, Indonesia",earthquake,8.26,7.584,0.108,25,reviewed,us,us
 2023-12-10T09:50:14.880Z,19.144832611084,-155.457336425781,31.1800003051758,2,md,34,175,,0.119999997,hv,hv73680427,2023-12-10T09:53:19.290Z,"6 km SSE of Pāhala, Hawaii",earthquake,0.69,0.949999988,1.13999999,8,automatic,hv,hv
 2023-12-10T09:45:10.700Z,38.7794991,-122.7151642,1.5,1.05,md,12,96,0.01679,0.02,nc,nc73974116,2023-12-10T12:10:11.658Z,"2 km WNW of Anderson Springs, CA",earthquake,0.23,0.56,0.1,12,automatic,nc,nc
-2023-12-10T09:37:27.270Z,38.8414993,-122.8781662,2.5,1.1,md,14,112,0.007603,0.02,nc,nc73974106,2023-12-10T11:16:10.459Z,"13 km ENE of Cloverdale, CA",earthquake,0.32,0.6,0.14,15,automatic,nc,nc
