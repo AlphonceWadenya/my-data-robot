@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-12T13:17:54.299Z,61.0488,-148.2691,11.5,0.5,ml,,,,0.81,ak,ak023fwfsh4o,2023-12-12T13:20:53.528Z,"38 km NE of Whittier, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-12T12:54:05.173Z,-19.9845,-173.3965,10,5.6,mww,65,83,2.064,1.45,us,us7000lict,2023-12-12T13:18:00.322Z,"100 km ESE of Fangale’ounga, Tonga",earthquake,8.27,1.862,0.083,14,reviewed,us,us
 2023-12-12T12:47:20.853Z,60.1163,-151.8092,73.3,1.7,ml,,,,0.35,ak,ak023fwfdedx,2023-12-12T12:48:43.509Z,"10 km NW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-12T12:44:31.070Z,33.989,-116.8936667,17.88,0.88,ml,38,58,0.11,0.18,ci,ci40619920,2023-12-12T12:50:40.824Z,"7 km NNW of Banning, CA",earthquake,0.21,0.52,0.145,18,automatic,ci,ci
@@ -232,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-11T13:46:34.670Z,19.1655006408691,-155.494506835938,31,1.85000002,md,34,106,,0.129999995,hv,hv73681227,2023-12-11T13:49:45.800Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.58,1.04999995,1.46000004,6,automatic,hv,hv
 2023-12-11T13:39:42.582Z,-60.274,-33.0033,10,5.7,mww,55,59,12.474,0.56,us,us7000li3g,2023-12-11T15:44:21.771Z,"Scotia Sea",earthquake,10.53,1.872,0.086,13,reviewed,us,us
 2023-12-11T13:38:46.698Z,62.155,-152.8059,0,1.9,ml,,,,1.19,ak,ak023fusdm1p,2023-12-11T13:41:00.853Z,"75 km WNW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-12-11T13:19:24.320Z,37.5943333,-118.846,7.07,0.3,md,18,150,0.01409,0.05,nc,nc73974551,2023-12-11T23:27:12.550Z,"13 km ESE of Mammoth Lakes, CA",earthquake,0.67,0.94,0.19,16,reviewed,nc,nc
