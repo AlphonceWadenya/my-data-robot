@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-13T06:44:35.360Z,38.7965012,-122.7478333,0.54,1.41,md,10,151,0.01015,0.04,nc,nc73975471,2023-12-13T06:47:12.463Z,"2 km NNE of The Geysers, CA",earthquake,0.33,0.54,0.26,10,automatic,nc,nc
-2023-12-13T06:43:43.380Z,19.4168338775635,-155.574996948242,39.4500007629395,2.47000003,md,33,42,,0.230000004,hv,hv73682757,2023-12-13T06:47:04.660Z,"25 km NNW of Pāhala, Hawaii",earthquake,0.76,1.02999997,2.3499999,10,automatic,hv,hv
-2023-12-13T06:41:25.380Z,38.7961655,-122.7486649,0.28,1.55,md,19,94,0.009713,0.05,nc,nc73975461,2023-12-13T06:43:02.495Z,"2 km NNE of The Geysers, CA",earthquake,0.27,0.44,0.26,19,automatic,nc,nc
+2023-12-13T06:43:43.380Z,19.4168338775635,-155.574996948242,39.4500007629395,2.06,ml,33,42,,0.230000004,hv,hv73682757,2023-12-13T06:49:14.000Z,"25 km NNW of Pāhala, Hawaii",earthquake,0.76,1.02999997,4.17,8,automatic,hv,hv
+2023-12-13T06:41:25.380Z,38.7961655,-122.7486649,0.28,1.55,md,19,94,0.009713,0.05,nc,nc73975461,2023-12-13T06:51:11.063Z,"2 km NNE of The Geysers, CA",earthquake,0.27,0.44,0.26,19,automatic,nc,nc
 2023-12-13T06:36:49.360Z,37.644001,-118.909668,4.7,1.03,md,18,62,0.01019,0.02,nc,nc73975456,2023-12-13T06:45:11.027Z,"6 km E of Mammoth Lakes, CA",earthquake,0.37,0.6,0.19,18,automatic,nc,nc
 2023-12-13T06:35:30.270Z,34.0146667,-116.9985,16.63,1.56,ml,72,25,0.09422,0.18,ci,ci40441727,2023-12-13T06:46:21.540Z,"5 km ESE of Yucaipa, CA",earthquake,0.14,0.43,0.221,26,automatic,ci,ci
 2023-12-13T06:11:14.680Z,36.17,-118.7233333,11.71,1.53,ml,19,109,0.04621,0.16,ci,ci40441719,2023-12-13T06:21:43.414Z,"29 km ENE of Porterville, CA",earthquake,0.27,0.57,0.644,5,automatic,ci,ci
