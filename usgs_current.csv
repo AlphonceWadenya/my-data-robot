@@ -224,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-12T21:35:56.298Z,59.8862,-153.0394,121,2.5,ml,,,,0.25,ak,ak023fwknsz1,2023-12-12T23:00:30.040Z,"60 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-12T21:30:13.770Z,38.4456667,-122.6358333,9.49,2.51,md,121,17,0.02308,0.15,nc,nc73975301,2023-12-13T20:26:33.993Z,"6 km E of Santa Rosa, CA",earthquake,0.12,0.27,0.181,140,reviewed,nc,nc
 2023-12-12T21:23:22.270Z,38.2123333,-112.3176667,5.29,1.08,md,8,162,0.2004,0.24,uu,uu60556267,2023-12-12T22:06:57.880Z,"6 km NW of Circleville, Utah",earthquake,1.11,3.69,0.161,6,reviewed,uu,uu
-2023-12-12T21:21:10.470Z,36.5488333333333,-89.6536666666667,7.21,1.57,md,21,112,0.02249,0.05,nm,nm60562481,2023-12-13T15:11:48.340Z,"4 km NW of Marston, Missouri",earthquake,0.26,0.58,0.100037786425608,15,reviewed,nm,nm
