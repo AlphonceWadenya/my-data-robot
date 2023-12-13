@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-13T22:39:24.610Z,35.7000008,-121.0895004,8.37,2.22,md,25,80,0.05515,0.04,nc,nc73975741,2023-12-13T22:41:56.063Z,"11 km NE of San Simeon, CA",earthquake,0.2,0.53,0.14,26,automatic,nc,nc
-2023-12-13T22:38:23.550Z,19.2468338012695,-155.410171508789,31.2099990844727,2.25,md,43,128,,0.119999997,hv,hv73683937,2023-12-13T22:41:45.490Z,"8 km NE of Pāhala, Hawaii",earthquake,0.57,0.699999988,1.52999997,22,automatic,hv,hv
+2023-12-13T22:39:24.610Z,35.7000008,-121.0895004,8.37,2.22,md,25,80,0.05515,0.04,nc,nc73975741,2023-12-13T22:45:12.032Z,"11 km NE of San Simeon, CA",earthquake,0.2,0.53,0.14,26,automatic,nc,nc
+2023-12-13T22:38:23.550Z,19.2468338012695,-155.410171508789,31.2099990844727,2.06,ml,43,128,,0.119999997,hv,hv73683937,2023-12-13T22:43:54.440Z,"8 km NE of Pāhala, Hawaii",earthquake,0.57,0.699999988,4.5,5,automatic,hv,hv
 2023-12-13T22:24:54.100Z,19.3831672668457,-155.240005493164,2.10999989509583,1.89,ml,15,73,,0.170000002,hv,hv73683912,2023-12-13T22:30:24.760Z,"6 km S of Volcano, Hawaii",earthquake,0.33,0.189999998,2.1,10,automatic,hv,hv
 2023-12-13T22:02:32.293Z,61.1843,-147.0486,21.5,1.6,ml,,,,0.42,ak,ak023fy8lgmw,2023-12-13T22:08:09.051Z,"38 km W of Valdez, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-12-13T22:00:34.000Z,33.9553337,-117.5145035,1.92,1.47,ml,18,131,0.03063,0.22,ci,ci40442639,2023-12-13T22:02:39.431Z,"4 km S of Mira Loma, CA",earthquake,0.79,0.55,0.16,6,automatic,ci,ci
