@@ -252,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-12T05:58:19.120Z,38.6893333,-122.503,5.55,1.69,md,74,44,0.06613,0.12,nc,nc73974911,2023-12-13T02:08:10.202Z,"12 km SE of Middletown, CA",earthquake,0.12,0.43,0.195,66,reviewed,nc,nc
 2023-12-12T05:47:04.070Z,38.8673333,-123.0181667,6.07,1.26,md,37,56,0.06034,0.03,nc,nc73974906,2023-12-13T03:40:11.741Z,"7 km N of Cloverdale, CA",earthquake,0.2,0.47,0.203,37,reviewed,nc,nc
 2023-12-12T05:46:44.470Z,33.7011667,-116.7281667,15.65,0.28,ml,21,121,0.01535,0.12,ci,ci40619808,2023-12-12T17:11:29.340Z,"4 km S of Idyllwild, CA",earthquake,0.28,0.4,0.184,7,reviewed,ci,ci
-2023-12-12T05:41:41.959Z,59.7325,-152.6737,86.2,2.5,ml,,,,0.36,ak,ak023fwb64hc,2023-12-12T05:54:37.668Z,"47 km W of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
