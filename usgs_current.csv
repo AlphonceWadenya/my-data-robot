@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-14T21:52:34.440Z,60.0286666666667,-153.080166666667,3.91,-0.62,ml,5,101,,0.14,av,av92154316,2023-12-15T01:25:36.240Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.54,1.37,0.205988051374142,5,reviewed,av,av
 2023-12-14T21:44:45.422Z,36.4495,-116.0979,7.2,0.3,ml,8,244.12,0.148,0.1106,nn,nn00870183,2023-12-15T02:20:05.321Z,"28 km NNW of Pahrump, Nevada",earthquake,,6.8,0.4,4,reviewed,nn,nn
 2023-12-14T21:44:01.720Z,19.7838,-64.3256,40,3.73,md,16,287,1.3997,0.37,pr,pr2023348003,2023-12-14T22:04:41.824Z,"168 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.01,24.99,0.14,10,reviewed,pr,pr
-2023-12-14T21:29:46.123Z,51.4791,-174.7542,25.8,3.7,ml,,,,0.41,ak,ak023fzvp6nl,2023-12-14T23:47:24.342Z,"88 km SSW of Atka, Alaska",earthquake,,5.4,,,reviewed,ak,ak
