@@ -237,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-15T12:15:26.333Z,62.0541,-149.8539,45.8,1.4,ml,,,,0.68,ak,ak023g1dsldl,2023-12-15T12:18:07.833Z,"11 km S of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-12-15T12:07:47.640Z,38.7926674,-122.7365036,1.45,1.28,md,18,93,0.009418,0.03,nc,nc73976501,2023-12-15T15:17:44.276Z,"2 km NE of The Geysers, CA",earthquake,0.26,0.52,0.2,18,automatic,nc,nc
 2023-12-15T11:51:29.110Z,38.8263321,-122.8536682,2.71,1.09,md,15,111,0.002781,0.02,nc,nc73976496,2023-12-15T13:50:11.646Z,"10 km WNW of The Geysers, CA",earthquake,0.32,0.56,0.15,19,automatic,nc,nc
-2023-12-15T11:42:36.530Z,19.4085006713867,-155.269332885742,11.9399995803833,1.79999995,md,17,112,,0.180000007,hv,hv73686712,2023-12-15T11:45:40.080Z,"5 km SW of Volcano, Hawaii",earthquake,0.79,0.5,1.79999995,4,automatic,hv,hv
