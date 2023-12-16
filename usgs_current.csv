@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-16T22:47:12.410Z,19.2744998931885,-155.401672363281,29.2999992370605,2.0999999,md,37,119,,0.119999997,hv,hv73688467,2023-12-16T22:50:31.540Z,"11 km NE of Pāhala, Hawaii",earthquake,0.65,0.860000014,0.899999976,16,automatic,hv,hv
 2023-12-16T22:23:46.700Z,19.2875003814697,-155.390335083008,1.78999996185303,2.5,ml,22,158,,0.209999993,hv,hv73688452,2023-12-16T22:29:19.150Z,"13 km NE of Pāhala, Hawaii",earthquake,0.51,0.699999988,0.37,3,automatic,hv,hv
 2023-12-16T22:15:43.761Z,-37.1183,-74.0722,11.758,4.6,mwr,66,125,0.797,0.72,us,us7000ljl1,2023-12-16T22:38:23.040Z,"65 km NW of Lebu, Chile",earthquake,5.28,1.369,0.052,36,reviewed,us,us
 2023-12-16T22:15:39.867Z,62.3559,-148.6981,25.7,2.2,ml,,,,0.51,ak,ak023g37aayq,2023-12-16T22:17:24.992Z,"63 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
