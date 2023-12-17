@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-17T11:05:11.580Z,19.2918338775635,-155.389831542969,2.0699999332428,2.25999999,md,21,155,,0.150000006,hv,hv73689067,2023-12-17T11:08:10.550Z,"13 km NE of Pāhala, Hawaii",earthquake,0.54,1.40999997,1.74000001,6,automatic,hv,hv
+2023-12-17T11:03:27.630Z,62.4168,-149.2141,63.3,1.8,ml,,,,0.65,ak,ak023g4o7ab7,2023-12-17T11:06:01.176Z,"43 km NE of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-12-17T10:37:59.320Z,19.1445007324219,-155.372497558594,28.8400001525879,2.43,ml,52,182,,0.129999995,hv,hv73689052,2023-12-17T10:43:31.010Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.57,0.620000005,3.06,15,automatic,hv,hv
 2023-12-17T10:35:13.140Z,19.3018341064453,-155.378494262695,2.45000004768372,2.05999994,md,32,112,,0.189999998,hv,hv73689047,2023-12-17T10:38:26.110Z,"15 km NE of Pāhala, Hawaii",earthquake,0.33,0.699999988,0.560000002,8,automatic,hv,hv
 2023-12-17T10:26:58.773Z,59.8289,-153.4843,112.4,1.9,ml,,,,0.43,ak,ak023g4nquj9,2023-12-17T10:28:41.567Z,"35 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
