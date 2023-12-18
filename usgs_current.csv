@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-18T03:50:58.023Z,63.0126,-151.3489,0,1.7,ml,,,,0.58,ak,ak023g679ax6,2023-12-18T03:52:54.898Z,"61 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-18T03:38:24.303Z,61.6313,-146.3232,38.4,1.7,ml,,,,0.38,ak,ak023g676nq6,2023-12-18T03:39:55.992Z,"46 km SSE of Nelchina, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-12-18T03:24:56.560Z,38.8161659,-122.8154984,2.75,1.08,md,17,54,0.00837,0.02,nc,nc73977636,2023-12-18T03:41:13.965Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.61,0.27,20,automatic,nc,nc
 2023-12-18T03:18:03.162Z,57.8266,-32.675,10,4.9,mb,49,68,8.82,0.67,us,us7000ljsd,2023-12-18T03:32:32.040Z,"Reykjanes Ridge",earthquake,3.52,1.887,0.052,119,reviewed,us,us
