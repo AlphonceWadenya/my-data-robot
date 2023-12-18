@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-18T14:29:31.874Z,31.56,-104.19,3.9066,1.8,ml,19,72,0.1,0.2,tx,tx2023yski,2023-12-18T14:57:18.204Z,"46 km NW of Toyah, Texas",earthquake,0,1.368837331,0.3,14,automatic,tx,tx
 2023-12-18T14:29:00.453Z,61.7027,-151.7827,98,1.8,ml,,,,0.39,ak,ak023g6dog3h,2023-12-18T14:31:04.085Z,"37 km SSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-18T14:26:47.230Z,33.4838333,-116.4321667,12.4,1.64,ml,14,259,0.1105,0.11,ci,ci40446871,2023-12-18T14:33:13.200Z,"23 km SSW of La Quinta, CA",earthquake,0.53,0.62,0.116,6,automatic,ci,ci
 2023-12-18T14:14:00.460Z,36.5475006,-121.1751633,3.23,1.72,md,8,196,0.02552,0.05,nc,nc73977776,2023-12-18T14:30:13.689Z,"3 km WNW of Pinnacles, CA",earthquake,1.07,0.72,0.14,10,automatic,nc,nc
@@ -88,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-18T04:26:52.073Z,63.1845,-151.3279,0,1.6,ml,,,,0.65,ak,ak023g67pkvr,2023-12-18T04:29:05.134Z,"44 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-18T04:24:38.369Z,31.549,-104.011,4.7997,1.6,ml,15,56,0,0.4,tx,tx2023yrqh,2023-12-18T13:25:02.629Z,"33 km NW of Toyah, Texas",earthquake,0,1.308267262,0.2,11,automatic,tx,tx
 2023-12-18T04:21:21.650Z,34.0546667,-116.947,12.87,0.93,ml,39,50,0.03987,0.16,ci,ci40446607,2023-12-18T04:27:37.859Z,"9 km ENE of Yucaipa, CA",earthquake,0.16,0.48,0.14,14,automatic,ci,ci
-2023-12-18T04:10:33.390Z,38.2323333333333,-89.0985,16.64,3.05,md,48,51,0.5252,0.26,nm,nm60562761,2023-12-18T14:52:31.039Z,"5 km WNW of Waltonville, Illinois",earthquake,0.35,0.56,0.255242742002364,26,reviewed,nm,nm
+2023-12-18T04:10:33.390Z,38.2323333333333,-89.0985,16.64,3.05,md,48,51,0.5252,0.26,nm,nm60562761,2023-12-18T14:59:10.445Z,"5 km WNW of Waltonville, Illinois",earthquake,0.35,0.56,0.255242742002364,26,reviewed,nm,nm
 2023-12-18T04:08:22.197Z,65.3821,-144.7945,0,1.7,ml,,,,0.56,ak,ak023g67lnor,2023-12-18T04:10:10.633Z,"21 km S of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-18T04:03:26.777Z,35.09981155,-97.53089142,3.086587191,1.5,ml,10,92.91085815,0.0276574064,1.066821892,ok,ok2023yrpp,2023-12-18T04:07:42.954Z,"3 km E of Cole, Oklahoma",earthquake,3.555313284,2.959929229,0.26,4,automatic,ok,ok
 2023-12-18T03:55:19.809Z,-53.7877,-47.4071,10,4.9,mb,22,157,6.454,1,us,us7000ljsg,2023-12-18T04:26:11.040Z,"South Atlantic Ocean",earthquake,8.04,1.944,0.116,23,reviewed,us,us
