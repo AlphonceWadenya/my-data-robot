@@ -200,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-18T20:00:21.840Z,44.4435,-110.9796667,9.46,0.71,md,10,125,0.1033,0.19,uu,uu60556722,2023-12-18T20:50:38.700Z,"26 km SSE of West Yellowstone, Montana",earthquake,1.13,3.2,0.303,7,reviewed,uu,uu
 2023-12-18T19:58:30.280Z,38.8268318,-122.8083344,1.55,0.62,md,10,94,0.003691,0.02,nc,nc73977866,2023-12-18T22:19:11.391Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.83,0.26,12,automatic,nc,nc
 2023-12-18T19:52:25.460Z,34.548,-119.1386667,1.42,1.37,ml,22,53,0.1108,0.15,ci,ci40447175,2023-12-18T20:15:40.755Z,"15 km NE of Ojai, CA",earthquake,0.19,0.4,0.08,7,reviewed,ci,ci
-2023-12-18T19:46:26.390Z,44.4548333333333,-115.233333333333,11.13,1.57,ml,9,73,0.4457,0.18,mb,mb90036623,2023-12-19T16:19:52.070Z,"35 km NW of Stanley, Idaho",earthquake,0.35,1.18,0.153860858428046,7,reviewed,mb,mb
-2023-12-18T19:46:02.190Z,38.7823334,-122.7523346,5.56,0.39,md,9,94,0.01223,0.19,nc,nc73977861,2023-12-18T20:08:11.594Z,"1 km NNE of The Geysers, CA",earthquake,1.28,1.19,0.23,6,automatic,nc,nc
