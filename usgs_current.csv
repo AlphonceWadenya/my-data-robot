@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-20T06:43:55.405Z,55.5919,-158.6843,35.3,3.1,ml,,,,0.6,ak,ak023g9k2sic,2023-12-20T06:46:33.973Z,"45 km SE of Perryville, Alaska",earthquake,,8.6,,,automatic,ak,ak
 2023-12-20T06:35:47.072Z,55.9373,-159.6895,1.6,1.4,ml,,,,0.83,ak,ak023g9k124z,2023-12-20T06:37:24.141Z,"13 km WNW of Ivanof Bay, Alaska",earthquake,,4.2,,,automatic,ak,ak
-2023-12-20T06:33:40.560Z,38.7845001,-122.7713318,0.78,1.04,md,7,94,0.01443,0.05,nc,nc73978491,2023-12-20T06:35:16.922Z,"2 km WNW of The Geysers, CA",earthquake,0.45,0.89,0.35,9,automatic,nc,nc
+2023-12-20T06:33:40.560Z,38.7845001,-122.7713318,0.78,1.04,md,7,94,0.01443,0.05,nc,nc73978491,2023-12-20T06:44:10.831Z,"2 km WNW of The Geysers, CA",earthquake,0.45,0.89,0.35,9,automatic,nc,nc
 2023-12-20T06:21:15.284Z,59.9145,-151.6546,68.4,1.9,ml,,,,0.67,ak,ak023g9jxzns,2023-12-20T06:34:55.364Z,"5 km SE of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-12-20T06:14:47.090Z,34.2949982,-117.024498,8.27,2.91,ml,134,17,0.04121,0.17,ci,ci40448319,2023-12-20T06:41:49.701Z,"12 km WNW of Big Bear Lake, CA",earthquake,0.15,0.43,0.283,20,automatic,ci,ci
 2023-12-20T06:01:43.059Z,62.0281,-150.4428,15.2,1.7,ml,,,,0.74,ak,ak023g9jtrhd,2023-12-20T06:03:57.160Z,"33 km SSW of Trapper Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
