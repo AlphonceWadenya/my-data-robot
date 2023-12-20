@@ -210,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-19T14:10:28.198Z,31.664,-104.185,6.183,2.1,ml,18,72,0.1,0.2,tx,tx2023yufd,2023-12-19T18:31:01.433Z,"53 km NW of Toyah, Texas",earthquake,0.6861532777,0.7435205308,0.2,14,reviewed,tx,tx
 2023-12-19T14:05:06.850Z,38.7804985,-122.7183304,1.93,1.27,md,12,90,0.01932,0.02,nc,nc73978176,2023-12-19T18:34:10.744Z,"2 km WNW of Anderson Springs, CA",earthquake,0.38,0.81,0.11,12,automatic,nc,nc
 2023-12-19T14:04:11.590Z,24.1069,125.9471,10,4.5,mb,42,131,1.586,1.17,us,us7000lk46,2023-12-19T17:29:39.040Z,"99 km SE of Miyakojima, Japan",earthquake,6.12,1.851,0.1,29,reviewed,us,us
-2023-12-19T13:56:34.520Z,38.8443336,-122.8743362,2.52,0.79,md,7,164,0.006219,0.02,nc,nc73978171,2023-12-19T14:22:10.916Z,"13 km NW of The Geysers, CA",earthquake,0.63,0.97,0.17,10,automatic,nc,nc
-2023-12-19T13:52:24.630Z,38.8406677,-122.8779984,2.07,0.78,md,12,113,0.007353,0.02,nc,nc73978161,2023-12-19T14:40:11.014Z,"13 km NW of The Geysers, CA",earthquake,0.32,0.66,0.28,14,automatic,nc,nc
