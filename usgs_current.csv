@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-22T16:44:53.060Z,35.0706667,-119.0663333,13.03,1.76,ml,50,27,0.01871,0.23,ci,ci40449599,2023-12-22T16:51:38.874Z,"19 km NW of Grapevine, CA",earthquake,0.2,0.68,0.139,29,automatic,ci,ci
+2023-12-22T16:44:53.060Z,35.0706667,-119.0663333,13.03,1.76,ml,50,27,0.01871,0.23,ci,ci40449599,2023-12-22T16:55:26.620Z,"19 km NW of Grapevine, CA",earthquake,0.2,0.68,0.139,29,automatic,ci,ci
 2023-12-22T16:44:04.248Z,64.8733,-149.738,26.5,1.2,ml,,,,0.47,ak,ak023gd13xbc,2023-12-22T16:46:27.350Z,"35 km SSW of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-12-22T16:37:42.068Z,61.7685,-149.6171,27.1,1.5,ml,,,,0.64,ak,ak023gd12i7y,2023-12-22T16:40:33.582Z,"16 km N of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-22T16:37:30.916Z,63.4779,-146.3494,13.5,1.5,ml,,,,0.78,ak,ak023gd12his,2023-12-22T16:40:25.488Z,"56 km NW of Paxson, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -230,5 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-21T17:13:04.340Z,38.8291664,-122.8018341,1.36,0.57,md,8,78,0.008639,0.01,nc,nc73979066,2023-12-21T17:48:14.114Z,"7 km W of Cobb, CA",earthquake,0.35,1.2,0.35,8,automatic,nc,nc
 2023-12-21T17:03:45.858Z,51.247,-175.2855,30.715,4.6,mwr,76,184,0.841,0.95,us,us7000lkpk,2023-12-21T17:34:02.104Z,"116 km SE of Adak, Alaska",earthquake,5.3,5.689,0.075,17,reviewed,us,us
 2023-12-21T16:58:18.730Z,57.0408333333333,-135.688333333333,5.52,0.71,ml,4,269,,0.07,av,av91125193,2023-12-21T20:57:50.250Z,"21 km W of Sitka, Alaska",earthquake,1.29,0.67,0.0860479580515839,3,reviewed,av,av
-2023-12-21T16:53:32.850Z,38.8078346,-122.7699966,2.11,1.06,md,23,84,0.009953,0.03,nc,nc73979061,2023-12-21T17:38:14.048Z,"4 km NNW of The Geysers, CA",earthquake,0.24,0.41,0.06,23,automatic,nc,nc
-2023-12-21T16:52:49.870Z,38.8128319,-122.8186646,2.75,1.54,md,29,53,0.009118,0.02,nc,nc73979056,2023-12-21T20:27:10.431Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.39,0.15,28,automatic,nc,nc
