@@ -146,4 +146,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-24T15:14:04.220Z,47.81966666666667,-122.96,52.39,4.04,ml,132,20,0.03345,0.33,uw,uw61977871,2023-12-25T13:35:38.929Z,"6 km W of Quilcene, Washington",earthquake,0.29,0.51,0.1851638898871073,104,reviewed,uw,uw
 2023-12-24T14:52:55.297Z,-20.9451,-173.7618,10,5.4,mww,42,91,1.365,1.05,us,us7000ll9h,2023-12-24T19:00:56.364Z,"131 km ENE of ‘Ohonua, Tonga",earthquake,6.56,1.859,0.098,10,reviewed,us,us
 2023-12-24T13:59:24.180Z,19.3706,-64.7826,58,3.93,md,13,288,0.9695,0.56,pr,pr2023358001,2023-12-24T14:25:49.171Z,"114 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.69,13.99,0.14,5,reviewed,pr,pr
-2023-12-24T13:58:37.975Z,62.6712,-148.3046,53.4,1.6,ml,,,,0.53,ak,ak023ggahe6v,2023-12-24T15:19:22.553Z,"86 km SSE of Cantwell, Alaska",earthquake,,0.1,,,reviewed,ak,ak
