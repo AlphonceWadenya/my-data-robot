@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-25T20:45:19.867Z,59.7251,-151.1873,38.3,2.3,ml,,,,0.48,ak,ak023gi23y4y,2023-12-25T20:47:22.647Z,"6 km ESE of Fritz Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-25T20:43:01.710Z,38.8105011,-122.8216629,2.83,1.84,md,38,53,0.006094,0.04,nc,nc73980971,2023-12-25T20:46:03.360Z,"7 km WNW of The Geysers, CA",earthquake,0.18,0.31,0.16,39,automatic,nc,nc
+2023-12-25T20:37:07.700Z,19.0396666666667,-65.4721666666667,20.5,3.2,md,14,246,0.8371,0.28,pr,pr71435293,2023-12-25T20:53:10.750Z,"77 km NNE of Vieques, Puerto Rico",earthquake,1.02,24.94,0.0776480152154351,13,reviewed,pr,pr
 2023-12-25T20:25:15.510Z,33.5061667,-116.496,11.87,1.61,ml,83,28,0.05896,0.18,ci,ci40450911,2023-12-25T20:36:01.930Z,"17 km ESE of Anza, CA",earthquake,0.12,0.27,0.214,26,automatic,ci,ci
 2023-12-25T20:05:07.180Z,38.8293343,-122.8566666,2.7,0.77,md,12,95,0.001794,0.01,nc,nc73980961,2023-12-25T20:26:13.273Z,"10 km WNW of The Geysers, CA",earthquake,0.3,0.74,0.16,14,automatic,nc,nc
 2023-12-25T19:59:54.790Z,38.8153343,-122.8138351,2.98,0.75,md,9,80,0.008568,0.01,nc,nc73980956,2023-12-25T20:16:14.204Z,"6 km NW of The Geysers, CA",earthquake,0.64,1.05,0.17,10,automatic,nc,nc
@@ -176,4 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-24T21:21:13.890Z,38.8373337,-122.8013306,2.16,1.02,md,11,101,0.008647,0.01,nc,nc73980531,2023-12-24T23:25:10.649Z,"7 km WNW of Cobb, CA",earthquake,0.35,0.98,0.24,14,automatic,nc,nc
 2023-12-24T21:17:39.560Z,38.8176651,-122.8141632,2.91,0.84,md,10,82,0.006553,0.02,nc,nc73980526,2023-12-24T22:59:11.478Z,"7 km NW of The Geysers, CA",earthquake,0.57,0.82,0.23,11,automatic,nc,nc
 2023-12-24T21:01:30.649Z,38.1827,-117.8169,4,1.5,ml,15,117.08,0.133,0.2932,nn,nn00870610,2023-12-24T21:04:12.014Z,"34 km SE of Mina, Nevada",earthquake,,0.6,0.24,8,automatic,nn,nn
-2023-12-24T20:48:48.190Z,19.158332824707,-155.480499267578,34.439998626709,2.16000009,md,42,124,,0.119999997,hv,hv73695707,2023-12-24T20:52:10.880Z,"4 km S of Pāhala, Hawaii",earthquake,0.45,0.589999974,0.129999995,17,automatic,hv,hv
