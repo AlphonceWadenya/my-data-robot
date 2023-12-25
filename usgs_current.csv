@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-25T05:37:07.230Z,33.3846664,-116.2911682,11.2,0.97,ml,34,101,0.02706,0.15,ci,ci40450743,2023-12-25T05:39:28.774Z,"16 km NNE of Borrego Springs, CA",earthquake,0.28,0.47,0.305,6,automatic,ci,ci
 2023-12-25T05:32:26.150Z,38.7794991,-122.7198334,1.56,0.82,md,7,94,0.01372,0.01,nc,nc73980696,2023-12-25T05:34:03.528Z,"2 km WNW of Anderson Springs, CA",earthquake,0.46,1.56,0.55,9,automatic,nc,nc
 2023-12-25T05:27:48.187Z,60.2288,-141.7815,0,2,ml,,,,0.31,ak,ak023ght2ncy,2023-12-25T05:30:05.946Z,"137 km WNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-25T05:24:19.547Z,62.6457,-154.8161,0,1.8,ml,,,,0.9,ak,ak023ght1yf4,2023-12-25T05:30:08.414Z,"46 km SSW of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
