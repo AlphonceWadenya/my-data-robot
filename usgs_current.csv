@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-27T11:36:10.538Z,-16.7783,168.8281,221.204,4.5,mb,24,252,5.802,0.44,us,us6000m003,2023-12-27T11:51:58.040Z,"119 km NNE of Port-Vila, Vanuatu",earthquake,18.31,14.657,0.119,21,reviewed,us,us
 2023-12-27T11:24:40.000Z,35.9253333,-117.6821667,2.3,2.07,ml,33,64,0.1126,0.18,ci,ci40451639,2023-12-27T11:35:40.260Z,"20 km E of Little Lake, CA",earthquake,0.23,0.4,0.14,26,automatic,ci,ci
 2023-12-27T11:21:43.589Z,31.677,-104.411,4.8865,1.7,ml,16,69,0,0.3,tx,tx2023zipp,2023-12-27T11:37:51.776Z,"55 km S of Whites City, New Mexico",earthquake,0,1.231540226,0.1,13,automatic,tx,tx
 2023-12-27T11:17:50.213Z,31.673,-104.403,3.9322,2.1,ml,15,86,0,0.4,tx,tx2023zipm,2023-12-27T11:37:46.778Z,"55 km S of Whites City, New Mexico",earthquake,0,1.56041441,0.2,12,automatic,tx,tx
@@ -185,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-26T12:21:38.962Z,31.74,-104.115,5.6131,2,ml,19,71,0,0.3,tx,tx2023zgwb,2023-12-26T12:53:42.611Z,"49 km W of Mentone, Texas",earthquake,0,2.10910168,0.3,14,automatic,tx,tx
 2023-12-26T12:10:08.358Z,62.9737,-150.5093,101.8,2,ml,,,,0.36,ak,ak023gjkoaub,2023-12-26T12:12:24.595Z,"54 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-26T12:08:08.214Z,60.7475,-151.4676,65.1,2.1,ml,,,,0.69,ak,ak023gjknved,2023-12-27T02:54:01.549Z,"11 km WNW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-12-26T11:56:32.890Z,34.3651667,-117.1346667,1.85,1.1,ml,39,57,0.1521,0.14,ci,ci40451199,2023-12-26T12:02:45.708Z,"14 km NNE of Lake Arrowhead, CA",earthquake,0.18,0.64,0.281,12,automatic,ci,ci
