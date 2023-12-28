@@ -232,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T19:08:34.100Z,61.0102,-151.3752,53.7,2.5,ml,,,,1.02,ak,ak023glcdb4b,2023-12-27T19:11:55.479Z,"14 km WSW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-27T19:01:41.820Z,51.931,-177.187,10.5,-0.14,ml,4,272,,0.26,av,av91125863,2023-12-28T01:33:50.030Z,"38 km W of Adak, Alaska",earthquake,4.52,1.79,0.209644742302602,3,reviewed,av,av
 2023-12-27T19:00:28.600Z,17.9511666666667,-66.9403333333333,7.74,2.35,md,10,182,0.03671,0.15,pr,pr71435463,2023-12-27T19:09:41.490Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.64,0.26,0.0211707392455498,3,reviewed,pr,pr
-2023-12-27T18:56:08.709Z,43.4502,16.2809,10,3.5,ml,24,39,1.452,0.47,us,us6000m01b,2023-12-28T10:21:38.674Z,"5 km SSE of Okrug Gornji, Croatia",earthquake,1.83,1.982,0.052,48,reviewed,us,us
