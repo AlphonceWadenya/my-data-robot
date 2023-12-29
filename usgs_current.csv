@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-29T15:37:28.220Z,34.0965,-117.2883333,13.44,2.03,ml,100,21,0.009959,0.18,ci,ci40452455,2023-12-29T15:44:33.569Z,"3 km NE of Colton, CA",earthquake,0.12,0.25,0.153,26,automatic,ci,ci
+2023-12-29T15:43:22.140Z,36.7249,-115.9376,1.9,0.4,ml,11,202.25,0.039,0.1871,nn,nn00870894,2023-12-29T15:45:00.422Z,"29 km NW of Indian Springs, Nevada",earthquake,,5,0.26,7,automatic,nn,nn
+2023-12-29T15:37:28.220Z,34.0965,-117.2883333,13.44,2.03,ml,100,21,0.009959,0.18,ci,ci40452455,2023-12-29T15:48:23.210Z,"3 km NE of Colton, CA",earthquake,0.12,0.25,0.153,26,automatic,ci,ci
 2023-12-29T15:33:08.303Z,61.5913,-149.9138,33.5,1.7,ml,,,,0.27,ak,ak023gol7klq,2023-12-29T15:34:53.455Z,"6 km SW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-29T15:32:23.220Z,38.4244995,-122.6561661,9.83,1.58,md,14,111,0.03564,0.03,nc,nc73982696,2023-12-29T15:44:10.172Z,"5 km ESE of Santa Rosa, CA",earthquake,0.41,0.49,0.29,10,automatic,nc,nc
 2023-12-29T15:09:18.460Z,37.8446655,-122.043663,8.62,1.24,md,8,132,0.03205,0.01,nc,nc73982691,2023-12-29T15:27:13.068Z,"1 km WSW of Alamo, CA",earthquake,0.53,0.95,0.13,6,automatic,nc,nc
@@ -90,9 +91,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-29T07:11:38.290Z,38.8166656,-122.8011703,3.45,1.35,md,7,147,0.009671,0.01,nc,nc73982341,2023-12-29T10:25:10.159Z,"6 km NW of The Geysers, CA",earthquake,2.08,5.69,0.07,9,automatic,nc,nc
 2023-12-29T07:11:20.370Z,38.8226662,-122.7978363,3.26,0.64,md,8,104,0.01481,0.01,nc,nc73982336,2023-12-29T07:48:14.216Z,"6 km NW of The Geysers, CA",earthquake,0.61,2.94,0.17,6,automatic,nc,nc
 2023-12-29T07:11:03.390Z,38.8196678,-122.793335,3.32,2.39,md,29,34,0.01177,0.02,nc,nc73982326,2023-12-29T12:32:01.040Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.42,0.17,29,automatic,nc,nc
-2023-12-29T07:10:11.880Z,38.814,-122.7988333,2.08,3.41,ml,106,27,0.006625,0.06,nc,nc73982331,2023-12-29T13:16:38.090Z,"6 km NW of The Geysers, CA",earthquake,0.08,0.12,0.145,138,reviewed,nc,nc
+2023-12-29T07:10:11.880Z,38.814,-122.7988333,2.08,3.41,ml,106,27,0.006625,0.06,nc,nc73982331,2023-12-29T15:48:10.192Z,"6 km NW of The Geysers, CA",earthquake,0.08,0.12,0.145,138,reviewed,nc,nc
 2023-12-29T07:09:29.790Z,38.8255005,-122.8105011,1.34,0.93,md,11,69,0.002129,0.01,nc,nc73982316,2023-12-29T09:00:09.630Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.64,0.26,12,automatic,nc,nc
-2023-12-29T07:06:15.920Z,46.7701666666667,-112.615666666667,0.09,2.14,ml,18,56,0.1407,0.15,mb,mb90037468,2023-12-29T15:13:34.950Z,"19 km N of Avon, Montana",earthquake,0.23,0.89,0.183970576147064,12,reviewed,mb,mb
+2023-12-29T07:06:15.920Z,46.7701666666667,-112.615666666667,0.09,2.14,ml,18,56,0.1407,0.15,mb,mb90037468,2023-12-29T15:45:38.734Z,"19 km N of Avon, Montana",earthquake,0.23,0.89,0.183970576147064,12,reviewed,mb,mb
 2023-12-29T06:58:59.203Z,65.1167,-148.6611,7.7,1.4,ml,,,,0.64,ak,ak023gog04zk,2023-12-29T07:00:34.985Z,"32 km E of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-29T06:53:20.750Z,32.9266667,-116.28,10.6,1.19,ml,60,43,0.0341,0.21,ci,ci40452351,2023-12-29T07:04:20.160Z,"26 km ENE of Pine Valley, CA",earthquake,0.17,0.39,0.149,24,automatic,ci,ci
 2023-12-29T06:28:18.820Z,19.3705005645752,-155.27766418457,1.98000001907349,1.81,ml,20,64,,0.189999998,hv,hv73700232,2023-12-29T06:33:49.490Z,"9 km SSW of Volcano, Hawaii",earthquake,0.35,0.479999989,0.2,5,automatic,hv,hv
@@ -249,4 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T16:31:08.745Z,36.7188,-115.9485,3.9,0.5,ml,21,187.88,0.031,0.1156,nn,nn00870810,2023-12-29T04:46:34.253Z,"29 km WNW of Indian Springs, Nevada",earthquake,,1.1,0.25,9,reviewed,nn,nn
 2023-12-28T16:11:13.399Z,63.2674,-150.4804,120.5,2.2,ml,,,,0.26,ak,ak023gmy4ymp,2023-12-28T16:13:51.311Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-28T16:10:52.660Z,52.0663333333333,-176.1235,-1.8,0.52,ml,6,106,,0.33,av,av92167061,2023-12-28T23:22:11.460Z,"41 km ENE of Adak, Alaska",earthquake,0.73,1.28,0.13794177022829,6,reviewed,av,av
-2023-12-28T15:48:33.253Z,8.5714,126.5064,54.004,5,mb,84,103,1.752,1.14,us,us6000m087,2023-12-28T16:20:48.330Z,"29 km NE of Hinatuan, Philippines",earthquake,9.42,1.619,0.051,124,reviewed,us,us
