@@ -286,5 +286,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T11:06:24.450Z,33.4803333,-116.456,5.61,1.75,ml,91,25,0.04986,0.2,ci,ci40452071,2023-12-28T16:57:11.813Z,"22 km ESE of Anza, CA",earthquake,0.11,0.38,0.19,27,reviewed,ci,ci
 2023-12-28T11:05:52.610Z,36.7205,-115.9445,3.5,0.5,ml,27,192.9,0.034,0.1194,nn,nn00870797,2023-12-28T23:54:24.847Z,"29 km NW of Indian Springs, Nevada",earthquake,,1.1,0.24,8,reviewed,nn,nn
 2023-12-28T11:00:47.610Z,19.3703333333333,-155.388333333333,9.74,2.53,ml,37,49,,0.11,hv,hv73699122,2023-12-29T06:16:09.040Z,"18 km WSW of Volcano, Hawaii",earthquake,0.31,0.53,0.196864443199238,34,reviewed,hv,hv
-2023-12-28T10:56:00.900Z,36.654,-116.2698,7.5,0.2,ml,7,190.96,0.056,0.0498,nn,nn00870845,2023-12-29T04:02:44.036Z,"52 km ESE of Beatty, Nevada",earthquake,,2.4,0.14,3,reviewed,nn,nn
-2023-12-28T10:55:58.521Z,62.6699,-149.7403,55.1,1.9,ml,,,,0.3,ak,ak023gmutvpo,2023-12-28T10:57:52.561Z,"30 km NE of Chase, Alaska",earthquake,,0.8,,,automatic,ak,ak
