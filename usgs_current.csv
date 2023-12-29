@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-29T07:41:52.630Z,38.8204994,-122.796669,2.75,1.11,md,24,46,0.01086,0.02,nc,nc73982476,2023-12-29T07:43:26.244Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.43,0.32,26,automatic,nc,nc
+2023-12-29T07:39:43.540Z,33.1431667,-116.5891667,16.37,0.92,ml,40,68,0.06242,0.18,ci,ci40452367,2023-12-29T07:46:03.632Z,"7 km N of Julian, CA",earthquake,0.2,0.43,0.149,14,automatic,ci,ci
 2023-12-29T07:36:33.440Z,38.8143349,-122.8116684,1.27,0.75,md,9,118,0.009132,0.01,nc,nc73982466,2023-12-29T07:38:06.384Z,"6 km NW of The Geysers, CA",earthquake,0.4,0.83,0.17,9,automatic,nc,nc
 2023-12-29T07:34:05.990Z,38.8199997,-122.7969971,3.16,0.94,md,14,76,0.01076,0.02,nc,nc73982461,2023-12-29T07:35:41.540Z,"6 km NW of The Geysers, CA",earthquake,0.37,0.63,0.3,14,automatic,nc,nc
 2023-12-29T07:33:51.340Z,38.7838326,-122.7438354,0.79,1.06,md,14,80,0.005589,0.02,nc,nc73982456,2023-12-29T07:35:26.287Z,"1 km ENE of The Geysers, CA",earthquake,0.2,0.53,0.05,15,automatic,nc,nc
@@ -301,5 +303,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T07:58:08.741Z,31.75,-104.097,3.7464,1.5,ml,18,190,0,0.3,tx,tx2023zkej,2023-12-28T08:32:02.297Z,"47 km W of Mentone, Texas",earthquake,0,1.411194142,0.2,12,automatic,tx,tx
 2023-12-28T07:50:03.800Z,19.1298,-66.5138,24,3.73,md,16,240,0.8919,0.39,pr,pr2023362000,2023-12-28T08:10:17.350Z,"73 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.4,25.83,0.09,10,reviewed,pr,pr
 2023-12-28T07:48:39.110Z,35.8548333,-118.0955,10,1.02,ml,12,180,0.02923,0.14,ci,ci40452015,2023-12-28T16:58:51.329Z,"19 km WSW of Little Lake, CA",earthquake,1.29,0.42,0.068,8,reviewed,ci,ci
-2023-12-28T07:44:53.596Z,61.5473,-151.5872,76.3,2.3,ml,,,,0.56,ak,ak023gmsz7n3,2023-12-28T07:47:07.169Z,"50 km SSW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-12-28T07:41:11.140Z,19.1604995727539,-155.481002807617,32.3300018310547,2.43,ml,52,116,,0.109999999,hv,hv73699027,2023-12-28T08:44:34.040Z,"4 km S of Pāhala, Hawaii",earthquake,0.45,0.560000002,3.79,10,automatic,hv,hv
