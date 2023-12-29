@@ -259,5 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T15:00:00.428Z,66.3617,-150.1392,17.8,2.8,ml,,,,0.96,ak,ak023gmxh4ve,2023-12-28T15:25:46.040Z,"61 km NW of Stevens Village, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-12-28T14:58:39.483Z,31.6,-103.958,5.7414,1.8,ml,15,89,0,0.3,tx,tx2023zksg,2023-12-28T15:45:50.489Z,"35 km NNW of Toyah, Texas",earthquake,0,2.056463366,0.3,13,automatic,tx,tx
 2023-12-28T14:53:04.730Z,51.9485,-177.290833333333,5.72,1.06,ml,4,333,,0.04,av,av91125943,2023-12-28T23:13:01.090Z,"45 km W of Adak, Alaska",earthquake,1.27,0.98,0.171903506272871,3,reviewed,av,av
-2023-12-28T14:49:23.634Z,27.8244,129.0247,55.429,4.5,mb,40,94,1.19,1.12,us,us6000m07x,2023-12-28T16:21:15.322Z,"12 km E of Amagi, Japan",earthquake,7.17,8.193,0.108,25,reviewed,us,us
-2023-12-28T14:46:34.440Z,31.601,-103.953,5.3045,1.9,ml,16,73,0,0.3,tx,tx2023zkru,2023-12-28T15:08:59.263Z,"35 km NNW of Toyah, Texas",earthquake,0,2.136727007,0.2,12,automatic,tx,tx
