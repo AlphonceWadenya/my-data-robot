@@ -282,4 +282,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-29T07:53:16.380Z,36.7348333,-121.416,8.15,0.78,md,16,104,0.03844,0.13,nc,nc73982506,2023-12-29T17:53:13.968Z,"10 km SSW of Ridgemark, CA",earthquake,0.4,0.68,0.222,17,reviewed,nc,nc
 2023-12-29T07:48:01.690Z,38.8181648,-122.7991638,3.36,0.86,md,19,59,0.009996,0.01,nc,nc73982496,2023-12-29T07:49:37.249Z,"6 km NW of The Geysers, CA",earthquake,0.29,0.79,0.22,20,automatic,nc,nc
 2023-12-29T07:47:31.480Z,38.8173332,-122.7994995,3.31,1.08,md,21,32,0.00991,0.02,nc,nc73982491,2023-12-29T08:18:10.389Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.59,0.16,22,automatic,nc,nc
-2023-12-29T07:41:52.630Z,38.8204994,-122.796669,2.75,1.11,md,24,46,0.01086,0.02,nc,nc73982476,2023-12-29T11:18:10.611Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.43,0.32,26,automatic,nc,nc
