@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-31T16:34:49.998Z,39.0875,-97.5686,5,3.7,mb_lg,12,87,0.747,0.22,us,us6000m0ue,2023-12-31T16:43:09.108Z,"6 km NNE of Bennington, Kansas",earthquake,2.8,1.997,0.038,178,reviewed,us,us
 2023-12-31T16:32:19.690Z,19.4053325653076,-155.272827148438,0.949999988079071,1.84000003,md,19,41,,0.159999996,hv,hv73705172,2023-12-31T16:35:13.190Z,"5 km SW of Volcano, Hawaii",earthquake,0.18,0.219999999,0.889999986,12,automatic,hv,hv
 2023-12-31T16:28:03.410Z,63.2387,-149.4192,7.8,3.5,ml,,,,0.92,ak,ak023grwum8c,2023-12-31T16:30:02.008Z,"29 km SW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-31T16:03:58.030Z,34.6744995,-118.5784988,8.15,2.01,ml,7,207,0.2847,0.07,ci,ci40453047,2023-12-31T16:22:10.562Z,"12 km SSE of Neenach, CA",earthquake,1.66,12.58,0.337,8,automatic,ci,ci
@@ -87,6 +88,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-31T06:12:56.608Z,39.5483,-119.8165,8.1,1.4,ml,12,84.31,0.042,0.0732,nn,nn00871014,2023-12-31T09:34:10.164Z,"2 km N of Reno, Nevada",earthquake,,0.7,0.14,7,automatic,nn,nn
 2023-12-31T06:11:11.332Z,39.548,-119.8109,7.2,1.8,ml,14,82.83,0.044,0.0881,nn,nn00871012,2023-12-31T09:32:00.621Z,"2 km N of Reno, Nevada",earthquake,,0.5,0.13,8,automatic,nn,nn
 2023-12-31T06:09:41.865Z,31.614,-103.952,4.7379,1.7,ml,15,75,0,0.3,tx,tx2023zpnj,2023-12-31T06:37:41.665Z,"34 km WSW of Mentone, Texas",earthquake,0,1.366986723,0.2,13,automatic,tx,tx
+2023-12-31T06:03:56.120Z,39.5617,-119.8057,5.1,0.9,ml,14,77.35,0.01,0.1806,nn,nn00871030,2023-12-31T16:43:42.636Z,"3 km N of Reno, Nevada",earthquake,,0.9,0.69,3,reviewed,nn,nn
+2023-12-31T06:01:40.940Z,39.5449,-119.7947,5.7,0.8,ml,7,141.89,0.023,0.1596,nn,nn00871031,2023-12-31T16:46:50.738Z,"2 km NE of Reno, Nevada",earthquake,,2.9,0.51,3,reviewed,nn,nn
 2023-12-31T05:56:58.221Z,39.5506,-119.818,7.7,0.9,ml,8,95.62,0.044,0.0561,nn,nn00871011,2023-12-31T05:58:48.828Z,"2 km N of Reno, Nevada",earthquake,,0.8,0.21,3,automatic,nn,nn
 2023-12-31T05:52:23.776Z,56.5749,-158.2149,82,2.2,ml,,,,0.36,ak,ak023grqg1c9,2023-12-31T05:54:13.621Z,"33 km NNE of Chignik, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-31T05:50:52.100Z,38.8089981,-122.8225021,1.89,1.04,md,12,62,0.005217,0.02,nc,nc73983296,2023-12-31T06:34:11.350Z,"7 km WNW of The Geysers, CA",earthquake,0.3,0.7,0.21,12,automatic,nc,nc
