@@ -259,6 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-30T19:41:12.060Z,38.8096657,-122.7376633,2.1,1.03,md,17,125,0.01945,0.03,nc,nc73983066,2023-12-30T19:59:21.540Z,"2 km SW of Cobb, CA",earthquake,0.3,0.58,0.24,16,automatic,nc,nc
 2023-12-30T19:40:13.725Z,31.597,-103.974,9.8053,1.7,ml,14,63,0,0.7,tx,tx2023zosq,2023-12-30T20:22:19.011Z,"35 km NNW of Toyah, Texas",earthquake,0,3.299365653,0.3,12,automatic,tx,tx
 2023-12-30T19:39:12.126Z,31.607,-103.982,5.1972,2.2,ml,16,45,0,0.3,tx,tx2023zosp,2023-12-30T20:22:09.014Z,"37 km NNW of Toyah, Texas",earthquake,0,2.076731968,0.2,12,automatic,tx,tx
-2023-12-30T19:35:56.552Z,59.9679,-151.8225,56.8,2,ml,,,,0.42,ak,ak023gqb56o7,2023-12-30T19:38:04.727Z,"5 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-12-30T19:34:49.207Z,31.605,-103.981,3.6318,2.6,mlv,14,77,0,0.5,tx,tx2023zosl,2023-12-30T20:22:03.012Z,"36 km NNW of Toyah, Texas",earthquake,0,1.577446291,0.2,9,automatic,tx,tx
-2023-12-30T19:33:15.548Z,-3.1247,139.5547,47.183,4.5,mb,34,67,1.297,0.57,us,us6000m0p7,2023-12-31T05:34:19.040Z,"133 km WSW of Abepura, Indonesia",earthquake,5.29,8.051,0.115,22,reviewed,us,us
