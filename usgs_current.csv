@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-01T02:47:27.886Z,57.1245,-155.0381,13.3,3.8,ml,,,,0.49,ak,ak0241p0cnv,2024-01-01T02:49:50.695Z,"56 km WNW of Akhiok, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-01-01T02:31:34.747Z,62.5811,-151.2715,86.8,1.7,ml,,,,0.58,ak,ak0241owxic,2024-01-01T02:40:07.937Z,"27 km WNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-01-01T02:27:47.260Z,35.7726667,-117.5858333,3.28,1.25,ml,30,66,0.138,0.13,ci,ci40453287,2024-01-01T02:33:38.010Z,"16 km W of Searles Valley, CA",earthquake,0.18,0.78,0.158,8,automatic,ci,ci
 2024-01-01T02:19:57.805Z,37.219,-117.8841,0,1.4,ml,19,198.43,0.165,0.1622,nn,nn00871074,2024-01-01T02:22:36.270Z,"36 km E of Big Pine, California",earthquake,,5.3,0.44,9,automatic,nn,nn
@@ -241,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-31T03:25:43.907Z,61.1787,-146.8045,37.7,1.6,ml,,,,0.95,ak,ak023grp3fcm,2023-12-31T03:28:04.211Z,"25 km WNW of Valdez, Alaska",earthquake,,8.2,,,automatic,ak,ak
 2023-12-31T03:10:00.321Z,59.5575,-153.577,111.1,1.9,ml,,,,0.2,ak,ak023grp048w,2023-12-31T03:11:55.678Z,"39 km SE of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-31T03:01:04.360Z,38.7998352,-122.7818298,4.06,0.73,md,12,63,0.008174,0.02,nc,nc73983231,2023-12-31T05:00:10.626Z,"3 km NW of The Geysers, CA",earthquake,0.46,1.11,0.06,12,automatic,nc,nc
-2023-12-31T02:52:21.260Z,38.7784996,-122.7409973,2.28,1.06,md,15,58,0.00579,0.02,nc,nc73983226,2023-12-31T04:34:10.469Z,"1 km E of The Geysers, CA",earthquake,0.28,0.6,0.06,14,automatic,nc,nc
