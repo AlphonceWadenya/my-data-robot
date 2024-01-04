@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-04T17:28:27.560Z,33.2053337,-116.69767,8.38,1.01,ml,26,47,0.0427,0.17,ci,ci40455183,2024-01-04T17:30:32.928Z,"7 km ESE of Lake Henshaw, CA",earthquake,0.29,0.74,0.148,6,automatic,ci,ci
+2024-01-04T17:28:27.590Z,33.2066667,-116.701,8.13,0.92,ml,38,38,0.04567,0.19,ci,ci40455183,2024-01-04T17:34:35.940Z,"7 km SE of Lake Henshaw, CA",earthquake,0.2,0.46,0.076,15,automatic,ci,ci
 2024-01-04T17:24:05.820Z,39.0138321,-123.3083344,3.05,2.1,md,14,67,0.04096,0.05,nc,nc73985106,2024-01-04T17:31:10.851Z,"5 km E of Boonville, CA",earthquake,0.24,0.89,0.08,13,automatic,nc,nc
 2024-01-04T17:11:21.600Z,38.7876663,-122.7679977,0.6,1.16,md,22,81,0.01447,0.05,nc,nc73985101,2024-01-04T17:28:11.709Z,"2 km NW of The Geysers, CA",earthquake,0.21,0.47,0.27,21,automatic,nc,nc
 2024-01-04T17:10:20.512Z,61.8479,-149.2018,38.6,2,ml,,,,0.16,ak,ak0246wby03,2024-01-04T17:11:28.150Z,"11 km N of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -144,6 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-04T01:27:27.800Z,44.5858333333333,-110.74,9.25,1.58,ml,17,67,0.07187,0.18,uu,uu80034216,2024-01-04T17:21:07.110Z,"30 km ESE of West Yellowstone, Montana",earthquake,0.52,1.39,0.357416816809707,4,reviewed,uu,uu
 2024-01-04T01:24:20.690Z,44.572,-110.7465,7.81,1.43,ml,15,70,0.081,0.14,uu,uu80034211,2024-01-04T17:24:16.730Z,"30 km ESE of West Yellowstone, Montana",earthquake,0.37,0.85,0.343254049954972,4,reviewed,uu,uu
 2024-01-04T01:15:57.760Z,37.2575,-121.6361667,5.07,1.05,md,23,42,0.02952,0.06,nc,nc73984906,2024-01-04T07:09:15.079Z,"14 km N of Morgan Hill, CA",earthquake,0.18,0.41,0.154,22,reviewed,nc,nc
+2024-01-04T01:09:41.800Z,44.5833333333333,-110.737333333333,9.47,1.47,ml,15,67,0.07078,0.17,uu,uu80034196,2024-01-04T17:35:20.070Z,"30 km ESE of West Yellowstone, Montana",earthquake,0.44,1.41,0.353662156748352,4,reviewed,uu,uu
 2024-01-04T01:03:07.920Z,44.5826666666667,-110.75,7.33,0.79,ml,14,70,0.07962,0.11,uu,uu80034186,2024-01-04T17:30:20.740Z,"29 km ESE of West Yellowstone, Montana",earthquake,0.29,1.1,0.362055737727654,3,reviewed,uu,uu
 2024-01-04T00:58:52.580Z,46.849833333333336,-121.9915,7.22,1.04,ml,27,72,0.03037,0.11,uw,uw61978816,2024-01-04T05:45:32.140Z,"10 km NNE of Ashford, Washington",earthquake,0.25,0.41,0.14652176624123725,15,reviewed,uw,uw
 2024-01-04T00:58:44.250Z,35.0416667,-117.6636667,-0.81,1.74,ml,37,41,0.1103,0.21,ci,ci40454871,2024-01-04T01:05:25.886Z,"5 km NNW of Boron, CA",earthquake,0.29,0.68,0.124,26,automatic,ci,ci
