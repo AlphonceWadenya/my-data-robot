@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-04T22:48:19.696Z,60.1826,-153.0402,118.4,2.8,ml,,,,0.86,ak,ak0246zj963,2024-01-04T22:51:39.747Z,"70 km E of Port Alsworth, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-01-04T22:46:55.500Z,38.7794991,-122.7531662,1.22,0.89,md,8,141,0.01317,0.01,nc,nc73985161,2024-01-04T22:48:32.732Z,"0 km NE of The Geysers, CA",earthquake,0.48,0.84,0.23,8,automatic,nc,nc
-2024-01-04T22:46:49.390Z,33.7143326,-116.7111664,19.29,1.06,ml,25,134,0.000654,0.16,ci,ci40455367,2024-01-04T22:49:09.512Z,"3 km SSE of Idyllwild, CA",earthquake,0.66,0.56,0.164,10,automatic,ci,ci
+2024-01-04T22:46:49.660Z,33.7041667,-116.7106667,17.99,0.78,ml,34,66,0.007567,0.15,ci,ci40455367,2024-01-04T22:53:40.909Z,"4 km S of Idyllwild, CA",earthquake,0.23,0.36,0.072,17,automatic,ci,ci
 2024-01-04T22:43:13.870Z,38.7558327,-122.7408371,3.04,0.59,md,8,122,0.004239,0.04,nc,nc73985156,2024-01-04T22:44:48.193Z,"3 km SSE of The Geysers, CA",earthquake,0.78,0.86,0.29,8,automatic,nc,nc
+2024-01-04T22:39:25.610Z,44.5853333333333,-110.7405,8.81,0.34,md,12,68,0.07235,0.17,uu,uu80034416,2024-01-04T22:54:02.270Z,"30 km ESE of West Yellowstone, Montana",earthquake,0.56,1.41,0.261911890531249,9,reviewed,uu,uu
 2024-01-04T22:38:43.738Z,28.9657,-98.0923,7.898,3,mb_lg,16,110,0.36,0.63,us,us6000m1vc,2024-01-04T22:47:41.040Z,"7 km WSW of Falls City, Texas",earthquake,3.64,8.13,0.066,60,reviewed,us,us
 2024-01-04T22:25:51.490Z,36.8413315,-121.5550003,2.78,1.16,md,7,128,0.04588,0.08,nc,nc73985141,2024-01-04T22:42:10.477Z,"2 km WSW of San Juan Bautista, CA",earthquake,0.55,1.62,0.31,7,automatic,nc,nc
 2024-01-04T21:57:51.066Z,59.466,-153.0499,91.4,2.1,ml,,,,0.36,ak,ak0246yztfm,2024-01-04T22:00:22.503Z,"65 km W of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
