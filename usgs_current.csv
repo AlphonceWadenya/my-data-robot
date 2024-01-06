@@ -176,4 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-05T21:04:45.330Z,38.8303337,-122.8130035,1.73,0.5,md,9,83,0.007297,0.02,nc,nc73985531,2024-01-05T21:48:14.014Z,"8 km NW of The Geysers, CA",earthquake,0.37,0.85,0.33,9,automatic,nc,nc
 2024-01-05T21:03:19.080Z,38.8323326,-122.8150024,1.37,0.38,md,8,99,0.009719,0.02,nc,nc73985526,2024-01-05T21:37:14.928Z,"8 km NW of The Geysers, CA",earthquake,0.43,1.13,0.26,9,automatic,nc,nc
 2024-01-05T21:02:39.661Z,39.4029,-119.8384,6.7,0.5,ml,6,127.53,0.059,0.0899,nn,nn00871366,2024-01-05T23:24:27.422Z,"14 km S of Reno, Nevada",earthquake,,2,0.46,3,reviewed,nn,nn
-2024-01-05T20:42:13.210Z,37.5913333,-119.1508333,7.59,1.2,md,25,145,0.06994,0.05,nc,nc73985516,2024-01-06T07:49:12.545Z,"16 km WSW of Mammoth Lakes, CA",earthquake,0.46,0.61,0.213,21,reviewed,nc,nc
