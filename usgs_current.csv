@@ -169,4 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-07T05:09:36.060Z,34.9651667,-118.5638333,10.17,1.23,ml,17,62,0.1001,0.13,ci,ci40456503,2024-01-07T05:15:55.607Z,"21 km SSW of Tehachapi, CA",earthquake,0.2,0.61,0.43,7,automatic,ci,ci
 2024-01-07T05:06:11.706Z,31.618,-104.112,3.3272,1.5,ml,17,57,0,0.5,tx,tx2024alje,2024-01-07T06:00:32.989Z,"45 km NW of Toyah, Texas",earthquake,0,1.31007197,0.2,12,automatic,tx,tx
 2024-01-07T04:55:28.495Z,31.614,-104.116,5.8813,1.9,ml,17,57,0,0.3,tx,tx2024alit,2024-01-07T05:19:18.705Z,"45 km NW of Toyah, Texas",earthquake,0,2.326918731,0.2,13,automatic,tx,tx
-2024-01-07T04:48:06.390Z,19.2648334503174,-155.399169921875,31.4599990844727,1.85000002,md,41,137,,0.100000001,hv,hv73711792,2024-01-07T04:51:17.530Z,"10 km NE of Pāhala, Hawaii",earthquake,0.57,0.660000026,0.560000002,9,automatic,hv,hv
