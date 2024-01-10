@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-10T15:35:42.402Z,59.9895,-153.4484,135.2,2,ml,,,,0.24,ak,ak024gsikcg,2024-01-10T15:37:34.858Z,"43 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-10T15:29:17.860Z,19.1728324890137,-155.48616027832,29.0400009155273,1.97000003,md,21,241,,0.109999999,hv,hv73713982,2024-01-10T15:32:29.150Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.98,1.16999996,0.980000019,3,automatic,hv,hv
 2024-01-10T15:25:30.959Z,64.6274,-149.2028,24.6,1.4,ml,,,,0.31,ak,ak024gsgeav,2024-01-10T15:27:00.456Z,"4 km NW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-10T15:23:01.359Z,61.6616,-150.86,50.5,2,ml,,,,0.52,ak,ak024gsfwl3,2024-01-10T15:24:41.217Z,"22 km NW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -38,6 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-10T10:47:40.758Z,57.9868,-154.6445,33.4,1.2,ml,,,,0.31,ak,ak024gplysb,2024-01-10T10:49:45.641Z,"47 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-10T10:36:23.360Z,33.6993332,-116.7348328,17.39,2.2,ml,85,18,0.02088,0.21,ci,ci40457655,2024-01-10T10:47:23.760Z,"5 km SSW of Idyllwild, CA",earthquake,0.18,0.42,0.202,25,automatic,ci,ci
 2024-01-10T10:22:49.880Z,44.5673333333333,-110.752,8.13,0.22,md,11,96,0.08655,0.12,uu,uu80034901,2024-01-10T14:27:14.640Z,"29 km ESE of West Yellowstone, Montana",earthquake,0.32,1.05,0.280647638036254,5,reviewed,uu,uu
+2024-01-10T10:05:08.200Z,44.6043333333333,-112.596333333333,5.6,0.89,ml,7,132,0.0364,0.06,mb,mb90038358,2024-01-10T15:38:26.240Z,"3 km S of Lima, Montana",earthquake,0.73,0.77,0.278663621742574,5,reviewed,mb,mb
 2024-01-10T10:02:16.652Z,37.0898,-116.0124,0.6,1.1,ml,17,151.99,0.033,0.3374,nn,nn00871560,2024-01-10T10:04:40.647Z,"65 km NNW of Indian Springs, Nevada",earthquake,,0.5,0.37,12,automatic,nn,nn
 2024-01-10T09:53:00.721Z,63.1282,-149.4225,70,1.7,ml,,,,0.86,ak,ak024gp1qe0,2024-01-10T09:54:51.665Z,"37 km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-10T09:51:23.589Z,39.7343,-119.9057,4.6,1.2,ml,9,92.26,0.134,0.1457,nn,nn00871559,2024-01-10T09:53:59.075Z,"8 km NE of Cold Springs, Nevada",earthquake,,1,0.38,3,automatic,nn,nn
