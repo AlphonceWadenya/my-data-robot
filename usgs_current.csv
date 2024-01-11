@@ -61,6 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-11T12:24:05.564Z,31.63,-104.512,8.3425,1.6,ml,16,145,0,0.2,tx,tx2024atfn,2024-01-11T15:16:14.332Z,"61 km SSW of Whites City, New Mexico",earthquake,0.7894731478,0.492756484,0.2,12,reviewed,tx,tx
 2024-01-11T12:10:10.950Z,38.7911682,-122.7603302,2.64,0.75,md,9,74,0.009455,0.02,nc,nc73987806,2024-01-11T14:02:11.485Z,"2 km NNW of The Geysers, CA",earthquake,0.37,0.89,0.04,9,automatic,nc,nc
 2024-01-11T12:04:31.550Z,19.1526660919189,-155.484329223633,31.4099998474121,2.41000009,md,39,142,,0.119999997,hv,hv73714632,2024-01-11T12:07:44.020Z,"5 km S of Pāhala, Hawaii",earthquake,0.69,0.699999988,0.779999971,15,automatic,hv,hv
+2024-01-11T12:04:20.215Z,36.9433,-115.9009,12.7,-0.1,ml,7,224.79,0.051,0.0688,nn,nn00871615,2024-01-11T21:26:58.248Z,"46 km NNW of Indian Springs, Nevada",earthquake,,3.6,0.16,3,reviewed,nn,nn
 2024-01-11T11:54:06.796Z,40.3919,-119.9736,12.4,0.9,ml,5,290.76,0.289,0.152,nn,nn00871614,2024-01-11T21:20:39.944Z,"30 km NNE of Herlong, California",earthquake,,10.5,0.06,2,reviewed,nn,nn
 2024-01-11T11:46:50.990Z,38.8356667,-122.8040009,1.35,0.76,md,6,159,0.01101,0.02,nc,nc73987801,2024-01-11T13:35:12.142Z,"7 km WNW of Cobb, CA",earthquake,0.59,1.35,0.09,7,automatic,nc,nc
 2024-01-11T11:39:00.129Z,31.724,-104.356,6.6457,1.6,ml,23,74,0.1,0.3,tx,tx2024ateb,2024-01-11T17:47:14.218Z,"50 km S of Whites City, New Mexico",earthquake,0.836239673,0.9125619818,0,7,reviewed,tx,tx
@@ -191,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-10T21:58:23.170Z,38.8035011,-122.7839966,0.35,0.78,md,8,127,0.01008,0.03,nc,nc73987531,2024-01-10T22:36:13.589Z,"4 km NW of The Geysers, CA",earthquake,0.28,1.02,0.36,10,automatic,nc,nc
 2024-01-10T21:47:54.520Z,19.2395000457764,-155.466003417969,28.3500003814697,2.06999993,md,32,96,,0.109999999,hv,hv73714147,2024-01-10T21:51:12.010Z,"4 km NNE of Pāhala, Hawaii",earthquake,0.48,0.779999971,0.449999988,17,automatic,hv,hv
 2024-01-10T21:40:23.121Z,36.5112,27.6416,9.494,4.3,mb,32,105,0.488,0.78,us,us6000m2yy,2024-01-10T22:14:59.824Z,"20 km WSW of Sými, Greece",earthquake,4.09,5.419,0.122,19,reviewed,us,us
-2024-01-10T21:29:10.993Z,31.62,-104.103,6.093,2.2,ml,15,72,0,0.2,tx,tx2024ascb,2024-01-11T16:14:25.609Z,"44 km NW of Toyah, Texas",earthquake,0.6288780418,0.6374022185,0.2,10,reviewed,tx,tx
