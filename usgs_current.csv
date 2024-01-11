@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-11T05:53:26.510Z,33.8549995,-117.8271637,6.67,1.5,ml,35,85,0.02554,0.16,ci,ci40458087,2024-01-11T05:55:50.155Z,"4 km SSW of Yorba Linda, CA",earthquake,0.31,0.61,0.172,17,automatic,ci,ci
 2024-01-11T05:50:12.808Z,59.8914,-151.7574,43,1.8,ml,,,,0.43,ak,ak024ia6q8w,2024-01-11T05:51:48.114Z,"6 km SSW of Happy Valley, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2024-01-11T05:18:05.516Z,31.584,-104.532,3.3929,1.6,ml,14,155,0.1,0.5,tx,tx2024asrn,2024-01-11T05:47:03.140Z,"66 km NNE of Van Horn, Texas",earthquake,0,1.734002426,0.1,12,automatic,tx,tx
 2024-01-11T05:07:00.394Z,63.1182,-150.3298,126.6,1.4,ml,,,,0.97,ak,ak024i9xhhz,2024-01-11T05:09:19.193Z,"72 km NNE of Petersville, Alaska",earthquake,,1.6,,,automatic,ak,ak
