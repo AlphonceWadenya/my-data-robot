@@ -183,5 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-10T12:18:37.270Z,34.878,-97.525,5.03,1.25,ml,68,43,0.07108605049,0.36,ok,ok2024arjx,2024-01-10T13:22:18.127Z,"8 km NE of Lindsay, Oklahoma",earthquake,,0.7,0.2,21,reviewed,ok,ok
 2024-01-10T12:13:06.037Z,56.0473,-156.3398,60.8,3.2,ml,,,,0.59,ak,ak024gqlgxh,2024-01-10T13:57:26.040Z,"131 km ESE of Chignik, Alaska",earthquake,,5.6,,,automatic,ak,ak
 2024-01-10T12:06:01.880Z,35.507,-118.387,8.61,1.58,ml,34,40,0.1709,0.12,ci,ci40457711,2024-01-10T21:03:36.450Z,"13 km SE of Bodfish, CA",earthquake,0.13,0.55,0.195,18,reviewed,ci,ci
-2024-01-10T11:55:13.980Z,33.1556667,-116.4553333,8.22,0.86,ml,30,61,0.07947,0.19,ci,ci40457703,2024-01-10T18:26:13.146Z,"13 km SW of Borrego Springs, CA",earthquake,0.28,0.91,0.175,6,reviewed,ci,ci
-2024-01-10T11:52:58.090Z,33.1553333,-116.4676667,7.4,1.29,ml,69,27,0.08166,0.18,ci,ci40457695,2024-01-10T15:12:10.660Z,"14 km SW of Borrego Springs, CA",earthquake,0.14,0.76,0.195,26,reviewed,ci,ci
