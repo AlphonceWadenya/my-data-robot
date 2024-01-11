@@ -40,6 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-11T12:10:10.950Z,38.7911682,-122.7603302,2.64,0.75,md,9,74,0.009455,0.02,nc,nc73987806,2024-01-11T14:02:11.485Z,"2 km NNW of The Geysers, CA",earthquake,0.37,0.89,0.04,9,automatic,nc,nc
 2024-01-11T12:04:31.550Z,19.1526660919189,-155.484329223633,31.4099998474121,2.41000009,md,39,142,,0.119999997,hv,hv73714632,2024-01-11T12:07:44.020Z,"5 km S of Pāhala, Hawaii",earthquake,0.69,0.699999988,0.779999971,15,automatic,hv,hv
 2024-01-11T11:46:50.990Z,38.8356667,-122.8040009,1.35,0.76,md,6,159,0.01101,0.02,nc,nc73987801,2024-01-11T13:35:12.142Z,"7 km WNW of Cobb, CA",earthquake,0.59,1.35,0.09,7,automatic,nc,nc
+2024-01-11T11:39:00.129Z,31.724,-104.356,6.6457,1.6,ml,23,74,0.1,0.3,tx,tx2024ateb,2024-01-11T17:47:14.218Z,"50 km S of Whites City, New Mexico",earthquake,0.836239673,0.9125619818,0,7,reviewed,tx,tx
 2024-01-11T11:35:26.122Z,62.5409,-150.0168,59.9,1.8,ml,,,,0.41,ak,ak024ido55w,2024-01-11T11:37:06.663Z,"11 km NNE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-11T11:35:23.958Z,60.2791,-141.2707,1.1,1.7,ml,,,,0.28,ak,ak024ido4zv,2024-01-11T11:37:12.820Z,"118 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-11T11:18:26.684Z,60.1477,-152.3429,89.9,1.5,ml,,,,0.42,ak,ak024idki18,2024-01-11T11:20:21.596Z,"39 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -188,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-10T17:54:41.647Z,31.618,-103.976,6.7486,1.5,ml,20,41,0,0.2,tx,tx2024aruz,2024-01-11T15:46:06.503Z,"37 km WSW of Mentone, Texas",earthquake,0.9679567348,1.202589439,0,6,reviewed,tx,tx
 2024-01-10T17:53:05.861Z,62.1499,-152.1187,108,2,ml,,,,0.61,ak,ak024gtt7mi,2024-01-10T17:55:14.794Z,"41 km WNW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-01-10T17:52:48.730Z,38.7873344,-122.7803345,2.35,0.83,md,11,106,0.008318,0.02,nc,nc73987446,2024-01-10T19:23:11.496Z,"2 km WNW of The Geysers, CA",earthquake,0.34,0.81,0.14,12,automatic,nc,nc
-2024-01-10T17:51:53.920Z,48.0015,-114.160333333333,3.21,1.73,ml,12,89,0.1486,0.05,mb,mb90038393,2024-01-11T15:51:05.310Z,"5 km ESE of Lakeside, Montana",earthquake,0.28,0.54,0.24869641322789,7,reviewed,mb,mb
