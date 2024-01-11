@@ -78,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-11T04:15:52.439Z,61.2412,-150.304,52.9,1.5,ml,,,,0.55,ak,ak024i9dvmz,2024-01-11T04:18:03.740Z,"21 km W of Anchorage, Alaska",earthquake,,3.4,,,automatic,ak,ak
 2024-01-11T04:01:07.962Z,65.8824,-150.5257,20.1,1.7,ml,,,,0.88,ak,ak024i9as6k,2024-01-11T04:03:12.927Z,"45 km NNW of Rampart, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-01-11T03:51:10.640Z,62.6502,-149.7964,62.5,1.1,ml,,,,0.55,ak,ak024i901xw,2024-01-11T04:13:26.262Z,"27 km NE of Chase, Alaska",earthquake,,0.7,,,reviewed,ak,ak
-2024-01-11T03:35:00.640Z,31.589,-104.553,3.2237,2.5,ml,16,164,0.1,0.1,tx,tx2024asod,2024-01-11T04:08:09.735Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.333476017,0.1,13,automatic,tx,tx
+2024-01-11T03:35:01.263Z,31.634,-104.513,6.7486,1.7,ml,16,145,0,0.2,tx,tx2024asod,2024-01-11T15:30:12.405Z,"61 km SSW of Whites City, New Mexico",earthquake,0.9589274278,0.4937197884,0.1,12,reviewed,tx,tx
 2024-01-11T03:32:08.065Z,31.626,-104.517,7.5198,2.1,ml,17,78,0,0.1,tx,tx2024asoa,2024-01-11T15:07:36.292Z,"62 km SSW of Whites City, New Mexico",earthquake,0.8445827523,0.5685565253,0.1,14,reviewed,tx,tx
 2024-01-11T03:28:40.600Z,38.8153343,-122.8208313,2.75,0.76,md,16,52,0.009177,0.02,nc,nc73987681,2024-01-11T04:12:12.618Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.81,0.18,17,automatic,nc,nc
 2024-01-11T03:25:20.350Z,38.779335,-122.7570038,1.22,1.03,md,11,66,0.01099,0.02,nc,nc73987676,2024-01-11T03:58:11.664Z,"0 km NNW of The Geysers, CA",earthquake,0.27,0.5,0.12,11,automatic,nc,nc
@@ -133,7 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-10T21:24:04.930Z,38.4793333333333,-112.843833333333,-0.26,0.13,md,7,195,0.02475,0.07,uu,uu80034921,2024-01-10T22:25:41.390Z,"17 km ENE of Milford, Utah",earthquake,0.53,0.18,0.422969214018739,3,reviewed,uu,uu
 2024-01-10T21:18:53.720Z,35.5473333,-117.4418333,7.11,0.8,ml,6,119,0.04246,0.1,ci,ci40457959,2024-01-10T21:53:08.024Z,"23 km ESE of Ridgecrest, CA",earthquake,0.32,0.68,0.043,1,reviewed,ci,ci
 2024-01-10T21:14:24.550Z,38.1145,-118.2637,6.8,1.4,ml,8,143.15,0.234,0.1343,nn,nn00871579,2024-01-11T02:04:44.806Z,"33 km SSW of Mina, Nevada",earthquake,,2.6,0.21,4,reviewed,nn,nn
-2024-01-10T21:04:27.711Z,31.615,-104.114,5.4692,1.9,ml,15,57,0,0.2,tx,tx2024asbg,2024-01-10T21:27:44.476Z,"45 km NW of Toyah, Texas",earthquake,0,2.589225684,0.2,12,automatic,tx,tx
+2024-01-10T21:04:27.585Z,31.615,-104.106,7.0056,1.9,ml,15,65,0,0.2,tx,tx2024asbg,2024-01-11T15:34:21.419Z,"44 km NW of Toyah, Texas",earthquake,1.037291861,0.7617397491,0.1,9,reviewed,tx,tx
 2024-01-10T21:01:43.504Z,62.3438,-149.0363,29.4,2.8,ml,,,,0.5,ak,ak024gvvvpq,2024-01-10T21:05:27.040Z,"46 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-10T20:55:31.370Z,58.289,-154.988,2.42,0.36,ml,10,131,,0.09,av,av92178236,2024-01-10T23:01:54.280Z,"86 km NNW of Karluk, Alaska",earthquake,0.29,0.43,0.337976796000194,10,reviewed,av,av
 2024-01-10T20:51:17.383Z,37.2064,71.7858,153.286,4.2,mb,27,117,2.268,1.2,us,us6000m2yq,2024-01-10T21:18:53.040Z,"37 km SSE of Khorugh, Tajikistan",earthquake,7.32,9.363,0.166,10,reviewed,us,us
@@ -178,7 +178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-10T16:07:04.300Z,60.0395,-153.101166666667,-0.04,-0.95,ml,5,116,,0.12,av,av92178131,2024-01-10T22:32:52.660Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.78,2.48,0.309289832365299,5,reviewed,av,av
 2024-01-10T16:06:39.966Z,63.8771,-147.3958,5.5,1.7,ml,,,,0.49,ak,ak024gsxrzw,2024-01-10T16:08:20.956Z,"67 km SW of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-10T15:58:30.790Z,19.2929992675781,-155.383331298828,1.13999998569489,1.75,ml,21,172,,0.129999995,hv,hv73714012,2024-01-10T16:04:01.930Z,"14 km NE of Pāhala, Hawaii",earthquake,0.39,0.560000002,3.71,3,automatic,hv,hv
+2024-01-10T15:44:11.130Z,46.9503333333333,-114.149333333333,4.96,1.12,ml,7,115,0.1876,0.05,mb,mb90038378,2024-01-11T15:30:07.370Z,"2 km W of Wye, Montana",earthquake,0.37,5.49,0.361176630565117,5,reviewed,mb,mb
 2024-01-10T15:43:36.999Z,39.7326,-119.8983,6.9,1.4,ml,13,84.01,0.134,0.1304,nn,nn00871564,2024-01-11T02:04:20.009Z,"8 km NE of Cold Springs, Nevada",earthquake,,2.2,0.42,6,reviewed,nn,nn
 2024-01-10T15:40:35.220Z,33.677,-116.7621667,4.78,0.42,ml,17,145,0.05256,0.13,ci,ci40457791,2024-01-10T19:03:46.338Z,"8 km SSW of Idyllwild, CA",earthquake,0.37,0.85,0.066,9,reviewed,ci,ci
 2024-01-10T15:35:42.402Z,59.9895,-153.4484,135.2,2,ml,,,,0.24,ak,ak024gsikcg,2024-01-10T15:37:34.858Z,"43 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-01-10T15:29:17.860Z,19.1728324890137,-155.48616027832,29.0400009155273,1.97000003,md,21,241,,0.109999999,hv,hv73713982,2024-01-10T15:32:29.150Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.98,1.16999996,0.980000019,3,automatic,hv,hv
