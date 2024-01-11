@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-11T20:36:04.860Z,33.873333,-117.4993362,3.44,1.22,ml,16,112,0.05141,0.11,ci,ci40458223,2024-01-11T20:38:17.777Z,"2 km ESE of Home Gardens, CA",earthquake,0.81,0.46,0.144,4,automatic,ci,ci
 2024-01-11T20:22:09.377Z,63.488,-148.7004,12,1.4,ml,,,,1.04,ak,ak024iiy809,2024-01-11T20:24:15.769Z,"16 km NE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-11T20:13:48.800Z,38.8256683,-122.7949982,1.44,0.95,md,18,57,0.01199,0.04,nc,nc73987951,2024-01-11T20:34:10.716Z,"6 km W of Cobb, CA",earthquake,0.24,0.46,0.17,18,automatic,nc,nc
 2024-01-11T20:06:39.590Z,38.8354988,-122.8353348,1.51,1.05,md,19,76,0.01237,0.01,nc,nc73987941,2024-01-11T20:24:11.654Z,"9 km NW of The Geysers, CA",earthquake,0.2,0.47,0.13,20,automatic,nc,nc
