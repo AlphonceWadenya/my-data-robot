@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-12T21:41:13.550Z,38.7908325,-122.7611694,0.85,1.05,md,11,66,0.009844,0.03,nc,nc73988431,2024-01-12T21:42:51.595Z,"2 km NNW of The Geysers, CA",earthquake,0.27,0.53,0.04,11,automatic,nc,nc
 2024-01-12T21:15:23.891Z,36.6089,-116.0905,2.4,0.1,ml,9,217.72,0.087,0.067,nn,nn00871658,2024-01-12T21:17:26.994Z,"37 km W of Indian Springs, Nevada",earthquake,,2.6,0.24,6,automatic,nn,nn
 2024-01-12T21:07:36.250Z,33.1371651,-116.5096664,15.15,1.01,ml,7,97,0.08463,0.16,ci,ci40458767,2024-01-12T21:23:13.940Z,"11 km NE of Julian, CA",earthquake,0.93,1.62,0.055,5,automatic,ci,ci
 2024-01-12T21:05:26.159Z,31.636,-104.012,5.6633,2,ml,16,41,0,0.2,tx,tx2024avsh,2024-01-12T21:35:41.521Z,"39 km W of Mentone, Texas",earthquake,0,2.05544009,0.2,12,automatic,tx,tx
