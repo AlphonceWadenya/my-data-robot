@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-13T21:52:03.007Z,65.0768,-148.8945,0,2.3,ml,,,,0.95,ak,ak024lusrl8,2024-01-13T21:53:59.135Z,"22 km ESE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-13T21:30:28.090Z,38.7906685,-122.7679977,4.09,0.41,md,9,100,0.01186,0.03,nc,nc73988846,2024-01-13T21:44:10.869Z,"2 km NW of The Geysers, CA",earthquake,0.61,1.45,0.19,9,automatic,nc,nc
 2024-01-13T21:29:45.949Z,60.0529,-151.4007,55.4,2.1,ml,,,,0.57,ak,ak024lunxfm,2024-01-13T21:31:40.375Z,"14 km E of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-01-13T21:15:52.840Z,38.8031654,-122.7813339,1.56,0.74,md,8,80,0.01009,0.01,nc,nc73988836,2024-01-13T21:27:10.751Z,"4 km NW of The Geysers, CA",earthquake,0.36,0.75,0.03,8,automatic,nc,nc
@@ -26,6 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-13T18:52:26.400Z,19.3951663970947,-155.294494628906,10.8000001907349,2.63000011,md,15,89,,0.280000001,hv,hv73715997,2024-01-13T18:55:31.720Z,"8 km SW of Volcano, Hawaii",earthquake,1.31,0.790000021,0.75999999,5,automatic,hv,hv
 2024-01-13T18:37:55.380Z,40.6303329,-121.7071686,14.91,2.47,md,5,115,0.1762,0.01,nc,nc73988766,2024-01-13T20:36:13.457Z,"13 km NNW of Viola, CA",earthquake,0.94,3.31,0.16,5,automatic,nc,nc
 2024-01-13T18:28:29.740Z,36.1301667,-121.6188333,16.94,1.02,md,13,240,0.0538,0.1,nc,nc73988756,2024-01-13T21:38:10.824Z,"13 km NNW of Lopez Point, CA",earthquake,1.25,1.52,0.105,7,reviewed,nc,nc
+2024-01-13T18:27:52.120Z,36.2913333,-120.834,8.95,0.03,md,7,131,0.07979,0.02,nc,nc71132569,2024-01-13T21:53:21.692Z,"20 km SW of New Idria, CA",earthquake,0.38,0.85,0.158,3,reviewed,nc,nc
 2024-01-13T18:25:19.585Z,61.6998,-151.1363,72.3,2.2,ml,,,,0.5,ak,ak024lsuppy,2024-01-13T18:27:43.117Z,"35 km SSE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-01-13T18:22:06.590Z,37.2386665,-122.1705017,-0.32,1.02,md,7,191,0.05495,0.27,nc,nc73988751,2024-01-13T20:20:14.379Z,"13 km NNW of Boulder Creek, CA",earthquake,1.98,4.03,0.26,6,automatic,nc,nc
 2024-01-13T18:21:32.000Z,19.1436672210693,-155.486328125,31.2099990844727,2.17000008,md,37,165,,0.129999995,hv,hv73715977,2024-01-13T18:24:53.400Z,"6 km S of Pāhala, Hawaii",earthquake,0.52,0.75999999,1.03999996,16,automatic,hv,hv
@@ -203,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-12T22:11:53.290Z,63.8967,-148.9351,0,2.5,ml,,,,0.58,ak,ak024k7m66d,2024-01-13T02:51:20.612Z,"4 km NNE of Healy, Alaska",explosion,,0,,,reviewed,ak,ak
 2024-01-12T22:06:29.250Z,40.7315,-112.045833333333,5.37,1.83,ml,29,57,0.008825,0.14,uu,uu80035061,2024-01-13T00:44:07.447Z,"5 km ENE of Magna, Utah",earthquake,0.28,0.55,0.168809076180601,8,reviewed,uu,uu
 2024-01-12T21:58:41.980Z,38.8428345,-122.8740005,2.3,1.8,md,35,82,0.005067,0.03,nc,nc73988441,2024-01-13T02:00:11.736Z,"12 km NW of The Geysers, CA",earthquake,0.21,0.27,0.13,35,automatic,nc,nc
-2024-01-12T21:55:05.600Z,33.85,-117.4845,-0.5,1.37,ml,20,50,0.04621,0.25,ci,ci40458783,2024-01-12T23:42:58.272Z,"5 km SE of Home Gardens, CA",quarry blast,0.4,31.61,0.251,17,reviewed,ci,ci
