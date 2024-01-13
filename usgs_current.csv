@@ -198,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-12T20:01:23.691Z,36.7425,-115.4416,0,1.4,ml,16,183.44,0.33,0.2076,nn,nn00871655,2024-01-12T22:38:44.515Z,"28 km NE of Indian Springs, Nevada",earthquake,,0,0.36,9,reviewed,nn,nn
 2024-01-12T19:57:52.070Z,36.2131667,-120.3935,2.81,0.95,md,14,179,0.05402,0.04,nc,nc73988386,2024-01-12T22:43:13.204Z,"9 km NNW of Coalinga, CA",earthquake,0.93,2.36,0.235,6,reviewed,nc,nc
 2024-01-12T19:45:21.433Z,62.578,-151.2217,79.1,2,ml,,,,0.71,ak,ak024k613an,2024-01-12T19:47:36.807Z,"25 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-01-12T19:27:26.013Z,63.5669,-150.8315,7.4,2.8,ml,,,,0.57,ak,ak024k5x8rd,2024-01-12T21:38:59.040Z,"44 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
