@@ -158,7 +158,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-13T20:11:10.795Z,60.2082,-140.9778,14.1,1.5,ml,,,,0.44,ak,ak024ltyk87,2024-01-13T20:12:47.296Z,"101 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-13T19:57:47.050Z,35.4813333,-117.3346667,7.58,1.69,ml,32,75,0.04988,0.14,ci,ci40459287,2024-01-13T20:08:35.580Z,"30 km ENE of Johannesburg, CA",earthquake,0.18,0.41,0.209,22,automatic,ci,ci
 2024-01-13T19:50:31.350Z,19.1513328552246,-155.485992431641,31.2199993133545,2.1099999,md,16,144,,0.0900000036,hv,hv73716047,2024-01-13T19:53:38.660Z,"5 km S of Pāhala, Hawaii",earthquake,0.84,1.02999997,0.519999981,3,automatic,hv,hv
-2024-01-13T19:42:57.500Z,38.7820015,-122.7211685,1.64,0.95,md,4,166,0.01222,0.01,nc,nc73988796,2024-01-13T21:58:10.957Z,"3 km WNW of Anderson Springs, CA",earthquake,2.67,7.03,0.21,6,automatic,nc,nc
-2024-01-13T19:42:21.970Z,38.7866669,-122.74617,1.92,0.72,md,8,137,0.008138,0.02,nc,nc73988791,2024-01-13T20:08:16.316Z,"1 km NE of The Geysers, CA",earthquake,0.52,0.75,0.25,8,automatic,nc,nc
-2024-01-13T19:41:11.913Z,62.1631,-148.3083,37.7,1.6,ml,,,,0.51,ak,ak024ltjk6g,2024-01-13T19:43:55.512Z,"41 km NNE of Chickaloon, Alaska",earthquake,,2.4,,,automatic,ak,ak
-2024-01-13T19:40:02.380Z,38.8393326,-122.8241653,1.66,0.57,md,10,96,0.008873,0.02,nc,nc73988786,2024-01-13T21:44:12.869Z,"9 km WNW of Cobb, CA",earthquake,0.37,0.83,0.25,9,automatic,nc,nc
