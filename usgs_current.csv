@@ -170,4 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-15T18:56:09.970Z,33.9603333,-116.9603333,8.54,1.18,ml,47,33,0.1344,0.14,ci,ci40460231,2024-01-15T20:10:50.340Z,"4 km NNE of Beaumont, CA",earthquake,0.12,0.53,0.16,28,reviewed,ci,ci
 2024-01-15T18:02:10.260Z,47.79716666666667,-123.197,46.75,2.34,ml,36,37,0.1717,0.23,uw,uw61979991,2024-01-15T21:38:36.150Z,"24 km W of Quilcene, Washington",earthquake,0.41,0.81,0.20455193119945392,26,reviewed,uw,uw
 2024-01-15T17:55:13.346Z,62.3376,-149.0575,10,1.4,ml,,,,0.72,ak,ak024p3ie3q,2024-01-15T17:57:22.606Z,"45 km ENE of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-01-15T17:47:20.920Z,62.5138,-148.9219,53.9,1.5,ml,,,,0.85,ak,ak024p3goyk,2024-01-15T17:48:50.758Z,"61 km E of Chase, Alaska",earthquake,,1,,,automatic,ak,ak
