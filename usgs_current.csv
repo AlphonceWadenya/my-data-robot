@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-19T21:34:34.815Z,64.5096,-146.9742,10.4,5.3,ml,,,,0.78,ak,ak024vrx24o,2024-01-19T21:39:36.917Z,"3 km WSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-19T21:23:40.150Z,19.2089996337891,-155.481506347656,32.1599998474121,2.00999999,md,38,84,,0.119999997,hv,hv73721827,2024-01-19T21:26:50.090Z,"0 km NNW of Pāhala, Hawaii",earthquake,0.65,0.779999971,1.58000004,12,automatic,hv,hv
-2024-01-19T21:20:36.180Z,37.0525017,-121.5156631,3.96,0.73,md,4,127,0.0368,0.01,nc,nc73991606,2024-01-19T21:32:10.509Z,"7 km NE of Gilroy, CA",earthquake,2.01,4.6,0.31,4,automatic,nc,nc
+2024-01-19T21:20:36.180Z,37.0525017,-121.5156631,3.96,0.73,md,4,127,0.0368,0.01,nc,nc73991606,2024-01-19T21:37:18.531Z,"7 km NE of Gilroy, CA",earthquake,2.01,4.6,0.31,4,automatic,nc,nc
+2024-01-19T21:18:05.618Z,31.556,-104,7.7589,1.5,ml,13,54,0,0.5,tx,tx2024binf,2024-01-19T21:35:45.702Z,"33 km NW of Toyah, Texas",earthquake,0,2.592979225,0.2,11,automatic,tx,tx
 2024-01-19T21:14:56.350Z,33.1585,-116.4635,7.02,1.08,ml,41,46,0.08372,0.19,ci,ci40462975,2024-01-19T21:25:19.910Z,"14 km SW of Borrego Springs, CA",earthquake,0.18,0.54,0.201,20,automatic,ci,ci
 2024-01-19T21:11:25.732Z,62.2048,-152.6563,0,2.2,ml,,,,0.88,ak,ak024vrs3y5,2024-01-19T21:13:35.665Z,"69 km WNW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-19T21:11:21.066Z,59.0754,-152.5343,202.2,2.1,ml,,,,1.06,ak,ak024vrs3l6,2024-01-19T21:13:25.051Z,"46 km SW of Nanwalek, Alaska",earthquake,,2.1,,,automatic,ak,ak
