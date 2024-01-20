@@ -396,4 +396,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-19T19:24:53.990Z,34.1435,-116.4093333,6.04,1.31,ml,34,39,0.0532,0.15,ci,ci40462895,2024-01-19T20:51:36.810Z,"4 km NNE of Yucca Valley, CA",earthquake,0.17,0.42,0.208,24,reviewed,ci,ci
 2024-01-19T19:01:21.200Z,38.7900009,-122.7610016,2.25,0.76,md,10,77,0.01961,0.02,nc,nc73991576,2024-01-19T21:27:11.480Z,"2 km NNW of The Geysers, CA",earthquake,0.42,1.12,0.05,9,automatic,nc,nc
 2024-01-19T18:40:50.800Z,33.7148333,-117.3328333,-0.53,0.63,ml,21,60,0.04021,0.21,ci,ci40462879,2024-01-19T19:03:11.525Z,"5 km N of Lake Elsinore, CA",quarry blast,0.35,31.61,0.174,3,reviewed,ci,ci
-2024-01-19T18:34:35.820Z,19.9456666666667,-155.485833333333,30.73,2.19,ml,28,136,,0.13,hv,hv73721697,2024-01-20T06:18:16.293Z,"14 km S of Honoka‘a, Hawaii",earthquake,0.51,0.76,0.149605875234715,17,reviewed,hv,hv
