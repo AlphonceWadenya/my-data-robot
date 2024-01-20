@@ -359,4 +359,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-19T09:31:25.595Z,28.756,-99.005,2.3721,2.3,ml,14,124,0.3,0.4,tx,tx2024bhpx,2024-01-19T17:32:56.078Z,"17 km SSE of Pearsall, Texas",earthquake,2.199524021,2.139486526,0.2,13,reviewed,tx,tx
 2024-01-19T09:26:43.660Z,35.7748333,-117.6,3.93,1.81,ml,34,64,0.1352,0.13,ci,ci40462719,2024-01-19T14:25:53.030Z,"18 km W of Searles Valley, CA",earthquake,0.15,0.44,0.121,22,reviewed,ci,ci
 2024-01-19T08:49:01.463Z,-18.6912,168.8686,10.635,5,mb,43,60,4.123,1.08,us,us6000m4mn,2024-01-19T09:05:58.040Z,"103 km NNW of Isangel, Vanuatu",earthquake,8.69,4.628,0.088,41,reviewed,us,us
-2024-01-19T08:47:20.504Z,31.671,-104.185,4.4863,1.6,ml,19,61,0.1,0.2,tx,tx2024bhol,2024-01-19T16:36:24.731Z,"54 km NW of Toyah, Texas",earthquake,0.6893981836,1.380203146,0.1,7,reviewed,tx,tx
