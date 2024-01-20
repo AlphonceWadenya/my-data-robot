@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-20T20:36:17.939Z,64.1877,-147.9966,4.8,1.6,ml,,,,0.24,ak,ak024xevd4x,2024-01-20T20:38:02.513Z,"57 km ENE of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-20T20:23:13.220Z,38.8219986,-122.7669983,2.25,0.62,md,8,178,0.008761,0.01,nc,nc73991981,2024-01-20T20:36:10.195Z,"4 km W of Cobb, CA",earthquake,0.65,1.83,0.09,10,automatic,nc,nc
 2024-01-20T20:19:15.760Z,35.838665,-119.8195038,0.2,1.99,md,12,122,0.2114,0.13,nc,nc73991976,2024-01-20T20:36:11.195Z,"23 km SE of Kettleman City, CA",earthquake,0.59,10.85,0.09,4,automatic,nc,nc
 2024-01-20T20:17:53.485Z,64.2741,-146.6681,24.1,1.7,ml,,,,0.55,ak,ak024xercfq,2024-01-20T20:20:53.164Z,"11 km SSW of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
