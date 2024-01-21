@@ -269,4 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-20T06:39:20.861Z,64.0581,-146.2321,26.2,1.7,ml,,,,0.9,ak,ak024x6jy1h,2024-01-20T06:43:45.128Z,"19 km SW of Whitestone, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-20T06:37:25.041Z,64.5088,-146.8942,0,1.6,ml,,,,0.61,ak,ak024x6jixk,2024-01-20T06:39:20.951Z,"1 km SSE of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-20T06:36:11.863Z,64.4358,-146.6827,18,1.1,ml,,,,0.73,ak,ak024x6ja76,2024-01-20T06:37:55.341Z,"8 km NNW of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-01-20T06:35:03.089Z,64.4494,-146.8993,7.5,1.2,ml,,,,0.55,ak,ak024x6j1vp,2024-01-20T06:37:46.528Z,"8 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
