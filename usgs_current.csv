@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-21T13:58:35.642Z,64.4722,-146.9395,7.9,1.6,ml,,,,0.62,ak,ak024yydfik,2024-01-21T14:39:49.310Z,"6 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-21T13:57:53.810Z,33.9596667,-116.6406667,14.56,1,ml,46,36,0.05725,0.15,ci,ci40463631,2024-01-21T14:04:10.230Z,"11 km NW of Garnet, CA",earthquake,0.14,0.29,0.132,19,automatic,ci,ci
 2024-01-21T13:56:06.260Z,38.7765007,-122.7211685,1.48,1.74,md,23,57,0.0139,0.05,nc,nc73992161,2024-01-21T14:42:17.692Z,"2 km W of Anderson Springs, CA",earthquake,0.28,0.38,0.13,24,automatic,nc,nc
-2024-01-21T13:54:16.870Z,18.0301666666667,-66.7986666666667,16.86,2.38,md,9,149,0.09427,0.13,pr,pr71437418,2024-01-21T15:29:34.380Z,"1 km NNW of Guayanilla, Puerto Rico",earthquake,0.46,1.04,0.014113152721754,5,reviewed,pr,pr
+2024-01-21T13:54:16.750Z,18.0338333333333,-66.8025,17.74,2.36,md,9,145,0.09356,0.15,pr,pr71437418,2024-01-21T15:38:30.300Z,"1 km NW of Guayanilla, Puerto Rico",earthquake,0.57,1.21,0.0844494426783937,5,reviewed,pr,pr
 2024-01-21T13:42:54.679Z,39.4203,-119.9486,8.5,1,ml,8,116.74,0.124,0.0363,nn,nn00872039,2024-01-21T13:44:47.736Z,"6 km ENE of Floriston, California",earthquake,,1.4,0.15,5,automatic,nn,nn
 2024-01-21T13:41:05.617Z,64.5018,-146.9086,6.5,1.5,ml,,,,0.34,ak,ak024yy9q0x,2024-01-21T13:42:40.599Z,"2 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-21T13:39:01.085Z,63.5307,-151.0437,3.9,1.4,ml,,,,0.96,ak,ak024yy9a89,2024-01-21T13:41:27.920Z,"33 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -231,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-20T15:46:44.210Z,38.829834,-122.8178329,1.97,0.58,md,8,97,0.008836,0.01,nc,nc73991906,2024-01-20T17:57:11.195Z,"8 km NW of The Geysers, CA",earthquake,0.39,1.05,0.19,8,automatic,nc,nc
 2024-01-20T15:45:33.280Z,47.45933333333333,-122.35533333333333,24.49,2.6,ml,110,21,0.01549,0.29,uw,uw61980521,2024-01-21T05:05:28.760Z,"1 km SSW of Burien, Washington",earthquake,0.24,0.54,0.2279068938945401,85,reviewed,uw,uw
 2024-01-20T15:41:59.709Z,64.496,-146.9115,3.2,1.7,ml,,,,0.41,ak,ak024xbxcwy,2024-01-20T15:43:26.563Z,"3 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-01-20T15:40:01.548Z,64.4926,-146.9418,2.7,1.2,ml,,,,0.58,ak,ak024xbx0pm,2024-01-20T15:41:44.830Z,"3 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
