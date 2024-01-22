@@ -222,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-21T04:22:30.160Z,19.4015007019043,-155.279663085938,1.58000004291534,1.95,ml,27,43,,0.300000012,hv,hv73723442,2024-01-21T04:28:03.190Z,"6 km SW of Volcano, Hawaii",earthquake,0.34,0.340000004,2.05,10,automatic,hv,hv
 2024-01-21T04:12:20.666Z,59.5947,-152.8938,99,2.6,ml,,,,0.27,ak,ak024ysqmz6,2024-01-21T04:22:10.040Z,"61 km WNW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-01-21T04:07:50.772Z,64.4842,-146.9201,8.1,0.9,ml,,,,0.36,ak,ak024yspmqw,2024-01-21T04:10:16.994Z,"4 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-01-21T03:54:02.424Z,67.3505,-156.3148,0,3.2,ml,,,,0.74,ak,ak024yse65k,2024-01-21T04:06:14.040Z,"55 km NNE of Kobuk, Alaska",earthquake,,460.4,,,automatic,ak,ak
