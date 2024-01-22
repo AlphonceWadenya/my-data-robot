@@ -160,6 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-22T07:31:17.600Z,35.7403333,-117.561,2.28,0.82,ml,24,65,0.1346,0.15,ci,ci40463959,2024-01-22T18:54:51.053Z,"14 km WSW of Searles Valley, CA",earthquake,0.22,0.6,0.108,5,reviewed,ci,ci
 2024-01-22T07:23:26.106Z,64.4814,-146.9599,1.5,1.1,ml,,,,0.8,ak,ak02410i4nky,2024-01-22T07:25:11.567Z,"5 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-22T07:13:18.480Z,34.2026667,-117.5226667,2.7,1.49,ml,58,28,0.08083,0.21,ci,ci40463951,2024-01-22T19:53:36.786Z,"7 km SSW of Lytle Creek, CA",earthquake,0.18,0.3,0.083,20,reviewed,ci,ci
+2024-01-22T07:05:20.614Z,40.1905,-121.0337,0,1.7,ml,5,325.77,0.61,0.1898,nn,nn00872116,2024-01-22T22:41:29.448Z,"3 km ENE of Canyondam, California",earthquake,,0,0.32,4,reviewed,nn,nn
 2024-01-22T06:59:49.140Z,19.2036666870117,-155.487838745117,32.7099990844727,2.22,ml,48,77,,0.109999999,hv,hv73724432,2024-01-22T07:05:19.820Z,"0 km W of Pāhala, Hawaii",earthquake,0.44,0.620000005,0.12,3,automatic,hv,hv
 2024-01-22T06:56:47.100Z,47.814166666666665,-122.35766666666666,26.25,1.33,ml,12,77,0.0445,0.14,uw,uw61980676,2024-01-22T14:27:48.600Z,"1 km ENE of Edmonds, Washington",earthquake,0.94,0.61,0.07325860863404521,7,reviewed,uw,uw
 2024-01-22T06:50:41.389Z,64.4654,-146.9153,9.3,1.4,ml,,,,0.59,ak,ak02410hp1hm,2024-01-22T06:52:40.528Z,"6 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
