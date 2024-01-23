@@ -56,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-23T17:35:05.753Z,31.727,-104.35,5.8231,1.7,ml,18,74,0.1,0.1,tx,tx2024bpnw,2024-01-23T19:44:58.184Z,"49 km S of Whites City, New Mexico",earthquake,0.654166208,1.102291054,0.2,12,reviewed,tx,tx
 2024-01-23T17:30:19.660Z,35.67166667,-97.412,6.73,1.38,ml,87,25,0.03869240723,0.17,ok,ok2024bpns,2024-01-23T18:36:26.937Z,"6 km ENE of Edmond, Oklahoma",earthquake,,0.3,0.23,39,reviewed,ok,ok
 2024-01-23T17:27:47.159Z,62.4541,-151.2012,88.9,1.6,ml,,,,0.59,ak,ak02412bn8lu,2024-01-23T17:31:40.459Z,"22 km WSW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-01-23T17:23:42.650Z,32.9013333,-115.9651667,9.94,1.05,ml,18,69,0.01486,0.12,ci,ci39755426,2024-01-23T22:45:28.891Z,"19 km N of Ocotillo, CA",earthquake,0.18,0.34,0.229,5,reviewed,ci,ci
+2024-01-23T17:23:42.650Z,32.9013333,-115.9651667,9.94,1.05,ml,18,69,0.01486,0.12,ci,ci39755426,2024-01-23T22:47:03.940Z,"19 km N of Ocotillo, CA",earthquake,0.18,0.34,0.229,5,reviewed,ci,ci
 2024-01-23T17:21:33.480Z,34.2028333,-116.8296667,10.28,0.81,ml,16,160,0.09599,0.12,ci,ci39755418,2024-01-23T22:35:38.613Z,"7 km SSE of Big Bear City, CA",earthquake,0.37,0.66,0.073,9,reviewed,ci,ci
 2024-01-23T17:21:30.565Z,36.922,-116.2473,0,0.3,ml,12,83.25,0.021,0.1654,nn,nn00872192,2024-01-23T20:40:28.398Z,"45 km E of Beatty, Nevada",earthquake,,0,0.73,6,reviewed,nn,nn
 2024-01-23T17:21:23.420Z,36.0688333,-117.6461667,2.2,1.08,ml,22,85,0.1059,0.17,ci,ci39755410,2024-01-23T20:56:25.031Z,"27 km E of Coso Junction, CA",earthquake,0.27,0.39,0.277,6,reviewed,ci,ci
@@ -258,5 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-22T23:03:23.494Z,62.0749,-152.467,0,2.5,ml,,,,0.85,ak,ak02410rjaql,2024-01-23T01:02:13.040Z,"56 km W of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-22T22:56:42.102Z,41.2226,78.5759,10,4.3,mb,36,101,1.283,0.71,us,us7000lt25,2024-01-22T23:09:20.040Z,"133 km SSE of Kyzyl-Suu, Kyrgyzstan",earthquake,5.33,1.489,0.108,24,reviewed,us,us
 2024-01-22T22:55:00.710Z,38.7994995,-122.7525024,2.34,0.58,md,10,97,0.005744,0.01,nc,nc73992636,2024-01-23T00:03:13.705Z,"2 km N of The Geysers, CA",earthquake,0.37,0.78,0.21,9,automatic,nc,nc
-2024-01-22T22:52:38.251Z,61.6597,-146.3726,33.5,1.6,ml,,,,0.61,ak,ak02410r8ecx,2024-01-22T22:54:05.839Z,"42 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-01-22T22:50:42.330Z,60.8642,-150.992,52.9,1.6,ml,,,,0.79,ak,ak02410r7z8p,2024-01-22T22:52:49.279Z,"17 km WSW of Point Possession, Alaska",earthquake,,2,,,automatic,ak,ak
