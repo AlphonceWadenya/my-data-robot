@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-26T11:35:33.977Z,61.3705,-150.1724,34.9,2.4,ml,,,,0.43,ak,ak024176qd6d,2024-01-26T11:36:59.706Z,"10 km W of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-01-26T11:33:19.210Z,33.0768318,-115.5873337,7.49,1.31,ml,20,81,0.03874,0.16,ci,ci39757426,2024-01-26T11:36:16.253Z,"5 km NE of Westmorland, CA",earthquake,0.38,0.63,0.292,5,automatic,ci,ci
 2024-01-26T11:29:18.090Z,19.1935005187988,-155.484832763672,27.4400005340576,2.18000007,md,26,88,,0.129999995,hv,hv73727317,2024-01-26T11:32:28.470Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.81,0.939999998,2.25,4,automatic,hv,hv
 2024-01-26T11:21:40.043Z,65.0304,-148.7392,18,0.9,ml,,,,0.31,ak,ak024176ndmc,2024-01-26T11:23:28.569Z,"31 km ESE of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-26T11:03:01.110Z,33.3101667,-116.2483333,4.5,0.67,ml,38,41,0.07308,0.22,ci,ci39757418,2024-01-26T11:08:53.231Z,"13 km ENE of Borrego Springs, CA",earthquake,0.23,0.58,0.174,11,automatic,ci,ci
@@ -247,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-25T11:41:22.570Z,34.51316667,-97.7615,6.05,1.46,ml,53,66,0.1052793406,0.58,ok,ok2024bstf,2024-01-25T13:53:13.496Z,"9 km NW of Velma, Oklahoma",earthquake,,1.3,0.27,15,reviewed,ok,ok
 2024-01-25T11:39:44.070Z,58.2478333333333,-154.934,4.08,-0.24,ml,11,164,,0.17,av,av91128318,2024-01-26T04:20:17.990Z,"80 km NNW of Karluk, Alaska",earthquake,0.52,1.08,0.320931203390579,11,reviewed,av,av
 2024-01-25T11:39:09.850Z,58.25,-154.94,3.2,0.53,ml,14,150,,0.16,av,av92188071,2024-01-26T04:14:47.220Z,"81 km NNW of Karluk, Alaska",earthquake,0.37,0.87,0.311032476561953,15,reviewed,av,av
-2024-01-25T11:36:44.990Z,19.3010005950928,-155.24299621582,-0.790000021457672,1.89999998,md,34,94,,0.230000004,hv,hv73726702,2024-01-25T11:39:58.590Z,"15 km S of Volcano, Hawaii",earthquake,0.41,0.180000007,1.23000002,22,automatic,hv,hv
