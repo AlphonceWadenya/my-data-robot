@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-26T18:46:42.620Z,36.0981674,-118.0013351,1.08,1.35,ml,13,121,0.1202,0.11,ci,ci39757658,2024-01-26T18:48:55.489Z,"8 km NW of Coso Junction, CA",earthquake,0.36,0.8,0.069,3,automatic,ci,ci
+2024-01-26T18:51:08.900Z,38.8216667,-122.7991638,3.4,1.53,md,32,30,0.008695,0.02,nc,nc73994456,2024-01-26T18:53:55.730Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.4,0.12,31,automatic,nc,nc
+2024-01-26T18:50:59.490Z,19.1564998626709,-155.454666137695,31.7299995422363,2,md,35,169,,0.0900000036,hv,hv73727552,2024-01-26T18:54:02.990Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.57,0.720000029,1.75,10,automatic,hv,hv
+2024-01-26T18:46:42.630Z,36.1041667,-117.999,1.8,1.18,ml,25,73,0.1175,0.16,ci,ci39757658,2024-01-26T18:52:34.866Z,"8 km NW of Coso Junction, CA",earthquake,0.2,0.48,0.211,9,automatic,ci,ci
 2024-01-26T18:39:06.050Z,19.1404991149902,-155.50016784668,30.6700000762939,2.22000003,md,13,266,,0.100000001,hv,hv73727542,2024-01-26T18:42:01.270Z,"7 km SSW of Pāhala, Hawaii",earthquake,1.09,1.22000003,2.27999997,4,automatic,hv,hv
 2024-01-26T18:30:39.599Z,58.1773,-155.3593,1.1,1.2,ml,,,,0.37,ak,ak02417avc9p,2024-01-26T18:32:38.207Z,"86 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-01-26T18:30:22.460Z,33.8488333,-117.4948333,0.96,2.04,ml,61,42,0.05197,0.22,ci,ci39757650,2024-01-26T18:38:27.409Z,"4 km SE of Home Gardens, CA",earthquake,0.2,0.37,0.137,28,automatic,ci,ci
