@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-27T08:47:36.590Z,38.8364983,-122.8088303,1.73,0.44,md,7,92,0.01312,0.01,nc,nc73995116,2024-01-27T08:49:13.942Z,"8 km WNW of Cobb, CA",earthquake,0.51,1.4,0.29,10,automatic,nc,nc
 2024-01-27T08:40:52.910Z,38.840332,-122.8375015,2.03,0.61,md,8,192,0.002346,0.02,nc,nc73995111,2024-01-27T08:42:28.620Z,"10 km NW of The Geysers, CA",earthquake,0.51,0.71,0.27,9,automatic,nc,nc
 2024-01-27T08:35:24.170Z,38.8325005,-122.8143311,1.48,0.73,md,7,88,0.009681,0.02,nc,nc73995106,2024-01-27T08:36:58.530Z,"8 km NW of The Geysers, CA",earthquake,0.45,1.14,0.29,7,automatic,nc,nc
-2024-01-27T08:31:40.420Z,38.8358345,-122.8044968,1.77,0.38,md,8,110,0.01135,0.01,nc,nc73995101,2024-01-27T08:33:13.575Z,"7 km WNW of Cobb, CA",earthquake,0.67,1.25,0.29,9,automatic,nc,nc
+2024-01-27T08:31:40.420Z,38.8358345,-122.8044968,1.77,0.38,md,8,110,0.01135,0.01,nc,nc73995101,2024-01-27T08:47:10.971Z,"7 km WNW of Cobb, CA",earthquake,0.67,1.25,0.29,9,automatic,nc,nc
 2024-01-27T08:29:14.250Z,38.8343315,-122.8160019,1.57,0.99,md,21,47,0.01186,0.03,nc,nc73995096,2024-01-27T08:41:12.092Z,"8 km W of Cobb, CA",earthquake,0.2,0.51,0.14,22,automatic,nc,nc
 2024-01-27T08:25:45.940Z,32.9631667,-115.8703333,7.51,1.21,ml,40,41,0.0396,0.21,ci,ci39758114,2024-01-27T08:32:03.550Z,"25 km WSW of Westmorland, CA",earthquake,0.21,0.43,0.172,22,automatic,ci,ci
 2024-01-27T08:11:05.170Z,38.8409996,-122.8221664,1.66,0.94,md,7,135,0.01068,0.01,nc,nc73995091,2024-01-27T08:45:12.963Z,"9 km WNW of Cobb, CA",earthquake,0.54,1.01,0.17,7,automatic,nc,nc
