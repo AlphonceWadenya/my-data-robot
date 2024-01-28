@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-28T17:11:53.236Z,62.5544,-148.953,0.2,2.1,ml,,,,0.74,ak,ak0241al8k3f,2024-01-28T17:13:58.307Z,"60 km E of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-28T17:09:56.074Z,64.468,-146.908,10.1,2.7,ml,,,,0.46,ak,ak0241al84vr,2024-01-28T18:42:46.294Z,"6 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-28T17:09:33.662Z,61.6851,-147.622,14,2,ml,,,,0.88,ak,ak0241al836y,2024-01-28T17:11:23.573Z,"13 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-01-28T16:56:45.591Z,64.4894,-146.9417,11.6,4.5,ml,,,,1.14,ak,ak0241akwr3b,2024-01-28T20:48:14.756Z,"4 km SSW of Salcha, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2024-01-28T16:56:45.591Z,64.4894,-146.9417,11.6,4.5,ml,,,,1.14,ak,ak0241akwr3b,2024-01-28T20:58:20.388Z,"4 km SSW of Salcha, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2024-01-28T16:54:29.070Z,38.8333321,-122.8156662,1.41,0.2,md,8,88,0.01635,0.01,nc,nc73995801,2024-01-28T18:46:11.072Z,"8 km NW of The Geysers, CA",earthquake,0.44,1.25,0.08,8,automatic,nc,nc
 2024-01-28T16:50:07.863Z,64.4979,-146.9087,9.6,2,ml,,,,0.21,ak,ak0241akvdwy,2024-01-28T17:45:25.869Z,"2 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-28T16:48:05.386Z,64.4819,-146.8789,0.1,2.2,ml,,,,0.92,ak,ak0241akuyai,2024-01-28T17:53:06.760Z,"4 km SSE of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -263,5 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-27T21:12:54.960Z,19.3941669464111,-155.276992797852,0.829999983310699,1.85000002,md,13,106,,0.150000006,hv,hv73728672,2024-01-27T21:15:57.070Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.400000006,0.330000013,13,automatic,hv,hv
 2024-01-27T21:08:34.840Z,19.3933334350586,-155.274002075195,2.21000003814697,2.05,ml,19,44,,0.159999996,hv,hv73728662,2024-01-27T21:14:05.480Z,"6 km SW of Volcano, Hawaii",earthquake,0.27,0.349999994,0.23,6,automatic,hv,hv
 2024-01-27T21:07:55.190Z,32.7868333,-115.8343333,2.47,1.36,ml,22,61,0.1095,0.24,ci,ci39758386,2024-01-28T17:39:50.143Z,"16 km ENE of Ocotillo, CA",earthquake,0.27,0.46,0.1,15,reviewed,ci,ci
-2024-01-27T20:58:19.050Z,38.8095016,-122.7720032,1.18,0.8,md,7,128,0.007751,0.01,nc,nc73995376,2024-01-27T21:33:13.502Z,"4 km NNW of The Geysers, CA",earthquake,0.52,0.92,0.18,10,automatic,nc,nc
-2024-01-27T20:56:35.560Z,19.3898334503174,-155.278671264648,1.11000001430511,1.92,ml,18,56,,0.119999997,hv,hv73728632,2024-01-27T21:02:06.390Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.180000007,0.25,7,automatic,hv,hv
