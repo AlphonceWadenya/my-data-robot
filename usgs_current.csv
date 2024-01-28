@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-28T12:37:18.890Z,38.8258324,-122.8218307,1.7,0.66,md,9,106,0.0095,0.02,nc,nc73995701,2024-01-28T12:46:11.065Z,"8 km NW of The Geysers, CA",earthquake,0.49,0.88,0.19,10,automatic,nc,nc
+2024-01-28T12:37:18.890Z,38.8258324,-122.8218307,1.7,0.66,md,9,106,0.0095,0.02,nc,nc73995701,2024-01-28T12:54:10.967Z,"8 km NW of The Geysers, CA",earthquake,0.49,0.88,0.19,10,automatic,nc,nc
 2024-01-28T12:30:30.747Z,64.4712,-146.9115,9.5,1.2,ml,,,,0.58,ak,ak0241aidexu,2024-01-28T12:32:09.334Z,"5 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-28T12:29:40.370Z,33.9475,-117.4125,5.67,0.87,ml,15,154,0.05115,0.18,ci,ci39758690,2024-01-28T12:35:35.205Z,"2 km W of Riverside, CA",earthquake,0.57,0.73,0.222,15,automatic,ci,ci
 2024-01-28T12:17:20.810Z,17.843,-66.9113333333333,3.72,2.27,md,5,258,0.1348,0.13,pr,pr71437933,2024-01-28T12:27:40.610Z,"14 km S of Guánica, Puerto Rico",earthquake,0.83,0.81,0.0633248753912858,4,reviewed,pr,pr
