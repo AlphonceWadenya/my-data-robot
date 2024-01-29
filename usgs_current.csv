@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-29T18:57:13.331Z,64.4876,-146.927,5.2,1.8,ml,,,,0.85,ak,ak0241c9n41x,2024-01-29T18:59:15.678Z,"4 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-29T18:41:35.860Z,19.548999786377,-155.875503540039,36.0900001525879,2.22000003,md,41,261,,0.150000006,hv,hv73734822,2024-01-29T18:44:49.320Z,"5 km ENE of Kealakekua, Hawaii",earthquake,0.76,0.910000026,1.90999997,10,automatic,hv,hv
 2024-01-29T18:39:31.730Z,19.3721675872803,-155.286834716797,1.63999998569489,1.83,ml,19,56,,0.140000001,hv,hv73734817,2024-01-29T18:45:02.610Z,"9 km SW of Volcano, Hawaii",earthquake,0.23,0.310000002,0.15,4,automatic,hv,hv
 2024-01-29T18:39:25.741Z,19.1448,-64.9717,35,3.7,ml,22,206,0.788,0.41,us,us7000lusv,2024-01-29T18:51:43.040Z,"88 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.25,2.019,0.059,38,reviewed,us,us
