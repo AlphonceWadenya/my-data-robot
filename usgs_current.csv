@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-30T18:40:18.560Z,33.9155006,-116.7089996,9.67,1.07,ml,17,56,0.1328,0.09,ci,ci39759986,2024-01-30T18:42:23.623Z,"7 km E of Cabazon, CA",earthquake,0.33,0.99,0.267,5,automatic,ci,ci
+2024-01-30T18:40:31.690Z,19.1816673278809,-155.485992431641,32.7700004577637,1.86000001,md,33,149,,0.129999995,hv,hv73737982,2024-01-30T18:43:39.690Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.85,1.13999999,2.03999996,4,automatic,hv,hv
+2024-01-30T18:40:18.460Z,33.917,-116.7113333,10.55,0.72,ml,29,61,0.1098,0.12,ci,ci39759986,2024-01-30T18:46:44.153Z,"7 km E of Cabazon, CA",earthquake,0.19,0.55,0.155,15,automatic,ci,ci
 2024-01-30T18:26:16.206Z,64.484,-146.9553,6.6,2.2,ml,,,,0.45,ak,ak0241dwztkk,2024-01-30T18:40:44.440Z,"5 km SSW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-30T18:21:05.929Z,65.3744,-148.0138,11.2,1.4,ml,,,,0.33,ak,ak0241dwyq74,2024-01-30T18:22:37.545Z,"29 km SE of Livengood, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-01-30T18:16:25.980Z,35.7426667,-117.551,2.09,0.53,ml,17,78,0.1293,0.15,ci,ci39759970,2024-01-30T18:22:13.846Z,"14 km WSW of Searles Valley, CA",earthquake,0.3,0.55,0.095,5,automatic,ci,ci
@@ -309,6 +310,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-29T19:02:42.460Z,46.937,-112.528,1.25,0.88,ml,8,146,0.08961,0.07,mb,mb90039573,2024-01-30T15:35:49.300Z,"11 km E of Lincoln, Montana",earthquake,0.46,0.92,0.195438447769846,4,reviewed,mb,mb
 2024-01-29T18:57:13.331Z,64.4876,-146.927,5.2,1.8,ml,,,,0.85,ak,ak0241c9n41x,2024-01-29T19:07:53.434Z,"4 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-29T18:51:46.885Z,39.4116,-119.6998,7.6,0.7,ml,9,127.51,0.055,0.1213,nn,nn00872650,2024-01-30T02:09:44.386Z,"12 km NNW of Virginia City, Nevada",earthquake,,1.4,0.04,2,reviewed,nn,nn
-2024-01-29T18:44:43.440Z,17.9293333333333,-66.9696666666667,16.54,1.61,md,3,238,0.08141,0.04,pr,pr71438113,2024-01-29T19:36:49.270Z,"8 km SW of Guánica, Puerto Rico",earthquake,2.45,0.89,0.0612590727982845,3,reviewed,pr,pr
-2024-01-29T18:44:42.735Z,39.4141,-119.7036,4.3,0.8,ml,6,126.57,0.099,0.0733,nn,nn00872626,2024-01-30T02:09:02.056Z,"12 km NNW of Virginia City, Nevada",earthquake,,4.1,0.06,3,reviewed,nn,nn
-2024-01-29T18:44:13.886Z,39.4106,-119.7031,7.2,0.6,ml,9,126.85,0.052,0.1514,nn,nn00872625,2024-01-30T02:08:59.304Z,"12 km NNW of Virginia City, Nevada",earthquake,,1.8,0.16,3,reviewed,nn,nn
