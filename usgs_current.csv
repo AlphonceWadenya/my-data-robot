@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-31T11:52:36.333Z,57.9437,-153.6912,45,2.2,ml,,,,0.39,ak,ak0241fgir01,2024-01-31T11:55:43.105Z,"47 km WSW of Aleneva, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-01-31T11:51:26.310Z,33.1964989,-116.0221634,6.88,1,ml,12,131,0.04375,0.21,ci,ci39760442,2024-01-31T11:53:30.277Z,"12 km ENE of Ocotillo Wells, CA",earthquake,2.01,3.44,0.128,5,automatic,ci,ci
 2024-01-31T11:50:18.970Z,19.3889999389648,-155.281494140625,0.449999988079071,2.45000005,md,28,41,0.002464,0.340000004,hv,hv74079626,2024-01-31T11:51:53.560Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.239999995,0.340000004,18,automatic,hv,hv
 2024-01-31T11:48:02.342Z,57.8403,-153.5377,43.2,1.8,ml,,,,0.2,ak,ak0241fghtii,2024-01-31T11:50:46.829Z,"39 km W of Port Lions, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2024-01-31T11:31:25.930Z,19.3435001373291,-155.290161132812,2.53999996185303,2,md,27,65,0.01295,0.289999992,hv,hv74079566,2024-01-31T11:33:15.520Z,"12 km SSW of Volcano, Hawaii",earthquake,0.39,0.769999981,0.389999986,8,automatic,hv,hv
@@ -280,4 +282,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-30T12:19:21.810Z,38.8195,-122.7779999,0.08,1.38,md,22,90,0.006575,0.04,nc,nc73996681,2024-01-30T13:54:10.369Z,"5 km W of Cobb, CA",earthquake,0.2,0.37,0.17,24,automatic,nc,nc
 2024-01-30T12:18:40.851Z,64.4935,-146.9157,0.1,1.8,ml,,,,0.39,ak,ak0241dtdk45,2024-01-30T12:20:36.006Z,"3 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-30T12:14:21.940Z,19.3843326568604,-155.272506713867,1.20000004768372,1.87,ml,12,133,,0.140000001,hv,hv73737247,2024-01-30T12:19:53.370Z,"7 km SSW of Volcano, Hawaii",earthquake,0.24,0.389999986,0.24,3,automatic,hv,hv
-2024-01-30T11:54:01.790Z,33.3146667,-116.2355,5.51,0.83,ml,41,58,0.07817,0.19,ci,ci39759802,2024-01-30T17:09:41.976Z,"14 km ENE of Borrego Springs, CA",earthquake,0.22,0.45,0.086,13,reviewed,ci,ci
