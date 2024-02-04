@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-04T15:35:51.800Z,37.6450005,-118.8463364,4.77,0.45,md,8,114,0.01088,0.01,nc,nc73998556,2024-02-04T15:37:26.373Z,"12 km E of Mammoth Lakes, CA",earthquake,0.66,1.57,0.1,8,automatic,nc,nc
+2024-02-04T15:35:51.800Z,37.6450005,-118.8463364,4.77,0.45,md,8,114,0.01088,0.01,nc,nc73998556,2024-02-04T15:44:09.861Z,"12 km E of Mammoth Lakes, CA",earthquake,0.66,1.57,0.1,8,automatic,nc,nc
 2024-02-04T15:30:57.864Z,60.1596,-141.3037,2.1,2.1,ml,,,,0.51,ak,ak0241m4x7ay,2024-02-04T15:32:40.568Z,"111 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-04T15:19:29.040Z,37.666832,-118.8324966,23.94,1.05,md,8,143,0.01818,0.1,nc,nc73998551,2024-02-04T15:29:11.767Z,"13 km ENE of Mammoth Lakes, CA",earthquake,2.99,8.53,0.07,7,automatic,nc,nc
 2024-02-04T15:16:59.450Z,37.6491661,-118.8493347,4.65,0.52,md,8,124,0.01547,0.02,nc,nc73998546,2024-02-04T15:42:12.851Z,"12 km E of Mammoth Lakes, CA",earthquake,0.46,1.92,0.07,7,automatic,nc,nc
@@ -22,6 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-04T13:34:39.390Z,19.6809997558594,-155.400665283203,9.47999954223633,2.92,ml,57,56,0.1078,0.25,hv,hv74094571,2024-02-04T15:41:05.040Z,"31 km NNW of Volcano, Hawaii",earthquake,0.32,0.439999998,0.42,31,automatic,hv,hv
 2024-02-04T13:24:50.870Z,19.3419990539551,-155.314498901367,1.9099999666214,1.82000005,md,14,92,0.01413,0.239999995,hv,hv74094556,2024-02-04T13:26:39.490Z,"13 km SW of Volcano, Hawaii",earthquake,0.4,0.850000024,0.419999987,9,automatic,hv,hv
 2024-02-04T13:11:28.016Z,58.2533,-154.8888,0,1.2,ml,,,,0.18,ak,ak0241m3m76p,2024-02-04T13:12:34.850Z,"80 km NNW of Karluk, Alaska",earthquake,,16.1,,,automatic,ak,ak
+2024-02-04T13:04:08.399Z,6.9042,-73.1145,150.482,4,mb,23,127,1.006,0.45,us,us7000lwxf,2024-02-04T15:46:18.040Z,"11 km SW of Piedecuesta, Colombia",earthquake,9.35,11.516,0.183,8,reviewed,us,us
 2024-02-04T13:03:11.840Z,36.6184998,-121.2208328,5.98,2.22,md,21,145,0.05472,0.06,nc,nc73998516,2024-02-04T13:25:13.983Z,"12 km NW of Pinnacles, CA",earthquake,0.32,0.88,0.15,21,automatic,nc,nc
 2024-02-04T12:56:01.152Z,63.1746,-149.2802,90,1.1,ml,,,,0.39,ak,ak0241m3acqb,2024-02-04T12:58:13.886Z,"29 km SW of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-02-04T12:49:58.968Z,35.53643417,-96.75883484,3.34870863,1.83,ml,40,48.95282745,0.01717699133,0.4250829912,ok,ok2024clcn,2024-02-04T12:52:30.415Z,"8 km NW of Prague, Oklahoma",earthquake,2.120125675,1.819416349,0.3,13,automatic,ok,ok
