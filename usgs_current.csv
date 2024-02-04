@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-04T13:53:14.600Z,33.9156685,-116.7346649,10.98,1.66,ml,61,36,0.04115,0.14,ci,ci40662432,2024-02-04T13:55:23.974Z,"5 km E of Cabazon, CA",earthquake,0.18,0.45,0.233,21,automatic,ci,ci
+2024-02-04T13:51:45.040Z,19.3438339233398,-155.31233215332,2.71000003814697,2.31,ml,44,50,0.01336,0.159999996,hv,hv74094596,2024-02-04T13:56:25.530Z,"13 km SW of Volcano, Hawaii",earthquake,0.23,0.589999974,0.22,11,automatic,hv,hv
 2024-02-04T13:47:18.753Z,63.2701,-151.3676,7.8,1.8,ml,,,,0.3,ak,ak0241m3tw8z,2024-02-04T13:48:37.450Z,"35 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-04T13:46:40.870Z,38.8139992,-122.8085022,1.06,0.79,md,10,100,0.009462,0.02,nc,nc73998526,2024-02-04T13:48:16.009Z,"6 km NW of The Geysers, CA",earthquake,0.34,0.73,0.2,10,automatic,nc,nc
 2024-02-04T13:34:47.850Z,19.4286670684814,-155.290832519531,-0.550000011920929,2.18,ml,18,133,0.007661,0.280000001,hv,hv74094566,2024-02-04T13:42:49.115Z,"6 km WSW of Volcano, Hawaii",earthquake,0.49,0.430000007,0.52,13,automatic,hv,hv
@@ -260,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-03T14:12:06.599Z,35.5545,-96.745,5.61,2.51,ml,88,34,0,0.2,ok,ok2024cjjs,2024-02-04T11:53:46.688Z,"9 km SE of Sparks, Oklahoma",earthquake,,0.4,0.25,34,reviewed,ok,ok
 2024-02-03T14:02:52.589Z,57.2311,-156.7882,35.2,2.3,ml,,,,0.75,ak,ak0241kgmeqy,2024-02-03T14:05:12.067Z,"48 km SE of Ugashik, Alaska",earthquake,,13.6,,,automatic,ak,ak
 2024-02-03T13:57:44.880Z,19.3598327636719,-155.301666259766,2.50999999046326,2.04999995,md,7,143,0.02405,0.129999995,hv,hv74092186,2024-02-03T13:59:02.080Z,"11 km SW of Volcano, Hawaii",earthquake,1.14,1.37,0.159999996,6,automatic,hv,hv
-2024-02-03T13:53:56.850Z,35.55733333,-96.7455,5,1.35,ml,71,66,0.0224955856,0.28,ok,ok2024cjjc,2024-02-03T16:12:23.156Z,"8 km SE of Sparks, Oklahoma",earthquake,,0.5,0.19,24,reviewed,ok,ok
