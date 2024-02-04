@@ -307,4 +307,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-03T06:52:34.750Z,64.5079,-146.9456,8.7,1.4,ml,,,,0.29,ak,ak0241kc5mc3,2024-02-03T06:54:36.322Z,"2 km SW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-03T06:49:40.789Z,35.55266667,-96.74433333,5.67,2.27,ml,96,34,0,0.22,ok,ok2024civd,2024-02-03T07:40:09.715Z,"9 km NW of Prague, Oklahoma",earthquake,,0.4,0.25,40,reviewed,ok,ok
 2024-02-03T06:48:04.250Z,38.8320007,-122.8174973,1.54,0.72,md,13,58,0.01037,0.01,nc,nc73998036,2024-02-03T07:05:17.930Z,"8 km NW of The Geysers, CA",earthquake,0.3,0.66,0.36,15,automatic,nc,nc
-2024-02-03T06:43:18.870Z,57.0361666666667,-135.6385,6.53,-0.04,ml,4,183,,0.07,av,av91130158,2024-02-04T00:06:28.270Z,"18 km W of Sitka, Alaska",earthquake,1.06,1.05,0.486095776351542,4,reviewed,av,av
