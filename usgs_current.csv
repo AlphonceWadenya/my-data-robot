@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-05T23:23:58.920Z,38.8465004,-122.819664,1.71,0.57,md,8,133,0.008641,0.01,nc,nc73998786,2024-02-05T23:40:12.002Z,"9 km WNW of Cobb, CA",earthquake,0.37,1.07,0.31,9,automatic,nc,nc
 2024-02-05T23:21:37.970Z,34.2156667,-116.1581667,9.92,2.18,ml,55,60,0.0979,0.14,ci,ci40663272,2024-02-05T23:59:15.560Z,"12 km NW of Twentynine Palms, CA",earthquake,0.13,0.33,0.174,24,reviewed,ci,ci
 2024-02-05T22:58:01.136Z,59.9996,-151.801,10,1.7,ml,,,,1.36,ak,ak0241nwsgpd,2024-02-05T23:01:03.534Z,"6 km NNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-02-05T22:46:59.770Z,19.3593330383301,-155.288162231445,-0.0500000007450581,2.35,ml,17,64,0.0263,0.140000001,hv,hv74097251,2024-02-05T22:51:41.060Z,"10 km SSW of Volcano, Hawaii",earthquake,0.22,0.349999994,0.31,15,automatic,hv,hv
