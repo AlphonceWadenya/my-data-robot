@@ -47,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-07T12:00:45.500Z,19.3438339233398,-155.314834594727,2.88000011444092,1.73000002,md,15,91,0.0153,0.150000006,hv,hv74100176,2024-02-07T12:02:25.520Z,"13 km SW of Volcano, Hawaii",earthquake,0.31,0.850000024,0.340000004,7,automatic,hv,hv
 2024-02-07T12:00:30.150Z,33.3081667,-116.3511667,10.74,1.09,ml,59,33,0.02284,0.2,ci,ci40663728,2024-02-07T12:11:32.970Z,"6 km NNE of Borrego Springs, CA",earthquake,0.18,0.33,0.122,27,automatic,ci,ci
 2024-02-07T11:50:24.612Z,64.6493,-149.6652,12,2.1,ml,,,,0.59,ak,ak0241r19q4d,2024-02-07T11:52:22.381Z,"26 km W of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-02-07T11:49:18.241Z,37.2326,-115.2385,7.3,1,ml,9,317.6,0.607,0.2424,nn,nn00873047,2024-02-07T11:51:48.366Z,"16 km SSW of Alamo, Nevada",earthquake,,3.8,0.32,5,automatic,nn,nn
+2024-02-07T11:49:21.074Z,37.1891,-115.4624,0.6,1.1,ml,11,161.04,0.393,0.1415,nn,nn00873047,2024-02-07T17:59:36.269Z,"32 km SW of Alamo, Nevada",earthquake,,4.1,0.19,7,reviewed,nn,nn
 2024-02-07T11:45:29.060Z,19.1933326721191,-155.493499755859,35,2.28999996,md,53,67,0.04799,0.119999997,hv,hv74100151,2024-02-07T11:47:41.830Z,"1 km SW of Pāhala, Hawaii",earthquake,0.48,0.620000005,0.340000004,6,automatic,hv,hv
 2024-02-07T11:43:29.569Z,-17.6947,-178.6629,571.277,4.5,mb,45,71,3.131,0.79,us,us7000lxik,2024-02-07T11:58:17.040Z,"218 km E of Levuka, Fiji",earthquake,14.29,9.259,0.081,45,reviewed,us,us
 2024-02-07T11:37:25.173Z,58.8079,-154.7323,127.4,1.9,ml,,,,0.48,ak,ak0241r16xv5,2024-02-07T11:47:18.040Z,"70 km S of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
