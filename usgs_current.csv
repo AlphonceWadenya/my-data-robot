@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-07T22:26:12.400Z,38.7698326,-122.7399979,0.29,1.46,md,7,82,0.01363,0.03,nc,nc73999446,2024-02-07T22:27:49.498Z,"2 km ESE of The Geysers, CA",earthquake,0.4,0.87,0.31,8,automatic,nc,nc
 2024-02-07T22:14:59.457Z,65.1287,-146.7167,13.9,1.4,ml,,,,0.85,ak,ak0241r7luop,2024-02-07T22:16:53.894Z,"28 km NNE of Pleasant Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-02-07T21:52:28.924Z,63.5144,-147.3587,13.2,1.5,ml,,,,0.57,ak,ak0241r78hxo,2024-02-07T21:54:24.137Z,"80 km E of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-07T21:26:15.970Z,38.8291664,-122.8151703,1.5,1.05,md,12,60,0.01665,0.02,nc,nc73999421,2024-02-07T21:27:49.247Z,"8 km NW of The Geysers, CA",earthquake,0.26,1.07,0.17,13,automatic,nc,nc
