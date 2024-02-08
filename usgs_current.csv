@@ -220,6 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-07T02:57:01.953Z,8.8083,126.7609,55.2,5.1,mb,61,116,2.087,0.78,us,us7000lxgd,2024-02-07T03:14:36.040Z,"50 km E of Aras-asan, Philippines",earthquake,9.3,7.272,0.056,104,reviewed,us,us
 2024-02-07T02:49:24.910Z,44.4483333333333,-114.475333333333,4.94,1.8,ml,15,95,0.3197,0.22,mb,mb90040043,2024-02-07T13:44:41.050Z,"20 km WSW of Challis, Idaho",earthquake,0.56,1.5,0.182426766825698,17,reviewed,mb,mb
 2024-02-07T02:48:08.875Z,56.4135,-149.1631,15.4,2.7,ml,,,,0.54,ak,ak0241qvwdgm,2024-02-07T16:58:16.873Z,"231 km SE of Chiniak, Alaska",earthquake,,7,,,reviewed,ak,ak
-2024-02-07T02:44:56.983Z,8.9289,126.8064,53.794,5.1,mb,64,114,2.211,1.12,us,us7000lxgc,2024-02-07T02:59:24.040Z,"54 km E of Aras-asan, Philippines",earthquake,9.33,7.104,0.079,51,reviewed,us,us
-2024-02-07T02:43:46.460Z,44.4468333333333,-114.484833333333,4.24,2.38,ml,23,72,0.3261,0.16,mb,mb90040033,2024-02-07T13:34:07.850Z,"21 km WSW of Challis, Idaho",earthquake,0.36,1.13,0.234667338556082,24,reviewed,mb,mb
-2024-02-07T02:42:01.193Z,-10.5917,165.9967,194.102,5,mb,65,61,6.067,0.56,us,us7000lxga,2024-02-07T02:59:12.040Z,"26 km NE of Lata, Solomon Islands",earthquake,9.9,7.188,0.032,317,reviewed,us,us
