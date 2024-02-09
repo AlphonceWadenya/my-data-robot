@@ -180,6 +180,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-08T10:16:39.179Z,38.1591,-117.8906,11.9,1.2,ml,8,96.32,0.084,0.1217,nn,nn00873088,2024-02-08T17:55:20.363Z,"31 km SE of Mina, Nevada",earthquake,,1.6,0.42,4,reviewed,nn,nn
 2024-02-08T10:13:12.100Z,40.3186684,-124.4241638,9.12,2.34,md,7,267,0.06931,0.07,nc,nc73999601,2024-02-09T05:01:10.628Z,"12 km W of Petrolia, CA",earthquake,3.66,1.82,0.11,5,automatic,nc,nc
 2024-02-08T10:08:30.330Z,57.0471666666667,-135.644166666667,6.75,0.05,ml,4,171,,0.04,av,av91131053,2024-02-08T21:23:44.560Z,"19 km W of Sitka, Alaska",earthquake,0.93,0.73,0.268376237516382,4,reviewed,av,av
+2024-02-08T10:07:23.423Z,-31.7683,-69.7093,146.426,4.1,mb,35,82,0.902,1.05,us,us7000lxq9,2024-02-09T08:11:14.040Z,"55 km SSW of Calingasta, Argentina",earthquake,2.28,7.401,0.262,5,reviewed,us,us
 2024-02-08T09:49:56.005Z,60.7048,-147.517,21.8,1.7,ml,,,,0.72,ak,ak0241snm240,2024-02-08T09:51:51.101Z,"49 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-08T09:45:00.980Z,38.8349991,-122.8186646,1.82,0.27,md,7,91,0.01339,0.01,nc,nc73999591,2024-02-08T11:27:11.171Z,"8 km NW of The Geysers, CA",earthquake,0.44,1.44,0.18,8,automatic,nc,nc
 2024-02-08T09:42:30.440Z,39.2911666666667,-111.9455,0.92,1.6,ml,18,79,0.1884,0.2,uu,uu80036911,2024-02-08T14:25:44.150Z,"10 km NW of Fayette, Utah",earthquake,0.46,31.61,0.230629599097907,5,reviewed,uu,uu
@@ -203,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-08T08:43:11.816Z,63.2269,-149.7701,97.9,2,ml,,,,0.37,ak,ak0241smz8st,2024-02-08T08:45:34.165Z,"44 km WSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-08T08:29:38.180Z,33.0243333,-116.497,11.72,1.29,ml,44,42,0.07231,0.17,ci,ci40664040,2024-02-08T14:35:59.711Z,"12 km ESE of Julian, CA",earthquake,0.17,0.53,0.251,28,reviewed,ci,ci
 2024-02-08T08:27:56.408Z,64.4513,-146.8671,20.2,1.1,ml,,,,0.41,ak,ak0241smvws8,2024-02-08T08:30:27.426Z,"8 km SSE of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-02-08T08:21:22.540Z,19.2358333333333,-155.401833333333,28.53,1.56,md,25,137,0.004412,0.13,hv,hv74101086,2024-02-08T22:17:37.040Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.57,0.74,0.0869178108820761,10,reviewed,hv,hv
-2024-02-08T08:16:45.540Z,38.8310013,-122.8144989,1.23,0.7,md,10,84,0.008345,0.01,nc,nc73999561,2024-02-08T08:49:10.260Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.78,0.53,10,automatic,nc,nc
