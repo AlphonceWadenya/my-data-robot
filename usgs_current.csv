@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-09T07:23:51.363Z,59.4436,-152.6762,93.4,3.1,ml,,,,0.4,ak,ak0241u9syes,2024-02-09T07:29:33.129Z,"43 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-02-09T07:23:51.363Z,59.4436,-152.6762,93.4,3.1,ml,,,,0.4,ak,ak0241u9syes,2024-02-09T07:34:49.163Z,"43 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-02-09T07:23:34.300Z,37.845665,-122.0446701,9.05,1.33,md,15,56,0.03257,0.07,nc,nc73999981,2024-02-09T07:34:10.133Z,"1 km WSW of Alamo, CA",earthquake,0.28,0.55,0.15,11,automatic,nc,nc
 2024-02-09T07:22:30.774Z,59.1969,-154.7194,34.8,2,ml,,,,0.98,ak,ak0241u9sp45,2024-02-09T07:24:25.538Z,"27 km S of Kokhanok, Alaska",earthquake,,2,,,automatic,ak,ak
 2024-02-09T06:49:42.374Z,36.7838,-116.0871,5.4,-0.2,ml,8,171.52,0.027,0.0408,nn,nn00873157,2024-02-09T06:51:39.065Z,"44 km WNW of Indian Springs, Nevada",earthquake,,0.9,0.07,2,automatic,nn,nn
