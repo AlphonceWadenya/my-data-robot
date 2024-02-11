@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-11T07:04:38.470Z,38.8223343,-122.8550034,2.38,0.67,md,13,95,0.005404,0.02,nc,nc74000981,2024-02-11T07:06:14.129Z,"10 km WNW of The Geysers, CA",earthquake,0.32,0.6,0.43,13,automatic,nc,nc
+2024-02-11T07:17:10.250Z,38.8326683,-122.8161697,1.64,0.96,md,16,62,0.01041,0.02,nc,nc74000996,2024-02-11T07:18:52.953Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.56,0.18,18,automatic,nc,nc
+2024-02-11T07:13:36.370Z,38.7961655,-122.8151703,3.24,1.65,md,35,65,0.01228,0.04,nc,nc74000991,2024-02-11T07:16:37.740Z,"6 km WNW of The Geysers, CA",earthquake,0.2,0.35,0.13,35,automatic,nc,nc
+2024-02-11T07:12:22.860Z,38.8084984,-122.8238297,2.16,0.39,md,9,113,0.004195,0.02,nc,nc74000986,2024-02-11T07:13:59.351Z,"7 km WNW of The Geysers, CA",earthquake,0.44,1,0.26,11,automatic,nc,nc
+2024-02-11T07:04:38.470Z,38.8223343,-122.8550034,2.38,0.67,md,13,95,0.005404,0.02,nc,nc74000981,2024-02-11T07:16:10.759Z,"10 km WNW of The Geysers, CA",earthquake,0.32,0.6,0.43,13,automatic,nc,nc
 2024-02-11T07:03:45.264Z,65.0032,-146.5246,12.6,2.1,ml,,,,0.55,ak,ak0241xkrcke,2024-02-11T07:07:36.017Z,"21 km NE of Pleasant Valley, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-02-11T06:56:48.160Z,38.840168,-122.8111649,1.95,0.63,md,10,84,0.01635,0.01,nc,nc74000976,2024-02-11T07:05:11.703Z,"8 km WNW of Cobb, CA",earthquake,0.31,0.94,0.36,9,automatic,nc,nc
+2024-02-11T06:56:48.160Z,38.840168,-122.8111649,1.95,0.63,md,10,84,0.01635,0.01,nc,nc74000976,2024-02-11T07:14:12.751Z,"8 km WNW of Cobb, CA",earthquake,0.31,0.94,0.36,9,automatic,nc,nc
 2024-02-11T06:44:27.040Z,38.8308334,-122.8146667,1.82,0.78,md,22,49,0.008248,0.02,nc,nc74000971,2024-02-11T07:01:11.683Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.49,0.12,21,automatic,nc,nc
 2024-02-11T06:10:54.240Z,19.1735000610352,-155.483169555664,32.5299987792969,2.1500001,md,40,85,0.02683,0.150000006,hv,hv74106296,2024-02-11T06:12:42.970Z,"3 km S of Pāhala, Hawaii",earthquake,0.57,0.850000024,0.0700000003,7,automatic,hv,hv
 2024-02-11T06:02:31.253Z,61.2179,-150.922,35.2,2.3,ml,,,,0.67,ak,ak0241xk5o7g,2024-02-11T06:05:25.352Z,"12 km NE of Beluga, Alaska",earthquake,,14.6,,,automatic,ak,ak
