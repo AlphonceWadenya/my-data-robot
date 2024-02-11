@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-11T02:32:43.570Z,33.1628333,-115.6386667,3.36,1.99,ml,52,42,0.02421,0.2,ci,ci40665584,2024-02-11T02:39:49.822Z,"12 km WNW of Calipatria, CA",earthquake,0.16,0.23,0.182,27,automatic,ci,ci
+2024-02-11T02:32:43.570Z,33.1628333,-115.6386667,3.36,1.99,ml,52,42,0.02421,0.2,ci,ci40665584,2024-02-11T02:44:01.260Z,"12 km WNW of Calipatria, CA",earthquake,0.16,0.23,0.182,27,automatic,ci,ci
 2024-02-11T02:23:53.118Z,40.6859,-119.3314,7.2,1.4,ml,8,234.25,0.599,0.1458,nn,nn00873250,2024-02-11T02:26:30.940Z,"4 km NNE of Gerlach, Nevada",earthquake,,1.2,0.15,3,automatic,nn,nn
 2024-02-11T02:22:59.800Z,33.1633333,-115.6406667,2.77,1.47,ml,30,64,0.0249,0.18,ci,ci40665576,2024-02-11T02:31:25.985Z,"12 km WNW of Calipatria, CA",earthquake,0.21,0.33,0.164,27,automatic,ci,ci
 2024-02-11T02:20:57.720Z,33.1671667,-115.639,3.54,1.24,ml,36,50,0.02106,0.17,ci,ci40665568,2024-02-11T02:29:10.447Z,"12 km WNW of Calipatria, CA",earthquake,0.2,0.23,0.228,29,automatic,ci,ci
