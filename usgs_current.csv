@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-11T11:35:34.100Z,38.7923317,-122.8085022,2.83,1.08,md,19,99,0.005833,0.03,nc,nc74001111,2024-02-11T11:37:12.598Z,"5 km WNW of The Geysers, CA",earthquake,0.29,0.57,0.15,19,automatic,nc,nc
+2024-02-11T11:47:52.172Z,61.395,-150.1078,32.7,1.6,ml,,,,0.56,ak,ak0241xnej2p,2024-02-11T11:51:05.488Z,"7 km WNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-02-11T11:35:34.100Z,38.7923317,-122.8085022,2.83,1.08,md,19,99,0.005833,0.03,nc,nc74001111,2024-02-11T11:51:11.536Z,"5 km WNW of The Geysers, CA",earthquake,0.29,0.57,0.15,19,automatic,nc,nc
 2024-02-11T11:34:10.140Z,38.7869987,-122.7454987,1.43,0.97,md,7,87,0.007818,0.01,nc,nc74001106,2024-02-11T11:45:10.639Z,"1 km NE of The Geysers, CA",earthquake,0.39,0.9,0.19,8,automatic,nc,nc
 2024-02-11T11:28:51.103Z,60.2535,-141.1635,8.8,1.9,ml,,,,0.73,ak,ak0241xnagdy,2024-02-11T11:31:02.377Z,"112 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-11T11:20:05.110Z,38.8326683,-122.8131638,1.5,0.27,md,8,89,0.009569,0.02,nc,nc74001096,2024-02-11T11:37:14.457Z,"8 km NW of The Geysers, CA",earthquake,0.35,1.11,0.16,9,automatic,nc,nc
