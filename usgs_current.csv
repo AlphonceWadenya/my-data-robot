@@ -91,6 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T15:18:29.120Z,38.8311653,-122.8144989,1.87,0.77,md,11,79,0.008494,0.01,nc,nc74001731,2024-02-12T17:10:10.132Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.76,0.13,12,automatic,nc,nc
 2024-02-12T15:17:47.780Z,32.7861667,-115.5506667,9.41,1.45,ml,29,65,0.05084,0.25,ci,ci40667944,2024-02-12T15:23:59.174Z,"1 km ESE of El Centro, CA",earthquake,0.4,0.66,0.269,23,automatic,ci,ci
 2024-02-12T15:14:06.264Z,31.666,-104.372,6.9542,2.1,ml,17,69,0.1,0.2,tx,tx2024czxh,2024-02-12T20:33:04.390Z,"56 km S of Whites City, New Mexico",earthquake,0.7283825094,0.7289626804,0.2,13,reviewed,tx,tx
+2024-02-12T15:12:14.151Z,37.4363,-118.3505,0,0.6,ml,4,288.47,0.308,0.0991,nn,nn00873327,2024-02-12T23:25:09.719Z,"7 km NE of Dixon Lane-Meadow Creek, California",earthquake,,0,0.17,2,reviewed,nn,nn
 2024-02-12T15:10:14.830Z,32.778,-115.5513333,10.97,2.4,ml,47,45,0.04528,0.27,ci,ci40667936,2024-02-12T17:47:10.629Z,"1 km SSE of El Centro, CA",earthquake,0.26,0.43,0.203,27,automatic,ci,ci
 2024-02-12T15:05:00.850Z,58.1368,-152.4908,36,3.6,ml,,,,0.57,ak,ak0241zd2i03,2024-02-12T17:09:41.040Z,"23 km N of Ouzinkie, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-02-12T15:04:45.371Z,6.5594,125.9248,76.165,4.4,mb,47,98,0.612,0.69,us,us7000lypr,2024-02-12T17:00:41.040Z,"18 km W of Magdug, Philippines",earthquake,10.48,6.468,0.089,36,reviewed,us,us
@@ -175,6 +176,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T12:43:04.198Z,64.0952,-146.753,0,1.3,ml,,,,0.93,ak,ak0241zbiclv,2024-02-12T12:45:22.342Z,"31 km SSW of Harding-Birch Lakes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-12T12:40:44.640Z,38.8325005,-122.8106689,2.08,1.07,md,21,44,0.009104,0.01,nc,nc74001676,2024-02-12T14:50:13.323Z,"8 km W of Cobb, CA",earthquake,0.21,0.41,0.22,22,automatic,nc,nc
 2024-02-12T12:33:25.510Z,32.79,-115.5578333,9.75,1.08,ml,24,75,0.04946,0.24,ci,ci40667448,2024-02-12T13:02:33.721Z,"0 km N of El Centro, CA",earthquake,0.41,0.63,0.114,14,automatic,ci,ci
+2024-02-12T12:31:21.050Z,37.3081667,-121.673,7.95,1.03,md,34,40,0.04129,0.08,nc,nc74001671,2024-02-12T23:24:00.969Z,"15 km E of Seven Trees, CA",earthquake,0.15,0.33,0.159,32,reviewed,nc,nc
 2024-02-12T12:21:09.350Z,34.0243333,-116.5966667,10.23,1.04,ml,54,46,0.04488,0.16,ci,ci40667432,2024-02-12T13:00:12.107Z,"3 km SSW of Morongo Valley, CA",earthquake,0.14,0.32,0.18,28,automatic,ci,ci
 2024-02-12T12:09:12.650Z,47.4875,-113.810833333333,12.92,0.96,ml,8,157,0.1293,0.04,mb,mb90040528,2024-02-12T16:56:51.350Z,"8 km WSW of Condon, Montana",earthquake,0.51,0.85,0.15611686003744,3,reviewed,mb,mb
 2024-02-12T12:08:05.430Z,32.833,-115.592,12.27,1.17,ml,23,57,0.07178,0.22,ci,ci40667424,2024-02-12T12:57:30.455Z,"3 km SW of Imperial, CA",earthquake,0.37,0.59,0.274,19,automatic,ci,ci
@@ -216,7 +218,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T10:50:16.820Z,32.7958333,-115.5665,11.03,1.43,ml,33,64,0.05018,0.26,ci,ci40667176,2024-02-12T12:20:58.891Z,"1 km NW of El Centro, CA",earthquake,0.33,0.48,0.259,28,automatic,ci,ci
 2024-02-12T10:49:30.790Z,32.7876667,-115.5536667,10.26,1.17,ml,28,76,0.05007,0.24,ci,ci40667168,2024-02-12T12:19:15.346Z,"0 km E of El Centro, CA",earthquake,0.32,0.49,0.201,19,automatic,ci,ci
 2024-02-12T10:47:54.360Z,19.1373329162598,-155.441162109375,10.0900001525879,1.97000003,md,28,225,0.02675,0.170000002,hv,hv74108346,2024-02-12T10:49:56.260Z,"8 km SSE of Pāhala, Hawaii",earthquake,0.67,0.5,0.330000013,11,automatic,hv,hv
-2024-02-12T10:47:43.770Z,37.6005,-118.849,6.27,0.26,md,15,151,0.01895,0.03,nc,nc74001636,2024-02-12T23:10:26.976Z,"12 km ESE of Mammoth Lakes, CA",earthquake,0.7,1.1,0.189,15,reviewed,nc,nc
+2024-02-12T10:47:43.770Z,37.6005,-118.849,6.27,0.26,md,15,151,0.01895,0.03,nc,nc74001636,2024-02-12T23:21:10.494Z,"12 km ESE of Mammoth Lakes, CA",earthquake,0.7,1.1,0.189,15,reviewed,nc,nc
 2024-02-12T10:46:20.750Z,32.8138333,-115.5761667,9.21,1.19,ml,22,61,0.06135,0.19,ci,ci40667160,2024-02-12T12:18:24.341Z,"3 km NNW of El Centro, CA",earthquake,0.4,0.62,0.179,18,automatic,ci,ci
 2024-02-12T10:45:13.220Z,32.7933333,-115.5586667,10.18,1.15,ml,26,75,0.05165,0.21,ci,ci40667152,2024-02-12T12:16:20.654Z,"1 km N of El Centro, CA",earthquake,0.32,0.46,0.138,14,automatic,ci,ci
 2024-02-12T10:42:37.230Z,32.7885,-115.56,9.83,1.51,ml,35,65,0.04715,0.25,ci,ci40667144,2024-02-12T12:15:54.258Z,"0 km WNW of El Centro, CA",earthquake,0.3,0.51,0.254,29,automatic,ci,ci
@@ -354,7 +356,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T08:38:25.950Z,32.809,-115.58,14.28,3.56,ml,52,38,0.05556,0.3,ci,ci40666312,2024-02-12T18:16:37.611Z,"3 km NW of El Centro, CA",earthquake,0.34,0.59,0.231,13,reviewed,ci,ci
 2024-02-12T08:38:13.420Z,32.8196667,-115.5863333,12.1,3.49,ml,32,49,0.06155,0.32,ci,ci40666304,2024-02-12T18:38:03.310Z,"4 km SSW of Imperial, CA",earthquake,0.43,0.93,0.132,12,reviewed,ci,ci
 2024-02-12T08:37:47.540Z,32.8068333,-115.5643333,11.18,3.63,ml,25,62,0.05436,0.21,ci,ci40666296,2024-02-12T17:47:04.792Z,"2 km NNW of El Centro, CA",earthquake,0.31,0.5,0.128,13,reviewed,ci,ci
-2024-02-12T08:36:25.460Z,32.8135,-115.5735,17.93,4.81,mw,71,39,0.05943,0.34,ci,ci40666288,2024-02-12T23:18:54.233Z,"3 km NNW of El Centro, CA",earthquake,0.3,0.56,,6,reviewed,ci,ci
+2024-02-12T08:36:25.460Z,32.8135,-115.5735,17.93,4.81,mw,71,39,0.05943,0.34,ci,ci40666288,2024-02-12T23:24:01.850Z,"3 km NNW of El Centro, CA",earthquake,0.3,0.56,,6,reviewed,ci,ci
 2024-02-12T08:29:12.620Z,37.6013333,-118.852,5.7,0.17,md,11,153,0.01966,0.04,nc,nc74001571,2024-02-12T23:16:10.444Z,"12 km ESE of Mammoth Lakes, CA",earthquake,0.66,1,0.271,10,reviewed,nc,nc
 2024-02-12T08:18:16.590Z,51.64,-178.773666666667,13.6,2.47,ml,9,143,,0.15,av,av92203576,2024-02-12T21:19:09.490Z,"150 km W of Adak, Alaska",earthquake,1.57,1.11,0.220791896079795,9,reviewed,av,av
 2024-02-12T08:14:31.690Z,19.1633338928223,-155.489501953125,30.7900009155273,1.75999999,md,20,212,0.1444,0.109999999,hv,hv74108141,2024-02-12T08:16:20.950Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.93,1.05999994,0.00999999978,4,automatic,hv,hv
