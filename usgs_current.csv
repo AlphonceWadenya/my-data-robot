@@ -241,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T17:58:25.677Z,31.668,-104.349,5.2061,1.5,ml,14,68,0.1,0.2,tx,tx2024dacs,2024-02-12T19:11:36.843Z,"56 km S of Whites City, New Mexico",earthquake,0.95799994,1.351845132,0.2,13,reviewed,tx,tx
 2024-02-12T17:57:11.931Z,6.3233,60.4134,10,4.5,mb,46,90,11.983,0.48,us,us7000lyrt,2024-02-12T20:07:24.040Z,"Carlsberg Ridge",earthquake,11.48,1.924,0.083,43,reviewed,us,us
 2024-02-12T17:56:47.620Z,38.8248329,-122.784668,1.1,1.09,md,15,67,0.01197,0.03,nc,nc74001801,2024-02-12T18:32:14.617Z,"5 km W of Cobb, CA",earthquake,0.25,0.42,0.12,18,automatic,nc,nc
-2024-02-12T17:47:07.980Z,36.6962,-116.2856,7.5,-0.3,ml,9,124.77,0.043,0.0941,nn,nn00873331,2024-02-13T02:04:45.247Z,"48 km ESE of Beatty, Nevada",earthquake,,1.8,0.1,2,reviewed,nn,nn
