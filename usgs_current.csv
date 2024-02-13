@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-13T21:49:55.015Z,36.58959961,-97.13713074,1.893253684,2.24,ml,38,94.21169281,0.08445874602,0.5320110509,ok,ok2024dcfv,2024-02-13T21:51:45.477Z,"3 km NNE of Marland, Oklahoma",earthquake,2.456756433,1.434343371,0.24,16,automatic,ok,ok
+2024-02-13T21:49:55.155Z,36.60014343,-97.13663483,0.3809944689,2.24,ml,42,96.68305969,0.08729464561,0.787086404,ok,ok2024dcfv,2024-02-13T21:53:37.915Z,"4 km NNE of Marland, Oklahoma",earthquake,2.410814376,1.325205934,0.23,21,automatic,ok,ok
 2024-02-13T21:41:21.760Z,32.8808333,-115.9596667,2.79,1.27,ml,11,79,0.009986,0.19,ci,ci40669288,2024-02-13T21:47:40.167Z,"16 km N of Ocotillo, CA",earthquake,1.16,1.04,0.154,29,automatic,ci,ci
 2024-02-13T21:28:53.500Z,38.8441658,-122.8183365,1.87,0.6,md,7,128,0.01119,0.01,nc,nc74002386,2024-02-13T21:45:13.201Z,"9 km WNW of Cobb, CA",earthquake,0.4,1.44,0.38,7,automatic,nc,nc
 2024-02-13T21:24:15.602Z,59.431,-138.9373,5.8,2.1,ml,,,,0.47,ak,ak024214ajtk,2024-02-13T21:26:28.551Z,"46 km ESE of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
