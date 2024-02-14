@@ -22,6 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T01:36:42.651Z,35.55541229,-96.74601746,3.523414373,1.79,ml,30,48.86549377,0.02039850503,0.2793566532,ok,ok2024dcni,2024-02-14T01:41:13.022Z,"8 km SE of Sparks, Oklahoma",earthquake,2.189624082,1.847060679,0.26,9,automatic,ok,ok
 2024-02-14T01:32:53.670Z,37.1367,136.9413,10,4.9,mb,29,90,1.172,0.85,us,us7000lz26,2024-02-14T02:23:03.041Z,"9 km NNW of Nanao, Japan",earthquake,6.13,1.864,0.088,41,reviewed,us,us
 2024-02-14T01:31:41.355Z,-28.9162,-71.5264,22.405,6,mww,74,93,0.73,1.08,us,us7000lz23,2024-02-14T03:40:02.954Z,"83 km WSW of Vallenar, Chile",earthquake,4.5,4.159,0.08,15,reviewed,us,us
+2024-02-14T01:16:32.476Z,39.4049,-119.7175,5.7,0.7,ml,9,124,0.04,0.1763,nn,nn00873410,2024-02-14T03:44:35.651Z,"12 km NNW of Virginia City, Nevada",earthquake,,1.8,0.45,2,reviewed,nn,nn
 2024-02-14T01:14:50.290Z,38.8223343,-122.8441696,2.17,0.66,md,12,87,0.007182,0.01,nc,nc74002491,2024-02-14T01:41:16.693Z,"9 km WNW of The Geysers, CA",earthquake,0.32,0.66,0.41,12,automatic,nc,nc
 2024-02-14T01:12:45.600Z,19.077,-155.364333333333,32.82,1.88,md,38,201,0.121,0.1,hv,hv74109382,2024-02-14T03:18:18.480Z,"18 km SE of Pāhala, Hawaii",earthquake,0.45,0.83,0.0977069535666779,20,reviewed,hv,hv
 2024-02-14T01:06:26.600Z,17.955,-66.971,15.91,2.22,md,9,205,0.06177,0.09,pr,pr71439843,2024-02-14T01:47:48.860Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.56,0.52,0.125929564234395,4,reviewed,pr,pr
@@ -262,6 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-13T03:49:22.310Z,32.8048333,-115.5723333,8.19,1.17,ml,30,73,0.05635,0.22,ci,ci40668752,2024-02-13T03:56:14.902Z,"2 km NW of El Centro, CA",earthquake,0.28,1,0.278,21,automatic,ci,ci
 2024-02-13T03:48:15.221Z,64.4774,-146.9275,8.8,1.1,ml,,,,0.64,ak,ak02420tpw36,2024-02-13T03:51:19.582Z,"5 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-13T03:48:06.580Z,32.7791667,-115.5615,7.15,1.45,ml,36,65,0.03941,0.28,ci,ci40668744,2024-02-13T03:54:21.573Z,"1 km SSW of El Centro, CA",earthquake,0.3,1,0.316,24,automatic,ci,ci
-2024-02-13T03:46:41.180Z,38.8231659,-122.8541641,2.76,0.77,md,15,93,0.004858,0.01,nc,nc74002071,2024-02-13T04:03:11.343Z,"10 km WNW of The Geysers, CA",earthquake,0.31,0.58,0.2,14,automatic,nc,nc
-2024-02-13T03:44:05.330Z,33.8315,-115.7931667,1.62,1.89,ml,55,52,0.1673,0.18,ci,ci40668736,2024-02-13T03:54:57.160Z,"36 km NNE of North Shore, CA",earthquake,0.16,0.42,0.124,26,automatic,ci,ci
-2024-02-13T03:43:42.577Z,61.8745,-150.0857,28.6,1.6,ml,,,,0.6,ak,ak02420tovm9,2024-02-13T03:47:08.210Z,"14 km N of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
