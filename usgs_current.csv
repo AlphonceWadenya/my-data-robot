@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-15T17:18:46.090Z,38.8346672,-122.8174973,1.8,1.03,md,17,79,0.01266,0.01,nc,nc74003171,2024-02-15T17:30:11.154Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.5,0.24,17,automatic,nc,nc
+2024-02-15T17:18:46.090Z,38.8346672,-122.8174973,1.8,1.03,md,17,79,0.01266,0.01,nc,nc74003171,2024-02-15T17:35:14.181Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.5,0.24,17,automatic,nc,nc
 2024-02-15T17:16:11.790Z,19.5301666259766,-155.234161376953,24.1100006103516,2.1500001,md,34,175,0.07973,0.129999995,hv,hv74112896,2024-02-15T17:17:42.620Z,"9 km N of Volcano, Hawaii",earthquake,0.54,0.569999993,0.5,7,automatic,hv,hv
 2024-02-15T16:57:52.100Z,64.9749,-147.3405,0.1,1.5,ml,,,,0.88,ak,ak02424cl88a,2024-02-15T16:59:24.338Z,"13 km E of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-02-15T16:31:08.125Z,62.1903,-145.6388,26.5,1.6,ml,,,,0.5,ak,ak02424cfk7w,2024-02-15T16:34:18.344Z,"10 km NNW of Glennallen, Alaska",earthquake,,0.4,,,automatic,ak,ak
