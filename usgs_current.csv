@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-17T04:43:31.640Z,33.3121681,-116.2483368,4.92,1.2,ml,29,117,0.07167,0.2,ci,ci40671864,2024-02-17T04:45:34.068Z,"13 km ENE of Borrego Springs, CA",earthquake,0.5,0.73,0.211,8,automatic,ci,ci
+2024-02-17T04:39:19.240Z,32.8759995,-115.5921631,14.56,1.57,ml,18,83,0.03668,0.21,ci,ci40671848,2024-02-17T04:41:29.964Z,"4 km NW of Imperial, CA",earthquake,0.61,0.72,0.322,4,automatic,ci,ci
 2024-02-17T04:38:04.369Z,36.048,-116.5238,0,1,ml,9,169.4,0.449,0.5057,nn,nn00873623,2024-02-17T04:40:08.654Z,"24 km WNW of Shoshone, California",earthquake,,48,0.52,5,automatic,nn,nn
-2024-02-17T04:37:15.860Z,33.3045006,-116.2456665,5.37,2.83,ml,123,17,0.07871,0.18,ci,ci40671840,2024-02-17T04:39:23.955Z,"13 km ENE of Borrego Springs, CA",earthquake,0.15,0.69,0.29,18,automatic,ci,ci
+2024-02-17T04:37:15.850Z,33.3045,-116.2481667,5.22,2.73,ml,105,17,0.07731,0.2,ci,ci40671840,2024-02-17T04:44:50.597Z,"13 km ENE of Borrego Springs, CA",earthquake,0.11,0.45,0.196,26,automatic,ci,ci
 2024-02-17T04:35:08.038Z,64.4875,-146.9088,0,1.5,ml,,,,0.91,ak,ak02427gdwsz,2024-02-17T04:37:14.699Z,"4 km S of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-02-17T04:31:03.410Z,32.8171667,-115.5908333,13.35,2.11,ml,51,53,0.0576,0.27,ci,ci40671832,2024-02-17T04:38:11.154Z,"4 km SSW of Imperial, CA",earthquake,0.25,0.51,0.176,27,automatic,ci,ci
+2024-02-17T04:31:03.410Z,32.8171667,-115.5908333,13.35,2.11,ml,51,53,0.0576,0.27,ci,ci40671832,2024-02-17T04:41:47.620Z,"4 km SSW of Imperial, CA",earthquake,0.25,0.51,0.176,27,automatic,ci,ci
 2024-02-17T04:30:20.040Z,35.9815,-117.9151667,1.57,0.7,ml,18,81,0.033,0.12,ci,ci40671824,2024-02-17T04:36:19.145Z,"5 km N of Little Lake, CA",earthquake,0.17,0.26,0.209,8,automatic,ci,ci
 2024-02-17T04:04:41.143Z,31.654,-104.008,4.5154,1.5,ml,18,40,0,0.5,tx,tx2024dies,2024-02-17T04:30:32.637Z,"39 km W of Mentone, Texas",earthquake,0,1.1289625846772,0.2,13,automatic,tx,tx
 2024-02-17T03:58:03.770Z,38.8375015,-122.836998,1.11,1.06,md,20,81,0.001604,0.03,nc,nc74003861,2024-02-17T04:13:12.189Z,"10 km NW of The Geysers, CA",earthquake,0.21,0.36,0.12,22,automatic,nc,nc
@@ -303,4 +305,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-16T04:48:21.500Z,33.1331667,-115.6133333,8.87,1.61,ml,34,82,0.03032,0.2,ci,ci40671264,2024-02-17T01:17:37.690Z,"9 km W of Calipatria, CA",earthquake,0.24,0.44,0.253,23,reviewed,ci,ci
 2024-02-16T04:47:56.130Z,38.5001666666667,-112.888666666667,1.2,-0.14,md,9,101,0.002125,0.08,uu,uu80000303,2024-02-16T15:39:50.800Z,"15 km NE of Milford, Utah",earthquake,0.33,0.51,0.46582781586301,3,reviewed,uu,uu
 2024-02-16T04:47:35.800Z,38.5051666666667,-112.891,1.51,-0.39,md,8,107,0.004953,0.04,uu,uu80037456,2024-02-16T15:35:17.710Z,"15 km NE of Milford, Utah",earthquake,0.35,0.45,0.12406890193328,2,reviewed,uu,uu
-2024-02-16T04:42:50.760Z,46.8665,-112.539166666667,12.68,1.01,ml,10,107,0.05685,0.11,mb,mb90040868,2024-02-16T15:37:46.830Z,"14 km SE of Lincoln, Montana",earthquake,0.6,0.62,0.140069162068292,6,reviewed,mb,mb
