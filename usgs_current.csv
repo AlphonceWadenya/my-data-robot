@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-18T05:52:32.037Z,64.4664,-146.9538,10.8,1.1,ml,,,,0.28,ak,ak024294mdxf,2024-02-18T05:54:47.359Z,"6 km SSW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-02-18T05:44:53.120Z,34.014,-116.6966667,4.61,1.02,ml,51,41,0.04728,0.27,ci,ci40672304,2024-02-18T05:51:19.659Z,"11 km WSW of Morongo Valley, CA",earthquake,0.25,1.15,0.167,28,automatic,ci,ci
 2024-02-18T05:39:58.939Z,59.535,-138.9913,10.3,3.3,ml,,,,0.79,ak,ak024294jnnx,2024-02-18T05:43:02.734Z,"41 km E of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-02-18T05:33:55.410Z,38.814167,-122.8221664,2.89,0.68,md,9,108,0.007616,0.02,nc,nc74004206,2024-02-18T05:45:10.453Z,"7 km NW of The Geysers, CA",earthquake,0.58,1.49,0.11,9,automatic,nc,nc
