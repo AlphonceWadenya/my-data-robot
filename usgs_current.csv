@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-21T17:36:51.390Z,19.174165725708,-155.486663818359,30.7299995422363,2.86,ml,55,144,0.02978,0.129999995,hv,hv74118166,2024-02-21T17:39:29.320Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.39,0.589999974,0.39,40,automatic,hv,hv
+2024-02-21T17:23:59.300Z,17.923,-66.2891666666667,11.84,3.22,md,22,185,0.1175,0.25,pr,pr71440758,2024-02-21T17:53:53.050Z,"6 km S of Salinas, Puerto Rico",earthquake,0.53,0.46,0.2195094481881,6,reviewed,pr,pr
 2024-02-21T17:11:15.980Z,19.2671661376953,-155.38883972168,29.2299995422363,2.07999992,md,41,127,0.06595,0.129999995,hv,hv74118161,2024-02-21T17:13:22.070Z,"11 km NE of Pāhala, Hawaii",earthquake,0.53,0.639999986,0.200000003,8,automatic,hv,hv
 2024-02-21T17:04:54.078Z,62.7345,-151.8172,6.9,1.9,ml,,,,0.68,ak,ak0242ea3dzz,2024-02-21T17:06:58.282Z,"60 km WNW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-21T17:03:52.775Z,64.5049,-147.8386,0,1.4,ml,,,,0.3,ak,ak0242ea366l,2024-02-21T17:05:45.509Z,"34 km S of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -28,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-21T14:50:15.466Z,36.6741,-115.9434,4.5,0.1,ml,9,126.05,0.02,0.2046,nn,nn00873729,2024-02-21T14:52:19.998Z,"27 km WNW of Indian Springs, Nevada",earthquake,,0.7,0.34,8,automatic,nn,nn
 2024-02-21T14:40:43.520Z,65.4248,-148.0618,12,3,ml,,,,0.26,ak,ak0242e8is6y,2024-02-21T17:18:57.104Z,"24 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-21T14:27:14.664Z,61.5785,-149.9594,32.2,1.5,ml,,,,0.71,ak,ak0242e8fxm2,2024-02-21T14:29:18.939Z,"6 km N of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-02-21T14:22:51.730Z,19.7723331451416,-154.992492675781,45.0299987792969,2.63,ml,58,194,0.07653,0.129999995,hv,hv74118096,2024-02-21T14:25:29.630Z,"10 km E of Pāpa‘ikou, Hawaii",earthquake,0.49,0.660000026,0.38,23,automatic,hv,hv
+2024-02-21T14:22:51.710Z,19.7691666666667,-154.995166666667,46.17,2.43,md,59,193,0.07252,0.12,hv,hv74118096,2024-02-21T17:49:38.250Z,"10 km E of Paukaa, Hawaii",earthquake,0.44,0.61,0.0791828300274586,23,reviewed,hv,hv
 2024-02-21T14:21:40.790Z,35.351,-118.6201667,4.81,1.53,ml,38,44,0.1322,0.17,ci,ci40673608,2024-02-21T14:47:12.282Z,"25 km NE of Arvin, CA",earthquake,0.17,0.59,0.231,26,reviewed,ci,ci
 2024-02-21T14:21:31.270Z,38.8201675,-122.7870026,1.29,1.62,md,29,60,0.008482,0.03,nc,nc74005591,2024-02-21T17:10:12.893Z,"6 km NNW of The Geysers, CA",earthquake,0.19,0.28,0.14,28,automatic,nc,nc
 2024-02-21T14:19:44.400Z,38.8191681,-122.8160019,2.63,0.75,md,14,65,0.006266,0.02,nc,nc74005581,2024-02-21T14:35:18.010Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.83,0.12,16,automatic,nc,nc
@@ -86,7 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-21T09:21:59.399Z,63.614,-147.7451,7.5,1.6,ml,,,,0.56,ak,ak0242e5fkqr,2024-02-21T09:24:03.293Z,"59 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-21T09:06:29.870Z,39.4976654,-122.9481659,6.91,2.98,md,39,30,0.1864,0.15,nc,nc74005466,2024-02-21T11:38:11.909Z,"10 km N of Lake Pillsbury, CA",earthquake,0.22,1,0.14,47,automatic,nc,nc
 2024-02-21T08:52:06.580Z,34.0098333,-118.2253333,15.85,2.15,ml,108,32,0.02581,0.25,ci,ci40673520,2024-02-21T09:10:10.239Z,"3 km N of Huntington Park, CA",earthquake,0.16,0.23,0.182,25,automatic,ci,ci
-2024-02-21T08:47:07.020Z,34.0071667,-118.2275,16.08,2.55,ml,135,23,0.02902,0.26,ci,ci40673512,2024-02-21T17:03:51.126Z,"3 km N of Huntington Park, CA",earthquake,0.16,0.29,0.179,25,automatic,ci,ci
+2024-02-21T08:47:07.020Z,34.0071667,-118.2275,16.08,2.55,ml,135,23,0.02902,0.26,ci,ci40673512,2024-02-21T17:49:42.557Z,"3 km N of Huntington Park, CA",earthquake,0.16,0.29,0.179,25,automatic,ci,ci
 2024-02-21T08:41:27.170Z,37.0291672,-121.4851685,5.47,1.22,md,13,107,0.003823,0.05,nc,nc74005461,2024-02-21T11:22:12.952Z,"8 km ENE of Gilroy, CA",earthquake,0.31,0.56,0.12,7,automatic,nc,nc
 2024-02-21T08:37:28.759Z,63.1741,-151.3381,6.2,1.5,ml,,,,0.67,ak,ak0242e4xi8b,2024-02-21T08:40:43.970Z,"45 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-21T08:34:36.690Z,38.498,-112.897,2.37,0.19,md,10,122,0.008879,0.05,uu,uu80044376,2024-02-21T14:41:55.650Z,"14 km NE of Milford, Utah",earthquake,0.34,0.41,0.314151369729195,4,reviewed,uu,uu
