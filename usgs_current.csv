@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-21T23:50:06.520Z,34.9990005,-119.0914993,15.75,1.74,ml,10,115,0.186,0.25,ci,ci40673944,2024-02-21T23:52:36.173Z,"16 km WNW of Grapevine, CA",earthquake,0.91,2.55,0.393,16,automatic,ci,ci
+2024-02-21T23:49:21.881Z,38.1469,-117.8867,5.3,1.6,ml,12,172.47,0.093,0.1591,nn,nn00873752,2024-02-21T23:52:12.099Z,"33 km SE of Mina, Nevada",earthquake,,0.6,0.21,6,automatic,nn,nn
 2024-02-21T23:46:36.260Z,38.7900009,-122.7611694,0.73,1.27,md,18,76,0.01067,0.04,nc,nc74005726,2024-02-21T23:48:12.462Z,"2 km NNW of The Geysers, CA",earthquake,0.24,0.45,0.18,17,automatic,nc,nc
 2024-02-21T23:34:18.320Z,35.0385,-119.0935,-1.38,1.2,ml,25,80,0.02158,0.23,ci,ci40673928,2024-02-21T23:40:30.373Z,"18 km NW of Grapevine, CA",earthquake,0.35,0.8,0.083,14,automatic,ci,ci
 2024-02-21T23:32:18.181Z,60.1955,-152.8527,110.5,2.4,ml,,,,0.6,ak,ak0242edtwvq,2024-02-21T23:41:48.022Z,"67 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
