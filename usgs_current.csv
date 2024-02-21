@@ -50,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-21T14:18:00.049Z,64.6827,-148.327,15.9,1.9,ml,,,,0.87,ak,ak0242e8duda,2024-02-21T14:20:40.103Z,"23 km SW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-21T14:08:15.274Z,60.026,-152.8432,102.4,2.2,ml,,,,0.79,ak,ak0242e8bv4x,2024-02-21T14:11:08.611Z,"62 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-21T14:07:34.425Z,-20.7967,-176.8814,279.113,5.4,mww,108,37,1.611,0.89,us,us7000m0jz,2024-02-21T16:11:01.056Z,"169 km WNW of Houma, Tonga",earthquake,11.38,4.826,0.098,10,reviewed,us,us
-2024-02-21T14:01:32.550Z,35.8655,-120.4156667,8.81,3.49,ml,62,58,0.02561,0.07,nc,nc74005576,2024-02-21T19:29:21.477Z,"4 km SSE of Parkfield, CA",earthquake,0.12,0.19,0.171,125,reviewed,nc,nc
+2024-02-21T14:01:32.550Z,35.8655,-120.4156667,8.81,3.49,ml,62,58,0.02561,0.07,nc,nc74005576,2024-02-21T19:34:56.481Z,"4 km SSE of Parkfield, CA",earthquake,0.12,0.19,0.171,125,reviewed,nc,nc
 2024-02-21T13:53:02.520Z,38.8118324,-122.8293304,1.92,0.55,md,8,73,0.002962,0,nc,nc74005571,2024-02-21T14:13:13.875Z,"7 km WNW of The Geysers, CA",earthquake,0.4,0.93,0.2,10,automatic,nc,nc
 2024-02-21T13:46:10.080Z,38.8213348,-122.8503342,2.54,1.59,md,34,55,0.008034,0.03,nc,nc74005566,2024-02-21T16:27:14.658Z,"10 km WNW of The Geysers, CA",earthquake,0.19,0.31,0.13,34,automatic,nc,nc
 2024-02-21T13:46:02.057Z,63.3005,-151.4452,4.5,1.3,ml,,,,1.16,ak,ak0242e7yjn1,2024-02-21T13:49:37.906Z,"30 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -251,4 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-20T19:49:46.340Z,37.9095001,-121.9818344,8.91,1.71,md,13,139,0.05129,0.08,nc,nc74005151,2024-02-20T22:46:13.131Z,"5 km SW of Clayton, CA",earthquake,0.41,0.68,0.11,11,automatic,nc,nc
 2024-02-20T19:41:58.920Z,46.97716666666667,-122.20583333333333,-0.26,1.5,ml,21,78,0.0132,0.16,uw,uw61983771,2024-02-20T20:20:40.700Z,"1 km ESE of Kapowsin, Washington",explosion,0.64,31.61,0.15394834341017072,13,reviewed,uw,uw
 2024-02-20T19:38:30.350Z,40.517334,-124.3806686,17.79,2.24,md,11,289,0.1606,0.08,nc,nc74005146,2024-02-20T22:21:13.971Z,"12 km WSW of Ferndale, CA",earthquake,3.36,1.09,0.04,5,automatic,nc,nc
-2024-02-20T19:36:25.090Z,38.4968333333333,-112.901333333333,2.53,1.11,ml,9,166,0.01246,0.05,uu,uu80043276,2024-02-20T22:06:26.690Z,"14 km NE of Milford, Utah",earthquake,0.42,0.58,0.175842960951807,2,reviewed,uu,uu
