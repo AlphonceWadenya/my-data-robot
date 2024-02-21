@@ -212,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-20T05:23:09.140Z,18.6156,-63.6768,30,3.58,md,5,358,1.3065,0.16,pr,pr2024051000,2024-02-20T05:43:05.900Z,"77 km NW of Sandy Ground Village, Anguilla",earthquake,13.33,11,0.09,3,reviewed,pr,pr
 2024-02-20T05:06:54.170Z,53.3816666666667,-168.114666666667,0.61,-0.31,ml,4,197,,0.2,av,av92210041,2024-02-21T00:11:59.970Z,"70 km NE of Nikolski, Alaska",earthquake,0.84,0.41,0.477676098795144,4,reviewed,av,av
 2024-02-20T04:46:58.370Z,48.60316666666667,-123.088,11.73,1.1500000000000001,ml,18,118,0.02693,0.18,uw,uw61983696,2024-02-20T19:44:35.750Z,"9 km NW of Friday Harbor, Washington",earthquake,0.33,0.49,0.19327550164331914,6,reviewed,uw,uw
-2024-02-20T04:31:13.190Z,37.9695015,-122.4933319,3.87,2.42,md,5,187,0.2315,0.02,nc,nc74004931,2024-02-20T20:00:14.219Z,"3 km E of San Rafael, CA",earthquake,1.9,3.42,0.46,4,automatic,nc,nc
