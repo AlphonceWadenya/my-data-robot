@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-23T20:30:16.430Z,33.857666,-117.5021667,-0.23,1.18,ml,27,54,0.06224,0.3,ci,ci40675232,2024-02-23T20:32:23.030Z,"3 km SE of Home Gardens, CA",earthquake,0.49,1,0.227,7,automatic,ci,ci
+2024-02-23T20:35:44.600Z,38.8354988,-122.7900009,1.45,0.63,md,8,111,0.002918,0.02,nc,nc74006641,2024-02-23T20:37:21.546Z,"6 km WNW of Cobb, CA",earthquake,0.43,1.14,0.43,9,automatic,nc,nc
+2024-02-23T20:30:16.360Z,33.865,-117.5038333,1.38,1.38,ml,43,44,0.0488,0.22,ci,ci40675232,2024-02-23T20:36:42.262Z,"2 km SE of Home Gardens, CA",earthquake,0.22,0.34,0.295,33,automatic,ci,ci
 2024-02-23T20:08:39.550Z,19.3010005950928,-155.34733581543,2.67000007629395,2.05,ml,36,118,0.03794,0.330000013,hv,hv74119661,2024-02-23T20:11:18.810Z,"17 km NE of Pāhala, Hawaii",earthquake,0.46,0.99000001,0.17,4,automatic,hv,hv
 2024-02-23T20:06:58.480Z,19.2923336029053,-155.351837158203,3.64000010490417,2.22,ml,37,123,0.04208,0.230000004,hv,hv74119656,2024-02-23T20:09:34.440Z,"16 km NE of Pāhala, Hawaii",earthquake,0.53,1.65999997,0.05,3,automatic,hv,hv
 2024-02-23T19:39:13.820Z,38.498,-112.904166666667,2.81,0.79,md,13,73,0.0134,0.06,uu,uu80046996,2024-02-23T20:24:02.430Z,"14 km NE of Milford, Utah",earthquake,0.41,0.43,0.418552521964798,5,reviewed,uu,uu
@@ -211,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-22T20:53:02.025Z,62.2089,-151.0304,65.9,2.4,ml,,,,0.61,ak,ak0242fzpfdm,2024-02-23T14:10:05.040Z,"31 km NE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-02-22T20:51:32.430Z,46.0165,-112.455833333333,-2,1.17,ml,10,171,0.06864,0.1,mb,mb90041383,2024-02-22T23:14:42.060Z,"6 km ENE of Butte, Montana",quarry blast,0.85,31.61,0.218543869832935,4,reviewed,mb,mb
 2024-02-22T20:43:10.918Z,18.0652,-100.2346,62.814,4.7,mb,56,177,1.608,0.63,us,us7000m0xa,2024-02-23T04:53:19.710Z,"11 km SE of El Terrero, Mexico",earthquake,9.68,7.912,0.034,267,reviewed,us,us
-2024-02-22T20:37:32.510Z,38.8313332,-122.8164978,1.72,0.79,md,16,51,0.009381,0.02,nc,nc74006216,2024-02-22T21:20:13.042Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.42,0.17,15,automatic,nc,nc
