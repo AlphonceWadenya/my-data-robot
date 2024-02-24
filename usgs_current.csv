@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-24T11:04:29.350Z,38.8406677,-122.8108368,1.98,1.07,md,24,48,0.01616,0.01,nc,nc74006996,2024-02-24T11:06:07.451Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.42,0.1,24,automatic,nc,nc
+2024-02-24T11:10:23.630Z,38.8061676,-122.7771683,1.86,0.53,md,8,98,0.007595,0.03,nc,nc74007001,2024-02-24T11:11:57.175Z,"4 km NNW of The Geysers, CA",earthquake,0.47,1.12,0.25,10,automatic,nc,nc
+2024-02-24T11:04:29.350Z,38.8406677,-122.8108368,1.98,1.07,md,24,48,0.01616,0.01,nc,nc74006996,2024-02-24T11:15:10.809Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.42,0.1,24,automatic,nc,nc
 2024-02-24T11:01:02.190Z,33.5925,-116.8115,7.03,0.33,ml,30,46,0.03958,0.15,ci,ci40675520,2024-02-24T11:07:24.715Z,"13 km WNW of Anza, CA",earthquake,0.17,0.51,0.146,6,automatic,ci,ci
 2024-02-24T10:52:26.189Z,62.9912,-151.0789,108.2,1.8,ml,,,,3.23,ak,ak0242j4tmgq,2024-02-24T10:55:13.696Z,"57 km NNW of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-02-24T10:48:17.060Z,38.8278351,-122.7948303,4.62,0.25,md,7,100,0.01112,0.01,nc,nc74006991,2024-02-24T10:58:10.683Z,"6 km W of Cobb, CA",earthquake,0.98,6.07,0.16,8,automatic,nc,nc
@@ -233,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-23T11:36:12.030Z,38.8383331,-122.8273315,1.93,0.55,md,9,97,0.006374,0.01,nc,nc74006471,2024-02-23T13:30:14.815Z,"9 km NW of The Geysers, CA",earthquake,0.4,0.89,0.3,11,automatic,nc,nc
 2024-02-23T11:21:40.030Z,38.491,-112.891166666667,2.33,0.95,md,16,53,0.006051,0.1,uu,uu80046936,2024-02-23T15:44:56.580Z,"14 km NE of Milford, Utah",earthquake,0.29,0.4,0.338960356539518,6,reviewed,uu,uu
 2024-02-23T11:19:15.410Z,48.49216666666667,-122.25833333333334,10.09,1.82,ml,42,33,0.0215,0.21,uw,uw61975327,2024-02-23T18:30:24.380Z,"2 km SW of Sedro-Woolley, Washington",earthquake,0.28,0.66,0.06910574928766167,29,reviewed,uw,uw
-2024-02-23T11:12:29.950Z,19.2029991149902,-155.398162841797,30.7000007629395,2.29999995,md,49,158,0.07677,0.129999995,hv,hv74118642,2024-02-23T23:11:50.510Z,"8 km E of Pāhala, Hawaii",earthquake,0.5,0.600000024,0.170000002,14,automatic,hv,hv
