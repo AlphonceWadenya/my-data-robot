@@ -227,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-23T14:51:52.240Z,40.2971649,-124.4899979,20.12,2.11,md,13,273,0.1131,0.06,nc,nc74006506,2024-02-23T16:59:13.025Z,"18 km W of Petrolia, CA",earthquake,1.7,0.5,0.15,9,automatic,nc,nc
 2024-02-23T14:46:24.310Z,38.8148346,-122.7884979,1.79,0.76,md,10,61,0.006303,0.02,nc,nc74006496,2024-02-23T16:17:13.769Z,"5 km NNW of The Geysers, CA",earthquake,0.51,0.74,0.48,10,automatic,nc,nc
 2024-02-23T14:43:33.130Z,33.8376667,-117.7088333,7.83,1.86,ml,63,39,0.03106,0.19,ci,ci40674928,2024-02-23T23:46:09.760Z,"10 km ENE of Villa Park, CA",earthquake,0.17,0.47,0.14,22,reviewed,ci,ci
-2024-02-23T14:38:07.490Z,36.41366667,-96.85816667,7.04,2.98,ml,42,59,0,0.21,ok,ok2024dtyq,2024-02-23T20:23:52.264Z,"9 km NNW of Pawnee, Oklahoma",earthquake,,0.3,0.22,17,reviewed,ok,ok
