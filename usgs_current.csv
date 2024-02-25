@@ -211,4 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-24T19:04:03.742Z,-23.0157,-70.5055,34.897,4.5,mb,27,143,0.915,0.73,us,us7000m1de,2024-02-24T19:20:04.040Z,"11 km NNW of Mejillones, Chile",earthquake,6.21,6.138,0.09,36,reviewed,us,us
 2024-02-24T19:00:40.380Z,38.8313332,-122.8180008,1.96,0.76,md,17,64,0.01006,0.02,nc,nc74007151,2024-02-24T20:38:14.072Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.56,0.17,18,automatic,nc,nc
 2024-02-24T18:53:24.200Z,38.8395004,-122.8099976,2.22,0.54,md,9,84,0.01539,0.01,nc,nc74007141,2024-02-24T19:41:17.739Z,"8 km WNW of Cobb, CA",earthquake,0.4,1.22,0.28,10,automatic,nc,nc
-2024-02-24T18:47:43.726Z,12.0774,124.9771,85.05,4.9,mb,78,91,5.011,0.76,us,us7000m1db,2024-02-25T15:18:48.270Z,"5 km WNW of San Jose de Buan, Philippines",earthquake,9.58,6.861,0.049,131,reviewed,us,us
