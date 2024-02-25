@@ -202,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-24T11:49:09.520Z,62.2481,-148.9509,17.9,1.2,ml,,,,0.32,ak,ak0242j5edmw,2024-02-24T11:53:17.810Z,"47 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-24T11:41:57.798Z,-5.813,128.8268,317.484,4.3,mb,45,81,1.672,0.7,us,us7000m1bg,2024-02-24T12:02:51.040Z,"244 km SSE of Ambon, Indonesia",earthquake,7.45,7.255,0.088,38,reviewed,us,us
 2024-02-24T11:41:35.679Z,65.367,-147.9857,13.3,1.1,ml,,,,0.48,ak,ak0242j5cpxb,2024-02-24T11:43:27.117Z,"31 km SE of Livengood, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-02-24T11:30:13.680Z,39.1213341,-122.9543304,1.92,2.03,md,16,82,0.09543,0.05,nc,nc74007006,2024-02-24T14:47:11.064Z,"6 km NW of North Lakeport, CA",earthquake,0.25,1.71,0.15,14,automatic,nc,nc
