@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-27T19:15:59.490Z,38.8375015,-122.7929993,2.2,0.72,md,11,78,0.002263,0.02,nc,nc74008951,2024-02-27T19:17:33.394Z,"6 km WNW of Cobb, CA",earthquake,0.38,0.61,0.14,12,automatic,nc,nc
 2024-02-27T18:18:23.950Z,38.8305016,-122.8160019,1.73,0.76,md,7,93,0.008473,0.01,nc,nc74008941,2024-02-27T18:19:57.785Z,"8 km NW of The Geysers, CA",earthquake,0.55,2.2,0.3,9,automatic,nc,nc
-2024-02-27T17:29:27.971Z,61.1339,-150.2525,57.7,3.4,ml,,,,0.67,ak,ak0242o7grse,2024-02-27T19:20:59.056Z,"21 km WSW of Anchorage, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2024-02-27T18:08:31.668Z,-24.3495,-67.1399,153.14,4.3,mb,20,115,1.686,0.59,us,us6000mfgt,2024-02-27T19:26:52.040Z,"84 km W of San Antonio de los Cobres, Argentina",earthquake,9.19,9.446,0.202,7,reviewed,us,us
+2024-02-27T17:29:27.971Z,61.1339,-150.2525,57.7,3.4,ml,,,,0.67,ak,ak0242o7grse,2024-02-27T19:26:04.725Z,"21 km WSW of Anchorage, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-02-27T17:27:21.660Z,38.4923333333333,-112.893833333333,2.29,0.72,md,13,53,0.007631,0.09,uu,uu80050391,2024-02-27T18:18:06.820Z,"14 km NE of Milford, Utah",earthquake,0.26,0.43,0.539118927861206,6,reviewed,uu,uu
 2024-02-27T17:11:48.450Z,38.8296661,-122.7958298,15.46,0.83,md,7,233,0.01277,0.06,nc,nc74008926,2024-02-27T17:13:23.133Z,"6 km W of Cobb, CA",earthquake,4.05,1.44,0.23,9,automatic,nc,nc
 2024-02-27T16:55:18.570Z,38.4975,-112.895666666667,1.99,0.81,md,14,82,0.00817,0.07,uu,uu80050376,2024-02-27T17:43:02.080Z,"15 km NE of Milford, Utah",earthquake,0.25,0.37,0.221308333360549,5,reviewed,uu,uu
