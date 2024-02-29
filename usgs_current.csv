@@ -234,6 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-28T17:45:39.650Z,60.7331666666667,-152.671333333333,11.72,0.25,ml,4,283,,0.14,av,av91134443,2024-02-29T00:46:07.970Z,"75 km W of Salamatof, Alaska",earthquake,1.55,2.94,0.226949936249224,4,reviewed,av,av
 2024-02-28T17:44:40.082Z,5.2251,94.7983,70.725,4.6,mb,51,174,2.14,0.69,us,us6000mfms,2024-02-28T21:01:48.040Z,"68 km WSW of Banda Aceh, Indonesia",earthquake,12.08,7.595,0.093,34,reviewed,us,us
 2024-02-28T17:43:07.108Z,60.691,-152.6645,17,1.8,ml,,,,0.54,ak,ak0242pv32ra,2024-02-28T17:45:01.653Z,"74 km W of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-02-28T17:38:23.573Z,31.4227,-114.3045,12.45,3.7,ml,24,151,0.605,0.59,us,us6000mfmk,2024-02-28T21:27:12.040Z,"34 km SSE of Golfo de Santa Clara, Mexico",earthquake,2.96,6.676,0.043,70,reviewed,us,us
-2024-02-28T17:37:10.510Z,19.1945,-155.3765,31.9,1.78,md,25,187,0.04716,0.1,hv,hv74123826,2024-02-28T19:15:33.410Z,"10 km E of Pāhala, Hawaii",earthquake,0.59,0.68,0.14980397237503,24,reviewed,hv,hv
-2024-02-28T17:34:55.990Z,33.9,-116.8275,16.38,1.03,ml,34,59,0.07083,0.11,ci,ci40678152,2024-02-28T19:34:29.410Z,"4 km WSW of Cabazon, CA",earthquake,0.14,0.41,0.15,21,reviewed,ci,ci
