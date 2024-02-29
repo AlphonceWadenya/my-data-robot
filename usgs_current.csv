@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-29T13:16:15.848Z,60.4269,-152.2832,77.3,2.7,ml,,,,0.74,ak,ak0242rg2x5x,2024-02-29T13:20:21.978Z,"53 km WNW of Clam Gulch, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-02-29T13:05:46.470Z,36.5984993,-121.24617,4.63,2.47,md,50,114,0.05575,0.13,nc,nc74009846,2024-02-29T13:08:36.260Z,"12 km NW of Pinnacles, CA",earthquake,0.25,0.72,0.17,56,automatic,nc,nc
 2024-02-29T12:55:23.940Z,33.2453333,-116.0786667,2.66,1.34,ml,57,61,0.08515,0.24,ci,ci40678768,2024-02-29T13:02:11.644Z,"12 km NNE of Ocotillo Wells, CA",earthquake,0.18,0.37,0.133,27,automatic,ci,ci
 2024-02-29T12:45:33.858Z,62.012,-150.4839,34.6,2.2,ml,,,,0.96,ak,ak0242rfnqpa,2024-02-29T12:47:20.580Z,"36 km SSW of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -228,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-28T13:44:33.150Z,38.8408318,-122.7624969,1.31,0.78,md,10,185,0.011,0.02,nc,nc74009271,2024-02-28T13:46:09.866Z,"4 km WNW of Cobb, CA",earthquake,0.39,0.45,0.12,11,automatic,nc,nc
 2024-02-28T13:43:34.279Z,41.9814,142.5126,56.648,4.8,mb,140,127,0.482,0.69,us,us6000mflb,2024-02-28T15:47:00.040Z,"29 km SW of Urakawa, Japan",earthquake,6.18,7.046,0.035,262,reviewed,us,us
 2024-02-28T13:34:10.086Z,63.4314,-148.2493,4.3,2,ml,,,,0.97,ak,ak0242psnf4g,2024-02-28T13:37:05.005Z,"35 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-02-28T13:24:54.853Z,38.5232,-119.5203,7.4,1.3,ml,8,114.75,0.185,0.1254,nn,nn00874018,2024-02-28T20:39:27.120Z,"3 km WNW of Walker, California",earthquake,,6,0.15,3,reviewed,nn,nn
