@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-02T02:33:06.870Z,33.9410019,-116.9373322,17.22,1.03,ml,22,121,0.1351,0.2,ci,ci40679944,2024-03-02T02:35:21.999Z,"4 km ENE of Beaumont, CA",earthquake,0.47,1.15,0.211,6,automatic,ci,ci
 2024-03-02T02:07:31.238Z,64.4887,-146.9225,0.2,1.4,ml,,,,0.47,ak,ak0242ukjy8z,2024-03-02T02:29:18.235Z,"4 km SSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-02T02:06:10.160Z,34.3443333,-116.8901667,-0.72,1.36,ml,33,140,0.08566,0.18,ci,ci40679936,2024-03-02T02:12:32.218Z,"10 km NNW of Big Bear City, CA",earthquake,0.28,0.46,0.168,29,automatic,ci,ci
 2024-03-02T01:43:24.190Z,34.3433333,-116.8875,-1.15,1.33,ml,41,40,0.08539,0.19,ci,ci40679920,2024-03-02T01:49:57.840Z,"10 km NNW of Big Bear City, CA",earthquake,0.19,0.42,0.201,28,automatic,ci,ci
@@ -252,5 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-01T02:38:31.550Z,38.8156662,-122.8181686,3.02,0.69,md,7,98,0.009977,0.02,nc,nc74010106,2024-03-01T02:40:05.111Z,"7 km NW of The Geysers, CA",earthquake,0.68,2.21,0.11,9,automatic,nc,nc
 2024-03-01T02:37:09.580Z,38.947,-123.4186667,0.52,1.25,md,14,77,0.06794,0.1,nc,nc74010101,2024-03-01T05:24:24.566Z,"8 km SSW of Boonville, CA",earthquake,0.27,1.8,0.126,10,reviewed,nc,nc
 2024-03-01T02:36:33.390Z,38.9443321,-123.4179993,-0.38,2.29,md,16,65,0.06915,0.09,nc,nc74010096,2024-03-01T02:38:10.087Z,"8 km SSW of Boonville, CA",earthquake,0.3,3.29,0.15,17,automatic,nc,nc
-2024-03-01T02:34:57.690Z,38.7680016,-122.7020035,1.84,1.29,md,7,145,0.002136,0.02,nc,nc74010091,2024-03-01T02:36:30.048Z,"1 km SW of Anderson Springs, CA",earthquake,0.51,0.37,0.14,7,automatic,nc,nc
-2024-03-01T02:34:09.641Z,40.9416,-119.1282,10.8,2.3,ml,7,96.38,0.898,0.1367,nn,nn00874090,2024-03-02T02:03:29.857Z,"20 km NNE of Black Rock City, Nevada",earthquake,,4.6,0.23,6,reviewed,nn,nn
