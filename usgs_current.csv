@@ -200,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-03T00:07:27.997Z,31.7803,-101.9114,5,2.7,mb_lg,33,44,0.184,0.59,us,us6000mgdi,2024-03-03T04:09:00.040Z,"28 km SSE of Midland, Texas",earthquake,1.56,1.8,0.114,37,reviewed,us,us
 2024-03-03T00:04:56.700Z,38.8318329,-122.8184967,1.81,1.08,md,8,135,0.01069,0.02,nc,nc74010851,2024-03-03T00:06:30.000Z,"8 km NW of The Geysers, CA",earthquake,0.39,1.18,0.12,11,automatic,nc,nc
 2024-03-02T23:47:19.875Z,31.633,-104.232,5.0208,2,ml,18,67,0,0.5,tx,tx2024ejgu,2024-03-03T00:04:37.147Z,"54 km NW of Toyah, Texas",earthquake,0,2.68012200661405,0.2,13,automatic,tx,tx
-2024-03-02T23:41:21.294Z,61.3632,-149.741,29.6,1.6,ml,,,,0.56,ak,ak0242ux9bj5,2024-03-02T23:43:09.048Z,"10 km WNW of Eagle River, Alaska",earthquake,,0.3,,,automatic,ak,ak
