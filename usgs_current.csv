@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-05T18:56:51.710Z,36.1416664,-117.8653336,7.65,1.27,ml,11,197,0.02549,0.12,ci,ci40681472,2024-03-05T18:58:55.101Z,"13 km NE of Coso Junction, CA",earthquake,0.61,0.93,0.396,5,automatic,ci,ci
+2024-03-05T18:55:18.800Z,38.8110008,-122.8184967,2.92,1.08,md,27,54,0.008613,0.05,nc,nc74012176,2024-03-05T18:56:54.186Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.48,0.12,27,automatic,nc,nc
+2024-03-05T18:54:50.530Z,19.1908340454102,-155.499328613281,31.9500007629395,2.52,ml,50,71,0.04979,0.109999999,hv,hv74129071,2024-03-05T18:57:29.060Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.38,0.649999976,0.26,8,automatic,hv,hv
 2024-03-05T18:46:09.380Z,19.4249992370605,-155.386001586914,4.73999977111816,1.87,ml,35,71,0.06711,0.239999995,hv,hv74129066,2024-03-05T18:48:46.440Z,"16 km W of Volcano, Hawaii",earthquake,0.38,1.63999999,0.14,5,automatic,hv,hv
 2024-03-05T18:38:16.936Z,60.0333,-152.9309,114,1.4,ml,,,,0.37,ak,ak0242zsvji5,2024-03-05T18:39:59.361Z,"67 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-05T18:29:18.420Z,38.8443336,-122.8208313,9.12,0.72,md,9,106,0.0105,0.06,nc,nc74012171,2024-03-05T18:30:53.836Z,"9 km WNW of Cobb, CA",earthquake,1.39,7.48,0.12,10,automatic,nc,nc
@@ -223,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-04T19:13:03.060Z,38.8343315,-122.7906647,1.74,0.74,md,11,85,0.004079,0.02,nc,nc74011756,2024-03-04T19:14:40.147Z,"6 km WNW of Cobb, CA",earthquake,0.4,1.16,0.16,11,automatic,nc,nc
 2024-03-04T19:05:37.250Z,38.496,-112.9,2.48,0.95,md,17,48,0.01187,0.11,uu,uu80060726,2024-03-04T19:38:20.610Z,"14 km NE of Milford, Utah",earthquake,0.25,0.43,0.263853822060338,7,reviewed,uu,uu
 2024-03-04T19:02:01.150Z,38.4966666666667,-112.897,2.6,-0.04,md,12,79,0.009493,0.07,uu,uu80060721,2024-03-04T21:05:26.620Z,"14 km NE of Milford, Utah",earthquake,0.29,0.42,0.213438034876865,2,reviewed,uu,uu
-2024-03-04T18:58:14.686Z,36.8923,142.2066,29.154,4.4,mb,43,172,3.231,0.69,us,us6000mgqi,2024-03-04T19:40:39.040Z,"116 km ESE of Tomioka, Japan",earthquake,9.06,6.091,0.096,31,reviewed,us,us
