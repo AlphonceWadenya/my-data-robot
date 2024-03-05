@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-05T05:38:11.190Z,34.0284996,-116.8546677,12.76,1.02,ml,28,93,0.0395,0.18,ci,ci40681056,2024-03-05T05:40:25.711Z,"12 km N of Banning, CA",earthquake,0.32,0.88,0.142,6,automatic,ci,ci
 2024-03-05T05:22:40.770Z,38.7960014,-122.7556686,0.78,0.76,md,10,198,0.005594,0.02,nc,nc74011966,2024-03-05T05:24:16.442Z,"2 km N of The Geysers, CA",earthquake,0.5,0.47,0.06,11,automatic,nc,nc
 2024-03-05T05:22:24.772Z,58.1884,-155.2683,0,1.2,ml,,,,0.84,ak,ak0242zl1hsd,2024-03-05T05:23:56.982Z,"84 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-05T05:14:35.710Z,38.8048325,-122.7766647,14.65,0.88,md,5,118,0.008981,0.13,nc,nc74011961,2024-03-05T05:16:06.826Z,"4 km NNW of The Geysers, CA",earthquake,5.09,13.02,0.05,2,automatic,nc,nc
@@ -230,5 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-04T05:57:19.288Z,-59.35,-25.4897,27.052,4.9,mb,39,146,19.811,0.33,us,us6000mglf,2024-03-04T06:13:22.040Z,"South Sandwich Islands region",earthquake,14.05,7.468,0.089,40,reviewed,us,us
 2024-03-04T05:51:15.600Z,38.8323326,-122.7994995,2.14,1.11,md,23,48,0.009378,0.02,nc,nc74011546,2024-03-04T05:52:49.324Z,"7 km W of Cobb, CA",earthquake,0.2,0.47,0.2,25,automatic,nc,nc
 2024-03-04T05:50:52.620Z,38.8320007,-122.7990036,2.13,0.84,md,15,49,0.009311,0.01,nc,nc74011541,2024-03-04T05:52:29.280Z,"7 km W of Cobb, CA",earthquake,0.26,0.64,0.21,17,automatic,nc,nc
-2024-03-04T05:39:59.350Z,38.4321666666667,-112.328833333333,2.18,2.05,ml,25,100,0.1435,0.13,uu,uu80059716,2024-03-04T14:27:50.780Z,"8 km WSW of Marysvale, Utah",earthquake,0.38,3.64,0.256656207871461,7,reviewed,uu,uu
-2024-03-04T05:37:04.110Z,33.9746667,-116.6391667,16.23,0.92,ml,40,40,0.06411,0.17,ci,ci40680528,2024-03-04T18:22:08.841Z,"10 km SW of Morongo Valley, CA",earthquake,0.2,0.55,0.151,12,reviewed,ci,ci
