@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-07T19:12:00.872Z,58.1776,-154.7001,22.5,0.9,ml,,,,0.84,ak,ak024334e28n,2024-03-07T19:13:30.320Z,"69 km NNW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-03-07T19:09:15.200Z,38.8364983,-122.7751694,1.09,0.34,md,8,153,0.00617,0.02,nc,nc74013291,2024-03-07T19:10:49.245Z,"5 km WNW of Cobb, CA",earthquake,0.83,0.96,0.22,9,automatic,nc,nc
 2024-03-07T19:07:01.214Z,64.0643,-144.9073,8.9,1.8,ml,,,,0.99,ak,ak024334czph,2024-03-07T19:10:43.105Z,"13 km NW of Healy Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-07T19:06:54.310Z,38.8296661,-122.8160019,1.79,0.44,md,13,63,0.007788,0.01,nc,nc74013286,2024-03-07T19:08:29.294Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.7,0.32,14,automatic,nc,nc
@@ -7,8 +8,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-07T18:58:07.785Z,58.5378,-155.7773,80.1,1.6,ml,,,,1.02,ak,ak0243342i3u,2024-03-07T18:59:51.553Z,"54 km ESE of King Salmon, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2024-03-07T18:48:09.080Z,38.6749992,-122.4763336,4.34,0.95,md,7,196,0.2708,0.15,nc,nc74013281,2024-03-07T18:49:45.033Z,"11 km NNW of Angwin, CA",earthquake,6.07,10.98,,1,automatic,nc,nc
 2024-03-07T18:37:34.890Z,62.1688,-152.0289,110.8,2,ml,,,,0.71,ak,ak024333y25t,2024-03-07T18:40:35.961Z,"38 km WNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-03-07T18:30:32.970Z,35.717,-118.2475,10.55,1.38,ml,29,37,0.02171,0.12,ci,ci40683104,2024-03-07T18:41:29.120Z,"17 km ESE of Kernville, CA",earthquake,0.17,0.29,0.201,19,automatic,ci,ci
-2024-03-07T18:30:00.800Z,35.4388333,-118.7336667,5.26,1.62,ml,28,41,0.04246,0.17,ci,ci40683096,2024-03-07T18:37:03.548Z,"26 km NE of Lamont, CA",earthquake,0.2,0.48,0.242,27,automatic,ci,ci
+2024-03-07T18:30:32.970Z,35.717,-118.2475,10.55,1.38,ml,29,37,0.02171,0.12,ci,ci40683104,2024-03-07T19:18:26.902Z,"17 km ESE of Kernville, CA",earthquake,0.17,0.29,0.201,19,reviewed,ci,ci
+2024-03-07T18:30:00.800Z,35.4388333,-118.7336667,5.26,1.62,ml,28,41,0.04246,0.17,ci,ci40683096,2024-03-07T19:18:37.904Z,"26 km NE of Lamont, CA",earthquake,0.2,0.48,0.242,27,reviewed,ci,ci
 2024-03-07T17:45:12.072Z,60.387,-141.2539,4,1.8,ml,,,,0.63,ak,ak024333eaiv,2024-03-07T17:46:49.616Z,"126 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-07T17:45:08.410Z,18.2153333333333,-66.548,74,2.91,md,20,75,0.1358,0.1,pr,pr71442298,2024-03-07T18:00:04.250Z,"4 km E of Jayuya, Puerto Rico",earthquake,0.79,0.62,0.143877201141304,16,reviewed,pr,pr
 2024-03-07T17:44:15.320Z,38.8226662,-122.8535004,2.26,0.27,md,9,178,0.005538,0.01,nc,nc74013246,2024-03-07T17:45:49.431Z,"10 km WNW of The Geysers, CA",earthquake,0.59,1.24,0.16,8,automatic,nc,nc
@@ -223,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-06T19:36:48.780Z,36.8871651,-121.6146698,0.97,2.07,md,17,61,0.0184,0.08,nc,nc74012756,2024-03-06T19:38:23.101Z,"2 km E of Aromas, CA",earthquake,0.23,0.54,0.16,10,automatic,nc,nc
 2024-03-06T19:36:07.770Z,38.8416672,-122.8773346,2.76,0.75,md,10,111,0.007006,0.02,nc,nc74012751,2024-03-06T19:37:43.071Z,"13 km NW of The Geysers, CA",earthquake,0.48,0.77,0.15,11,automatic,nc,nc
 2024-03-06T19:27:01.825Z,-10.7836,165.5646,36.102,5,mb,68,97,5.69,0.7,us,us7000m3re,2024-03-06T19:55:10.040Z,"26 km WSW of Lata, Solomon Islands",earthquake,9.78,6.803,0.049,131,reviewed,us,us
-2024-03-06T19:16:14.080Z,44.7646666666667,-110.849666666667,7.16,0.02,md,6,112,0.02367,0.04,uu,uu80061991,2024-03-06T21:46:04.210Z,"23 km ENE of West Yellowstone, Montana",earthquake,0.84,1.77,0.163868848445446,5,reviewed,uu,uu
