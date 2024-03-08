@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-08T21:53:46.010Z,18.888500213623,-155.161331176758,14.2600002288818,2.3499999,md,46,260,0.3892,0.239999995,hv,hv74131866,2024-03-08T21:55:52.530Z,"48 km SE of Pāhala, Hawaii",earthquake,2.18,2.6400001,0.25,9,automatic,hv,hv
 2024-03-08T21:26:20.390Z,33.5631667,-116.6651667,9.7,0.52,ml,24,72,0.02911,0.09,ci,ci40683896,2024-03-08T21:32:19.249Z,"1 km NE of Anza, CA",earthquake,0.18,0.31,0.119,17,automatic,ci,ci
 2024-03-08T21:17:39.984Z,36.8369,-115.8593,13.6,0.5,ml,12,226.25,0.14,0.244,nn,nn00874403,2024-03-08T21:19:49.110Z,"34 km NNW of Indian Springs, Nevada",earthquake,,1.5,0.25,8,automatic,nn,nn
 2024-03-08T21:12:34.620Z,33.9813333,-116.6881667,12.95,1.09,ml,33,91,0.0661,0.12,ci,ci40683872,2024-03-08T21:38:22.035Z,"12 km NE of Cabazon, CA",earthquake,0.17,0.47,0.216,19,reviewed,ci,ci
 2024-03-08T21:10:36.291Z,62.3284,-149.588,51.1,1.8,ml,,,,0.41,ak,ak02434t3x8t,2024-03-08T21:13:06.139Z,"23 km NE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-03-08T21:09:41.350Z,32.7960014,-117.4513321,15.7,3.34,ml,94,153,0.1828,0.23,ci,ci40683864,2024-03-08T21:49:51.692Z,"18 km WSW of La Jolla, CA",earthquake,0.42,0.55,0.333,19,automatic,ci,ci
+2024-03-08T21:09:41.350Z,32.7960014,-117.4513321,15.7,3.34,ml,94,153,0.1828,0.23,ci,ci40683864,2024-03-08T21:54:54.628Z,"18 km WSW of La Jolla, CA",earthquake,0.42,0.55,0.333,19,automatic,ci,ci
 2024-03-08T20:59:01.010Z,61.9185,-150.6866,5.1,2.1,ml,,,,0.49,ak,ak02434ssx05,2024-03-08T21:01:12.429Z,"38 km ESE of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-08T20:54:03.810Z,33.6345,-116.6936667,14.08,0.83,ml,36,50,0.0381,0.13,ci,ci40683840,2024-03-08T21:02:10.630Z,"9 km NNW of Anza, CA",earthquake,0.17,0.29,0.158,25,automatic,ci,ci
 2024-03-08T20:52:19.960Z,33.612,-116.6703333,-1.27,0.54,ml,12,92,0.05609,0.3,ci,ci40683832,2024-03-08T20:59:05.161Z,"6 km N of Anza, CA",earthquake,0.98,25.75,0.206,7,automatic,ci,ci
@@ -44,6 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-08T17:46:51.352Z,65.1918,-152.7137,8.3,1.8,ml,,,,0.72,ak,ak02434qxxq5,2024-03-08T17:49:44.256Z,"29 km W of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-08T17:21:55.815Z,-22.127,-179.6194,598.213,5.3,mww,217,22,4.878,0.79,us,us7000m486,2024-03-08T18:33:57.040Z,"south of the Fiji Islands",earthquake,9.58,5.196,0.11,8,reviewed,us,us
 2024-03-08T17:18:47.170Z,44.2898,-114.9924,11.178,2.5,ml,30,36,0.211,0.59,us,us7000m485,2024-03-08T20:29:07.040Z,"9 km NNW of Stanley, Idaho",earthquake,1.13,7.461,0.039,88,reviewed,us,us
+2024-03-08T17:14:01.530Z,31.669,-104.195,6.2537,2,ml,26,62,0.1,0.1,tx,tx2024etsv,2024-03-08T21:56:20.649Z,"54 km NW of Toyah, Texas",earthquake,0.6425223600422081,0.8193925730216233,0.2,21,reviewed,tx,tx
 2024-03-08T17:00:25.810Z,19.136999130249,-155.371170043945,28.5699996948242,2.46,ml,40,184,0.0879,0.129999995,hv,hv74131646,2024-03-08T19:37:46.040Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.56,0.689999998,0.1,4,automatic,hv,hv
 2024-03-08T16:56:45.410Z,34.1551667,-118.3623333,15.97,1.96,ml,15,82,0.06337,0.17,ci,ci40683568,2024-03-08T17:03:32.114Z,"2 km NNW of Universal City, CA",earthquake,0.4,0.65,0.459,29,automatic,ci,ci
 2024-03-08T16:51:02.670Z,38.7633324,-122.73983,1.12,0.78,md,8,98,0.01121,0.02,nc,nc74013806,2024-03-08T16:52:39.073Z,"2 km SE of The Geysers, CA",earthquake,0.29,0.55,0.05,8,automatic,nc,nc
