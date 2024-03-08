@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-08T20:34:31.950Z,33.9920006,-117.1520004,16.17,1.29,ml,32,141,0.04774,0.14,ci,ci40683800,2024-03-08T20:36:34.411Z,"8 km SSE of Redlands, CA",earthquake,0.39,0.68,0.185,8,automatic,ci,ci
 2024-03-08T20:25:02.482Z,64.9716,-147.4336,2.3,1.5,ml,,,,0.56,ak,ak02434sljhn,2024-03-08T20:27:16.586Z,"8 km E of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-08T20:22:12.880Z,38.7840004,-122.7248306,1.04,1.06,md,13,84,0.02237,0.04,nc,nc74013936,2024-03-08T20:23:48.433Z,"3 km ENE of The Geysers, CA",earthquake,0.26,0.77,0.09,12,automatic,nc,nc
-2024-03-08T20:00:46.560Z,33.8673333,-117.5076667,1.97,1.23,ml,26,57,0.07209,0.21,ci,ci40683768,2024-03-08T20:07:06.723Z,"2 km SE of Home Gardens, CA",earthquake,0.26,0.37,0.396,33,automatic,ci,ci
+2024-03-08T20:00:46.500Z,33.8705,-117.5053333,1.44,0.99,ml,18,57,0.07295,0.19,ci,ci40683768,2024-03-08T20:40:24.595Z,"2 km ESE of Home Gardens, CA",earthquake,0.32,0.47,0.178,6,reviewed,ci,ci
 2024-03-08T20:00:05.233Z,62.3044,-150.4274,22,1.2,ml,,,,0.4,ak,ak02434sga32,2024-03-08T20:02:32.471Z,"10 km W of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-08T19:42:45.350Z,35.53333333,-96.7615,6,1.75,ml,66,46,0.008098410816,0.19,ok,ok2024etxs,2024-03-08T19:56:35.091Z,"8 km NW of Prague, Oklahoma",earthquake,,0.2,0.23,21,reviewed,ok,ok
 2024-03-08T19:38:01.745Z,36.86,-116.2356,4.2,1,ml,21,72.97,0.044,0.1555,nn,nn00874395,2024-03-08T19:39:45.067Z,"46 km E of Beatty, Nevada",earthquake,,1.3,0.6,15,automatic,nn,nn
@@ -104,7 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-08T10:17:17.334Z,31.68,-104.406,6.1511,1.5,ml,15,69,0,0.2,tx,tx2024etfb,2024-03-08T12:33:57.520Z,"55 km S of Whites City, New Mexico",earthquake,0.8747508318249926,0.9541103853924933,0.1,13,reviewed,tx,tx
 2024-03-08T10:08:45.220Z,33.1953333,-116.033,6.79,1.84,ml,76,23,0.0512,0.18,ci,ci40683400,2024-03-08T19:48:14.090Z,"11 km ENE of Ocotillo Wells, CA",earthquake,0.12,0.44,0.173,24,reviewed,ci,ci
 2024-03-08T10:08:31.370Z,38.8274994,-122.8503342,1.52,0.61,md,8,155,0.01273,0.01,nc,nc74013631,2024-03-08T10:10:07.897Z,"10 km NW of The Geysers, CA",earthquake,0.45,1.03,0.41,9,automatic,nc,nc
-2024-03-08T09:53:13.045Z,-33.8349,150.427,8.356,3.5,ml,6,201,1.893,0.46,us,us7000m44b,2024-03-08T20:31:44.023Z,"11 km S of Bullaburra, Australia",earthquake,7.44,7.8,0.148,6,reviewed,us,us
+2024-03-08T09:53:13.045Z,-33.8349,150.427,8.356,3.5,ml,6,201,1.893,0.46,us,us7000m44b,2024-03-08T20:37:12.065Z,"11 km S of Bullaburra, Australia",earthquake,7.44,7.8,0.148,6,reviewed,us,us
 2024-03-08T09:24:45.110Z,44.4718333333333,-116.239666666667,5,1.88,ml,7,103,0.4172,0.13,mb,mb90042803,2024-03-08T14:34:17.180Z,"16 km WSW of Cascade, Idaho",earthquake,0.47,9.92,0.171624094052265,8,reviewed,mb,mb
 2024-03-08T09:22:37.970Z,33.469,-116.5221667,13.71,0.73,ml,38,54,0.07163,0.18,ci,ci40683392,2024-03-08T19:05:05.658Z,"17 km SE of Anza, CA",earthquake,0.2,0.51,0.096,17,reviewed,ci,ci
 2024-03-08T09:15:10.157Z,62.7603,-149.1419,56.7,1.5,ml,,,,0.43,ak,ak02434lzqjr,2024-03-08T09:16:59.985Z,"60 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -244,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-07T20:46:45.448Z,-11.3703,118.7824,10,4.5,mb,30,53,2.714,0.56,us,us7000m406,2024-03-07T21:17:00.040Z,"220 km SSW of Tambolaka, Indonesia",earthquake,4.68,1.855,0.118,21,reviewed,us,us
 2024-03-07T20:46:07.010Z,60.0065,-153.077333333333,-2.07,-0.66,ml,4,132,,0.12,av,av92225166,2024-03-08T01:11:33.070Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.36,3.05,0.154277512564971,4,reviewed,av,av
 2024-03-07T20:42:10.210Z,37.3676682,-121.7268295,7.42,1.49,md,23,63,0.1012,0.06,nc,nc74013331,2024-03-07T20:43:45.337Z,"9 km E of Alum Rock, CA",earthquake,0.17,0.62,0.13,14,automatic,nc,nc
-2024-03-07T20:39:56.380Z,38.8224983,-122.8529968,2.57,0.64,md,12,134,0.01405,0.01,nc,nc74013326,2024-03-07T20:41:30.248Z,"10 km WNW of The Geysers, CA",earthquake,0.43,0.78,0.26,12,automatic,nc,nc
