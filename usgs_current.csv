@@ -237,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-11T13:57:47.033Z,62.0072,-148.8747,31.5,2.2,ml,,,,0.56,ak,ak02439n8ldb,2024-03-11T13:59:17.242Z,"26 km NNW of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-11T13:39:18.660Z,45.2971666666667,-112.271833333333,3.83,0.31,ml,4,124,0.1754,0.06,mb,mb90042988,2024-03-11T23:08:19.150Z,"13 km WSW of Alder, Montana",earthquake,0.44,7.23,0.217626225506852,2,reviewed,mb,mb
 2024-03-11T13:35:11.082Z,41.0693,78.4242,5.695,4.4,mb,23,125,0.613,0.58,us,us7000m4nk,2024-03-11T14:17:21.040Z,"143 km NNW of Tumxuk, China",earthquake,3.84,4.884,0.162,11,reviewed,us,us
-2024-03-11T13:27:41.740Z,38.8325005,-122.8143311,1.6,1.04,md,22,44,0.009681,0.02,nc,nc74015586,2024-03-11T13:29:13.710Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.39,0.21,23,automatic,nc,nc
