@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-12T21:30:19.440Z,19.5191669464111,-155.958160400391,11.4099998474121,2.22000003,md,16,245,0.04959,0.239999995,hv,hv74135186,2024-03-12T21:32:14.730Z,"3 km W of Kealakekua, Hawaii",earthquake,1.65,0.839999974,0.270000011,4,automatic,hv,hv
 2024-03-12T21:23:49.950Z,38.8264999,-122.7896652,1.65,1.3,md,18,43,0.01497,0.05,nc,nc74016456,2024-03-12T21:25:25.124Z,"6 km W of Cobb, CA",earthquake,0.26,0.58,0.25,20,automatic,nc,nc
 2024-03-12T21:19:09.047Z,36.6276,-115.2003,1.3,1.6,ml,8,250.29,0.765,0.2895,nn,nn00874655,2024-03-12T21:21:31.757Z,"42 km E of Indian Springs, Nevada",earthquake,,0,1.1,6,automatic,nn,nn
 2024-03-12T21:08:55.710Z,38.8413315,-122.8393326,1.99,0.75,md,10,88,0.004064,0.01,nc,nc74016451,2024-03-12T21:10:30.974Z,"10 km NW of The Geysers, CA",earthquake,0.35,0.73,0.09,12,automatic,nc,nc
