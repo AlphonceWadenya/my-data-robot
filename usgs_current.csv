@@ -226,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-11T22:18:34.410Z,46.30283333333333,-118.0495,-0.5,1.44,ml,16,88,0.09382,0.27,uw,uw61980627,2024-03-12T16:27:26.210Z,"6 km WSW of Dayton, Washington",explosion,0.44,31.61,0.11034418272810398,7,reviewed,uw,uw
 2024-03-11T22:16:46.493Z,32.431,-102.115,6.8115,2.3,ml,27,87,0,0.1,tx,tx2024ezpi,2024-03-12T21:01:48.242Z,"36 km SSW of Los Ybanez, Texas",earthquake,0.5645959245050437,0.791404052538382,0,7,reviewed,tx,tx
 2024-03-11T22:11:38.045Z,28.976,-97.986,0.0244,2.7,ml,16,67,0.1,0.2,tx,tx2024ezpd,2024-03-12T11:21:40.123Z,"3 km ESE of Falls City, Texas",earthquake,0.7169552903229975,1.5026542949454773,0.1,19,reviewed,tx,tx
-2024-03-11T21:47:52.263Z,39.7196,-119.8599,10.5,0.7,ml,4,123.62,0.137,0.0861,nn,nn00874581,2024-03-12T00:40:56.857Z,"9 km N of Lemmon Valley, Nevada",earthquake,,4.3,0.47,4,reviewed,nn,nn
