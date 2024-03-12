@@ -243,4 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-11T11:26:31.460Z,44.3723333333333,-116.114333333333,9.95,2.65,ml,18,57,0.3577,0.12,mb,mb90042933,2024-03-11T14:31:34.130Z,"8 km NNW of Smiths Ferry, Idaho",earthquake,0.3,0.54,0.268309893271974,25,reviewed,mb,mb
 2024-03-11T11:16:48.476Z,63.4657,-148.8534,6.2,1.6,ml,,,,0.47,ak,ak02439lsxwv,2024-03-11T11:18:50.866Z,"9 km NNE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-11T10:55:01.644Z,63.1911,-150.5425,131.2,1.9,ml,,,,0.18,ak,ak02439lfrmc,2024-03-11T10:57:07.296Z,"70 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2024-03-11T10:48:57.040Z,33.4738333,-116.4665,10.98,1.15,ml,69,38,0.09933,0.19,ci,ci40685488,2024-03-11T13:10:36.300Z,"21 km ESE of Anza, CA",earthquake,0.14,0.4,0.162,26,reviewed,ci,ci
