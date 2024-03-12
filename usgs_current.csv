@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-12T14:51:49.949Z,58.2801,-154.8845,11.7,1.1,ml,,,,0.6,ak,ak0243bbc3ea,2024-03-12T14:54:29.163Z,"83 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-12T14:48:04.980Z,38.8301659,-122.8150024,1.75,0.77,md,17,53,0.00778,0.02,nc,nc74016316,2024-03-12T14:49:39.560Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.62,0.16,18,automatic,nc,nc
 2024-03-12T14:30:20.910Z,38.8180008,-122.8529968,2.13,1.4,md,26,90,0.01,0.02,nc,nc74016311,2024-03-12T14:31:55.459Z,"10 km WNW of The Geysers, CA",earthquake,0.21,0.33,0.16,29,automatic,nc,nc
 2024-03-12T14:25:43.530Z,38.8178329,-122.8526688,2.06,1.02,md,18,117,0.01024,0.02,nc,nc74016301,2024-03-12T14:27:20.361Z,"10 km WNW of The Geysers, CA",earthquake,0.25,0.41,0.11,19,automatic,nc,nc
@@ -235,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-11T15:12:06.380Z,38.8356667,-122.7886658,1.91,0.75,md,13,72,0.003036,0.01,nc,nc74015636,2024-03-11T15:13:39.876Z,"6 km WNW of Cobb, CA",earthquake,0.31,0.49,0.35,14,automatic,nc,nc
 2024-03-11T14:58:04.240Z,35.52283333,-96.76633333,5.12,1.7,ml,70,31,0.01259752794,0.24,ok,ok2024ezav,2024-03-11T16:12:03.436Z,"8 km WNW of Prague, Oklahoma",earthquake,,0.3,0.23,27,reviewed,ok,ok
 2024-03-11T14:57:35.463Z,64.4851,-146.8888,0.1,1.4,ml,,,,0.53,ak,ak02439nu02y,2024-03-11T15:03:36.876Z,"4 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-03-11T14:56:40.550Z,38.8001671,-122.7541656,4.57,0.66,md,10,97,0.02172,0.03,nc,nc74015631,2024-03-11T14:58:14.686Z,"3 km N of The Geysers, CA",earthquake,0.39,1.4,0.18,11,automatic,nc,nc
