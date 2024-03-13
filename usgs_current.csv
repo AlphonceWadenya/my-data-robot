@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-03-13T20:14:15.060Z,38.8305016,-122.8174973,1.89,1.08,md,19,50,0.009164,0.02,nc,nc74017141,2024-03-13T20:15:48.500Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.43,0.13,22,automatic,nc,nc
 2024-03-13T20:08:40.883Z,31.743,-104.144,6.5152,2.6,ml,20,60,0,0.2,tx,tx2024fdcb,2024-03-13T20:16:23.521Z,"51 km W of Mentone, Texas",earthquake,0,2.54717042297846,0.2,15,automatic,tx,tx
+2024-03-13T20:06:33.505Z,-49.6552,125.9332,10,5.5,mww,38,70,16.22,1.06,us,us6000mipe,2024-03-13T20:24:29.040Z,"western Indian-Antarctic Ridge",earthquake,11.19,1.88,0.069,20,reviewed,us,us
 2024-03-13T20:04:11.590Z,32.7628333,-115.8545,9.16,1.68,ml,32,45,0.1284,0.19,ci,ci40686760,2024-03-13T20:15:05.190Z,"13 km ENE of Ocotillo, CA",earthquake,0.22,0.59,0.24,29,automatic,ci,ci
 2024-03-13T20:00:11.890Z,38.8468323,-122.8180008,1.83,0.67,md,10,93,0.008862,0.01,nc,nc74017131,2024-03-13T20:01:47.342Z,"9 km WNW of Cobb, CA",earthquake,0.31,0.7,0.09,11,automatic,nc,nc
 2024-03-13T19:47:10.580Z,38.8209991,-122.8511658,2.14,0.55,md,10,124,0.007912,0.01,nc,nc74017126,2024-03-13T19:48:43.107Z,"10 km WNW of The Geysers, CA",earthquake,0.36,0.74,0.29,11,automatic,nc,nc
