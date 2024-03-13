@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-03-13T14:31:00.230Z,33.5876667,-116.6325,12.6,0.84,ml,35,44,0.021,0.11,ci,ci40686552,2024-03-13T14:37:14.417Z,"5 km NE of Anza, CA",earthquake,0.16,0.26,0.127,23,automatic,ci,ci
+2024-03-13T14:31:00.230Z,33.5876667,-116.6325,12.6,0.84,ml,35,44,0.021,0.11,ci,ci40686552,2024-03-13T14:45:51.776Z,"5 km NE of Anza, CA",earthquake,0.16,0.26,0.127,23,automatic,ci,ci
 2024-03-13T14:30:12.076Z,63.545,-149.5978,102.8,1.9,ml,,,,0.43,ak,ak0243cyquxb,2024-03-13T14:32:45.985Z,"36 km WNW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-13T14:25:57.330Z,36.9700012,-121.6118317,3.29,1.32,md,8,105,0.02801,0.06,nc,nc74016876,2024-03-13T14:27:32.154Z,"6 km SW of Gilroy, CA",earthquake,0.38,1.4,0.2,7,automatic,nc,nc
 2024-03-13T14:22:10.500Z,38.8419991,-122.8263321,3.2,0.52,md,6,156,0.01286,0.01,nc,nc74016871,2024-03-13T14:23:45.908Z,"9 km WNW of Cobb, CA",earthquake,0.73,1.49,0.29,8,automatic,nc,nc
