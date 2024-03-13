@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-03-13T08:48:05.670Z,34.0296669,-116.3700027,5.05,1.43,ml,39,80,0.04287,0.17,ci,ci40686456,2024-03-13T08:50:14.193Z,"11 km SSE of Yucca Valley, CA",earthquake,0.26,0.82,0.191,7,automatic,ci,ci
+2024-03-13T08:48:50.821Z,61.0343,-152.3384,103.4,2.2,ml,,,,0.72,ak,ak0243cva74c,2024-03-13T08:51:03.413Z,"65 km W of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-03-13T08:48:05.640Z,34.0285,-116.3731667,5.18,1.27,ml,58,44,0.04302,0.14,ci,ci40686456,2024-03-13T08:55:25.200Z,"11 km SSE of Yucca Valley, CA",earthquake,0.13,0.43,0.152,27,automatic,ci,ci
+2024-03-13T08:47:35.110Z,33.5738333,-116.8048333,7.3,0.6,ml,36,33,0.03935,0.13,ci,ci40686448,2024-03-13T08:53:35.215Z,"12 km W of Anza, CA",earthquake,0.14,0.32,0.203,16,automatic,ci,ci
 2024-03-13T08:38:09.835Z,61.5912,-149.8699,32.4,1.8,ml,,,,0.71,ak,ak0243cv7yuv,2024-03-13T08:40:37.804Z,"5 km SSW of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-13T08:36:27.590Z,33.5348333,-116.9321667,10.43,0.77,ml,45,34,0.05567,0.19,ci,ci40686440,2024-03-13T08:42:44.152Z,"12 km NNW of Aguanga, CA",earthquake,0.18,0.43,0.167,19,automatic,ci,ci
 2024-03-13T08:24:43.030Z,38.8230019,-122.8420029,1.99,1.08,md,19,108,0.005448,0.01,nc,nc74016711,2024-03-13T08:26:15.521Z,"9 km NW of The Geysers, CA",earthquake,0.22,0.42,0.17,19,automatic,nc,nc
