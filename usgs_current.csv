@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-13T23:52:26.180Z,38.8416672,-122.8264999,1.78,0.61,md,6,174,0.007662,0.01,nc,nc74017231,2024-03-13T23:53:58.144Z,"9 km WNW of Cobb, CA",earthquake,0.69,1.66,0.27,7,automatic,nc,nc
 2024-03-13T23:49:25.110Z,58.1795,-155.334833333333,1.02,-0.02,ml,8,167,,0.07,av,av91136443,2024-03-14T05:00:03.320Z,"85 km NW of Karluk, Alaska",earthquake,0.24,0.87,0.117957820603809,8,reviewed,av,av
 2024-03-13T23:47:13.733Z,31.746,-104.16,6.3434,2,ml,35,55,0,0.2,tx,tx2024fdjh,2024-03-14T09:59:44.419Z,"51 km SSE of Whites City, New Mexico",earthquake,0.477827242350348,0.6232162366578797,0.1,21,reviewed,tx,tx
-2024-03-13T23:30:42.060Z,35.8013333,-117.6286667,8.92,1.09,ml,21,133,0.111,0.12,ci,ci40686872,2024-03-14T22:43:32.068Z,"20 km NNE of Ridgecrest, CA",earthquake,0.24,0.6,0.167,8,reviewed,ci,ci
