@@ -244,5 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-13T14:53:51.630Z,36.9611664,-121.4406662,7.97,1.48,md,15,119,0.07308,0.09,nc,nc74016886,2024-03-13T14:55:36.327Z,"12 km ESE of Gilroy, CA",earthquake,0.43,1.08,0.26,16,automatic,nc,nc
 2024-03-13T14:52:39.803Z,57.9928,-155.992,12,1.6,ml,,,,0.27,ak,ak0243cyvmto,2024-03-14T02:23:24.930Z,"85 km ESE of Egegik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-13T14:52:30.512Z,39.7228,-119.8542,10.9,0.6,ml,5,106.38,0.142,0.0608,nn,nn00874735,2024-03-14T03:41:23.612Z,"9 km N of Lemmon Valley, Nevada",earthquake,,3.3,0.64,4,reviewed,nn,nn
-2024-03-13T14:46:59.644Z,55.0897,-157.183,32,2.9,ml,,,,0.77,ak,ak0243cyudw1,2024-03-13T15:38:44.050Z,"154 km SE of Perryville, Alaska",earthquake,,0.9,,,reviewed,ak,ak
-2024-03-13T14:46:10.960Z,38.8404999,-122.8136673,2.32,0.71,md,9,95,0.01603,0.01,nc,nc74016881,2024-03-13T14:47:46.188Z,"8 km WNW of Cobb, CA",earthquake,0.43,1.39,0.07,9,automatic,nc,nc
