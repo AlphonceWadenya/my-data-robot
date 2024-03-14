@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-14T20:35:28.920Z,34.0185013,-117.0175018,15.98,1.63,ml,34,70,0.101,0.19,ci,ci40687312,2024-03-14T20:37:46.956Z,"3 km SE of Yucaipa, CA",earthquake,0.34,0.9,0.259,23,automatic,ci,ci
 2024-03-14T20:21:18.926Z,64.5092,-147.0106,13.2,0.4,ml,,,,0.21,ak,ak0243epsw4x,2024-03-14T20:24:52.983Z,"5 km WSW of Salcha, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-03-14T20:18:02.250Z,64.5074,-146.8888,10.6,0.9,ml,,,,1.13,ak,ak0243eps7k0,2024-03-14T20:20:58.681Z,"1 km SSE of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-14T20:02:42.066Z,65.09,-148.6438,20.3,2.4,ml,,,,0.38,ak,ak0243epovbi,2024-03-14T20:04:20.500Z,"33 km ESE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
