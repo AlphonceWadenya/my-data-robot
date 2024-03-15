@@ -205,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-14T07:03:42.030Z,38.8310013,-122.8184967,1.68,1.05,md,12,59,0.01005,0.01,nc,nc74017346,2024-03-14T07:05:18.848Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.72,0.25,13,automatic,nc,nc
 2024-03-14T07:02:14.140Z,38.838501,-122.8278351,1.9,0.71,md,13,99,0.005977,0.02,nc,nc74017341,2024-03-14T07:03:48.884Z,"9 km NW of The Geysers, CA",earthquake,0.32,0.82,0.36,13,automatic,nc,nc
 2024-03-14T06:59:08.798Z,40.6588,-119.2932,1.8,1.6,ml,6,266.32,0.592,0.2442,nn,nn00874747,2024-03-15T02:04:04.537Z,"5 km E of Gerlach, Nevada",earthquake,,4.6,0.11,3,reviewed,nn,nn
-2024-03-14T06:55:25.030Z,52.0548333333333,-176.136166666667,-1.8,-0.09,ml,4,137,,0.27,av,av92230476,2024-03-14T22:03:50.750Z,"39 km ENE of Adak, Alaska",earthquake,0.87,1.18,0.360064939558578,4,reviewed,av,av
-2024-03-14T06:54:01.060Z,51.4838333333333,-177.688,33.73,1.25,ml,5,336,,0.17,av,av91136473,2024-03-14T22:09:08.210Z,"84 km WSW of Adak, Alaska",earthquake,3.13,3,0.44008605544134,5,reviewed,av,av
