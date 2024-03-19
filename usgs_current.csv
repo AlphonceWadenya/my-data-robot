@@ -204,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-18T16:12:34.465Z,31.3595,130.4424,131.087,4.4,mb,29,153,0.15,0.85,us,us6000mjl9,2024-03-18T16:55:52.040Z,"13 km ESE of Kaseda-shirakame, Japan",earthquake,9.01,4.974,0.09,36,reviewed,us,us
 2024-03-18T15:43:24.210Z,38.7828331,-122.7389984,-0.83,1.08,md,7,133,0.001822,0.16,nc,nc74019396,2024-03-18T15:44:59.218Z,"2 km ENE of The Geysers, CA",earthquake,0.57,3.82,0.21,7,automatic,nc,nc
 2024-03-18T15:41:35.340Z,38.8441658,-122.8164978,1.97,0.39,md,7,118,0.01177,0.01,nc,nc74019391,2024-03-18T15:43:09.177Z,"8 km WNW of Cobb, CA",earthquake,0.44,1.38,0.27,8,automatic,nc,nc
-2024-03-18T15:36:17.720Z,46.931,-112.659166666667,8.82,2.11,ml,13,76,0.02058,0.08,mb,mb90043338,2024-03-18T22:48:00.850Z,"3 km SSE of Lincoln, Montana",earthquake,0.42,0.74,0.197714790663507,15,reviewed,mb,mb
