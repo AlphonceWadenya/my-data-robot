@@ -183,7 +183,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-19T00:01:29.780Z,17.9446666666667,-66.9203333333333,9.55,2.44,md,4,214,0.04942,0.07,pr,pr71443313,2024-03-19T00:17:47.280Z,"3 km SSW of Guánica, Puerto Rico",earthquake,2.01,0.64,0.0592584441823163,4,reviewed,pr,pr
 2024-03-19T00:01:23.294Z,31.644,-104.475,6.51,1.8,ml,16,70,0,0.1,tx,tx2024fmnh,2024-03-19T21:02:22.973Z,"59 km S of Whites City, New Mexico",earthquake,1.3966752407246905,0.792227418182327,0.1,7,reviewed,tx,tx
 2024-03-19T00:00:43.662Z,57.9448,-137.7062,2.4,2.8,ml,,,,0.61,ak,ak0243mngidq,2024-03-19T00:19:28.040Z,"85 km WSW of Elfin Cove, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-03-18T23:57:52.720Z,36.6216667,-121.2293333,4.07,3.17,md,49,89,0.0695,0.1,nc,nc74019631,2024-03-19T22:25:41.569Z,"13 km NW of Pinnacles, CA",earthquake,0.16,0.88,0.156,56,reviewed,nc,nc
+2024-03-18T23:57:52.720Z,36.6216667,-121.2293333,4.07,3.17,md,49,89,0.0695,0.1,nc,nc74019631,2024-03-19T22:26:39.135Z,"13 km NW of Pinnacles, CA",earthquake,0.16,0.88,0.156,56,reviewed,nc,nc
 2024-03-18T23:57:26.920Z,36.6241667,-121.235,5.46,3.27,ml,72,78,0.06546,0.12,nc,nc74019636,2024-03-19T19:52:55.589Z,"13 km NW of Pinnacles, CA",earthquake,0.17,0.58,0.152,72,reviewed,nc,nc
 2024-03-18T23:51:50.040Z,38.8131676,-122.8153305,0.6,1.65,md,27,51,0.01101,0.03,nc,nc74019611,2024-03-18T23:53:25.586Z,"6 km NW of The Geysers, CA",earthquake,0.15,0.31,0.17,30,automatic,nc,nc
 2024-03-18T23:45:04.542Z,63.2208,-150.5972,117.9,1.3,ml,,,,0.51,ak,ak0243ldvp06,2024-03-18T23:47:10.414Z,"66 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
