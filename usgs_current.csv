@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-20T23:31:54.715Z,36.366,-114.9617,0,1.6,ml,17,224.15,0.209,0.3329,nn,nn00875116,2024-03-20T23:36:14.001Z,"15 km NNE of Nellis Air Force Base, Nevada",earthquake,,5,0.47,12,automatic,nn,nn
 2024-03-20T23:28:52.680Z,38.8161659,-122.8228302,2.26,1.07,md,23,48,0.008815,0.02,nc,nc74020996,2024-03-20T23:30:28.256Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.43,0.18,22,automatic,nc,nc
 2024-03-20T23:24:19.950Z,33.8688333,-116.8328333,15.32,1,ml,39,52,0.0459,0.12,ci,ci40520183,2024-03-20T23:30:41.703Z,"7 km SW of Cabazon, CA",earthquake,0.15,0.4,0.151,25,automatic,ci,ci
 2024-03-20T23:22:02.670Z,38.8310013,-122.8143311,1.52,0.77,md,20,49,0.008291,0.01,nc,nc74020991,2024-03-20T23:23:38.169Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.44,0.16,19,automatic,nc,nc
@@ -272,4 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-19T23:45:34.240Z,34.47016667,-96.846,0,1.31,ml,31,113,0.2519505587,0.76,ok,ok2024foig,2024-03-20T12:18:19.383Z,"7 km NNW of Mill Creek, Oklahoma",quarry blast,,1.2,0.17,13,reviewed,ok,ok
 2024-03-19T23:44:05.240Z,33.1458333,-116.5211667,8.84,1.44,ml,65,27,0.09106,0.19,ci,ci40690648,2024-03-20T15:43:10.280Z,"11 km NE of Julian, CA",earthquake,0.16,0.48,0.173,54,reviewed,ci,ci
 2024-03-19T23:40:13.551Z,44.3495,-115.1887,18.475,3.3,ml,19,71,0.346,0.67,us,us6000mjvh,2024-03-20T17:28:28.273Z,"24 km NW of Stanley, Idaho",earthquake,1.88,6.426,0.039,86,reviewed,us,us
-2024-03-19T23:38:17.240Z,47.342666666666666,-117.88566666666667,-0.67,2.32,ml,8,57,0.1394,0.4,uw,uw61990831,2024-03-20T16:18:45.850Z,"8 km NE of Sprague, Washington",explosion,1.44,31.61,0.0415694692561801,3,reviewed,uw,uw
