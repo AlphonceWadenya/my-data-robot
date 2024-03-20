@@ -67,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-20T00:11:33.110Z,38.8311653,-122.8198318,1.62,0.31,md,9,66,0.01088,0.01,nc,nc74020276,2024-03-20T00:13:07.537Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.8,0.15,10,automatic,nc,nc
 2024-03-20T00:11:21.850Z,38.8343315,-122.8044968,1.95,1.05,md,17,54,0.01176,0.01,nc,nc74020271,2024-03-20T00:12:57.638Z,"7 km W of Cobb, CA",earthquake,0.23,0.46,0.12,19,automatic,nc,nc
 2024-03-20T00:05:27.100Z,38.8266678,-122.8138351,2.36,0.48,md,9,76,0.004394,0.01,nc,nc74020266,2024-03-20T00:07:02.481Z,"7 km NW of The Geysers, CA",earthquake,0.47,1.12,0.28,11,automatic,nc,nc
-2024-03-20T00:03:08.770Z,34.0528333,-117.2605,17.16,1.37,ml,57,54,0.09693,0.19,ci,ci40690672,2024-03-20T00:13:33.040Z,"0 km N of Loma Linda, CA",earthquake,0.19,0.41,0.242,29,automatic,ci,ci
+2024-03-20T00:03:08.770Z,34.0528333,-117.2605,17.16,1.37,ml,57,54,0.09693,0.19,ci,ci40690672,2024-03-20T08:36:09.875Z,"0 km N of Loma Linda, CA",earthquake,0.19,0.41,0.242,29,automatic,ci,ci
 2024-03-19T23:44:05.290Z,33.1461667,-116.5245,8.61,1.54,ml,69,25,0.08936,0.2,ci,ci40690648,2024-03-19T23:55:09.150Z,"10 km NE of Julian, CA",earthquake,0.15,0.54,0.213,27,automatic,ci,ci
 2024-03-19T23:40:13.551Z,44.3495,-115.1887,18.475,3.3,ml,19,71,0.346,0.67,us,us6000mjvh,2024-03-20T00:03:20.330Z,"24 km NW of Stanley, Idaho",earthquake,1.88,6.426,0.039,86,reviewed,us,us
 2024-03-19T23:04:54.163Z,64.9868,-147.3331,3.5,1.4,ml,,,,0.21,ak,ak0243n16cyw,2024-03-19T23:06:24.310Z,"13 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
