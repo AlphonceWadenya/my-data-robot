@@ -292,4 +292,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-20T23:42:23.134Z,64.9509,-147.5126,0,1.6,ml,,,,0.74,ak,ak0243ooxsa1,2024-03-20T23:44:17.078Z,"5 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-20T23:40:39.310Z,34.9453333,-119.5043333,6.2,1.06,ml,17,57,0.05442,0.17,ci,ci40520199,2024-03-21T00:28:26.399Z,"16 km SW of Maricopa, CA",earthquake,0.36,0.6,0.097,13,reviewed,ci,ci
 2024-03-20T23:39:54.270Z,38.8236656,-122.8130035,1.48,1.02,md,19,40,0.002304,0.02,nc,nc74021006,2024-03-20T23:41:27.403Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.4,0.3,19,automatic,nc,nc
-2024-03-20T23:28:52.680Z,38.8161659,-122.8228302,2.26,1.07,md,23,48,0.008815,0.02,nc,nc74020996,2024-03-20T23:30:28.256Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.43,0.18,22,automatic,nc,nc
