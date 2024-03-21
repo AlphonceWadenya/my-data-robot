@@ -5,6 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-21T14:49:26.821Z,63.5324,-150.1687,25.3,1.7,ml,,,,1.22,ak,ak0243q75qmi,2024-03-21T14:51:51.159Z,"62 km WNW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-21T14:45:55.660Z,35.9968333,-117.9513333,1.33,1.12,ml,30,67,0.05059,0.13,ci,ci40520791,2024-03-21T14:57:10.470Z,"5 km S of Coso Junction, CA",earthquake,0.16,0.24,0.153,16,automatic,ci,ci
 2024-03-21T14:41:54.140Z,19.2406673431396,-155.390670776367,31.4400005340576,2.21,ml,55,140,0.09236,0.150000006,hv,hv74144157,2024-03-21T14:44:32.110Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.5,0.540000021,0.37,16,automatic,hv,hv
+2024-03-21T14:30:33.099Z,36.8017,-116.1105,6.5,-0.1,ml,7,191.78,0.018,0.0301,nn,nn00875145,2024-03-21T15:42:07.301Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.06,2,reviewed,nn,nn
 2024-03-21T14:24:45.680Z,38.7576675,-122.7241669,2.83,0.94,md,10,148,0.003957,0.02,nc,nc74021426,2024-03-21T14:48:59.452Z,"3 km SW of Anderson Springs, CA",earthquake,0.37,0.71,0.23,10,automatic,nc,nc
 2024-03-21T14:22:41.930Z,36.14120483,-98.3134613,2.917331696,1.78,ml,16,61.99278259,0.1248636693,0.6110835515,ok,ok2024frgs,2024-03-21T14:26:51.512Z,"2 km N of Okeene, Oklahoma",earthquake,2.827859141,2.835493524,0.54,4,automatic,ok,ok
 2024-03-21T14:05:53.850Z,61.2237,-147.8093,28.3,1.8,ml,,,,0.98,ak,ak0243q6wd7d,2024-03-21T14:08:29.548Z,"64 km ESE of Knik River, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -257,4 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-20T16:09:13.739Z,31.666,-104.411,6.0999,1.6,ml,18,57,0,0.1,tx,tx2024fpot,2024-03-20T16:40:19.549Z,"56 km S of Whites City, New Mexico",earthquake,1.9197923016481098,1.7476271888580055,0.1,15,reviewed,tx,tx
 2024-03-20T16:02:26.990Z,60.559,-152.633333333333,12.46,-0.28,ml,4,244,,0.14,av,av92236856,2024-03-21T00:57:47.560Z,"72 km W of Salamatof, Alaska",earthquake,0.92,0.97,0.148932459552632,4,reviewed,av,av
 2024-03-20T15:58:24.481Z,60.9137,-151.7499,76.5,1.6,ml,,,,0.37,ak,ak0243ok9r00,2024-03-20T16:00:11.264Z,"35 km NW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-03-20T15:42:22.890Z,19.807,-155.807666666667,13.12,1.71,md,26,267,0.1245,0.15,hv,hv74142987,2024-03-20T19:35:38.220Z,"14 km S of Waikoloa, Hawaii",earthquake,1.35,1.34,0.169268489696401,22,reviewed,hv,hv
