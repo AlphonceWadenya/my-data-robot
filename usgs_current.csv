@@ -238,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-21T21:52:24.937Z,31.675,-104.195,6.0999,1.8,ml,19,61,0.1,0.2,tx,tx2024frvo,2024-03-22T15:41:35.551Z,"55 km NW of Toyah, Texas",earthquake,0.6969254906176723,1.3310063456533827,0.1,7,reviewed,tx,tx
 2024-03-21T21:42:29.582Z,64.5879,-148.9046,0,0.8,ml,,,,0.91,ak,ak0243qbaa26,2024-03-21T21:44:02.016Z,"9 km ENE of Nenana, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-21T21:40:51.040Z,33.3146667,-116.8971667,17.37,1.8,ml,63,24,0.04841,0.18,ci,ci40521279,2024-03-21T22:39:10.650Z,"6 km SW of Palomar Observatory, CA",earthquake,0.16,0.4,0.174,24,reviewed,ci,ci
-2024-03-21T21:36:33.226Z,63.1451,-150.4125,102.8,2.4,ml,,,,0.47,ak,ak0243qb900p,2024-03-21T21:50:00.040Z,"74 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
