@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-22T22:32:25.970Z,32.7506667,-117.4158333,15.3,2.06,ml,41,203,0.1468,0.19,ci,ci40522615,2024-03-22T22:39:14.901Z,"17 km SW of La Jolla, CA",earthquake,0.4,0.48,0.174,28,automatic,ci,ci
 2024-03-22T22:17:08.151Z,63.585,-147.3048,9.3,1.3,ml,,,,0.61,ak,ak0243rz9nlr,2024-03-22T22:19:41.697Z,"81 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-22T22:10:39.690Z,38.5983315,-122.7245026,3.96,1.42,md,5,155,0.2251,0.03,nc,nc74022351,2024-03-22T22:12:15.949Z,"10 km NNE of Larkfield-Wikiup, CA",earthquake,2.24,7.71,0.59,2,automatic,nc,nc
 2024-03-22T22:03:57.240Z,56.6912,-157.2339,104.8,2.4,ml,,,,0.92,ak,ak0243rz6rd8,2024-03-22T22:19:15.040Z,"84 km ENE of Chignik, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -234,6 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-21T22:57:20.250Z,35.408165,-120.5541687,-0.01,1.42,md,8,90,0.05689,0.23,nc,nc74021741,2024-03-21T22:58:55.282Z,"5 km ENE of Santa Margarita, CA",earthquake,1.35,5.37,0.13,5,automatic,nc,nc
 2024-03-21T22:56:44.083Z,64.8915,-148.713,16.5,1.1,ml,,,,0.13,ak,ak0243qbyqt4,2024-03-21T22:58:10.989Z,"33 km W of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-21T22:41:11.570Z,19.2286666666667,-155.0575,43.46,2.16,md,53,217,0.08838,0.12,hv,hv74144662,2024-03-22T04:10:57.860Z,"27 km SSE of Fern Forest, Hawaii",earthquake,0.58,0.38,0.157547155401961,23,reviewed,hv,hv
-2024-03-21T22:38:33.130Z,36.15957642,-98.30446625,3.61771512,2.03,ml,34,80.06335449,0.1440477371,0.4602993119,ok,ok2024frxb,2024-03-21T22:43:22.458Z,"4 km NNE of Okeene, Oklahoma",earthquake,1.984098061,1.853482012,0.29,21,automatic,ok,ok
-2024-03-21T22:38:05.540Z,35.6798333,-117.5516667,9.53,0.74,ml,11,134,0.1052,0.12,ci,ci40521335,2024-03-21T22:51:48.079Z,"13 km ENE of Ridgecrest, CA",earthquake,0.42,1.09,0.003,4,reviewed,ci,ci
-2024-03-21T22:37:01.026Z,-21.4338,-178.888,514.06,4.2,mb,33,93,3.445,0.46,us,us6000mkcs,2024-03-21T23:02:44.040Z,"Fiji region",earthquake,12.18,8.533,0.077,47,reviewed,us,us
