@@ -37,6 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-26T00:19:23.512Z,57.0913,-156.3299,13,2.1,ml,,,,0.57,ak,ak0243y8byvz,2024-03-26T00:21:14.927Z,"79 km SE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-26T00:08:11.771Z,36.7594,-116.292,16,0,ml,11,90.02,0.041,0.2787,nn,nn00875338,2024-03-26T00:09:50.109Z,"44 km ESE of Beatty, Nevada",earthquake,,2.4,1.07,5,automatic,nn,nn
 2024-03-26T00:06:02.110Z,38.8306656,-122.8191681,1.67,0.8,md,18,59,0.01016,0.02,nc,nc74023951,2024-03-26T00:07:36.030Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.46,0.26,19,automatic,nc,nc
+2024-03-26T00:05:37.054Z,36.774,-116.2506,9.5,-0.3,ml,13,97.25,0.039,0.0536,nn,nn00875354,2024-03-26T03:31:57.051Z,"47 km ESE of Beatty, Nevada",earthquake,,1.7,0.18,7,reviewed,nn,nn
 2024-03-26T00:03:57.941Z,36.7755,-116.2488,9,-0.3,ml,7,98.77,0.056,0.0534,nn,nn00875353,2024-03-26T03:28:48.625Z,"47 km ESE of Beatty, Nevada",earthquake,,3.5,1.32,4,reviewed,nn,nn
 2024-03-26T00:02:59.205Z,36.7745,-116.2518,9.4,-0.2,ml,11,97.89,0.04,0.0767,nn,nn00875352,2024-03-26T03:25:41.788Z,"47 km ESE of Beatty, Nevada",earthquake,,1.5,1.11,6,reviewed,nn,nn
 2024-03-26T00:02:44.408Z,36.7748,-116.2517,9.6,-0.3,ml,12,97.96,0.04,0.055,nn,nn00875351,2024-03-26T03:22:33.663Z,"47 km ESE of Beatty, Nevada",earthquake,,1.5,1.16,5,reviewed,nn,nn
