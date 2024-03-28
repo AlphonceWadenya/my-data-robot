@@ -245,5 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-27T03:49:16.338Z,42.3166,-126.5022,10,4.1,mb,67,201,1.597,0.89,us,us7000m87e,2024-03-27T04:08:33.040Z,"171 km WSW of Port Orford, Oregon",earthquake,8.61,1.977,0.086,37,reviewed,us,us
 2024-03-27T03:45:10.818Z,37.4348,-116.9372,3.1,0.8,ml,6,224.21,0.29,0.1045,nn,nn00875455,2024-03-27T23:41:42.989Z,"40 km SE of Goldfield, Nevada",earthquake,,35.8,0.57,2,reviewed,nn,nn
 2024-03-27T03:42:34.474Z,63.3036,-151.3377,0,1.8,ml,,,,0.67,ak,ak0243zxskif,2024-03-27T03:44:40.116Z,"32 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-03-27T03:38:41.620Z,19.1933326721191,-155.378005981445,31.0200004577637,2.02999997,md,43,165,0.08799,0.150000006,hv,hv74150907,2024-03-27T03:40:26.410Z,"10 km E of Pāhala, Hawaii",earthquake,0.59,0.699999988,0.300000012,6,automatic,hv,hv
-2024-03-27T03:38:00.063Z,65.5718,-150.8136,0,1.7,ml,,,,0.99,ak,ak0243zxrmzq,2024-03-27T03:40:23.164Z,"30 km WNW of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
