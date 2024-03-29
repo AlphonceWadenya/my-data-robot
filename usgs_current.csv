@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-29T17:54:29.456Z,58.4922,-154.3577,75.2,1.8,ml,,,,0.42,ak,ak02443h9w69,2024-03-29T17:55:59.473Z,"97 km WNW of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-03-29T17:43:33.040Z,34.078,-118.0825,10.08,1.56,ml,27,101,0.04198,0.18,ci,ci40702024,2024-03-29T17:50:14.865Z,"1 km WSW of Rosemead, CA",earthquake,0.27,0.47,0.253,30,automatic,ci,ci
 2024-03-29T17:37:32.960Z,38.8311653,-122.8146667,1.9,0.53,md,11,66,0.008548,0.01,nc,nc74026016,2024-03-29T17:39:05.007Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.73,0.4,11,automatic,nc,nc
 2024-03-29T17:33:02.020Z,62.2381,-149.6976,55.9,1.3,ml,,,,0.43,ak,ak02443h5c0q,2024-03-29T17:35:36.226Z,"11 km NE of Susitna North, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-03-29T17:31:54.780Z,17.8878333333333,-66.8345,15.29,2.79,md,7,205,0.09665,0.1,pr,pr71444178,2024-03-29T17:54:00.740Z,"11 km SSE of Maria Antonia, Puerto Rico",earthquake,0.61,0.78,0.0323057894326679,4,reviewed,pr,pr
 2024-03-29T17:28:01.410Z,46.74733333333333,-121.88083333333333,2.76,0.64,ml,22,118,0.02349,0.07,uw,uw61993056,2024-03-29T17:45:31.970Z,"11 km E of Ashford, Washington",earthquake,0.2,0.34,0.18224407545217813,9,reviewed,uw,uw
 2024-03-29T17:08:30.990Z,19.1618328094482,-155.485992431641,31.2700004577637,2.45,ml,51,114,0.02346,0.119999997,hv,hv74153972,2024-03-29T17:11:08.390Z,"4 km S of Pāhala, Hawaii",earthquake,0.45,0.589999974,0.31,13,automatic,hv,hv
 2024-03-29T16:58:51.870Z,19.3159999847412,-155.22233581543,1.20000004768372,2.01999998,md,41,76,0.03466,0.189999998,hv,hv74153962,2024-03-29T17:00:51.840Z,"14 km S of Volcano, Hawaii",earthquake,0.3,0.409999996,0.200000003,21,automatic,hv,hv
@@ -219,5 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-28T18:01:55.970Z,38.7949982,-122.8001633,3.16,1.07,md,18,61,0.007039,0.02,nc,nc74025556,2024-03-28T18:03:27.726Z,"4 km WNW of The Geysers, CA",earthquake,0.25,0.61,0.18,19,automatic,nc,nc
 2024-03-28T18:01:12.780Z,17.92,-66.8606666666667,14.38,2.43,md,17,195,0.05754,0.19,pr,pr71444048,2024-03-28T18:21:29.550Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.65,0.55,0.10532114893541,6,reviewed,pr,pr
 2024-03-28T17:59:55.010Z,38.8131676,-122.824501,2.45,0.76,md,14,70,0.005638,0.02,nc,nc74025551,2024-03-28T18:01:27.835Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.65,0.15,15,automatic,nc,nc
-2024-03-28T17:55:08.580Z,34.1733333,-117.9341667,-0.68,1.01,ml,11,116,0.04547,0.25,ci,ci40701272,2024-03-29T00:11:37.275Z,"4 km NE of Bradbury, CA",quarry blast,0.81,31.61,0.049,9,reviewed,ci,ci
-2024-03-28T17:54:04.032Z,31.592,-104.524,8.2788,1.6,ml,11,80,0.1,0.3,tx,tx2024geif,2024-03-28T18:35:19.683Z,"66 km SSW of Whites City, New Mexico",earthquake,2.321875999633464,1.9035361680832037,0.1,6,reviewed,tx,tx
