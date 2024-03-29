@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-03-29T13:39:33.950Z,34.4088326,-117.6421661,3.66,1.6,ml,19,137,0.3901,0.4,ci,ci40701832,2024-03-29T13:41:39.340Z,"3 km S of Pinon Hills, CA",earthquake,1.28,8.35,0.463,23,automatic,ci,ci
+2024-03-29T13:44:34.430Z,35.6706657,-117.4846649,6.41,1.08,ml,16,121,0.04994,0.13,ci,ci40701840,2024-03-29T13:46:37.838Z,"13 km SW of Searles Valley, CA",earthquake,0.52,1.16,0.182,6,automatic,ci,ci
+2024-03-29T13:39:33.950Z,34.4088326,-117.6421661,3.66,1.6,ml,19,137,0.3901,0.4,ci,ci40701832,2024-03-29T13:46:10.880Z,"3 km S of Pinon Hills, CA",earthquake,1.28,8.35,0.463,23,automatic,ci,ci
 2024-03-29T13:35:30.222Z,62.5873,-150.4106,11.9,1.5,ml,,,,0.81,ak,ak02443es37i,2024-03-29T13:37:39.714Z,"20 km ENE of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-29T13:33:54.050Z,19.2590007781982,-155.398162841797,29.8600006103516,1.78999996,md,35,129,0.07494,0.129999995,hv,hv74153867,2024-03-29T13:35:39.960Z,"10 km NE of Pāhala, Hawaii",earthquake,0.62,0.699999988,0.280000001,8,automatic,hv,hv
 2024-03-29T13:31:34.320Z,34.0066667,-116.7028333,16.96,1.07,ml,38,103,0.05556,0.1,ci,ci40701824,2024-03-29T13:37:55.848Z,"12 km WSW of Morongo Valley, CA",earthquake,0.15,0.35,0.2,29,automatic,ci,ci
