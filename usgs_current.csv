@@ -207,6 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-29T12:05:36.504Z,62.4586,-150.8937,5.9,1.8,ml,,,,0.71,ak,ak02443e08lu,2024-03-29T12:07:52.372Z,"7 km WSW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-29T11:54:56.500Z,17.9283333333333,-66.859,14.99,2.62,md,23,192,0.05031,0.16,pr,pr71444143,2024-03-29T12:24:46.170Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,0.47,0.43,0.112460316892801,10,reviewed,pr,pr
 2024-03-29T11:53:19.270Z,38.8396683,-122.8781662,2.51,0.72,md,12,137,0.007461,0.01,nc,nc74025941,2024-03-29T11:54:54.446Z,"13 km WNW of The Geysers, CA",earthquake,0.41,0.61,0.43,12,automatic,nc,nc
-2024-03-29T11:47:13.804Z,63.1405,-150.479,105.8,1.7,ml,,,,0.47,ak,ak02443dnr7x,2024-03-29T11:48:46.830Z,"73 km NNE of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2024-03-29T11:46:57.780Z,33.7273333,-116.7591667,17.61,0.66,ml,22,148,0.04083,0.1,ci,ci40701776,2024-03-29T18:38:17.841Z,"4 km WSW of Idyllwild, CA",earthquake,0.27,0.36,0.119,6,reviewed,ci,ci
-2024-03-29T11:46:23.690Z,17.9498333333333,-66.8236666666667,16.87,2.49,md,7,180,0.05856,0.1,pr,pr71444133,2024-03-29T12:03:43.250Z,"4 km S of Indios, Puerto Rico",earthquake,0.86,0.72,0.0739374964093513,4,reviewed,pr,pr
