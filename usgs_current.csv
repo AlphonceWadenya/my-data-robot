@@ -200,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-30T08:58:07.460Z,32.9123333,-116.2713333,9.97,1.51,ml,52,45,0.1313,0.18,ci,ci40702320,2024-03-30T09:09:09.750Z,"26 km ENE of Pine Valley, CA",earthquake,0.16,0.53,0.171,28,automatic,ci,ci
 2024-03-30T08:56:17.931Z,-3.7283,-80.9401,29.746,4.1,mb,13,224,0.89,0.6,us,us7000m8wi,2024-03-31T04:17:07.040Z,"29 km W of Zorritos, Peru",earthquake,9.72,9.077,0.302,3,reviewed,us,us
 2024-03-30T08:55:11.070Z,32.9128333,-116.2718333,9.74,1.15,ml,39,45,0.1307,0.16,ci,ci40702312,2024-03-30T09:02:52.505Z,"26 km ENE of Pine Valley, CA",earthquake,0.17,0.59,0.184,22,automatic,ci,ci
-2024-03-30T08:47:03.380Z,38.8165016,-122.8239975,2.34,0.75,md,8,99,0.00863,0.01,nc,nc74026276,2024-03-30T08:48:38.811Z,"7 km NW of The Geysers, CA",earthquake,0.45,0.96,0.18,9,automatic,nc,nc
