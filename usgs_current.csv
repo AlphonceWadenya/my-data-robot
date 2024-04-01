@@ -181,4 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-31T13:30:51.874Z,64.7382,-147.8666,10.9,1.1,ml,,,,0.26,ak,ak02446ptrab,2024-03-31T13:32:39.708Z,"8 km SSW of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-31T13:30:44.326Z,-6.6199,129.5538,131.237,4.4,mb,19,94,2.113,1.06,us,us7000m92m,2024-03-31T15:13:00.040Z,"Banda Sea",earthquake,7.65,8.976,0.179,9,reviewed,us,us
 2024-03-31T13:26:00.401Z,64.7361,-147.8961,12.9,1.3,ml,,,,0.47,ak,ak02446pssg8,2024-03-31T13:28:06.443Z,"9 km SSW of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-03-31T13:25:33.362Z,36.7224,71.4464,176.672,4.5,mb,39,110,2.765,0.93,us,us7000m92k,2024-03-31T13:37:22.040Z,"8 km WNW of Ashkāsham, Afghanistan",earthquake,8.3,6.366,0.076,50,reviewed,us,us
