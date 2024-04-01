@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-01T22:26:11.780Z,36.1743317,-118.0240021,3.58,1.54,ml,16,131,0.1482,0.09,ci,ci40703280,2024-04-01T22:28:20.818Z,"12 km S of Olancha, CA",earthquake,0.42,1.31,0.328,7,automatic,ci,ci
 2024-04-01T22:14:15.654Z,64.4757,-147.0001,4.8,0.9,ml,,,,0.34,ak,ak02448imhv2,2024-04-01T22:17:08.923Z,"7 km SW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-04-01T22:13:54.280Z,38.8218346,-122.8509979,1.79,0.62,md,9,166,0.007319,0.02,nc,nc74027621,2024-04-01T22:15:27.739Z,"10 km WNW of The Geysers, CA",earthquake,0.5,1.01,0.1,9,automatic,nc,nc
 2024-04-01T21:54:45.770Z,33.1633339,-116.4688339,15.33,0.63,ml,8,91,0.08957,0.23,ci,ci40703248,2024-04-01T22:00:39.833Z,"14 km SW of Borrego Springs, CA",earthquake,0.98,1.5,0.113,4,automatic,ci,ci
