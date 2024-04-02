@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-02T21:52:07.570Z,38.8326683,-122.8141632,1.68,1.08,md,15,63,0.009795,0.02,nc,nc74028106,2024-04-02T21:53:42.887Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.48,0.29,15,automatic,nc,nc
 2024-04-02T21:41:48.870Z,38.8318329,-122.8133316,1.75,1.38,md,23,60,0.008801,0.02,nc,nc74028101,2024-04-02T21:43:22.764Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.31,0.13,23,automatic,nc,nc
 2024-04-02T21:40:13.280Z,36.4788322,-121.0554962,9.32,1.31,md,6,178,0.02359,0.03,nc,nc74028096,2024-04-02T21:41:47.653Z,"10 km SE of Pinnacles, CA",earthquake,0.56,0.96,0.58,6,automatic,nc,nc
 2024-04-02T21:32:46.425Z,38.5435,-118.1375,4.5,1.5,ml,8,140.88,0.41,0.4939,nn,nn00875734,2024-04-02T21:35:24.648Z,"17 km N of Mina, Nevada",earthquake,,2.1,0.39,6,automatic,nn,nn
@@ -214,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-01T22:26:11.650Z,36.1796667,-118.0268333,2.41,1.24,ml,23,55,0.1524,0.16,ci,ci40703280,2024-04-01T23:06:09.778Z,"12 km S of Olancha, CA",earthquake,0.24,0.78,0.246,16,reviewed,ci,ci
 2024-04-01T22:14:15.654Z,64.4757,-147.0001,4.8,0.9,ml,,,,0.34,ak,ak02448imhv2,2024-04-01T22:17:08.923Z,"7 km SW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-04-01T22:13:54.280Z,38.8218346,-122.8509979,1.79,0.62,md,9,166,0.007319,0.02,nc,nc74027621,2024-04-01T22:15:27.739Z,"10 km WNW of The Geysers, CA",earthquake,0.5,1.01,0.1,9,automatic,nc,nc
-2024-04-01T21:52:50.370Z,38.8116684,-122.8288345,1.52,1.08,md,24,58,0.002809,0.02,nc,nc74027606,2024-04-01T21:54:27.576Z,"7 km WNW of The Geysers, CA",earthquake,0.18,0.34,0.24,25,automatic,nc,nc
