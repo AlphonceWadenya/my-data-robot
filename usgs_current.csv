@@ -35,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-02T06:04:42.250Z,38.7721672,-122.6998367,1.84,0.89,md,9,87,0.004008,0.03,nc,nc74027816,2024-04-02T06:06:14.736Z,"1 km WSW of Anderson Springs, CA",earthquake,0.33,0.44,0.15,8,automatic,nc,nc
 2024-04-02T05:52:29.010Z,32.9168333,-116.2415,8.51,0.83,ml,38,45,0.06424,0.16,ci,ci40703456,2024-04-02T05:58:39.792Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.17,0.52,0.17,14,automatic,ci,ci
 2024-04-02T05:44:27.810Z,38.8301659,-122.8141632,0.84,0.25,md,7,135,0.007478,0.03,nc,nc74027811,2024-04-02T05:45:59.499Z,"8 km NW of The Geysers, CA",earthquake,0.38,0.96,0.09,8,automatic,nc,nc
-2024-04-02T05:19:49.342Z,-19.8478,-71.2097,43.515,4.9,mb,41,144,1.098,1.32,us,us7000m9ax,2024-04-02T05:44:07.040Z,"117 km WNW of Puerto, Chile",earthquake,5.48,8.686,0.11,32,reviewed,us,us
+2024-04-02T05:19:49.342Z,-19.8478,-71.2097,43.515,4.9,mb,41,144,1.098,1.32,us,us7000m9ax,2024-04-02T11:47:49.927Z,"117 km WNW of Puerto, Chile",earthquake,5.48,8.686,0.11,32,reviewed,us,us
 2024-04-02T05:17:32.367Z,31.617,-104.49,7.6174,1.5,ml,15,135,0.1,0.7,tx,tx2024gmmt,2024-04-02T05:51:54.303Z,"62 km S of Whites City, New Mexico",earthquake,0,4.807659538744239,0.1,10,automatic,tx,tx
 2024-04-02T05:17:20.934Z,60.9924,-146.3914,19.4,1.6,ml,,,,0.71,ak,ak02449w24ql,2024-04-02T05:19:19.420Z,"15 km S of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-02T05:08:26.903Z,32.296,141.9733,18.967,4.6,mb,41,125,1.995,0.67,us,us7000m9av,2024-04-02T05:56:54.040Z,"Izu Islands, Japan region",earthquake,8.67,4.692,0.096,32,reviewed,us,us
