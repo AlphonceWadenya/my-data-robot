@@ -192,7 +192,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T14:46:03.170Z,31.68,-104.385,5.5615,1.7,ml,14,68,0.1,0.2,tx,tx2024gssa,2024-04-05T18:56:03.335Z,"54 km S of Whites City, New Mexico",earthquake,0.6157486073368174,1.117523093697112,0.2,12,reviewed,tx,tx
 2024-04-05T14:45:41.020Z,38.7879982,-122.7678299,0.77,0.79,md,11,79,0.01653,0.04,nc,nc74029756,2024-04-05T14:47:15.073Z,"2 km NW of The Geysers, CA",earthquake,0.26,0.62,0.08,12,automatic,nc,nc
 2024-04-05T14:24:25.602Z,62.4187,-151.1212,15.4,1.2,ml,,,,0.29,ak,ak0244f02l1c,2024-04-05T14:26:38.479Z,"20 km WSW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-04-05T14:23:20.309Z,40.689,-74.754,4.7,4.8,mwr,233,54,0.642,0.66,us,us7000ma74,2024-04-06T09:52:48.195Z,"2024 Whitehouse Station, New Jersey Earthquake",earthquake,2.02,1.84,0.027,130,reviewed,us,us
+2024-04-05T14:23:20.309Z,40.689,-74.754,4.7,4.8,mwr,233,54,0.642,0.66,us,us7000ma74,2024-04-06T09:58:20.407Z,"2024 Whitehouse Station, New Jersey Earthquake",earthquake,2.02,1.84,0.027,130,reviewed,us,us
 2024-04-05T14:05:16.900Z,38.8306656,-122.8170013,1.78,1.08,md,21,66,0.009055,0.02,nc,nc74029746,2024-04-05T19:50:51.247Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.38,0.16,21,automatic,nc,nc
 2024-04-05T13:50:52.128Z,63.1512,-150.4409,112.7,1.6,ml,,,,0.19,ak,ak0244ezms3g,2024-04-05T13:53:15.383Z,"74 km NNE of Petersville, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-04-05T13:48:02.333Z,62.4181,-151.1267,14,1.4,ml,,,,0.66,ak,ak0244ezm8tl,2024-04-05T13:50:12.715Z,"20 km WSW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T10:14:15.350Z,33.5275,-116.7258333,4.51,0.55,ml,27,61,0.06405,0.15,ci,ci40706000,2024-04-05T23:04:47.744Z,"6 km WSW of Anza, CA",earthquake,0.18,0.36,0.121,11,reviewed,ci,ci
 2024-04-05T10:12:56.900Z,40.0433333,-121.2863333,11.23,2.19,md,22,52,0.231,0.09,nc,nc74029666,2024-04-05T21:25:16.051Z,"5 km NW of Belden, CA",earthquake,0.23,0.8,0.169,26,reviewed,nc,nc
 2024-04-05T10:10:34.240Z,33.7443333,-116.0356667,4.09,1.15,ml,33,90,0.09673,0.17,ci,ci40705992,2024-04-05T23:02:40.544Z,"15 km ENE of Coachella, CA",earthquake,0.22,0.7,0.205,19,reviewed,ci,ci
-2024-04-05T09:55:04.880Z,46.8645,-112.529,9.88,1.23,ml,12,100,0.04969,0.1,mb,mb90045078,2024-04-05T15:21:33.260Z,"15 km SE of Lincoln, Montana",earthquake,0.53,0.45,0.0924451450337105,5,reviewed,mb,mb
