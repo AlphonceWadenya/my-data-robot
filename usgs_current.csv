@@ -235,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T19:09:48.900Z,47.16,-121.83516666666667,-0.88,1.26,ml,12,148,0.1085,0.05,uw,uw61994531,2024-04-05T19:42:52.960Z,"12 km ESE of Enumclaw, Washington",explosion,0.47,31.61,0.09821577112625057,5,reviewed,uw,uw
 2024-04-05T19:06:22.380Z,38.8170013,-122.7943344,10.55,0.76,md,12,103,0.009052,0.12,nc,nc74029831,2024-04-05T19:07:56.359Z,"6 km NW of The Geysers, CA",earthquake,1.1,1.89,0.1,11,automatic,nc,nc
 2024-04-05T19:04:39.610Z,46.0025,-112.474166666667,-2,1.88,ml,9,175,0.05674,0.08,mb,mb90045123,2024-04-05T22:22:03.680Z,"4 km E of Butte, Montana",quarry blast,0.64,31.61,0.279610664233611,16,reviewed,mb,mb
-2024-04-05T18:57:24.832Z,-11.0088,161.4377,10,4.7,mb,24,129,2.141,0.5,us,us7000ma9y,2024-04-05T19:45:02.040Z,"80 km SW of Kirakira, Solomon Islands",earthquake,7.38,1.84,0.087,40,reviewed,us,us
-2024-04-05T18:53:32.329Z,36.01966667,-96.52216667,0,1.57,ml,85,100,0.1781650379,0.45,ok,ok2024gtae,2024-04-05T20:07:15.933Z,"7 km ENE of Drumright, Oklahoma",quarry blast,,0.4,0.17,37,reviewed,ok,ok
