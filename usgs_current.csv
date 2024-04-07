@@ -186,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-06T18:49:14.560Z,19.396333694458,-155.279830932617,1.25,1.8,ml,14,54,0.00592,0.119999997,hv,hv74163127,2024-04-06T18:51:52.170Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.239999995,0.18,5,automatic,hv,hv
 2024-04-06T18:34:03.284Z,62.6882,-152.9997,0,1.4,ml,,,,1.39,ak,ak0244gq1re0,2024-04-06T18:36:22.922Z,"78 km ESE of Nikolai, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-04-06T18:32:00.360Z,44.3718333333333,-116.081333333333,10.05,3.73,ml,10,85,0.1789,0.12,mb,mb90045248,2024-04-07T14:36:48.664Z,"7 km N of Smiths Ferry, Idaho",earthquake,0.4,1.01,0.208976563230661,55,reviewed,mb,mb
-2024-04-06T18:26:16.152Z,31.586,-104.564,1.6176,1.5,ml,12,169,0.1,0.5,tx,tx2024guuu,2024-04-06T18:46:05.238Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.67809370594592,0.1,8,automatic,tx,tx
