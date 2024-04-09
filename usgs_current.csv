@@ -6,6 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-09T21:59:36.420Z,45.863,-122.45683333333334,-0.78,2.36,md,8,336,0.07429,0.22,uw,uw61987562,2024-04-09T22:18:39.420Z,"3 km W of Yacolt, Washington",explosion,18.66,31.61,0.07704783504802748,5,reviewed,uw,uw
 2024-04-09T21:53:13.836Z,62.1352,-147.953,38.2,1.4,ml,,,,0.46,ak,ak0244lqk73r,2024-04-09T21:55:18.893Z,"39 km NNW of Glacier View, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-04-09T21:39:31.920Z,34.9911667,-118.1926667,0.93,1.32,ml,31,36,0.1159,0.21,ci,ci40709080,2024-04-09T21:45:56.978Z,"7 km SSW of Mojave, CA",earthquake,0.26,0.58,0.163,29,automatic,ci,ci
+2024-04-09T21:37:40.910Z,45.0856666666667,-111.720666666667,-2,1.18,ml,12,114,0.2702,0.39,mb,mb90045873,2024-04-09T22:49:32.640Z,"29 km SE of Virginia City, Montana",quarry blast,1.13,31.61,0.23307657933808,7,reviewed,mb,mb
 2024-04-09T21:34:44.567Z,24.0975,121.7235,20.036,4.5,mb,32,75,0.652,0.92,us,us7000mb2w,2024-04-09T22:08:23.040Z,"18 km NE of Hualien City, Taiwan",earthquake,2.24,5.517,0.145,14,reviewed,us,us
 2024-04-09T21:27:31.010Z,38.8310013,-122.8118362,2.03,0.72,md,12,66,0.007719,0.01,nc,nc74031906,2024-04-09T21:29:02.524Z,"8 km NW of The Geysers, CA",earthquake,0.29,0.88,0.12,14,automatic,nc,nc
 2024-04-09T21:27:28.220Z,17.9856666666667,-66.8483333333333,16.67,2.08,md,5,181,0.03127,0.07,pr,pr71445288,2024-04-09T21:42:32.760Z,"3 km WSW of Indios, Puerto Rico",earthquake,1.98,0.58,0.0383613402682121,4,reviewed,pr,pr
