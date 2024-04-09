@@ -210,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-08T09:02:59.260Z,17.935,-66.966,14.85,1.99,md,4,231,0.08196,0.03,pr,pr71445163,2024-04-08T09:40:49.812Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.62,0.77,0.0744050410116708,4,reviewed,pr,pr
 2024-04-08T09:01:05.732Z,31.626,-104.506,6.7664,1.4,ml,17,75,0,0.1,tx,tx2024gxtd,2024-04-08T15:54:25.907Z,"62 km SSW of Whites City, New Mexico",earthquake,1.2332773472868235,0.5552380228871878,0.1,10,reviewed,tx,tx
 2024-04-08T08:56:20.490Z,37.3391685,-122.2228317,10.3,1.07,md,7,77,0.03379,0.07,nc,nc74031171,2024-04-08T19:16:50.000Z,"5 km SSE of Portola Valley, CA",earthquake,0.72,2.16,0.17,7,automatic,nc,nc
-2024-04-08T08:47:59.126Z,63.8344,-149.2103,9,1.4,ml,,,,0.82,ak,ak0244jv90xy,2024-04-08T09:00:13.572Z,"12 km WSW of Healy, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-04-08T08:44:46.620Z,33.0845,-116.0308333,11.08,0.99,ml,25,46,0.0993,0.18,ci,ci40707312,2024-04-08T19:30:25.567Z,"11 km SE of Ocotillo Wells, CA",earthquake,0.25,0.62,0.12,7,reviewed,ci,ci
