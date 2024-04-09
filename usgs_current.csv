@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-09T09:48:04.000Z,2.738,127.146,33,6.6,Mi,8,82.79999337600053,,,pt,pt24100001,2024-04-09T09:55:46.159Z,"147 km NW of Tobelo, Indonesia",earthquake,,,,6,reviewed,pt,pt
 2024-04-09T09:39:42.200Z,19.3945007324219,-155.47966003418,5.30000019073486,1.88999999,md,46,40,0.03076,0.189999998,hv,hv74165782,2024-04-09T09:41:19.840Z,"21 km N of Pāhala, Hawaii",earthquake,0.29,0.75,0.319999993,17,automatic,hv,hv
 2024-04-09T09:32:40.720Z,34.1113333,-117.3205,15.13,1.06,ml,40,70,0.1261,0.16,ci,ci40708320,2024-04-09T09:39:00.001Z,"3 km SW of San Bernardino, CA",earthquake,0.18,0.31,0.189,23,automatic,ci,ci
 2024-04-09T09:24:40.880Z,38.836834,-122.7911682,1.93,0.7,md,9,78,0.001699,0.01,nc,nc74031706,2024-04-09T09:26:16.476Z,"6 km WNW of Cobb, CA",earthquake,0.42,0.91,0.2,10,automatic,nc,nc
@@ -200,6 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-08T10:14:42.590Z,48.7916666666667,-112.543,2.95,1.04,ml,4,185,0.616,0.01,mb,mb90045753,2024-04-08T19:51:12.290Z,"19 km WNW of Santa Rita, Montana",earthquake,5.4,2.62,0.343294893094748,3,reviewed,mb,mb
 2024-04-08T10:12:27.290Z,34.0938333,-117.3071667,15.13,0.78,ml,33,77,0.115,0.16,ci,ci40707344,2024-04-08T14:08:08.290Z,"2 km NNE of Colton, CA",earthquake,0.17,0.41,0.164,13,reviewed,ci,ci
 2024-04-08T10:07:39.448Z,40.6614,-74.7326,5.565,1.6,ml,18,144,0.673,0.35,us,us7000mau7,2024-04-08T22:22:47.832Z,"6 km NNE of Whitehouse Station, New Jersey",earthquake,1.7,4.988,0.097,14,reviewed,us,us
-2024-04-08T09:53:32.920Z,33.9365,-116.7081667,9.16,0.69,ml,32,58,0.1134,0.13,ci,ci40707336,2024-04-08T14:08:13.849Z,"8 km ENE of Cabazon, CA",earthquake,0.16,0.49,0.14,15,reviewed,ci,ci
-2024-04-08T09:53:29.160Z,19.338,-155.150333333333,2.2,1.62,md,43,84,0.05221,0.16,hv,hv74164947,2024-04-08T23:20:41.750Z,"14 km S of Fern Forest, Hawaii",earthquake,0.28,0.53,0.204505587589231,20,reviewed,hv,hv
-2024-04-08T09:52:15.736Z,11.257,-87.2909,10,4.3,mb,55,190,1.352,0.71,us,us7000marb,2024-04-08T11:26:41.040Z,"103 km SW of Masachapa, Nicaragua",earthquake,4.12,1.982,0.068,62,reviewed,us,us
