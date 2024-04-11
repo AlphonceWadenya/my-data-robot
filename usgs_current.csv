@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-04-11T19:40:47.530Z,33.2036667,-116.0268326,6.7,1.14,ml,34,112,0.08361,0.15,ci,ci40711160,2024-04-11T19:47:21.442Z,"12 km NE of Ocotillo Wells, CA",earthquake,0.28,0.86,0.164,8,automatic,ci,ci
+2024-04-11T19:40:47.530Z,33.1998333,-116.031,6.5,1.12,ml,37,84,0.08854,0.18,ci,ci40711160,2024-04-11T19:47:24.530Z,"11 km NE of Ocotillo Wells, CA",earthquake,0.19,0.76,0.136,24,automatic,ci,ci
 2024-04-11T19:39:51.129Z,64.9969,-147.0425,3.6,1.7,ml,,,,0.77,ak,ak0244p0d3qg,2024-04-11T19:41:39.187Z,"13 km N of Two Rivers, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-04-11T19:32:51.670Z,38.8338318,-122.8051682,1.64,0.77,md,10,103,0.0111,0.02,nc,nc74032876,2024-04-11T19:34:24.942Z,"7 km W of Cobb, CA",earthquake,0.35,0.96,0.2,13,automatic,nc,nc
 2024-04-11T18:57:12.660Z,19.390832901001,-155.275497436523,1.3400000333786,1.96,ml,19,49,0.004839,0.109999999,hv,hv74168512,2024-04-11T18:59:50.280Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.159999996,0.29,9,automatic,hv,hv
