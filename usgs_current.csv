@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-11T19:32:51.670Z,38.8338318,-122.8051682,1.64,0.77,md,10,103,0.0111,0.02,nc,nc74032876,2024-04-11T19:34:24.942Z,"7 km W of Cobb, CA",earthquake,0.35,0.96,0.2,13,automatic,nc,nc
 2024-04-11T18:57:12.660Z,19.390832901001,-155.275497436523,1.3400000333786,1.96,ml,19,49,0.004839,0.109999999,hv,hv74168512,2024-04-11T18:59:50.280Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.159999996,0.29,9,automatic,hv,hv
 2024-04-11T18:51:24.653Z,32.314,-101.838,5.542,2.8,ml,15,57,0,0.1,tx,tx2024hdzd,2024-04-11T19:15:01.685Z,"21 km NNW of Stanton, Texas",earthquake,0.7191676283460173,2.0763112771072842,0.2,20,reviewed,tx,tx
 2024-04-11T18:49:30.180Z,38.8161659,-122.8308334,2.78,0.83,md,7,123,0.007401,0.02,nc,nc74032866,2024-04-11T18:51:05.413Z,"8 km NW of The Geysers, CA",earthquake,1.9,2.47,0.16,5,automatic,nc,nc
