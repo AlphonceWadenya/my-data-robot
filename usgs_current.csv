@@ -205,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-10T10:32:19.488Z,60.3872,-151.1476,32.1,1.6,ml,,,,0.56,ak,ak0244n7facc,2024-04-10T10:33:49.977Z,"8 km ESE of Kalifornsky, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-10T10:22:45.233Z,39.6213,-119.822,8.5,0.5,ml,8,134.12,0.048,0.1321,nn,nn00876003,2024-04-10T15:08:18.483Z,"0 km NNE of Golden Valley, Nevada",earthquake,,1.5,0.39,4,reviewed,nn,nn
 2024-04-10T10:19:37.260Z,38.814167,-122.8156662,2.64,0.81,md,15,50,0.0102,0.02,nc,nc74032206,2024-04-10T10:21:14.755Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.67,0.17,17,automatic,nc,nc
-2024-04-10T09:54:17.995Z,39.6205,-119.8269,11.7,0.6,ml,6,97.66,0.105,0.0965,nn,nn00876002,2024-04-10T15:05:09.553Z,"0 km N of Golden Valley, Nevada",earthquake,,2.6,0.57,4,reviewed,nn,nn
