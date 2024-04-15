@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-04-15T19:41:16.550Z,34.1348343,-117.434166,9.63,1.19,ml,18,119,0.03538,0.17,ci,ci40713304,2024-04-15T19:43:18.976Z,"5 km NNE of Fontana, CA",earthquake,0.57,0.82,0.217,4,automatic,ci,ci
+2024-04-15T19:44:27.839Z,61.4661,-152.1807,119.2,1.8,ml,,,,0.53,ak,ak0244vmjihr,2024-04-15T19:47:54.815Z,"69 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-04-15T19:41:16.660Z,34.1288333,-117.4345,4.85,1.07,ml,36,53,0.0294,0.18,ci,ci40713304,2024-04-15T19:48:07.653Z,"4 km NNE of Fontana, CA",earthquake,0.25,0.41,0.215,27,automatic,ci,ci
 2024-04-15T19:30:18.450Z,33.8525,-117.5046667,1.72,1.54,ml,48,50,0.05234,0.2,ci,ci40713288,2024-04-15T19:37:19.591Z,"3 km SSE of Home Gardens, CA",earthquake,0.23,0.3,0.429,38,automatic,ci,ci
 2024-04-15T19:26:51.684Z,61.0264,-151.5378,59.9,1.6,ml,,,,0.61,ak,ak0244vmfpg0,2024-04-15T19:29:18.326Z,"22 km WSW of Tyonek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-04-15T19:24:14.087Z,31.602,-104.532,5.6313,1.6,ml,17,156,0.1,0.4,tx,tx2024hlif,2024-04-15T19:44:34.557Z,"65 km SSW of Whites City, New Mexico",earthquake,0,4.8508752406742,0.1,12,automatic,tx,tx
@@ -14,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-15T18:33:46.690Z,36.0058327,-117.803833,1.07,0.94,ml,10,68,0.02365,0.09,ci,ci40713264,2024-04-15T18:37:27.666Z,"12 km NE of Little Lake, CA",earthquake,0.39,0.67,0.229,13,automatic,ci,ci
 2024-04-15T18:28:43.180Z,19.136833190918,-155.453338623047,32.060001373291,2.02999997,md,16,177,0.119,0.100000001,hv,hv74172427,2024-04-15T18:30:20.990Z,"7 km SSE of Pāhala, Hawaii",earthquake,1.31,1.83000004,0.209999993,3,automatic,hv,hv
 2024-04-15T18:17:02.776Z,52.5633,172.7784,35,4.6,mb,58,86,0.822,0.63,us,us7000mc91,2024-04-15T19:39:43.891Z,"41 km SW of Attu Station, Alaska",earthquake,9.85,1.915,0.048,129,reviewed,us,us
-2024-04-15T18:16:44.040Z,19.1441669464111,-155.466827392578,31.5599994659424,3.11,ml,57,164,0.01204,0.170000002,hv,hv74172412,2024-04-15T18:34:14.716Z,"6 km S of Pāhala, Hawaii",earthquake,0.46,0.639999986,0.38,42,automatic,hv,hv
+2024-04-15T18:16:44.010Z,19.1523333333333,-155.471,33.33,2.91,md,50,159,0.008943,0.1,hv,hv74172412,2024-04-15T19:50:32.200Z,"5 km S of Pāhala, Hawaii",earthquake,0.46,0.47,0.0971799520887742,15,reviewed,hv,hv
 2024-04-15T18:14:49.935Z,62.0554,-148.1496,24.2,1.6,ml,,,,0.72,ak,ak0244vlrnny,2024-04-15T18:16:49.764Z,"33 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-15T18:14:42.825Z,64.7306,-151.082,13.8,1.2,ml,,,,0.53,ak,ak0244vlroka,2024-04-15T18:16:54.409Z,"36 km SW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-15T18:10:01.492Z,31.655,-104.382,4.9719,2.2,ml,21,67,0,0.1,tx,tx2024hlfu,2024-04-15T19:25:36.396Z,"57 km S of Whites City, New Mexico",earthquake,0.70357947377338,0.794753673432513,0.2,12,reviewed,tx,tx
@@ -35,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-15T16:16:18.913Z,60.0584,-141.3398,0,1.6,ml,,,,0.48,ak,ak0244vkl6xv,2024-04-15T16:19:03.343Z,"106 km WNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-15T16:14:35.840Z,60.0757,-141.3162,0,2.1,ml,,,,0.73,ak,ak0244vkkstc,2024-04-15T16:16:47.275Z,"106 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-15T16:12:31.181Z,61.7589,-151.7618,83,1.6,ml,,,,0.54,ak,ak0244vkkd0v,2024-04-15T16:26:02.589Z,"32 km SW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-04-15T16:03:28.760Z,33.0503333,-116.4125,12.47,1.84,ml,66,27,0.03448,0.22,ci,ci40713136,2024-04-15T16:10:07.363Z,"18 km E of Julian, CA",earthquake,0.16,0.42,0.249,27,automatic,ci,ci
+2024-04-15T16:03:28.670Z,33.053,-116.4108333,12.92,1.97,ml,67,27,0.0334,0.22,ci,ci40713136,2024-04-15T19:46:59.292Z,"18 km E of Julian, CA",earthquake,0.16,0.43,0.209,25,reviewed,ci,ci
 2024-04-15T16:00:17.460Z,36.21883333,-95.86716667,2.79,1.15,ml,35,181,0.314038375,0.53,ok,ok2024hlbn,2024-04-15T16:28:03.680Z,"5 km SSW of Owasso, Oklahoma",quarry blast,,3.1,0.21,18,reviewed,ok,ok
 2024-04-15T15:46:41.380Z,62.1905,-150.4179,25.8,1.1,ml,,,,0.47,ak,ak0244vk68ju,2024-04-15T15:48:23.364Z,"17 km SW of Trapper Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-15T15:42:26.761Z,-6.2966,150.4474,10,4.5,mb,28,58,4.488,0.62,us,us7000mc6w,2024-04-15T16:18:10.040Z,"89 km SSE of Kimbe, Papua New Guinea",earthquake,9.31,1.785,0.11,24,reviewed,us,us
