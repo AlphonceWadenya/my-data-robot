@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-16T19:39:00.600Z,36.1148338,-117.8799973,8.2,1.03,ml,12,138,0.02054,0.12,ci,ci40714536,2024-04-16T19:41:16.616Z,"10 km NE of Coso Junction, CA",earthquake,0.57,0.93,0.403,3,automatic,ci,ci
 2024-04-16T19:26:58.699Z,62.8322,-151.5594,0,1.6,ml,,,,0.67,ak,ak0244x9z2h9,2024-04-16T19:28:50.921Z,"55 km NW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-16T19:20:52.120Z,36.1165,-117.891,6.12,1.44,ml,28,82,0.02928,0.16,ci,ci40714504,2024-04-16T19:30:23.369Z,"10 km NNE of Coso Junction, CA",earthquake,0.22,0.41,0.244,17,automatic,ci,ci
 2024-04-16T19:20:06.350Z,36.1203333,-117.8903333,6.23,1.42,ml,27,82,0.02885,0.16,ci,ci40714496,2024-04-16T19:31:02.150Z,"10 km NNE of Coso Junction, CA",earthquake,0.25,0.43,0.222,17,automatic,ci,ci
@@ -276,6 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-15T20:01:53.830Z,19.1476669311523,-155.467666625977,30.9400005340576,1.95000005,md,30,170,0.009324,0.119999997,hv,hv74172482,2024-04-15T20:03:54.890Z,"6 km S of Pāhala, Hawaii",earthquake,0.72,0.709999979,0.25999999,8,automatic,hv,hv
 2024-04-15T19:54:18.140Z,36.04,-118.8766667,13.05,1.42,ml,25,63,0.1208,0.19,ci,ci40713328,2024-04-15T21:22:09.163Z,"13 km ESE of Porterville, CA",earthquake,0.31,0.71,0.187,14,reviewed,ci,ci
 2024-04-15T19:50:08.830Z,46.12916666666667,-122.4275,17.11,0.86,ml,19,99,0.07798,0.1,uw,uw61988787,2024-04-15T20:39:18.260Z,"24 km N of Amboy, Washington",earthquake,0.37,0.61,0.10776587726839915,8,reviewed,uw,uw
-2024-04-15T19:44:27.839Z,61.4661,-152.1807,119.2,1.8,ml,,,,0.53,ak,ak0244vmjihr,2024-04-15T19:47:54.815Z,"69 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-04-15T19:42:21.129Z,34.38333333,-96.84666667,0,1.41,ml,46,138,0.2573494992,0.36,ok,ok2024hliv,2024-04-16T13:06:12.915Z,"2 km SW of Mill Creek, Oklahoma",quarry blast,,0.5,0.24,17,reviewed,ok,ok
-2024-04-15T19:41:16.540Z,34.1305,-117.4298333,6.25,0.94,ml,27,61,0.03173,0.17,ci,ci40713304,2024-04-15T20:13:53.675Z,"4 km NE of Fontana, CA",earthquake,0.3,0.57,0.134,16,reviewed,ci,ci
