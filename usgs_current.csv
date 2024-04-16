@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-16T09:53:21.518Z,59.6671,-152.2218,59.4,1.4,ml,,,,0.51,ak,ak0244x46fw7,2024-04-16T09:55:22.912Z,"25 km WSW of Anchor Point, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-04-16T09:35:34.120Z,38.8233337,-122.7611694,1.94,0.73,md,10,129,0.009871,0.01,nc,nc74035191,2024-04-16T09:37:09.628Z,"3 km W of Cobb, CA",earthquake,0.41,0.63,0.12,11,automatic,nc,nc
 2024-04-16T09:21:40.176Z,62.6932,-148.9302,51.4,1.6,ml,,,,1.13,ak,ak0244x3zmf5,2024-04-16T09:24:14.899Z,"66 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-16T09:10:19.270Z,38.8381653,-122.8274994,1.11,0.45,md,7,114,0.006252,0.05,nc,nc74035186,2024-04-16T09:11:55.460Z,"9 km NW of The Geysers, CA",earthquake,0.51,1.16,0.18,7,automatic,nc,nc
