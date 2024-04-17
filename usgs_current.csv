@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-17T13:54:57.580Z,33.2509995,-116.2764969,11.38,1.22,ml,28,59,0.06114,0.17,ci,ci40715240,2024-04-17T13:57:14.179Z,"9 km E of Borrego Springs, CA",earthquake,0.34,0.6,0.375,4,automatic,ci,ci
+2024-04-17T13:52:16.660Z,19.3955001831055,-155.284332275391,-1.10000002384186,2.0999999,md,7,144,0.009257,0.100000001,hv,hv74174952,2024-04-17T13:53:44.950Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.430000007,0.0900000036,4,automatic,hv,hv
 2024-04-17T13:42:24.530Z,19.3886661529541,-155.277496337891,1.01999998092651,1.83000004,md,8,99,0.004513,0.0799999982,hv,hv74174937,2024-04-17T13:44:09.790Z,"7 km SW of Volcano, Hawaii",earthquake,0.37,0.280000001,0.219999999,7,automatic,hv,hv
 2024-04-17T13:37:33.730Z,36.1195,-117.8815,7.47,1.12,ml,24,48,0.02165,0.16,ci,ci40715216,2024-04-17T13:43:16.085Z,"10 km NE of Coso Junction, CA",earthquake,0.24,0.45,0.298,17,automatic,ci,ci
 2024-04-17T13:29:55.550Z,38.8111649,-122.8281631,1.14,1.07,md,16,71,0.002427,0.02,nc,nc74035976,2024-04-17T13:31:27.898Z,"7 km WNW of The Geysers, CA",earthquake,0.21,0.47,0.18,18,automatic,nc,nc
