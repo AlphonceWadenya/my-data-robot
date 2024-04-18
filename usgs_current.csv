@@ -265,4 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-17T09:38:44.820Z,31.633,-104.474,3.1386,1.5,ml,14,120,0,0.3,tx,tx2024hofx,2024-04-17T09:57:10.022Z,"60 km S of Whites City, New Mexico",earthquake,0,1.8945942976381,0.1,12,automatic,tx,tx
 2024-04-17T09:35:31.938Z,31.652,-104.463,6.0999,1.5,ml,17,72,0,0.3,tx,tx2024hofv,2024-04-17T11:01:32.391Z,"58 km S of Whites City, New Mexico",earthquake,0.9786401006908815,0.6938512543022055,0.1,13,reviewed,tx,tx
 2024-04-17T09:33:48.670Z,38.8136673,-122.8263321,14.97,1.06,md,9,140,0.005283,0.06,nc,nc74035826,2024-04-17T09:35:21.656Z,"7 km WNW of The Geysers, CA",earthquake,2.31,9.05,0.14,8,automatic,nc,nc
-2024-04-17T09:26:44.950Z,32.9231667,-115.5366667,5.32,0.99,ml,15,82,0.02962,0.26,ci,ci40715032,2024-04-17T17:41:58.907Z,"6 km S of Brawley, CA",earthquake,0.52,0.66,0.146,5,reviewed,ci,ci
