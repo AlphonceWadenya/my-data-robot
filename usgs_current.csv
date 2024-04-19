@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-19T07:25:23.300Z,36.121666,-117.8873367,2.65,2.24,ml,29,67,0.02661,0.17,ci,ci40550263,2024-04-19T07:27:30.677Z,"10 km NNE of Coso Junction, CA",earthquake,0.32,0.65,0.333,25,automatic,ci,ci
+2024-04-19T07:25:21.190Z,35.3899994,-117.8451691,8.02,1.23,ml,17,68,0.1195,0.16,ci,ci40550255,2024-04-19T07:27:31.535Z,"19 km W of Johannesburg, CA",earthquake,0.37,1.64,0.267,3,automatic,ci,ci
 2024-04-19T07:11:56.680Z,32.6515,-115.7568333,3.91,1.08,ml,27,52,0.02578,0.23,ci,ci40550247,2024-04-19T07:18:02.431Z,"18 km WNW of Progreso, B.C., MX",earthquake,0.29,0.36,0.275,13,automatic,ci,ci
 2024-04-19T06:54:17.770Z,38.821167,-122.8085022,2.83,0.77,md,16,66,0.002541,0.02,nc,nc74037091,2024-04-19T06:55:52.405Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.76,0.22,16,automatic,nc,nc
 2024-04-19T06:30:04.240Z,18.0213333333333,-66.8775,16.05,2.3,md,18,79,0.01913,0.2,pr,pr71445948,2024-04-19T06:39:38.630Z,"0 km NNW of Palomas, Puerto Rico",earthquake,0.5,0.65,0.0945543628242658,7,reviewed,pr,pr
