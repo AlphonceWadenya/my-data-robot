@@ -286,6 +286,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-19T17:04:14.249Z,32.5301,-104.6473,8.343,2.8,ml,33,78,0.659,0.55,us,us7000md8x,2024-04-19T21:07:44.040Z,"32 km SSE of Hope, New Mexico",earthquake,1.06,7.535,0.049,73,reviewed,us,us
 2024-04-19T17:04:00.750Z,38.8031654,-122.8036652,3.11,1.08,md,26,47,0.008105,0.03,nc,nc74037356,2024-04-19T17:05:35.102Z,"5 km NW of The Geysers, CA",earthquake,0.25,0.46,0.14,28,automatic,nc,nc
 2024-04-19T16:56:15.224Z,60.6752,-143.1165,21.4,1.4,ml,,,,0.59,ak,ak024526z59u,2024-04-19T19:25:48.705Z,"85 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-04-19T16:48:47.300Z,51.763,-177.477833333333,2.36,0.62,ml,9,179,0.1508,0.19,av,av93096081,2024-04-20T07:20:39.350Z,"59 km WSW of Adak, Alaska",earthquake,0.87,1.3,0.196312535848263,9,reviewed,av,av
-2024-04-19T16:47:53.940Z,60.5231666666667,-152.804166666667,6.3,-0.34,ml,6,94,0.04138,0.11,av,av93003234,2024-04-20T07:25:21.720Z,"81 km NW of Ninilchik, Alaska",earthquake,0.4,0.89,0.217918538330669,6,reviewed,av,av
-2024-04-19T16:46:42.590Z,51.8015,-177.496833333333,-1.79,0.73,ml,10,157,0.1674,0.16,av,av93096076,2024-04-20T07:17:32.550Z,"60 km W of Adak, Alaska",earthquake,0.98,0.65,0.179573648168363,9,reviewed,av,av
