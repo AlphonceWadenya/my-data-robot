@@ -283,4 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-20T19:42:58.300Z,38.8188324,-122.8451691,11,0.78,md,6,171,0.01597,0.05,nc,nc74038161,2024-04-20T19:44:33.619Z,"9 km WNW of The Geysers, CA",earthquake,1.56,6.34,0.11,8,automatic,nc,nc
 2024-04-20T19:38:23.157Z,38.2162,-117.6851,4,2.3,ml,23,121.36000000000001,0.141,0.3171,nn,nn00876622,2024-04-20T19:41:34.820Z,"41 km ESE of Mina, Nevada",earthquake,,0.8,0.23,14,reviewed,nn,nn
 2024-04-20T19:19:31.240Z,36.118,-117.8833333,7.8,0.61,ml,18,91,0.02306,0.14,ci,ci40552759,2024-04-21T15:16:35.225Z,"10 km NE of Coso Junction, CA",earthquake,0.26,0.43,0.301,8,reviewed,ci,ci
-2024-04-20T19:14:18.246Z,61.9917,-148.4955,4.9,2.3,ml,,,,0.86,ak,ak02453w1sm0,2024-04-20T19:16:13.304Z,"21 km N of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
