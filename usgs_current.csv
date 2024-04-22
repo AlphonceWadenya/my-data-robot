@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-22T08:43:15.464Z,61.323,-147.2172,11.1,1.6,ml,,,,0.75,ak,ak024570qxmi,2024-04-22T08:45:10.120Z,"51 km WNW of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-04-22T08:42:47.840Z,32.9178352,-116.2403336,7.88,1.15,ml,44,83,0.153,0.21,ci,ci40554535,2024-04-22T08:48:56.065Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.25,1.5,0.261,6,automatic,ci,ci
 2024-04-22T08:37:26.410Z,38.8235016,-122.8431702,2.01,0.34,md,9,90,0.00637,0.01,nc,nc74039116,2024-04-22T08:39:02.299Z,"9 km NW of The Geysers, CA",earthquake,0.44,1.13,0.17,11,automatic,nc,nc
 2024-04-22T08:35:11.478Z,60.2709,-151.1632,33.4,1.1,ml,,,,0.78,ak,ak024570p7i6,2024-04-22T08:38:12.839Z,"9 km SE of Kasilof, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-04-22T08:27:51.985Z,35.54412079,-96.75457764,3.64465332,1.8,ml,34,44.32217789,0.0158623606,0.2729067395,ok,ok2024hxhc,2024-04-22T08:34:21.455Z,"8 km NW of Prague, Oklahoma",earthquake,2.058159077,1.757666748,0.29,14,automatic,ok,ok
