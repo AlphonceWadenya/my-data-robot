@@ -66,6 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-24T14:13:40.200Z,38.8310013,-122.8103333,1.88,1.02,md,17,82,0.007598,0.02,nc,nc74040306,2024-04-24T14:15:16.249Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.42,0.21,16,automatic,nc,nc
 2024-04-24T14:13:16.180Z,33.7581667,-116.0756667,6.7,2.24,ml,64,72,0.1072,0.16,ci,ci40556935,2024-04-24T14:24:26.680Z,"13 km NE of Coachella, CA",earthquake,0.14,0.48,0.189,26,automatic,ci,ci
 2024-04-24T14:10:08.700Z,44.806,-111.059666666667,7.26,0.16,md,11,158,0.03476,0.16,uu,uu80067331,2024-04-24T15:20:24.110Z,"11 km ENE of Hebgen Lake Estates, Montana",earthquake,0.53,0.88,0.320354151637418,6,reviewed,uu,uu
+2024-04-24T14:06:32.020Z,40.4488333,-124.729,24.33,2.12,md,34,243,0.2999,0.13,nc,nc74040301,2024-04-24T19:24:38.842Z,"40 km WNW of Petrolia, CA",earthquake,1.02,2.39,0.275,27,reviewed,nc,nc
 2024-04-24T14:05:06.403Z,62.3171,-151.4344,89.4,1.2,ml,,,,0.58,ak,ak0245af5yld,2024-04-24T15:58:52.925Z,"36 km N of Skwentna, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-04-24T13:48:57.332Z,58.4432,-153.9256,3.6,1.2,ml,,,,1.17,ak,ak0245aetyex,2024-04-24T13:51:25.894Z,"73 km NW of Aleneva, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-04-24T13:47:34.070Z,17.9951666666667,-67.0463333333333,15.22,1.44,md,4,108,0.02568,0.07,pr,pr71446373,2024-04-24T14:38:20.200Z,"2 km N of La Parguera, Puerto Rico",earthquake,0.73,0.92,0.0276747329480007,4,reviewed,pr,pr
