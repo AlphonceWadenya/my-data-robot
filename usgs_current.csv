@@ -254,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-24T10:07:37.177Z,62.4223,-149.9729,18,0.9,ml,,,,0.34,ak,ak0245acstpx,2024-04-24T10:10:21.733Z,"7 km ESE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-24T10:01:55.976Z,60.0518,-139.1591,0,1.6,ml,,,,0.77,ak,ak0245acrkvh,2024-04-24T10:04:11.112Z,"64 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-24T09:56:33.410Z,35.6706667,-117.5185,4.95,1.01,ml,26,99,0.07738,0.12,ci,ci40556807,2024-04-24T10:02:36.597Z,"15 km SW of Searles Valley, CA",earthquake,0.18,0.4,0.119,11,automatic,ci,ci
-2024-04-24T09:44:08.140Z,34.6905,-116.3465,2.43,1.47,ml,24,59,0.1389,0.15,ci,ci40556799,2024-04-24T09:50:51.199Z,"17 km W of Ludlow, CA",earthquake,0.2,1.06,0.206,24,automatic,ci,ci
