@@ -258,7 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-25T04:52:48.961Z,32.017,-103.493,1.8631,1.6,ml,6,192,0.1,1.5,tx,tx2024icmn,2024-04-25T05:30:42.799Z,"30 km WSW of Jal, New Mexico",earthquake,0,4.99526333562469,0.5,6,automatic,tx,tx
 2024-04-25T04:40:18.035Z,31.9449,-103.3207,5.978,2.8,ml,35,42,0.242,0.77,us,us6000mtlk,2024-04-25T05:20:53.040Z,"22 km SSW of Jal, New Mexico",earthquake,1.22,4.986,0.071,26,reviewed,us,us
 2024-04-25T04:28:45.403Z,-31.2702,-68.6232,114.079,4.4,mb,27,82,0.279,1.18,us,us6000mtli,2024-04-26T00:03:32.736Z,"20 km NNW of Albardón, Argentina",earthquake,6.95,4.082,0.22,6,reviewed,us,us
-2024-04-25T04:26:34.529Z,-2.9102,100.0126,24.738,4.7,mb,32,183,3.271,0.64,us,us6000mtlj,2024-04-25T04:46:00.040Z,"108 km SSE of Tuapejat, Indonesia",earthquake,9.81,6.844,0.127,19,reviewed,us,us
-2024-04-25T04:23:24.862Z,31.402,-103.559,3.3736,1.6,ml,9,102,0,1.1,tx,tx2024iclo,2024-04-25T05:01:16.367Z,"4 km NNW of Lindsay, Texas",earthquake,0,2.50673274387695,0.3,7,automatic,tx,tx
-2024-04-25T04:20:15.139Z,7.7888,127.2027,10,5,mww,76,94,1.761,1.23,us,us6000mtlh,2024-04-25T04:54:34.061Z,"72 km E of Kinablangan, Philippines",earthquake,7.95,1.863,0.093,11,reviewed,us,us
-2024-04-25T04:17:06.611Z,60.297,-152.5317,101.9,0.9,ml,,,,0.67,ak,ak0245bwtnky,2024-04-25T04:24:25.923Z,"55 km WNW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
