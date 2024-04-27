@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-04-27T16:35:19.090Z,32.6795006,-115.8759995,5.2,1.7,ml,36,45,0.0504,0.23,ci,ci40559911,2024-04-27T16:37:25.976Z,"13 km ESE of Ocotillo, CA",earthquake,0.34,0.67,0.394,12,automatic,ci,ci
+2024-04-27T16:35:19.100Z,32.6848333,-115.884,4.59,1.68,ml,37,36,0.04926,0.17,ci,ci40559911,2024-04-27T16:41:51.945Z,"12 km ESE of Ocotillo, CA",earthquake,0.18,0.41,0.135,29,automatic,ci,ci
 2024-04-27T16:30:05.560Z,19.3474998474121,-154.929168701172,3.67000007629395,2.48,ml,39,225,0.04839,0.300000012,hv,hv74189167,2024-04-27T16:32:42.910Z,"13 km S of Leilani Estates, Hawaii",earthquake,0.64,0.810000002,0.5,12,automatic,hv,hv
 2024-04-27T16:13:58.380Z,19.1643333435059,-155.495834350586,33.9900016784668,2.23000002,md,45,117,0.03309,0.129999995,hv,hv74189147,2024-04-27T16:15:46.100Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.62,0.74000001,0.100000001,12,automatic,hv,hv
 2024-04-27T16:10:11.040Z,38.828167,-122.817337,1.51,0.27,md,10,120,0.007409,0.02,nc,nc74041961,2024-04-27T16:11:47.286Z,"8 km NW of The Geysers, CA",earthquake,0.56,0.7,0.17,10,automatic,nc,nc
@@ -239,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-26T16:49:07.890Z,17.8623333333333,-66.9545,7.91,1.98,md,3,283,0.133,0.06,pr,pr71446718,2024-04-26T17:05:22.860Z,"13 km SSW of Guánica, Puerto Rico",earthquake,1.07,9.9,0.0189695899296001,3,reviewed,pr,pr
 2024-04-26T16:47:22.650Z,38.8440018,-122.8345032,1.51,1.06,md,18,92,0.01375,0.02,nc,nc74041451,2024-04-26T16:48:58.819Z,"10 km WNW of Cobb, CA",earthquake,0.22,0.52,0.21,18,automatic,nc,nc
 2024-04-26T16:45:27.530Z,19.3584995269775,-155.296173095703,0.939999997615814,1.74000001,md,11,176,0.03105,0.0900000036,hv,hv74187037,2024-04-26T16:46:56.470Z,"11 km SW of Volcano, Hawaii",earthquake,0.27,0.49000001,0.25,6,automatic,hv,hv
-2024-04-26T16:44:39.885Z,37.7114,-117.3186,5.1,1.9,ml,15,97.62,0.053,0.1233,nn,nn00876871,2024-04-26T20:32:58.680Z,"7 km W of Goldfield, Nevada",earthquake,,1.8,0.79,6,reviewed,nn,nn
