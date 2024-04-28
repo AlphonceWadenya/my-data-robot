@@ -27,6 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-28T01:17:17.530Z,19.3998336791992,-155.279006958008,1.94000005722046,1.85,ml,21,52,0.006736,0.119999997,hv,hv74190462,2024-04-28T01:19:55.150Z,"6 km SW of Volcano, Hawaii",earthquake,0.25,0.209999993,0.17,10,automatic,hv,hv
 2024-04-28T01:16:33.470Z,19.3838329315186,-155.278503417969,0.730000019073486,1.97,ml,6,162,0.00405,0.100000001,hv,hv74190457,2024-04-28T01:19:11.720Z,"8 km SW of Volcano, Hawaii",earthquake,0.43,0.319999993,0.47,6,automatic,hv,hv
 2024-04-28T00:51:25.860Z,38.838665,-122.810997,1.27,1.34,md,17,55,0.01526,0.04,nc,nc74042196,2024-04-28T00:53:02.205Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.46,0.19,19,automatic,nc,nc
+2024-04-28T00:48:02.478Z,40.7314,-74.7485,6.552,0.8,ml,7,225,0.028,0.38,us,us6000muiy,2024-04-28T03:23:01.040Z,"6 km SSE of Long Valley, New Jersey",earthquake,1.75,2.336,0.115,10,reviewed,us,us
 2024-04-28T00:39:20.000Z,33.5756667,-116.8083333,9.35,0.99,ml,37,40,0.04107,0.18,ci,ci40560207,2024-04-28T00:45:53.514Z,"13 km W of Anza, CA",earthquake,0.2,0.47,0.135,21,automatic,ci,ci
 2024-04-28T00:37:18.487Z,15.7596,39.7163,10,5,mb,104,119,5.189,0.72,us,us6000muif,2024-04-28T00:53:20.040Z,"30 km ENE of Massawa, Eritrea",earthquake,9.53,1.864,0.058,93,reviewed,us,us
 2024-04-28T00:36:40.340Z,19.2228336334229,-155.332992553711,5.78000020980835,2.08,ml,7,201,0.1619,0.25999999,hv,hv74190382,2024-04-28T00:39:16.900Z,"15 km E of Pāhala, Hawaii",earthquake,6.65,20.9699993,0.24,5,automatic,hv,hv
@@ -142,7 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-27T16:39:09.090Z,17.8761666666667,-66.9375,11.23,2.75,md,25,221,0.09939,0.26,pr,pr71446828,2024-04-27T21:38:32.040Z,"11 km SSW of Guánica, Puerto Rico",earthquake,0.52,0.49,0.153677393704831,13,reviewed,pr,pr
 2024-04-27T16:35:19.100Z,32.6848333,-115.884,4.59,1.68,ml,37,36,0.04926,0.17,ci,ci40559911,2024-04-27T16:46:16.190Z,"12 km ESE of Ocotillo, CA",earthquake,0.18,0.41,0.135,29,automatic,ci,ci
 2024-04-27T16:30:05.540Z,19.3443333333333,-154.9475,7.52,2.11,ml,23,221,0.0441,0.13,hv,hv74189167,2024-04-27T16:52:37.850Z,"14 km SSW of Leilani Estates, Hawaii",earthquake,0.57,0.92,0.135637589334484,5,reviewed,hv,hv
-2024-04-27T16:29:51.182Z,-8.1104,107.2723,68.25,6.1,mww,148,35,0.744,1.35,us,us6000muc0,2024-04-28T01:53:09.365Z,"102 km S of Banjar, Indonesia",earthquake,5.2,4.416,0.043,52,reviewed,us,us
+2024-04-27T16:29:51.182Z,-8.1104,107.2723,68.25,6.1,mww,148,35,0.744,1.35,us,us6000muc0,2024-04-28T03:22:21.256Z,"102 km S of Banjar, Indonesia",earthquake,5.2,4.416,0.043,52,reviewed,us,us
 2024-04-27T16:13:58.380Z,19.1643333435059,-155.495834350586,33.9900016784668,2.23000002,md,45,117,0.03309,0.129999995,hv,hv74189147,2024-04-27T16:15:46.100Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.62,0.74000001,0.100000001,12,automatic,hv,hv
 2024-04-27T16:10:11.040Z,38.828167,-122.817337,1.51,0.27,md,10,120,0.007409,0.02,nc,nc74041961,2024-04-27T16:11:47.286Z,"8 km NW of The Geysers, CA",earthquake,0.56,0.7,0.17,10,automatic,nc,nc
 2024-04-27T16:04:55.239Z,31.65,-104.573,3.7642,1.6,ml,18,183,0.1,0.4,tx,tx2024igzr,2024-04-27T16:27:19.133Z,"61 km SSW of Whites City, New Mexico",earthquake,0,1.71403195711254,0.2,14,automatic,tx,tx
@@ -301,4 +302,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-27T04:10:25.003Z,40.7108,-74.7294,8.351,0.7,ml,5,256,0.022,0.23,us,us6000mugv,2024-04-27T21:22:35.040Z,"5 km WSW of Gladstone, New Jersey",earthquake,2.25,2.283,0.148,6,reviewed,us,us
 2024-04-27T03:29:56.566Z,53.5218,160.3067,49.124,4.1,mb,32,163,1.113,0.49,us,us6000mu75,2024-04-27T21:43:25.040Z,"123 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,13.75,9.744,0.103,26,reviewed,us,us
 2024-04-27T03:27:40.093Z,63.0644,-148.197,55.8,1.3,ml,,,,0.87,ak,ak0245f7d4ih,2024-04-27T03:30:01.312Z,"52 km SE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-04-27T03:23:50.702Z,63.1749,-149.1847,64.3,1.5,ml,,,,0.76,ak,ak0245f7cagu,2024-04-27T03:26:17.634Z,"26 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
