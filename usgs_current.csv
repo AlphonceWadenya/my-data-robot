@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-28T21:23:31.140Z,37.8790016,-122.2555008,8.57,1.03,md,10,82,0.005432,0.02,nc,nc74042621,2024-04-28T21:25:05.378Z,"2 km ENE of Berkeley, CA",earthquake,0.36,0.68,0.03,5,automatic,nc,nc
 2024-04-28T21:17:43.319Z,60.8432,-147.5002,23.1,1.2,ml,,,,0.49,ak,ak0245h5k4zf,2024-04-28T21:19:37.893Z,"44 km W of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-28T21:13:53.151Z,62.2064,-149.8055,17.5,1.1,ml,,,,0.68,ak,ak0245h5javn,2024-04-28T21:15:57.025Z,"5 km NNE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-28T21:06:57.310Z,19.3393325805664,-155.135330200195,-0.129999995231628,2.0999999,md,30,204,0.04624,0.280000001,hv,hv74193412,2024-04-28T21:08:36.250Z,"13 km S of Fern Forest, Hawaii",earthquake,0.83,0.289999992,0.319999993,13,automatic,hv,hv
