@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-29T19:10:54.850Z,61.6803,-150.7233,46.3,1.4,ml,,,,0.48,ak,ak0245irv559,2024-04-29T19:12:35.066Z,"18 km NW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-04-29T19:02:05.683Z,59.735,-139.0028,0,1.7,ml,,,,0.51,ak,ak0245irtbmg,2024-04-29T19:04:45.076Z,"45 km ENE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-29T19:00:18.791Z,64.8161,-148.7526,17,0.7,ml,,,,0.41,ak,ak0245irsx7b,2024-04-29T19:01:56.346Z,"29 km NE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-29T18:36:50.310Z,36.9336662,-121.6595001,6.49,1.33,md,12,130,0.003365,0.07,nc,nc74042991,2024-04-29T18:38:28.080Z,"5 km NNW of Aromas, CA",earthquake,0.4,0.55,0.12,9,automatic,nc,nc
@@ -242,6 +243,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-29T03:34:41.260Z,19.3851661682129,-155.243667602539,2.57999992370605,2.01,ml,17,66,0.007223,0.310000002,hv,hv74194337,2024-04-29T03:37:20.690Z,"6 km S of Volcano, Hawaii",earthquake,0.5,0.449999988,0.38,13,automatic,hv,hv
 2024-04-29T03:33:47.500Z,44.7581666666667,-115.666166666667,5.7,1.69,ml,13,93,0.3492,0.25,mb,mb90048393,2024-04-29T14:11:33.920Z,"26 km SSW of Yellow Pine, Idaho",earthquake,0.53,1.62,0.123276294534497,10,reviewed,mb,mb
 2024-04-29T03:33:27.180Z,19.1521663665771,-155.47966003418,31.2700004577637,2.17000008,md,37,147,0.0169,0.159999996,hv,hv74194332,2024-04-29T03:35:20.840Z,"5 km S of Pāhala, Hawaii",earthquake,0.57,0.829999983,0.310000002,8,automatic,hv,hv
+2024-04-29T03:17:43.050Z,55.0515,-162.251,2.66,0.48,ml,8,143,0.05792,0.17,av,av93108836,2024-04-29T19:15:33.030Z,"4 km ESE of King Cove, Alaska",earthquake,0.41,0.71,0.251803446350598,8,reviewed,av,av
 2024-04-29T03:09:08.230Z,19.3863334655762,-155.250335693359,1.28999996185303,1.92,ml,20,77,0.001232,0.209999993,hv,hv74194257,2024-04-29T03:11:46.100Z,"6 km SSW of Volcano, Hawaii",earthquake,0.27,0.170000002,0.32,12,automatic,hv,hv
 2024-04-29T03:08:24.550Z,33.1808333,-115.6163333,3.26,1.29,ml,19,99,0.003404,0.17,ci,ci40560999,2024-04-29T19:02:34.565Z,"11 km SW of Niland, CA",earthquake,0.3,0.15,0.204,8,reviewed,ci,ci
 2024-04-29T03:07:37.510Z,34.0351667,-117.2448333,16.09,1.08,ml,26,81,0.09228,0.18,ci,ci40560991,2024-04-29T18:57:56.458Z,"2 km SE of Loma Linda, CA",earthquake,0.29,0.7,0.196,10,reviewed,ci,ci
