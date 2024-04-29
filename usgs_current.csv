@@ -333,5 +333,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-28T10:13:18.642Z,60.7308,-151.0981,46.7,1.1,ml,,,,0.41,ak,ak0245gyzgk8,2024-04-28T10:15:08.782Z,"11 km ENE of Nikiski, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-04-28T09:58:10.297Z,18.5472,-63.4486,59.578,4,mb,37,166,0.609,0.54,us,us6000mul2,2024-04-28T10:21:23.040Z,"53 km NW of Sandy Ground Village, Anguilla",earthquake,7.31,10.455,0.233,5,reviewed,us,us
 2024-04-28T09:56:59.145Z,36.7166,-116.0732,5.4,-0.3,ml,9,123.95,0.045,0.027,nn,nn00876952,2024-04-29T01:29:05.231Z,"39 km WNW of Indian Springs, Nevada",earthquake,,1.6,0.08,3,reviewed,nn,nn
-2024-04-28T09:53:46.230Z,19.38450050354,-155.247833251953,2.03999996185303,1.78999996,md,13,81,0.003432,0.150000006,hv,hv74191717,2024-04-28T09:55:07.130Z,"6 km SSW of Volcano, Hawaii",earthquake,0.34,0.400000006,0.330000013,12,automatic,hv,hv
-2024-04-28T09:53:03.900Z,19.2374992370605,-155.441665649414,17.5400009155273,2.14,ml,8,194,0.1091,0.180000007,hv,hv74191712,2024-04-28T09:55:39.730Z,"5 km NE of Pāhala, Hawaii",earthquake,2.5,1.37,0.06,3,automatic,hv,hv
