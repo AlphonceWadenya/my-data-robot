@@ -312,5 +312,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-28T13:54:43.310Z,19.1823333333333,-64.7365,43.53,3.34,md,12,284,0.7661,0.27,pr,pr71447033,2024-04-28T14:43:57.950Z,"94 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.98,12.04,0.20938144067234,5,reviewed,pr,pr
 2024-04-28T13:50:25.970Z,36.5026665,-121.0666656,6.92,1.59,md,10,155,0.04781,0.07,nc,nc74042431,2024-04-28T13:51:59.596Z,"8 km ESE of Pinnacles, CA",earthquake,0.57,1.25,0.14,10,automatic,nc,nc
 2024-04-28T13:40:50.720Z,35.6105,-117.4805,7.92,0.99,ml,25,57,0.02821,0.15,ci,ci40560455,2024-04-28T13:51:18.240Z,"18 km E of Ridgecrest, CA",earthquake,0.22,0.39,0.241,9,automatic,ci,ci
-2024-04-28T13:38:37.034Z,63.053,-150.7254,119,2.2,ml,,,,0.25,ak,ak0245h0x5p3,2024-04-28T13:40:38.457Z,"62 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-04-28T13:36:10.150Z,18.1205,-64.6228333333333,70.79,3.32,md,10,201,0.2981,0.28,pr,pr71447028,2024-04-28T14:48:08.860Z,"29 km SE of Cruz Bay, U.S. Virgin Islands",earthquake,1.73,1.38,0.105255538749198,4,reviewed,pr,pr
