@@ -209,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-04T18:09:44.570Z,33.5786667,-116.8081667,8.41,0.24,ml,17,71,0.03972,0.17,ci,ci40738760,2024-05-05T15:50:45.663Z,"13 km WNW of Anza, CA",earthquake,0.29,0.69,0.144,10,reviewed,ci,ci
 2024-05-04T18:05:39.710Z,-10.5999,34.1985,10,4.5,mb,53,80,10.511,0.56,us,us6000mwci,2024-05-05T16:27:36.656Z,"9 km E of Livingstonia, Malawi",earthquake,10.24,1.914,0.079,47,reviewed,us,us
 2024-05-04T18:04:36.976Z,63.2255,-150.6772,28.6,1.5,ml,,,,0.78,ak,ak0245r0x4c1,2024-05-04T18:06:29.090Z,"63 km SE of Denali National Park, Alaska",earthquake,,3.8,,,automatic,ak,ak
-2024-05-04T17:51:43.400Z,36.6148338317871,-119.250503540039,23.6200008392334,2.61,md,6,117,0.1944,0.02,nc,nc75001151,2024-05-05T06:00:25.885Z,"6 km ESE of Orange Cove, CA",earthquake,0.57,1.10000002,0.09,6,automatic,nc,nc
