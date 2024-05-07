@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-07T21:51:30.690Z,38.8120002746582,-122.813499450684,2.91000008583069,0.76,md,13,51,0.01169,0.01,nc,nc75003011,2024-05-07T21:53:08.298Z,"6 km NW of The Geysers, CA",earthquake,0.33,0.800000012,0.27,15,automatic,nc,nc
 2024-05-07T21:42:49.321Z,59.8467,-152.9756,53.3,1.6,ml,,,,0.86,ak,ak0245w1jmsl,2024-05-07T21:45:40.729Z,"63 km E of Pedro Bay, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-05-07T21:31:38.850Z,19.3915004730225,-155.254837036133,0.720000028610229,2.04999995,md,19,56,0.006826,0.230000004,hv,hv74219162,2024-05-07T21:33:02.040Z,"6 km SSW of Volcano, Hawaii",earthquake,0.19,0.25,0.230000004,14,automatic,hv,hv
 2024-05-07T21:26:26.500Z,38.6775,-112.541833333333,1.31,1.51,ml,11,163,0.2675,0.22,uu,uu80069001,2024-05-07T21:46:20.190Z,"16 km SSW of Kanosh, Utah",earthquake,1.12,31.61,0.00296208139236942,2,reviewed,uu,uu
