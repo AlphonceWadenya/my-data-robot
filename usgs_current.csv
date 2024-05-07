@@ -275,4 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-06T07:51:22.202Z,63.4869,-152.7439,16.3,1.1,ml,,,,0.22,ak,ak0245u5q36k,2024-05-06T07:52:59.776Z,"49 km SSW of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-06T07:50:01.770Z,41.585,-112.423166666667,0.57,0.84,md,8,99,0.1322,0.17,uu,uu80068781,2024-05-06T16:14:14.570Z,"16 km SW of Thatcher, Utah",earthquake,0.59,31.61,0.108190964156742,6,reviewed,uu,uu
 2024-05-06T07:48:10.780Z,34.1668333,-117.4796667,7,1.17,ml,50,35,0.06639,0.17,ci,ci40740720,2024-05-06T13:38:53.210Z,"8 km NNW of Fontana, CA",earthquake,0.16,0.35,0.261,30,reviewed,ci,ci
-2024-05-06T07:46:17.915Z,63.9029,-149.0213,88.7,1.5,ml,,,,2.03,ak,ak0245u5p08h,2024-05-06T07:49:23.793Z,"5 km NNW of Healy, Alaska",earthquake,,1.6,,,automatic,ak,ak
