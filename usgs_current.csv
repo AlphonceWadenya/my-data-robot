@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-09T10:45:34.060Z,38.8321647644043,-122.816833496094,1.57000005245209,0.91,md,14,54,0.01023,0.01,nc,nc75003731,2024-05-09T10:47:13.791Z,"8 km NNW of The Geysers, CA",earthquake,0.28,0.629999995,0.35,14,automatic,nc,nc
+2024-05-09T10:42:45.930Z,19.3756675720215,-155.216659545898,1.64999997615814,1.95,ml,25,97,0.002169,0.189999998,hv,hv74223777,2024-05-09T10:45:23.800Z,"7 km SSE of Volcano, Hawaii",earthquake,0.41,0.319999993,0.19,8,automatic,hv,hv
+2024-05-09T10:40:01.456Z,61.2775,-151.0872,51.2,2.2,ml,,,,0.42,ak,ak0245z62101,2024-05-09T10:42:23.097Z,"15 km N of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-05-09T10:31:36.650Z,38.8175010681152,-122.821830749512,2.1800000667572,1.47,md,15,57,0.01036,0.02,nc,nc75003726,2024-05-09T10:33:13.350Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.540000021,0.25,16,automatic,nc,nc
 2024-05-09T10:27:32.934Z,64.4527,-148.024,12.7,1.7,ml,,,,0.59,ak,ak0245z5zb4d,2024-05-09T10:29:03.022Z,"41 km SSW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-09T10:27:19.980Z,19.3950004577637,-155.268829345703,1.05999994277954,2.26,ml,39,40,0.004559,0.310000002,hv,hv74223727,2024-05-09T10:29:56.790Z,"6 km SW of Volcano, Hawaii",earthquake,0.27,0.209999993,0.5,18,automatic,hv,hv
