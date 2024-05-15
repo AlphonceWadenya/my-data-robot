@@ -246,6 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-14T10:05:44.710Z,51.811,-178.820833333333,8.01,0.4,ml,4,221,0.02709,0.09,av,av93126146,2024-05-15T02:51:51.700Z,"150 km W of Adak, Alaska",earthquake,0.6,0.64,0.140947854949677,4,reviewed,av,av
 2024-05-14T10:04:45.155Z,38.2129,-117.7569,4.6,0.9,ml,8,90.78,0.142,0.1611,nn,nn00877580,2024-05-15T02:04:04.674Z,"36 km ESE of Mina, Nevada",earthquake,,8.1,0.6,4,reviewed,nn,nn
 2024-05-14T10:03:25.930Z,38.7866668701172,-122.766502380371,2.63000011444092,1.04,md,15,97,0.01491,0.03,nc,nc75006491,2024-05-14T10:05:03.487Z,"1 km NNW of The Geysers, CA",earthquake,0.38,0.629999995,0.25,16,automatic,nc,nc
-2024-05-14T09:59:58.596Z,61.013,-150.4429,33.6,1.6,ml,,,,0.4,ak,ak02467f9ivn,2024-05-14T10:02:23.356Z,"16 km NE of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-05-14T09:55:41.637Z,65.273,-148.9396,3.6,1,ml,,,,0.66,ak,ak02467f8mpf,2024-05-14T09:57:47.798Z,"23 km NE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-05-14T09:54:17.292Z,-6.2276,147.8466,66.224,4.5,mb,55,105,3.229,0.74,us,us6000myh5,2024-05-14T14:25:44.040Z,"36 km N of Finschhafen, Papua New Guinea",earthquake,4.57,7.218,0.084,42,reviewed,us,us
