@@ -233,5 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-14T17:12:22.569Z,60.1078,-152.7994,101.7,1.6,ml,,,,0.59,ak,ak02467jqu7z,2024-05-14T17:15:47.949Z,"62 km WNW of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-05-14T17:09:38.490Z,38.8381652832031,-122.82266998291,2.0699999332428,1.1,md,19,83,0.01002,0.02,nc,nc75006681,2024-05-14T17:11:15.247Z,"9 km WNW of Cobb, CA",earthquake,0.29,0.439999998,0.16,23,automatic,nc,nc
 2024-05-14T16:54:55.725Z,13.9459,-60.0988,53.884,4.4,mwr,69,95,0.955,0.53,us,us6000myk3,2024-05-14T17:52:31.040Z,"85 km E of Dennery, Saint Lucia",earthquake,5.64,6.826,0.069,20,reviewed,us,us
-2024-05-14T16:54:39.290Z,35.0448333,-118.3325,-0.95,1.13,ml,32,41,0.05462,0.23,ci,ci40581967,2024-05-14T17:33:05.175Z,"14 km SE of Tehachapi, CA",earthquake,0.27,0.64,0.129,22,automatic,ci,ci
-2024-05-14T16:51:31.100Z,19.9071666666667,-155.539833333333,24.78,1.86,md,32,189,0.1215,0.11,hv,hv74230817,2024-05-15T02:32:25.040Z,"18 km SE of Waimea, Hawaii",earthquake,0.51,0.96,0.0630378381012084,11,reviewed,hv,hv
