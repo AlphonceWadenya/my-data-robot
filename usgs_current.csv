@@ -227,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-15T18:14:19.970Z,34.0993333,-117.043,9.65,0.64,ml,22,127,0.04637,0.14,ci,ci40586303,2024-05-15T19:29:19.065Z,"7 km N of Yucaipa, CA",earthquake,0.26,0.48,0.041,4,reviewed,ci,ci
 2024-05-15T18:13:57.795Z,65.0282,-149.9933,7.4,1.1,ml,,,,0.84,ak,ak024697vwtf,2024-05-15T18:16:05.497Z,"30 km E of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-15T18:03:37.630Z,33.2303333,-117.1856667,-0.41,1.12,ml,26,140,0.06021,0.21,ci,ci40586279,2024-05-15T21:09:23.462Z,"6 km ENE of Vista, CA",quarry blast,0.39,31.61,0.158,14,reviewed,ci,ci
-2024-05-15T17:41:29.890Z,38.8238334655762,-122.810165405273,1.33000004291534,0.76,md,10,117,0.0004436,0.03,nc,nc75007136,2024-05-15T17:43:08.425Z,"7 km NNW of The Geysers, CA",earthquake,0.37,0.779999971,0.18,10,automatic,nc,nc
