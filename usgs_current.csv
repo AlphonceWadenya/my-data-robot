@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-16T08:17:18.870Z,34.0723333,-116.8073333,2.58,0.73,ml,41,84,0.03709,0.14,ci,ci40586919,2024-05-16T08:23:09.983Z,"17 km N of Cabazon, CA",earthquake,0.16,0.33,0.173,16,automatic,ci,ci
 2024-05-16T08:07:22.180Z,38.8390007019043,-122.810836791992,2.01999998092651,0.6,md,9,65,0.01559,0.01,nc,nc75007451,2024-05-16T08:08:58.283Z,"8 km WNW of Cobb, CA",earthquake,0.39,1.5,0.35,11,automatic,nc,nc
 2024-05-16T07:54:34.310Z,38.8320007324219,-122.810997009277,2.14000010490417,0.23,md,9,78,0.008623,0.01,nc,nc75007446,2024-05-16T07:56:13.291Z,"8 km WNW of Cobb, CA",earthquake,0.41,1.41999996,0.12,9,automatic,nc,nc
 2024-05-16T07:49:15.030Z,19.4640007019043,-155.606170654297,6.8600001335144,2.3599999,md,35,43,0.01254,0.25999999,hv,hv74232497,2024-05-16T07:50:57.740Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.47,0.629999995,0.25,6,automatic,hv,hv
