@@ -233,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-16T09:17:33.650Z,35.8715,-117.694,10.63,1.56,ml,28,106,0.08406,0.17,ci,ci40586951,2024-05-16T19:49:04.580Z,"20 km ESE of Little Lake, CA",earthquake,0.22,0.37,0.245,17,reviewed,ci,ci
 2024-05-16T09:15:38.160Z,38.7893333435059,-122.7568359375,2.49000000953674,0.88,md,10,122,0.0115,0.02,nc,nc75007461,2024-05-16T09:17:13.733Z,"1 km N of The Geysers, CA",earthquake,0.51,0.850000024,0.16,11,automatic,nc,nc
 2024-05-16T08:56:07.410Z,35.916,-117.6798333,8.63,1.04,ml,20,99,0.03981,0.14,ci,ci40586943,2024-05-16T19:36:43.997Z,"21 km E of Little Lake, CA",earthquake,0.2,0.45,0.116,10,reviewed,ci,ci
-2024-05-16T08:46:37.532Z,63.1021,-150.679,114.5,2,ml,,,,0.42,ak,ak0246apnybt,2024-05-16T08:49:20.282Z,"67 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
