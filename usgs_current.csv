@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-20T23:37:26.510Z,38.7978324890137,-122.815498352051,3.30999994277954,0.44,md,11,86,0.01358,0.01,nc,nc75009921,2024-05-20T23:39:03.914Z,"6 km NW of The Geysers, CA",earthquake,0.44,0.930000007,0.24,10,automatic,nc,nc
 2024-05-20T23:27:02.310Z,38.813835144043,-122.820831298828,2.65000009536743,0.81,md,20,71,0.008193,0.02,nc,nc75009916,2024-05-20T23:28:38.375Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.519999981,0.19,21,automatic,nc,nc
 2024-05-20T23:26:48.076Z,59.6318,-152.8755,79.7,1.9,ml,,,,0.34,ak,ak0246hkmkvb,2024-05-20T23:28:49.027Z,"60 km WSW of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-20T23:24:48.840Z,57.1327,-156.3886,70.7,3.1,ml,,,,0.4,ak,ak0246hkm5gu,2024-05-20T23:32:36.040Z,"74 km SE of Ugashik, Alaska",earthquake,,0.7,,,automatic,ak,ak
