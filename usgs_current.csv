@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-22T19:37:15.020Z,33.4763333,-116.9355,8.88,0.74,ml,14,62,0.1096,0.15,ci,ci40596511,2024-05-22T19:43:12.051Z,"8 km WNW of Aguanga, CA",earthquake,0.3,1.13,0.161,5,automatic,ci,ci
 2024-05-22T19:30:10.350Z,32.6065,-116.9825,3.45,1.37,ml,30,107,0.04417,0.18,ci,ci40596487,2024-05-22T19:36:29.851Z,"7 km ESE of Chula Vista, CA",earthquake,0.33,0.37,0.145,18,automatic,ci,ci
 2024-05-22T19:10:26.043Z,36.7776,-116.2509,8,0.1,ml,9,98.92000000000002,0.059,0.0722,nn,nn00878028,2024-05-22T19:12:30.422Z,"47 km ESE of Beatty, Nevada",earthquake,,2.2,0.99,5,automatic,nn,nn
 2024-05-22T18:54:58.100Z,33.2736667,-116.0073333,2.75,1.06,ml,36,81,0.01911,0.21,ci,ci40596407,2024-05-22T19:06:42.822Z,"6 km WSW of Salton City, CA",earthquake,0.21,0.31,0.15,27,automatic,ci,ci
