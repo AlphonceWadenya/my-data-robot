@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-26T15:33:14.520Z,64.32,-148.2656,6.9,1.1,ml,,,,0.57,ak,ak0246rd4mf0,2024-05-26T15:35:26.402Z,"44 km E of Anderson, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-05-26T15:29:41.796Z,62.8986,-149.1657,67.5,1.8,ml,,,,0.54,ak,ak0246rd3tnn,2024-05-26T15:31:30.674Z,"56 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-26T15:25:36.403Z,62.4142,-151.4736,93,1.3,ml,,,,0.08,ak,ak0246rd2ydk,2024-05-26T15:27:02.757Z,"37 km WSW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-05-26T15:19:34.810Z,33.7546667,-116.0376667,5.09,0.9,ml,38,54,0.1069,0.16,ci,ci40601167,2024-05-26T15:25:43.012Z,"15 km ENE of Coachella, CA",earthquake,0.16,0.52,0.213,21,automatic,ci,ci
