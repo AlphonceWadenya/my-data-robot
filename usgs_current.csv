@@ -185,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-25T22:56:02.243Z,61.567,-149.9147,26.5,2,ml,,,,0.66,ak,ak0246ptw7og,2024-05-25T22:58:57.059Z,"5 km NNE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-25T22:23:16.981Z,-17.1088,167.8842,29.182,6.3,mww,169,28,4.83,0.77,us,us6000n102,2024-05-26T08:26:15.224Z,"83 km NNW of Port-Vila, Vanuatu",earthquake,7.83,4.688,0.039,64,reviewed,us,us
 2024-05-25T22:11:53.644Z,57.544,-154.7737,29.4,1.9,ml,,,,0.23,ak,ak0246ptmof8,2024-05-25T22:14:59.218Z,"19 km W of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-05-25T21:44:27.057Z,65.5084,-144.7345,0.8,1.9,ml,,,,0.78,ak,ak0246pt89e9,2024-05-25T21:47:15.763Z,"7 km SSE of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
