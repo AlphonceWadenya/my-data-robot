@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-27T22:56:32.273Z,58.1779,-155.3704,1.1,1.1,ml,,,,0.56,ak,ak0246t4yyzf,2024-05-27T22:58:04.368Z,"86 km NW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-05-27T22:51:24.730Z,34.3499985,-119.8148346,11.41,1.6,ml,15,112,0.2131,0.21,ci,ci40603543,2024-05-27T22:53:30.085Z,"8 km SSE of Isla Vista, CA",earthquake,0.78,4.26,0.191,14,automatic,ci,ci
 2024-05-27T22:38:54.292Z,61.9943,-149.3387,41.7,1.4,ml,,,,0.38,ak,ak0246t4v5sl,2024-05-27T22:40:15.933Z,"28 km N of Fishhook, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-05-27T22:27:23.233Z,63.8705,-149.0182,99.6,1.6,ml,,,,0.67,ak,ak0246t4sqir,2024-05-27T22:30:02.476Z,"2 km WNW of Healy, Alaska",earthquake,,0.9,,,automatic,ak,ak
