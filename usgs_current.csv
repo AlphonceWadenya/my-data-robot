@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-27T10:59:27.160Z,35.622,-117.465,8.95,1.21,ml,27,65,0.0355,0.11,ci,ci40602255,2024-05-27T11:05:40.931Z,"17 km SSW of Searles Valley, CA",earthquake,0.18,0.34,0.261,11,automatic,ci,ci
 2024-05-27T10:49:07.332Z,-6.5032,129.6123,9.756,4.4,mb,24,83,1.989,1.33,us,us6000n191,2024-05-28T07:48:59.040Z,"Banda Sea",earthquake,7.76,5.289,0.17,10,reviewed,us,us
 2024-05-27T10:48:29.360Z,19.3448333740234,-155.137329101562,3.60999989509583,1.77,ml,51,97,0.04137,0.280000001,hv,hv74250426,2024-05-27T10:51:06.970Z,"13 km S of Fern Forest, Hawaii",earthquake,0.46,1.04999995,0.68,9,automatic,hv,hv
-2024-05-27T10:42:36.542Z,63.3292,-145.4511,5.7,1.4,ml,,,,0.6,ak,ak0246sxqs12,2024-05-27T10:44:53.745Z,"27 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
