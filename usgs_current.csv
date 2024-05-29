@@ -51,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-29T11:39:09.539Z,35.65016667,-98.09866667,6.53,1.55,ml,91,58,0.1016800469,0.37,ok,ok2024knda,2024-05-29T12:34:23.008Z,"5 km NNE of Calumet, Oklahoma",earthquake,,0.7,0.25,41,reviewed,ok,ok
 2024-05-29T11:29:15.385Z,63.0648,-151.3586,0.3,1.6,ml,,,,1.14,ak,ak0246w9c2oi,2024-05-29T11:31:34.269Z,"56 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-29T11:11:13.012Z,28.465,-98.666,9.4482,2.1,ml,18,67,0.2,0.2,tx,tx2024kncc,2024-05-29T18:02:50.700Z,"11 km W of Tilden, Texas",earthquake,1.3783132645073108,2.419697173009678,0.2,12,reviewed,tx,tx
-2024-05-29T10:59:48.480Z,19.4703330993652,-155.438827514648,3.20000004768372,1.91,ml,48,35,0.05475,0.180000007,hv,hv74252471,2024-05-29T11:02:25.890Z,"21 km W of Volcano, Hawaii",earthquake,0.27,1.33000004,0.23,5,automatic,hv,hv
+2024-05-29T10:59:48.500Z,19.4705,-155.439333333333,4.13,1.16,md,43,67,0.05512,0.14,hv,hv74252471,2024-05-29T18:45:43.170Z,"21 km W of Volcano, Hawaii",earthquake,0.29,0.91,0.143007064886064,15,reviewed,hv,hv
 2024-05-29T10:59:16.190Z,34.1463333,-116.8911667,7.39,0.95,ml,40,57,0.06441,0.14,ci,ci40605527,2024-05-29T13:27:37.160Z,"11 km S of Big Bear Lake, CA",earthquake,0.15,0.38,0.162,28,reviewed,ci,ci
 2024-05-29T10:17:11.326Z,61.1161,-150.63,41,1.1,ml,,,,0.21,ak,ak0246w8o26a,2024-05-29T10:19:37.708Z,"21 km N of Point Possession, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-05-29T10:07:51.370Z,35.6526667,-118.4048333,8.25,1.55,ml,32,35,0.05725,0.14,ci,ci40605511,2024-05-29T13:27:40.040Z,"7 km ENE of Lake Isabella, CA",earthquake,0.16,0.38,0.22,27,reviewed,ci,ci
