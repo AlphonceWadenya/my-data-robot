@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-29T20:40:40.310Z,17.9928333333333,-66.99,15.15,2.27,md,5,147,0.05661,0.05,pr,pr71450913,2024-05-29T20:51:35.520Z,"6 km ENE of La Parguera, Puerto Rico",earthquake,0.6,0.76,0.0605659275668591,4,reviewed,pr,pr
 2024-05-29T20:29:08.985Z,64.7216,-146.8162,7.6,1.4,ml,,,,0.63,ak,ak0246weoymq,2024-05-29T20:31:12.320Z,"13 km ENE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-29T20:26:56.870Z,35.6395,-117.4633333,4.92,0.85,ml,10,122,0.04116,0.11,ci,ci40606167,2024-05-29T20:33:04.766Z,"15 km SSW of Searles Valley, CA",earthquake,0.28,0.31,0.144,5,automatic,ci,ci
 2024-05-29T20:26:11.310Z,17.9613333333333,-66.9096666666667,12.72,1.48,md,3,210,0.032,0.03,pr,pr71450908,2024-05-29T20:45:18.280Z,"1 km S of Guánica, Puerto Rico",earthquake,2.41,0.81,0.0860994082739808,3,reviewed,pr,pr
