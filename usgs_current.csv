@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-05-29T13:21:00.273Z,59.6939,-151.6216,57.1,1.1,ml,,,,0.37,ak,ak0246wah6zv,2024-05-29T13:22:47.988Z,"4 km WNW of Diamond Ridge, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-05-29T13:13:26.724Z,23.539,94.6946,94.74,5.4,mww,108,31,2.331,0.69,us,us7000mnrr,2024-05-29T13:35:17.946Z,"31 km ESE of Mawlaik, Myanmar",earthquake,7.88,5.716,0.065,23,reviewed,us,us
 2024-05-29T13:06:06.540Z,33.6893333,-116.791,16.91,0.62,ml,24,89,0.06765,0.12,ci,ci40605583,2024-05-29T13:25:44.085Z,"9 km SW of Idyllwild, CA",earthquake,0.25,0.39,0.114,12,reviewed,ci,ci
 2024-05-29T12:51:57.870Z,33.4546667,-116.6238333,6.93,0.62,ml,32,39,0.04383,0.15,ci,ci40605575,2024-05-29T12:58:13.997Z,"12 km SSE of Anza, CA",earthquake,0.17,0.4,0.152,16,automatic,ci,ci
 2024-05-29T12:46:21.414Z,32.656,-104.4069,9.147,3.4,ml,32,81,0.505,0.39,us,us7000mnrm,2024-05-29T12:52:31.782Z,"12 km S of Atoka, New Mexico",earthquake,1.72,8.489,0.085,18,reviewed,us,us
@@ -113,7 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-28T22:13:31.274Z,58.7772,-154.3149,89.7,1.2,ml,,,,0.23,ak,ak0246us93lz,2024-05-28T22:15:21.756Z,"78 km SSE of Kokhanok, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-05-28T22:11:50.120Z,46.939166666666665,-120.0665,8.34,1.59,ml,14,96,0.05387,0.21,uw,uw62010001,2024-05-28T23:10:50.860Z,"6 km W of Vantage, Washington",earthquake,0.57,1.34,0.15869222956008855,18,reviewed,uw,uw
 2024-05-28T22:07:20.752Z,56.5976,-155.8945,81.3,2,ml,,,,0.69,ak,ak0246us7shy,2024-05-28T22:10:08.431Z,"112 km WSW of Akhiok, Alaska",earthquake,,5.8,,,automatic,ak,ak
-2024-05-28T22:02:37.634Z,-15.0343,-173.6125,10,5,mb,42,101,2.096,0.86,us,us7000mnmx,2024-05-29T02:08:43.698Z,"103 km N of Hihifo, Tonga",earthquake,11.61,1.88,0.043,169,reviewed,us,us
+2024-05-28T22:02:37.634Z,-15.0343,-173.6125,10,5,mb,42,101,2.096,0.86,us,us7000mnmx,2024-05-29T13:30:47.080Z,"103 km N of Hihifo, Tonga",earthquake,11.61,1.88,0.043,169,reviewed,us,us
 2024-05-28T22:02:07.771Z,31.169,-103.493,4.613,2.1,ml,26,49,0.1,0.3,tx,tx2024kmcb,2024-05-29T07:35:35.286Z,"22 km S of Lindsay, Texas",earthquake,0.8500658329299532,1.8463858908656747,0.1,19,reviewed,tx,tx
 2024-05-28T21:49:40.852Z,60.6193,-147.42,25.4,1.5,ml,,,,0.92,ak,ak0246urveit,2024-05-28T21:51:56.259Z,"48 km SW of Tatitlek, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-05-28T21:23:34.836Z,38.3712,-118.9004,5.2,1.6,ml,11,143.37,0.136,0.1235,nn,nn00878316,2024-05-28T22:24:13.854Z,"29 km SW of Hawthorne, Nevada",earthquake,,1.5,0.43,6,reviewed,nn,nn
@@ -183,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-28T13:52:46.423Z,37.5345,-115.2906,10.4,0.9,ml,10,196.84999999999997,0.229,0.1686,nn,nn00878327,2024-05-29T00:08:21.515Z,"9 km SW of Hiko, Nevada",earthquake,,11.1,0.22,6,reviewed,nn,nn
 2024-05-28T13:46:59.990Z,32.6396667,-115.8556667,9.65,1.57,ml,26,184,0.05674,0.21,ci,ci40604231,2024-05-28T22:05:41.757Z,"17 km SE of Ocotillo, CA",earthquake,0.37,0.43,0.139,18,reviewed,ci,ci
 2024-05-28T13:40:42.643Z,62.0435,-149.3255,32.8,1.6,ml,,,,0.61,ak,ak0246un20dk,2024-05-28T13:42:55.875Z,"30 km ESE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-05-28T13:31:19.651Z,59.607,-153.4659,116,1.8,ml,,,,0.39,ak,ak0246un015p,2024-05-28T13:34:19.340Z,"41 km ESE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
