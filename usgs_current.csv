@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-31T09:48:09.233Z,59.7426,-152.0876,15.1,1.4,ml,,,,1.4,ak,ak0246zjbyl7,2024-05-31T09:49:56.070Z,"14 km WSW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-05-31T09:40:00.570Z,38.8208351135254,-122.806335449219,2.74000000953674,0.76,md,17,53,0.003881,0.03,nc,nc75013757,2024-05-31T09:41:36.218Z,"6 km NNW of The Geysers, CA",earthquake,0.27,0.560000002,0.12,20,automatic,nc,nc
 2024-05-31T09:39:00.350Z,38.824333190918,-122.842163085938,1.61000001430511,0.7,md,7,162,0.005703,0.01,nc,nc75013752,2024-05-31T09:40:36.055Z,"9 km NW of The Geysers, CA",earthquake,0.5,0.980000019,0.26,10,automatic,nc,nc
 2024-05-31T09:36:18.419Z,38.2521,-118.3676,3.2,1.1,ml,8,119.1,0.108,0.1473,nn,nn00878407,2024-05-31T09:39:10.050Z,"27 km SW of Mina, Nevada",earthquake,,1.4,0.34,5,automatic,nn,nn
