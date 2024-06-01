@@ -212,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-31T10:44:40.610Z,38.8286666870117,-122.797996520996,2.22000002861023,0.77,md,12,57,0.0108,0.01,nc,nc75013792,2024-05-31T10:46:16.515Z,"7 km WNW of Cobb, CA",earthquake,0.29,0.860000014,0.22,13,automatic,nc,nc
 2024-05-31T10:44:32.664Z,31.676,-104.375,6.51,1.5,ml,15,68,0.1,0.1,tx,tx2024kqsf,2024-05-31T13:42:50.307Z,"55 km S of Whites City, New Mexico",earthquake,0.6418165901130238,0.7906009974497957,0.2,13,reviewed,tx,tx
 2024-05-31T10:36:47.120Z,33.2703333,-116.3025,12.72,1.29,ml,53,29,0.07807,0.17,ci,ci40608143,2024-06-01T00:04:27.150Z,"7 km ENE of Borrego Springs, CA",earthquake,0.15,0.39,0.15,26,reviewed,ci,ci
-2024-05-31T10:35:36.967Z,62.9399,-150.6785,97.4,2.1,ml,,,,0.31,ak,ak0246zjuo0w,2024-05-31T10:37:44.299Z,"49 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
