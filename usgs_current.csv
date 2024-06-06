@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-06-06T13:15:37.965Z,-9.0417,116.8871,14.158,5,mb,105,23,0.904,0.78,us,us7000mqpy,2024-06-06T13:50:59.997Z,"33 km S of Taliwang, Indonesia",earthquake,3.1,3.263,0.068,69,reviewed,us,us
+2024-06-06T13:15:37.965Z,-9.0417,116.8871,14.158,5,mb,105,23,0.904,0.78,us,us7000mqpy,2024-06-06T13:56:08.676Z,"33 km S of Taliwang, Indonesia",earthquake,3.1,3.263,0.068,69,reviewed,us,us
 2024-06-06T13:05:38.566Z,61.5881,-149.967,31.9,1.4,ml,,,,0.59,ak,ak02479iomg0,2024-06-06T13:07:34.233Z,"7 km N of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-06T13:04:56.280Z,38.751335144043,-122.717002868652,1.4099999666214,0.97,md,9,125,0.01194,0.06,nc,nc75017077,2024-06-06T13:06:32.197Z,"3 km SW of Anderson Springs, CA",earthquake,0.97,0.49000001,0.19,7,automatic,nc,nc
 2024-06-06T12:51:00.120Z,38.7958335876465,-122.785835266113,3.07999992370605,1.7,md,34,48,0.00311,0.03,nc,nc75017072,2024-06-06T12:54:03.090Z,"3 km NW of The Geysers, CA",earthquake,0.2,0.360000014,0.16,37,automatic,nc,nc
