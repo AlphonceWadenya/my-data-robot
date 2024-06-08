@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-08T19:13:00.710Z,38.7708320617676,-122.984664916992,2.44000005722046,1.26,md,7,115,0.02366,0.03,nc,nc75017942,2024-06-08T19:14:35.490Z,"5 km SSE of Cloverdale, CA",earthquake,0.38,0.959999979,0.08,7,automatic,nc,nc
 2024-06-08T19:06:03.390Z,38.8385009765625,-122.838996887207,1.78999996185303,1.09,md,17,83,0.002743,0.03,nc,nc75017937,2024-06-08T19:07:40.490Z,"10 km NW of The Geysers, CA",earthquake,0.22,0.409999996,0.22,19,automatic,nc,nc
 2024-06-08T19:04:19.326Z,61.5596,-151.2923,18.2,2,ml,,,,0.18,ak,ak0247cxbnv0,2024-06-08T19:05:44.396Z,"41 km W of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-08T18:59:46.830Z,38.8148345947266,-122.795997619629,2.61999988555908,0.8,md,20,55,0.006878,0.04,nc,nc75017927,2024-06-08T19:01:25.591Z,"5 km NNW of The Geysers, CA",earthquake,0.25,0.540000021,0.19,21,automatic,nc,nc
@@ -249,5 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-07T19:24:46.356Z,-17.9372,-175.1038,192.893,5.1,mww,135,54,5.041,0.67,us,us7000mr28,2024-06-08T18:25:09.040Z,"142 km NW of Neiafu, Tonga",earthquake,10.2,4.962,0.103,9,reviewed,us,us
 2024-06-07T19:22:24.300Z,37.0251,-116.2189,4.4,1.1,ml,54,39.129999999999995,0.046,0.0883,nn,nn00878816,2024-06-07T21:40:36.212Z,"49 km ENE of Beatty, Nevada",earthquake,,0.7,0.32,23,reviewed,nn,nn
 2024-06-07T19:20:59.184Z,64.7853,-149.0222,16.9,1.2,ml,,,,0.42,ak,ak0247b9vtwe,2024-06-07T19:22:43.784Z,"20 km NNE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-06-07T19:12:22.164Z,13.2953,-90.3715,35.762,4.1,mb,48,178,0.834,0.9,us,us7000mr25,2024-06-08T17:46:58.040Z,"67 km WSW of Acajutla, El Salvador",earthquake,5.59,6.087,0.097,34,reviewed,us,us
-2024-06-07T19:10:07.783Z,64.9798,-147.3785,2.4,1.2,ml,,,,0.95,ak,ak0247b9tkru,2024-06-07T19:12:38.763Z,"11 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
