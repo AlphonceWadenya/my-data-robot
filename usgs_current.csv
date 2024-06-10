@@ -199,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-09T12:04:34.350Z,39.4523,-120.2843,13.7,0.8,ml,8,186.15,0.25,0.181,nn,nn00878981,2024-06-10T04:05:11.926Z,"16 km NNW of Truckee, California",earthquake,,5.5,0.5,4,reviewed,nn,nn
 2024-06-09T12:03:28.552Z,-8.8853,-108.54,10,4.8,mb,42,152,36.153,0.75,us,us7000mrch,2024-06-09T12:20:54.040Z,"central East Pacific Rise",earthquake,7.02,1.909,0.055,103,reviewed,us,us
 2024-06-09T11:55:17.220Z,34.0108333,-117.1981667,13.78,0.9,ml,45,28,0.07535,0.19,ci,ci40617943,2024-06-09T12:01:29.659Z,"5 km SSW of Redlands, CA",earthquake,0.21,0.47,0.2,22,automatic,ci,ci
-2024-06-09T11:42:44.450Z,33.8496666,-118.4606705,10.78,1.91,ml,55,130,0.09648,0.27,ci,ci40617935,2024-06-09T12:29:03.068Z,"6 km WSW of Hermosa Beach, CA",earthquake,0.43,0.66,0.365,24,automatic,ci,ci
