@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-17T22:15:11.408Z,59.6602,-153.6577,126.3,1.7,ml,,,,0.87,ak,ak0247rv0fdw,2024-06-17T22:18:00.831Z,"28 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-06-17T22:06:46.728Z,61.4784,-149.9729,31.7,1.8,ml,,,,0.52,ak,ak0247ruyko0,2024-06-17T22:09:06.343Z,"4 km SSW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-17T22:05:53.570Z,38.8300018310547,-122.81600189209,2.8199999332428,0.85,md,10,101,0.00806,0.02,nc,nc75023377,2024-06-17T22:07:28.462Z,"8 km NNW of The Geysers, CA",earthquake,0.42,1.82000005,0.23,11,automatic,nc,nc
-2024-06-17T21:54:33.840Z,34.48433333,-97.27066667,0,1.24,ml,28,77,0.09898057663,0.38,ok,ok2024lwpw,2024-06-18T15:33:25.011Z,"12 km SE of Katie, Oklahoma",quarry blast,,0.6,0.24,12,reviewed,ok,ok
