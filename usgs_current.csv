@@ -134,7 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-17T20:14:21.470Z,35.7855,-117.5945,10.03,0.99,ml,17,127,0.1404,0.15,ci,ci40801344,2024-06-17T20:44:40.094Z,"17 km W of Searles Valley, CA",earthquake,0.3,0.71,0.101,8,reviewed,ci,ci
 2024-06-17T20:14:00.429Z,31.68,-104.389,5.6384,1.8,ml,22,68,0,0.2,tx,tx2024lwmq,2024-06-18T15:32:02.473Z,"54 km S of Whites City, New Mexico",earthquake,0.9738143153508892,1.118599778943862,0.1,13,reviewed,tx,tx
 2024-06-17T20:07:16.020Z,17.9635,-66.951,11.19,2.19,md,4,191,0.06925,0.04,pr,pr71453063,2024-06-17T20:34:38.920Z,"4 km SW of Fuig, Puerto Rico",earthquake,1.96,0.95,0.0480107679562409,3,reviewed,pr,pr
-2024-06-17T20:00:24.738Z,31.681,-104.47,3.743,1.9,ml,13,75,0,0.5,tx,tx2024lwmc,2024-06-17T20:23:46.230Z,"55 km S of Whites City, New Mexico",earthquake,0,1.53183026899432,0.1,10,automatic,tx,tx
+2024-06-17T20:00:24.187Z,31.672,-104.466,6.0486,1.9,ml,16,66,0,0.1,tx,tx2024lwmc,2024-06-18T15:48:12.583Z,"56 km S of Whites City, New Mexico",earthquake,0.9411879168846694,0.7407032593593417,0.2,19,reviewed,tx,tx
 2024-06-17T19:58:34.979Z,31.667,-104.382,2.743,1.6,ml,16,69,0,0.5,tx,tx2024lwmb,2024-06-17T20:23:42.232Z,"56 km S of Whites City, New Mexico",earthquake,0,1.6310768941766,0.1,12,automatic,tx,tx
 2024-06-17T19:49:49.780Z,36.08133333,-98.53916667,5.11,1.64,ml,47,71,0.1745657442,0.17,ok,ok2024lwlt,2024-06-18T15:17:18.504Z,"5 km NE of Canton, Oklahoma",earthquake,,0.6,0.23,21,reviewed,ok,ok
 2024-06-17T19:47:29.510Z,38.7551651000977,-122.731002807617,1.35000002384186,1.01,md,8,110,0.008016,0.09,nc,nc75023352,2024-06-17T19:49:08.387Z,"3 km SSE of The Geysers, CA",earthquake,0.97,0.670000017,0.26,6,automatic,nc,nc
