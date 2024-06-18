@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-18T05:45:37.648Z,62.1248,-147.6201,33.6,1.4,ml,,,,0.36,ak,ak0247t8lw3o,2024-06-18T05:47:08.901Z,"31 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-18T05:38:57.386Z,60.9576,-150.5914,34.3,1.2,ml,,,,0.26,ak,ak0247t8kfm2,2024-06-18T05:40:59.993Z,"6 km NE of Point Possession, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-06-18T05:22:10.311Z,-7.298,155.2102,10,4.9,mb,27,90,5.147,0.72,us,us7000mt4d,2024-06-18T05:45:29.040Z,"112 km SSW of Panguna, Papua New Guinea",earthquake,11.23,1.891,0.068,68,reviewed,us,us
 2024-06-18T05:03:46.350Z,18.0045,-67.0226666666667,12.18,2.36,md,14,105,0.04047,0.08,pr,pr71453158,2024-06-18T05:11:57.700Z,"4 km NE of La Parguera, Puerto Rico",earthquake,0.25,0.5,0.135914506228885,4,reviewed,pr,pr
@@ -207,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-17T06:06:11.380Z,33.9836667,-116.7383333,15.58,1.04,ml,46,80,0.07723,0.14,ci,ci40800768,2024-06-17T14:30:22.490Z,"9 km NNE of Cabazon, CA",earthquake,0.17,0.37,0.08,28,reviewed,ci,ci
 2024-06-17T05:57:10.980Z,33.3515,-116.2403333,10.89,0.98,ml,50,62,0.05898,0.18,ci,ci40800760,2024-06-17T14:23:19.605Z,"16 km NE of Borrego Springs, CA",earthquake,0.22,0.37,0.086,18,reviewed,ci,ci
 2024-06-17T05:54:08.424Z,31.681,-104.433,4.3611,1.5,ml,15,50,0,0.3,tx,tx2024lvkg,2024-06-17T06:09:51.226Z,"55 km S of Whites City, New Mexico",earthquake,0,1.35982387629454,0.1,12,automatic,tx,tx
-2024-06-17T05:50:56.310Z,54.5233333333333,-163.5225,10.73,2.02,ml,12,219,0.1767,0.25,av,av93167661,2024-06-18T03:31:40.860Z,"37 km S of False Pass, Alaska",earthquake,0.85,1.13,0.265376590968271,12,reviewed,av,av
-2024-06-17T05:49:24.135Z,61.4333,-149.8552,32.4,1.1,ml,,,,0.9,ak,ak0247rl3dfh,2024-06-17T05:51:29.729Z,"7 km WSW of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
