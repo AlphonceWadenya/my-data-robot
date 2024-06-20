@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-20T23:22:46.590Z,36.561164855957,-121.071662902832,2.99000000953674,1.68,md,14,102,,0.15,nc,nc75024607,2024-06-20T23:24:24.071Z,"7 km ENE of Pinnacles, CA",earthquake,1.19,2.29999995,0.18,12,automatic,nc,nc
 2024-06-20T23:15:08.620Z,33.3316667,-116.9168333,17.69,1,ml,31,47,0.05036,0.18,ci,ci40805080,2024-06-20T23:21:21.942Z,"6 km WSW of Palomar Observatory, CA",earthquake,0.27,0.53,0.183,27,automatic,ci,ci
 2024-06-20T23:07:52.440Z,38.7956657409668,-122.778335571289,3.03999996185303,0.8,md,17,75,0.007889,0.03,nc,nc75024602,2024-06-20T23:09:27.751Z,"3 km NNW of The Geysers, CA",earthquake,0.31,0.560000002,0.12,17,automatic,nc,nc
 2024-06-20T23:00:27.782Z,61.2943,-152.2084,0,1.1,ml,,,,0.72,ak,ak0247wu4pzu,2024-06-20T23:02:24.820Z,"62 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
