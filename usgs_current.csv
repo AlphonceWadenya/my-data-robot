@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-21T17:43:13.709Z,18.2611,-67.3102,90.057,4.2,ml,23,90,0.163,0.39,us,us7000mttd,2024-06-21T17:54:47.483Z,"9 km SW of Stella, Puerto Rico",earthquake,6.27,5.307,0.062,34,reviewed,us,us
 2024-06-21T17:14:34.368Z,36.0088,-84.1815,8.024,2.2,mb_lg,16,62,0.482,0.4,us,us7000mttc,2024-06-21T17:33:32.198Z,"7 km E of Oak Ridge, Tennessee",earthquake,1.43,5.667,0.17,9,reviewed,us,us
 2024-06-21T17:13:56.390Z,38.8250007629395,-122.843170166016,1.8400000333786,0.64,md,8,111,0.006631,0.01,nc,nc75024987,2024-06-21T17:15:34.895Z,"9 km NW of The Geysers, CA",earthquake,0.52,1.11000001,0.12,9,automatic,nc,nc
 2024-06-21T17:11:35.620Z,35.057,-118.3358333,-0.24,1.17,ml,36,36,0.06641,0.18,ci,ci40805752,2024-06-21T17:18:25.433Z,"13 km SE of Tehachapi, CA",earthquake,0.23,0.46,0.113,25,automatic,ci,ci
@@ -287,5 +288,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-20T18:13:11.350Z,51.9601666666667,178.378333333333,5.19,0.13,ml,4,340,0.08315,0.33,av,av93171876,2024-06-21T03:43:38.840Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.33,4.77,0.224611730122672,4,reviewed,av,av
 2024-06-20T18:10:34.210Z,33.2526667,-116.6526667,18.88,0.83,ml,19,71,0.05356,0.12,ci,ci40804608,2024-06-20T18:20:22.843Z,"4 km SSW of Warner Springs, CA",earthquake,0.24,0.39,0.325,15,automatic,ci,ci
 2024-06-20T17:56:39.950Z,33.493,-116.4885,14.17,0.99,ml,21,178,0.0606,0.11,ci,ci40804584,2024-06-20T18:04:04.401Z,"18 km ESE of Anza, CA",earthquake,0.75,0.71,0.148,29,automatic,ci,ci
-2024-06-20T17:55:43.790Z,32.917,-116.3361667,6.81,0.82,ml,24,45,0.04654,0.18,ci,ci40804576,2024-06-20T18:02:13.272Z,"21 km ENE of Pine Valley, CA",earthquake,0.22,0.42,0.133,15,automatic,ci,ci
-2024-06-20T17:52:31.540Z,38.785831451416,-122.773330688477,1.12999999523163,0.79,md,6,105,0.01356,0.01,nc,nc75024472,2024-06-20T17:54:08.629Z,"2 km NW of The Geysers, CA",earthquake,0.44,0.779999971,0.14,9,automatic,nc,nc
