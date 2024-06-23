@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-23T20:46:18.470Z,33.2636681,-116.0845032,10.36,1.12,ml,25,89,0.08426,0.2,ci,ci40808064,2024-06-23T20:48:22.370Z,"13 km WSW of Salton City, CA",earthquake,0.38,1.05,0.558,11,automatic,ci,ci
 2024-06-23T20:44:10.890Z,19.3988342285156,-155.254501342773,0.689999997615814,1.75999999,md,16,57,0.0109,0.159999996,hv,hv74289416,2024-06-23T20:45:50.390Z,"5 km SSW of Volcano, Hawaii",earthquake,0.15,0.209999993,0.330000013,14,automatic,hv,hv
 2024-06-23T20:13:41.200Z,18.0218333333333,-66.8341666666667,12.32,2.82,md,13,131,0.04061,0.21,pr,pr71453888,2024-06-23T20:29:22.640Z,"2 km SE of Yauco, Puerto Rico",earthquake,0.47,0.81,0.109627297438564,7,reviewed,pr,pr
 2024-06-23T20:10:19.130Z,62.4457,-151.7535,8.8,2.1,ml,,,,0.31,ak,ak02481r0l5l,2024-06-23T20:12:02.745Z,"51 km W of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -237,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-22T21:59:01.620Z,19.4020004272461,-155.261337280273,-0.270000010728836,1.72000003,md,6,122,0.005798,0.0399999991,hv,hv74288176,2024-06-22T22:00:31.190Z,"5 km SSW of Volcano, Hawaii",earthquake,0.28,0.289999992,0.280000001,4,automatic,hv,hv
 2024-06-22T21:44:52.530Z,38.787166595459,-122.772003173828,1.16999995708466,0.95,md,15,82,0.01381,0.02,nc,nc75025592,2024-06-22T21:46:31.636Z,"2 km NW of The Geysers, CA",earthquake,0.26,0.460000008,0.21,15,automatic,nc,nc
 2024-06-22T21:41:21.391Z,62.1498,-147.4038,31.7,3.1,ml,,,,0.76,ak,ak0248049bmc,2024-06-22T21:43:05.515Z,"26 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-06-22T20:46:45.936Z,-15.8757,-74.4597,29.259,5.1,mb,50,130,4.504,1.08,us,us7000mu0g,2024-06-22T21:04:13.040Z,"13 km SW of Atiquipa, Peru",earthquake,9.58,5.538,0.04,202,reviewed,us,us
