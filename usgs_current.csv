@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-27T20:37:33.490Z,38.8176651000977,-122.801834106445,7.1399998664856,0.27,md,9,110,0.008612,0.05,nc,nc75028061,2024-06-27T20:39:10.502Z,"6 km NNW of The Geysers, CA",earthquake,0.97,2.9000001,0.1,9,automatic,nc,nc
 2024-06-27T20:30:38.223Z,62.9197,-148.4054,58.3,1,ml,,,,0.32,ak,ak02488daaxa,2024-06-27T20:32:16.277Z,"59 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-27T20:22:18.490Z,19.208833694458,-155.384002685547,31.1200008392334,2.25,ml,56,158,0.09096,0.150000006,hv,hv74295891,2024-06-27T20:24:56.820Z,"9 km E of Pāhala, Hawaii",earthquake,0.46,0.610000014,0.5,21,automatic,hv,hv
 2024-06-27T20:17:31.610Z,37.5326652526855,-118.836334228516,3.75,1.75,md,16,210,0.05755,0.02,nc,nc75028046,2024-06-27T20:19:10.509Z,"14 km W of Toms Place, CA",earthquake,0.69,0.810000002,0.14,16,automatic,nc,nc
@@ -113,7 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-27T08:56:23.190Z,33.4821667,-116.4566667,9.33,0.61,ml,26,70,0.09747,0.18,ci,ci40811552,2024-06-27T13:16:36.017Z,"22 km ESE of Anza, CA",earthquake,0.23,0.71,0.091,7,reviewed,ci,ci
 2024-06-27T08:51:11.310Z,33.2481667,-116.2663333,11.37,1.04,ml,51,53,0.05629,0.19,ci,ci40811544,2024-06-27T13:17:23.920Z,"10 km E of Borrego Springs, CA",earthquake,0.18,0.32,0.144,21,reviewed,ci,ci
 2024-06-27T08:48:41.309Z,38.662,-119.6793,0,1.1,ml,4,303.40000000000003,0.238,0.0333,nn,nn00880056,2024-06-27T20:34:21.163Z,"9 km ESE of Markleeville, California",earthquake,,0,0,1,reviewed,nn,nn
-2024-06-27T08:39:41.452Z,-33.1308,-69.9637,116.129,4.5,mb,49,160,0.308,0.4,us,us6000n8k8,2024-06-27T12:36:56.805Z,"66 km ENE of Chicureo Abajo, Chile",earthquake,8.12,6.229,0.095,32,reviewed,us,us
+2024-06-27T08:39:41.452Z,-33.1308,-69.9637,116.129,4.5,mb,49,160,0.308,0.4,us,us6000n8k8,2024-06-27T20:39:16.763Z,"66 km ENE of Chicureo Abajo, Chile",earthquake,8.12,6.229,0.095,32,reviewed,us,us
 2024-06-27T08:29:13.480Z,38.8208351135254,-122.763999938965,2.19000005722046,1.26,md,18,118,0.01067,0.02,nc,nc75027831,2024-06-27T08:30:47.816Z,"4 km W of Cobb, CA",earthquake,0.25,0.529999971,0.19,19,automatic,nc,nc
 2024-06-27T08:27:51.560Z,35.9598333,-117.6541667,4.49,1.05,ml,20,131,0.0123,0.12,ci,ci40811536,2024-06-27T13:16:53.685Z,"23 km E of Little Lake, CA",earthquake,0.19,0.24,0.126,11,reviewed,ci,ci
 2024-06-27T08:25:15.661Z,-18.0656,168.3306,98.06,4.8,mb,45,72,4.549,0.67,us,us6000n8k6,2024-06-27T10:13:49.923Z,"36 km S of Port-Vila, Vanuatu",earthquake,9.48,7.528,0.052,113,reviewed,us,us
@@ -217,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-26T20:46:12.086Z,-31.0207,-71.6741,65.736,4.6,mb,50,78,0.347,0.67,us,us6000n8hz,2024-06-26T21:04:47.040Z,"65 km SW of Ovalle, Chile",earthquake,5.27,5.695,0.088,39,reviewed,us,us
 2024-06-26T20:44:38.022Z,63.2752,-150.472,78.7,1.2,ml,,,,0.68,ak,ak02486ptyfu,2024-06-26T20:46:26.244Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-06-26T20:42:19.280Z,19.3811666666667,-155.242,1.68,2,ml,25,69,0.007672,0.09,hv,hv74294241,2024-06-27T18:11:28.110Z,"6 km S of Volcano, Hawaii",earthquake,0.22,0.19,0.19142820448623,10,reviewed,hv,hv
-2024-06-26T20:37:14.161Z,36.8621,34.5417,10,4.3,mb,44,79,0.978,0.76,us,us6000n8hv,2024-06-27T09:46:01.216Z,"10 km WNW of Mersin, Turkey",earthquake,4.96,1.758,0.137,15,reviewed,us,us
