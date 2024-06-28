@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-28T17:56:13.570Z,37.0066680908203,-121.476829528809,4.34999990463257,1.28,md,12,169,0.09157,0.14,nc,nc75028481,2024-06-28T17:57:50.421Z,"8 km E of Gilroy, CA",earthquake,0.69,1.50999999,0.17,8,automatic,nc,nc
+2024-06-28T17:54:26.700Z,38.8328323364258,-122.813003540039,1.35000002384186,0.23,md,8,81,0.009697,0.02,nc,nc75028476,2024-06-28T17:56:04.987Z,"8 km WNW of Cobb, CA",earthquake,0.32,1.21000004,0.06,7,automatic,nc,nc
 2024-06-28T17:43:49.642Z,37.5276,-117.3394,3.5,1.1,ml,14,303.52,0.236,0.3363,nn,nn00880087,2024-06-28T17:46:19.874Z,"22 km SSW of Goldfield, Nevada",earthquake,,18.7,0.13,7,automatic,nn,nn
 2024-06-28T17:38:35.980Z,36.6321678161621,-121.296165466309,7.03000020980835,1.83,md,12,82,0.02595,0.12,nc,nc75028471,2024-06-28T17:40:15.054Z,"18 km NW of Pinnacles, CA",earthquake,0.49,0.910000026,0.24,13,automatic,nc,nc
 2024-06-28T17:38:19.890Z,37.0163345336914,-121.456832885742,10.039999961853,1.56,md,15,107,0.07932,0.09,nc,nc75028466,2024-06-28T17:39:55.054Z,"10 km E of Gilroy, CA",earthquake,0.39,1.29999995,0.23,15,automatic,nc,nc
@@ -63,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-28T12:32:07.600Z,64.4604,-146.9298,7.3,1.4,ml,,,,0.52,ak,ak02489w2jnc,2024-06-28T13:02:55.611Z,"7 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-28T12:20:48.020Z,33.6911667,-116.977,14.37,0.87,ml,40,52,0.02653,0.17,ci,ci40812680,2024-06-28T12:27:00.689Z,"6 km S of Hemet, CA",earthquake,0.19,0.32,0.103,22,automatic,ci,ci
 2024-06-28T12:20:31.660Z,17.8736666666667,-66.3053333333333,12.23,2.49,md,9,210,0.1685,0.1,pr,pr71454203,2024-06-28T12:31:52.830Z,"11 km S of Salinas, Puerto Rico",earthquake,0.55,0.37,0.172074864157233,5,reviewed,pr,pr
-2024-06-28T12:17:07.757Z,64.4939,-146.9954,10,3.2,ml,,,,0.82,ak,ak02489vzbwa,2024-06-28T16:27:29.152Z,"5 km SW of Salcha, Alaska",earthquake,,0,,,reviewed,ak,ak
+2024-06-28T12:17:07.757Z,64.4939,-146.9954,10,3.2,ml,,,,0.82,ak,ak02489vzbwa,2024-06-28T17:54:37.594Z,"5 km SW of Salcha, Alaska",earthquake,,0,,,reviewed,ak,ak
 2024-06-28T12:15:10.100Z,19.154167175293,-155.477172851562,31.4200000762939,1.86,ml,52,141,0.01429,0.159999996,hv,hv74297561,2024-06-28T12:17:47.990Z,"5 km S of Pāhala, Hawaii",earthquake,0.44,0.620000005,0.1,3,automatic,hv,hv
 2024-06-28T12:15:00.659Z,60.7232,-151.3719,32.9,1.3,ml,,,,0.53,ak,ak02489vyvxt,2024-06-28T12:16:33.688Z,"5 km NW of Nikiski, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-28T12:08:27.750Z,34.1138333,-117.5676667,13.68,1.75,ml,81,25,0.02482,0.17,ci,ci40812672,2024-06-28T12:19:53.181Z,"2 km SE of Rancho Cucamonga, CA",earthquake,0.13,0.28,0.175,28,automatic,ci,ci
