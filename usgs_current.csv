@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-28T13:57:19.913Z,61.7444,-150.1707,0,2,ml,,,,0.65,ak,ak02489wtd3l,2024-06-28T13:59:02.597Z,"7 km W of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-06-28T13:54:28.323Z,36.755,-116.2769,14.5,-0.4,ml,8,103.07999999999998,0.047,0.1935,nn,nn00880086,2024-06-28T13:56:27.246Z,"46 km ESE of Beatty, Nevada",earthquake,,2.8,0.41,3,automatic,nn,nn
 2024-06-28T13:48:20.155Z,60.1809,-141.2822,0.7,1.7,ml,,,,0.99,ak,ak02489wrfof,2024-06-28T13:50:31.175Z,"112 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-28T13:31:01.620Z,38.8224983215332,-122.803337097168,3.50999999046326,0.69,md,8,97,0.005338,0.03,nc,nc75028301,2024-06-28T13:32:39.666Z,"6 km NNW of The Geysers, CA",earthquake,0.56,1.44000006,0.08,9,automatic,nc,nc
 2024-06-28T13:25:31.500Z,40.6281661987305,-123.721336364746,3.35999989509583,1.82,md,11,144,0.1474,0.07,nc,nc75028296,2024-06-28T13:27:09.151Z,"33 km E of Hydesville, CA",earthquake,0.35,1.07000005,0.08,4,automatic,nc,nc
@@ -227,6 +229,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-27T15:29:05.758Z,63.339,-147.5327,19.8,1.2,ml,,,,0.21,ak,ak02488aauof,2024-06-27T15:31:03.852Z,"71 km E of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-27T15:22:32.000Z,37.3359985351562,-121.695663452148,7.26999998092651,1.93,md,33,46,0.07895,0.07,nc,nc75027941,2024-06-27T15:25:32.270Z,"12 km ESE of Alum Rock, CA",earthquake,0.17,0.529999971,0.19,28,automatic,nc,nc
 2024-06-27T15:18:32.570Z,37.3371658325195,-121.695999145508,8.27999973297119,1.28,md,11,70,0.04282,0.05,nc,nc75027931,2024-06-27T15:20:09.508Z,"12 km ESE of Alum Rock, CA",earthquake,0.28,0.910000026,0.11,7,automatic,nc,nc
+2024-06-27T15:02:24.240Z,-19.6236,67.0323,10,4.8,mb,42,59,3.453,1.09,us,us6000n8vj,2024-06-28T13:55:45.040Z,"Mid-Indian Ridge",earthquake,3.24,1.858,0.093,36,reviewed,us,us
 2024-06-27T14:59:28.220Z,19.2783336639404,-155.410003662109,29.7700004577637,1.92,ml,16,191,0.05941,0.0799999982,hv,hv74295446,2024-06-27T15:02:07.140Z,"11 km NE of Pāhala, Hawaii",earthquake,1.25,0.779999971,0.29,3,automatic,hv,hv
 2024-06-27T14:36:08.343Z,52.3095,-168.3206,31.4,2.6,ml,12,216,0.739,0.54,us,us6000n8nt,2024-06-27T17:32:15.040Z,"79 km SSE of Nikolski, Alaska",earthquake,7.12,15.755,0.115,10,reviewed,us,us
 2024-06-27T14:26:25.220Z,38.8306655883789,-122.81566619873,1.66999995708466,1.64,md,30,45,0.008473,0.03,nc,nc75027921,2024-06-27T14:29:45.810Z,"8 km NNW of The Geysers, CA",earthquake,0.17,0.300000012,0.15,30,automatic,nc,nc
