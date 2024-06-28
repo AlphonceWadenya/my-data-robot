@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-28T08:44:05.651Z,64.5326,-152.1657,9.8,1.1,ml,,,,1.23,ak,ak02489trdo5,2024-06-28T08:46:28.637Z,"71 km S of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-28T08:34:08.726Z,61.6618,-151.0444,67.9,1.3,ml,,,,0.74,ak,ak02489tp8qw,2024-06-28T08:36:20.726Z,"31 km WNW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-06-28T08:07:11.000Z,38.7941665649414,-122.742668151855,1.61000001430511,0.38,md,6,152,0.01186,0.01,nc,nc75028226,2024-06-28T08:08:48.317Z,"2 km NE of The Geysers, CA",earthquake,0.42,1.10000002,0.17,8,automatic,nc,nc
 2024-06-28T08:04:16.294Z,61.8829,-149.2604,18.2,1.3,ml,,,,0.6,ak,ak02489titul,2024-06-28T08:12:51.682Z,"15 km N of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
