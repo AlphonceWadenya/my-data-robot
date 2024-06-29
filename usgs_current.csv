@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-29T14:45:35.290Z,36.6611,-117.0622,5.3,1.1,ml,18,236.47000000000003,0.373,0.2428,nn,nn00880106,2024-06-29T14:47:44.773Z,"30 km NW of Furnace Creek, California",earthquake,,2.4,0.28,10,automatic,nn,nn
+2024-06-29T14:42:45.621Z,61.669,-149.8576,29.3,1.5,ml,,,,0.39,ak,ak0248bkuzg2,2024-06-29T14:44:59.439Z,"4 km NNW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-29T14:39:10.469Z,59.4719,-151.3718,41.4,1.6,ml,,,,0.45,ak,ak0248bku9l2,2024-06-29T14:40:44.128Z,"15 km E of Seldovia Village, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-06-29T14:22:58.730Z,38.5231666564941,-122.585334777832,22.0799999237061,1.69,md,6,147,0.2604,0.03,nc,nc75028846,2024-06-29T14:24:38.845Z,"6 km SSW of Calistoga, CA",earthquake,1.84,6.86999989,,1,automatic,nc,nc
 2024-06-29T14:19:36.816Z,60.9963,-148.2025,15.3,1.2,ml,,,,0.45,ak,ak0248bkq1ap,2024-06-29T14:21:15.099Z,"36 km NE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
