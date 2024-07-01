@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-01T21:36:05.740Z,32.7753334,-115.822998,11.67,1.11,ml,14,81,0.1094,0.24,ci,ci40816312,2024-07-01T21:38:10.147Z,"16 km ENE of Ocotillo, CA",earthquake,0.53,1.52,0.397,6,automatic,ci,ci
 2024-07-01T21:31:52.140Z,33.5168343,-116.5118332,11.26,1.05,ml,15,150,0.0436,0.17,ci,ci40816304,2024-07-01T21:33:58.532Z,"16 km ESE of Anza, CA",earthquake,0.62,1.28,0.199,3,automatic,ci,ci
 2024-07-01T21:29:32.450Z,36.0906677,-117.8441696,1.44,1.55,ml,16,84,0.02822,0.18,ci,ci40816296,2024-07-01T21:31:47.659Z,"11 km ENE of Coso Junction, CA",earthquake,0.37,0.49,0.263,12,automatic,ci,ci
 2024-07-01T21:28:27.560Z,33.9353333,-116.7906647,8.84,0.97,ml,16,93,0.1006,0.21,ci,ci40816280,2024-07-01T21:30:33.975Z,"2 km N of Cabazon, CA",earthquake,0.66,1.57,0.205,4,automatic,ci,ci
