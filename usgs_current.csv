@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-07-02T14:37:35.640Z,33.168,-116.0191667,7.07,1.78,ml,66,29,0.03517,0.19,ci,ci40817144,2024-07-02T14:44:14.563Z,"11 km ENE of Ocotillo Wells, CA",earthquake,0.14,0.41,0.157,27,automatic,ci,ci
+2024-07-02T14:37:35.640Z,33.168,-116.0191667,7.07,1.78,ml,66,29,0.03517,0.19,ci,ci40817144,2024-07-02T14:48:29.120Z,"11 km ENE of Ocotillo Wells, CA",earthquake,0.14,0.41,0.157,27,automatic,ci,ci
 2024-07-02T14:22:39.507Z,61.9082,-151.1283,66,1.2,ml,,,,0.56,ak,ak0248gjcq4u,2024-07-02T14:24:23.432Z,"16 km ESE of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-07-02T14:16:00.160Z,33.5326667,-116.7283333,3.9,0.91,ml,49,28,0.03349,0.14,ci,ci40817112,2024-07-02T14:39:13.110Z,"6 km WSW of Anza, CA",earthquake,0.11,0.25,0.097,26,reviewed,ci,ci
 2024-07-02T14:15:09.507Z,61.4433,-150.701,59.4,1.4,ml,,,,0.39,ak,ak0248gjb5t2,2024-07-02T14:17:10.906Z,"15 km SW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -236,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-01T15:06:53.783Z,31.676,-104.416,4.7364,1.8,ml,17,69,0,0.3,tx,tx2024mvrm,2024-07-01T15:32:02.278Z,"55 km S of Whites City, New Mexico",earthquake,0,1.3170277291596,0.1,13,automatic,tx,tx
 2024-07-01T14:57:05.960Z,38.8279991149902,-122.789329528809,1.73000001907349,1.05,md,10,75,0.01042,0.02,nc,nc75029526,2024-07-01T14:58:44.530Z,"6 km WNW of Cobb, CA",earthquake,0.45,1.38999999,0.19,12,automatic,nc,nc
 2024-07-01T14:54:08.000Z,44.3576666666667,-116.131333333333,9.86,2.34,ml,8,90,0.06288,0.13,mb,mb90055683,2024-07-01T18:07:25.150Z,"7 km NNW of Smiths Ferry, Idaho",earthquake,0.58,1.06,0.225865780176444,28,reviewed,mb,mb
-2024-07-01T14:47:45.870Z,19.3803329467773,-155.260498046875,0.939999997615814,1.88999999,md,18,90,0.009158,0.150000006,hv,hv74309341,2024-07-01T14:49:12.520Z,"7 km SSW of Volcano, Hawaii",earthquake,0.18,0.180000007,0.239999995,14,automatic,hv,hv
