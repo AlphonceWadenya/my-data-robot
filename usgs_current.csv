@@ -219,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-01T21:29:32.420Z,36.0926667,-117.846,2,1.5,ml,25,84,0.02588,0.17,ci,ci40816296,2024-07-02T13:36:47.176Z,"11 km ENE of Coso Junction, CA",earthquake,0.18,0.22,0.194,19,reviewed,ci,ci
 2024-07-01T21:28:27.640Z,33.9315,-116.8075,5.46,0.7,ml,25,77,0.09802,0.14,ci,ci40816280,2024-07-02T13:36:34.265Z,"2 km NW of Cabazon, CA",earthquake,0.2,0.73,0.179,14,reviewed,ci,ci
 2024-07-01T20:58:49.584Z,63.0947,-151.3523,0,1,ml,,,,0.56,ak,ak0248ezlptq,2024-07-01T21:01:22.647Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-07-01T20:53:41.470Z,38.785,-122.767666666667,3.24,0.39,md,20,83,0.01434,0.03,nc,nc75029631,2024-07-01T22:56:13.189Z,"1 km NW of The Geysers, CA",earthquake,0.22,0.38,0.237,15,reviewed,nc,nc
