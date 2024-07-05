@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-05T20:38:46.542Z,60.6892,-143.3962,0,1.2,ml,,,,0.55,ak,ak0248llmt8u,2024-07-05T20:40:56.713Z,"86 km SSW of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-07-05T20:37:21.550Z,35.7726669,-117.5871658,8.26,1,ml,14,142,0.1489,0.09,ci,ci40649719,2024-07-05T20:39:25.926Z,"16 km W of Searles Valley, CA",earthquake,0.39,1.81,0.28,4,automatic,ci,ci
 2024-07-05T20:29:01.167Z,61.0134,-150.9726,48,1.9,ml,,,,0.36,ak,ak0248llksas,2024-07-05T20:30:31.854Z,"10 km SE of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-07-05T20:10:44.740Z,19.2521667480469,-155.456497192383,30.8999996185303,1.74,ml,41,102,0.04032,0.180000007,hv,hv74317016,2024-07-05T20:13:22.490Z,"5 km NNE of Pāhala, Hawaii",earthquake,0.57,0.699999988,0.92,3,automatic,hv,hv
 2024-07-05T20:10:24.610Z,38.8211669921875,-122.787330627441,2.11999988555908,0.78,md,9,142,0.00945,0.02,nc,nc75031277,2024-07-05T20:11:58.957Z,"6 km W of Cobb, CA",earthquake,0.38,0.720000029,0.28,13,automatic,nc,nc
@@ -110,6 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-05T09:07:31.290Z,46.839666666666666,-121.76933333333334,0.94,0.5700000000000001,ml,15,66,0.02528,0.06,uw,uw62013702,2024-07-05T16:37:02.130Z,"21 km ENE of Ashford, Washington",earthquake,0.22,0.65,0.17041053486885138,5,reviewed,uw,uw
 2024-07-05T09:05:13.827Z,48.7187,-128.667,10,4,mb,114,121,0.848,1,us,us7000mx73,2024-07-05T10:58:06.573Z,"207 km WSW of Tofino, Canada",earthquake,5.31,1.967,0.053,98,reviewed,us,us
 2024-07-05T08:52:24.730Z,33.4996667,-116.5601667,12.14,0.62,ml,44,45,0.03547,0.16,ci,ci40649287,2024-07-05T08:58:38.057Z,"12 km ESE of Anza, CA",earthquake,0.16,0.34,0.171,17,automatic,ci,ci
+2024-07-05T08:49:33.250Z,54.553,-163.541333333333,11.43,1.64,ml,8,260,0.1489,0.24,av,av93186496,2024-07-05T20:35:02.380Z,"34 km SSW of False Pass, Alaska",earthquake,1.12,0.95,0.283237768395339,8,reviewed,av,av
 2024-07-05T08:36:17.204Z,63.1134,-151.4407,1.2,2.1,ml,,,,0.73,ak,ak0248leh4ag,2024-07-05T08:38:43.170Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-05T08:17:45.260Z,44.7616666666667,-111.0175,7.98,1.41,ml,15,99,0.00841,0.18,uu,uu80075291,2024-07-05T16:22:01.160Z,"13 km NNE of West Yellowstone, Montana",earthquake,0.41,0.6,0.125021755192911,4,reviewed,uu,uu
 2024-07-05T08:14:55.972Z,2.3796,96.1505,27.87,4.8,mb,38,194,1.78,0.66,us,us7000mx6y,2024-07-05T15:46:06.933Z,"27 km WSW of Sinabang, Indonesia",earthquake,9.06,6.164,0.096,33,reviewed,us,us
