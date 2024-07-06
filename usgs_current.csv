@@ -4,6 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-06T11:12:12.230Z,32.9971667,-116.4351667,9.09,1.43,ml,70,29,0.03262,0.27,ci,ci40650071,2024-07-06T11:23:22.410Z,"18 km ESE of Julian, CA",earthquake,0.2,0.55,0.268,27,automatic,ci,ci
 2024-07-06T11:04:54.678Z,65.9941,-148.195,7,1.8,ml,,,,0.74,ak,ak0248n3lzkr,2024-07-06T11:06:35.946Z,"40 km E of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-06T10:52:37.120Z,35.6693333,-117.54,6.78,0.6,ml,22,49,0.09478,0.14,ci,ci40650063,2024-07-06T10:58:24.943Z,"13 km ENE of Ridgecrest, CA",earthquake,0.26,0.52,0.109,7,automatic,ci,ci
+2024-07-06T10:52:10.077Z,31.704,-104.259,4.3005,2.3,ml,17,62,0.1,0.6,tx,tx2024nemp,2024-07-06T11:36:06.762Z,"53 km SSE of Whites City, New Mexico",earthquake,0,1.39382455053363,0.3,12,automatic,tx,tx
 2024-07-06T10:47:06.550Z,38.8343315124512,-122.797996520996,1.30999994277954,0.23,md,7,82,0.007232,0.02,nc,nc75031462,2024-07-06T10:48:44.564Z,"7 km WNW of Cobb, CA",earthquake,0.46,1.32000005,0.07,9,automatic,nc,nc
 2024-07-06T10:45:26.470Z,38.8235015869141,-122.806503295898,3.6800000667572,0.75,md,11,96,0.002791,0.03,nc,nc75031457,2024-07-06T10:47:04.822Z,"7 km NNW of The Geysers, CA",earthquake,0.4,1.33000004,0.12,13,automatic,nc,nc
 2024-07-06T10:39:32.175Z,37.4136,-117.278,9.8,1.2,ml,9,289.41,0.114,0.2535,nn,nn00880449,2024-07-06T10:41:59.401Z,"32 km S of Goldfield, Nevada",earthquake,,1.5,0.41,5,automatic,nn,nn
