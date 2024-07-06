@@ -192,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-05T14:51:26.442Z,57.4308,-155.5592,16.1,1.5,ml,,,,0.71,ak,ak0248li4ydg,2024-07-05T14:53:50.541Z,"67 km WSW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-05T14:51:24.600Z,36.9021666666667,-112.409166666667,25.34,1.74,ml,7,190,0.1633,0.19,uu,uu80075301,2024-07-05T17:19:59.350Z,"11 km ESE of Fredonia, Arizona",earthquake,0.99,1.75,0.0924606379583448,4,reviewed,uu,uu
 2024-07-05T14:45:04.780Z,38.8359985351562,-122.801002502441,2.08999991416931,1.31,md,24,61,0.008665,0.02,nc,nc75031172,2024-07-05T14:46:43.630Z,"7 km WNW of Cobb, CA",earthquake,0.19,0.419999987,0.09,26,automatic,nc,nc
-2024-07-05T14:22:59.129Z,64.8537,-148.9832,8.4,0.7,ml,,,,0.3,ak,ak0248lhyt2u,2024-07-05T14:25:39.007Z,"28 km NNE of Four Mile Road, Alaska",earthquake,,0.7,,,automatic,ak,ak
