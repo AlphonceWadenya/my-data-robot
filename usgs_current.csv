@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-07T23:33:52.550Z,31.4996667,-115.6223333,7.47,2.31,ml,7,109,0.1753,0.13,ci,ci40651551,2024-07-07T23:43:00.958Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.33,5.12,0.067,9,automatic,ci,ci
 2024-07-07T23:31:06.867Z,58.4806,-154.2977,4.7,1.1,ml,,,,0.21,ak,ak0248oyg7z2,2024-07-07T23:32:29.528Z,"93 km WNW of Aleneva, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-07T23:20:57.140Z,35.0415,-117.672,-0.84,1.41,ml,29,73,0.1087,0.24,ci,ci40651535,2024-07-07T23:34:30.905Z,"5 km NNW of Boron, CA",earthquake,0.4,0.68,0.122,23,automatic,ci,ci
 2024-07-07T23:05:04.500Z,18.0358333333333,-67.0083333333333,15.84,2.26,md,7,120,0.07435,0.06,pr,pr71454803,2024-07-07T23:27:37.530Z,"5 km ESE of Lajas, Puerto Rico",earthquake,0.47,0.94,0.123408657429751,6,reviewed,pr,pr
