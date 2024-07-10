@@ -229,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-09T03:02:29.888Z,-30.8991,-70.8409,91.072,4.3,mb,29,132,0.144,0.8,us,us7000mxy6,2024-07-09T05:18:17.040Z,"25 km SSE of Monte Patria, Chile",earthquake,8.19,5.132,0.307,3,reviewed,us,us
 2024-07-09T03:00:00.735Z,59.7917,-152.9185,14.8,1.1,ml,,,,0.59,ak,ak0248rxfl6x,2024-07-09T23:12:21.200Z,"61 km W of Anchor Point, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2024-07-09T02:59:56.713Z,61.3652,-150.1573,39.5,1.1,ml,,,,0.5,ak,ak0248rx6vsn,2024-07-09T16:13:01.441Z,"9 km W of Point MacKenzie, Alaska",earthquake,,1,,,reviewed,ak,ak
-2024-07-09T02:58:28.060Z,59.7983333333333,-153.036166666667,21.11,1,ml,16,166,0.02493,0.13,av,av93190521,2024-07-09T23:08:41.250Z,"60 km E of Pedro Bay, Alaska",earthquake,0.79,0.58,0.322198691570223,16,reviewed,av,av
