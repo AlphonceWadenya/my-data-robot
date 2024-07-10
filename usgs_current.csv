@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-09T05:57:41.594Z,63.0029,-150.0046,0,1.8,ml,,,,0.69,ak,ak0248ryyrdb,2024-07-09T06:00:15.644Z,"61 km N of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-09T05:51:24.160Z,38.7968330383301,-122.78133392334,2.98000001907349,0.4,md,8,140,0.006308,0.02,nc,nc75032657,2024-07-09T05:52:59.490Z,"3 km NNW of The Geysers, CA",earthquake,0.63,1.49000001,0.26,8,automatic,nc,nc
 2024-07-09T05:49:54.527Z,37.3398,-114.9595,0,1.1,ml,6,277.55999999999995,0.099,0.1448,nn,nn00880614,2024-07-10T02:03:55.260Z,"18 km E of Alamo, Nevada",earthquake,,17.7,0,1,reviewed,nn,nn
-2024-07-09T05:42:37.230Z,19.4346675872803,-155.199996948242,-0.629999995231628,1.94,ml,8,323,0.04107,0.379999995,hv,hv74323561,2024-07-09T05:45:19.030Z,"3 km ESE of Volcano, Hawaii",earthquake,3.25,8.82999992,0.15,4,automatic,hv,hv
