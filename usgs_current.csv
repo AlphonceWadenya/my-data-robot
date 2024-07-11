@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-11T06:20:05.520Z,19.2098331451416,-155.380340576172,32.0400009155273,1.84000003,md,27,163,0.09436,0.119999997,hv,hv74327111,2024-07-11T06:22:02.830Z,"10 km E of Pāhala, Hawaii",earthquake,0.59,0.790000021,0.159999996,3,automatic,hv,hv
 2024-07-11T06:07:50.503Z,60.6855,-150.6386,36.7,1.2,ml,,,,0.89,ak,ak0248vac6ui,2024-07-11T06:10:58.257Z,"17 km NNE of Sterling, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-07-11T05:59:33.497Z,-32.2823,-71.9112,21.378,4.3,mwr,29,184,0.771,0.76,us,us7000myif,2024-07-11T06:11:25.040Z,"66 km WNW of La Ligua, Chile",earthquake,6.97,5.926,0.039,64,reviewed,us,us
 2024-07-11T05:53:00.448Z,65.2735,-150.4152,1.1,0.8,ml,,,,0.54,ak,ak0248va0ibg,2024-07-11T05:55:44.648Z,"28 km SSW of Rampart, Alaska",earthquake,,0.7,,,automatic,ak,ak
