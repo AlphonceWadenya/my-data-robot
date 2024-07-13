@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-07-13T11:34:09.790Z,19.2045001983643,-155.464340209961,31.2099990844727,2.5,ml,57,102,0.04887,0.119999997,hv,hv74331991,2024-07-13T11:36:48.630Z,"1 km E of Pāhala, Hawaii",earthquake,0.42,0.5,0.44,25,automatic,hv,hv
+2024-07-13T11:34:09.790Z,19.2045001983643,-155.464340209961,31.2099990844727,2.5,ml,57,102,0.04887,0.119999997,hv,hv74331991,2024-07-13T11:42:41.040Z,"1 km E of Pāhala, Hawaii",earthquake,0.42,0.5,0.44,25,automatic,hv,hv
 2024-07-13T11:29:58.459Z,61.7175,-146.4903,27.5,1.6,ml,,,,0.61,ak,ak0248yois85,2024-07-13T11:31:35.491Z,"33 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-13T11:20:08.935Z,35.03562546,-97.51341248,0.4262930155,1.62,ml,10,104.1176682,0.03806008399,0.4355846181,ok,ok2024nria,2024-07-13T11:27:40.387Z,"3 km SW of Washington, Oklahoma",earthquake,4.266068978,3.446159867,0.26,10,automatic,ok,ok
 2024-07-13T11:12:09.160Z,33.7261667,-116.8503333,14.37,0.17,ml,54,33,0.07261,0.15,ci,ci40658383,2024-07-13T11:32:40.095Z,"5 km ESE of Valle Vista, CA",earthquake,0.16,0.24,0.237,2,automatic,ci,ci
