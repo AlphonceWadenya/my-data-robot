@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-16T09:44:12.857Z,35.04880142,-97.79911041,2.45610714,1.78,ml,17,106.0297394,0.1158436984,0.8976012437,ok,ok2024nwrj,2024-07-16T09:51:30.744Z,"12 km E of Chickasha, Oklahoma",earthquake,3.73551133,2.913168424,0.22,15,automatic,ok,ok
+2024-07-16T09:44:10.234Z,61.3481,-146.7926,21.7,1.1,ml,,,,0.64,ak,ak02493m12in,2024-07-16T09:46:08.760Z,"33 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-16T09:31:53.850Z,35.5726667,-118.255,4.62,0.74,ml,21,52,0.1002,0.18,ci,ci40660847,2024-07-16T09:37:52.343Z,"20 km ESE of Lake Isabella, CA",earthquake,0.28,0.63,0.056,8,automatic,ci,ci
 2024-07-16T09:27:58.210Z,19.257999420166,-155.371826171875,33.2200012207031,1.95,ml,54,140,0.07171,0.159999996,hv,hv74336877,2024-07-16T09:30:38.060Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.48,0.550000012,0.56,7,automatic,hv,hv
 2024-07-16T09:22:38.359Z,36.816,-117.7936,1.5,1.2,ml,11,252.07,0.386,0.1833,nn,nn00880971,2024-07-16T09:25:18.712Z,"33 km NE of Lone Pine, California",earthquake,,22.5,0.24,8,automatic,nn,nn
