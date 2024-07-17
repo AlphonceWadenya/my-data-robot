@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-17T17:26:57.280Z,19.3913326263428,-155.247329711914,1.27999997138977,2.19000006,md,24,58,0.006904,0.189999998,hv,hv74340961,2024-07-17T17:28:39.180Z,"5 km SSW of Volcano, Hawaii",earthquake,0.2,0.189999998,0.270000011,16,automatic,hv,hv
+2024-07-17T17:23:29.740Z,33.2649994,-116.4280014,5.87,1.45,ml,46,38,0.009628,0.21,ci,ci40662375,2024-07-17T17:25:36.193Z,"5 km WNW of Borrego Springs, CA",earthquake,0.27,0.77,0.294,10,automatic,ci,ci
+2024-07-17T17:22:21.120Z,38.8456649780273,-122.813835144043,1.33000004291534,0.77,md,14,51,0.01166,0.03,nc,nc75036217,2024-07-17T17:23:56.154Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.49000001,0.12,16,automatic,nc,nc
 2024-07-17T17:09:53.836Z,61.0153,-150.4865,14.9,2.1,ml,,,,0.12,ak,ak02495e4h5j,2024-07-17T17:11:18.090Z,"15 km NE of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-17T17:09:32.319Z,63.4914,-151.143,0,1.4,ml,,,,0.54,ak,ak02495e4fhu,2024-07-17T17:12:19.191Z,"29 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-17T17:07:54.450Z,38.8143348693848,-122.763000488281,1.77999997138977,0.78,md,10,108,0.01386,0.02,nc,nc75036207,2024-07-17T17:09:30.971Z,"4 km W of Cobb, CA",earthquake,0.3,0.839999974,0.09,11,automatic,nc,nc
