@@ -210,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-16T17:59:36.220Z,38.6896,-119.5733,10.9,0.9,ml,7,144.77,0.125,0.1166,nn,nn00880999,2024-07-16T20:51:04.563Z,"2 km WSW of Topaz Lake, Nevada",earthquake,,2.3,0,1,reviewed,nn,nn
 2024-07-16T17:44:02.534Z,62.926,-150.6648,29.4,0.9,ml,,,,0.74,ak,ak02493qsioh,2024-07-16T17:46:08.540Z,"48 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-07-16T17:40:50.611Z,64.6524,-149.6711,12.5,0.9,ml,,,,0.62,ak,ak02493qrrlx,2024-07-16T17:43:06.162Z,"26 km WNW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-07-16T17:37:33.700Z,52.0611666666667,-176.1495,5.18,0.3,ml,6,150,0.005988,0.32,av,av93199296,2024-07-17T05:52:09.010Z,"39 km ENE of Adak, Alaska",earthquake,1.3,1.03,0.30314180832014,6,reviewed,av,av
