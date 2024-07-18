@@ -69,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-18T08:55:27.310Z,33.5418333,-116.788,2.42,0.95,ml,61,22,0.04206,0.2,ci,ci40663207,2024-07-18T14:13:45.450Z,"11 km W of Anza, CA",earthquake,0.14,0.21,0.132,28,reviewed,ci,ci
 2024-07-18T08:52:44.557Z,5.0939,-82.6109,10,4.4,mb,73,146,3.37,0.93,us,us7000mzyv,2024-07-18T14:29:24.040Z,"south of Panama",earthquake,5.74,1.931,0.052,108,reviewed,us,us
 2024-07-18T08:51:48.533Z,61.7684,-149.6455,40.4,0.8,ml,,,,0.42,ak,ak02496wjwv9,2024-07-18T08:53:28.663Z,"16 km N of Meadow Lakes, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-07-18T08:44:08.260Z,33.3161667,-116.2418333,5.56,0.86,ml,59,60,0.07309,0.21,ci,ci40663199,2024-07-18T08:50:14.502Z,"14 km ENE of Borrego Springs, CA",earthquake,0.19,0.47,0.124,23,automatic,ci,ci
+2024-07-18T08:44:08.240Z,33.3165,-116.2431667,5.31,0.88,ml,54,60,0.07201,0.2,ci,ci40663199,2024-07-18T17:53:50.003Z,"14 km ENE of Borrego Springs, CA",earthquake,0.2,0.82,0.104,20,reviewed,ci,ci
 2024-07-18T08:18:40.979Z,35.344,-98.00083333,7.5,1.35,ml,89,32,0.08368357843,0.18,ok,ok2024oafm,2024-07-18T10:08:42.960Z,"6 km NW of Minco, Oklahoma",earthquake,,0.2,0.27,41,reviewed,ok,ok
 2024-07-18T08:07:42.798Z,60.7757,-146.2633,24.4,1.2,ml,,,,0.45,ak,ak02496wagx3,2024-07-18T08:09:43.181Z,"24 km ESE of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-18T08:05:53.600Z,33.199,-116.3773333,11.76,0.63,ml,39,74,0.07666,0.18,ci,ci40663191,2024-07-18T14:13:19.995Z,"6 km S of Borrego Springs, CA",earthquake,0.19,0.52,0.088,8,reviewed,ci,ci
