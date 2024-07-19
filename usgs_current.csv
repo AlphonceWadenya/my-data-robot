@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-19T04:57:03.160Z,33.7301667,-117.4873333,10.41,1.98,ml,116,30,0.03127,0.23,ci,ci40664199,2024-07-19T05:07:26.280Z,"12 km NE of Trabuco Canyon, CA",earthquake,0.15,0.28,0.248,25,automatic,ci,ci
+2024-07-19T04:51:24.300Z,34.668,-119.5443333,9.05,0.77,ml,11,148,0.1298,0.14,ci,ci40664191,2024-07-19T04:57:18.422Z,"27 km NNE of Montecito, CA",earthquake,0.42,1.21,0.143,4,automatic,ci,ci
 2024-07-19T04:33:32.179Z,61.3318,-147.5693,20.1,2.9,ml,,,,0.55,ak,ak02498hlmsf,2024-07-19T04:44:00.040Z,"53 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-19T04:18:36.270Z,38.7978324890137,-122.826667785645,8.18000030517578,0.62,md,6,119,0.007927,0.01,nc,nc75036802,2024-07-19T04:42:13.090Z,"7 km WNW of The Geysers, CA",earthquake,1.57,7.82000017,0.17,7,automatic,nc,nc
 2024-07-19T04:14:57.190Z,37.3089981079102,-121.480499267578,7.44000005722046,1.5,md,18,77,0.05849,0.07,nc,nc75036797,2024-07-19T04:32:15.024Z,"25 km NE of Morgan Hill, CA",earthquake,0.28,0.75,0.08,13,automatic,nc,nc
@@ -242,5 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-18T05:27:19.366Z,64.8268,-149.106,19.7,1,ml,,,,0.32,ak,ak02496umem4,2024-07-18T05:29:28.237Z,"24 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-18T05:22:32.249Z,47.0501,-66.4648,10.942,2.1,ml,10,74,0.357,0.65,us,us7000n05b,2024-07-19T01:49:12.040Z,"73 km W of Miramichi, Canada",earthquake,2.98,7.888,0.085,18,reviewed,us,us
 2024-07-18T05:17:15.950Z,60.24,-151.2004,53.6,1.2,ml,,,,0.41,ak,ak02496uk96z,2024-07-18T05:19:11.708Z,"10 km E of Clam Gulch, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2024-07-18T05:07:08.300Z,32.9858333,-116.314,9.01,0.79,ml,33,73,0.08242,0.18,ci,ci40663079,2024-07-18T14:14:46.106Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.2,0.63,0.212,10,reviewed,ci,ci
-2024-07-18T05:04:42.970Z,18.0391666666667,-65.385,13.14,3.03,md,10,203,0.3128,0.28,pr,pr71455768,2024-07-18T05:16:43.110Z,"11 km SE of Esperanza, Puerto Rico",earthquake,1.54,0.92,0.0891949121861231,7,reviewed,pr,pr
