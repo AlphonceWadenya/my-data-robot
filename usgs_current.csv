@@ -183,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-20T00:08:55.530Z,19.3783340454102,-155.25016784668,-0.430000007152557,1.7,ml,17,111,0.007219,0.300000012,hv,hv74345706,2024-07-20T00:11:49.860Z,"7 km SSW of Volcano, Hawaii",earthquake,0.21,0.209999993,0.15,11,automatic,hv,hv
 2024-07-20T00:02:47.630Z,61.4844,-146.4691,23,1.9,ml,,,,0.6,ak,ak0249a2kmuz,2024-07-20T00:04:34.023Z,"39 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-20T00:00:34.564Z,64.7706,-149.1969,16.1,0.8,ml,,,,0.46,ak,ak0249a2k6f4,2024-07-20T00:02:31.599Z,"19 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-07-19T23:51:53.075Z,61.2997,-152.2457,11.9,0.9,ml,,,,0.2,ak,ak02498t0rsb,2024-07-20T04:17:22.060Z,"64 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
