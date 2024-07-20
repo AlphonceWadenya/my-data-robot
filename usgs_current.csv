@@ -238,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T04:03:39.644Z,52.0532,-170.7749,47.561,3.9,mb,40,160,0.905,0.82,us,us7000n07u,2024-07-19T21:30:34.040Z,"163 km SW of Nikolski, Alaska",earthquake,7.11,7.926,0.128,16,reviewed,us,us
 2024-07-19T04:01:11.984Z,40.1147,-119.7643,16,0.4,ml,5,142.29999999999998,0.061,0.1408,nn,nn00881156,2024-07-19T18:15:11.437Z,"23 km NW of Sutcliffe, Nevada",earthquake,,2.5,0.43,4,reviewed,nn,nn
 2024-07-19T03:58:01.370Z,33.1971667,-116.3851667,11.67,1.48,ml,71,30,0.07575,0.19,ci,ci40664175,2024-07-19T18:45:00.250Z,"7 km S of Borrego Springs, CA",earthquake,0.14,0.27,0.12,26,reviewed,ci,ci
-2024-07-19T03:54:34.810Z,19.3925,-155.2455,1.5,2.62,ml,34,61,0.008856,0.08,hv,hv74344006,2024-07-19T18:42:29.700Z,"5 km SSW of Volcano, Hawaii",earthquake,0.14,0.14,0.160382063121654,11,reviewed,hv,hv
