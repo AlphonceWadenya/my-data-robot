@@ -184,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-19T23:21:10.280Z,33.6253333,-116.6905,11.48,0.47,ml,14,64,0.04563,0.08,ci,ci40665183,2024-07-19T23:41:24.904Z,"8 km NNW of Anza, CA",earthquake,0.26,0.42,0.191,7,reviewed,ci,ci
 2024-07-19T23:09:16.070Z,38.8231658935547,-122.769836425781,1.63999998569489,1.52,md,29,49,0.007295,0.03,nc,nc75037077,2024-07-20T01:29:26.657Z,"4 km WNW of Cobb, CA",earthquake,0.2,0.300000012,0.17,29,automatic,nc,nc
 2024-07-19T23:05:45.217Z,31.661,-104.366,7.0227,1.7,ml,24,69,0.1,0.2,tx,tx2024odei,2024-07-20T11:36:58.017Z,"57 km S of Whites City, New Mexico",earthquake,0.7683583688629287,0.8766553960406953,0.2,18,reviewed,tx,tx
-2024-07-19T22:53:03.142Z,61.9546,-151.8496,98.3,0.8,ml,,,,0.54,ak,ak02498sfnps,2024-07-19T22:55:31.354Z,"24 km W of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
