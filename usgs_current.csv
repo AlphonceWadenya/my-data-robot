@@ -468,5 +468,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-23T03:55:03.501Z,32.777,-100.655,6.1768,2.1,ml,15,78,0.1,0.1,tx,tx2024ojap,2024-07-23T15:56:52.259Z,"18 km NNE of Hermleigh, Texas",earthquake,0.9776564702281964,1.3163006515781763,0.1,7,reviewed,tx,tx
 2024-07-23T03:48:44.790Z,18.069,-68.1835,64.38,3.41,md,13,208,0.4812,0.14,pr,pr71456023,2024-07-23T04:06:26.500Z,"56 km SE of Boca de Yuma, Dominican Republic",earthquake,1.34,1.18,0.0751733277167201,8,reviewed,pr,pr
 2024-07-23T03:46:25.411Z,32.769,-100.67,3.2959,4.4,ml,20,53,0.1,0.3,tx,tx2024ojad,2024-07-23T23:46:27.040Z,"17 km NNE of Hermleigh, Texas",earthquake,1.5224401189334003,1.5051526387902268,0.2,37,reviewed,tx,tx
-2024-07-23T03:44:52.380Z,33.112,-115.6171667,10.15,1.92,ml,46,39,0.03236,0.22,ci,ci40668327,2024-07-23T14:52:20.842Z,"8 km N of Westmorland, CA",earthquake,0.22,0.37,0.193,56,reviewed,ci,ci
-2024-07-23T03:43:21.329Z,32.769,-100.664,2.6611,2.8,ml,14,78,0.1,0.2,tx,tx2024ojaa,2024-07-23T23:40:44.040Z,"17 km NNE of Hermleigh, Texas",earthquake,1.305697356400784,2.4586445394415253,0.1,6,reviewed,tx,tx
