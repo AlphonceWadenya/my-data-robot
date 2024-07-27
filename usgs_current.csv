@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-07-27T20:32:42.590Z,38.8194999694824,-122.82250213623,2.32999992370605,0.93,md,20,64,0.01043,0.02,nc,nc75040232,2024-07-27T20:34:20.777Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.419999987,0.2,21,automatic,nc,nc
-2024-07-27T20:29:39.130Z,38.7809982299805,-122.72550201416,0.670000016689301,1.36,md,10,79,0.009052,0.03,nc,nc75040222,2024-07-27T20:31:15.818Z,"3 km E of The Geysers, CA",earthquake,0.34,0.949999988,0.32,9,automatic,nc,nc
+2024-07-27T20:29:39.130Z,38.7809982299805,-122.72550201416,0.670000016689301,1.36,md,10,79,0.009052,0.03,nc,nc75040222,2024-07-27T20:47:14.058Z,"3 km E of The Geysers, CA",earthquake,0.34,0.949999988,0.32,9,automatic,nc,nc
 2024-07-27T20:22:00.600Z,38.8278350830078,-122.820503234863,1.57000005245209,0.67,md,11,65,0.009275,0.02,nc,nc75040217,2024-07-27T20:37:15.978Z,"8 km NNW of The Geysers, CA",earthquake,0.4,1.30999994,0.47,12,automatic,nc,nc
 2024-07-27T19:56:23.330Z,33.664,-116.748,14.58,0.67,ml,27,87,0.05485,0.12,ci,ci40673487,2024-07-27T20:02:48.000Z,"9 km SSW of Idyllwild, CA",earthquake,0.19,0.26,0.156,16,automatic,ci,ci
 2024-07-27T19:44:49.433Z,64.4798,-146.9642,5.6,0.5,ml,,,,0.59,ak,ak0249lywb0v,2024-07-27T19:46:42.255Z,"5 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
