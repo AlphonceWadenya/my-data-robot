@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-07-30T11:02:01.699Z,58.3031,-156.0702,134.7,1.8,ml,,,,0.32,ak,ak0249qshrwp,2024-07-30T11:04:28.209Z,"55 km SE of King Salmon, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-07-30T11:24:07.480Z,38.8395004272461,-122.811836242676,1.71000003814697,1.01,md,8,69,0.01614,0.03,nc,nc75041397,2024-07-30T11:25:43.969Z,"8 km WNW of Cobb, CA",earthquake,0.49,2.76999998,0.3,9,automatic,nc,nc
+2024-07-30T11:02:01.699Z,58.3031,-156.0702,134.7,1.8,ml,,,,0.32,ak,ak0249qshrwp,2024-07-30T11:26:02.040Z,"55 km SE of King Salmon, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-07-30T10:54:27.620Z,33.678,-116.783,17.3,0.68,ml,38,75,0.06624,0.12,ci,ci40675887,2024-07-30T11:04:30.503Z,"9 km SW of Idyllwild, CA",earthquake,0.16,0.32,0.166,16,automatic,ci,ci
 2024-07-30T10:50:40.540Z,18.0361666666667,-66.826,11.62,1.98,md,4,173,0.218,0.2,pr,pr71456498,2024-07-30T11:11:33.560Z,"2 km E of Yauco, Puerto Rico",earthquake,1.27,5.8,0.0560272559347416,2,reviewed,pr,pr
 2024-07-30T10:36:20.797Z,6.2718,126.0857,62.668,4.6,mb,35,115,0.939,0.62,us,us6000ngvb,2024-07-30T11:04:59.040Z,"14 km SW of Pondaguitan, Philippines",earthquake,8.85,7.766,0.11,25,reviewed,us,us
