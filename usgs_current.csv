@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-30T14:47:07.565Z,63.1191,-151.4038,3,1.6,ml,,,,0.8,ak,ak0249qujqec,2024-07-30T14:49:05.053Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-30T14:40:46.760Z,35.8826667,-117.6981667,4.81,1.05,ml,20,58,0.07578,0.14,ci,ci40676103,2024-07-30T14:46:41.884Z,"20 km ESE of Little Lake, CA",earthquake,0.17,0.38,0.132,13,automatic,ci,ci
-2024-07-30T14:09:33.630Z,36.3798332214355,-120.949996948242,11,1.54,md,15,112,0.05955,0.08,nc,nc75041432,2024-07-30T14:11:09.507Z,"24 km SE of Pinnacles, CA",earthquake,0.42,1.04999995,0.33,9,automatic,nc,nc
+2024-07-30T14:09:33.630Z,36.3798332214355,-120.949996948242,11,1.54,md,15,112,0.05955,0.08,nc,nc75041432,2024-07-30T14:49:30.056Z,"24 km SE of Pinnacles, CA",earthquake,0.42,1.04999995,0.33,9,automatic,nc,nc
 2024-07-30T14:04:54.690Z,38.8406677246094,-122.823333740234,1.78999996185303,0.59,md,14,86,0.009715,0.02,nc,nc75041422,2024-07-30T14:27:13.892Z,"9 km WNW of Cobb, CA",earthquake,0.26,0.709999979,0.45,13,automatic,nc,nc
 2024-07-30T13:59:30.440Z,32.7683333,-115.8466667,6.98,1.62,ml,39,55,0.129,0.22,ci,ci40676031,2024-07-30T14:10:33.280Z,"14 km ENE of Ocotillo, CA",earthquake,0.21,0.74,0.163,29,automatic,ci,ci
 2024-07-30T13:59:22.530Z,63.5205,-150.1258,120.9,1.8,ml,,,,0.44,ak,ak0249qu0wjh,2024-07-30T14:01:41.927Z,"60 km WNW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
