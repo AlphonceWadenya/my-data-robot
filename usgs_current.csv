@@ -229,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-30T00:06:19.880Z,34.9443333,-116.8016667,2.75,2.05,ml,29,55,0.1746,0.17,ci,ci40675591,2024-07-30T19:27:34.672Z,"21 km ENE of Barstow, CA",earthquake,0.2,0.82,0.139,28,reviewed,ci,ci
 2024-07-30T00:02:46.924Z,61.5154,-146.4304,33.4,1.1,ml,,,,0.6,ak,ak0249qly3qs,2024-07-30T00:04:18.914Z,"43 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-30T00:02:38.350Z,34.9445,-116.7998333,2.26,2,ml,31,55,0.176,0.15,ci,ci40675583,2024-07-30T19:28:39.840Z,"21 km ENE of Barstow, CA",earthquake,0.18,0.82,0.136,26,reviewed,ci,ci
-2024-07-29T23:45:39.782Z,61.6555,-146.3877,34.1,2.2,ml,,,,0.53,ak,ak0249pccxei,2024-07-29T23:47:08.505Z,"42 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-07-29T23:41:49.300Z,48.648833333333336,-122.228,17.74,0.54,ml,4,150,0.05631,0.03,uw,uw62021957,2024-07-30T03:41:24.060Z,"7 km SSW of Acme, Washington",earthquake,1.36,0.85,0.09621796755592724,3,reviewed,uw,uw
