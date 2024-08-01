@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-01T16:55:01.305Z,62.7756,-149.5358,65.6,2.1,ml,,,,0.59,ak,ak0249u6uzt5,2024-08-01T16:56:59.090Z,"46 km NE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-01T16:50:45.763Z,61.2908,-150.6671,35.2,1.3,ml,,,,0.79,ak,ak0249u6u0ow,2024-08-01T16:52:24.357Z,"27 km NE of Beluga, Alaska",earthquake,,15.8,,,automatic,ak,ak
 2024-08-01T16:35:14.269Z,61.9473,-152.8714,170.7,1.7,ml,,,,1.17,ak,ak0249u6qqiq,2024-08-01T16:38:11.150Z,"77 km W of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-08-01T16:28:32.341Z,62.8303,-148.8514,62,1.1,ml,,,,0.54,ak,ak0249u6p9wi,2024-08-01T16:30:24.393Z,"62 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -258,4 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T17:27:23.730Z,58.3606666666667,-154.844666666667,4.29,-0.58,ml,4,226,0.032,0.17,av,av93017009,2024-07-31T23:57:41.760Z,"91 km NNW of Karluk, Alaska",earthquake,1.82,0.72,0.185343910535418,4,reviewed,av,av
 2024-07-31T17:26:47.780Z,38.4956666666667,-112.899333333333,2.86,0.29,md,11,131,0.01158,0.1,uu,uu80076966,2024-07-31T19:51:55.270Z,"14 km NE of Milford, Utah",earthquake,0.34,0.57,0.176073434679317,4,reviewed,uu,uu
 2024-07-31T17:18:09.290Z,32.8735,-116.2225,7.58,1.22,ml,9,122,0.2423,0.19,ci,ci40678119,2024-08-01T00:02:25.524Z,"26 km NW of Ocotillo, CA",earthquake,0.42,15.99,0.302,19,automatic,ci,ci
-2024-07-31T16:58:05.600Z,35.596,-117.4041667,6.59,0.69,ml,14,75,0.04824,0.11,ci,ci40678087,2024-07-31T19:19:54.442Z,"19 km S of Trona, CA",earthquake,0.19,0.34,0.263,5,reviewed,ci,ci
