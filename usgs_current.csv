@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-02T21:04:22.760Z,38.82,-122.81,2.52,1.35,md,30,38,0.002875,0.02,nc,nc75042837,2024-08-02T21:06:01.348Z,"7 km NNW of The Geysers, CA",earthquake,0.2,0.360000014,0.17,32,automatic,nc,nc
+2024-08-02T21:00:42.222Z,63.2574,-150.5777,118.3,1.4,ml,,,,0.43,ak,ak0249vx1t4u,2024-08-02T21:02:46.299Z,"65 km ESE of Denali National Park, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2024-08-02T20:52:35.950Z,61.0692,-148.4965,0.6,1.6,ml,,,,0.97,ak,ak0249vwria3,2024-08-02T20:55:02.455Z,"34 km NNE of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-02T20:50:07.320Z,33.2308333,-116.0411667,3.26,0.93,ml,37,74,0.06755,0.2,ci,ci40860016,2024-08-02T20:56:05.992Z,"11 km SW of Salton City, CA",earthquake,0.18,0.3,0.101,21,automatic,ci,ci
 2024-08-02T20:37:28.640Z,33.2295,-116.0413333,3.38,1.79,ml,73,33,0.06861,0.2,ci,ci40860000,2024-08-02T20:48:32.740Z,"11 km SW of Salton City, CA",earthquake,0.12,0.31,0.178,25,automatic,ci,ci
 2024-08-02T20:28:00.296Z,12.6202,146.5224,10,5.1,mb,106,42,2.693,0.83,us,us6000nhpc,2024-08-02T20:48:07.584Z,"204 km ESE of Yigo Village, Guam",earthquake,8.19,1.861,0.036,256,reviewed,us,us
 2024-08-02T20:16:56.700Z,33.2338333,-116.0428333,3.25,1,ml,40,59,0.0664,0.19,ci,ci40859952,2024-08-02T20:24:28.297Z,"11 km SW of Salton City, CA",earthquake,0.17,0.31,0.092,28,automatic,ci,ci
@@ -68,6 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T15:17:59.224Z,31.679,-104.411,6.0999,1.6,ml,13,78,0,0.2,tx,tx2024pcdx,2024-08-02T15:34:04.936Z,"55 km S of Whites City, New Mexico",earthquake,0.9267756078475498,0.9276021498419967,0.2,8,reviewed,tx,tx
 2024-08-02T15:04:46.710Z,32.5575,-115.653,10.04,1.57,ml,30,69,0.0635,0.23,ci,ci40859160,2024-08-02T19:27:33.205Z,"7 km WSW of Progreso, B.C., MX",earthquake,0.29,0.61,0.258,25,reviewed,ci,ci
 2024-08-02T14:57:24.200Z,38.8235015869141,-122.806999206543,2.46000003814697,0.79,md,16,63,0.002404,0.01,nc,nc75042727,2024-08-02T16:12:13.348Z,"7 km NNW of The Geysers, CA",earthquake,0.26,0.589999974,0.23,16,automatic,nc,nc
+2024-08-02T14:50:19.130Z,19.3898333333333,-155.2465,1.57,2.72,ml,39,43,0.006254,0.09,hv,hv74380211,2024-08-02T21:03:15.960Z,"6 km SSW of Volcano, Hawaii",earthquake,0.17,0.14,0.195103949914329,19,reviewed,hv,hv
 2024-08-02T14:43:45.380Z,38.8383331298828,-122.808334350586,2.13000011444092,0.77,md,8,116,0.01405,0.01,nc,nc75042722,2024-08-02T15:47:14.068Z,"8 km WNW of Cobb, CA",earthquake,0.42,1.60000002,0.23,9,automatic,nc,nc
 2024-08-02T14:41:48.820Z,36.18916667,-95.84683333,0,1.08,ml,26,138,0.2816447317,0.33,ok,ok2024pcct,2024-08-02T15:25:07.785Z,"8 km S of Owasso, Oklahoma",quarry blast,,0.5,0.18,13,reviewed,ok,ok
 2024-08-02T14:41:33.350Z,33.2303333,-116.0393333,4.43,0.77,ml,26,75,0.06687,0.18,ci,ci40859136,2024-08-02T19:18:32.161Z,"11 km SW of Salton City, CA",earthquake,0.26,0.69,0.179,13,reviewed,ci,ci
@@ -246,6 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T21:27:40.220Z,34.1355,-117.574,10.77,1.44,ml,21,71,0.05517,0.11,ci,ci40858184,2024-08-02T17:51:20.941Z,"1 km NNE of Rancho Cucamonga, CA",earthquake,0.43,0.6,0.172,30,reviewed,ci,ci
 2024-08-01T21:24:20.840Z,58.238,-155.1385,4.42,-0.33,ml,5,209,0.08358,0.14,av,av93017259,2024-08-02T04:34:22.000Z,"84 km NNW of Karluk, Alaska",earthquake,0.63,1.42,0.177145556862494,5,reviewed,av,av
 2024-08-01T21:19:44.767Z,54.1227,-159.7419,10,2.7,ml,19,218,1.301,0.93,us,us6000nhgm,2024-08-01T23:40:35.040Z,"143 km SSE of Sand Point, Alaska",earthquake,4.45,2.012,0.091,16,reviewed,us,us
-2024-08-01T21:05:46.680Z,41.0374984741211,-121.447334289551,14.5200004577637,2.53,md,27,60,0.1755,0.18,nc,nc75042407,2024-08-02T03:50:20.772Z,"4 km N of Fall River Mills, CA",earthquake,0.4,1.66999996,0.14,23,automatic,nc,nc
-2024-08-01T21:01:25.700Z,35.5958333,-117.403,6.69,1.73,ml,32,75,0.04914,0.14,ci,ci40858072,2024-08-02T17:51:38.944Z,"19 km S of Trona, CA",earthquake,0.17,0.31,0.141,26,reviewed,ci,ci
-2024-08-01T20:58:19.810Z,42.3505,-123.35283333333334,-0.58,1.34,ml,8,117,0.1546,0.08,uw,uw62031006,2024-08-02T18:36:17.440Z,"1 km SE of New Hope, Oregon",explosion,0.51,31.61,0.08464761931848863,3,reviewed,uw,uw
