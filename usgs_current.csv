@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-05T19:25:45.640Z,38.83,-122.88,1.78,0.74,md,10,163,0.00746,0.04,nc,nc75043957,2024-08-05T19:27:22.247Z,"12 km NW of The Geysers, CA",earthquake,0.58,0.579999983,0.08,11,automatic,nc,nc
 2024-08-05T19:14:53.853Z,40.2752,-119.6709,10.4,1.6,ml,8,238.31,0.115,0.0682,nn,nn00881946,2024-08-05T19:17:22.002Z,"36 km N of Sutcliffe, Nevada",earthquake,,0.7,0.22,4,automatic,nn,nn
 2024-08-05T19:07:52.400Z,38.83,-122.8,2.08,0.82,md,16,49,0.01027,0.02,nc,nc75043947,2024-08-05T19:09:27.168Z,"7 km WNW of Cobb, CA",earthquake,0.26,0.529999971,0.23,19,automatic,nc,nc
 2024-08-05T19:07:45.420Z,39.84,-123.51,3.55,1.73,md,17,78,0.03848,0.06,nc,nc75043942,2024-08-05T19:09:22.143Z,"17 km N of Laytonville, CA",earthquake,0.27,0.769999981,0.13,8,automatic,nc,nc
-2024-08-05T19:03:00.057Z,16.9087,-93.8167,145.989,5.4,mww,99,79,1.727,1.12,us,us6000ni8h,2024-08-05T19:22:12.707Z,"13 km NNW of Francisco I. Madero, Mexico",earthquake,8.24,5.045,0.043,51,reviewed,us,us
+2024-08-05T19:03:00.057Z,16.9087,-93.8167,145.989,5.4,mww,99,79,1.727,1.12,us,us6000ni8h,2024-08-05T19:23:42.215Z,"13 km NNW of Francisco I. Madero, Mexico",earthquake,8.24,5.045,0.043,51,reviewed,us,us
 2024-08-05T18:57:21.680Z,38.8,-122.8,0.1,1.33,md,18,76,0.007221,0.04,nc,nc75043937,2024-08-05T18:58:57.050Z,"4 km NW of The Geysers, CA",earthquake,0.19,0.430000007,0.17,18,automatic,nc,nc
 2024-08-05T18:56:45.060Z,33.4688333,-116.4406667,7.7,0.77,ml,34,75,0.05584,0.22,ci,ci40863224,2024-08-05T19:07:09.791Z,"24 km ESE of Anza, CA",earthquake,0.26,0.69,0.163,19,automatic,ci,ci
 2024-08-05T18:56:39.710Z,38.8,-122.8,0.39,0.84,md,11,107,0.008546,0.03,nc,nc75043932,2024-08-05T18:58:16.887Z,"4 km NW of The Geysers, CA",earthquake,0.33,0.579999983,0.23,11,automatic,nc,nc
