@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-09T20:43:40.975Z,60.7291,-152.8728,109,1.9,ml,,,,1.01,ak,ak024a7hh0m5,2024-08-09T20:46:22.244Z,"85 km W of Salamatof, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2024-08-09T20:33:34.700Z,65.2094,-162.7648,8.1,2.8,ml,,,,0.86,ak,ak024a7hev1a,2024-08-09T20:36:43.229Z,"66 km NNE of White Mountain, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-09T20:28:28.918Z,36.616,-115.6527,0,0.6,ml,12,309.01,0.253,0.1863,nn,nn00882150,2024-08-09T20:30:45.855Z,"5 km NNE of Indian Springs, Nevada",earthquake,,49.9,0.18,7,automatic,nn,nn
 2024-08-09T20:20:18.480Z,35.9651667,-117.6586667,2.46,1.41,ml,22,94,0.0185,0.13,ci,ci40695679,2024-08-09T20:26:26.128Z,"23 km E of Little Lake, CA",earthquake,0.2,0.16,0.186,17,automatic,ci,ci
@@ -267,4 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T21:15:59.013Z,64.2078,-149.8883,33.9,1.2,ml,,,,0.62,ak,ak024a5ud54t,2024-08-08T21:18:00.518Z,"34 km W of Clear, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-08-08T20:59:53.370Z,34.0021667,-117.5046667,2.66,1.18,ml,36,53,0.03076,0.17,ci,ci40694575,2024-08-08T21:06:23.115Z,"2 km NE of Mira Loma, CA",earthquake,0.15,0.25,0.154,29,automatic,ci,ci
 2024-08-08T20:50:51.998Z,51.8731,177.9272,129.134,4.5,mb,55,174,0.408,0.58,us,us6000niz5,2024-08-09T00:15:32.309Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,11.44,6.505,0.043,156,reviewed,us,us
-2024-08-08T20:49:41.200Z,38.83,-122.85,1.52,0.25,md,10,133,0.003679,0.03,nc,nc75045927,2024-08-08T21:31:00.248Z,"10 km NW of The Geysers, CA",earthquake,0.32,0.649999976,0.08,11,automatic,nc,nc
