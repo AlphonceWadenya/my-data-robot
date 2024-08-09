@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-09T14:53:27.112Z,63.117,-151.7201,22.9,1.1,ml,,,,1.07,ak,ak024a7dyj7c,2024-08-09T14:55:59.865Z,"47 km S of Denali National Park, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-08-09T14:40:12.650Z,35.0968333,-119.1125,2.35,1.58,ml,35,105,0.04482,0.23,ci,ci40695319,2024-08-09T14:46:59.309Z,"24 km NW of Grapevine, CA",earthquake,0.28,1.37,0.209,28,automatic,ci,ci
 2024-08-09T14:14:00.520Z,38.81,-122.81,1.48,1.86,md,40,41,0.009548,0.05,nc,nc75046227,2024-08-09T14:46:00.381Z,"6 km NW of The Geysers, CA",earthquake,0.15,0.239999995,0.17,37,automatic,nc,nc
 2024-08-09T14:05:13.559Z,35.401,22.3543,41.907,4.8,mb,73,135,1.808,0.97,us,us6000nj2x,2024-08-09T14:37:53.040Z,"100 km SW of Kýthira, Greece",earthquake,6.08,6.087,0.045,152,reviewed,us,us
