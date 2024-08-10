@@ -229,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T20:09:36.700Z,38.84,-122.82,2.07,2.05,md,42,36,0.01003,0.05,nc,nc75046372,2024-08-09T20:30:57.518Z,"9 km WNW of Cobb, CA",earthquake,0.17,0.25999999,0.15,45,automatic,nc,nc
 2024-08-09T20:02:14.010Z,33.6695,-116.7361667,13.81,0.7,ml,22,103,0.04543,0.11,ci,ci40695655,2024-08-09T20:08:11.767Z,"8 km SSW of Idyllwild, CA",earthquake,0.22,0.42,0.24,13,automatic,ci,ci
 2024-08-09T19:58:50.720Z,8.0052,126.7866,60.546,4.5,mb,36,110,1.516,0.5,us,us6000nj6l,2024-08-09T21:42:44.040Z,"37 km E of Santa Maria, Philippines",earthquake,9.82,1.205,0.104,30,reviewed,us,us
-2024-08-09T19:57:29.530Z,36.0771667,-117.904,5.33,1.49,ml,27,70,0.05666,0.15,ci,ci40695647,2024-08-09T20:03:49.189Z,"5 km NE of Coso Junction, CA",earthquake,0.19,0.45,0.182,19,automatic,ci,ci
