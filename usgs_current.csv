@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-14T19:52:32.520Z,38.84,-122.8,1.97,0.7,md,10,83,0.007027,0.01,nc,nc75048411,2024-08-14T19:54:09.211Z,"7 km WNW of Cobb, CA",earthquake,0.38,1.28999996,0.23,13,automatic,nc,nc
+2024-08-14T19:52:16.010Z,38.84,-122.8,2.07,1.34,md,28,65,0.007319,0.03,nc,nc75048406,2024-08-14T19:53:54.392Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.360000014,0.21,28,automatic,nc,nc
 2024-08-14T19:43:16.999Z,63.1794,-150.6292,114.1,1,ml,,,,0.23,ak,ak024afqk9oz,2024-08-14T19:45:16.615Z,"67 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-08-14T19:29:22.762Z,61.254,-151.5422,75.5,1,ml,,,,1.21,ak,ak024afqha44,2024-08-14T19:31:35.418Z,"27 km WNW of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-08-14T19:26:03.510Z,32.5988333,-116.9918333,3.26,1.4,ml,30,109,0.05278,0.18,ci,ci40702055,2024-08-14T19:36:39.790Z,"6 km ESE of Chula Vista, CA",earthquake,0.35,0.42,0.089,22,automatic,ci,ci
@@ -314,4 +316,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T20:25:37.306Z,54.6844,-161.1613,35,3.5,ml,14,195,0.774,0.4,us,us6000njx4,2024-08-13T21:35:55.040Z,"83 km SSW of Sand Point, Alaska",earthquake,2.61,2.008,0.074,24,reviewed,us,us
 2024-08-13T20:11:23.130Z,19.3691666666667,-155.15,2.93,1.34,ml,15,147,0.02089,0.06,hv,hv74398561,2024-08-14T17:21:54.230Z,"10 km S of Fern Forest, Hawaii",earthquake,0.97,0.53,0.0659130535485294,1,reviewed,hv,hv
 2024-08-13T20:03:43.380Z,47.129666666666665,-120.803,-0.83,1.8900000000000001,ml,12,124,0.02203,0.4,uw,uw62035556,2024-08-14T17:35:33.950Z,"12 km NW of Thorp, Washington",explosion,0.73,31.61,0.21444798429460699,9,reviewed,uw,uw
-2024-08-13T19:53:41.495Z,53.4036,-165.7939,25.6,1.5,ml,,,,0.38,ak,ak024ae332ws,2024-08-14T03:15:33.646Z,"71 km SE of Unalaska, Alaska",earthquake,,4.8,,,reviewed,ak,ak
