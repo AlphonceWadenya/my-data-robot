@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-15T13:43:05.651Z,64.2012,-150.5808,11.6,2.3,ml,,,,0.88,ak,ak024ahaizol,2024-08-15T13:45:14.383Z,"67 km W of Clear, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-15T13:36:40.852Z,61.5986,-146.3049,32.7,3.6,ml,,,,0.43,ak,ak024ahahkdx,2024-08-15T13:37:57.026Z,"50 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-15T13:34:03.950Z,19.3881664276123,-155.237335205078,0.939999997615814,2.75,ml,57,39,0.01345,0.389999986,hv,hv74402371,2024-08-15T13:36:40.760Z,"6 km S of Volcano, Hawaii",earthquake,0.26,0.239999995,0.52,36,automatic,hv,hv
 2024-08-15T13:25:34.530Z,40.732,-112.033,6.59,0.7,ml,12,72,0.005499,0.14,uu,uu80078566,2024-08-15T13:41:10.840Z,"5 km NNW of West Valley City, Utah",earthquake,0.38,0.6,0.183031234417722,2,reviewed,uu,uu
@@ -228,7 +229,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T17:25:26.290Z,52.7806666666667,-169.778,10.36,1.77,ml,6,200,0.03402,0.21,av,av93230766,2024-08-14T19:09:24.680Z,"64 km WSW of Nikolski, Alaska",earthquake,1.75,0.96,0.275759533713923,7,reviewed,av,av
 2024-08-14T17:19:52.560Z,33.6845,-116.7888333,16.51,0.6,ml,24,80,0.06769,0.11,ci,ci40701823,2024-08-14T17:25:48.671Z,"9 km SW of Idyllwild, CA",earthquake,0.23,0.39,0.153,12,automatic,ci,ci
 2024-08-14T17:18:49.900Z,52.7976666666667,-169.771166666667,9.16,0.88,ml,4,173,0.03136,0.12,av,av93230761,2024-08-15T01:39:04.180Z,"63 km WSW of Nikolski, Alaska",earthquake,2.68,1.09,0.10726874393177,4,reviewed,av,av
-2024-08-14T17:16:49.429Z,35.35,-97.96166667,6.5,1.28,ml,52,58,0.05488922886,0.43,ok,ok2024pyfw,2024-08-14T17:39:38.007Z,"4 km NNW of Minco, Oklahoma",earthquake,,0.7,0.28,23,reviewed,ok,ok
+2024-08-14T17:16:49.429Z,35.35,-97.96166667,6.5,1.28,ml,52,58,0.05488922886,0.43,ok,ok2024pyfw,2024-08-14T17:39:38.007Z,"Oklahoma",earthquake,,0.7,0.28,23,reviewed,ok,ok
 2024-08-14T17:16:27.590Z,46.20433333333333,-122.19333333333333,6.38,0.04,ml,9,114,0.004868,0.09,uw,uw62027752,2024-08-14T19:11:41.590Z,"38 km NNE of Amboy, Washington",earthquake,0.32,0.73,0.054364641945367956,4,reviewed,uw,uw
 2024-08-14T17:11:07.200Z,35.7665,-117.5903333,2.4,0.72,ml,19,63,0.148,0.18,ci,ci40701807,2024-08-14T17:16:56.099Z,"17 km W of Searles Valley, CA",earthquake,0.29,0.95,0.098,6,automatic,ci,ci
 2024-08-14T17:05:49.950Z,37.78,-121.99,8.16,1.93,md,22,62,0.0445,0.08,nc,nc75048321,2024-08-14T19:28:43.192Z,"1 km W of San Ramon, CA",earthquake,0.31,0.439999998,0.2,17,automatic,nc,nc
@@ -257,6 +258,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T15:32:55.910Z,41.92216666666667,-122.30833333333334,3.88,1.02,ml,6,165,0.1239,0.09,uw,uw62027722,2024-08-14T19:08:35.400Z,"20 km E of Hornbrook, California",earthquake,0.47,5.23,0.11842969442452689,3,reviewed,uw,uw
 2024-08-14T15:21:25.010Z,35.08366667,-95.50766667,7.5,2.86,ml,81,57,0,0.25,ok,ok2024pycc,2024-08-14T16:53:25.221Z,"13 km WSW of Quinton, Oklahoma",earthquake,,0.5,0.24,17,reviewed,ok,ok
 2024-08-14T15:20:33.700Z,19.3873333333333,-155.2455,1.55,2.35,ml,26,63,0.005777,0.08,hv,hv74400131,2024-08-14T19:38:55.160Z,"6 km S of Volcano, Hawaii",earthquake,0.16,0.17,0.186795958358336,11,reviewed,hv,hv
+2024-08-14T15:16:40.030Z,47.2971666666667,-113.194333333333,16.91,1.43,ml,17,97,0.2111,0.09,mb,mb90059368,2024-08-15T13:42:13.890Z,"25 km ENE of Seeley Lake, Montana",earthquake,0.32,1.23,0.0650540868918417,6,reviewed,mb,mb
 2024-08-14T15:15:55.132Z,36.5949,-116.4885,7,0.1,ml,19,128.30999999999997,0.131,0.1334,nn,nn00882414,2024-08-14T20:26:26.845Z,"36 km ENE of Furnace Creek, California",earthquake,,2.5,0.48,4,reviewed,nn,nn
 2024-08-14T15:13:08.410Z,34.093,-118.2066667,11.39,1.84,ml,7,167,0.08021,0.22,ci,ci40701719,2024-08-14T15:19:33.725Z,"3 km SSW of Highland Park, CA",earthquake,2.12,0.99,0.236,29,automatic,ci,ci
 2024-08-14T15:09:56.210Z,17.9466666666667,-67.0005,5.34,2.81,md,11,216,0.04738,0.16,pr,pr71457453,2024-08-14T15:27:36.280Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,0.54,0.32,0.213691769526199,4,reviewed,pr,pr
@@ -275,6 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T14:06:16.631Z,36.6425,-115.7319,11.6,2.9,ml,47,54.089999999999975,0.186,0.1015,nn,nn00882407,2024-08-14T23:28:17.241Z,"9 km NW of Indian Springs, Nevada",earthquake,,1.1,0.35,16,reviewed,nn,nn
 2024-08-14T14:03:26.600Z,19.4371662139893,-155.498001098633,4.61999988555908,1.83,ml,47,35,0.0526,0.180000007,hv,hv74399966,2024-08-14T14:06:06.460Z,"26 km N of Pāhala, Hawaii",earthquake,0.27,0.720000029,0.28,5,automatic,hv,hv
 2024-08-14T13:56:13.889Z,31.608,-103.977,7.1765,1.6,ml,19,49,0,0.1,tx,tx2024pxzh,2024-08-14T17:55:39.871Z,"36 km NNW of Toyah, Texas",earthquake,0.4556161817949035,0.5422503067267314,0.1,12,reviewed,tx,tx
-2024-08-14T13:45:15.210Z,35.94,-120.49,9.17,1.76,md,24,90,0.02047,0.12,nc,nc75048241,2024-08-14T15:41:01.626Z,"7 km NW of Parkfield, CA",earthquake,0.29,0.540000021,0.24,15,automatic,nc,nc
-2024-08-14T13:44:37.990Z,35.077,-119.0948333,8.3,1.49,ml,30,102,0.02047,0.22,ci,ci40701599,2024-08-14T13:51:08.207Z,"21 km NW of Grapevine, CA",earthquake,0.32,1.19,0.241,30,automatic,ci,ci
-2024-08-14T13:42:27.470Z,35.0811667,-119.0956667,12.38,2,ml,40,82,0.02453,0.2,ci,ci40701583,2024-08-14T23:35:29.629Z,"22 km NW of Grapevine, CA",earthquake,0.25,0.57,0.216,26,reviewed,ci,ci
