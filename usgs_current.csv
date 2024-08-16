@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-16T11:52:25.515Z,39.2715,-119.6572,1.1,1,ml,10,76.70999999999998,0.113,0.1093,nn,nn00882536,2024-08-16T11:54:47.481Z,"4 km S of Virginia City, Nevada",earthquake,,4.1,0.18,7,automatic,nn,nn
 2024-08-16T11:49:48.873Z,36.6569,-115.7238,4,0.2,ml,12,297.02,0.191,0.2408,nn,nn00882535,2024-08-16T11:51:57.400Z,"10 km NNW of Indian Springs, Nevada",earthquake,,2.2,0.48,9,automatic,nn,nn
 2024-08-16T11:41:37.980Z,35.9754981994629,-120.527496337891,3.13000011444092,0.81,md,8,96,0.01959,0.04,nc,nc75049106,2024-08-16T11:43:16.009Z,"12 km NW of Parkfield, CA",earthquake,0.45,1.15999997,0.09,3,automatic,nc,nc
 2024-08-16T11:28:54.863Z,62.7905,-148.7056,6.4,1.4,ml,,,,0.86,ak,ak024aiwsd0u,2024-08-16T11:30:59.182Z,"68 km S of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
