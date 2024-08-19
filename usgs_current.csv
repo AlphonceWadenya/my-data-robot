@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-19T23:47:06.610Z,33.649,-116.9195,12.68,0.73,ml,31,51,0.03815,0.13,ci,ci40707991,2024-08-19T23:53:18.167Z,"11 km SSW of Valle Vista, CA",earthquake,0.21,0.34,0.159,17,automatic,ci,ci
 2024-08-19T23:30:29.990Z,19.3904991149902,-155.245834350586,1.42999994754791,2.46000004,md,26,54,0.007166,0.219999999,hv,hv74411481,2024-08-19T23:33:20.250Z,"5 km SSW of Volcano, Hawaii",earthquake,0.28,0.25999999,0.219999999,19,automatic,hv,hv
 2024-08-19T23:21:36.880Z,33.7076667,-116.7511667,16.13,0.89,ml,42,39,0.03104,0.13,ci,ci40707959,2024-08-19T23:28:01.688Z,"5 km SW of Idyllwild, CA",earthquake,0.16,0.26,0.225,27,automatic,ci,ci
 2024-08-19T23:20:08.282Z,64.9532,-147.3729,0,1.3,ml,,,,1.24,ak,ak024ao2hsfw,2024-08-19T23:22:51.073Z,"11 km E of Fox, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -247,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-19T00:35:54.140Z,35.34866667,-97.95416667,6.62,0.92,ml,41,68,0.05218975859,0.4,ok,ok2024qgcj,2024-08-19T13:30:30.295Z,"4 km NNW of Minco, Oklahoma",earthquake,,0.8,0.2,17,reviewed,ok,ok
 2024-08-19T00:27:51.540Z,33.241,-116.0378333,3.76,1.46,ml,63,51,0.08409,0.2,ci,ci40706543,2024-08-19T20:13:28.770Z,"10 km SW of Salton City, CA",earthquake,0.16,0.41,0.176,24,reviewed,ci,ci
 2024-08-19T00:16:27.070Z,38.8363342285156,-122.801002502441,2.4300000667572,2.63,md,59,35,0.008578,0.06,nc,nc75050151,2024-08-19T19:11:45.176Z,"7 km WNW of Cobb, CA",earthquake,0.14,0.219999999,0.16,79,automatic,nc,nc
-2024-08-18T23:52:50.170Z,19.1720008850098,-155.496673583984,32.3899993896484,2.38000011,md,40,105,0.0366,0.140000001,hv,hv74409466,2024-08-18T23:54:38.430Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.6,0.779999971,0.0700000003,7,automatic,hv,hv
