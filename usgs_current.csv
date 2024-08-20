@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-20T23:49:27.272Z,60.3246,-150.677,43.5,1.8,ml,,,,0.72,ak,ak024apq7e5z,2024-08-20T23:51:50.630Z,"20 km SSE of Funny River, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-20T23:47:06.970Z,19.3148326873779,-155.417495727539,29.0200004577637,1.95,ml,49,95,0.03529,0.140000001,hv,hv74415021,2024-08-20T23:49:44.940Z,"13 km NNE of Pāhala, Hawaii",earthquake,0.42,0.540000021,0.15,6,automatic,hv,hv
 2024-08-20T23:41:45.870Z,19.380500793457,-155.251495361328,0.620000004768372,1.91,ml,19,62,0.004986,0.25,hv,hv74415011,2024-08-20T23:44:23.290Z,"7 km SSW of Volcano, Hawaii",earthquake,0.23,0.270000011,0.36,9,automatic,hv,hv
 2024-08-20T23:38:56.130Z,19.3801670074463,-155.251159667969,1,2.53,ml,37,48,0.005317,0.300000012,hv,hv74415001,2024-08-20T23:41:32.490Z,"7 km SSW of Volcano, Hawaii",earthquake,0.28,0.209999993,0.42,24,automatic,hv,hv
