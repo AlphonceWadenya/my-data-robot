@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-20T04:49:48.960Z,35.1118317,-119.0849991,12.06,1.58,ml,30,48,0.05312,0.18,ci,ci40708167,2024-08-20T04:51:55.358Z,"23 km SW of Lamont, CA",earthquake,0.44,0.89,0.251,6,automatic,ci,ci
 2024-08-20T04:35:24.112Z,59.6804,-153.3035,110.1,2.8,ml,,,,0.28,ak,ak024apet5cj,2024-08-20T04:37:01.296Z,"46 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-20T04:31:44.403Z,38.6922,-119.3331,11.1,2.5,ml,18,170.27999999999997,0.188,0.3489,nn,nn00882678,2024-08-20T04:35:20.825Z,"10 km S of Smith Valley, Nevada",earthquake,,0.7,0.12,10,automatic,nn,nn
 2024-08-20T04:31:26.333Z,59.6763,-152.7425,92.5,2,ml,,,,0.31,ak,ak024apesapl,2024-08-20T04:33:14.505Z,"52 km WSW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -90,6 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-19T19:15:36.660Z,38.8408317565918,-122.827331542969,-0.75,0.39,md,12,76,0.006751,0.16,nc,nc75050601,2024-08-19T19:17:12.865Z,"9 km WNW of Cobb, CA",earthquake,0.37,1.71000004,0.27,12,automatic,nc,nc
 2024-08-19T19:09:00.568Z,61.3086,-151.3649,67.5,1.6,ml,,,,0.42,ak,ak024ao01ojs,2024-08-19T19:11:11.160Z,"24 km NW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-19T18:58:10.316Z,61.1865,-150.1496,43,1.2,ml,,,,0.42,ak,ak024anzqr3b,2024-08-19T19:53:40.490Z,"13 km WSW of Anchorage, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2024-08-19T18:56:09.220Z,37.1381666666667,-121.933,10.86,1.2,md,16,115,0.03106,0.1,nc,nc75050591,2024-08-20T04:54:21.822Z,"5 km SE of Lexington Hills, CA",earthquake,0.5,0.39,0.387,14,reviewed,nc,nc
 2024-08-19T18:54:26.600Z,34.6065,-116.6173333,7.18,2.59,ml,54,37,0.0377,0.14,ci,ci40707511,2024-08-20T04:42:13.089Z,"37 km ENE of Lucerne Valley, CA",earthquake,0.12,0.43,0.12,25,automatic,ci,ci
 2024-08-19T18:43:04.000Z,35.6975,-117.5285,7.66,0.72,ml,18,66,0.09123,0.15,ci,ci40707479,2024-08-19T18:49:04.140Z,"14 km SW of Searles Valley, CA",earthquake,0.31,1.03,0.134,6,automatic,ci,ci
 2024-08-19T18:37:12.250Z,33.2228333,-117.1928333,3.06,1.11,ml,39,119,0.06858,0.22,ci,ci40707463,2024-08-19T18:44:12.410Z,"5 km ENE of Vista, CA",earthquake,0.25,0.44,0.179,30,automatic,ci,ci
