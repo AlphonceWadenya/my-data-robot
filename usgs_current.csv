@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-21T03:53:17.050Z,19.3823337554932,-155.251159667969,1.80999994277954,1.72,ml,14,95,0.003163,0.129999995,hv,hv74415646,2024-08-21T03:55:53.950Z,"6 km SSW of Volcano, Hawaii",earthquake,0.23,0.209999993,0.08,3,automatic,hv,hv
+2024-08-21T03:52:05.770Z,35.1008333,-119.13,9.87,1.15,ml,23,79,0.05667,0.24,ci,ci40709647,2024-08-21T03:58:21.675Z,"25 km E of Maricopa, CA",earthquake,0.4,0.59,0.202,15,automatic,ci,ci
 2024-08-21T03:49:41.202Z,61.7467,-148.3485,16,0.8,ml,,,,0.46,ak,ak024ar1u3mw,2024-08-21T03:51:18.247Z,"8 km SE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-21T03:49:39.547Z,63.5861,-150.869,4.7,1.7,ml,,,,0.51,ak,ak024ar1u3ia,2024-08-21T03:51:44.365Z,"42 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-21T03:47:20.289Z,34.77466965,-97.10732269,4.544024467,1.89,ml,20,88.75676727,0.141159609,0.5024160814,ok,ok2024qjzs,2024-08-21T03:55:50.366Z,"11 km ENE of Pauls Valley, Oklahoma",earthquake,2.531080991,2.191815028,0.35,11,automatic,ok,ok
