@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-21T20:49:38.490Z,34.4760017,-116.5231705,7.31,1.25,ml,18,92,0.1322,0.25,ci,ci40710399,2024-08-21T20:51:40.917Z,"38 km NE of Big Bear City, CA",earthquake,0.72,1.47,0.118,2,automatic,ci,ci
+2024-08-21T20:54:47.690Z,38.7915000915527,-122.777336120605,1.60000002384186,1.28,md,29,79,0.01651,0.03,nc,nc75051476,2024-08-21T20:56:26.102Z,"2 km NW of The Geysers, CA",earthquake,0.21,0.370000005,0.14,29,automatic,nc,nc
+2024-08-21T20:54:29.870Z,19.3234996795654,-155.181167602539,-0.150000005960464,1.92999995,md,42,98,0.05677,0.200000003,hv,hv74417891,2024-08-21T20:56:08.980Z,"14 km SSE of Volcano, Hawaii",earthquake,0.4,0.170000002,0.280000001,22,automatic,hv,hv
+2024-08-21T20:54:04.691Z,35.06749725,-96.19900513,3.598380566,2.04,ml,17,130.106842,0.2248371094,0.2480306072,ok,ok2024qlhp,2024-08-21T21:01:22.813Z,"4 km ESE of Horntown, Oklahoma",earthquake,3.442925987,2.897461396,0.2,10,automatic,ok,ok
+2024-08-21T20:49:38.330Z,34.4805,-116.505,3.72,1.12,ml,23,68,0.1446,0.13,ci,ci40710399,2024-08-21T20:55:54.301Z,"40 km NE of Big Bear City, CA",earthquake,0.21,0.65,0.16,15,automatic,ci,ci
 2024-08-21T20:30:31.187Z,59.9107,-151.399,54.5,1.2,ml,,,,0.47,ak,ak024arbudji,2024-08-21T20:32:21.428Z,"16 km NE of Nikolaevsk, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-08-21T20:28:51.040Z,62.8876,-149.1184,66.5,1.2,ml,,,,0.71,ak,ak024arbtzn4,2024-08-21T20:31:34.078Z,"56 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-21T20:20:31.625Z,62.8776,-148.817,65.4,1.2,ml,,,,0.41,ak,ak024arbs8ey,2024-08-21T20:22:28.524Z,"57 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -225,7 +228,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T02:55:30.300Z,19.3816661834717,-155.261993408203,0.680000007152557,1.76999998,md,6,107,0.01014,0.129999995,hv,hv74415501,2024-08-21T02:57:05.030Z,"7 km SSW of Volcano, Hawaii",earthquake,0.34,0.449999988,0.129999995,4,automatic,hv,hv
 2024-08-21T02:55:11.930Z,32.9871667,-116.3148333,5.66,0.68,ml,15,90,0.03387,0.2,ci,ci40709591,2024-08-21T16:43:50.782Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.37,1.01,0.085,9,reviewed,ci,ci
 2024-08-21T02:54:32.982Z,58.372,-152.3116,39.2,1.7,ml,,,,0.33,ak,ak024ar19pz6,2024-08-21T02:56:51.201Z,"49 km NE of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-08-21T02:53:50.690Z,19.1660003662109,-155.478332519531,28.3099994659424,1.97000003,md,30,206,0.0186,0.140000001,hv,hv74415496,2024-08-21T02:55:35.150Z,"4 km S of Pāhala, Hawaii",earthquake,0.81,1.14999998,0.119999997,3,automatic,hv,hv
+2024-08-21T02:53:50.690Z,19.1660003662109,-155.478332519531,28.3099994659424,1.97000003,md,30,206,0.0186,0.140000001,hv,hv74415496,2024-08-21T02:55:35.150Z,"Island of Hawaii, Hawaii",earthquake,0.81,1.14999998,0.119999997,3,automatic,hv,hv
 2024-08-21T02:52:19.118Z,57.961,-154.6971,68,2.4,ml,,,,0.18,ak,ak024ar199h3,2024-08-21T02:53:43.113Z,"45 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-08-21T02:52:06.372Z,62.9165,-149.0139,66.5,1.5,ml,,,,0.37,ak,ak024ar198hp,2024-08-21T02:53:51.130Z,"53 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-21T02:46:58.889Z,62.5746,-151.3988,76.4,1.3,ml,,,,0.36,ak,ak024ar1828w,2024-08-21T02:49:29.810Z,"33 km WNW of Petersville, Alaska",earthquake,,1.8,,,automatic,ak,ak
