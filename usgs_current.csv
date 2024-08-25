@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-25T07:35:57.500Z,32.9915009,-116.3136673,6.67,1.69,ml,13,140,0.08384,0.13,ci,ci40713615,2024-08-25T07:38:17.759Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.61,0.97,0.521,11,automatic,ci,ci
+2024-08-25T07:35:57.640Z,32.9893333,-116.3215,5.11,0.67,ml,38,72,0.07693,0.2,ci,ci40713615,2024-08-25T07:42:22.784Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.25,0.58,0.079,10,automatic,ci,ci
 2024-08-25T07:34:00.630Z,35.8356667,-119.2641667,19.69,1.97,ml,28,87,0.1015,0.24,ci,ci40713607,2024-08-25T07:40:29.774Z,"8 km NNW of Delano, CA",earthquake,0.35,0.5,0.118,25,automatic,ci,ci
 2024-08-25T07:32:12.600Z,38.833667755127,-122.798164367676,2.19000005722046,1.55,md,32,41,0.007728,0.04,nc,nc75053101,2024-08-25T07:35:25.890Z,"7 km WNW of Cobb, CA",earthquake,0.19,0.330000013,0.13,33,automatic,nc,nc
 2024-08-25T07:30:02.620Z,34.4208333,-116.4656667,7.57,1.33,ml,44,52,0.1332,0.16,ci,ci40713599,2024-08-25T07:40:32.300Z,"34 km N of Yucca Valley, CA",earthquake,0.18,0.65,0.123,28,automatic,ci,ci
