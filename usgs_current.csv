@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-27T20:52:53.740Z,35.0271683,-117.6733322,0.85,1.55,ml,20,75,0.09446,0.18,ci,ci40716327,2024-08-27T20:54:57.643Z,"4 km NW of Boron, CA",earthquake,0.53,0.97,0.149,8,automatic,ci,ci
 2024-08-27T20:44:50.515Z,60.4061,-141.8295,7,2.5,ml,,,,0.54,ak,ak024b195i0r,2024-08-27T20:46:34.948Z,"128 km SSE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-27T20:44:37.173Z,60.4143,-141.7831,0.2,2.5,ml,,,,0.18,ak,ak024b195gzp,2024-08-27T20:46:20.678Z,"129 km SSE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-27T20:35:44.030Z,38.8349990844727,-122.816665649414,4.84999990463257,0.23,md,8,90,0.01268,0.06,nc,nc75054171,2024-08-27T20:37:20.232Z,"8 km WNW of Cobb, CA",earthquake,0.79,2.74000001,0.08,9,automatic,nc,nc
@@ -227,5 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T21:06:47.660Z,35.0856667,-119.0526667,13.44,2.46,ml,54,36,0.03717,0.24,ci,ci40715175,2024-08-27T16:28:29.253Z,"19 km NW of Grapevine, CA",earthquake,0.22,0.66,0.148,74,reviewed,ci,ci
 2024-08-26T21:04:32.740Z,33.3808333,-116.893,4.77,0.55,ml,23,52,0.03718,0.17,ci,ci40715167,2024-08-27T15:57:26.869Z,"4 km NW of Palomar Observatory, CA",earthquake,0.28,0.37,0.198,9,reviewed,ci,ci
 2024-08-26T21:03:05.129Z,36.6276,-115.7289,9.7,0.3,ml,15,337.43000000000006,0.191,0.0636,nn,nn00883081,2024-08-27T13:22:37.796Z,"8 km NW of Indian Springs, Nevada",earthquake,,5.8,0.22,5,reviewed,nn,nn
-2024-08-26T20:54:39.940Z,19.3959999084473,-155.252838134766,1.36000001430511,1.9,ml,13,86,0.01053,0.100000001,hv,hv74425017,2024-08-26T20:57:32.740Z,"5 km SSW of Volcano, Hawaii",earthquake,0.27,0.300000012,0.54,8,automatic,hv,hv
-2024-08-26T20:52:42.560Z,19.3866666666667,-155.243,1.92,2.63,ml,37,54,0.007929,0.1,hv,hv74425012,2024-08-27T07:09:52.747Z,"6 km S of Volcano, Hawaii",earthquake,0.19,0.16,0.332572028204144,17,reviewed,hv,hv
