@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-29T09:49:26.975Z,37.7581,-117.1286,0.3,1.1,ml,13,179.44000000000005,0.558,0.3752,nn,nn00883348,2024-08-29T09:51:49.811Z,"10 km ENE of Goldfield, Nevada",earthquake,,48.6,0.08,7,automatic,nn,nn
+2024-08-29T09:48:17.941Z,37.62,-116.9272,0.4,0.6,ml,9,176.07999999999998,0.503,0.2872,nn,nn00883347,2024-08-29T09:50:58.659Z,"28 km ESE of Goldfield, Nevada",earthquake,,65.9,0.3,6,automatic,nn,nn
 2024-08-29T09:44:41.955Z,37.6047,-116.9803,5.4,0.7,ml,9,170.60999999999996,0.504,0.2374,nn,nn00883345,2024-08-29T09:46:58.432Z,"25 km ESE of Goldfield, Nevada",earthquake,,4.1,0.26,5,automatic,nn,nn
 2024-08-29T09:34:18.140Z,37.8003,-117.0808,0.6,1.4,ml,19,188.47000000000003,0.52,0.3768,nn,nn00883342,2024-08-29T09:36:50.596Z,"17 km NE of Goldfield, Nevada",earthquake,,40.6,0.22,14,automatic,nn,nn
 2024-08-29T09:29:53.870Z,33.347,-116.9123333,8.78,0.35,ml,33,37,0.0421,0.2,ci,ci40718567,2024-08-29T09:36:31.297Z,"5 km WSW of Palomar Observatory, CA",earthquake,0.25,0.57,0.149,2,automatic,ci,ci
