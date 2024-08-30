@@ -249,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T11:35:37.457Z,63.0884,-150.8971,24.4,1.8,ml,,,,1.14,ak,ak024b4etc41,2024-08-29T11:37:37.906Z,"65 km SE of Denali National Park, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-08-29T11:33:40.944Z,59.5223,-153.443,133.4,1,ml,,,,0.11,ak,ak024b4eswy6,2024-08-29T11:34:55.013Z,"47 km SE of Pedro Bay, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2024-08-29T11:32:25.130Z,38.5021666666667,-112.870166666667,0.84,0.61,md,13,70,0.007349,0.1,uu,uu80080551,2024-08-29T20:03:56.830Z,"16 km NE of Milford, Utah",earthquake,0.29,0.54,0.288939836246854,3,reviewed,uu,uu
-2024-08-29T11:24:03.730Z,19.3826666666667,-155.243666666667,1.65,2.43,ml,33,66,0.00775,0.07,hv,hv74429667,2024-08-29T20:32:17.920Z,"6 km S of Volcano, Hawaii",earthquake,0.16,0.15,0.496805703591824,24,reviewed,hv,hv
