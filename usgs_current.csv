@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-31T09:50:06.430Z,33.6818333,-116.7876667,14.15,0.53,ml,32,72,0.0679,0.12,ci,ci40720535,2024-08-31T09:56:09.937Z,"9 km SW of Idyllwild, CA",earthquake,0.17,0.27,0.209,11,automatic,ci,ci
 2024-08-31T09:44:40.448Z,62.1438,-147.79,21.7,1.7,ml,,,,0.77,ak,ak024b7or3kc,2024-08-31T09:47:30.262Z,"38 km N of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-31T09:43:25.270Z,32.9781667,-116.3185,8.02,0.86,ml,47,39,0.07771,0.18,ci,ci40720527,2024-08-31T09:49:19.967Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.17,0.71,0.252,18,automatic,ci,ci
 2024-08-31T09:41:03.380Z,33.9988333,-117.1488333,12.26,0.49,ml,34,65,0.04744,0.17,ci,ci40720519,2024-08-31T09:47:32.643Z,"7 km SSE of Redlands, CA",earthquake,0.23,1.05,0.15,8,automatic,ci,ci
