@@ -245,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T15:04:41.470Z,38.7826652526855,-122.754837036133,1.5,1.26,md,7,111,0.01417,0.04,nc,nc75055281,2024-08-30T16:54:24.660Z,"1 km NNE of The Geysers, CA",earthquake,0.33,0.680000007,0.19,8,automatic,nc,nc
 2024-08-30T15:01:34.130Z,61.3241,-150.7677,40.1,1.9,ml,,,,0.46,ak,ak024b64j4f9,2024-08-30T15:02:58.108Z,"26 km NE of Beluga, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-08-30T14:57:20.990Z,38.0408325195312,-118.799163818359,14.9799995422363,2.38,md,25,107,0.2694,0.12,nc,nc75055276,2024-08-30T17:19:44.204Z,"27 km SSE of Bodie, CA",earthquake,0.42,2.25999999,0.2,21,automatic,nc,nc
-2024-08-30T14:44:19.620Z,51.9621666666667,178.418166666667,4.9,1.73,ml,4,335,0.05929,0.14,av,av93244688,2024-08-30T18:19:50.360Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.54,1.58,0.364157451439603,4,reviewed,av,av
