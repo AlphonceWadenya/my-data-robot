@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-03T13:36:17.740Z,35.9711685,-117.3766632,3.81,1.7,ml,18,166,0.1102,0.2,ci,ci40723439,2024-09-03T13:38:24.120Z,"23 km N of Searles Valley, CA",earthquake,0.51,1.26,0.188,11,automatic,ci,ci
+2024-09-03T13:36:17.630Z,35.9685,-117.3798333,2.19,1.7,ml,25,123,0.1101,0.15,ci,ci40723439,2024-09-03T13:42:47.335Z,"22 km N of Searles Valley, CA",earthquake,0.28,0.62,0.151,23,automatic,ci,ci
 2024-09-03T13:04:11.720Z,35.9696667,-117.3798333,1.58,2.69,ml,26,164,0.1109,0.16,ci,ci40723383,2024-09-03T13:11:16.143Z,"23 km N of Searles Valley, CA",earthquake,0.3,0.68,0.121,25,automatic,ci,ci
 2024-09-03T12:35:42.220Z,37.4356651306152,-118.741996765137,12.3699998855591,2.21,md,24,133,0.1645,0.03,nc,nc75056896,2024-09-03T13:22:13.558Z,"13 km WNW of Round Valley, CA",earthquake,0.45,1.88,0.1,28,automatic,nc,nc
 2024-09-03T12:26:29.101Z,60.2307,-141.61,2.2,1.1,ml,,,,0.72,ak,ak024bcp1k3i,2024-09-03T12:28:08.902Z,"130 km NW of Yakutat, Alaska",earthquake,,2,,,automatic,ak,ak
