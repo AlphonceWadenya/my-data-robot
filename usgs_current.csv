@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-04T08:52:38.273Z,61.7322,-150.4781,28.6,1.6,ml,,,,0.58,ak,ak024beacrhv,2024-09-04T08:54:49.783Z,"21 km N of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-04T08:45:19.565Z,37.7376,-117.1421,4.9,0.8,ml,8,175.74,0.561,0.121,nn,nn00883852,2024-09-04T08:47:55.091Z,"8 km ENE of Goldfield, Nevada",earthquake,,8.9,0.23,8,automatic,nn,nn
 2024-09-04T08:39:29.929Z,63.0467,-150.6693,116.3,1.2,ml,,,,0.05,ak,ak024bea9yjk,2024-09-04T08:41:55.746Z,"61 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-09-04T08:33:06.770Z,38.8238334655762,-122.851333618164,2.24000000953674,1.06,md,19,118,0.005697,0.02,nc,nc75057216,2024-09-04T08:34:42.002Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.449999988,0.21,19,automatic,nc,nc
@@ -208,6 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T09:01:15.664Z,-7.0879,129.0956,149.992,4.6,mb,23,85,2.673,0.46,us,us6000npgb,2024-09-03T12:28:53.040Z,"280 km NE of Lospalos, Timor Leste",earthquake,9.96,8.481,0.122,20,reviewed,us,us
 2024-09-03T09:00:18.840Z,51.7951666666667,-178.818,9.11,0.06,ml,5,143,0.02523,0.26,av,av93250193,2024-09-03T23:03:52.580Z,"150 km W of Adak, Alaska",earthquake,1.31,1.16,0.308835827971933,5,reviewed,av,av
 2024-09-03T08:59:15.259Z,36.699,-97.6745,5.72,1.87,ml,90,50,0.2123583281,0.18,ok,ok2024rido,2024-09-03T13:24:02.349Z,"10 km W of Lamont, Oklahoma",earthquake,,0.5,0.26,40,reviewed,ok,ok
-2024-09-03T08:56:19.060Z,19.0231666666667,-155.516,39.98,2.71,ml,51,204,0.1411,0.11,hv,hv74438762,2024-09-04T08:31:44.040Z,"8 km SE of Naalehu, Hawaii",earthquake,0.79,0.54,0.145217713977221,35,reviewed,hv,hv
-2024-09-03T08:55:36.329Z,35.678,-98.13566667,7,1.25,ml,88,40,0.06928640364,0.34,ok,ok2024ridk,2024-09-03T14:19:46.466Z,"8 km N of Calumet, Oklahoma",earthquake,,0.7,0.25,33,reviewed,ok,ok
-2024-09-03T08:53:36.259Z,36.70083333,-97.6765,7,1.13,ml,65,50,0.2105586812,0.23,ok,ok2024ridi,2024-09-03T15:52:34.955Z,"10 km ESE of Jefferson, Oklahoma",earthquake,,0.6,0.24,25,reviewed,ok,ok
