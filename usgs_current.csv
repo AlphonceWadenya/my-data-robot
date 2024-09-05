@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-05T19:37:36.220Z,34.6366653,-117.1118317,-0.9,1.58,ml,27,53,0.2046,0.23,ci,ci40725967,2024-09-05T19:39:41.629Z,"17 km NNE of Apple Valley, CA",earthquake,0.39,0.94,0.151,10,automatic,ci,ci
+2024-09-05T19:37:36.110Z,34.6336667,-117.1131667,-0.92,1.58,ml,34,36,0.1928,0.19,ci,ci40725967,2024-09-05T19:44:14.957Z,"16 km NNE of Apple Valley, CA",earthquake,0.22,0.78,0.117,29,automatic,ci,ci
 2024-09-05T19:36:35.113Z,36.6455,-115.7931,0,0.3,ml,14,239.22999999999996,0.137,0.2478,nn,nn00884143,2024-09-05T19:38:45.018Z,"13 km NW of Indian Springs, Nevada",earthquake,,11.8,0.46,10,automatic,nn,nn
 2024-09-05T19:32:34.819Z,62.0024,-149.7629,41,1.9,ml,,,,1.01,ak,ak024bg4bkzv,2024-09-05T19:36:29.506Z,"18 km SSE of Susitna North, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2024-09-05T19:26:42.990Z,38.8373336791992,-122.794830322266,2.02999997138977,1.07,md,19,74,0.003665,0.03,nc,nc75057866,2024-09-05T19:28:19.059Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.449999988,0.09,21,automatic,nc,nc
