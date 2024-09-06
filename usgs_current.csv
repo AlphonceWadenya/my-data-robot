@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-09-06T17:45:37.848Z,59.9077,-153.1601,123.9,1.6,ml,,,,0.12,ak,ak024bhqquvs,2024-09-06T17:47:12.263Z,"54 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-06T17:34:49.617Z,36.1322,-115.3076,15.8,1.6,ml,9,300.42,0.862,0.3955,nn,nn00884242,2024-09-06T17:37:42.644Z,"2 km NE of Summerlin South, Nevada",earthquake,,0,0.32,7,automatic,nn,nn
+2024-09-06T17:34:31.865Z,31.62,-104.211,1.0236,1.6,ml,17,67,0.1,0.7,tx,tx2024rohb,2024-09-06T17:55:43.299Z,"52 km NW of Toyah, Texas",earthquake,0,1.3634227514267,0.2,13,automatic,tx,tx
 2024-09-06T17:32:05.988Z,37.5733,-116.9801,0.1,0.2,ml,8,166.78999999999996,0.352,0.2709,nn,nn00884241,2024-09-06T17:34:52.322Z,"27 km ESE of Goldfield, Nevada",earthquake,,61.1,0.04,3,automatic,nn,nn
 2024-09-06T17:30:41.183Z,-35.3686,-179.4987,23.443,5,mww,75,51,2.814,1.05,us,us6000nq4k,2024-09-06T17:49:49.040Z,"east of the North Island of New Zealand",earthquake,9.09,5.206,0.11,8,reviewed,us,us
 2024-09-06T17:23:17.630Z,38.8071670532227,-122.818664550781,3.07999992370605,1.06,md,16,64,0.008388,0.02,nc,nc75058176,2024-09-06T17:24:54.918Z,"6 km NW of The Geysers, CA",earthquake,0.33,0.660000026,0.26,19,automatic,nc,nc
