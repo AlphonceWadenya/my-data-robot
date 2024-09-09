@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-09T18:46:36.250Z,19.2961673736572,-155.420669555664,29.6000003814697,2.0999999,md,36,89,0.04965,0.159999996,hv,hv74448692,2024-09-09T18:48:18.440Z,"11 km NNE of Pāhala, Hawaii",earthquake,0.63,0.779999971,0.519999981,3,automatic,hv,hv
+2024-09-09T18:44:11.000Z,19.1801662445068,-155.498168945312,32.7900009155273,2.3,ml,53,93,0.04205,0.150000006,hv,hv74448687,2024-09-09T18:47:11.860Z,"3 km SW of Pāhala, Hawaii",earthquake,0.48,0.660000026,0.24,19,automatic,hv,hv
 2024-09-09T18:38:08.380Z,61.5048,-148.0567,23.4,1,ml,,,,0.6,ak,ak024bmpwrom,2024-09-09T18:40:15.671Z,"39 km SSE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-09T18:32:00.567Z,37.7102,-117.1703,15.3,1.1,ml,9,170.05,0.561,0.323,nn,nn00884456,2024-09-09T18:34:06.782Z,"5 km E of Goldfield, Nevada",earthquake,,1.5,0.25,7,automatic,nn,nn
 2024-09-09T18:22:52.660Z,19.1901664733887,-155.467163085938,34.0999984741211,1.86000001,md,19,257,0.06525,0.109999999,hv,hv74448672,2024-09-09T18:24:36.310Z,"1 km SE of Pāhala, Hawaii",earthquake,0.96,0.870000005,0.289999992,4,automatic,hv,hv
