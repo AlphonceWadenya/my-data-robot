@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-10T03:50:11.810Z,19.2151660919189,-155.467666625977,32.6199989318848,1.95000005,md,37,101,0.04435,0.150000006,hv,hv74449117,2024-09-10T03:51:55.110Z,"1 km NE of Pāhala, Hawaii",earthquake,0.59,0.670000017,0.100000001,4,automatic,hv,hv
+2024-09-10T03:46:16.621Z,59.8336,-152.6347,87.8,1.4,ml,,,,0.4,ak,ak024bo4kcgu,2024-09-10T03:48:08.963Z,"45 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-10T03:38:51.010Z,19.2733325958252,-155.400833129883,30.3799991607666,1.75,md,35,108,0.03578,0.119999997,hv,hv74449107,2024-09-10T03:41:45.960Z,"11 km NE of Pāhala, Hawaii",earthquake,0.45,0.600000024,0.270000011,6,automatic,hv,hv
 2024-09-10T03:31:51.980Z,33.2756667,-116.7978333,15.63,0.74,ml,34,44,0.05137,0.15,ci,ci40729495,2024-09-10T03:43:28.940Z,"5 km NW of Lake Henshaw, CA",earthquake,0.2,0.42,0.118,11,automatic,ci,ci
 2024-09-10T03:27:53.021Z,60.8051,-151.0947,60.1,1.2,ml,,,,0.34,ak,ak024bo4gcls,2024-09-10T03:30:33.453Z,"16 km NE of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
