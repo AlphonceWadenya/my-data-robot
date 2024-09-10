@@ -236,5 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T23:16:03.850Z,34.1186667,-117.5711667,10.08,1.43,ml,59,37,0.02636,0.19,ci,ci40729399,2024-09-10T14:31:08.520Z,"1 km SE of Rancho Cucamonga, CA",earthquake,0.19,0.31,0.162,30,reviewed,ci,ci
 2024-09-09T22:55:41.840Z,33.6311667,-116.6865,13.68,-0.03,ml,13,65,0.0391,0.07,ci,ci40729375,2024-09-10T16:13:50.067Z,"9 km N of Anza, CA",earthquake,0.26,0.45,0.151,6,reviewed,ci,ci
 2024-09-09T22:52:00.195Z,65.0708,-146.5247,14.5,0.9,ml,,,,0.29,ak,ak024bmsdhih,2024-09-09T22:57:55.763Z,"26 km NE of Pleasant Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-09-09T22:44:41.499Z,65.7827,-147.8405,8,1.1,ml,,,,0.72,ak,ak024bmsbuyd,2024-09-09T22:46:58.147Z,"43 km NE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-09-09T22:43:15.551Z,44.3809,-126.0914,10,2.6,ml,31,227,0.508,0.54,us,us6000nqs7,2024-09-09T22:56:29.040Z,"158 km W of Yachats, Oregon",earthquake,2.54,1.999,0.044,68,reviewed,us,us
