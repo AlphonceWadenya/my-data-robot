@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T15:56:47.196Z,62.2978,-149.4154,18.9,1,ml,,,,0.63,ak,ak024bmo8er3,2024-09-09T15:59:02.681Z,"27 km ENE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-09-09T15:56:29.110Z,40.5424995422363,-121.983833312988,13.2399997711182,2.71,md,23,73,,0.18,nc,nc75059686,2024-09-09T17:24:32.255Z,"10 km NW of Shingletown, CA",earthquake,0.53,1.44000006,0.08,24,automatic,nc,nc
 2024-09-09T15:43:33.751Z,63.212,-149.8156,90.5,1.2,ml,,,,0.37,ak,ak024bmo5len,2024-09-09T15:45:57.351Z,"47 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-09-09T15:30:56.289Z,34.82783333,-97.51116667,6.31,1.39,ml,26,73,0.1052793406,0.35,ok,ok2024rtpm,2024-09-09T15:46:27.368Z,"8 km E of Lindsay, Oklahoma",earthquake,,1,0.18,11,reviewed,ok,ok
