@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-12T04:41:37.292Z,61.8743,-151.99,114.6,2,ml,,,,0.75,ak,ak024brg7f8k,2024-09-12T04:45:12.393Z,"33 km WSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-12T04:24:54.530Z,63.1706,-150.9108,117.6,1.6,ml,,,,0.2,ak,ak024brg3uhq,2024-09-12T04:36:59.481Z,"57 km SE of Denali National Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-09-12T04:24:19.468Z,60.0998,-140.9323,14.7,1.8,ml,,,,0.56,ak,ak024brg3riy,2024-09-12T04:25:50.282Z,"91 km NW of Yakutat, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-09-12T04:09:00.630Z,41.915,142.3581,66.731,4.4,mb,20,108,0.604,0.38,us,us7000nd7u,2024-09-12T04:42:00.040Z,"44 km SW of Urakawa, Japan",earthquake,4.6,9.305,0.162,11,reviewed,us,us
