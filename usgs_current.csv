@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-16T13:48:22.990Z,33.9205017,-116.7125015,8.44,1.01,ml,29,136,0.1294,0.2,ci,ci40734911,2024-09-16T13:50:26.432Z,"7 km E of Cabazon, CA",earthquake,0.57,1.23,0.339,6,automatic,ci,ci
+2024-09-16T13:46:28.275Z,62.0104,-149.4282,42,1.3,ml,,,,0.76,ak,ak024by7qsdn,2024-09-16T13:48:23.859Z,"27 km SE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-09-16T13:35:53.120Z,36.6638336181641,-121.326332092285,1.71000003814697,2,md,25,85,0.05369,0.12,nc,nc75062636,2024-09-16T13:42:18.951Z,"14 km SSW of Tres Pinos, CA",earthquake,0.3,0.980000019,0.13,20,automatic,nc,nc
 2024-09-16T13:32:45.970Z,62.3457,-149.5933,47.5,1.7,ml,,,,0.4,ak,ak024by7ntpx,2024-09-16T13:35:04.858Z,"24 km NNE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-09-16T13:27:43.971Z,59.5151,-151.6804,47.7,1.7,ml,,,,0.33,ak,ak024by7mqzh,2024-09-16T13:29:07.159Z,"4 km NNW of Seldovia Village, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-09-16T13:21:55.602Z,31.442,-103.856,8.1419,1.8,ml,8,130,0.1,0.7,tx,tx2024sgfv,2024-09-16T13:48:55.640Z,"15 km NNW of Toyah, Texas",earthquake,0,5.32980346679688,0.1,6,automatic,tx,tx
 2024-09-16T13:20:51.633Z,57.9066,-155.7326,2.5,0.9,ml,,,,0.22,ak,ak024by7l9kb,2024-09-16T13:22:22.044Z,"84 km WNW of Karluk, Alaska",earthquake,,4.3,,,automatic,ak,ak
 2024-09-16T13:20:49.940Z,19.3778324127197,-155.16633605957,3.11999988555908,2.4,ml,47,80,0.003224,0.360000014,hv,hv74464522,2024-09-16T13:23:45.240Z,"10 km SE of Volcano, Hawaii",earthquake,0.61,0.959999979,0.61,22,automatic,hv,hv
 2024-09-16T13:14:21.580Z,38.7908325195312,-122.735336303711,1.12000000476837,1.28,md,18,91,0.03112,0.03,nc,nc75062631,2024-09-16T13:39:22.930Z,"2 km ENE of The Geysers, CA",earthquake,0.23,0.629999995,0.27,22,automatic,nc,nc
@@ -25,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-16T11:36:34.890Z,17.1528,147.1872,32.887,6.3,mww,126,33,2.328,1.11,us,us7000ne84,2024-09-16T13:46:43.362Z,"263 km NE of Saipan, Northern Mariana Islands",earthquake,7.86,4.103,0.051,37,reviewed,us,us
 2024-09-16T11:33:25.952Z,38.5655,-119.4842,0,1.3,ml,10,150.96000000000004,0.219,0.1338,nn,nn00884728,2024-09-16T11:35:44.850Z,"1 km E of Coleville, California",earthquake,,29.7,0.28,4,automatic,nn,nn
 2024-09-16T11:28:12.780Z,32.6968333,-115.3878333,7.8,1.52,ml,19,64,0.08082,0.23,ci,ci40734831,2024-09-16T11:39:11.483Z,"9 km ENE of Mexicali, B.C., MX",earthquake,0.31,1.21,0.133,17,automatic,ci,ci
-2024-09-16T11:22:08.340Z,34.0678329,-118.8069992,10.55,3.58,mlr,136,87,0.03444,0.31,ci,ci40734823,2024-09-16T13:42:59.425Z,"7 km N of Malibu, CA",earthquake,0.36,0.55,0.231,20,reviewed,ci,ci
+2024-09-16T11:22:08.340Z,34.0678329,-118.8069992,10.55,3.58,mlr,136,87,0.03444,0.31,ci,ci40734823,2024-09-16T13:48:06.211Z,"7 km N of Malibu, CA",earthquake,0.36,0.55,0.231,20,reviewed,ci,ci
 2024-09-16T11:15:49.400Z,37.7111663818359,-119.420501708984,4.6100001335144,2.1,md,23,128,0.2819,0.08,nc,nc75062591,2024-09-16T12:01:57.417Z,"14 km ESE of Yosemite Valley, CA",earthquake,0.59,8.64999962,0.17,20,automatic,nc,nc
 2024-09-16T11:06:44.690Z,19.3701667785645,-155.165664672852,2.85999989509583,2.84,ml,56,88,0.0407,0.300000012,hv,hv74464237,2024-09-16T11:09:38.010Z,"10 km SE of Volcano, Hawaii",earthquake,0.46,0.939999998,0.4,40,automatic,hv,hv
 2024-09-16T10:43:52.299Z,60.6142,-146.9,21.3,1.8,ml,,,,0.48,ak,ak024by5xw9p,2024-09-16T10:45:51.370Z,"30 km SSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -299,4 +302,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-15T14:05:59.160Z,19.2981662750244,-155.134674072266,2.90000009536743,2.55,ml,24,232,0.08668,0.319999993,hv,hv74461132,2024-09-15T14:08:54.300Z,"18 km S of Fern Forest, Hawaii",earthquake,2.07,6.07999992,0.5,25,automatic,hv,hv
 2024-09-15T14:01:24.920Z,19.3633327484131,-155.193664550781,1.35000002384186,2.09,ml,13,129,0.02309,0.150000006,hv,hv74461117,2024-09-15T14:04:18.810Z,"9 km SSE of Volcano, Hawaii",earthquake,0.47,0.360000014,0.26,3,automatic,hv,hv
 2024-09-15T13:54:36.520Z,34.1988333,-117.5731667,10.96,0.96,ml,15,222,0.09472,0.09,ci,ci40734239,2024-09-15T14:01:42.763Z,"8 km N of Rancho Cucamonga, CA",earthquake,0.45,0.39,0.194,32,automatic,ci,ci
-2024-09-15T13:52:30.170Z,19.380500793457,-155.21533203125,0.310000002384186,2.06999993,md,12,103,0.006683,0.219999999,hv,hv74461102,2024-09-15T13:55:22.030Z,"7 km SSE of Volcano, Hawaii",earthquake,0.48,0.319999993,0.200000003,6,automatic,hv,hv
