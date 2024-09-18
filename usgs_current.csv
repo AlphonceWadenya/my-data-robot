@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-18T17:36:54.721Z,34.24850464,-96.38266754,0.9865042567,1.74,ml,13,237.328949,0.2329864651,0.6227473969,ok,ok2024skfe,2024-09-18T17:45:06.475Z,"11 km N of Kenefic, Oklahoma",earthquake,8.664197308,7.042119963,0.31,5,automatic,ok,ok
+2024-09-18T17:35:27.151Z,61.671,-149.7344,52.6,1.2,ml,,,,0.34,ak,ak024c1l4utn,2024-09-18T17:37:22.320Z,"6 km NE of Houston, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-09-18T17:21:29.742Z,62.9241,-148.2569,0,1.9,ml,,,,0.62,ak,ak024c1l1uzy,2024-09-18T17:23:19.809Z,"62 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-18T17:20:01.540Z,60.4179,-151.8876,80.9,1.8,ml,,,,0.21,ak,ak024c1l1l3u,2024-09-18T17:21:27.186Z,"32 km W of Cohoe, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-09-18T17:16:37.820Z,19.2091674804688,-155.378173828125,29.1800003051758,2.02999997,md,32,173,0.03359,0.119999997,hv,hv74469232,2024-09-18T17:18:14.720Z,"10 km E of Pāhala, Hawaii",earthquake,0.61,0.629999995,0.170000002,8,automatic,hv,hv
