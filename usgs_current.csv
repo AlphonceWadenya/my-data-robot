@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-19T09:55:21.520Z,19.6989994049072,-155.549835205078,-2.40000009536743,2.21000004,md,13,111,0.06023,0.379999995,hv,hv74470197,2024-09-19T09:56:55.920Z,"36 km SE of Waikoloa, Hawaii",earthquake,0.81,0.49000001,0.460000008,3,automatic,hv,hv
 2024-09-19T09:44:58.220Z,40.0246658325195,-123.783996582031,18.8299999237061,1.56,md,8,136,0.05058,0.09,nc,nc75063886,2024-09-19T09:46:34.982Z,"11 km S of Redway, CA",earthquake,1.32,1.14999998,0.04,4,automatic,nc,nc
 2024-09-19T09:44:47.604Z,68.9367,-146.3598,28.2,2.2,ml,,,,1.12,ak,ak024c33ypi0,2024-09-19T09:48:20.467Z,"96 km NNW of Arctic Village, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2024-09-19T09:44:35.300Z,33.144,-115.9798333,8.23,1.24,ml,52,50,0.02946,0.2,ci,ci40737991,2024-09-19T09:50:34.578Z,"14 km E of Ocotillo Wells, CA",earthquake,0.21,0.51,0.121,26,automatic,ci,ci
