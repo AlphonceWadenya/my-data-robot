@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-19T07:55:14.640Z,36.2299995422363,-120.262168884277,12.0299997329712,1.44,md,8,191,0.06868,0.12,nc,nc75063856,2024-09-19T07:56:50.618Z,"13 km NE of Coalinga, CA",earthquake,1.66,1.15999997,0.12,7,automatic,nc,nc
 2024-09-19T07:46:32.420Z,38.7924995422363,-122.78116607666,3.50999999046326,0.77,md,18,79,0.00532,0.04,nc,nc75063846,2024-09-19T07:48:10.455Z,"3 km NW of The Geysers, CA",earthquake,0.32,0.74000001,0.12,19,automatic,nc,nc
 2024-09-19T07:43:45.986Z,62.0049,-149.5456,47.7,1.5,ml,,,,0.15,ak,ak024c32rmg6,2024-09-19T07:44:50.302Z,"23 km SE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-09-19T07:42:22.696Z,31.634,-104.46,6.2239,1.5,ml,8,107,0,0.3,tx,tx2024slhc,2024-09-19T07:51:43.367Z,"60 km S of Whites City, New Mexico",earthquake,0,6.19259691238403,0.1,6,automatic,tx,tx
