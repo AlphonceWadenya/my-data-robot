@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-19T11:31:21.540Z,32.9828339,-116.3150024,8.2,1.15,ml,27,122,0.08114,0.21,ci,ci40738031,2024-09-19T11:33:41.264Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.33,1.13,0.202,3,automatic,ci,ci
+2024-09-19T11:31:21.480Z,32.9843333,-116.3106667,8.58,1.09,ml,48,40,0.08495,0.2,ci,ci40738031,2024-09-19T11:37:32.951Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.19,0.66,0.283,20,automatic,ci,ci
 2024-09-19T11:12:56.980Z,34.8621667,-116.3935,4.88,0.97,ml,14,70,0.05817,0.16,ci,ci40738015,2024-09-19T11:18:53.556Z,"26 km NW of Ludlow, CA",earthquake,0.3,0.59,0.205,8,automatic,ci,ci
 2024-09-19T10:31:49.588Z,61.8051,-151.5656,90.8,1.5,ml,,,,0.43,ak,ak024c34hcy6,2024-09-19T10:33:51.029Z,"22 km SSW of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-09-19T10:27:37.190Z,33.2258339,-116.0374985,4.1,1.75,ml,16,98,0.0693,0.13,ci,ci40737999,2024-09-19T10:29:47.817Z,"11 km SW of Salton City, CA",earthquake,0.47,1.14,0.398,5,automatic,ci,ci
