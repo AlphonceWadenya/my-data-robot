@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-25T07:49:16.100Z,18.9190006256104,-155.542663574219,35.9799995422363,2.3499999,md,41,251,0.1329,0.150000006,hv,hv74476767,2024-09-25T07:50:59.840Z,"16 km SSE of Naalehu, Hawaii",earthquake,0.7,0.930000007,0.00999999978,3,automatic,hv,hv
 2024-09-25T07:42:13.732Z,66.8417,-146.6836,0,2.3,ml,,,,1.28,ak,ak024cczzfcs,2024-09-25T07:45:10.140Z,"22 km SSW of Venetie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-25T07:41:57.861Z,66.7525,-146.8658,16.7,2.3,ml,,,,0.73,ak,ak024cczzawa,2024-09-25T07:43:50.089Z,"35 km SSW of Venetie, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-09-25T07:36:25.070Z,19.3344993591309,-155.179672241211,1.58000004291534,2.04,ml,54,84,0.04577,0.209999993,hv,hv74476757,2024-09-25T07:39:16.530Z,"13 km SSE of Volcano, Hawaii",earthquake,0.25,0.389999986,0.5,18,automatic,hv,hv
