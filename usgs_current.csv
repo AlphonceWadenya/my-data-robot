@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-26T14:19:38.150Z,46.60383224487305,-119.79733276367188,7.19999980926514,1.14999998,md,9,105,,0.0700000003,uw,uw62050101,2024-09-26T14:20:58.560Z,"12 km SE of Desert Aire, Washington",earthquake,0.84,0.319999993,0.569999993,3,automatic,uw,uw
 2024-09-26T14:18:04.761Z,32.008,-101.742,7.6416,1.8,ml,21,65,0.1,0.1,tx,tx2024sypg,2024-09-26T20:03:55.752Z,"14 km SSE of Stanton, Texas",earthquake,0.4932999456093042,0.8968104346868423,0.2,29,reviewed,tx,tx
 2024-09-26T14:06:57.470Z,31.669,-104.378,6.6382,2.2,ml,27,69,0,0.1,tx,tx2024syox,2024-09-26T19:54:15.704Z,"56 km S of Whites City, New Mexico",earthquake,0.7632013432171028,0.6551398053352492,0.1,49,reviewed,tx,tx
-2024-09-26T13:47:50.245Z,63.0496,-148.6935,69.6,0.8,ml,,,,0.88,ak,ak024cer4iq8,2024-09-26T13:50:11.853Z,"40 km SSE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
