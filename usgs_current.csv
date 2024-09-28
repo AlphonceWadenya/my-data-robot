@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-09-28T08:42:34.230Z,38.6908340454102,-122.50016784668,7.48999977111816,1.62,md,16,72,0.06629,0.06,nc,nc75067676,2024-09-28T08:45:21.763Z,"12 km SE of Middletown, CA",earthquake,0.35,1,0.18,13,automatic,nc,nc
+2024-09-28T08:40:11.135Z,31.601,-104.572,2.9737,2.2,ml,8,174,0.1,0.5,tx,tx2024tbuq,2024-09-28T08:50:33.860Z,"66 km SSW of Whites City, New Mexico",earthquake,0,2.2690327167511,0.1,6,automatic,tx,tx
 2024-09-28T08:39:51.610Z,34.092,-118.1856667,9.62,1.15,ml,44,66,0.0552,0.2,ci,ci40747535,2024-09-28T08:46:32.889Z,"3 km SSE of Highland Park, CA",earthquake,0.24,0.4,0.231,31,automatic,ci,ci
 2024-09-28T08:38:08.170Z,31.743,-104.228,7.1086,1.6,ml,13,91,0,0.5,tx,tx2024tbup,2024-09-28T08:45:26.830Z,"49 km SSE of Whites City, New Mexico",earthquake,0,2.98137950897217,0.1,11,automatic,tx,tx
 2024-09-28T08:25:26.290Z,33.678,-116.7946667,16.63,1.4,ml,79,22,0.06524,0.18,ci,ci40747527,2024-09-28T08:36:00.180Z,"10 km SW of Idyllwild, CA",earthquake,0.14,0.27,0.214,26,automatic,ci,ci
@@ -208,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T09:09:56.110Z,46.60016666666667,-119.80266666666667,8.06,1.33,ml,24,77,0.02985,0.11,uw,uw62050296,2024-09-27T17:45:18.310Z,"12 km SE of Desert Aire, Washington",earthquake,0.22,0.12,0.1598732341917226,22,reviewed,uw,uw
 2024-09-27T08:58:38.984Z,68.524,-144.2783,0,2.8,ml,,,,0.57,ak,ak024cgbr163,2024-09-27T11:45:56.040Z,"68 km NE of Arctic Village, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-27T08:54:52.348Z,62.4945,-151.1661,72,2.2,ml,,,,0.56,ak,ak024cgbq7bs,2024-09-27T11:36:31.040Z,"20 km W of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2024-09-27T08:51:23.355Z,63.0821,-148.2651,56.8,1.7,ml,,,,0.53,ak,ak024cgbphzj,2024-09-27T08:53:02.076Z,"48 km SE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-09-27T08:48:43.280Z,33.4966667,-116.5468333,12.51,0.81,ml,49,50,0.04631,0.16,ci,ci40746911,2024-09-27T17:31:06.140Z,"13 km ESE of Anza, CA",earthquake,0.16,0.33,0.144,24,reviewed,ci,ci
