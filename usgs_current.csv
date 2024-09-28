@@ -206,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T10:44:20.034Z,-24.8731,178.5262,608.427,4.6,mb,56,128,5.38,0.64,us,us7000ngsn,2024-09-27T11:14:33.040Z,"south of the Fiji Islands",earthquake,14.33,9.564,0.077,50,reviewed,us,us
 2024-09-27T10:44:10.450Z,36.8196667,-118.4583333,5.36,1.83,ml,10,317,0.4519,0.1,ci,ci40746935,2024-09-27T17:42:43.998Z,"23 km W of Independence, CA",earthquake,6.88,3.14,0.241,6,automatic,ci,ci
 2024-09-27T10:44:07.260Z,36.0975,-117.9023333,6,0.52,ml,9,202,0.04335,0.09,ci,ci37684764,2024-09-27T17:43:45.006Z,"7 km NE of Coso Junction, CA",earthquake,0.37,0.49,0.282,4,reviewed,ci,ci
-2024-09-27T10:39:11.692Z,62.4698,-152.2214,0,1.7,ml,,,,0.42,ak,ak024cgctrpd,2024-09-27T10:41:01.621Z,"68 km NW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
