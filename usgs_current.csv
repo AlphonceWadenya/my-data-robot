@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-29T05:18:46.337Z,79.9698,136.8281,10,4.6,mb,75,94,8.592,0.82,us,us7000nh2f,2024-09-29T05:53:59.040Z,"north of the New Siberian Islands",earthquake,9.57,1.917,0.048,132,reviewed,us,us
 2024-09-29T05:12:07.554Z,61.3982,-150.0342,34,1.9,ml,,,,0.34,ak,ak024cjkri0j,2024-09-29T05:14:04.068Z,"5 km NW of Point MacKenzie, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-29T04:43:06.970Z,38.8348350524902,-122.80883026123,1.85000002384186,1.07,md,21,50,0.01146,0.02,nc,nc75068081,2024-09-29T05:42:17.525Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.419999987,0.07,21,automatic,nc,nc
 2024-09-29T04:42:16.590Z,36.0078333,-117.793,1.6,0.82,ml,18,62,0.0284,0.14,ci,ci40748007,2024-09-29T04:48:13.586Z,"13 km NE of Little Lake, CA",earthquake,0.22,0.27,0.213,9,automatic,ci,ci
