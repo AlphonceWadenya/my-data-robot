@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-30T17:32:59.870Z,51.7936666666667,-178.823666666667,4.26,1.06,ml,5,151,0.02598,0.11,av,av93293143,2024-09-30T19:25:51.690Z,"151 km W of Adak, Alaska",earthquake,0.43,0.88,0.252715190517183,5,reviewed,av,av
 2024-09-30T17:31:31.412Z,62.9501,-150.6864,83,1.7,ml,,,,0.92,ak,ak024clfk67p,2024-09-30T17:34:20.572Z,"50 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-30T17:31:15.260Z,51.7928333333333,-178.7975,3.58,0.5,ml,4,136,0.02761,0.29,av,av93293138,2024-09-30T19:23:15.810Z,"149 km W of Adak, Alaska",earthquake,1.05,2.18,0.125295384561613,4,reviewed,av,av
-2024-09-30T17:30:38.799Z,35.1015,-97.523,5.28,2.45,ml,97,44,0.02879434957,0.35,ok,ok2024tgcz,2024-09-30T18:23:16.288Z,"4 km E of Cole, Oklahoma",earthquake,,0.6,0.23,46,reviewed,ok,ok
+2024-09-30T17:30:38.799Z,35.1015,-97.523,5.28,2.45,ml,97,44,0.02879434957,0.35,ok,ok2024tgcz,2024-09-30T19:43:21.061Z,"4 km E of Cole, Oklahoma",earthquake,,0.6,0.23,46,reviewed,ok,ok
 2024-09-30T17:25:17.170Z,33.32,-116.3396667,11.39,1.26,ml,60,34,0.02396,0.19,ci,ci40748975,2024-09-30T17:36:19.639Z,"8 km NNE of Borrego Springs, CA",earthquake,0.16,0.26,0.183,25,automatic,ci,ci
 2024-09-30T17:08:11.310Z,19.4284992218018,-155.264663696289,8.68000030517578,2.04999995,md,16,137,0.00318,0.300000012,hv,hv74483117,2024-09-30T17:11:05.440Z,"3 km WSW of Volcano, Hawaii",earthquake,1.05,0.769999981,0.0900000036,7,automatic,hv,hv
 2024-09-30T16:50:42.780Z,45.1695,-112.420333333333,-2,0.52,ml,7,106,0.2296,0.08,mb,mb90062728,2024-09-30T18:00:46.380Z,"17 km ESE of Dillon, Montana",quarry blast,0.6,31.61,0.201263685143303,6,reviewed,mb,mb
@@ -202,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T20:00:51.040Z,34.2161667,-117.5186667,3.49,0.56,ml,14,59,0.01786,0.13,ci,ci40748383,2024-09-30T15:44:39.719Z,"5 km SSW of Lytle Creek, CA",earthquake,0.25,0.43,0.248,6,reviewed,ci,ci
 2024-09-29T19:51:13.060Z,34.2161667,-117.5168333,4.16,0.5,ml,15,62,0.01653,0.14,ci,ci40748375,2024-09-30T16:13:01.174Z,"5 km SSW of Lytle Creek, CA",earthquake,0.26,0.34,0.109,6,reviewed,ci,ci
 2024-09-29T19:49:20.460Z,33.1723333,-116.103,9.99,1.36,ml,56,30,0.05691,0.21,ci,ci40748367,2024-09-30T18:33:29.033Z,"4 km NE of Ocotillo Wells, CA",earthquake,0.18,0.52,0.145,44,reviewed,ci,ci
-2024-09-29T19:45:13.990Z,35.8935,-117.6841667,9.86,0.94,ml,26,43,0.06082,0.14,ci,ci40748359,2024-09-30T18:16:57.718Z,"21 km ESE of Little Lake, CA",earthquake,0.18,0.39,0.192,10,reviewed,ci,ci
