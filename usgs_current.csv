@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-30T14:54:45.040Z,33.8461685,-116.9751663,11.19,1.13,ml,20,190,0.1394,0.21,ci,ci40748879,2024-09-30T14:57:10.672Z,"7 km NNW of San Jacinto, CA",earthquake,0.65,1.37,0.227,8,automatic,ci,ci
 2024-09-30T14:50:29.140Z,38.7751655578613,-122.823829650879,12.0100002288818,0.29,md,8,202,0.02088,0.12,nc,nc75068591,2024-09-30T14:52:05.974Z,"6 km W of The Geysers, CA",earthquake,1.72,6.59000015,0.04,9,automatic,nc,nc
 2024-09-30T14:46:42.762Z,60.7589,-149.3272,11.2,1.6,ml,,,,0.64,ak,ak024cldv40k,2024-09-30T14:48:40.870Z,"15 km SSE of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-30T14:29:22.040Z,19.1683330535889,-155.479827880859,31.8400001525879,2,md,40,93,0.02111,0.140000001,hv,hv74483042,2024-09-30T14:31:01.210Z,"3 km S of Pāhala, Hawaii",earthquake,0.73,0.680000007,0.209999993,9,automatic,hv,hv
