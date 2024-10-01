@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-01T11:54:48.190Z,32.9379997,-116.3448334,11.12,1.05,ml,21,108,0.06479,0.13,ci,ci40749551,2024-10-01T11:57:13.422Z,"22 km NE of Pine Valley, CA",earthquake,0.33,0.57,0.161,4,automatic,ci,ci
+2024-10-01T11:53:18.770Z,32.9406662,-116.341835,11.5,1.19,ml,22,83,0.06566,0.13,ci,ci40749543,2024-10-01T11:55:22.188Z,"22 km NE of Pine Valley, CA",earthquake,0.3,0.75,0.163,9,automatic,ci,ci
 2024-10-01T11:37:26.840Z,31.676,-104.419,4.0851,2.1,ml,16,70,0,0.6,tx,tx2024thna,2024-10-01T11:48:12.847Z,"55 km S of Whites City, New Mexico",earthquake,0,1.27485430240631,0.2,11,automatic,tx,tx
 2024-10-01T11:36:51.687Z,31.66,-104.39,4.0454,1.8,ml,9,100,0,0.5,tx,tx2024thmz,2024-10-01T11:48:08.843Z,"57 km S of Whites City, New Mexico",earthquake,0,3.55497622489929,0.2,7,automatic,tx,tx
 2024-10-01T11:36:40.780Z,35.8916667,-117.7,8.88,0.62,ml,24,42,0.06907,0.12,ci,ci40749527,2024-10-01T11:42:28.809Z,"19 km ESE of Little Lake, CA",earthquake,0.16,0.42,0.056,6,automatic,ci,ci
