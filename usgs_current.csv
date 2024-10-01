@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-01T23:34:37.360Z,34.0424995,-117.6008301,5.04,1,ml,15,69,0.01072,0.15,ci,ci40749903,2024-10-01T23:36:43.764Z,"3 km ESE of Ontario, CA",earthquake,0.41,0.7,0.111,7,automatic,ci,ci
+2024-10-01T23:38:25.899Z,60.1821,-141.0649,3.8,2.1,ml,,,,0.57,ak,ak024cn6plx9,2024-10-01T23:40:19.392Z,"103 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-01T23:34:37.340Z,34.0368333,-117.6081667,6.01,1.03,ml,27,59,0.08726,0.16,ci,ci40749903,2024-10-01T23:41:01.491Z,"2 km SE of Ontario, CA",earthquake,0.2,1.05,0.243,33,automatic,ci,ci
 2024-10-01T23:26:08.847Z,38.6772,-117.0939,11.9,1.5,ml,11,184.7,0.77,0.2798,nn,nn00885452,2024-10-01T23:29:04.219Z,"59 km S of Kingston, Nevada",earthquake,,1.9,0.28,7,automatic,nn,nn
 2024-10-01T23:15:35.580Z,19.2551670074463,-155.414169311523,30.6700000762939,1.73000002,md,19,130,0.0236,0.119999997,hv,hv74484807,2024-10-01T23:17:11.330Z,"8 km NE of Pāhala, Hawaii",earthquake,0.93,1.14999998,0.360000014,3,automatic,hv,hv
 2024-10-01T23:11:07.541Z,64.8835,-147.2976,24.1,1.7,ml,,,,1.07,ak,ak024cn6js8t,2024-10-01T23:14:58.317Z,"12 km W of Two Rivers, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -221,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T00:30:33.160Z,38.7975006103516,-122.980499267578,4.17000007629395,1.39,md,23,78,0.03894,0.03,nc,nc75068846,2024-10-01T02:24:32.925Z,"3 km ESE of Cloverdale, CA",earthquake,0.28,0.699999988,0.17,23,automatic,nc,nc
 2024-09-30T23:54:34.980Z,38.785831451416,-122.779663085938,2.29999995231628,1.11,md,22,113,0.00977,0.03,nc,nc75068831,2024-10-01T00:59:30.317Z,"2 km NW of The Geysers, CA",earthquake,0.28,0.460000008,0.14,23,automatic,nc,nc
 2024-09-30T23:49:59.170Z,17.8811666666667,-66.862,2.31,2.45,md,6,208,0.1944,0.06,pr,pr71461453,2024-10-01T00:00:49.270Z,"11 km SSE of Guánica, Puerto Rico",earthquake,0.88,1.57,0.135592174438705,4,reviewed,pr,pr
-2024-09-30T23:38:49.801Z,52.7911,160.2161,39.467,4.4,mb,39,160,0.977,0.97,us,us7000nhby,2024-09-30T23:57:56.040Z,"111 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.52,8.821,0.078,47,reviewed,us,us
