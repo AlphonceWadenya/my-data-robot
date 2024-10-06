@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-06T10:51:08.000Z,34.0238,-117.5876,9,4.3,mw,249,,,,ew,ew1728211870,2024-10-06T10:52:13.000Z,"7 km NNW of Eastvale, California",earthquake,7.181,3.535,0.2,249,automatic,ew,ew
+2024-10-06T10:56:49.830Z,34.0164986,-117.5938339,5.51,1.12,ml,36,60,0.02007,0.12,ci,ci40752831,2024-10-06T10:58:52.295Z,"5 km SE of Ontario, CA",earthquake,0.26,0.33,0.213,10,automatic,ci,ci
+2024-10-06T10:53:55.700Z,34.0143318,-117.5916672,5.04,2.15,ml,77,27,0.02286,0.15,ci,ci40752823,2024-10-06T10:56:21.552Z,"5 km SE of Ontario, CA",earthquake,0.18,0.33,0.254,29,automatic,ci,ci
+2024-10-06T10:51:08.470Z,34.0251656,-117.5916672,5.74,3.98,mw,97,46,0.01526,0.25,ci,ci40752807,2024-10-06T10:58:54.513Z,"4 km SE of Ontario, CA",earthquake,0.28,0.76,,6,reviewed,ci,ci
 2024-10-06T10:39:43.290Z,38.8293342590332,-122.81950378418,1.75999999046326,1.01,md,20,47,0.009456,0.02,nc,nc75071136,2024-10-06T10:41:21.449Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.370000005,0.25,21,automatic,nc,nc
 2024-10-06T10:39:34.362Z,36.864,-115.9439,10.1,-0.2,ml,16,186.01999999999998,0.066,0.2569,nn,nn00885607,2024-10-06T10:41:26.014Z,"40 km NW of Indian Springs, Nevada",earthquake,,1,0.24,9,automatic,nn,nn
 2024-10-06T10:35:56.870Z,33.5465,-117.0525,12.78,1.13,ml,53,39,0.05572,0.23,ci,ci40752799,2024-10-06T10:43:12.419Z,"10 km E of Murrieta Hot Springs, CA",earthquake,0.21,0.55,0.262,8,automatic,ci,ci
