@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-08T21:28:11.080Z,34.0181667,-117.595,6.24,2.28,ml,95,19,0.01814,0.18,ci,ci40754847,2024-10-08T21:39:23.990Z,"5 km SE of Ontario, CA",earthquake,0.11,0.31,0.211,26,automatic,ci,ci
+2024-10-08T21:28:11.080Z,34.0181667,-117.595,6.24,2.28,ml,95,19,0.01814,0.18,ci,ci40754847,2024-10-08T21:41:12.084Z,"5 km SE of Ontario, CA",earthquake,0.11,0.31,0.211,26,automatic,ci,ci
 2024-10-08T21:16:58.680Z,38.823501586914,-122.81416320801,3.2000000476837,0.76,md,12,192,0.003196,0.01,nc,nc75072156,2024-10-08T21:18:36.338Z,"7 km NNW of The Geysers, CA",earthquake,0.57,1.5,0.25,12,automatic,nc,nc
 2024-10-08T21:11:20.170Z,38.825500488281,-122.80300140381,2.4100000858307,0.69,md,21,45,0.005911,0.02,nc,nc75072151,2024-10-08T21:12:55.246Z,"7 km NNW of The Geysers, CA",earthquake,0.24,0.629999995,0.23,22,automatic,nc,nc
 2024-10-08T21:11:11.080Z,38.825500488281,-122.80316925049,2.3699998855591,1.71,md,23,41,0.005789,0.02,nc,nc75072146,2024-10-08T21:12:45.447Z,"7 km NNW of The Geysers, CA",earthquake,0.22,0.419999987,0.34,22,automatic,nc,nc
