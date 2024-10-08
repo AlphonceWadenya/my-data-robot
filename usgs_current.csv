@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-08T19:46:23.240Z,35.1114998,-119.1056671,13.03,1.64,ml,24,75,0.05574,0.2,ci,ci40754791,2024-10-08T19:48:29.657Z,"24 km SW of Lamont, CA",earthquake,0.42,0.98,0.212,17,automatic,ci,ci
 2024-10-08T19:36:56.070Z,34.6338333,-117.1171667,-1.28,1.48,ml,36,46,0.2067,0.15,ci,ci40754783,2024-10-08T19:43:37.795Z,"16 km NNE of Apple Valley, CA",earthquake,0.19,0.65,0.093,28,automatic,ci,ci
 2024-10-08T19:24:14.290Z,33.844,-117.4966667,2.16,1.69,ml,49,46,0.05051,0.2,ci,ci40754759,2024-10-08T19:30:59.723Z,"4 km SSE of Home Gardens, CA",earthquake,0.2,0.3,0.161,33,automatic,ci,ci
+2024-10-08T19:23:10.389Z,19.15,-68.7857,124.38,3.1,ml,17,169,0.405,1.17,us,us6000nxdj,2024-10-08T19:48:04.005Z,"33 km ENE of Miches, Dominican Republic",earthquake,8.22,9.216,0.065,31,reviewed,us,us
 2024-10-08T19:00:59.340Z,37.711833953857,-119.37850189209,25.180000305176,2.69,md,16,131,0.2503,0.07,nc,nc75072086,2024-10-08T19:25:08.842Z,"18 km ESE of Yosemite Valley, CA",earthquake,0.44,1.25,0.37,15,automatic,nc,nc
 2024-10-08T18:54:30.890Z,32.5551667,-115.282,21.14,2.03,ml,28,58,0.1367,0.28,ci,ci40754743,2024-10-08T19:05:00.020Z,"7 km E of Puebla, B.C., MX",earthquake,0.51,1.33,0.214,27,automatic,ci,ci
 2024-10-08T18:52:53.690Z,19.214332580566,-155.48567199707,30.760000228882,2.25,ml,57,81,0.03613,0.119999997,hv,hv74493656,2024-10-08T19:35:16.005Z,"1 km NNW of Pāhala, Hawaii",earthquake,0.38,0.610000014,0.19,20,automatic,hv,hv
@@ -75,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-08T10:34:49.380Z,40.732666666667,-112.04483333333,7.18,0.26,md,8,104,0.008883,0.09,uu,uu80084171,2024-10-08T13:23:08.820Z,"5 km ENE of Magna, Utah",earthquake,0.43,0.56,0.1496347860524,4,reviewed,uu,uu
 2024-10-08T10:31:06.340Z,33.2778333,-116.822,14.57,0.11,ml,23,58,0.06745,0.16,ci,ci40754495,2024-10-08T16:48:51.468Z,"7 km NW of Lake Henshaw, CA",earthquake,0.31,0.64,0.211,10,reviewed,ci,ci
 2024-10-08T10:25:51.314Z,61.2887,-152.2766,6.6,3.2,ml,,,,0.4,ak,ak024cyjnlib,2024-10-08T10:28:25.835Z,"66 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-10-08T10:24:55.224Z,61.2904,-152.2867,2.9,2.1,ml,,,,0.53,ak,ak024cyjnga7,2024-10-08T17:25:25.671Z,"66 km WNW of Tyonek, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2024-10-08T10:24:55.224Z,61.2904,-152.2867,2.9,2.1,ml,,,,0.53,ak,ak024cyjnga7,2024-10-08T19:47:38.820Z,"66 km WNW of Tyonek, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2024-10-08T10:24:49.114Z,61.2956,-152.2605,9.5,1.9,ml,,,,0.15,ak,ak024cyjnga8,2024-10-08T19:40:56.020Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-08T10:14:57.992Z,61.2772,-152.2476,0.3,1.4,ml,,,,0.47,ak,ak024cyjlbt3,2024-10-08T19:31:41.250Z,"64 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-08T10:09:50.940Z,60.2136,-150.8536,12.2,2.2,ml,,,,0.38,ak,ak024cyjk8om,2024-10-08T10:11:32.276Z,"27 km ESE of Kasilof, Alaska",earthquake,,0.4,,,automatic,ak,ak
