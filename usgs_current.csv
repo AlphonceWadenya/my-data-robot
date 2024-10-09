@@ -248,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-08T06:15:52.414Z,60.2171,-152.5708,116,1.4,ml,,,,0.45,ak,ak024cyh7so9,2024-10-08T06:17:18.252Z,"53 km WNW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-10-08T06:09:36.901Z,36.9581,-116.1921,1.9,0,ml,21,54.42,0.04,0.1519,nn,nn00885698,2024-10-09T02:04:05.689Z,"50 km E of Beatty, Nevada",earthquake,,4.3,0.24,9,reviewed,nn,nn
 2024-10-08T06:09:04.126Z,31.673,-104.424,6.7151,1.6,ml,30,59,0,0.2,tx,tx2024ttwp,2024-10-08T20:16:31.665Z,"55 km S of Whites City, New Mexico",earthquake,0.77065394542544,0.63532037131799,0.1,17,reviewed,tx,tx
-2024-10-08T05:54:03.730Z,33.4828333,-116.5863333,6.04,0.57,ml,40,45,0.01777,0.14,ci,ci40754351,2024-10-08T14:36:47.450Z,"11 km SE of Anza, CA",earthquake,0.14,0.25,0.17,18,reviewed,ci,ci
