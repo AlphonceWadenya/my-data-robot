@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-10-09T09:24:44.000Z,19.186832427979,-155.48767089844,34.590000152588,2.29999995,md,45,73,0.0395,0.140000001,hv,hv74494436,2024-10-09T09:26:33.450Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.44,0.620000005,0.140000001,19,automatic,hv,hv
+2024-10-09T09:20:20.953Z,13.7179,-91.2142,59.322,4.3,mb,45,195,1.067,1.03,us,us6000nxhj,2024-10-09T09:38:56.005Z,"43 km SSW of La Gomera, Guatemala",earthquake,7.55,8.957,0.065,68,reviewed,us,us
 2024-10-09T09:09:00.110Z,35.2231667,-118.5863333,8.88,0.77,ml,30,51,0.08424,0.14,ci,ci40755207,2024-10-09T09:15:31.335Z,"16 km NW of Tehachapi, CA",earthquake,0.16,0.53,0.052,8,automatic,ci,ci
 2024-10-09T09:06:27.280Z,35.224,-118.5818333,7.76,1.19,ml,37,51,0.08784,0.16,ci,ci40755199,2024-10-09T09:12:58.854Z,"16 km NW of Tehachapi, CA",earthquake,0.17,0.66,0.141,21,automatic,ci,ci
 2024-10-09T08:42:33.650Z,32.5645,-115.2885,21.58,1.61,ml,28,46,0.1453,0.24,ci,ci40755191,2024-10-09T08:48:50.383Z,"6 km E of Puebla, B.C., MX",earthquake,0.34,1.1,0.262,21,automatic,ci,ci
