@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-10T13:46:41.090Z,19.166500091553,-155.49816894531,32.860000610352,1.74,ml,54,104,0.03582,0.140000001,hv,hv74495681,2024-10-10T13:49:35.180Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.52,0.589999974,1.24,4,automatic,hv,hv
 2024-10-10T13:39:49.910Z,19.333333969116,-155.22599792481,2.2300000190735,1.94,ml,54,62,0.04144,0.219999999,hv,hv74495676,2024-10-10T13:42:42.440Z,"12 km S of Volcano, Hawaii",earthquake,0.27,0.439999998,0.44,23,automatic,hv,hv
 2024-10-10T13:38:09.670Z,19.058166503906,-155.34866333008,31.219999313354,1.98000002,md,50,211,0.1444,0.119999997,hv,hv74495671,2024-10-10T13:40:40.710Z,"21 km SE of Pāhala, Hawaii",earthquake,0.46,0.75,0.360000014,8,automatic,hv,hv
 2024-10-10T13:05:57.997Z,59.787,-153.0328,99.7,1.2,ml,,,,0.32,ak,ak024d1wee5z,2024-10-10T13:08:22.814Z,"60 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -244,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T14:13:30.352Z,61.1553,-149.4575,31.3,1.7,ml,,,,0.53,ak,ak024d09i4vf,2024-10-09T14:15:18.328Z,"14 km SE of Elmendorf Air Force Base, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-10-09T14:09:42.500Z,33.4596667,-116.4051667,9.77,2.66,ml,107,20,0.1257,0.18,ci,ci40755415,2024-10-10T00:19:02.916Z,"23 km N of Borrego Springs, CA",earthquake,0.1,0.3,0.164,176,reviewed,ci,ci
 2024-10-09T13:55:28.280Z,46.2695,-122.05083333333,5.3,0.34,ml,8,255,0.06454,0.14,uw,uw62053211,2024-10-09T15:48:00.150Z,"36 km SSE of Morton, Washington",earthquake,0.7,1.26,0.056825267426888,4,reviewed,uw,uw
-2024-10-09T13:47:54.920Z,35.6721667,-117.5543333,6.79,2.38,ml,40,48,0.09056,0.13,ci,ci40755407,2024-10-09T20:59:55.670Z,"12 km ENE of Ridgecrest, CA",earthquake,0.12,0.43,0.175,72,reviewed,ci,ci
