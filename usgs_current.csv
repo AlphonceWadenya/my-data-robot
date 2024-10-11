@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T16:08:38.191Z,60.1701,-150.7047,26.1,1.5,ml,,,,0.89,ak,ak024d1y7aln,2024-10-10T16:09:55.225Z,"36 km ESE of Kasilof, Alaska",earthquake,,6,,,automatic,ak,ak
 2024-10-10T16:03:29.154Z,63.3985,-149.386,19.1,2,ml,,,,1.17,ak,ak024d1y67bn,2024-10-10T16:05:14.580Z,"21 km W of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-10T16:00:45.452Z,31.65,-104.47,6.0999,2.5,ml,29,67,0,0.1,tx,tx2024tyhb,2024-10-10T18:05:12.683Z,"58 km S of Whites City, New Mexico",earthquake,1.3058117076462,0.82587018118855,0.1,16,reviewed,tx,tx
-2024-10-10T15:56:25.580Z,38.710998535156,-122.85083007812,14.710000038147,1.08,md,8,216,0.08577,0.08,nc,nc75072716,2024-10-10T16:39:28.380Z,"11 km WSW of The Geysers, CA",earthquake,1.94,1.71000004,0.2,4,automatic,nc,nc
