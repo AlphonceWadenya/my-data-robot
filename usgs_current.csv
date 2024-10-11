@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-11T11:08:39.590Z,38.798168182373,-122.74050140381,2.460000038147,1.08,md,11,105,0.0152,0.02,nc,nc75073021,2024-10-11T11:32:17.717Z,"3 km NE of The Geysers, CA",earthquake,0.33,1.11000001,0.07,11,automatic,nc,nc
 2024-10-11T10:59:09.550Z,38.7936668396,-122.81016540527,3.1199998855591,0.92,md,17,96,0.007693,0.02,nc,nc75073016,2024-10-11T11:49:25.841Z,"5 km WNW of The Geysers, CA",earthquake,0.29,0.75999999,0.2,21,automatic,nc,nc
 2024-10-11T10:57:07.610Z,60.287,-140.8576,5.3,3.2,ml,,,,0.65,ak,ak024d3igh6x,2024-10-11T10:59:05.907Z,"103 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-10-11T10:55:55.830Z,34.0456657,-117.2751694,11.65,2.98,ml,111,18,0.05842,0.18,ci,ci40951808,2024-10-11T11:36:22.852Z,"1 km WSW of Loma Linda, CA",earthquake,0.17,0.32,0.26,20,automatic,ci,ci
+2024-10-11T10:55:55.830Z,34.0456657,-117.2751694,11.65,2.98,ml,111,18,0.05842,0.18,ci,ci40951808,2024-10-11T11:57:55.468Z,"1 km WSW of Loma Linda, CA",earthquake,0.17,0.32,0.26,20,automatic,ci,ci
 2024-10-11T10:31:19.263Z,36.6097,-117.0983,2,1.1,ml,26,214.41,0.331,0.2745,nn,nn00885841,2024-10-11T10:33:26.247Z,"28 km NW of Furnace Creek, California",earthquake,,6.9,0.26,15,automatic,nn,nn
 2024-10-11T10:30:22.500Z,34.0446667,-117.279,11.79,1.06,ml,60,28,0.06066,0.15,ci,ci40951792,2024-10-11T10:36:39.758Z,"2 km WSW of Loma Linda, CA",earthquake,0.14,0.32,0.216,28,automatic,ci,ci
 2024-10-11T10:24:00.400Z,18.9796,-67.7586,27,3.54,md,21,176,0.7777,0.48,pr,pr2024285000,2024-10-11T11:40:35.874Z,"81 km ENE of Punta Cana, Dominican Republic",earthquake,1.98,17.96,0.18,10,reviewed,pr,pr
@@ -205,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T12:13:41.776Z,39.353,-119.9877,8.6,2.2,ml,33,41.73,0.071,0.1271,nn,nn00885792,2024-10-10T18:36:26.052Z,"5 km SSE of Floriston, California",earthquake,,0.8,0.25,9,reviewed,nn,nn
 2024-10-10T12:11:46.032Z,63.0728,-148.9032,72.3,1.6,ml,,,,0.48,ak,ak024d1vu7xn,2024-10-10T12:13:32.997Z,"35 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-10T12:09:34.385Z,38.3457,-115.8327,9.6,1.7,ml,9,214.11,0.705,0.15,nn,nn00885789,2024-10-10T22:03:50.960Z,"78 km N of Rachel, Nevada",earthquake,,3.3,0.16,4,reviewed,nn,nn
-2024-10-10T11:58:18.520Z,36.572666168213,-121.18199920654,-0.12999999523163,1.51,md,8,131,0.1134,0.15,nc,nc75072676,2024-10-10T11:59:55.320Z,"6 km NNW of Pinnacles, CA",earthquake,1.8,7.5999999,0.21,4,automatic,nc,nc
