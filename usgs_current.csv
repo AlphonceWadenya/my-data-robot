@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-10-16T22:25:01.739Z,49.7056,-28.4864,10,5.2,mb,61,66,14.211,0.66,us,us6000nz75,2024-10-16T22:39:34.040Z,"northern Mid-Atlantic Ridge",earthquake,10.86,1.894,0.033,301,reviewed,us,us
-2024-10-16T22:23:02.452Z,40.9571,78.4825,10,5.2,mb,80,79,1.517,1.3,us,us6000nz72,2024-10-16T22:36:58.040Z,"130 km NNW of Tumxuk, China",earthquake,5.88,1.851,0.056,105,reviewed,us,us
+2024-10-16T22:23:02.452Z,40.9571,78.4825,10,5.2,mb,80,79,1.517,1.3,us,us6000nz72,2024-10-16T22:47:42.801Z,"130 km NNW of Tumxuk, China",earthquake,5.88,1.851,0.056,105,reviewed,us,us
 2024-10-16T22:04:48.996Z,2.0515,-79.7463,10,4.7,mb,42,156,1.173,0.88,us,us6000nz6y,2024-10-16T22:28:41.040Z,"109 km WNW of Tumaco, Colombia",earthquake,8.16,1.897,0.07,62,reviewed,us,us
+2024-10-16T21:57:43.694Z,61.3136,-152.2574,7.7,1,ml,,,,0.58,ak,ak024dbyp23l,2024-10-16T22:47:03.755Z,"65 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-16T21:52:04.060Z,20.036333333333,-155.51883333333,12.08,3.28,ml,60,168,0.1679,0.16,hv,hv74501626,2024-10-16T22:36:06.262Z,"7 km SW of Honoka‘a, Hawaii",earthquake,0.5,0.46,0.16027769672468,44,reviewed,hv,hv
 2024-10-16T21:45:26.782Z,60.1441,-152.5263,96,1.4,ml,,,,0.49,ak,ak024dbymg90,2024-10-16T22:45:34.903Z,"48 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-16T21:32:32.124Z,60.1156,-140.9229,0,2.1,ml,,,,0.62,ak,ak024dbyjoxq,2024-10-16T22:45:00.255Z,"92 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -226,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-15T23:10:34.644Z,39.2688,-118.0888,8.2,2.2,ml,12,112.57,0.048,0.2128,nn,nn00886078,2024-10-15T23:52:34.860Z,"46 km NNW of Gabbs, Nevada",earthquake,,1.2,0.36,6,reviewed,nn,nn
 2024-10-15T23:02:13.090Z,-20.0323,-178.3491,582.676,4.4,mb,26,80,3.446,0.49,us,us6000nyxm,2024-10-15T23:18:24.040Z,"Fiji region",earthquake,15.42,8.935,0.095,32,reviewed,us,us
 2024-10-15T22:54:23.669Z,61.873,-149.2772,6.6,1.7,ml,,,,0.58,ak,ak024dabqgim,2024-10-15T22:56:22.788Z,"14 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-10-15T22:48:03.720Z,46.348166666667,-122.81516666667,-0.49,0.83,ml,13,60,0.1697,0.14,uw,uw62054446,2024-10-16T20:52:24.350Z,"10 km SSE of Toledo, Washington",explosion,0.49,31.61,0.11665137236887,8,reviewed,uw,uw
