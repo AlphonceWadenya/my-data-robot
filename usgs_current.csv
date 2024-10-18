@@ -179,5 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T12:02:08.550Z,58.303666666667,-154.983,3.11,-0.3,ml,7,193,0.04299,0.12,av,av93024314,2024-10-17T22:40:12.410Z,"87 km NNW of Karluk, Alaska",earthquake,0.6,0.7,0.2167324203345,7,reviewed,av,av
 2024-10-17T12:00:16.770Z,36.613,-90.767166666667,9.79,2.67,md,32,80,0.1554,0.23,nm,nm60592866,2024-10-18T11:35:34.812Z,"5 km E of Doniphan, Missouri",earthquake,0.41,1.11,0.046300019652969,22,reviewed,nm,nm
 2024-10-17T11:47:11.370Z,46.893833333333,-112.52466666667,8.65,0.75,ml,9,96,0.05793,0.06,mb,mb90063683,2024-10-17T13:49:35.660Z,"13 km ESE of Lincoln, Montana",earthquake,0.39,0.52,0.11799592860438,7,reviewed,mb,mb
-2024-10-17T11:44:26.048Z,31.617,-104.004,8.0096,3.2,ml,18,55,0,0,tx,tx2024uktd,2024-10-17T13:49:18.103Z,"39 km NNW of Toyah, Texas",earthquake,0.44092486119017,0.40105770525256,0.3,25,reviewed,tx,tx
-2024-10-17T11:43:54.193Z,65.6863,-143.4764,0,2.1,ml,,,,1.09,ak,ak024ddg73bv,2024-10-17T11:45:54.519Z,"30 km ESE of Circle, Alaska",earthquake,,0.4,,,automatic,ak,ak
