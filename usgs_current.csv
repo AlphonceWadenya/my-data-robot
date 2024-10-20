@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-20T18:51:27.856Z,36.5474,-116.8801,0,0.8,ml,20,270.97,0.153,0.2443,nn,nn00886299,2024-10-20T18:53:36.864Z,"11 km NNW of Furnace Creek, California",earthquake,,10.5,0.16,16,automatic,nn,nn
 2024-10-20T18:32:22.630Z,38.788665771484,-122.74666595459,1.8300000429153,1.32,md,18,85,0.009473,0.02,nc,nc75076481,2024-10-20T18:33:57.789Z,"2 km NE of The Geysers, CA",earthquake,0.26,0.460000008,0.17,18,automatic,nc,nc
 2024-10-20T18:32:18.780Z,31.697,-104.148,4.1512,1.8,ml,20,84,0.1,0.3,tx,tx2024uqtd,2024-10-20T18:42:41.165Z,"52 km W of Mentone, Texas",earthquake,0,1.1909412145615,0.2,14,automatic,tx,tx
 2024-10-20T18:32:13.174Z,61.2504,-146.3078,24.8,1.9,ml,,,,0.45,ak,ak024diiwq05,2024-10-20T18:33:37.272Z,"13 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -221,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-19T19:37:44.460Z,46.194833333333,-122.18283333333,6.05,0.1,ml,9,97,0.0362,0.06,uw,uw62055466,2024-10-20T02:18:29.170Z,"37 km NNE of Amboy, Washington",earthquake,0.24,0.76,0.10009071383857,8,reviewed,uw,uw
 2024-10-19T19:15:35.800Z,39.260833740234,-123.30516815185,3.5599999427795,1.34,md,10,76,0.0551,0.04,nc,nc75076131,2024-10-19T19:32:15.865Z,"9 km W of Redwood Valley, CA",earthquake,0.34,1.5,0.09,7,automatic,nc,nc
 2024-10-19T19:01:35.811Z,64.716,-149.2948,18.2,1,ml,,,,0.22,ak,ak024dgvs7nx,2024-10-19T19:03:36.794Z,"15 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-10-19T18:51:10.980Z,44.282,-114.84716666667,2,1.77,ml,12,68,0.1758,0.18,mb,mb90063853,2024-10-20T14:42:22.950Z,"10 km NE of Stanley, Idaho",earthquake,0.33,1.15,0.13956204960214,16,reviewed,mb,mb
