@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-22T18:50:41.280Z,36.5943336,-117.1051636,-0.12,2.12,ml,23,144,0.4524,0.21,ci,ci40960744,2024-10-22T18:53:40.338Z,"4 km ESE of Stovepipe Wells, CA",earthquake,0.61,1.71,0.168,15,automatic,ci,ci
+2024-10-22T18:50:41.370Z,36.5963333,-117.0903333,2.3,2.07,ml,14,203,0.4563,0.15,ci,ci40960744,2024-10-22T18:57:09.331Z,"5 km E of Stovepipe Wells, CA",earthquake,0.59,1.41,0.145,16,automatic,ci,ci
 2024-10-22T18:29:02.778Z,36.6204,-117.1044,0,1.1,ml,12,230.36,0.364,0.3405,nn,nn00886402,2024-10-22T18:31:15.821Z,"29 km NW of Furnace Creek, California",earthquake,,77.9,0.13,9,automatic,nn,nn
 2024-10-22T18:24:23.820Z,19.364166259766,-155.11000061035,0.62000000476837,1.98,ml,13,215,0.02131,0.360000014,hv,hv74508041,2024-10-22T18:27:21.540Z,"11 km SSE of Fern Forest, Hawaii",earthquake,0.73,0.699999988,2.54,4,automatic,hv,hv
 2024-10-22T18:12:01.070Z,34.5945015,-118.6413345,6.01,1.09,ml,18,89,0.07065,0.14,ci,ci40960680,2024-10-22T18:18:14.278Z,"12 km N of Castaic, CA",earthquake,0.52,1.23,0.147,2,automatic,ci,ci
@@ -209,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T19:11:48.780Z,37.739666666667,-121.9415,10.1,1.03,md,14,118,0.04752,0.07,nc,nc75076961,2024-10-21T20:51:55.094Z,"4 km N of Dublin, CA",earthquake,0.32,0.51,0.176,10,reviewed,nc,nc
 2024-10-21T19:10:34.940Z,44.638166666667,-110.34566666667,3.4,1.37,ml,7,157,0.08264,0.1,uu,uu80084821,2024-10-21T19:31:48.210Z,"46 km SE of Mammoth, Wyoming",earthquake,0.57,1.41,0.12444032002935,2,reviewed,uu,uu
 2024-10-21T19:04:45.959Z,59.4613,-151.9634,45.6,2.1,ml,,,,0.59,ak,ak024dk6vkkz,2024-10-21T19:06:34.522Z,"11 km NNW of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-10-21T18:55:00.600Z,34.0615,-117.0473333,6.87,1.07,ml,45,92,0.05995,0.14,ci,ci40959088,2024-10-22T13:51:30.021Z,"3 km N of Yucaipa, CA",earthquake,0.15,0.36,0.147,27,reviewed,ci,ci
