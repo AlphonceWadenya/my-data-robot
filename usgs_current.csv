@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-22T13:44:47.620Z,35.0825005,-119.0873337,6.64,2.05,ml,49,33,0.02402,0.26,ci,ci40960264,2024-10-22T13:46:55.145Z,"21 km NW of Grapevine, CA",earthquake,0.32,1.17,0.29,25,automatic,ci,ci
-2024-10-22T13:43:40.110Z,35.0719986,-119.0921631,13.16,1.46,ml,14,89,0.01503,0.15,ci,ci40960256,2024-10-22T13:45:51.835Z,"21 km NW of Grapevine, CA",earthquake,0.53,0.75,0.219,6,automatic,ci,ci
-2024-10-22T13:42:54.500Z,35.0636673,-119.0731659,12.25,1.42,ml,23,73,0.01008,0.33,ci,ci40960248,2024-10-22T13:45:01.968Z,"19 km NW of Grapevine, CA",earthquake,0.62,0.92,0.24,7,automatic,ci,ci
+2024-10-22T13:50:19.777Z,31.665,-104.463,4.8317,1.6,ml,5,169,0,0,tx,tx2024uuau,2024-10-22T13:57:33.310Z,"57 km S of Whites City, New Mexico",earthquake,0,2.3477644920349,0.2,5,automatic,tx,tx
+2024-10-22T13:44:47.620Z,35.0825005,-119.0873337,6.64,2.05,ml,49,33,0.02402,0.26,ci,ci40960264,2024-10-22T13:55:43.060Z,"21 km NW of Grapevine, CA",earthquake,0.32,1.17,0.29,25,automatic,ci,ci
+2024-10-22T13:43:40.160Z,35.0753333,-119.0926667,11.86,1.31,ml,28,113,0.01821,0.19,ci,ci40960256,2024-10-22T13:58:10.057Z,"21 km NW of Grapevine, CA",earthquake,0.27,0.76,0.29,27,automatic,ci,ci
+2024-10-22T13:42:54.230Z,35.0751667,-119.0886667,12.15,1.37,ml,32,102,0.017,0.17,ci,ci40960248,2024-10-22T13:56:50.765Z,"21 km NW of Grapevine, CA",earthquake,0.23,0.62,0.254,30,automatic,ci,ci
 2024-10-22T13:41:56.740Z,35.0741667,-119.083,12.16,1.65,ml,39,94,0.01554,0.18,ci,ci40960240,2024-10-22T13:53:36.824Z,"20 km NW of Grapevine, CA",earthquake,0.21,0.48,0.148,27,automatic,ci,ci
 2024-10-22T13:23:23.687Z,64.53,-149.3985,10.6,1.1,ml,,,,0.99,ak,ak024dlqycc0,2024-10-22T13:25:05.377Z,"14 km WSW of Nenana, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-10-22T13:21:16.290Z,35.0778333,-119.0855,12.5,1.64,ml,44,41,0.01924,0.2,ci,ci40960232,2024-10-22T13:34:41.668Z,"21 km NW of Grapevine, CA",earthquake,0.23,0.51,0.135,27,automatic,ci,ci
