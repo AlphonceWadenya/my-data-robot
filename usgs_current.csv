@@ -124,8 +124,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T23:28:03.060Z,38.789665222168,-122.76716613769,1.5700000524521,1.31,md,19,78,0.0124,0.03,nc,nc75080641,2024-10-29T23:57:14.663Z,"2 km NNW of The Geysers, CA",earthquake,0.25,0.400000006,0.14,18,automatic,nc,nc
 2024-10-29T23:25:00.279Z,63.203,-150.8368,141.2,2,ml,,,,0.2,ak,ak024dxhohgr,2024-10-29T23:27:02.929Z,"58 km SE of Denali National Park, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-10-29T23:22:25.340Z,38.809833526611,-122.79216766357,2.960000038147,1.08,md,25,38,0.003077,0.02,nc,nc75080631,2024-10-29T23:47:16.593Z,"5 km NNW of The Geysers, CA",earthquake,0.25,0.50999999,0.1,25,automatic,nc,nc
-2024-10-29T23:22:06.070Z,35.0375,-117.6785,-0.82,1.73,ml,9,144,0.1039,0.1,ci,ci37687332,2024-10-30T17:38:17.638Z,"5 km NNW of Boron, CA",quarry blast,0.39,31.61,0.122,4,reviewed,ci,ci
-2024-10-29T23:21:57.800Z,35.0415,-117.6686667,-0.79,1.78,ml,38,40,0.1092,0.16,ci,ci40966568,2024-10-30T17:29:38.769Z,"5 km NNW of Boron, CA",quarry blast,0.27,31.61,0.156,25,reviewed,ci,ci
+2024-10-29T23:22:06.070Z,35.0375,-117.6788333,-0.82,1.72,ml,11,144,0.1039,0.09,ci,ci37687332,2024-10-30T17:46:55.743Z,"5 km NNW of Boron, CA",quarry blast,0.4,31.61,0.171,4,reviewed,ci,ci
+2024-10-29T23:21:57.800Z,35.0413333,-117.6676667,-0.79,1.63,ml,38,40,0.1093,0.17,ci,ci40966568,2024-10-30T17:46:55.994Z,"5 km NNW of Boron, CA",quarry blast,0.27,31.61,0.117,5,reviewed,ci,ci
 2024-10-29T23:15:27.090Z,19.201000213623,-155.36666870117,30.010000228882,1.86000001,md,34,206,0.04655,0.119999997,hv,hv74517202,2024-10-29T23:16:58.340Z,"11 km E of Pāhala, Hawaii",earthquake,0.94,0.649999976,0.289999992,6,automatic,hv,hv
 2024-10-29T23:03:34.107Z,59.5545,-152.3491,59.3,2.2,ml,,,,0.4,ak,ak024dxhjubm,2024-10-29T23:05:27.364Z,"32 km NW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-10-29T22:59:25.850Z,41.591166666667,-112.42083333333,3.44,1.26,md,12,121,0.08371,0.1,uu,uu80001618,2024-10-30T13:25:38.590Z,"15 km SW of Thatcher, Utah",earthquake,0.3,1.78,0.28735451909234,7,reviewed,uu,uu
@@ -175,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T17:54:22.060Z,33.9938333,-116.5791667,9.88,1.48,ml,54,73,0.05773,0.15,ci,ci40966408,2024-10-29T19:02:09.546Z,"6 km S of Morongo Valley, CA",earthquake,0.14,0.36,0.156,46,reviewed,ci,ci
 2024-10-29T17:52:16.090Z,61.294,-152.29816666667,2.74,-0.33,ml,6,190,0.05006,0.12,av,av93336238,2024-10-30T07:32:15.790Z,"67 km WNW of Tyonek, Alaska",earthquake,0.59,1.31,0.2208846966998,6,reviewed,av,av
 2024-10-29T17:50:10.562Z,62.6149,-148.4469,43.6,2.1,ml,,,,0.99,ak,ak024dxe99j4,2024-10-29T17:52:37.123Z,"87 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-10-29T17:45:06.030Z,34.68866667,-97.45466667,5.41,1.48,ml,20,107,0.1214761622,0.29,ok,ok2024vhdb,2024-10-30T12:44:38.101Z,"8 km NNE of Foster, Oklahoma",earthquake,,1,0.34,8,reviewed,ok,ok
