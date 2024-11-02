@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-02T11:52:53.290Z,38.835998535156,-122.81700134277,1.8999999761581,0.69,md,12,65,0.0137,0.01,nc,nc75082196,2024-11-02T11:54:31.148Z,"8 km WNW of Cobb, CA",earthquake,0.34,1.03999996,0.2,13,automatic,nc,nc
 2024-11-02T11:33:58.440Z,18.274333333333,-66.308666666667,22.69,2.22,md,12,126,0.06786,0.16,pr,pr71464433,2024-11-02T11:52:18.270Z,"7 km NW of Palomas, Puerto Rico",earthquake,0.5,0.69,0.11532953829188,7,reviewed,pr,pr
 2024-11-02T11:33:26.710Z,38.827167510986,-122.81616973877,14.380000114441,0.78,md,12,71,0.006071,0.1,nc,nc75082191,2024-11-02T11:52:15.008Z,"8 km NNW of The Geysers, CA",earthquake,1.84,10.1199999,0.49,13,automatic,nc,nc
 2024-11-02T11:28:45.533Z,59.4474,-153.0514,101.3,2.1,ml,,,,0.58,ak,ak024e3wpetl,2024-11-02T11:31:00.292Z,"65 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
