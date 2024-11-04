@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-04T10:52:30.790Z,36.839500427246,-121.59549713135,4.6900000572205,1.95,md,38,48,,0.16,nc,nc75082671,2024-11-04T10:54:06.200Z,"5 km W of San Juan Bautista, CA",earthquake,0.25,0.819999993,0.19,35,automatic,nc,nc
 2024-11-04T10:43:51.645Z,62.2778,-149.7729,13.7,1.5,ml,,,,0.55,ak,ak024e779wf0,2024-11-04T10:45:48.599Z,"13 km NNE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-04T10:09:19.100Z,36.840999603271,-121.59449768066,8.0299997329712,1.84,md,39,48,0.04285,0.16,nc,nc75082666,2024-11-04T10:27:18.129Z,"5 km W of San Juan Bautista, CA",earthquake,0.31,0.629999995,0.23,33,automatic,nc,nc
 2024-11-04T09:43:26.929Z,31.649,-104.369,4.191,1.8,ml,25,62,0.1,0.4,tx,tx2024vrme,2024-11-04T10:08:56.095Z,"58 km S of Whites City, New Mexico",earthquake,0,1.1624128818512,0.2,19,automatic,tx,tx
@@ -130,4 +131,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T11:03:03.440Z,33.846,-117.8661667,5.53,1.43,ml,77,50,0.01015,0.21,ci,ci40786839,2024-11-03T11:10:23.079Z,"2 km ENE of Anaheim, CA",earthquake,0.17,0.27,0.194,29,automatic,ci,ci
 2024-11-03T11:01:21.797Z,51.5024,-175.5326,35,4.1,ml,23,202,0.543,0.62,us,us7000nppu,2024-11-03T11:49:48.040Z,"86 km ESE of Adak, Alaska",earthquake,2.96,1.967,0.077,22,reviewed,us,us
 2024-11-03T10:56:48.534Z,51.4872,-175.6262,33,5.8,mww,121,70,0.533,0.62,us,us7000nppj,2024-11-04T07:32:55.991Z,"81 km ESE of Adak, Alaska",earthquake,4.21,1.882,0.068,21,reviewed,us,us
-2024-11-03T10:53:07.590Z,32.9775,-116.3205,9.08,0.96,ml,34,120,0.07598,0.2,ci,ci40786831,2024-11-03T15:14:38.901Z,"26 km SW of Ocotillo Wells, CA",earthquake,0.34,0.62,0.18,15,reviewed,ci,ci
