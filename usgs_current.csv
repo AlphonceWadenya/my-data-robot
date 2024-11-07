@@ -176,4 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-06T14:04:56.060Z,38.067,-112.7355,5.99,1.36,md,9,109,0.4036,0.18,uu,uu80085996,2024-11-06T14:22:33.110Z,"20 km N of Paragonah, Utah",earthquake,0.55,31.61,0.23649098394291,8,reviewed,uu,uu
 2024-11-06T13:56:36.270Z,46.195166666667,-122.18616666667,7.71,0.24,ml,17,99,0.005056,0.15,uw,uw62058806,2024-11-06T19:41:33.090Z,"37 km NNE of Amboy, Washington",earthquake,0.46,0.63,0.1163828702469,9,reviewed,uw,uw
 2024-11-06T13:55:58.430Z,36.6145,-117.0995,0.99,2.43,ml,18,188,0.3959,0.22,ci,ci40788511,2024-11-06T15:48:19.366Z,"4 km ENE of Stovepipe Wells, CA",earthquake,0.54,1.17,0.138,31,reviewed,ci,ci
-2024-11-06T13:49:44.626Z,31.622,-104.529,7.0227,2.2,ml,30,71,0.1,0.1,tx,tx2024vvli,2024-11-06T16:53:06.044Z,"63 km SSW of Whites City, New Mexico",earthquake,1.0287780254209,0.67623013825161,0.1,15,reviewed,tx,tx
