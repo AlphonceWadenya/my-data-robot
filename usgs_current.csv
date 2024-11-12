@@ -145,4 +145,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-11T14:24:07.340Z,44.679333333333,-110.98383333333,2.69,0.59,md,9,101,0.01715,0.2,uu,uu80001658,2024-11-11T19:46:46.230Z,"9 km ENE of West Yellowstone, Montana",earthquake,0.57,1,0.28346143423291,6,reviewed,uu,uu
 2024-11-11T14:23:33.560Z,44.788333333333,-111.152,9.68,-0.28,md,9,120,0.03333,0.18,uu,uu80086361,2024-11-11T19:43:59.140Z,"3 km NE of Hebgen Lake Estates, Montana",earthquake,0.51,1.19,0.14732879798638,4,reviewed,uu,uu
 2024-11-11T14:22:33.880Z,59.364833333333,-153.447,-0.24,0.28,ml,6,146,0.002531,0.12,av,av93361083,2024-11-11T18:48:35.010Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.23,0.11,0.28383132096994,6,reviewed,av,av
-2024-11-11T13:55:19.029Z,60.6786,-149.4422,27.1,1.9,ml,,,,0.61,ak,ak024eitw4ri,2024-11-11T13:57:55.231Z,"21 km N of Moose Pass, Alaska",earthquake,,0.3,,,automatic,ak,ak
