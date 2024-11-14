@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-14T19:13:10.297Z,31.494,-103.915,4.6261,1.6,ml,5,159,0,0.6,tx,tx2024wkma,2024-11-14T19:23:33.530Z,"22 km NNW of Toyah, Texas",earthquake,0,2.5027947425842,0.2,4,automatic,tx,tx
+2024-11-14T19:08:16.108Z,-6.1677,104.2266,84.197,5.1,mb,75,93,2.197,0.93,us,us7000nrtu,2024-11-14T19:24:51.040Z,"140 km SW of Bandar Lampung, Indonesia",earthquake,8.26,7.166,0.053,117,reviewed,us,us
 2024-11-14T19:03:57.080Z,38.11933517456,-122.15783691406,2.5899999141693,2.13,md,7,138,0.007635,0.08,nc,nc75086441,2024-11-14T19:05:35.779Z,"7 km E of Vallejo, CA",earthquake,1.23,1.38999999,0.21,5,automatic,nc,nc
 2024-11-14T19:00:27.425Z,31.63,-104.012,6.1649,1.7,ml,15,40,0,0.3,tx,tx2024wklr,2024-11-14T19:11:07.473Z,"40 km WSW of Mentone, Texas",earthquake,0,2.2515451908112,0.2,13,automatic,tx,tx
 2024-11-14T18:46:08.010Z,38.792499542236,-122.81016540527,3.3599998950958,1,md,12,105,0.006936,0.02,nc,nc75086431,2024-11-14T19:09:29.747Z,"5 km WNW of The Geysers, CA",earthquake,0.4,1.10000002,0.25,13,automatic,nc,nc
