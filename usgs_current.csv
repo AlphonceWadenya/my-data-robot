@@ -42,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-15T12:48:57.912Z,64.8329,-148.7111,2,1.7,ml,,,,0.8,ak,ak024epfeo4f,2024-11-15T12:50:43.674Z,"32 km NE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-15T12:43:16.140Z,19.382999420166,-155.23815917969,1.5900000333786,1.78,ml,23,82,0.009663,0.159999996,hv,hv74531532,2024-11-15T12:46:09.860Z,"6 km S of Volcano, Hawaii",earthquake,0.25,0.140000001,0.45,9,automatic,hv,hv
 2024-11-15T12:43:14.438Z,63.1925,-152.737,0,2.1,ml,,,,1.35,ak,ak024epfdify,2024-11-15T12:45:59.945Z,"63 km SW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-11-15T12:33:23.590Z,33.3526667,-115.7851667,4.27,1.82,ml,56,63,0.04345,0.2,ci,ci40793511,2024-11-15T12:36:53.828Z,"5 km W of Bombay Beach, CA",earthquake,0.18,0.51,0.133,26,automatic,ci,ci
+2024-11-15T12:33:23.510Z,33.3501667,-115.7846667,4.68,1.84,ml,52,64,0.04311,0.19,ci,ci40793511,2024-11-15T19:34:57.265Z,"5 km W of Bombay Beach, CA",earthquake,0.19,0.51,0.133,23,reviewed,ci,ci
 2024-11-15T12:22:57.420Z,32.9855,-115.9486667,11.56,1.62,ml,46,51,0.09991,0.19,ci,ci40793503,2024-11-15T17:05:47.184Z,"24 km SE of Ocotillo Wells, CA",earthquake,0.2,0.46,0.142,28,reviewed,ci,ci
 2024-11-15T11:57:42.009Z,61.0498,-146.338,8.6,2.3,ml,,,,0.46,ak,ak024epev4oh,2024-11-15T12:03:21.173Z,"9 km S of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-15T11:53:20.891Z,28.952,-98.314,8.3252,1.7,ml,17,73,0.1,0.2,tx,tx2024wlta,2024-11-15T14:50:07.292Z,"16 km E of Pleasanton, Texas",earthquake,1.2814720664084,2.8780934099455,0.1,7,reviewed,tx,tx
