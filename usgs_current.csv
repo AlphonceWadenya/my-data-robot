@@ -193,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-14T13:52:12.330Z,59.0472,-153.4231,86.7,2.1,ml,,,,0.69,ak,ak024enshikx,2024-11-14T13:54:35.800Z,"83 km SE of Pope-Vannoy Landing, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-11-14T13:51:58.266Z,60.153,-153.3216,136.8,1.9,ml,,,,0.21,ak,ak024enshedi,2024-11-14T14:03:39.040Z,"55 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-14T13:51:33.200Z,38.833831787109,-122.81050109863,2.039999961853,1.75,md,35,39,0.01043,0.02,nc,nc75086341,2024-11-14T14:09:27.743Z,"8 km WNW of Cobb, CA",earthquake,0.17,0.289999992,0.12,35,automatic,nc,nc
-2024-11-14T13:46:54.260Z,46.953,-121.96516666667,13,0.73,ml,23,89,0.01827,0.11,uw,uw62051872,2024-11-14T20:16:11.460Z,"15 km SSE of Carbonado, Washington",earthquake,0.32,0.38,0.105675314511,7,reviewed,uw,uw
