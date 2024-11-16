@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-16T15:49:05.420Z,33.9391667,-116.026,6.26,1.11,ml,31,52,0.06549,0.14,ci,ci40794079,2024-11-16T15:52:35.363Z,"23 km S of Twentynine Palms, CA",earthquake,0.22,0.51,0.134,24,automatic,ci,ci
 2024-11-16T15:39:19.500Z,19.333333969116,-155.21366882324,2.1400001049042,1.82000005,md,45,72,0.04028,0.230000004,hv,hv74532827,2024-11-16T15:41:06.020Z,"12 km S of Volcano, Hawaii",earthquake,0.36,0.569999993,0.280000001,22,automatic,hv,hv
+2024-11-16T15:28:40.149Z,1.4045,98.3457,88.978,4.7,mb,38,179,4.047,0.84,us,us7000ns6d,2024-11-16T15:52:36.040Z,"61 km SW of Sibolga, Indonesia",earthquake,10.15,8.732,0.079,49,reviewed,us,us
 2024-11-16T15:09:30.974Z,58.8765,-153.9248,14,2,ml,,,,0.74,ak,ak024er4hwfd,2024-11-16T15:11:21.609Z,"79 km SE of Kokhanok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-16T14:51:48.864Z,19.0957,-68.3359,6.836,2.5,ml,9,208,0.58,0.13,us,us7000ns69,2024-11-16T15:39:44.040Z,"57 km N of Punta Cana, Dominican Republic",earthquake,5.38,12.058,0.094,18,reviewed,us,us
 2024-11-16T14:46:31.464Z,59.3703,-153.0249,68.4,2.2,ml,,,,0.29,ak,ak024er44ecq,2024-11-16T14:49:01.721Z,"62 km W of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
