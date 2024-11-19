@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-19T07:32:26.610Z,33.4696655,-116.4821701,10.39,0.98,ml,27,138,0.09664,0.13,ci,ci40796031,2024-11-19T07:34:29.046Z,"20 km ESE of Anza, CA",earthquake,0.36,0.67,0.114,7,automatic,ci,ci
 2024-11-19T07:03:01.310Z,38.810165405273,-122.82800292969,3.3199999332428,0.74,md,9,76,0.001588,0.02,nc,nc75088086,2024-11-19T07:19:28.606Z,"7 km NW of The Geysers, CA",earthquake,0.45,1.09000003,0.09,10,automatic,nc,nc
 2024-11-19T06:45:14.250Z,38.823833465576,-122.80349731445,2.7699999809265,0.4,md,13,100,0.005156,0.02,nc,nc75088076,2024-11-19T07:12:18.559Z,"7 km NNW of The Geysers, CA",earthquake,0.31,0.839999974,0.24,15,automatic,nc,nc
 2024-11-19T06:39:53.850Z,18.053,-67.01,18.4,2.84,md,22,73,0.04452,0.12,pr,pr71466123,2024-11-19T06:58:08.120Z,"4 km SE of San Germán, Puerto Rico",earthquake,0.38,0.4,0.094384311390177,9,reviewed,pr,pr
