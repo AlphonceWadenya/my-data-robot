@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-11-21T19:46:13.950Z,34.275,-116.9458333,7.76,1.3,ml,50,58,0.02433,0.14,ci,ci40797791,2024-11-21T19:50:11.339Z,"5 km NW of Big Bear Lake, CA",earthquake,0.17,0.3,0.176,28,automatic,ci,ci
+2024-11-21T19:46:13.950Z,34.275,-116.9458333,7.76,1.3,ml,50,58,0.02433,0.14,ci,ci40797791,2024-11-21T19:56:44.470Z,"5 km NW of Big Bear Lake, CA",earthquake,0.17,0.3,0.176,28,automatic,ci,ci
 2024-11-21T19:40:41.420Z,19.401666641235,-154.95567321777,0.41999998688698,1.91999996,md,25,212,0.05594,0.219999999,hv,hv74536642,2024-11-21T19:48:00.852Z,"8 km SSW of Leilani Estates, Hawaii",earthquake,0.62,0.319999993,0.159999996,5,automatic,hv,hv
 2024-11-21T19:40:27.840Z,19.363832473755,-155.09700012207,1.8500000238419,2.06,ml,9,169,0.03132,0.25,hv,hv74536637,2024-11-21T19:43:20.400Z,"11 km SSE of Fern Forest, Hawaii",earthquake,0.88,0.730000019,1.59,4,automatic,hv,hv
 2024-11-21T19:30:05.593Z,-7.9474,122.9762,234.394,4.6,mb,62,44,1.001,0.67,us,us6000p6u5,2024-11-21T19:50:43.040Z,"112 km NE of Maumere, Indonesia",earthquake,9.24,6.087,0.065,70,reviewed,us,us
