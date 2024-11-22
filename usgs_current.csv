@@ -186,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T20:05:03.340Z,46.011833333333,-112.45566666667,-2,1.57,ml,5,136,0.0704,0.14,mb,mb90066578,2024-11-22T16:07:52.150Z,"6 km E of Butte, Montana",quarry blast,0.76,31.61,0.33685126653347,19,reviewed,mb,mb
 2024-11-21T20:02:15.208Z,60.7114,-147.5819,0,1.6,ml,,,,0.67,ak,ak024ezh49ow,2024-11-21T20:04:08.476Z,"52 km WSW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-21T19:58:52.900Z,34.8498333,-118.7781667,-1.32,1.21,ml,29,52,0.07282,0.23,ci,ci40797807,2024-11-21T21:44:32.847Z,"8 km E of Lebec, CA",quarry blast,0.32,31.61,0.093,18,reviewed,ci,ci
-2024-11-21T19:53:55.232Z,31.661,-104.297,7.3816,2.2,ml,19,58,0,0.2,tx,tx2024wxhy,2024-11-22T09:55:16.104Z,"57 km S of Whites City, New Mexico",earthquake,0.82055315966485,0.87475541540005,0.1,11,reviewed,tx,tx
