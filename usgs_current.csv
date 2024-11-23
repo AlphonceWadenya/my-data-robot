@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-23T19:31:05.320Z,36.272499084473,-120.83650207519,8.2299995422363,1.58,md,19,137,0.06326,0.07,nc,nc75089496,2024-11-23T19:32:39.822Z,"22 km SW of New Idria, CA",earthquake,0.26,0.529999971,0.34,10,automatic,nc,nc
 2024-11-23T19:13:47.310Z,33.9626667,-118.8988333,13.7,1.79,ml,37,174,0.08704,0.22,ci,ci40798895,2024-11-23T19:18:42.281Z,"9 km WSW of Malibu, CA",earthquake,0.37,0.33,0.141,28,automatic,ci,ci
 2024-11-23T19:12:15.360Z,59.5126,-153.0393,101.8,1.6,ml,,,,0.3,ak,ak024f2rno8w,2024-11-23T19:14:48.597Z,"65 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-23T19:08:59.990Z,38.819999694824,-122.83966827393,2.1099998950958,0.76,md,11,119,0.004776,0.02,nc,nc75089486,2024-11-23T19:10:35.640Z,"9 km NW of The Geysers, CA",earthquake,0.35,0.959999979,0.18,11,automatic,nc,nc
@@ -188,5 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T20:01:38.620Z,46.020166666667,-112.45633333333,-2,1.44,ml,7,145,0.07054,0.16,mb,mb90066633,2024-11-22T21:12:20.230Z,"6 km ENE of Butte, Montana",quarry blast,0.76,31.61,0.25703025212995,12,reviewed,mb,mb
 2024-11-22T19:59:54.020Z,58.1685,-155.34783333333,1.42,-0.4,ml,10,74,0.04292,0.09,av,av93375448,2024-11-23T06:31:25.640Z,"85 km NW of Karluk, Alaska",earthquake,0.2,0.74,0.14346524713424,10,reviewed,av,av
 2024-11-22T19:34:39.341Z,59.7983,-152.8067,74.9,1.5,ml,,,,0.31,ak,ak024f1493cu,2024-11-22T19:37:10.526Z,"54 km W of Anchor Point, Alaska",earthquake,,2.1,,,automatic,ak,ak
-2024-11-22T19:30:13.350Z,32.5726667,-115.8655,9.89,1.99,ml,31,62,0.0887,0.17,ci,ci40798407,2024-11-22T21:16:16.226Z,"22 km SSE of Ocotillo, CA",earthquake,0.2,0.44,0.133,23,reviewed,ci,ci
-2024-11-22T19:28:09.658Z,61.4695,-151.4033,22,1,ml,,,,0.58,ak,ak024f147qrp,2024-11-23T06:01:12.090Z,"40 km NNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
