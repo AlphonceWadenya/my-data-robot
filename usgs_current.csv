@@ -219,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-24T19:47:02.042Z,31.673,-104.369,7.1765,1.9,ml,18,68,0.1,0.2,tx,tx2024xcue,2024-11-25T13:15:25.274Z,"55 km S of Whites City, New Mexico",earthquake,0.91856232845514,0.83638788967801,0.2,14,reviewed,tx,tx
 2024-11-24T19:46:17.780Z,19.319333333333,-155.12883333333,5.26,1.87,ml,22,136,0.0333,0.13,hv,hv74539607,2024-11-25T17:58:18.680Z,"16 km S of Fern Forest, Hawaii",earthquake,0.42,0.97,0.1621640426766,18,reviewed,hv,hv
 2024-11-24T19:46:09.780Z,19.3445,-155.13183333333,1.89,1.01,ml,31,182,0.0406,0.11,hv,hv74539612,2024-11-25T17:45:41.290Z,"13 km S of Fern Forest, Hawaii",earthquake,0.38,0.54,0.14504461700543,16,reviewed,hv,hv
-2024-11-24T19:45:42.717Z,31.671,-104.373,7.3303,1.9,ml,17,69,0.1,0.2,tx,tx2024xcud,2024-11-25T13:49:10.985Z,"55 km S of Whites City, New Mexico",earthquake,0.90740450742532,0.89541969189701,0.2,13,reviewed,tx,tx
