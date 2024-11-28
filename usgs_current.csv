@@ -222,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-27T21:21:14.190Z,34.525,-118.8541667,8.43,1.19,ml,31,42,0.06893,0.25,ci,ci40989024,2024-11-27T21:56:02.200Z,"13 km NNW of Piru, CA",earthquake,0.31,0.77,0.235,17,reviewed,ci,ci
 2024-11-27T21:20:16.503Z,63.0026,-148.1485,8.4,1.2,ml,,,,1.03,ak,ak024f9f1n8y,2024-11-27T21:22:05.929Z,"59 km SE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-27T21:04:36.070Z,19.416999816894,-155.86315917969,8.3900003433228,2.13000011,md,23,219,0.153,0.209999993,hv,hv74544022,2024-11-27T21:06:37.650Z,"4 km S of Honaunau-Napoopoo, Hawaii",earthquake,0.9,0.670000017,0.319999993,6,automatic,hv,hv
-2024-11-27T20:55:49.902Z,54.6019,-160.3105,30.7,3.6,ml,,,,0.76,ak,ak024f9ensij,2024-11-28T01:33:58.165Z,"82 km S of Sand Point, Alaska",earthquake,,0.9,,,reviewed,ak,ak
