@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-28T11:52:23.670Z,33.0256667,-115.5535,7.36,1.37,ml,28,41,0.02697,0.3,ci,ci40989400,2024-11-28T11:56:30.276Z,"6 km NNW of Brawley, CA",earthquake,0.38,0.68,0.232,26,automatic,ci,ci
+2024-11-28T11:51:06.480Z,33.2723333,-116.735,9.91,0.66,ml,38,33,0.04136,0.15,ci,ci40989392,2024-11-28T11:54:26.946Z,"4 km NE of Lake Henshaw, CA",earthquake,0.18,0.42,0.076,19,automatic,ci,ci
 2024-11-28T11:47:52.415Z,61.2953,-150.6381,34.2,1.9,ml,,,,0.36,ak,ak024fawsisp,2024-11-28T11:49:51.607Z,"28 km SSW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-28T11:39:11.981Z,60.1095,-152.6069,85.5,1.9,ml,,,,0.26,ak,ak024fawqpy6,2024-11-28T11:41:08.421Z,"52 km WNW of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-11-28T11:14:43.770Z,34.1273333,-117.4596667,9.18,1.29,ml,65,30,0.03268,0.17,ci,ci40989376,2024-11-28T11:25:35.970Z,"3 km N of Fontana, CA",earthquake,0.15,0.28,0.228,28,automatic,ci,ci
