@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-27T23:55:53.405Z,63.1731,-142.8668,0.3,1.4,ml,,,,0.53,ak,ak024f9gg3g7,2024-11-27T23:58:19.997Z,"17 km WNW of Tetlin, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-11-27T23:54:35.692Z,60.9029,-146.8758,21.2,1.5,ml,,,,0.42,ak,ak024f9gfua9,2024-11-27T23:56:46.997Z,"11 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-27T23:53:10.974Z,36.6387,-115.7137,9.2,0.9,ml,25,141.47,0.201,0.251,nn,nn00888045,2024-11-27T23:55:35.499Z,"8 km NNW of Indian Springs, Nevada",earthquake,,1.5,0.36,17,automatic,nn,nn
 2024-11-27T23:52:13.340Z,38.792835235596,-122.77866363525,2.7400000095367,1.1,md,21,78,0.00724,0.03,nc,nc75091886,2024-11-27T23:53:50.186Z,"3 km NW of The Geysers, CA",earthquake,0.27,0.519999981,0.15,21,automatic,nc,nc
 2024-11-27T23:27:07.577Z,-20.076,-71.5886,10,4.1,mb,18,192,1.383,0.61,us,us7000null,2024-11-27T23:43:53.040Z,"150 km W of Puerto, Chile",earthquake,5.5,1.881,0.198,7,reviewed,us,us
 2024-11-27T23:07:36.520Z,38.844833374023,-122.8313369751,1.3899999856949,0.72,md,15,113,0.007027,0.01,nc,nc75091881,2024-11-27T23:09:14.789Z,"10 km WNW of Cobb, CA",earthquake,0.26,0.529999971,0.17,17,automatic,nc,nc
@@ -38,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-27T19:51:04.515Z,60.4659,-152.1189,155,0.3,ml,,,,0.49,ak,ak024f9e1fwz,2024-11-27T19:53:23.471Z,"45 km W of Kalifornsky, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2024-11-27T19:31:56.480Z,37.374000549316,-121.72933197022,7.6900000572205,1.21,md,8,120,0.07631,0.04,nc,nc75091766,2024-11-27T22:09:28.344Z,"9 km E of Alum Rock, CA",earthquake,0.47,1.24000001,0.31,6,automatic,nc,nc
 2024-11-27T19:30:18.010Z,36.204,-117.8918333,3.94,1.16,ml,21,64,0.09128,0.15,ci,ci40988912,2024-11-27T19:47:04.104Z,"13 km SE of Olancha, CA",earthquake,0.26,0.57,0.175,15,reviewed,ci,ci
-2024-11-27T19:23:55.110Z,61.1487,-150.3209,17.5,1.6,ml,,,,0.58,ak,ak024f9dvi5z,2024-11-27T19:25:27.175Z,"23 km WSW of Anchorage, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-27T19:23:55.110Z,61.1487,-150.3209,17.5,1.6,ml,,,,0.58,ak,ak024f9dvi5z,2024-11-27T23:59:21.154Z,"23 km WSW of Anchorage, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-27T19:21:19.120Z,19.196332931519,-155.48832702637,28.739999771118,1.88,md,27,115,0.04765,0.209999993,hv,hv74543842,2024-11-27T19:22:48.490Z,"1 km SW of Pāhala, Hawaii",earthquake,0.7,0.910000026,0.180000007,3,automatic,hv,hv
 2024-11-27T19:19:01.330Z,34.0831667,-118.1968333,11.09,1.72,ml,63,30,0.01898,0.18,ci,ci40988888,2024-11-27T20:05:12.050Z,"4 km S of Highland Park, CA",earthquake,0.17,0.26,0.191,58,reviewed,ci,ci
 2024-11-27T19:07:03.640Z,19.381000518799,-155.23916625977,2.1300001144409,1.70000005,md,20,72,0.007518,0.170000002,hv,hv74543822,2024-11-27T19:08:26.170Z,"6 km S of Volcano, Hawaii",earthquake,0.34,0.280000001,0.219999999,16,automatic,hv,hv
