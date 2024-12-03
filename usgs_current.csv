@@ -258,4 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T16:06:16.509Z,-23.6207,-179.6488,533.263,4.6,mb,40,107,5.809,0.65,us,us7000nvft,2024-12-02T20:23:13.040Z,"south of the Fiji Islands",earthquake,13.9,10.034,0.098,31,reviewed,us,us
 2024-12-02T16:06:10.892Z,-9.6447,110.2067,10,4.5,mb,34,116,2.589,1.11,us,us7000nvfs,2024-12-02T20:12:48.040Z,"187 km S of Bambanglipuro, Indonesia",earthquake,3.68,1.899,0.121,20,reviewed,us,us
 2024-12-02T15:56:12.820Z,18.877166666667,-65.052833333333,25.93,3.38,md,18,238,0.5299,0.36,pr,pr71467503,2024-12-02T20:05:17.040Z,"60 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.3,15.72,0.069044013050759,11,reviewed,pr,pr
-2024-12-02T15:54:13.028Z,31.607,-103.948,6.933,2.2,ml,15,77,0,0.1,tx,tx2024xrcn,2024-12-03T13:45:49.856Z,"34 km WSW of Mentone, Texas",earthquake,0.37224598388474,0.58168214245955,0.1,13,reviewed,tx,tx
