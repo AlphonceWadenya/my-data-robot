@@ -290,4 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T23:55:25.250Z,33.8468333,-117.4953333,2.37,1.36,ml,31,84,0.05114,0.16,ci,ci40993144,2024-12-04T00:34:23.061Z,"4 km SE of Home Gardens, CA",earthquake,0.2,0.21,0.342,40,automatic,ci,ci
 2024-12-03T23:53:55.760Z,44.2735,-115.17416666667,4.29,1.53,ml,12,68,0.2889,0.21,mb,mb90067648,2024-12-04T23:19:47.100Z,"19 km WNW of Stanley, Idaho",earthquake,0.44,2.7,0.21966670024479,14,reviewed,mb,mb
 2024-12-03T23:53:41.370Z,21.216833333333,-157.4305,7.6,3.47,ml,8,148,0.2564,0.06,hv,hv74555032,2024-12-04T23:37:31.469Z,"23 km WNW of Maunaloa, Hawaii",earthquake,0.87,0.42,0.15266235795676,24,reviewed,hv,hv
-2024-12-03T23:44:15.886Z,31.115,-103.238,5.4846,1.7,ml,13,59,0.1,0.2,tx,tx2024xtnn,2024-12-04T14:40:13.121Z,"21 km SW of Coyanosa, Texas",earthquake,0.65948252940515,1.0683959146465,0.2,9,reviewed,tx,tx
