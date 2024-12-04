@@ -284,4 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T23:14:32.630Z,32.922,-115.5068333,10.72,2.32,ml,37,43,0.04973,0.3,ci,ci40993112,2024-12-04T00:29:09.887Z,"7 km SSE of Brawley, CA",earthquake,0.33,0.65,0.319,27,automatic,ci,ci
 2024-12-03T23:08:07.450Z,43.2995,-123.3585,-0.39,1.85,ml,8,115,0.02126,0.09,uw,uw62063946,2024-12-04T06:16:39.650Z,"5 km NW of Roseburg North, Oregon",explosion,0.4,31.61,0.10707226825932,2,reviewed,uw,uw
 2024-12-03T23:07:18.010Z,45.366,-121.7035,1.96,0.66,ml,7,104,0.007564,0.06,uw,uw62063941,2024-12-04T04:41:25.100Z,"7 km NNE of Government Camp, Oregon",earthquake,0.29,0.57,0.21244310200595,5,reviewed,uw,uw
-2024-12-03T22:54:09.340Z,19.148,-65.6078,22,3.5,md,18,222,0.9012,0.4,pr,pr2024338005,2024-12-04T14:08:04.470Z,"83 km NNE of Vieques, Puerto Rico",earthquake,1.5,29.44,0.07,9,reviewed,pr,pr
