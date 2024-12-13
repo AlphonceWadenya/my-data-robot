@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-13T11:40:04.696Z,38.1134,-117.8911,4.1,1.9,ml,14,132.73,0.113,0.3493,nn,nn00889476,2024-12-13T11:42:45.748Z,"36 km SSE of Mina, Nevada",earthquake,,0.9,0.45,8,automatic,nn,nn
 2024-12-13T11:33:43.440Z,33.9451667,-118.3513333,8.11,1.6,ml,37,194,0.01489,0.29,ci,ci41001152,2024-12-13T11:38:09.512Z,"1 km N of Lennox, CA",earthquake,0.64,0.67,0.138,30,automatic,ci,ci
 2024-12-13T11:09:46.007Z,36.6673,-116.2596,6.8,0.3,ml,16,93.53,0.067,0.1973,nn,nn00889475,2024-12-13T11:11:43.789Z,"52 km ESE of Beatty, Nevada",earthquake,,0.6,0.22,9,automatic,nn,nn
 2024-12-13T10:50:50.390Z,38.81600189209,-122.79316711426,2.2400000095367,1.38,md,29,31,0.008194,0.02,nc,nc75102706,2024-12-13T11:12:15.796Z,"5 km NNW of The Geysers, CA",earthquake,0.18,0.330000013,0.14,30,automatic,nc,nc
