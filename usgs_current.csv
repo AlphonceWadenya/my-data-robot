@@ -278,4 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-15T05:59:19.594Z,31.546,-104.198,3.564,1.9,ml,18,74,0.1,0.3,tx,tx2024yock,2024-12-15T06:10:28.511Z,"46 km WNW of Toyah, Texas",earthquake,0,1.3768776655197,0.2,14,automatic,tx,tx
 2024-12-15T05:56:34.198Z,39.1743,-119.0073,6.7,1.5,ml,13,117.91,0.025,0.1631,nn,nn00889684,2024-12-16T02:05:07.922Z,"24 km NNE of Yerington, Nevada",earthquake,,1.5,0.24,4,reviewed,nn,nn
 2024-12-15T05:55:09.690Z,39.1694,-119.0316,4.8,1.6,ml,11,116.04,0.006,0.1366,nn,nn00889683,2024-12-16T02:04:59.242Z,"23 km NNE of Yerington, Nevada",earthquake,,1,0.26,5,reviewed,nn,nn
-2024-12-15T05:49:42.270Z,38.831832885742,-122.81783294678,1.6699999570847,0.44,md,12,57,0.01038,0.01,nc,nc75103306,2024-12-15T06:47:17.990Z,"8 km NNW of The Geysers, CA",earthquake,0.29,0.75999999,0.36,15,automatic,nc,nc
