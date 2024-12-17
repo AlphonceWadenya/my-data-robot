@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-17T15:37:33.200Z,33.6566658,-116.6768341,14.75,1.08,ml,18,110,0.06264,0.12,ci,ci41003568,2024-12-17T15:39:35.655Z,"10 km SSE of Idyllwild, CA",earthquake,0.4,0.7,0.21,4,automatic,ci,ci
+2024-12-17T15:37:33.080Z,33.6601667,-116.6773333,15.59,0.68,ml,28,62,0.05942,0.1,ci,ci41003568,2024-12-17T15:41:23.401Z,"10 km SSE of Idyllwild, CA",earthquake,0.18,0.28,0.189,11,automatic,ci,ci
 2024-12-17T14:52:34.100Z,33.6765,-116.7786667,16.45,0.84,ml,31,77,0.06393,0.14,ci,ci41003520,2024-12-17T14:57:27.120Z,"9 km SW of Idyllwild, CA",earthquake,0.19,0.36,0.164,30,automatic,ci,ci
 2024-12-17T14:17:19.261Z,63.6035,-147.8413,2.8,2.1,ml,,,,0.92,ak,ak024g6dlwye,2024-12-17T14:19:43.610Z,"55 km ESE of Denali Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-17T14:03:19.731Z,60.9416,-151.1826,59.1,2,ml,,,,0.4,ak,ak024g6diwyt,2024-12-17T14:05:13.048Z,"14 km S of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -56,6 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T10:07:58.330Z,19.398666381836,-155.27183532715,0.75999999046326,1.94,ml,24,41,0.003698,0.150000006,hv,hv74568657,2024-12-17T10:10:57.810Z,"6 km SW of Volcano, Hawaii",earthquake,0.13,0.119999997,0.28,11,automatic,hv,hv
 2024-12-17T10:07:26.090Z,19.403667449951,-155.2791595459,0.54000002145767,1.8,ml,15,48,0.009761,0.129999995,hv,hv74568652,2024-12-17T10:10:24.460Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.289999992,0.39,12,automatic,hv,hv
 2024-12-17T09:59:55.952Z,-17.6754,168.1809,55.814,4.8,mb,29,131,4.662,0.59,us,us7000nzi7,2024-12-17T10:26:57.040Z,"15 km WNW of Port-Vila, Vanuatu",earthquake,11.4,8.109,0.111,25,reviewed,us,us
+2024-12-17T09:58:34.550Z,39.7015,-110.8285,-2,1.49,ml,13,105,0.07234,0.19,uu,uu80097886,2024-12-17T15:44:00.910Z,"2 km NW of Kenilworth, Utah",earthquake,0.61,31.61,0.12235145757853,4,reviewed,uu,uu
 2024-12-17T09:45:07.700Z,-6.6585,128.4224,239.015,4.4,mb,25,71,5.323,0.58,us,us7000nzi5,2024-12-17T11:44:21.040Z,"259 km NE of Lospalos, Timor Leste",earthquake,11.11,10.148,0.117,21,reviewed,us,us
 2024-12-17T09:23:55.079Z,61.6245,-149.9022,34.3,2.2,ml,,,,0.4,ak,ak024g6ao3zn,2024-12-17T09:25:26.286Z,"4 km W of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-17T09:22:31.642Z,8.314,-103.2337,10,4.9,mb,84,96,10.255,1.11,us,us7000nzi3,2024-12-17T09:55:35.040Z,"northern East Pacific Rise",earthquake,11.41,1.81,0.032,315,reviewed,us,us
@@ -160,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T01:20:38.230Z,38.845832824707,-122.83583068848,12.14999961853,0.82,md,10,229,0.03011,0.09,nc,nc75104241,2024-12-17T01:22:14.001Z,"10 km WNW of Cobb, CA",earthquake,1.86,7.71999979,0.06,10,automatic,nc,nc
 2024-12-17T01:19:34.790Z,38.780834197998,-122.75933074951,1.2999999523163,1.06,md,13,83,0.01783,0.02,nc,nc75104236,2024-12-17T01:52:16.113Z,"0 km NNW of The Geysers, CA",earthquake,0.22,0.460000008,0.29,13,automatic,nc,nc
 2024-12-17T01:09:17.690Z,40.263832092285,-123.80466461182,28.85000038147,3.32,ml,42,33,0.02871,0.11,nc,nc75104211,2024-12-17T03:07:17.733Z,"16 km NNE of Redway, CA",earthquake,0.28,0.689999998,0.302,5,automatic,nc,nc
-2024-12-17T01:08:14.980Z,40.282,-123.71183333333,28.9,4.05,mw,78,23,0.07977,0.17,nc,nc75104216,2024-12-17T15:10:18.582Z,"20 km NE of Redway, CA",earthquake,0.24,0.56,,9,reviewed,nc,nc
+2024-12-17T01:08:14.980Z,40.282,-123.71183333333,28.9,4.05,mw,78,23,0.07977,0.17,nc,nc75104216,2024-12-17T15:40:23.602Z,"20 km NE of Redway, CA",earthquake,0.24,0.56,,9,reviewed,nc,nc
 2024-12-17T01:05:11.098Z,26.2056,-110.1063,10,4.5,mb,18,172,2.208,1.01,us,us7000nzeu,2024-12-17T02:44:13.644Z,"75 km SW of Etchoropo, Mexico",earthquake,9.99,1.96,0.084,41,reviewed,us,us
 2024-12-17T00:37:54.560Z,40.307834625244,-124.57516479492,16.510000228882,2.83,md,11,304,0.1789,0.1,nc,nc75104201,2024-12-17T02:22:18.334Z,"25 km W of Petrolia, CA",earthquake,3.73,0.930000007,0.19,14,automatic,nc,nc
 2024-12-17T00:25:01.120Z,17.969833333333,-66.975,6.87,2.15,md,9,183,0.0632,0.08,pr,pr71468743,2024-12-17T00:39:37.870Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.9,0.45,0.05557013981968,5,reviewed,pr,pr
