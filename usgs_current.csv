@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-18T20:41:31.462Z,31.294,-103.011,3.7024,1.7,ml,9,137,0.1,0.5,tx,tx2024yusc,2024-12-18T20:51:43.015Z,"7 km NE of Coyanosa, Texas",earthquake,0,1.8034893274307,0.2,7,automatic,tx,tx
 2024-12-18T20:35:14.127Z,31.311,-103.013,4.6062,1.8,ml,7,136,0.1,0.1,tx,tx2024yurv,2024-12-18T20:40:31.935Z,"9 km NNE of Coyanosa, Texas",earthquake,0,2.0018630027771,0.2,7,automatic,tx,tx
 2024-12-18T20:34:58.178Z,62.2305,-147.07,0,2,ml,,,,0.52,ak,ak024g84tl95,2024-12-18T20:43:16.622Z,"27 km WSW of Lake Louise, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-18T20:31:09.010Z,33.854,-117.5075,1.43,1.35,ml,38,68,0.06353,0.2,ci,ci40824055,2024-12-18T20:36:30.308Z,"3 km SSE of Home Gardens, CA",earthquake,0.23,0.31,0.368,36,automatic,ci,ci
@@ -239,5 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T21:03:11.000Z,40.344333648682,-124.46399688721,15.35000038147,2.32,md,9,269,0.1099,0.04,nc,nc75104566,2024-12-17T22:47:16.754Z,"15 km WNW of Petrolia, CA",earthquake,3.78,0.949999988,0.16,7,automatic,nc,nc
 2024-12-17T20:59:55.800Z,53.330333333333,-168.33366666667,16.27,0.9,ml,4,329,0.1063,0.22,av,av93028684,2024-12-18T08:21:22.710Z,"56 km NE of Nikolski, Alaska",earthquake,3.39,2.76,0.26450589769902,3,reviewed,av,av
 2024-12-17T20:58:28.460Z,33.8675,-117.5066667,-0.53,0.98,ml,25,57,0.07161,0.18,ci,ci41003872,2024-12-17T21:49:50.174Z,"2 km SE of Home Gardens, CA",quarry blast,0.39,31.61,0.147,20,reviewed,ci,ci
-2024-12-17T20:53:57.490Z,31.948,-116.2283333,5.3,1.98,ml,18,292,0.7073,0.16,ci,ci41003856,2024-12-18T01:29:16.845Z,"38 km ENE of Ensenada, B.C., MX",earthquake,0.66,31.61,0.19,19,reviewed,ci,ci
-2024-12-17T20:52:41.920Z,38.512666666667,-112.90616666667,2.18,1.43,md,12,118,0.0189,0.12,uu,uu80097976,2024-12-17T21:24:38.860Z,"15 km NE of Milford, Utah",earthquake,0.36,1.04,0.37993280618164,7,reviewed,uu,uu
