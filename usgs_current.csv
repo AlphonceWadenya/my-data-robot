@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T06:42:24.786Z,17.6363,119.4894,10,5.1,mb,42,118,5.367,0.74,us,us7000nzza,2024-12-19T06:58:26.040Z,"92 km W of Puro Pinget, Philippines",earthquake,12.57,1.911,0.074,59,reviewed,us,us
 2024-12-19T06:36:43.540Z,33.6603333,-116.7655,13.85,0.84,ml,47,39,0.06635,0.15,ci,ci40824447,2024-12-19T06:40:42.446Z,"10 km SSW of Idyllwild, CA",earthquake,0.18,0.28,0.178,27,automatic,ci,ci
 2024-12-19T06:34:16.747Z,39.1052,-119.0552,7.9,0.9,ml,8,136.19,0.065,0.2344,nn,nn00889991,2024-12-19T06:36:25.987Z,"16 km NE of Yerington, Nevada",earthquake,,1.1,0.45,4,automatic,nn,nn
-2024-12-19T06:29:30.130Z,19.266166687012,-155.37016296387,31.64999961853,2.43,ml,64,134,0.03847,0.140000001,hv,hv74570652,2024-12-19T06:32:23.460Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.33,0.430000007,0.42,38,automatic,hv,hv
+2024-12-19T06:29:30.130Z,19.266166687012,-155.37016296387,31.64999961853,2.43,ml,64,134,0.03847,0.140000001,hv,hv74570652,2024-12-19T07:57:43.040Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.33,0.430000007,0.42,38,automatic,hv,hv
 2024-12-19T06:17:18.856Z,39.1311,-119.0728,9.4,1.1,ml,8,125.89,0.046,0.1752,nn,nn00889990,2024-12-19T06:19:35.859Z,"17 km NNE of Yerington, Nevada",earthquake,,0.5,0.36,4,automatic,nn,nn
 2024-12-19T06:16:25.574Z,-2.3313,128.1897,10,4.7,mb,20,94,2.769,0.99,us,us7000nzys,2024-12-19T07:29:43.040Z,"137 km NW of Masohi, Indonesia",earthquake,8.72,1.934,0.133,17,reviewed,us,us
 2024-12-19T06:16:16.170Z,19.258166666667,-155.37233333333,31.34,2.36,ml,66,137,0.03143,0.13,hv,hv74570647,2024-12-19T07:48:06.040Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.34,0.41,0.3654102229926,48,reviewed,hv,hv
@@ -287,5 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-18T08:00:10.328Z,62.892,-150.5718,84.4,1.8,ml,,,,0.33,ak,ak024g7xgzy5,2024-12-18T08:02:44.875Z,"45 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-12-18T07:58:48.203Z,38.1841,-117.798,13.3,2.3,ml,12,66.52,0.129,0.1792,nn,nn00889890,2024-12-18T17:54:11.724Z,"35 km SE of Mina, Nevada",earthquake,,1,0.33,6,reviewed,nn,nn
 2024-12-18T07:58:17.032Z,-28.1292,-71.0108,57.687,4.3,mb,33,99,0.093,1.24,us,us7000nzqr,2024-12-18T10:11:23.040Z,"55 km NNW of Vallenar, Chile",earthquake,6.75,8.724,0.218,6,reviewed,us,us
-2024-12-18T07:56:48.917Z,60.8472,-148.9069,22.7,2.2,ml,,,,0.45,ak,ak024g7x7nff,2024-12-18T07:58:29.593Z,"14 km NW of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-12-18T07:53:48.290Z,38.811832427979,-122.74349975586,35.349998474121,1.3,md,5,135,0.02779,0.03,nc,nc75104736,2024-12-18T08:32:15.858Z,"2 km WSW of Cobb, CA",earthquake,4.22,8.61999989,0.27,2,automatic,nc,nc
