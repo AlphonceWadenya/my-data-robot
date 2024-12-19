@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-19T21:41:21.360Z,19.195833206177,-155.4571685791,28.620000839233,1.88,md,12,230,0.1526,0.100000001,hv,hv74571067,2024-12-19T21:43:00.340Z,"2 km ESE of Pāhala, Hawaii",earthquake,1.48,0.980000019,0.159999996,3,automatic,hv,hv
 2024-12-19T21:30:45.240Z,38.823165893555,-122.80616760254,2.2400000095367,0.77,md,11,82,0.00306,0.01,nc,nc75105491,2024-12-19T21:32:21.396Z,"7 km NNW of The Geysers, CA",earthquake,0.33,1.02999997,0.16,12,automatic,nc,nc
 2024-12-19T21:25:40.120Z,19.211000442505,-155.48384094238,28.639999389648,2.25,md,48,85,0.03984,0.140000001,hv,hv74571062,2024-12-19T21:27:28.790Z,"1 km NNW of Pāhala, Hawaii",earthquake,0.5,0.649999976,0.200000003,11,automatic,hv,hv
 2024-12-19T21:17:05.460Z,33.466,-116.506,11.87,1,ml,50,45,0.08534,0.17,ci,ci40825199,2024-12-19T21:25:11.228Z,"18 km ESE of Anza, CA",earthquake,0.18,0.37,0.17,26,automatic,ci,ci
