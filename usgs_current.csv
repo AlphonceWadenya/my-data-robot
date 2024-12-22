@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-22T14:33:46.280Z,38.82833480835,-122.81116485596,1.6499999761581,0.93,md,16,42,0.005006,0.02,nc,nc75106686,2024-12-22T14:35:21.674Z,"7 km NNW of The Geysers, CA",earthquake,0.24,0.74000001,0.17,20,automatic,nc,nc
 2024-12-22T14:21:16.811Z,36.6723,-116.2681,0,0.1,ml,9,140.47,0.063,0.2775,nn,nn00890222,2024-12-22T14:23:01.076Z,"51 km ESE of Beatty, Nevada",earthquake,,6.8,0.26,6,automatic,nn,nn
 2024-12-22T14:15:23.247Z,32.404,-102.04,4.3728,1.7,ml,60,41,0.1,0.5,tx,tx2024zbni,2024-12-22T14:22:37.489Z,"33 km WSW of Ackerly, Texas",earthquake,0,0.74490964412689,0.1,37,automatic,tx,tx
 2024-12-22T14:15:17.160Z,65.095,-149.4071,3.9,1.5,ml,,,,0.89,ak,ak024gena7tw,2024-12-22T14:17:06.003Z,"6 km SSW of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
