@@ -165,4 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T14:08:17.740Z,44.807333333333,-112.90733333333,4.04,1.68,ml,24,89,0.04636,0.2,mb,mb90069343,2024-12-21T16:00:25.260Z,"31 km NW of Lima, Montana",earthquake,0.41,1.45,0.14709998956606,25,reviewed,mb,mb
 2024-12-21T14:04:38.070Z,38.1773,-117.883,4.1,1.9,ml,17,100.2,0.083,0.2554,nn,nn00890149,2024-12-21T14:07:35.025Z,"30 km SE of Mina, Nevada",earthquake,,0.6,0.27,10,automatic,nn,nn
 2024-12-21T14:04:01.470Z,33.0423333,-116.0268333,8.07,1.31,ml,46,28,0.1371,0.21,ci,ci40826711,2024-12-21T16:07:01.950Z,"15 km SE of Ocotillo Wells, CA",earthquake,0.22,1.72,0.215,27,reviewed,ci,ci
-2024-12-21T13:56:17.876Z,60.9466,-149.3281,26.7,2,ml,,,,0.43,ak,ak024gcze857,2024-12-21T19:19:30.937Z,"8 km NE of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
