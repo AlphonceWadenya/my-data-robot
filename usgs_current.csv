@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-22T16:34:42.630Z,33.4786667,-116.4798333,13.35,0.77,ml,41,64,0.08949,0.16,ci,ci40827327,2024-12-22T16:46:43.190Z,"20 km ESE of Anza, CA",earthquake,0.19,0.39,0.141,27,reviewed,ci,ci
 2024-12-22T16:34:40.960Z,37.358,-117.1909,2.1,0.4,ml,12,235.97,0.08,0.4162,nn,nn00890231,2024-12-22T16:37:01.451Z,"39 km S of Goldfield, Nevada",earthquake,,9.9,0.45,5,automatic,nn,nn
 2024-12-22T16:10:47.608Z,39.1564,-119.0622,9,1.1,ml,9,88.03,0.022,0.1275,nn,nn00890229,2024-12-22T16:13:20.859Z,"20 km NNE of Yerington, Nevada",earthquake,,0.3,0.44,2,automatic,nn,nn
-2024-12-22T15:53:59.570Z,35.097,-119.099,12.04,1.83,ml,56,48,0.04029,0.21,ci,ci40827319,2024-12-22T15:58:31.043Z,"23 km NW of Grapevine, CA",earthquake,0.2,0.57,0.221,26,automatic,ci,ci
