@@ -148,4 +148,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T18:12:28.440Z,38.833667755127,-122.81733703613,1.7999999523163,0.77,md,18,69,0.01172,0.01,nc,nc75107456,2024-12-24T18:14:06.726Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.529999971,0.23,21,automatic,nc,nc
 2024-12-24T18:09:48.909Z,31.731,-104.087,5.0385,2.3,ml,19,61,0,0.2,tx,tx2024zfmb,2024-12-24T18:19:20.589Z,"46 km W of Mentone, Texas",earthquake,0,1.9980134963989,0.2,15,automatic,tx,tx
 2024-12-24T17:58:56.604Z,39.1229,-119.0469,6.1,1.9,ml,21,121.58,0.018,0.1593,nn,nn00890505,2024-12-24T19:53:22.528Z,"18 km NNE of Yerington, Nevada",earthquake,,0.9,0.24,9,reviewed,nn,nn
-2024-12-24T17:57:20.050Z,38.791999816895,-122.80766296387,3.2999999523163,0.76,md,8,124,0.005132,0.01,nc,nc75107451,2024-12-24T17:58:56.844Z,"5 km WNW of The Geysers, CA",earthquake,0.51,1.08000004,0.17,10,automatic,nc,nc
