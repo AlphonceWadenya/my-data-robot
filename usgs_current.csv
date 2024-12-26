@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-26T04:49:57.130Z,35.4418333,-118.6581667,5.69,1.63,ml,30,37,0.1003,0.16,ci,ci40828367,2024-12-26T04:53:32.513Z,"22 km SW of Bodfish, CA",earthquake,0.18,1.07,0.27,27,automatic,ci,ci
 2024-12-26T04:41:15.630Z,34.0888333,-116.4175,10.02,1.22,ml,48,30,0.03005,0.16,ci,ci40828359,2024-12-26T04:45:55.697Z,"3 km SSE of Yucca Valley, CA",earthquake,0.15,0.32,0.192,29,automatic,ci,ci
 2024-12-26T04:30:46.750Z,38.835334777832,-122.78233337402,1.7699999809265,1.09,md,17,73,0.006969,0.02,nc,nc75108036,2024-12-26T04:32:21.180Z,"5 km WNW of Cobb, CA",earthquake,0.26,0.409999996,0.16,16,automatic,nc,nc
 2024-12-26T04:12:40.470Z,18.223333333333,-66.426333333333,65.02,2.78,md,10,166,0.2072,0.27,pr,pr71469433,2024-12-26T04:35:19.300Z,"3 km W of Orocovis, Puerto Rico",earthquake,2.29,1.52,0.10197077557105,5,reviewed,pr,pr
