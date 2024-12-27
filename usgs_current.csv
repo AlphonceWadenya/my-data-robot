@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-26T23:54:32.335Z,69.3416,-144.6505,0,2.7,ml,,,,0.94,ak,ak024glf0wch,2024-12-26T23:59:12.024Z,"96 km SSW of Kaktovik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-12-26T23:47:24.838Z,31.658,-104.324,4.1723,1.6,ml,17,69,0.1,0.2,tx,tx2024zjof,2024-12-26T23:53:58.815Z,"57 km S of Whites City, New Mexico",earthquake,0,1.3216234445572,0.2,12,automatic,tx,tx
 2024-12-26T23:44:14.960Z,38.594833374023,-122.80583190918,0.18000000715256,0.75,md,6,84,0.08268,0.02,nc,nc75108346,2024-12-26T23:45:52.866Z,"5 km NNE of Windsor, CA",earthquake,0.62,3.76999998,0.15,2,automatic,nc,nc
 2024-12-26T23:17:21.858Z,60.1247,-151.2147,54.4,2,ml,,,,0.79,ak,ak024glesy1l,2024-12-26T23:19:20.102Z,"15 km SE of Clam Gulch, Alaska",earthquake,,2.3,,,automatic,ak,ak
