@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-27T07:52:06.697Z,59.939,-151.9818,67.4,1.8,ml,,,,0.22,ak,ak024gmt0tr1,2024-12-27T07:54:13.996Z,"13 km W of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-12-27T07:35:14.222Z,32.429,-102.083,5.2583,1.2,ml,26,142,0,0.5,tx,tx2024zkdp,2024-12-27T07:49:11.265Z,"35 km SSW of Los Ybanez, Texas",earthquake,0,1.3950200080872,0.2,17,automatic,tx,tx
 2024-12-27T07:24:28.267Z,61.3182,-152.2882,5.8,0.4,ml,,,,0.12,ak,ak024gmsuvd6,2024-12-27T07:25:59.394Z,"67 km WNW of Beluga, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-12-27T07:19:17.534Z,60.1568,-151.7055,60.6,1.8,ml,,,,0.52,ak,ak024gmstryh,2024-12-27T07:21:53.447Z,"12 km N of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
