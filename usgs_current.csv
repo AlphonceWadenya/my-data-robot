@@ -62,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T15:18:16.404Z,65.465,-149.972,4.2,1.2,ml,,,,0.61,ak,ak024gol4dhk,2024-12-28T15:21:33.328Z,"10 km ESE of Rampart, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-28T15:17:48.720Z,38.790832519531,-122.77799987793,1.7599999904633,1.52,md,30,80,0.01732,0.03,nc,nc75108911,2024-12-28T15:52:16.834Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.330000013,0.12,31,automatic,nc,nc
 2024-12-28T15:00:13.359Z,60.0285,-153.0324,114.3,3.5,ml,,,,0.56,ak,ak024gol0iao,2024-12-28T15:37:53.087Z,"65 km ENE of Pedro Bay, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2024-12-28T14:59:35.402Z,61.2758,-152.2709,10,3.2,ml,,,,0.65,ak,ak024gokrrq9,2024-12-28T16:46:01.022Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2024-12-28T14:59:35.402Z,61.2758,-152.2709,10,3.2,ml,,,,0.65,ak,ak024gokrrq9,2024-12-28T20:54:59.800Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2024-12-28T14:57:11.332Z,31.609,-103.95,7.0808,1.8,ml,16,76,0,0.6,tx,tx2024zmnr,2024-12-28T15:07:23.005Z,"34 km WSW of Mentone, Texas",earthquake,0,2.1388409137726,0.2,13,automatic,tx,tx
 2024-12-28T14:45:43.076Z,37.3525,-117.2104,9.9,1.6,ml,28,120.3,0.066,0.351,nn,nn00890734,2024-12-28T14:48:29.794Z,"39 km S of Goldfield, Nevada",earthquake,,0.5,0.27,16,automatic,nn,nn
 2024-12-28T14:39:20.830Z,63.1925,-150.4618,4.2,1.9,ml,,,,0.5,ak,ak024gokng9f,2024-12-28T14:41:24.988Z,"74 km ESE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -245,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T21:03:20.540Z,38.794334411621,-122.75450134277,0.81000000238419,1.01,md,5,102,0.007486,0.01,nc,nc75108681,2024-12-27T21:04:55.804Z,"2 km NNE of The Geysers, CA",earthquake,0.4,0.910000026,0.26,8,automatic,nc,nc
 2024-12-27T21:00:54.600Z,53.379,-168.19683333333,4.46,0.82,ml,4,244,0.03079,0.13,av,av93029334,2024-12-28T04:07:01.220Z,"66 km NE of Nikolski, Alaska",earthquake,0.95,1.2,0.33674168408543,4,reviewed,av,av
 2024-12-27T20:57:09.900Z,53.365833333333,-168.16883333333,6.23,0.95,ml,5,206,0.01024,0.05,av,av93029324,2024-12-28T03:33:52.400Z,"66 km NE of Nikolski, Alaska",earthquake,0.55,0.66,0.14786456641757,5,reviewed,av,av
-2024-12-27T20:56:18.465Z,61.1926,-149.3937,30.1,2.1,ml,,,,0.34,ak,ak024gn0scdy,2024-12-27T20:57:52.870Z,"14 km ESE of Elmendorf Air Force Base, Alaska",earthquake,,0.1,,,automatic,ak,ak
