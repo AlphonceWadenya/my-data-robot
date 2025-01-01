@@ -231,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T10:10:19.043Z,39.1587,-119.0173,6,0.8,ml,8,120.06,0.02,0.1162,nn,nn00891009,2024-12-31T10:12:53.521Z,"22 km NNE of Yerington, Nevada",earthquake,,0.5,0.23,2,automatic,nn,nn
 2024-12-31T10:00:30.650Z,48.163666666667,-121.642,11.64,0.89,ml,11,80,0.08366,0.18,uw,uw62069336,2025-01-01T00:35:59.270Z,"10 km SSW of Darrington, Washington",earthquake,0.46,0.99,0.14201227519282,4,reviewed,uw,uw
 2024-12-31T09:56:14.210Z,41.442,-112.17683333333,11.1,1.35,ml,27,70,0.1286,0.28,uu,uu80098906,2024-12-31T17:19:19.110Z,"12 km WNW of Willard, Utah",earthquake,0.43,1.16,0.071988607093227,3,reviewed,uu,uu
-2024-12-31T09:49:53.845Z,60.602,-150.0199,38.2,2,ml,,,,0.26,ak,ak024gtgcjfc,2024-12-31T09:52:04.222Z,"16 km NW of Cooper Landing, Alaska",earthquake,,0.5,,,automatic,ak,ak
