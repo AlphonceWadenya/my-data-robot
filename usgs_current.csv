@@ -234,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T05:49:16.870Z,38.82833480835,-122.78700256348,1.789999961853,0.22,md,6,129,0.01039,0.03,nc,nc75110091,2024-12-31T05:50:51.993Z,"6 km WNW of Cobb, CA",earthquake,1.36,0.550000012,0.08,7,automatic,nc,nc
 2024-12-31T05:49:14.024Z,64.4118,-147.4217,2.6,1.7,ml,,,,0.65,ak,ak024gtdypxf,2024-12-31T05:52:03.405Z,"27 km WSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-31T05:44:31.948Z,9.1861,39.9108,10,4.5,mb,27,175,3.711,0.64,us,us6000pgll,2024-12-31T14:59:46.769Z,"31 km N of Metahāra, Ethiopia",earthquake,10.15,1.952,0.128,18,reviewed,us,us
-2024-12-31T05:38:58.110Z,61.7725,-146.5148,16,1.6,ml,,,,0.82,ak,ak024gtdwgdy,2024-12-31T06:45:12.029Z,"27 km SSE of Nelchina, Alaska",earthquake,,0.3,,,reviewed,ak,ak
