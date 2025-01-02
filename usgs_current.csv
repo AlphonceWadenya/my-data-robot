@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-01-02T07:38:16.990Z,32.9281654,-116.4818344,4.85,1.31,ml,39,53,0.07401,0.21,ci,ci40832095,2025-01-02T07:40:33.851Z,"13 km NNE of Pine Valley, CA",earthquake,0.27,0.55,0.181,8,automatic,ci,ci
+2025-01-02T07:42:32.881Z,62.2983,-148.1545,24,1.9,ml,,,,0.78,ak,ak0253fhsu0,2025-01-02T07:44:45.135Z,"58 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-01-02T07:38:16.940Z,32.9256667,-116.482,6.83,1.21,ml,54,29,0.07561,0.2,ci,ci40832095,2025-01-02T07:42:37.995Z,"12 km NNE of Pine Valley, CA",earthquake,0.16,0.41,0.141,26,automatic,ci,ci
 2025-01-02T07:16:56.346Z,60.9364,-149.6815,34.8,1.6,ml,,,,0.52,ak,ak0253fca0y,2025-01-02T07:18:54.489Z,"3 km NW of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-02T07:15:18.230Z,35.251,-119.905,5.51,1.04,ml,16,47,0.07007,0.2,ci,ci40832087,2025-01-02T07:19:35.611Z,"14 km SE of Simmler, CA",earthquake,0.32,1.18,0.18,12,automatic,ci,ci
 2025-01-02T07:14:39.237Z,61.9026,-150.7311,58.3,1.6,ml,,,,0.31,ak,ak0253fbt9v,2025-01-02T07:16:11.542Z,"36 km ESE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -356,4 +357,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T08:11:54.130Z,33.2668333,-116.2151667,11.02,1.16,ml,61,47,0.08079,0.19,ci,ci40831255,2025-01-01T08:16:10.450Z,"15 km E of Borrego Springs, CA",earthquake,0.18,0.35,0.107,26,automatic,ci,ci
 2025-01-01T08:09:47.730Z,9.0989,40.14,10,4.8,mb,52,196,3.596,0.66,us,us6000pgtj,2025-01-01T08:25:40.040Z,"13 km NNW of Āwash, Ethiopia",earthquake,13.53,1.97,0.089,39,reviewed,us,us
 2025-01-01T07:54:20.007Z,45.5165,150.0109,94.48,4.6,mb,76,135,5.233,0.75,us,us6000pgtd,2025-01-01T09:43:57.040Z,"170 km E of Kuril’sk, Russia",earthquake,6.76,6.99,0.039,200,reviewed,us,us
-2025-01-01T07:41:39.640Z,33.9885,-116.9003333,9.24,1.05,ml,59,23,0.08987,0.16,ci,ci40831231,2025-01-01T07:46:54.534Z,"7 km NNW of Banning, CA",earthquake,0.13,0.36,0.223,27,automatic,ci,ci
