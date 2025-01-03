@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-03T13:57:51.180Z,38.795833587646,-122.78500366211,4.8600001335144,0.56,md,8,74,0.003495,0.02,nc,nc75112446,2025-01-03T13:59:27.297Z,"3 km NW of The Geysers, CA",earthquake,1.04,3.30999994,0.15,8,automatic,nc,nc
+2025-01-03T13:55:45.553Z,62.7712,-150.9233,129.6,1.6,ml,,,,0.44,ak,ak02556ok8r,2025-01-03T13:58:00.749Z,"31 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-01-03T13:50:35.908Z,63.0634,-149.0746,17.5,1.2,ml,,,,0.37,ak,ak02556ngx2,2025-01-03T13:53:41.436Z,"37 km S of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-03T13:41:51.310Z,33.1403333,-116.6426667,4.77,0.75,ml,33,33,0.05878,0.19,ci,ci40833023,2025-01-03T13:46:35.286Z,"8 km NNW of Julian, CA",earthquake,0.24,0.45,0.109,15,automatic,ci,ci
 2025-01-03T13:31:48.279Z,60.1732,-152.737,93.2,1.9,ml,,,,0.13,ak,ak02556jf9n,2025-01-03T13:34:30.566Z,"60 km WNW of Ninilchik, Alaska",earthquake,,1.6,,,automatic,ak,ak
