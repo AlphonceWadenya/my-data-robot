@@ -210,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T21:06:36.111Z,59.4802,-152.0195,56.6,2,ml,,,,0.48,ak,ak025dku8qj,2025-01-08T21:08:49.255Z,"14 km NNW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-01-08T21:06:05.590Z,36.422668457031,-121.49716949463,7,1.37,md,7,95,0.06374,0.02,nc,nc75114631,2025-01-08T21:52:17.177Z,"10 km SW of Gonzales, CA",earthquake,0.36,1.16999996,0.37,6,automatic,nc,nc
 2025-01-08T21:05:21.481Z,61.3337,-150.9028,57.8,1.5,ml,,,,0.65,ak,ak025dktzw4,2025-01-08T21:07:43.978Z,"23 km NNE of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-01-08T20:58:56.848Z,53.0637,-35.1906,10,4.7,mb,41,153,15.879,0.47,us,us6000piqq,2025-01-08T21:49:00.040Z,"Reykjanes Ridge",earthquake,13.62,1.941,0.089,38,reviewed,us,us
-2025-01-08T20:56:16.094Z,9.0512,40.0639,10,4.6,mb,41,222,3.683,0.56,us,us6000piql,2025-01-08T22:29:27.030Z,"13 km WNW of Āwash, Ethiopia",earthquake,14.9,2.001,0.096,32,reviewed,us,us
