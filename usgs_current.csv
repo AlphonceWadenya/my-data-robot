@@ -226,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-10T11:57:16.160Z,36.628833770752,-121.13916778565,6.460000038147,1.38,md,10,98,0.04352,0.26,nc,nc75115306,2025-01-10T12:32:16.208Z,"11 km NNE of Pinnacles, CA",earthquake,1.13,2.97000003,0.15,7,automatic,nc,nc
 2025-01-10T11:54:20.660Z,38.839000701904,-122.81216430664,1.8799999952316,0.71,md,12,59,0.01567,0.01,nc,nc75115301,2025-01-10T11:55:59.353Z,"8 km WNW of Cobb, CA",earthquake,0.32,0.829999983,0.27,15,automatic,nc,nc
 2025-01-10T11:52:47.017Z,62.0748,-149.6766,50.7,1.6,ml,,,,0.61,ak,ak025gq8hgd,2025-01-10T11:55:09.106Z,"13 km SE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-01-10T11:51:28.549Z,59.7031,-152.8858,89.9,2.3,ml,,,,0.55,ak,ak025gq88ba,2025-01-10T11:53:46.538Z,"59 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-01-10T11:49:58.400Z,46.197166666667,-122.18633333333,6.15,0.41,ml,13,94,0.003089,0.1,uw,uw62062012,2025-01-10T20:27:41.850Z,"37 km NNE of Amboy, Washington",earthquake,0.36,0.57,0.093203551602456,9,reviewed,uw,uw
