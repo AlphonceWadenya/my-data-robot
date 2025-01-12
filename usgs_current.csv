@@ -162,5 +162,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-11T17:48:35.601Z,7.6074,126.8023,80.387,4.6,mb,111,59,1.326,1.05,us,us6000pjfn,2025-01-11T22:41:39.040Z,"26 km E of Baganga, Philippines",earthquake,8.76,6.961,0.058,98,reviewed,us,us
 2025-01-11T17:43:16.095Z,43.7955,39.8103,10.446,3.2,ml,14,195,1.833,1.3,us,us6000pji4,2025-01-12T16:03:26.626Z,"18 km NE of Dagomys, Russia",earthquake,6.95,7.882,0.097,14,reviewed,us,us
 2025-01-11T17:41:46.623Z,39.191,-119.0095,3.3,1.3,ml,10,109.36,0.015,0.2534,nn,nn00891788,2025-01-11T17:43:51.099Z,"26 km NNE of Yerington, Nevada",earthquake,,0.4,0.17,5,automatic,nn,nn
-2025-01-11T17:39:34.786Z,58.0923,-155.3268,103.5,1,ml,,,,0.18,ak,ak025ih9mbq,2025-01-11T17:41:00.761Z,"77 km NW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
-2025-01-11T17:38:32.393Z,36.7821,-116.0457,11.5,0.2,ml,12,190.76,0.022,0.36,nn,nn00891787,2025-01-11T17:40:11.876Z,"40 km NW of Indian Springs, Nevada",earthquake,,1,0.34,9,automatic,nn,nn
