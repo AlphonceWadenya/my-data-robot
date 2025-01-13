@@ -173,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-12T15:38:12.785Z,38.4967,-118.5476,0,2.5,ml,19,75.74,0.133,0.299,nn,nn00891830,2025-01-12T17:41:30.162Z,"7 km ESE of Hawthorne, Nevada",earthquake,,4.9,0.31,12,automatic,nn,nn
 2025-01-12T15:17:35.862Z,31.693,-104.304,7.3303,2.2,ml,29,65,0,0.1,tx,tx2025avgv,2025-01-13T14:38:43.673Z,"53 km S of Whites City, New Mexico",earthquake,0.53834738592047,0.64586797752753,0.2,33,reviewed,tx,tx
 2025-01-12T15:03:56.392Z,-17.8257,-178.4616,607.813,5.4,mww,31,93,2.468,0.68,us,us6000pjk4,2025-01-13T04:21:58.262Z,"236 km E of Levuka, Fiji",earthquake,13.88,9.85,0.139,5,reviewed,us,us
-2025-01-12T14:49:09.413Z,44.6836,36.5758,44.642,4.2,mb,42,74,3.306,1.29,us,us6000pjk1,2025-01-12T15:11:49.040Z,"50 km SSE of Zavetnoye, Ukraine",earthquake,6.84,12.918,0.146,13,reviewed,us,us
