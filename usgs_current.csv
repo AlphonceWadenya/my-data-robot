@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-01-16T13:39:36.437Z,61.6239,-150.9475,62.2,1.7,ml,,,,0.27,ak,ak025qokmi3,2025-01-16T13:41:01.440Z,"24 km WNW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-01-16T13:36:34.964Z,63.4508,-150.1503,106.2,2,ml,,,,0.34,ak,ak025qojz8o,2025-01-16T13:38:44.377Z,"60 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-01-16T13:34:07.320Z,35.9016685,-117.7053299,2.79,2.08,ml,33,41,0.06417,0.22,ci,ci40840911,2025-01-16T13:36:32.413Z,"18 km ESE of Little Lake, CA",earthquake,0.26,0.48,0.212,25,automatic,ci,ci
+2025-01-16T13:34:07.320Z,35.9016685,-117.7053299,2.79,2.08,ml,33,41,0.06417,0.22,ci,ci40840911,2025-01-16T13:45:12.660Z,"18 km ESE of Little Lake, CA",earthquake,0.26,0.48,0.212,25,automatic,ci,ci
 2025-01-16T13:31:00.810Z,38.813667297363,-122.81683349609,0.5799999833107,0.56,md,8,95,0.01077,0.03,nc,nc75118011,2025-01-16T13:32:35.827Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.899999976,0.35,11,automatic,nc,nc
+2025-01-16T13:27:32.835Z,-20.859,169.2535,30.562,5.1,mb,44,88,2.422,1.06,us,us6000pkeg,2025-01-16T13:45:40.040Z,"145 km S of Isangel, Vanuatu",earthquake,7.74,5.567,0.055,105,reviewed,us,us
 2025-01-16T13:26:21.090Z,35.9065,-117.7091667,3.1,1.33,ml,26,47,0.06311,0.15,ci,ci40840903,2025-01-16T13:30:17.625Z,"18 km E of Little Lake, CA",earthquake,0.17,0.68,0.172,24,automatic,ci,ci
 2025-01-16T13:26:19.500Z,38.840000152588,-122.82550048828,1.8300000429153,1.04,md,19,92,0.007925,0.02,nc,nc75118001,2025-01-16T13:27:54.687Z,"9 km WNW of Cobb, CA",earthquake,0.23,0.419999987,0.17,20,automatic,nc,nc
 2025-01-16T13:26:03.550Z,35.1275,-120.2071667,1.62,1.84,ml,31,59,0.0912,0.23,ci,ci40840895,2025-01-16T13:37:07.230Z,"26 km ENE of Nipomo, CA",earthquake,0.24,0.56,0.213,26,automatic,ci,ci
