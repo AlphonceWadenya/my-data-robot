@@ -152,7 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-15T19:12:11.720Z,18.108666666667,-67.0395,26.65,2.55,md,17,58,0.01756,0.1,pr,pr71470908,2025-01-15T19:25:09.990Z,"3 km N of San Germán, Puerto Rico",earthquake,0.3,0.53,0.057155655833665,9,reviewed,pr,pr
 2025-01-15T19:02:58.279Z,64.6298,-147.6226,9.7,0.9,ml,,,,0.29,ak,ak025p4dztv,2025-01-15T19:05:02.377Z,"18 km SW of North Pole, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-15T18:56:04.110Z,57.097,-135.77966666667,6.33,0.37,ml,4,296,0.03417,0.08,av,av93457341,2025-01-16T03:59:47.870Z,"27 km W of Sitka, Alaska",earthquake,0.94,0.65,0.3964779097276,4,reviewed,av,av
-2025-01-15T18:49:53.861Z,31.584,-104.542,3.3281,2,ml,19,159,0.1,0.2,tx,tx2025bbah,2025-01-15T19:14:40.212Z,"66 km NNE of Van Horn, Texas",earthquake,0,1.66674721241,0.1,15,automatic,tx,tx
+2025-01-15T18:49:54.044Z,31.611,-104.505,8.5095,1.9,ml,45,110,0.1,0.3,tx,tx2025bbah,2025-01-16T10:43:15.893Z,"63 km S of Whites City, New Mexico",earthquake,1.0314983900262,0.90760279077844,0.1,27,reviewed,tx,tx
 2025-01-15T18:49:22.020Z,38.123500823975,-122.15483093262,2.6500000953674,2.02,md,10,113,0.004481,0.15,nc,nc75117651,2025-01-15T18:50:57.170Z,"7 km E of Vallejo, CA",earthquake,0.92,0.939999998,0.14,8,automatic,nc,nc
 2025-01-15T18:41:49.874Z,59.6935,-153.1928,104.7,1.6,ml,,,,0.09,ak,ak025p40wi3,2025-01-15T20:07:08.040Z,"52 km ESE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-01-15T18:39:58.010Z,34.3576667,-118.3196667,7.42,1.2,ml,19,113,0.03002,0.1,ci,ci40840287,2025-01-15T19:37:45.065Z,"10 km NNE of Lake View Terrace, CA",earthquake,0.21,0.31,0.127,11,reviewed,ci,ci
