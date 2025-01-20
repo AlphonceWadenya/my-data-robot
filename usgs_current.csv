@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-20T03:51:43.087Z,39.1194,-119.0339,5.3,0.6,ml,9,89.36,0.05,0.153,nn,nn00892259,2025-01-20T03:53:53.292Z,"18 km NE of Yerington, Nevada",earthquake,,0.9,0.27,3,automatic,nn,nn
+2025-01-20T03:49:42.443Z,61.4159,-150.6961,33.4,2,ml,,,,0.82,ak,ak025x4tu1w,2025-01-20T03:51:39.586Z,"17 km SW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-20T03:44:34.700Z,38.833499908447,-122.84733581543,3.6500000953674,0.4,md,7,202,0.01056,0.04,nc,nc75120081,2025-01-20T03:46:12.245Z,"10 km NW of The Geysers, CA",earthquake,1.46,2.38000011,0.19,8,automatic,nc,nc
 2025-01-20T03:42:46.840Z,38.754665374756,-122.7200012207,2.1300001144409,1.71,md,24,98,0.007892,0.08,nc,nc75120076,2025-01-20T03:44:21.537Z,"3 km WSW of Anderson Springs, CA",earthquake,0.34,0.430000007,0.18,25,automatic,nc,nc
 2025-01-20T03:33:26.550Z,34.9525,-116.6728333,0.57,1.93,ml,25,47,0.1223,0.12,ci,ci40843655,2025-01-20T03:44:23.090Z,"32 km E of Barstow, CA",earthquake,0.15,0.38,0.196,27,automatic,ci,ci
