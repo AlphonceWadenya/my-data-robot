@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-20T05:13:44.100Z,34.3991667,-119.5406667,11.61,2.18,ml,55,96,0.02059,0.24,ci,ci40843679,2025-01-20T16:44:48.347Z,"2 km W of Carpinteria, CA",earthquake,0.26,0.36,0.213,27,automatic,ci,ci
 2025-01-20T05:06:11.081Z,61.8392,-148.4497,12.9,1.9,ml,,,,0.79,ak,ak025x5rf1w,2025-01-20T05:08:01.418Z,"4 km N of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-01-20T04:54:45.180Z,33.3321667,-116.8795,9.34,0.8,ml,45,22,0.02562,0.19,ci,ci40843671,2025-01-20T04:58:44.297Z,"3 km SSW of Palomar Observatory, CA",earthquake,0.17,0.47,0.19,28,automatic,ci,ci
-2025-01-20T04:41:30.620Z,19.26233291626,-155.40516662598,32.860000610352,1.98000002,md,60,79,0.02574,0.129999995,hv,hv74595622,2025-01-20T04:44:50.910Z,"10 km NE of Pāhala, Hawaii",earthquake,0.41,0.5,0.100000001,5,automatic,hv,hv
