@@ -212,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-21T06:09:13.866Z,32.099,-101.478,8.667,1.2,ml,11,86,0.1,0.1,tx,tx2025blai,2025-01-21T19:04:16.842Z,"10 km W of Forsan, Texas",earthquake,0.88441721633374,2.7881169017942,0.1,13,reviewed,tx,tx
 2025-01-21T06:05:14.352Z,-27.4829,-13.4632,10,5.5,mb,71,68,13.518,0.73,us,us6000pldh,2025-01-21T08:08:18.244Z,"southern Mid-Atlantic Ridge",earthquake,11.26,1.87,0.064,85,reviewed,us,us
 2025-01-21T05:58:51.390Z,38.816665649414,-122.76083374023,1.7599999904633,0.73,md,7,175,0.0155,0.02,nc,nc75120541,2025-01-21T06:00:26.689Z,"3 km W of Cobb, CA",earthquake,0.64,1.00999999,0.04,9,automatic,nc,nc
-2025-01-21T05:47:51.148Z,13.4344,144.3969,137.242,5.5,mww,100,54,0.484,0.83,us,us6000pldf,2025-01-21T23:57:53.517Z,"29 km WNW of Agat Village, Guam",earthquake,8.76,4.951,0.065,23,reviewed,us,us
