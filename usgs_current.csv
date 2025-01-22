@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-22T11:59:13.266Z,62.2977,-148.5561,47.6,1.8,ml,,,,0.19,ak,ak02510kq2se,2025-01-22T12:00:25.661Z,"56 km N of Chickaloon, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-01-22T11:32:42.182Z,36.8896,-116.1916,8.8,0.6,ml,19,65.63,0.05,0.2526,nn,nn00892378,2025-01-22T11:34:38.794Z,"50 km E of Beatty, Nevada",earthquake,,0.5,0.21,11,automatic,nn,nn
 2025-01-22T11:30:24.951Z,28.5844,87.6224,10,4.1,mb,24,115,2.211,1.13,us,us6000plkg,2025-01-22T11:51:50.040Z,"106 km NE of Lobuche, Nepal",earthquake,8.78,1.905,0.123,18,reviewed,us,us
-2025-01-22T10:59:47.730Z,34.048,-117.1283333,6.89,1.25,ml,63,23,0.01819,0.17,ci,ci40845111,2025-01-22T11:11:00.400Z,"2 km SSE of Mentone, CA",earthquake,0.12,0.3,0.154,25,automatic,ci,ci
+2025-01-22T10:59:47.730Z,34.048,-117.1283333,6.89,1.25,ml,63,23,0.01819,0.17,ci,ci40845111,2025-01-22T14:39:26.493Z,"2 km SSE of Mentone, CA",earthquake,0.12,0.3,0.154,25,automatic,ci,ci
 2025-01-22T10:48:42.920Z,38.80583190918,-122.77400207519,1.1000000238419,1.08,md,22,76,0.00907,0.03,nc,nc75121221,2025-01-22T10:50:20.881Z,"4 km NNW of The Geysers, CA",earthquake,0.21,0.340000004,0.1,21,automatic,nc,nc
 2025-01-22T10:13:54.637Z,31.664,-104.311,7.0227,1.7,ml,31,66,0,0.1,tx,tx2025bndv,2025-01-22T13:46:06.303Z,"57 km S of Whites City, New Mexico",earthquake,0.63826130919408,0.68962057799766,0.2,29,reviewed,tx,tx
 2025-01-22T10:12:46.910Z,34.047,-117.1331667,5.87,0.85,ml,52,49,0.02072,0.18,ci,ci40845103,2025-01-22T10:16:56.290Z,"3 km S of Mentone, CA",earthquake,0.15,0.4,0.193,30,automatic,ci,ci
