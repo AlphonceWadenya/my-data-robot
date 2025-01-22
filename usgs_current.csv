@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-22T09:02:04.999Z,59.5471,-152.9011,82.7,1.9,ml,,,,0.09,ak,ak02510j6z4j,2025-01-22T09:03:41.142Z,"59 km WNW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-01-22T08:33:00.280Z,38.793167114258,-122.75283050537,1.1200000047684,0.48,md,9,103,0.009185,0.01,nc,nc75121191,2025-01-22T08:34:35.634Z,"2 km NNE of The Geysers, CA",earthquake,0.39,0.680000007,0.22,8,automatic,nc,nc
 2025-01-22T08:30:10.850Z,36.3901667,-117.8641667,0.48,1.16,ml,23,85,0.1674,0.17,ci,ci40845063,2025-01-22T08:33:32.571Z,"18 km NE of Olancha, CA",earthquake,0.27,0.59,0.118,13,automatic,ci,ci
 2025-01-22T08:11:47.033Z,22.0402,121.4742,30.131,4.9,mb,51,74,0.855,1.05,us,us6000pljv,2025-01-22T08:46:14.040Z,"75 km E of Hengchun, Taiwan",earthquake,8.58,6.334,0.07,63,reviewed,us,us
