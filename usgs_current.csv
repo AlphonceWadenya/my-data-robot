@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-22T07:42:54.490Z,31.436,-103.533,3.4307,1.6,ml,9,90,0,0.6,tx,tx2025bmyv,2025-01-22T07:52:28.557Z,"4 km WNW of Pecos, Texas",earthquake,0,1.9155030250549,0.3,7,automatic,tx,tx
 2025-01-22T07:32:02.070Z,33.4793333,-116.8936667,12.98,1.01,ml,50,30,0.01502,0.2,ci,ci40845047,2025-01-22T07:37:04.455Z,"5 km NNW of Aguanga, CA",earthquake,0.19,0.44,0.13,26,automatic,ci,ci
 2025-01-22T07:27:49.240Z,34.4388333,-117.9181667,9.41,1.24,ml,40,49,0.03239,0.2,ci,ci40845039,2025-01-22T07:38:45.800Z,"8 km S of Pearblossom, CA",earthquake,0.2,0.41,0.175,28,automatic,ci,ci
 2025-01-22T07:07:36.651Z,39.094,-119.0581,12.7,1.5,ml,12,131.44,0.179,0.1687,nn,nn00892373,2025-01-22T07:10:06.199Z,"15 km NE of Yerington, Nevada",earthquake,,1.7,0.28,6,automatic,nn,nn
