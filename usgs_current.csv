@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-23T22:37:18.900Z,38.839500427246,-122.82199859619,2.039999961853,1.48,md,28,77,0.01057,0.02,nc,nc75121876,2025-01-23T22:38:56.190Z,"9 km WNW of Cobb, CA",earthquake,0.19,0.379999995,0.14,28,automatic,nc,nc
 2025-01-23T22:19:24.990Z,38.80683517456,-122.78316497803,3.1900000572205,0.75,md,10,62,0.006701,0.01,nc,nc75121871,2025-01-23T22:21:00.797Z,"4 km NNW of The Geysers, CA",earthquake,0.42,1.17999995,0.07,10,automatic,nc,nc
 2025-01-23T22:11:29.438Z,31.637,-104.439,3.5283,1.6,ml,17,92,0,0.5,tx,tx2025bpwz,2025-01-23T22:20:08.430Z,"60 km S of Whites City, New Mexico",earthquake,0,1.4012277126312,0.2,13,automatic,tx,tx
 2025-01-23T22:10:49.280Z,33.6821667,-116.694,16.34,1.13,ml,33,29,0.02142,0.16,ci,ci41034600,2025-01-23T22:15:54.810Z,"7 km SSE of Idyllwild, CA",earthquake,0.24,0.4,0.172,27,automatic,ci,ci
