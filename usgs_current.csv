@@ -93,6 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-23T09:33:40.820Z,46.8615,-121.76216666667,-2.74,0.54,ml,20,108,0.02251,0.17,uw,uw62071866,2025-01-23T21:41:07.200Z,"23 km ENE of Ashford, Washington",earthquake,0.31,0.6,0.14673247317864,13,reviewed,uw,uw
 2025-01-23T09:12:53.120Z,17.955166666667,-66.745,15,2.76,md,28,165,0.07822,0.1,pr,pr71471308,2025-01-23T09:34:35.520Z,"5 km SW of Tallaboa, Puerto Rico",earthquake,0.28,0.42,0.25145004791594,19,reviewed,pr,pr
 2025-01-23T09:03:23.478Z,62.9425,-151.2529,108,1.5,ml,,,,0.36,ak,ak025126qkql,2025-01-23T09:05:43.916Z,"55 km NNW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2025-01-23T09:02:18.470Z,37.009666666667,-118.29966666667,6.46,1.73,md,33,108,0.07126,0.08,nc,nc75121626,2025-01-23T21:46:32.831Z,"17 km SSW of Big Pine, CA",earthquake,0.41,0.86,0.304,22,reviewed,nc,nc
 2025-01-23T08:57:59.623Z,62.6724,-149.9046,65.9,1.6,ml,,,,0.62,ak,ak025126gsm2,2025-01-23T09:00:59.370Z,"26 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-01-23T08:56:53.790Z,34.275,-117.111,2.3,1.23,ml,41,37,0.07913,0.2,ci,ci41033984,2025-01-23T16:45:43.431Z,"8 km N of Running Springs, CA",earthquake,0.23,0.43,0.09,27,reviewed,ci,ci
 2025-01-23T08:53:51.890Z,40.239166259766,-124.06649780273,-1.0199999809265,2.51,md,17,198,0.417,0.47,nc,nc75121616,2025-01-23T09:37:14.382Z,"21 km SE of Petrolia, CA",earthquake,2.02,8.06999969,0.26,11,automatic,nc,nc
