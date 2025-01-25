@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-25T11:28:17.040Z,34.296833,-117.0234985,2.16,1.12,ml,16,58,0.04261,0.14,ci,ci40850695,2025-01-25T11:30:19.496Z,"12 km WNW of Big Bear Lake, CA",earthquake,0.32,0.42,0.226,5,automatic,ci,ci
 2025-01-25T11:02:27.310Z,32.8353333,-115.6006667,11.93,0.94,ml,26,81,0.07191,0.3,ci,ci40850687,2025-01-25T11:06:28.983Z,"3 km WSW of Imperial, CA",earthquake,0.46,0.59,0.23,9,automatic,ci,ci
+2025-01-25T10:46:15.370Z,-19.1156,169.523,265.851,4.5,mb,50,109,3.985,1.14,us,us6000pmab,2025-01-25T11:26:29.040Z,"53 km NNE of Isangel, Vanuatu",earthquake,11.47,8.825,0.083,42,reviewed,us,us
 2025-01-25T10:42:13.750Z,34.4385,-117.9163333,10.69,0.66,ml,18,61,0.03393,0.11,ci,ci40850679,2025-01-25T10:48:04.718Z,"8 km S of Pearblossom, CA",earthquake,0.19,0.3,0.147,13,automatic,ci,ci
 2025-01-25T10:37:19.030Z,33.1958333,-116.0358333,9.69,1.28,ml,60,74,0.05357,0.21,ci,ci40850671,2025-01-25T10:48:13.900Z,"11 km ENE of Ocotillo Wells, CA",earthquake,0.17,0.45,0.194,26,automatic,ci,ci
 2025-01-25T10:37:15.297Z,39.1215,-119.0518,9.5,1.2,ml,12,84.29,0.048,0.1025,nn,nn00892498,2025-01-25T10:39:21.659Z,"17 km NNE of Yerington, Nevada",earthquake,,0.7,0.13,5,automatic,nn,nn
