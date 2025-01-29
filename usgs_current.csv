@@ -252,5 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-28T00:19:39.769Z,59.2112,-135.4433,11.1,3,ml,,,,0.9,ak,ak0251ab5vi0,2025-01-28T21:13:42.183Z,"2 km S of Haines, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2025-01-28T00:13:14.530Z,38.8395,-122.83216666667,2.83,-0.02,md,12,110,0.002748,0.02,nc,nc75124221,2025-01-28T20:50:18.916Z,"10 km NNW of The Geysers, CA",earthquake,0.37,0.28,0.389,12,reviewed,nc,nc
 2025-01-28T00:12:39.150Z,61.270333333333,-152.24,2.98,-0.71,ml,5,195,0.04136,0.09,av,av93030949,2025-01-28T21:02:34.620Z,"63 km WNW of Tyonek, Alaska",earthquake,0.46,1.1,0.079492164927571,4,reviewed,av,av
-2025-01-27T23:57:05.220Z,35.2465,-118.524,7.46,1.41,ml,34,52,0.09555,0.13,ci,ci40853151,2025-01-28T15:00:03.718Z,"14 km NNW of Tehachapi, CA",earthquake,0.15,0.59,0.227,28,reviewed,ci,ci
-2025-01-27T23:56:24.898Z,31.656,-104.47,6.3562,1.8,ml,27,72,0,0.2,tx,tx2025bxim,2025-01-28T11:11:14.286Z,"58 km S of Whites City, New Mexico",earthquake,0.8970600897406,0.63892207694941,0.1,17,reviewed,tx,tx
