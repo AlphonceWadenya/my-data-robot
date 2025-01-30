@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-30T13:50:30.759Z,39.1565,-119.0426,7.9,1.1,ml,10,79.59,0.013,0.1782,nn,nn00892742,2025-01-30T13:52:37.216Z,"21 km NNE of Yerington, Nevada",earthquake,,0.6,0.21,4,automatic,nn,nn
 2025-01-30T13:44:17.551Z,57.9828,-157.1974,10.7,3.3,ml,,,,0.37,ak,ak0251du4ijf,2025-01-30T13:46:16.179Z,"27 km SSE of Egegik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-30T13:34:27.580Z,19.291000366211,-155.41633605957,1.3300000429153,2.02999997,md,57,68,0.05117,0.289999992,hv,hv74605382,2025-01-30T13:37:44.530Z,"11 km NE of Pāhala, Hawaii",earthquake,0.29,0.469999999,0.0799999982,9,automatic,hv,hv
 2025-01-30T13:32:47.715Z,37.5578,-115.0427,3.6,1.5,ml,12,333.89,0.953,0.3486,nn,nn00892740,2025-01-30T13:35:07.742Z,"16 km ESE of Hiko, Nevada",earthquake,,71,0.29,4,automatic,nn,nn
