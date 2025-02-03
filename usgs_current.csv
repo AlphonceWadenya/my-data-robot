@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-03T04:20:41.446Z,36.568,25.6087,15.52,4.3,mb,37,83,1.404,0.64,us,us7000paxw,2025-02-03T04:39:16.040Z,"22 km NE of Firá, Greece",earthquake,4.35,5.278,0.097,30,reviewed,us,us
 2025-02-03T04:07:16.300Z,37.810832977295,-121.93866729736,7.7199997901917,1.55,md,15,56,0.02506,0.09,nc,nc75127341,2025-02-03T04:08:55.592Z,"3 km W of Blackhawk, CA",earthquake,0.27,0.519999981,0.23,12,automatic,nc,nc
 2025-02-03T04:06:44.647Z,31.622,-104.051,3.5897,1.6,ml,16,78,0,0.7,tx,tx2025cipt,2025-02-03T04:13:40.545Z,"41 km NW of Toyah, Texas",earthquake,0,1.2588887214661,0.2,13,automatic,tx,tx
-2025-02-03T04:04:02.078Z,62.1884,-153.542,0.2,3.8,ml,,,,1.13,ak,ak0251kaoe6d,2025-02-03T04:18:17.159Z,"101 km SSE of Nikolai, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-02-03T04:03:59.925Z,62.1622,-153.872,6.3,3.8,ml,,,,0.82,ak,ak0251kaoe6d,2025-02-03T07:49:05.702Z,"98 km SSE of Nikolai, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-02-03T03:45:32.242Z,56.9749,-154.5323,83,2.1,ml,,,,0.82,ak,ak0251kabtbc,2025-02-03T03:47:01.783Z,"22 km W of Akhiok, Alaska",earthquake,,3,,,automatic,ak,ak
 2025-02-03T03:44:37.020Z,35.6746674,-117.564003,3.79,1.16,ml,15,108,0.1146,0.12,ci,ci40178674,2025-02-03T03:46:41.532Z,"12 km ENE of Ridgecrest, CA",earthquake,0.3,1.43,0.348,7,automatic,ci,ci
 2025-02-03T03:37:34.790Z,38.833999633789,-122.80066680908,1.8799999952316,0.41,md,8,187,0.009186,0.02,nc,nc75127331,2025-02-03T03:39:09.533Z,"7 km WNW of Cobb, CA",earthquake,0.77,0.720000029,0.18,9,automatic,nc,nc
@@ -182,5 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-02T07:56:43.421Z,44.6864,-74.6509,7.924,2.2,ml,18,59,0.082,0.28,us,us7000parw,2025-02-02T23:44:19.375Z,"8 km W of Saint Regis Falls, New York",earthquake,1.84,2.261,0.128,8,reviewed,us,us
 2025-02-02T07:54:23.913Z,62.1336,-150.1735,12.6,1.6,ml,,,,0.59,ak,ak0251ip841j,2025-02-02T07:56:01.817Z,"17 km W of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-02T07:54:04.934Z,61.4713,-150.2985,86,2,ml,,,,1.06,ak,ak0251ip82kt,2025-02-02T08:05:50.872Z,"13 km SE of Susitna, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2025-02-02T07:53:03.370Z,61.2755,-152.25833333333,3.24,-0.34,ml,4,207,0.05093,0.04,av,av93480906,2025-02-02T16:43:47.650Z,"64 km WNW of Tyonek, Alaska",earthquake,0.43,0.77,0.070600399370094,4,reviewed,av,av
-2025-02-02T07:52:50.990Z,61.275833333333,-152.26116666667,3.17,-0.79,ml,4,208,0.05233,0.06,av,av93031559,2025-02-02T16:46:03.360Z,"64 km WNW of Tyonek, Alaska",earthquake,0.48,0.86,0.045478529073854,4,reviewed,av,av
