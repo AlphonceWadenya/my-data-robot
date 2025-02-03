@@ -180,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-02T10:14:29.640Z,33.3071667,-116.3425,10.28,0.87,ml,48,48,0.06156,0.18,ci,ci40178322,2025-02-02T16:19:16.830Z,"6 km NNE of Borrego Springs, CA",earthquake,0.2,0.37,0.151,18,reviewed,ci,ci
 2025-02-02T10:03:14.970Z,36.1141667,-117.783,7.35,1.42,ml,23,50,0.05829,0.18,ci,ci40178314,2025-02-02T16:18:24.125Z,"17 km ENE of Coso Junction, CA",earthquake,0.26,0.6,0.251,23,reviewed,ci,ci
 2025-02-02T09:59:31.750Z,32.1788333,-115.3871667,11.7,2.65,ml,12,243,0.3217,0.2,ci,ci40178306,2025-02-02T17:24:20.287Z,"21 km WSW of Alberto Oviedo Mota, B.C., MX",earthquake,3.45,15.91,0.199,26,automatic,ci,ci
-2025-02-02T09:56:27.730Z,37.470833333333,-119.35333333333,13.56,1.71,md,22,100,0.1676,0.21,nc,nc75127081,2025-02-02T21:19:15.707Z,"30 km NE of North Fork, CA",earthquake,0.48,1.3,0.254,10,reviewed,nc,nc
