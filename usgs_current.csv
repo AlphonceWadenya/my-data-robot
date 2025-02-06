@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-06T06:54:48.982Z,62.9087,-150.4524,82.2,1.9,ml,,,,0.47,ak,ak0251pas4ci,2025-02-06T06:56:55.739Z,"48 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-06T06:43:22.352Z,37.3661,-117.1308,0,1.1,ml,12,209.03,0.122,0.4294,nn,nn00892964,2025-02-06T06:45:51.010Z,"39 km SSE of Goldfield, Nevada",earthquake,,13.9,0.39,8,automatic,nn,nn
 2025-02-06T06:36:45.428Z,37.3751,-117.1343,1.2,0.7,ml,10,160.74,0.125,0.3945,nn,nn00892962,2025-02-06T06:39:10.667Z,"38 km SSE of Goldfield, Nevada",earthquake,,5.2,0.34,5,automatic,nn,nn
 2025-02-06T06:21:45.000Z,36.1046667,-117.8798333,3.84,0.89,ml,15,117,0.02398,0.13,ci,ci40180522,2025-02-06T06:25:11.834Z,"9 km NE of Coso Junction, CA",earthquake,0.24,0.35,0.206,16,automatic,ci,ci
@@ -297,4 +298,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-05T07:13:18.153Z,31.66,-104.359,7.1252,1.5,ml,17,69,0.1,0.2,tx,tx2025cmmx,2025-02-05T16:23:51.184Z,"57 km S of Whites City, New Mexico",earthquake,0.84572694591259,1.0175489711314,0.2,13,reviewed,tx,tx
 2025-02-05T07:01:18.500Z,13.8202,-91.5748,57.548,5.6,mww,78,79,0.736,1.33,us,us7000pbfb,2025-02-06T00:24:51.291Z,"51 km SW of Nueva Concepción, Guatemala",earthquake,6.51,7.632,0.037,71,reviewed,us,us
 2025-02-05T06:58:29.253Z,60.2473,-152.7834,113.2,1.8,ml,,,,0.39,ak,ak0251nn9l71,2025-02-05T07:00:41.668Z,"65 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-02-05T06:56:12.780Z,38.818000793457,-122.82466888428,2.579999923706,0.51,md,9,91,0.01261,0.01,nc,nc75128031,2025-02-05T06:59:02.109Z,"7 km NW of The Geysers, CA",earthquake,0.44,1.08000004,0.27,9,automatic,nc,nc
