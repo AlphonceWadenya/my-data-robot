@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-07T19:46:35.000Z,33.4003333,-116.3778333,5.42,0.99,ml,35,87,0.06851,0.22,ci,ci40181602,2025-02-07T19:52:05.086Z,"16 km N of Borrego Springs, CA",earthquake,0.27,1.08,0.116,25,automatic,ci,ci
 2025-02-07T19:35:19.697Z,32.392,-102.105,4.6281,2.1,ml,52,52,0,0.4,tx,tx2025crck,2025-02-07T19:42:05.003Z,"39 km WSW of Ackerly, Texas",earthquake,0,0.74720329046249,0.2,32,automatic,tx,tx
 2025-02-07T19:31:27.046Z,36.6174,-116.2549,0,0.5,ml,8,209.95,0.073,0.2765,nn,nn00893025,2025-02-07T19:33:28.027Z,"51 km NNW of Pahrump, Nevada",earthquake,,5,0.53,4,automatic,nn,nn
 2025-02-07T19:22:24.973Z,61.2703,-146.8366,18.1,2,ml,,,,0.56,ak,ak0251r5v6xt,2025-02-07T19:24:27.434Z,"30 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -159,7 +160,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-07T00:31:58.784Z,61.2708,-152.245,4.5,-0.1,ml,,,,0.04,ak,ak0251qulwa6,2025-02-07T07:42:43.708Z,"63 km WNW of Tyonek, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2025-02-07T00:29:48.010Z,33.6836667,-116.7083333,15.04,0.67,ml,16,102,0.0305,0.13,ci,ci40181186,2025-02-07T01:40:04.861Z,"6 km S of Idyllwild, CA",earthquake,0.26,0.39,0.173,13,reviewed,ci,ci
 2025-02-07T00:26:41.040Z,38.3365,-122.37566666667,6.44,2.19,md,64,29,0.042,0.15,nc,nc75128796,2025-02-07T05:47:18.820Z,"7 km SSW of Yountville, CA",earthquake,0.16,0.35,0.194,37,reviewed,nc,nc
-2025-02-07T00:12:34.756Z,58.4053,-154.6902,5.6,1.4,ml,,,,0.52,ak,ak0251quhu1f,2025-02-07T00:14:39.912Z,"94 km N of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-02-07T00:17:40.340Z,60.042166666667,-153.09,-2.5,-0.02,ml,5,133,0.02019,0.1,av,av93487136,2025-02-07T19:52:37.620Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.25,2.02,0.34597718558111,5,reviewed,av,av
+2025-02-07T00:12:34.756Z,58.4053,-154.6902,5.6,1.4,ml,,,,0.52,ak,ak0251quhu1f,2025-02-07T19:52:36.620Z,"94 km N of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-07T00:08:22.020Z,35.0638333,-118.3488333,4.69,1.85,ml,36,38,0.07331,0.15,ci,ci40181162,2025-02-07T18:13:04.410Z,"12 km SE of Tehachapi, CA",earthquake,0.15,0.41,0.178,26,reviewed,ci,ci
 2025-02-07T00:07:39.930Z,60.1802,-153.241,150.8,1.8,ml,,,,0.28,ak,ak0251qugrut,2025-02-07T00:09:30.102Z,"59 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-02-07T00:02:07.928Z,64.9709,-147.3715,2.5,1.4,ml,,,,0.34,ak,ak0251qufmt4,2025-02-07T00:04:00.219Z,"11 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
