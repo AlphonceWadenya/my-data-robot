@@ -145,7 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-06T20:02:53.281Z,58.4627,-155.0658,44.1,0.1,ml,,,,0.9,ak,ak0251pit2ew,2025-02-07T06:00:32.590Z,"96 km ESE of King Salmon, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-02-06T20:02:34.514Z,46.744,153.0793,34.978,4.4,mb,61,183,7.032,0.55,us,us7000pbxx,2025-02-07T14:07:42.040Z,"Kuril Islands",earthquake,11.35,6.513,0.075,52,reviewed,us,us
 2025-02-06T19:56:52.200Z,60.62,-150.4287,37.9,3.4,ml,,,,0.58,ak,ak0251pij6tf,2025-02-06T22:24:48.509Z,"20 km ENE of Sterling, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2025-02-06T19:39:17.482Z,60.8185,-148.2493,9,2.6,ml,,,,0.66,ak,ak0251pifh2o,2025-02-06T19:41:08.957Z,"24 km ENE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-02-06T19:39:17.482Z,60.8185,-148.2493,9,2.6,ml,,,,0.66,ak,ak0251pifh2o,2025-02-07T14:20:48.040Z,"24 km ENE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-06T19:35:48.890Z,57.049166666667,-135.65983333333,9,0.22,ml,4,172,0.0275,0.17,av,av93032294,2025-02-07T05:51:24.940Z,"19 km W of Sitka, Alaska",earthquake,2.29,1.21,0.25320490330126,4,reviewed,av,av
 2025-02-06T19:35:26.150Z,57.0425,-135.67183333333,9.02,0.05,ml,4,189,0.02046,0.14,av,av93486796,2025-02-07T05:49:34.310Z,"20 km W of Sitka, Alaska",earthquake,2.03,1.02,0.17409701099125,4,reviewed,av,av
 2025-02-06T19:31:59.990Z,47.665,-120.23683333333,3.32,0.61,ml,8,110,0.006883,0.1,uw,uw62065992,2025-02-06T20:15:19.490Z,"2 km WSW of Entiat, Washington",earthquake,0.25,0.5,0.11906402732371,5,reviewed,uw,uw
