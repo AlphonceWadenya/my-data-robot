@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-08T08:52:19.200Z,33.64,-116.6976667,14.04,0.6,ml,26,53,0.03503,0.16,ci,ci40182010,2025-02-08T08:57:10.150Z,"10 km NNW of Anza, CA",earthquake,0.23,0.38,0.182,15,automatic,ci,ci
+2025-02-08T08:50:47.460Z,33.6501667,-116.7006667,14.76,0.53,ml,27,58,0.02918,0.18,ci,ci40182002,2025-02-08T08:55:20.071Z,"10 km S of Idyllwild, CA",earthquake,0.3,0.41,0.194,13,automatic,ci,ci
 2025-02-08T08:44:40.909Z,58.1299,-151.6463,21,2,ml,,,,0.1,ak,ak0251smzire,2025-02-08T08:47:31.982Z,"55 km ENE of Ouzinkie, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-02-08T08:41:01.240Z,38.838832855225,-122.83066558838,1.8799999952316,1.01,md,18,79,0.003773,0.01,nc,nc75129802,2025-02-08T08:42:40.034Z,"9 km NNW of The Geysers, CA",earthquake,0.24,0.49000001,0.24,20,automatic,nc,nc
 2025-02-08T08:33:15.162Z,35.06044006,-97.5641861,6.897966385,1.98,ml,11,115.324173,0.0254024379,1.013019443,ok,ok2025cscb,2025-02-08T08:36:24.468Z,"4 km S of Cole, Oklahoma",earthquake,4.355479463,6.045170174,0.54,8,automatic,ok,ok
@@ -242,4 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-07T09:21:44.510Z,38.792,-122.77816666667,1.89,0.31,md,9,96,0.007711,0.01,nc,nc75128906,2025-02-07T23:44:36.206Z,"2 km NW of The Geysers, CA",earthquake,0.3,0.63,0.286,9,reviewed,nc,nc
 2025-02-07T09:17:22.730Z,58.431666666667,-154.89716666667,3.18,0.8,ml,7,159,0.07021,0.16,av,av93487806,2025-02-08T01:34:28.380Z,"99 km NNW of Karluk, Alaska",earthquake,0.49,1.96,0.056376459327801,2,reviewed,av,av
 2025-02-07T09:05:23.540Z,38.827835083008,-122.80216979981,1.539999961853,1.02,md,12,72,0.007601,0.02,nc,nc75128896,2025-02-07T09:08:08.490Z,"7 km NNW of The Geysers, CA",earthquake,0.32,0.720000029,0.23,15,automatic,nc,nc
-2025-02-07T08:57:22.200Z,61.326666666667,-152.27883333333,-0.06,-0.71,ml,7,183,0.08143,0.07,av,av93487771,2025-02-08T01:18:52.990Z,"67 km WNW of Beluga, Alaska",earthquake,0.3,2.97,0.15250176006607,8,reviewed,av,av
