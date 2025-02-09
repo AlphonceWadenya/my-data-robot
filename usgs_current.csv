@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-09T07:29:43.426Z,57.5316,-150.2127,0,3.4,ml,,,,0.52,ak,ak0251u9u8ax,2025-02-09T07:32:35.790Z,"124 km E of Chiniak, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-09T07:23:12.327Z,60.391,-152.6854,110.7,1.5,ml,,,,0.55,ak,ak0251u9sveo,2025-02-09T07:25:21.070Z,"67 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-09T07:20:02.570Z,40.304832458496,-124.40983581543,8.4099998474121,1.67,md,10,293,0.05398,0.06,nc,nc75130472,2025-02-09T07:21:38.737Z,"11 km W of Petrolia, CA",earthquake,1.7,0.540000021,0.09,6,automatic,nc,nc
 2025-02-09T07:17:55.446Z,62.2722,-151.2955,70.8,1.5,ml,,,,0.42,ak,ak0251u9rofs,2025-02-09T07:19:57.000Z,"31 km N of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
