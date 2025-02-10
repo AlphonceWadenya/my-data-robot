@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-02-10T22:48:59.148Z,61.1574,-147.2118,5.8,1.5,ml,,,,0.4,ak,ak0251w6f6hm,2025-02-10T22:50:50.263Z,"43 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-10T22:44:33.370Z,34.1698333,-117.2663333,6.02,1.14,ml,46,27,0.06765,0.19,ci,ci40183810,2025-02-10T22:49:08.317Z,"5 km NNE of San Bernardino, CA",earthquake,0.16,0.56,0.147,29,automatic,ci,ci
-2025-02-10T22:37:25.488Z,36.6491,25.6481,10,5.1,mww,105,33,1.491,0.98,us,us7000pcs7,2025-02-10T22:51:49.040Z,"30 km SW of Amorgós, Greece",earthquake,4.85,1.806,0.043,51,reviewed,us,us
+2025-02-10T22:37:25.488Z,36.6491,25.6481,10,5.1,mww,105,33,1.491,0.98,us,us7000pcs7,2025-02-10T22:56:31.382Z,"30 km SW of Amorgós, Greece",earthquake,4.85,1.806,0.043,51,reviewed,us,us
 2025-02-10T22:34:17.178Z,31.644,-104.295,4.16,1.6,ml,18,69,0,0.3,tx,tx2025cwuu,2025-02-10T22:44:06.892Z,"59 km S of Whites City, New Mexico",earthquake,0,1.2974590063095,0.2,14,automatic,tx,tx
 2025-02-10T22:26:54.930Z,36.0261667,-117.78,1.16,1.08,ml,22,68,0.01199,0.16,ci,ci40183794,2025-02-10T22:31:53.147Z,"15 km NE of Little Lake, CA",earthquake,0.19,0.26,0.171,21,automatic,ci,ci
 2025-02-10T22:26:02.810Z,33.3776667,-116.3391667,8.47,0.82,ml,22,96,0.02907,0.22,ci,ci40183786,2025-02-10T22:31:06.402Z,"14 km NNE of Borrego Springs, CA",earthquake,0.36,0.57,0.107,16,automatic,ci,ci
@@ -14,6 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-10T21:39:43.090Z,34.079,-118.2006667,10.66,1.4,ml,18,140,0.04583,0.17,ci,ci40183698,2025-02-10T21:44:59.304Z,"5 km S of Highland Park, CA",earthquake,0.41,0.38,0.461,25,automatic,ci,ci
 2025-02-10T21:37:36.178Z,36.7125,25.788,10,4,mb,29,103,1.597,0.76,us,us7000pcrr,2025-02-10T22:02:31.037Z,"16 km SW of Amorgós, Greece",earthquake,5.66,1.958,0.196,7,reviewed,us,us
 2025-02-10T21:35:16.930Z,33.4975,-116.7908333,7.42,0.4,ml,11,202,0.01576,0.12,ci,ci40183682,2025-02-10T21:39:54.276Z,"9 km NE of Aguanga, CA",earthquake,0.47,0.52,0.107,9,automatic,ci,ci
+2025-02-10T21:19:33.760Z,19.185833333333,-155.48333333333,36.13,1.41,ml,11,120,0.0363,0.08,hv,hv74613012,2025-02-10T22:55:31.190Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.94,1.24,0.053864423560045,3,reviewed,hv,hv
 2025-02-10T21:13:45.510Z,35.0978333,-118.3136667,3.42,2.21,ml,4,195,0.1094,0.29,ci,ci40183666,2025-02-10T21:20:44.923Z,"13 km ESE of Tehachapi, CA",earthquake,1.7,3.18,0.219,32,automatic,ci,ci
 2025-02-10T21:12:19.990Z,35.0578333,-118.3466667,0.16,1.3,ml,32,44,0.06721,0.27,ci,ci40183650,2025-02-10T21:16:37.980Z,"12 km SE of Tehachapi, CA",earthquake,0.33,0.71,0.159,27,automatic,ci,ci
 2025-02-10T21:06:44.025Z,17.9045,57.5178,10,4.2,mb,19,242,7.112,0.69,us,us7000pcri,2025-02-10T21:29:21.040Z,"262 km SSE of Haymā’, Oman",earthquake,14.66,2,0.159,11,reviewed,us,us
