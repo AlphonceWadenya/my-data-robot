@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-11T22:39:58.320Z,40.224666595459,-121.16316986084,-1.1699999570847,2.35,md,15,137,0.1961,0.2,nc,nc75131907,2025-02-11T22:41:42.299Z,"1 km ENE of Almanor, CA",earthquake,0.69,16.2399998,0.08,14,automatic,nc,nc
 2025-02-11T22:30:45.760Z,32.7511667,-116.9123333,6.21,1.31,ml,19,98,0.02972,0.22,ci,ci40184514,2025-02-11T22:34:06.821Z,"2 km ENE of Rancho San Diego, CA",earthquake,0.36,1.02,0.23,15,automatic,ci,ci
 2025-02-11T22:17:48.375Z,63.3024,-151.2588,3.4,2,ml,,,,0.64,ak,ak0251xtruyd,2025-02-11T22:20:17.311Z,"35 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-11T22:13:31.640Z,46.196833333333,-122.1825,6.56,0.05,ml,13,97,0.00396,0.08,uw,uw62066987,2025-02-11T22:34:18.470Z,"37 km NNE of Amboy, Washington",earthquake,0.77,0.43,0.12985293465928,8,reviewed,uw,uw
@@ -257,7 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-10T22:48:38.736Z,35.0885,-5.5774,10,5.1,mb,70,77,2.317,0.54,us,us7000pcsb,2025-02-11T22:20:10.457Z,"29 km WSW of Chefchaouen, Morocco",earthquake,5.99,1.787,0.044,170,reviewed,us,us
 2025-02-10T22:47:05.872Z,-23.1497,-66.8109,204.851,4.7,mb,44,47,1.275,1.03,us,us7000pcs9,2025-02-10T23:36:21.040Z,"116 km W of El Aguilar, Argentina",earthquake,10.08,6.911,0.053,110,reviewed,us,us
 2025-02-10T22:44:33.390Z,34.1723333,-117.2635,6.81,1.16,ml,45,30,0.04092,0.19,ci,ci40183810,2025-02-11T20:47:08.404Z,"6 km NNE of San Bernardino, CA",earthquake,0.17,0.47,0.088,16,reviewed,ci,ci
-2025-02-10T22:41:02.620Z,45.088666666667,-111.73216666667,-2,1.5,ml,17,107,0.1195,0.19,mb,mb90072378,2025-02-11T04:45:59.620Z,"28 km SE of Virginia City, Montana",quarry blast,0.71,31.61,0.14835104764878,12,reviewed,mb,mb
-2025-02-10T22:39:18.060Z,57.048666666667,-135.72783333333,5.14,-0.32,ml,4,123,0.01129,0.17,av,av93032524,2025-02-11T06:21:30.470Z,"24 km W of Sitka, Alaska",earthquake,1.01,1.09,0.22774715763943,4,reviewed,av,av
-2025-02-10T22:38:48.250Z,57.0575,-135.7215,3.86,-0.45,ml,4,118,0.01527,0.03,av,av93032519,2025-02-11T06:17:49.340Z,"23 km W of Sitka, Alaska",earthquake,0.45,0.62,0.30549327702397,4,reviewed,av,av
-2025-02-10T22:38:08.530Z,57.050333333333,-135.72233333333,4.89,-0.34,ml,4,107,0.009706,0.11,av,av93032514,2025-02-11T06:14:59.460Z,"23 km W of Sitka, Alaska",earthquake,0.75,0.82,0.1534688258239,4,reviewed,av,av
