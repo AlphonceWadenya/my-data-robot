@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-12T10:44:25.353Z,64.4792,-146.8838,5,1.2,ml,,,,0.63,ak,ak0251zabqqv,2025-02-12T10:46:11.264Z,"5 km S of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-12T10:37:39.806Z,61.9755,-143.9614,0.1,1.4,ml,,,,0.46,ak,ak0251zaa9uk,2025-02-12T10:39:29.499Z,"57 km NNE of Chitina, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-02-12T10:18:16.083Z,61.2554,-150.7849,53.2,1.6,ml,,,,0.33,ak,ak0251za65ew,2025-02-12T10:20:59.726Z,"20 km NE of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-02-12T10:11:54.400Z,36.2075,-118.0218333,2.84,1.64,ml,26,55,0.1622,0.15,ci,ci40184746,2025-02-12T10:15:28.384Z,"8 km S of Olancha, CA",earthquake,0.2,0.77,0.19,25,automatic,ci,ci
@@ -228,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-11T10:50:08.950Z,35.6881667,-117.5261667,9.3,0.57,ml,17,75,0.08653,0.14,ci,ci40184162,2025-02-11T15:24:23.523Z,"14 km SW of Searles Valley, CA",earthquake,0.3,0.71,0.099,9,reviewed,ci,ci
 2025-02-11T10:49:28.816Z,36.6979,-116.1508,3.3,-0.2,ml,11,118.4,0.011,0.0458,nn,nn00893305,2025-02-11T15:55:00.459Z,"45 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.16,3,reviewed,nn,nn
 2025-02-11T10:47:14.470Z,38.827667236328,-122.85549926758,2.2300000190735,0.44,md,9,106,0.01662,0.01,nc,nc75131652,2025-02-11T10:48:52.327Z,"10 km NW of The Geysers, CA",earthquake,0.39,0.939999998,0.27,10,automatic,nc,nc
-2025-02-11T10:42:06.060Z,44.388166666667,-110.53783333333,12.6,1.12,md,5,161,0.1244,0.17,uu,uu80002678,2025-02-11T14:51:31.480Z,"54 km SE of West Yellowstone, Montana",earthquake,0.84,3.43,0.15102967319765,7,reviewed,uu,uu
-2025-02-11T10:41:58.180Z,44.368333333333,-110.545,9.48,0.8,md,6,130,0.105,0.15,uu,uu80102046,2025-02-11T14:48:21.220Z,"55 km SE of West Yellowstone, Montana",earthquake,0.62,2.17,0.4780582818599,6,reviewed,uu,uu
