@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-12T06:09:26.930Z,38.804164886475,-122.72716522217,3.1500000953674,0.81,md,14,114,0.02219,0.01,nc,nc75132072,2025-02-12T06:11:03.756Z,"2 km SSW of Cobb, CA",earthquake,0.34,1.17999995,0.15,14,automatic,nc,nc
 2025-02-12T05:52:43.835Z,36.6486,-116.2554,1,0,ml,10,171.57,0.067,0.1092,nn,nn00893351,2025-02-12T05:54:32.293Z,"53 km W of Indian Springs, Nevada",earthquake,,5.7,0.19,6,automatic,nn,nn
 2025-02-12T05:45:41.420Z,63.324,-145.1444,0,1.9,ml,,,,0.83,ak,ak0251z7ctoe,2025-02-12T05:48:01.404Z,"35 km NE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-12T05:42:03.230Z,33.4728333,-116.5781667,10.33,0.87,ml,36,68,0.02965,0.16,ci,ci40184674,2025-02-12T05:54:32.401Z,"13 km SE of Anza, CA",earthquake,0.18,0.29,0.19,28,automatic,ci,ci
@@ -255,5 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-11T06:17:55.560Z,61.319166666667,-152.27316666667,2.42,-0.78,ml,6,243,0.07695,0.14,av,av93032549,2025-02-11T22:19:56.630Z,"66 km WNW of Beluga, Alaska",earthquake,0.65,1.94,0.17390435250932,7,reviewed,av,av
 2025-02-11T06:16:08.155Z,36.6501,-116.2724,7.8,2,ml,36,81.29,0.054,0.096,nn,nn00893278,2025-02-11T15:33:18.771Z,"52 km ESE of Beatty, Nevada",earthquake,,0.6,0.4,8,reviewed,nn,nn
 2025-02-11T06:12:56.930Z,17.941,-66.822166666667,10.84,2.38,md,10,215,0.05389,0.08,pr,pr71472588,2025-02-11T06:24:43.620Z,"5 km S of Indios, Puerto Rico",earthquake,0.52,0.44,0.11223904107852,8,reviewed,pr,pr
-2025-02-11T06:09:53.534Z,60.4588,-151.7366,72,1.6,ml,,,,0.13,ak,ak0251xk77y1,2025-02-11T06:11:08.292Z,"25 km W of Kalifornsky, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2025-02-11T06:03:50.227Z,47.5027,-115.8195,5,3.3,ml,38,38,0.466,0.8,us,us7000pcu1,2025-02-12T04:52:03.558Z,"3 km NNW of Mullan, Idaho",earthquake,2.88,1.908,0.031,138,reviewed,us,us
