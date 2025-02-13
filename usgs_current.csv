@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T05:59:25.531Z,61.5927,-148.7114,35.9,2.3,ml,,,,0.12,ak,ak02520uz4yx,2025-02-13T07:59:45.040Z,"12 km ESE of Lazy Mountain, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-13T05:49:50.484Z,41.9001,-119.606,7.249,2.9,ml,36,84,0.347,0.8,us,us7000pdbt,2025-02-13T07:52:36.040Z,"45 km E of Fort Bidwell, California",earthquake,2.17,5.434,0.043,72,reviewed,us,us
 2025-02-13T05:40:46.311Z,40.8038,-119.9672,0,2.5,ml,9,332.06,0.658,0.3477,nn,nn00893425,2025-02-13T05:43:40.293Z,"54 km WNW of Gerlach, Nevada",earthquake,,36.7,0.42,6,automatic,nn,nn
-2025-02-13T05:40:27.569Z,41.9235,-119.629,6.104,3,ml,41,42,0.318,0.73,us,us7000pdbr,2025-02-13T07:56:42.432Z,"43 km E of Fort Bidwell, California",earthquake,2.93,6.055,0.041,80,reviewed,us,us
+2025-02-13T05:40:27.569Z,41.9235,-119.629,6.104,3,ml,41,42,0.318,0.73,us,us7000pdbr,2025-02-13T09:47:02.764Z,"43 km E of Fort Bidwell, California",earthquake,2.93,6.055,0.041,80,reviewed,us,us
 2025-02-13T05:36:10.433Z,31.642,-104.289,4.2483,1.5,ml,17,69,0,0.2,tx,tx2025dazs,2025-02-13T05:44:37.366Z,"59 km NW of Toyah, Texas",earthquake,0,1.2945115566254,0.1,13,automatic,tx,tx
 2025-02-13T05:35:16.408Z,31.421,-103.523,4.642,1.8,ml,9,109,0,0.8,tx,tx2025dazr,2025-02-13T05:44:14.379Z,"2 km W of Pecos, Texas",earthquake,0,1.7415806055069,0.2,7,automatic,tx,tx
 2025-02-13T05:28:21.180Z,38.788333892822,-122.76816558838,-0.87000000476837,0.69,md,6,113,0.01394,0.05,nc,nc75132652,2025-02-13T05:29:58.594Z,"2 km NNW of The Geysers, CA",earthquake,0.43,1.61000001,0.43,5,automatic,nc,nc
