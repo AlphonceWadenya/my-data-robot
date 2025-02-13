@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-13T07:56:16.560Z,38.777667999268,-122.71616363525,1.710000038147,1.05,md,10,78,0.01625,0.02,nc,nc75132727,2025-02-13T07:57:53.815Z,"2 km WNW of Anderson Springs, CA",earthquake,0.29,0.409999996,0.19,12,automatic,nc,nc
 2025-02-13T07:22:53.800Z,38.79700088501,-122.73850250244,1.6399999856949,1.28,md,15,104,0.01381,0.03,nc,nc75132722,2025-02-13T07:24:28.658Z,"3 km NE of The Geysers, CA",earthquake,0.31,0.439999998,0.14,16,automatic,nc,nc
 2025-02-13T07:22:46.970Z,33.0091667,-115.3995,17.19,1.47,ml,12,243,0.1501,0.27,ci,ci40185418,2025-02-13T07:27:18.993Z,"13 km ENE of Brawley, CA",earthquake,1.31,2.03,0.225,13,automatic,ci,ci
 2025-02-13T07:21:23.990Z,34.0461667,-117.2315,13.47,0.96,ml,53,28,0.07286,0.2,ci,ci40185410,2025-02-13T07:26:02.986Z,"3 km E of Loma Linda, CA",earthquake,0.19,0.4,0.171,30,automatic,ci,ci
