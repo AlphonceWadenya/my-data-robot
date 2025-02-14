@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-14T22:55:13.790Z,38.8313331604,-122.813331604,1.710000038147,1.79,md,26,42,0.008325,0.02,nc,nc75133587,2025-02-14T22:56:52.423Z,"8 km NNW of The Geysers, CA",earthquake,0.18,0.300000012,0.14,31,automatic,nc,nc
 2025-02-14T22:49:45.475Z,59.2105,-138.8834,11.2,2.4,ml,,,,1.06,ak,ak02522skr4j,2025-02-14T22:52:25.241Z,"60 km SE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-14T22:48:11.322Z,36.0816,-115.2357,15.9,1.4,ml,16,297.58,0.824,0.4393,nn,nn00893498,2025-02-14T22:50:42.389Z,"3 km SSE of Spring Valley, Nevada",earthquake,,1.2,0.26,8,automatic,nn,nn
 2025-02-14T22:26:00.450Z,35.6733322,-117.5214996,5.07,2.04,ml,30,76,0.08005,0.15,ci,ci40186106,2025-02-14T22:37:17.850Z,"15 km SW of Searles Valley, CA",earthquake,0.27,0.7,0.248,24,automatic,ci,ci
