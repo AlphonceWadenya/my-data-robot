@@ -234,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-16T00:13:39.144Z,13.028,-91.1641,10,4.7,mww,56,193,1.57,1.12,us,us7000pe1b,2025-02-16T00:32:03.040Z,"106 km SSW of Puerto San José, Guatemala",earthquake,6.09,1.919,0.073,18,reviewed,us,us
 2025-02-16T00:12:19.300Z,33.6521667,-116.732,13.08,0.99,ml,32,65,0.05133,0.14,ci,ci40186586,2025-02-16T00:21:15.854Z,"10 km S of Idyllwild, CA",earthquake,0.2,0.33,0.351,27,automatic,ci,ci
 2025-02-16T00:01:05.234Z,64.9847,-147.3695,3.1,1.5,ml,,,,0.47,ak,ak02525q9jbv,2025-02-16T00:03:15.571Z,"12 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-02-15T23:56:55.410Z,40.23099899292,-124.63666534424,12.180000305176,2.92,md,15,292,0.2322,0.14,nc,nc75134282,2025-02-16T02:09:56.040Z,"32 km W of Petrolia, CA",earthquake,4.17,2.6500001,0.04,8,automatic,nc,nc
