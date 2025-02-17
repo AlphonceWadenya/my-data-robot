@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T14:21:04.536Z,61.3102,-152.2608,2.3,0.7,ml,,,,0.2,ak,ak02527m98k5,2025-02-17T14:23:21.562Z,"66 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-17T14:19:31.108Z,66.8173,-147.6679,0,2.1,ml,,,,1.18,ak,ak02527m8v6e,2025-02-17T14:22:26.270Z,"52 km NNW of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-17T14:07:38.599Z,32.111,-102.125,4.4478,0.8,ml,10,77,0,0.4,tx,tx2025diyp,2025-02-17T14:16:41.679Z,"13 km NNW of Midland, Texas",earthquake,0,1.7482250928879,0.2,7,automatic,tx,tx
-2025-02-17T14:04:32.257Z,32.103,-102.134,7.8373,1.1,ml,14,103,0,0.3,tx,tx2025diyn,2025-02-17T14:16:22.680Z,"12 km NNW of Midland, Texas",earthquake,0,2.2820010185242,0.2,9,automatic,tx,tx
+2025-02-17T14:04:33.415Z,32.108,-102.135,6.6895,1.1,ml,13,79,0,0.1,tx,tx2025diyn,2025-02-17T15:42:24.225Z,"13 km NNW of Midland, Texas",earthquake,0.7423663973761,1.1117282085005,0.2,13,reviewed,tx,tx
 2025-02-17T13:46:54.760Z,66.8015,-147.4569,1.9,3,ml,,,,0.66,ak,ak02527lt9qc,2025-02-17T13:49:24.091Z,"49 km N of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-17T13:45:20.605Z,61.6809,-146.489,21.4,1.8,ml,,,,0.72,ak,ak02527lszdo,2025-02-17T13:47:39.269Z,"37 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-17T13:40:31.316Z,31.682,-104.343,7.7405,1.9,ml,21,67,0.1,0.3,tx,tx2025dixt,2025-02-17T15:06:25.003Z,"54 km S of Whites City, New Mexico",earthquake,0.89699817310139,0.98837720984726,0.1,17,reviewed,tx,tx
@@ -216,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-16T15:58:11.550Z,38.817665100098,-122.82333374023,2.5099999904633,0.96,md,9,88,0.0099,0.01,nc,nc75134672,2025-02-16T15:59:45.754Z,"7 km NW of The Geysers, CA",earthquake,0.53,1.30999994,0.2,12,automatic,nc,nc
 2025-02-16T15:48:37.350Z,-4.6473,147.4183,171.743,4.6,mb,24,96,2.587,0.96,us,us7000pe4q,2025-02-16T18:26:34.040Z,"191 km ENE of Madang, Papua New Guinea",earthquake,8.64,7.886,0.125,22,reviewed,us,us
 2025-02-16T15:48:17.150Z,32.5996667,-115.7261667,8.71,2.14,ml,46,53,0.04952,0.26,ci,ci40187002,2025-02-16T15:59:09.650Z,"14 km W of Progreso, B.C., MX",earthquake,0.26,0.79,0.22,27,automatic,ci,ci
-2025-02-16T15:44:33.602Z,68.6227,-165.9372,5,2.8,ml,24,235,1.261,0.46,us,us7000pe4e,2025-02-16T16:27:57.040Z,"44 km NE of Point Hope, Alaska",earthquake,4.58,1.98,0.128,8,reviewed,us,us
-2025-02-16T15:42:50.039Z,35.13066667,-97.55783333,3.96,1.54,ml,72,35,0.06658693337,0.4,ok,ok2025dhgf,2025-02-17T13:58:40.145Z,"3 km NNE of Cole, Oklahoma",earthquake,,0.9,0.19,31,reviewed,ok,ok
