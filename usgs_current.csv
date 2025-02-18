@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-02-18T19:21:57.970Z,35.3440018,-117.8068314,5.14,1.53,ml,19,98,0.08279,0.21,ci,ci40188362,2025-02-18T19:24:04.706Z,"16 km WSW of Johannesburg, CA",earthquake,0.42,1.63,0.313,4,automatic,ci,ci
+2025-02-18T19:21:57.970Z,35.3440018,-117.8068314,5.14,1.53,ml,19,98,0.08279,0.21,ci,ci40188362,2025-02-18T19:32:55.140Z,"16 km WSW of Johannesburg, CA",earthquake,0.42,1.63,0.313,4,automatic,ci,ci
 2025-02-18T18:51:53.337Z,-6.0889,130.7765,117.291,4.9,mww,80,49,1.782,0.66,us,us7000pekj,2025-02-18T19:12:36.040Z,"224 km WSW of Tual, Indonesia",earthquake,8.1,6.706,0.08,15,reviewed,us,us
 2025-02-18T18:48:04.510Z,34.3378333,-116.848,-1.59,1.24,ml,24,73,0.0198,0.15,ci,ci40188330,2025-02-18T18:52:13.957Z,"8 km N of Big Bear City, CA",earthquake,0.23,0.45,0.222,31,automatic,ci,ci
 2025-02-18T18:46:07.900Z,38.826999664307,-122.80516815185,1.2799999713898,0.77,md,10,72,0.005257,0.01,nc,nc75135782,2025-02-18T18:47:46.247Z,"7 km NNW of The Geysers, CA",earthquake,0.32,0.870000005,0.3,10,automatic,nc,nc
@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T20:01:20.600Z,17.959166666667,-66.835333333333,14.61,2.48,md,12,204,0.0447,0.11,pr,pr71472963,2025-02-17T20:27:22.130Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.54,0.51,0.1582409750979,6,reviewed,pr,pr
 2025-02-17T19:56:26.127Z,13.7486,-90.7645,80.799,4.4,mb,46,155,0.82,1.01,us,us7000pebq,2025-02-17T23:05:20.143Z,"20 km SSE of Puerto San José, Guatemala",earthquake,7.07,8.24,0.072,55,reviewed,us,us
 2025-02-17T19:45:31.244Z,31.59,-104.525,4.3613,1.4,ml,17,157,0.1,0.5,tx,tx2025djjr,2025-02-17T20:08:59.829Z,"66 km SSW of Whites City, New Mexico",earthquake,0,1.6925719976425,0.1,13,automatic,tx,tx
-2025-02-17T19:32:15.996Z,55.3463,-161.8329,118.918,3.3,ml,26,180,1.035,1.05,us,us7000pebl,2025-02-17T19:46:11.295Z,"44 km NE of King Cove, Alaska",earthquake,9.2,13.795,0.074,24,reviewed,us,us
