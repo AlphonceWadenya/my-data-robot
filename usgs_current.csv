@@ -201,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-18T21:07:04.560Z,38.812999725342,-122.82382965088,2.25,1.16,md,25,49,0.005872,0.02,nc,nc75135827,2025-02-18T21:08:41.470Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.360000014,0.16,26,automatic,nc,nc
 2025-02-18T21:02:11.120Z,35.34,-117.8028333,6.18,1.42,ml,24,98,0.0805,0.18,ci,ci40188458,2025-02-19T18:49:38.411Z,"16 km WSW of Johannesburg, CA",earthquake,0.27,0.69,0.189,4,reviewed,ci,ci
 2025-02-18T20:54:05.730Z,42.090666666667,-123.6435,-1.13,1.26,md,4,154,0.06201,0.03,uw,uw62076426,2025-02-19T20:09:50.030Z,"4 km NNW of Takilma, Oregon",explosion,0.54,31.61,0.25052578917531,4,reviewed,uw,uw
-2025-02-18T20:49:58.378Z,60.7795,-149.3198,24.1,2.8,ml,,,,0.59,ak,ak02529djawn,2025-02-19T04:24:53.617Z,"13 km SSE of Sunrise, Alaska",earthquake,,0.5,,,automatic,ak,ak
