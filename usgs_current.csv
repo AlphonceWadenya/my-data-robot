@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-21T21:26:32.000Z,49.6952,-123.5958,9,4.7,mw,14,,,,ew,ew1740173210,2025-02-21T21:26:57.000Z,"27 km NNE of Sechelt, Canada",earthquake,7.37,3.535,0.2,14,automatic,ew,ew
 2025-02-21T21:09:57.060Z,38.837833404541,-122.80766296387,2.1400001049042,0.41,md,10,73,0.01354,0.02,nc,nc75136846,2025-02-21T21:11:35.056Z,"8 km WNW of Cobb, CA",earthquake,0.37,1.28999996,0.32,11,automatic,nc,nc
 2025-02-21T20:45:47.940Z,38.830501556396,-122.81566619873,1.8200000524521,1.65,md,28,46,0.008333,0.02,nc,nc75136826,2025-02-21T20:48:42.810Z,"8 km NNW of The Geysers, CA",earthquake,0.17,0.319999993,0.17,31,automatic,nc,nc
 2025-02-21T20:45:43.609Z,58.2919,-151.3749,44.8,2.8,ml,,,,0.45,ak,ak0252ec4gd4,2025-02-21T20:48:23.704Z,"78 km ENE of Ouzinkie, Alaska",earthquake,,2.7,,,automatic,ak,ak
