@@ -202,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T20:07:55.350Z,38.822666168213,-122.8424987793,1.9400000572205,0.76,md,12,80,0.005851,0.02,nc,nc75136687,2025-02-20T20:09:30.615Z,"9 km NW of The Geysers, CA",earthquake,0.33,0.689999998,0.16,13,automatic,nc,nc
 2025-02-20T20:05:57.855Z,62.3668,-149.0437,0,1.8,ml,,,,0.79,ak,ak0252cockbt,2025-02-20T20:07:54.456Z,"47 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-20T20:01:03.500Z,19.131166666667,-66.3835,23.89,3.14,md,10,271,0.8083,0.23,pr,pr71473128,2025-02-20T20:17:38.490Z,"73 km N of Brenas, Puerto Rico",earthquake,1.38,18.43,0.073510824009879,8,reviewed,pr,pr
-2025-02-20T19:57:51.080Z,37.574001312256,-122.43116760254,8.1099996566772,1.65,md,14,108,0.01207,0.05,nc,nc75136682,2025-02-20T19:59:25.413Z,"5 km W of Hillsborough, CA",earthquake,0.31,0.540000021,0.39,7,automatic,nc,nc
