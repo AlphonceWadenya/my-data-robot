@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-02-25T09:45:34.980Z,34.0483322,-117.2661667,16.45,1.96,ml,103,22,0.05858,0.2,ci,ci40193850,2025-02-25T09:47:41.415Z,"0 km W of Loma Linda, CA",earthquake,0.18,0.38,0.392,24,automatic,ci,ci
+2025-02-25T09:47:11.380Z,38.831165313721,-122.81833648682,1.4500000476837,1.08,md,19,51,0.01009,0.02,nc,nc75138881,2025-02-25T09:48:49.488Z,"8 km NNW of The Geysers, CA",earthquake,0.21,0.460000008,0.21,18,automatic,nc,nc
+2025-02-25T09:45:34.940Z,34.048,-117.2633333,16.35,1.92,ml,115,14,0.0595,0.18,ci,ci40193850,2025-02-25T09:50:12.434Z,"0 km W of Loma Linda, CA",earthquake,0.11,0.25,0.191,25,automatic,ci,ci
 2025-02-25T08:55:47.170Z,32.3458333,-115.4091667,6.14,1.8,ml,22,103,0.1147,0.18,ci,ci40193834,2025-02-25T08:59:22.145Z,"20 km W of Delta, B.C., MX",earthquake,0.27,1.94,0.226,25,automatic,ci,ci
 2025-02-25T08:52:47.690Z,18.7265,-67.4751,9,3.77,md,19,192,0.4467,0.24,pr,pr2025056005,2025-02-25T09:13:36.830Z,"47 km NW of Aguadilla, Puerto Rico",earthquake,0.97,0.83,0.04,17,reviewed,pr,pr
 2025-02-25T08:48:22.770Z,33.8896667,-116.5658333,9.76,0.64,ml,28,59,0.06684,0.12,ci,ci40193826,2025-02-25T08:53:09.785Z,"2 km SW of Garnet, CA",earthquake,0.17,0.51,0.165,17,automatic,ci,ci
