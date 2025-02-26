@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-26T04:31:49.444Z,51.5179,-177.5295,57.885,2.8,ml,7,196,0.41,0.42,us,us6000pviu,2025-02-26T04:57:00.040Z,"73 km WSW of Adak, Alaska",earthquake,7.32,13.288,0.097,14,reviewed,us,us
 2025-02-26T04:31:27.506Z,53.1175,-165.6891,35,3.2,ml,12,215,0.877,0.78,us,us6000pvis,2025-02-26T05:01:27.040Z,"101 km SSE of Unalaska, Alaska",earthquake,2.16,2.015,0.085,18,reviewed,us,us
 2025-02-26T04:28:32.190Z,40.290000915527,-124.50250244141,9.3599996566772,2.51,md,22,267,0.1223,0.17,nc,nc75139201,2025-02-26T06:12:19.383Z,"19 km W of Petrolia, CA",earthquake,2.29,0.810000002,0.09,16,automatic,nc,nc
-2025-02-26T04:25:18.283Z,61.6412,-147.9946,6.4,2.9,ml,,,,0.64,ak,ak0252mc5wv7,2025-02-26T05:16:00.520Z,"25 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-02-26T04:25:18.283Z,61.6412,-147.9946,6.4,2.9,ml,,,,0.64,ak,ak0252mc5wv7,2025-02-26T06:57:08.214Z,"25 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-26T04:18:53.268Z,56.9398,-155.6511,18,2.8,ml,,,,0.61,ak,ak0252mc4hod,2025-02-26T04:31:18.040Z,"90 km W of Akhiok, Alaska",earthquake,,2,,,automatic,ak,ak
 2025-02-26T04:18:31.762Z,62.2308,-149.583,37.1,2.1,ml,,,,0.81,ak,ak0252mc4fso,2025-02-26T04:20:01.381Z,"15 km ENE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-02-26T04:11:18.080Z,17.888,-66.867333333333,12.89,2.08,md,12,238,0.08394,0.17,pr,pr71473693,2025-02-26T04:22:45.360Z,"10 km SSE of Guánica, Puerto Rico",earthquake,0.87,0.46,0.19179177202781,6,reviewed,pr,pr
@@ -283,4 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-25T07:07:01.350Z,51.9975,178.5225,3.73,-0.11,ml,4,314,0.02863,0.17,av,av93511846,2025-02-26T06:06:31.570Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.45,1.57,0.21229958380238,3,reviewed,av,av
 2025-02-25T07:03:57.320Z,61.259333333333,-152.1865,21.98,-0.37,ml,8,101,0.01643,0.19,av,av93511841,2025-02-26T04:49:34.080Z,"60 km WNW of Tyonek, Alaska",earthquake,0.68,0.84,0.17831413436677,8,reviewed,av,av
 2025-02-25T07:03:01.240Z,38.829833984375,-122.81666564941,1.8099999427795,0.76,md,15,78,0.008237,0.01,nc,nc75138826,2025-02-25T07:37:18.293Z,"8 km NNW of The Geysers, CA",earthquake,0.27,0.660000026,0.14,17,automatic,nc,nc
-2025-02-25T06:55:19.130Z,33.7661667,-116.0398333,1.68,1.15,ml,46,54,0.1182,0.16,ci,ci40193786,2025-02-25T06:59:46.719Z,"16 km NE of Coachella, CA",earthquake,0.14,0.27,0.129,26,automatic,ci,ci
