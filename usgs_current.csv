@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-02-26T22:36:17.300Z,36.0701675,-117.6633301,0.78,1.85,ml,22,57,0.094,0.2,ci,ci40195202,2025-02-26T22:38:49.261Z,"26 km E of Coso Junction, CA",earthquake,0.41,0.62,0.236,24,automatic,ci,ci
+2025-02-26T22:36:17.240Z,36.0691667,-117.6591667,0.15,1.73,ml,28,43,0.09652,0.17,ci,ci40195202,2025-02-26T22:40:09.267Z,"26 km E of Coso Junction, CA",earthquake,0.2,0.36,0.186,25,automatic,ci,ci
 2025-02-26T22:30:12.600Z,33.8571667,-117.509,1.57,1.36,ml,53,47,0.04711,0.2,ci,ci40195194,2025-02-26T22:36:32.505Z,"3 km SSE of Home Gardens, CA",earthquake,0.21,0.3,0.305,37,automatic,ci,ci
 2025-02-26T22:26:34.703Z,61.3249,-152.2719,3,0.4,ml,,,,0.04,ak,ak0252mmvyr2,2025-02-26T22:27:45.739Z,"67 km WNW of Beluga, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2025-02-26T22:26:09.180Z,38.809665679932,-122.78533172607,1.2000000476837,1.08,md,17,55,0.005104,0.02,nc,nc75139626,2025-02-26T22:27:45.414Z,"4 km NNW of The Geysers, CA",earthquake,0.2,0.479999989,0.18,17,automatic,nc,nc
