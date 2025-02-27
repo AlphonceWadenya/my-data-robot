@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-27T21:47:40.167Z,37.3771,-117.1375,1.5,1.5,ml,22,118.98,0.125,0.2964,nn,nn00894131,2025-02-27T21:50:23.386Z,"37 km SSE of Goldfield, Nevada",earthquake,,3.2,0.34,12,automatic,nn,nn
 2025-02-27T21:41:03.010Z,38.819999694824,-122.82316589356,2.3599998950958,0.76,md,11,125,0.009776,0.01,nc,nc75140166,2025-02-27T21:42:39.500Z,"7 km NW of The Geysers, CA",earthquake,0.77,0.649999976,0.08,11,automatic,nc,nc
 2025-02-27T21:37:45.700Z,33.4966667,-116.5111667,13.82,1.08,ml,39,57,0.0761,0.17,ci,ci41068184,2025-02-27T21:41:38.081Z,"16 km ESE of Anza, CA",earthquake,0.2,0.41,0.213,26,automatic,ci,ci
 2025-02-27T21:32:50.590Z,33.4521667,-116.625,6.99,1.51,ml,65,23,0.01758,0.2,ci,ci41068176,2025-02-27T21:43:50.440Z,"12 km SSE of Anza, CA",earthquake,0.17,0.45,0.193,26,automatic,ci,ci
@@ -228,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-26T22:05:35.150Z,36.560001373291,-121.18033599853,5.210000038147,2.42,md,57,42,0.01237,0.25,nc,nc75139611,2025-02-27T01:42:17.127Z,"5 km NW of Pinnacles, CA",earthquake,0.28,0.949999988,0.13,54,automatic,nc,nc
 2025-02-26T22:00:04.630Z,37.278833333333,-121.65533333333,1.1,0.97,md,22,66,0.02437,0.08,nc,nc75139606,2025-02-27T19:07:23.069Z,"16 km ESE of Seven Trees, CA",earthquake,0.19,0.51,0.116,20,reviewed,nc,nc
 2025-02-26T21:58:33.750Z,36.10366667,-97.88266667,5.67,1.42,ml,66,44,0.1205763388,0.19,ok,ok2025dzzr,2025-02-27T17:00:05.764Z,"1 km ESE of Hennessey, Oklahoma",earthquake,,0.4,0.22,32,reviewed,ok,ok
-2025-02-26T21:47:14.500Z,38.826831817627,-122.85033416748,2.079999923706,1.07,md,23,101,0.005157,0.02,nc,nc75139601,2025-02-26T22:22:18.824Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.349999994,0.11,25,automatic,nc,nc
