@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-04T10:47:05.508Z,60.5136,-143.0611,0,1.5,ml,,,,0.69,ak,ak0252wd3a8m,2025-03-04T10:49:17.089Z,"102 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-03-04T10:40:32.377Z,31.679,-104.341,4.1864,1.9,ml,17,67,0.1,0.3,tx,tx2025ekch,2025-03-04T10:52:53.182Z,"55 km S of Whites City, New Mexico",earthquake,0,1.4086608886719,0.1,10,automatic,tx,tx
 2025-03-04T10:35:45.001Z,60.5205,-143.0648,0,1.8,ml,,,,0.72,ak,ak0252wd0rq7,2025-03-04T10:37:49.324Z,"102 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-04T10:29:49.460Z,38.830665588379,-122.81549835205,1.9500000476837,1.05,md,25,49,0.008406,0.02,nc,nc75142611,2025-03-04T10:31:25.139Z,"8 km NNW of The Geysers, CA",earthquake,0.19,0.370000005,0.12,25,automatic,nc,nc
 2025-03-04T10:20:59.020Z,36.837501525879,-121.58183288574,6,2.67,md,63,48,0.03794,0.21,nc,nc75142601,2025-03-04T10:42:17.091Z,"4 km W of San Juan Bautista, CA",earthquake,0.26,0.600000024,0.12,78,automatic,nc,nc
@@ -234,5 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-03T11:06:09.444Z,60.3209,-152.5063,103.6,2.3,ml,,,,0.42,ak,ak0252upwlce,2025-03-03T11:07:40.166Z,"55 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-03-03T11:01:51.270Z,11.014,-87.0495,10,4.9,mb,48,171,1.374,1.01,us,us6000pwl7,2025-03-03T11:25:54.040Z,"103 km SW of Masachapa, Nicaragua",earthquake,6.71,1.928,0.03,355,reviewed,us,us
 2025-03-03T11:01:16.083Z,60.4136,-151.6763,72.8,1.5,ml,,,,0.35,ak,ak0252upvj88,2025-03-03T11:11:35.211Z,"21 km WNW of Cohoe, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2025-03-03T10:54:39.823Z,-4.3326,126.7972,10,4.7,mb,35,45,3.104,1.06,us,us6000pwl5,2025-03-03T11:12:27.040Z,"169 km WSW of Ambon, Indonesia",earthquake,7.16,1.908,0.115,23,reviewed,us,us
-2025-03-03T10:54:06.910Z,40.521831512451,-124.40183258057,18.309999465942,2.69,md,26,234,0.06741,0.09,nc,nc75142061,2025-03-03T13:46:43.480Z,"13 km WSW of Ferndale, CA",earthquake,1.01,0.430000007,0.1,21,automatic,nc,nc
