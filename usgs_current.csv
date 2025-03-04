@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-04T20:46:38.210Z,33.3566667,-116.2143333,11.42,0.81,ml,35,66,0.07993,0.18,ci,ci41071072,2025-03-04T20:52:37.751Z,"16 km SW of Oasis, CA",earthquake,0.24,0.45,0.146,18,automatic,ci,ci
+2025-03-04T20:56:52.890Z,33.3428345,-116.8973312,7.89,1.87,ml,67,22,0.03095,0.21,ci,ci41071080,2025-03-04T20:59:16.761Z,"3 km WSW of Palomar Observatory, CA",earthquake,0.2,0.85,0.242,26,automatic,ci,ci
+2025-03-04T20:52:47.534Z,65.6733,-148.2163,6,1.1,ml,,,,0.56,ak,ak0252wj2s41,2025-03-04T20:55:52.883Z,"22 km NE of Livengood, Alaska",earthquake,,1,,,automatic,ak,ak
+2025-03-04T20:46:38.210Z,33.3566667,-116.2143333,11.42,0.81,ml,35,66,0.07993,0.18,ci,ci41071072,2025-03-04T20:58:50.478Z,"16 km SW of Oasis, CA",earthquake,0.24,0.45,0.146,18,automatic,ci,ci
 2025-03-04T20:46:27.940Z,34.1646667,-118.3696667,16.7,1.55,ml,17,62,0.05028,0.14,ci,ci41071064,2025-03-04T20:50:35.206Z,"1 km SE of North Hollywood, CA",earthquake,0.37,0.57,0.391,36,automatic,ci,ci
 2025-03-04T20:45:45.041Z,64.722,-149.3697,14.8,1.1,ml,,,,1.08,ak,ak0252wj19wo,2025-03-04T20:47:58.079Z,"17 km NW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-04T20:37:42.977Z,62.819,-151.67,6.4,1.6,ml,,,,1,ak,ak0252wizk0p,2025-03-04T20:39:29.371Z,"58 km NW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
