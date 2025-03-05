@@ -266,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-04T20:46:38.210Z,33.3568333,-116.2161667,11.77,0.88,ml,28,55,0.07839,0.15,ci,ci41071072,2025-03-04T21:39:13.324Z,"16 km SW of Oasis, CA",earthquake,0.21,0.41,0.117,10,reviewed,ci,ci
 2025-03-04T20:46:27.880Z,34.1586667,-118.3705,16.96,1.28,ml,14,139,0.01986,0.07,ci,ci41071064,2025-03-04T21:24:17.899Z,"2 km SSE of North Hollywood, CA",earthquake,0.29,0.32,0.16,7,reviewed,ci,ci
 2025-03-04T20:45:45.041Z,64.722,-149.3697,14.8,1.1,ml,,,,1.08,ak,ak0252wj19wo,2025-03-04T20:47:58.079Z,"17 km NW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-03-04T20:40:20.930Z,61.306333333333,-152.30983333333,1.35,-0.13,ml,10,121,0.05616,0.09,av,av93521536,2025-03-05T08:43:39.280Z,"68 km WNW of Beluga, Alaska",earthquake,0.25,0.95,0.16338464107313,10,reviewed,av,av
