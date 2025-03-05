@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-05T06:28:49.121Z,61.3952,-150.9065,57.1,1.7,ml,,,,0.4,ak,ak0252xy4x2o,2025-03-05T06:31:49.723Z,"26 km SW of Susitna, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2025-03-05T06:27:44.594Z,31.712,-104.272,5.7736,2,ml,19,51,0,0.5,tx,tx2025elpm,2025-03-05T06:41:40.898Z,"52 km S of Whites City, New Mexico",earthquake,0,2.3265497684479,0.2,14,automatic,tx,tx
 2025-03-05T06:27:23.640Z,34.156,-118.356,15.78,1.81,ml,83,24,0.0206,0.21,ci,ci41071600,2025-03-05T07:46:07.306Z,"2 km N of Universal City, CA",earthquake,0.16,0.27,0.217,27,automatic,ci,ci
-2025-03-05T06:14:39.428Z,61.3888,-149.9577,41.3,3.5,ml,,,,0.78,ak,ak0252xy1w8g,2025-03-05T07:52:49.957Z,"3 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2025-03-05T06:14:39.428Z,61.3888,-149.9577,41.3,3.5,ml,,,,0.78,ak,ak0252xy1w8g,2025-03-05T07:53:58.556Z,"3 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2025-03-05T05:54:42.937Z,36.7615,-115.5371,5.7,0.2,ml,10,301.7,0.355,0.2152,nn,nn00894313,2025-03-05T05:56:44.667Z,"24 km NNE of Indian Springs, Nevada",earthquake,,1.7,0.33,3,automatic,nn,nn
 2025-03-05T05:54:00.020Z,32.878,-115.7743333,6.87,1.09,ml,30,99,0.04738,0.17,ci,ci41071576,2025-03-05T05:58:01.466Z,"19 km W of Imperial, CA",earthquake,0.22,0.52,0.185,13,automatic,ci,ci
 2025-03-05T05:46:42.056Z,58.1096,-156.3478,9.9,1.6,ml,,,,0.22,ak,ak0252xxnbt9,2025-03-05T06:35:26.219Z,"61 km ESE of Egegik, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-05T05:31:44.994Z,32.475,-101.676,3.8279,1.2,ml,34,45,0.1,0.4,tx,tx2025elnq,2025-03-05T05:47:26.535Z,"6 km SSE of Ackerly, Texas",earthquake,0,0.90298414230347,0.2,24,automatic,tx,tx
 2025-03-05T05:29:23.350Z,41.560833333333,-109.87233333333,-1.76,3.19,ml,14,128,0.1106,0.21,uu,uu80103281,2025-03-05T07:41:08.097Z,"2 km NNW of Little America, Wyoming",earthquake,0.98,1.51,0.24487320520321,14,reviewed,uu,uu
 2025-03-05T05:25:18.333Z,-8.0289,118.4419,207.059,4.1,mb,21,75,1.031,1.51,us,us6000pwz5,2025-03-05T07:21:02.040Z,"56 km N of Dompu, Indonesia",earthquake,7.36,5.314,0.151,12,reviewed,us,us
-2025-03-05T05:17:35.300Z,38.813167572021,-122.82816314697,2.9000000953674,0.99,md,9,104,0.004366,0.01,nc,nc75143086,2025-03-05T05:52:18.543Z,"7 km NW of The Geysers, CA",earthquake,0.76,1.96000004,0.23,11,automatic,nc,nc
+2025-03-05T05:17:35.300Z,38.813167572021,-122.82816314697,2.9000000953674,0.99,md,9,104,0.004366,0.01,nc,nc75143086,2025-03-05T07:57:17.348Z,"7 km NW of The Geysers, CA",earthquake,0.76,1.96000004,0.23,11,automatic,nc,nc
 2025-03-05T05:07:36.620Z,38.826999664307,-122.85600280762,2.6600000858307,0.28,md,12,96,0.0008709,0.01,nc,nc75143071,2025-03-05T07:32:18.176Z,"10 km NW of The Geysers, CA",earthquake,0.38,0.639999986,0.16,13,automatic,nc,nc
 2025-03-05T04:53:57.483Z,9.2625,-78.1982,83.349,4.3,mb,35,127,1.621,0.86,us,us6000pwz1,2025-03-05T07:29:07.448Z,"5 km SW of San Ignacio de Tupile, Panama",earthquake,7.73,6.129,0.09,35,reviewed,us,us
 2025-03-05T04:45:31.520Z,38.79999923706,-122.76983642578,1.539999961853,1.08,md,17,78,0.007936,0.02,nc,nc75143061,2025-03-05T05:22:15.345Z,"3 km NNW of The Geysers, CA",earthquake,0.24,0.409999996,0.06,16,automatic,nc,nc
