@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-05T17:31:28.320Z,38.821834564209,-122.84516906738,2.3900001049042,1.3,md,30,56,0.008023,0.02,nc,nc75143356,2025-03-05T17:33:03.365Z,"9 km NW of The Geysers, CA",earthquake,0.21,0.340000004,0.15,29,automatic,nc,nc
+2025-03-05T17:31:28.320Z,38.821834564209,-122.84516906738,2.3900001049042,1.3,md,30,56,0.008023,0.02,nc,nc75143356,2025-03-05T17:47:19.258Z,"9 km NW of The Geysers, CA",earthquake,0.21,0.340000004,0.15,29,automatic,nc,nc
 2025-03-05T17:11:44.830Z,38.837833404541,-122.78067016602,1.5599999427795,0.78,md,10,72,0.005814,0.02,nc,nc75143351,2025-03-05T17:27:19.123Z,"5 km WNW of Cobb, CA",earthquake,0.33,0.519999981,0.24,11,automatic,nc,nc
 2025-03-05T17:01:09.595Z,63.0929,-151.456,6,1.7,ml,,,,0.85,ak,ak0252y4itcf,2025-03-05T17:03:18.789Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-05T16:51:39.970Z,36.471500396729,-121.06349945068,5.2600002288818,0.89,md,6,86,0.01679,0.1,nc,nc75143346,2025-03-05T17:07:19.006Z,"10 km SE of Pinnacles, CA",earthquake,0.55,1.19000006,0.28,6,automatic,nc,nc
@@ -275,4 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-04T17:53:49.689Z,35.26133333,-97.77633333,5.47,0.03,ml,14,180,0.01709664506,0.07,ok,ok2025ekqp,2025-03-04T18:03:18.319Z,"4 km SE of Tuttle, Oklahoma",earthquake,,0.4,0.27,7,reviewed,ok,ok
 2025-03-04T17:52:45.192Z,31.581,-103.956,6.7535,1.8,ml,13,68,0,0.1,tx,tx2025ekqp,2025-03-05T13:23:03.941Z,"33 km NNW of Toyah, Texas",earthquake,0.37669073700896,0.47131787782221,0.2,11,reviewed,tx,tx
 2025-03-04T17:52:30.050Z,38.917835235596,-122.64450073242,2.710000038147,1.2,md,7,170,0.02938,0.08,nc,nc75142806,2025-03-04T20:17:16.718Z,"3 km WNW of Lower Lake, CA",earthquake,1.85,4.51999998,0.1,7,automatic,nc,nc
-2025-03-04T17:45:12.800Z,38.4965,-112.89816666667,1.48,1.27,ml,21,60,0.01037,0.14,uu,uu80103216,2025-03-04T23:44:12.160Z,"14 km NE of Milford, Utah",earthquake,0.29,0.56,0.03908150220263,2,reviewed,uu,uu
