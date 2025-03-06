@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-06T06:51:12.442Z,61.4199,-152.1375,14.5,1.1,ml,,,,0.89,ak,ak0252zlt47g,2025-03-06T06:54:15.416Z,"64 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-03-06T06:49:00.452Z,61.336,-149.8904,33.5,2,ml,,,,0.3,ak,ak0252zlsnul,2025-03-06T06:50:31.391Z,"5 km ESE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-06T06:23:06.040Z,19.083833694458,-155.36016845703,31.620000839233,2.3,ml,49,253,0.1198,0.119999997,hv,hv74627957,2025-03-06T06:26:08.680Z,"18 km SE of Pāhala, Hawaii",earthquake,0.43,0.629999995,0.89,4,automatic,hv,hv
 2025-03-06T06:12:59.080Z,31.443,-103.555,4.139,1.6,ml,11,102,0,0.6,tx,tx2025enkn,2025-03-06T06:25:37.587Z,"6 km WNW of Pecos, Texas",earthquake,0,1.7048615217209,0.2,9,automatic,tx,tx
 2025-03-06T06:00:52.700Z,38.830165863037,-122.8125,2.0699999332428,0.74,md,17,45,0.007022,0.02,nc,nc75143701,2025-03-06T06:42:17.488Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.639999986,0.12,16,automatic,nc,nc
@@ -244,7 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-05T07:11:13.730Z,61.706166666667,-151.87216666667,17.51,0.61,ml,4,200,0.2095,0.08,av,av93521996,2025-03-06T00:45:39.850Z,"40 km SW of Skwentna, Alaska",earthquake,3.13,0.91,0.10671815400847,5,reviewed,av,av
 2025-03-05T07:03:01.080Z,47.807666666667,-113.50133333333,3.97,0.25,ml,3,325,0.1756,0.12,mb,mb90073578,2025-03-05T15:24:48.960Z,"29 km ESE of Swan Lake, Montana",earthquake,2.15,9.41,0.39319714863491,2,reviewed,mb,mb
 2025-03-05T06:56:45.866Z,31.771,-104.148,7.074,1.6,ml,22,54,0,0.3,tx,tx2025elql,2025-03-05T12:56:24.783Z,"49 km SSE of Whites City, New Mexico",earthquake,0.62803074393311,0.81999824337789,0.1,15,reviewed,tx,tx
-2025-03-05T06:52:57.470Z,61.294,-152.31033333333,0.74,-0.01,ml,9,115,0.04604,0.08,av,av93521986,2025-03-06T00:53:37.230Z,"67 km WNW of Tyonek, Alaska",earthquake,0.24,0.99,0.23135525003615,10,reviewed,av,av
-2025-03-05T06:52:30.020Z,61.291166666667,-152.30516666667,2.24,-0.82,ml,7,187,0.04565,0.06,av,av93034849,2025-03-06T00:58:03.540Z,"67 km WNW of Tyonek, Alaska",earthquake,0.36,1.08,0.29378795694074,8,reviewed,av,av
-2025-03-05T06:52:19.180Z,61.2945,-152.3075,2.33,-0.83,ml,8,160,0.04732,0.08,av,av93034844,2025-03-06T00:52:36.840Z,"67 km WNW of Tyonek, Alaska",earthquake,0.32,1.03,0.14570636395742,9,reviewed,av,av
-2025-03-05T06:50:41.666Z,24.5572,94.621,78.882,4.3,mb,51,101,3.347,0.55,us,us6000pwzr,2025-03-05T08:08:49.040Z,"56 km E of Wāngjing, India",earthquake,10.53,7.913,0.09,35,reviewed,us,us
