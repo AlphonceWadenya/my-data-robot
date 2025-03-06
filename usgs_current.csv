@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-06T21:52:37.460Z,32.9573333,-116.3746667,-0.59,2.15,ml,9,155,0.3055,0.25,ci,ci41073408,2025-03-06T21:56:42.553Z,"21 km NE of Pine Valley, CA",earthquake,0.96,4.1,0.334,29,automatic,ci,ci
 2025-03-06T21:37:35.150Z,38.82149887085,-122.7988357544,1.4400000572205,0.27,md,8,74,0.008981,0.02,nc,nc75144021,2025-03-06T21:39:10.754Z,"6 km NNW of The Geysers, CA",earthquake,0.39,1.12,0.14,9,automatic,nc,nc
 2025-03-06T21:36:48.620Z,38.793167114258,-122.76699829102,2.5499999523163,0.71,md,12,93,0.009374,0.02,nc,nc75144016,2025-03-06T21:52:16.528Z,"2 km NNW of The Geysers, CA",earthquake,0.42,0.689999998,0.27,12,automatic,nc,nc
 2025-03-06T21:24:51.840Z,46.7315,-121.1255,7.32,1.99,ml,26,123,0.2068,0.17,uw,uw62079611,2025-03-06T21:40:54.310Z,"17 km SW of Nile, Washington",earthquake,0.44,0.54,0.14296815152162,21,reviewed,uw,uw
