@@ -297,4 +297,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-07T08:10:17.980Z,38.801166534424,-122.73500061035,1.8700000047684,1.28,md,14,109,0.01795,0.02,nc,nc75144321,2025-03-07T11:07:18.622Z,"3 km SW of Cobb, CA",earthquake,0.3,0.610000014,0.17,15,automatic,nc,nc
 2025-03-07T08:01:42.120Z,33.4258333,-116.6245,9.97,1.07,ml,42,38,0.03724,0.16,ci,ci41073800,2025-03-07T21:59:26.900Z,"15 km SSE of Anza, CA",earthquake,0.16,0.38,0.191,26,reviewed,ci,ci
 2025-03-07T07:55:57.170Z,41.884,-112.47783333333,3.17,2.07,ml,27,88,0.123,0.13,uu,uu80103406,2025-03-07T15:53:23.810Z,"10 km NNW of Howell, Utah",earthquake,0.34,0.6,0.20103306945968,8,reviewed,uu,uu
-2025-03-07T07:49:23.233Z,62.1778,-145.7052,19,1.6,ml,,,,0.62,ak,ak025319xhpf,2025-03-07T07:51:45.753Z,"11 km NW of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
