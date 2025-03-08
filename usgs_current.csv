@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-08T06:45:44.341Z,61.2868,-152.244,3.1,2.2,ml,,,,0.38,ak,ak02532wulcy,2025-03-08T06:47:29.526Z,"64 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-08T06:36:03.578Z,58.674,-153.861,40.6,2.6,ml,,,,1.07,ak,ak02532wskrp,2025-03-08T06:39:16.643Z,"88 km NW of Aleneva, Alaska",earthquake,,10.4,,,automatic,ak,ak
 2025-03-08T06:35:56.110Z,18.7765,-66.079833333333,40.82,2.91,md,11,244,0.4649,0.1,pr,pr71474743,2025-03-08T06:46:34.570Z,"34 km N of San Juan, Puerto Rico",earthquake,0.73,1.46,0.071209623518431,5,reviewed,pr,pr
 2025-03-08T06:31:06.420Z,18.345833333333,-67.417333333333,19.38,2.46,md,5,288,0.3149,0.26,pr,pr71474738,2025-03-08T06:43:39.200Z,"17 km W of Rincón, Puerto Rico",earthquake,2.24,2.34,0.056679790497545,4,reviewed,pr,pr
