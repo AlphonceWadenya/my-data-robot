@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-10T22:55:22.750Z,38.787998199463,-122.77283477783,1.8700000047684,0.75,md,12,91,0.01287,0.02,nc,nc75146561,2025-03-10T22:56:59.817Z,"2 km NW of The Geysers, CA",earthquake,0.28,0.529999971,0.04,12,automatic,nc,nc
+2025-03-10T22:47:04.270Z,33.8863333,-117.0756667,15.41,1.3,ml,9,145,0.08647,0.16,ci,ci41076928,2025-03-10T22:53:56.153Z,"10 km WSW of Beaumont, CA",earthquake,0.46,1.42,0.439,32,automatic,ci,ci
 2025-03-10T22:45:05.330Z,38.818000793457,-122.82350158691,2.4100000858307,0.76,md,8,94,0.01014,0.02,nc,nc75146551,2025-03-10T22:46:40.423Z,"7 km NW of The Geysers, CA",earthquake,0.49,1.07000005,0.17,9,automatic,nc,nc
 2025-03-10T22:42:12.600Z,33.3691667,-116.884,6.25,0.97,ml,40,31,0.02366,0.2,ci,ci41076904,2025-03-10T22:47:38.117Z,"2 km NW of Palomar Observatory, CA",earthquake,0.2,0.45,0.191,27,automatic,ci,ci
 2025-03-10T22:41:37.643Z,59.5557,-151.4809,250,2.2,ml,,,,0.53,ak,ak02536hfcn8,2025-03-10T22:44:20.026Z,"10 km SSE of Homer, Alaska",earthquake,,9.7,,,automatic,ak,ak
