@@ -235,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-10T12:07:37.830Z,38.804668426514,-122.80899810791,0.91000002622604,0.77,md,5,190,0.0112,0.14,nc,nc75146226,2025-03-10T12:27:18.838Z,"5 km NW of The Geysers, CA",earthquake,1.28,1.26999998,0.09,8,automatic,nc,nc
 2025-03-10T12:06:03.250Z,33.5048333,-116.4526667,5.54,1.11,ml,47,60,0.1067,0.19,ci,ci41076176,2025-03-10T14:30:48.430Z,"21 km ESE of Anza, CA",earthquake,0.17,0.75,0.129,25,reviewed,ci,ci
 2025-03-10T12:04:55.960Z,33.5011667,-116.4616667,5.68,2.62,ml,109,23,0.1103,0.19,ci,ci41076168,2025-03-11T00:26:12.514Z,"20 km ESE of Anza, CA",earthquake,0.1,0.49,0.19,25,automatic,ci,ci
-2025-03-10T11:57:30.500Z,33.9793333,-116.67,17.23,1.14,ml,56,26,0.06181,0.18,ci,ci41076160,2025-03-10T14:34:17.660Z,"11 km SW of Morongo Valley, CA",earthquake,0.17,0.39,0.158,26,reviewed,ci,ci
-2025-03-10T11:55:23.710Z,65.4462,-148.1686,0,1.6,ml,,,,0.97,ak,ak02536ayjxv,2025-03-10T11:57:34.402Z,"19 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
