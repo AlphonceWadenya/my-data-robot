@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-13T11:31:36.680Z,37.434501647949,-119.02700042725,4.960000038147,1.75,md,18,142,0.1749,0.05,nc,nc75148091,2025-03-13T11:33:14.637Z,"23 km SSW of Mammoth Lakes, CA",earthquake,0.42,3,0.13,16,automatic,nc,nc
 2025-03-13T11:20:19.793Z,61.2977,-146.7883,29.1,1.5,ml,,,,0.21,ak,ak0253b9d323,2025-03-13T11:21:46.993Z,"30 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-13T11:17:55.920Z,38.835998535156,-122.81133270264,1.9500000476837,0.75,md,9,126,0.01262,0.01,nc,nc75148086,2025-03-13T11:19:30.278Z,"8 km WNW of Cobb, CA",earthquake,0.33,0.819999993,0.18,10,automatic,nc,nc
 2025-03-13T11:17:19.750Z,38.83150100708,-122.81683349609,1.7000000476837,1.37,md,24,65,0.009664,0.01,nc,nc75148076,2025-03-13T11:18:55.420Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.319999993,0.15,25,automatic,nc,nc
@@ -16,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-13T09:56:16.240Z,38.79666519165,-122.77883148193,3.3499999046326,0.71,md,17,75,0.007908,0.02,nc,nc75148036,2025-03-13T10:17:18.201Z,"3 km NNW of The Geysers, CA",earthquake,0.32,0.75999999,0.28,19,automatic,nc,nc
 2025-03-13T09:34:09.207Z,65.2098,-165.179,12.4,4,ml,,,,5.13,ak,ak0253b89ez8,2025-03-13T10:05:08.684Z,"55 km E of Teller, Alaska",earthquake,,1,,,reviewed,ak,ak
 2025-03-13T09:20:21.280Z,18.138833333333,-65.887833333333,21.62,2.39,md,15,130,0.03721,0.17,pr,pr71475673,2025-03-13T09:50:05.630Z,"5 km SSW of Las Piedras, Puerto Rico",earthquake,0.55,0.65,0.11345981626709,9,reviewed,pr,pr
-2025-03-13T09:15:41.060Z,38.83150100708,-122.83200073242,0.81999999284744,0.44,md,7,99,0.007583,0.02,nc,nc75148031,2025-03-13T09:32:18.886Z,"9 km NW of The Geysers, CA",earthquake,0.37,1.09000003,0.16,6,automatic,nc,nc
+2025-03-13T09:15:41.060Z,38.83150100708,-122.83200073242,0.81999999284744,0.44,md,7,99,0.007583,0.02,nc,nc75148031,2025-03-13T11:32:15.689Z,"9 km NW of The Geysers, CA",earthquake,0.37,1.09000003,0.16,6,automatic,nc,nc
 2025-03-13T09:14:31.680Z,60.9959,-147.0724,19.8,1.5,ml,,,,0.53,ak,ak0253b84ygw,2025-03-13T09:16:33.944Z,"25 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-13T09:07:49.078Z,11.9506,-87.7905,55.067,4.4,mb,39,170,1.056,0.71,us,us6000pyjd,2025-03-13T10:04:11.040Z,"89 km SW of Corinto, Nicaragua",earthquake,7.18,3.092,0.057,92,reviewed,us,us
 2025-03-13T08:58:17.670Z,36.811332702637,-121.5351638794,4.4499998092651,1.69,md,24,49,0.02642,0.15,nc,nc75148021,2025-03-13T11:07:16.531Z,"4 km S of San Juan Bautista, CA",earthquake,0.36,0.460000008,0.23,17,automatic,nc,nc
