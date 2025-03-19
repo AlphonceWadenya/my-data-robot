@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-19T13:43:42.045Z,61.4183,-150.0622,37,1.6,ml,,,,0.22,ak,ak0253l7x0f0,2025-03-19T13:44:52.960Z,"7 km NW of Point MacKenzie, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-03-19T13:36:02.353Z,19.2681,-68.0556,9.675,3.6,ml,16,204,0.81,0.55,us,us6000pzr6,2025-03-19T13:42:04.040Z,"84 km NNE of Punta Cana, Dominican Republic",earthquake,3.75,11.992,0.065,31,reviewed,us,us
+2025-03-19T13:17:47.465Z,-8.6463,115.1629,150.168,4.6,mb,26,120,1.015,0.83,us,us6000pzr5,2025-03-19T13:46:15.088Z,"5 km W of Denpasar, Indonesia",earthquake,10.35,8.688,0.122,20,reviewed,us,us
 2025-03-19T12:58:13.910Z,38.840167999268,-122.81133270264,2.0599999427795,0.73,md,7,139,0.01678,0,nc,nc75151607,2025-03-19T13:27:24.505Z,"8 km WNW of Cobb, CA",earthquake,0.6,1.13999999,0.17,9,automatic,nc,nc
 2025-03-19T12:55:14.880Z,62.7122,-152.8265,5.2,1.9,ml,,,,0.35,ak,ak0253l7e3b4,2025-03-19T12:57:10.838Z,"85 km ESE of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-19T12:47:28.104Z,63.0891,-151.4369,1.1,1.9,ml,,,,0.28,ak,ak0253l7celm,2025-03-19T12:49:08.924Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -193,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-18T14:03:46.900Z,35.6595,-117.4736667,6.62,1.07,ml,17,59,0.04106,0.14,ci,ci41082552,2025-03-18T18:20:15.814Z,"14 km SSW of Searles Valley, CA",earthquake,0.26,0.52,0.203,7,reviewed,ci,ci
 2025-03-18T14:01:26.280Z,38.824333190918,-122.84183502197,1.9299999475479,1.37,md,29,56,0.005453,0.02,nc,nc75151042,2025-03-18T16:07:23.723Z,"9 km NW of The Geysers, CA",earthquake,0.18,0.300000012,0.14,30,automatic,nc,nc
 2025-03-18T13:50:17.620Z,33.4801667,-116.8945,12.65,1.09,ml,31,29,0.01422,0.17,ci,ci41082536,2025-03-18T20:00:49.128Z,"5 km NNW of Aguanga, CA",earthquake,0.2,0.55,0.125,21,reviewed,ci,ci
-2025-03-18T13:42:53.879Z,32.116,-102.143,6.0539,1,ml,12,73,0,0.2,tx,tx2025fjxk,2025-03-18T13:53:56.722Z,"14 km NNW of Midland, Texas",earthquake,0,3.13458943367,0.2,9,automatic,tx,tx
