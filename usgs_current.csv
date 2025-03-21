@@ -299,4 +299,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-21T00:07:15.830Z,38.8275,-122.801,2.13,0.36,md,14,73,0.008188,0.01,nc,nc75152337,2025-03-21T11:04:37.061Z,"7 km WNW of Cobb, CA",earthquake,0.32,0.58,0.154,14,reviewed,nc,nc
 2025-03-21T00:02:16.967Z,61.9624,-151.2206,66.7,2.7,ml,,,,0.61,ak,ak0253ob088y,2025-03-21T03:11:56.040Z,"9 km ESE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-03-20T23:59:40.170Z,32.912,-116.2425,7.28,1.18,ml,40,46,0.06653,0.19,ci,ci40905679,2025-03-21T00:03:57.854Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.19,0.53,0.22,20,automatic,ci,ci
-2025-03-20T23:45:50.940Z,40.534168243408,-122.4254989624,37.659999847412,2.45,md,8,228,0.1447,0.25,nc,nc75152322,2025-03-21T02:12:16.601Z,"7 km SW of Redding, CA",earthquake,3.02,4.1500001,0.09,10,automatic,nc,nc
