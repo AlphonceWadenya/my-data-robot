@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-21T04:20:56.730Z,47.737333333333,-122.1535,25.76,1.77,ml,28,51,0.03874,0.29,uw,uw62075697,2025-03-21T04:35:30.241Z,"2 km SSE of Woodinville, Washington",earthquake,0.52,0.98,0.14107072247533,30,reviewed,uw,uw
+2025-03-21T04:16:41.676Z,36.431,70.9696,91.94,4.2,mb,32,166,2.428,1.14,us,us7000plhv,2025-03-21T04:53:03.040Z,"49 km SSE of Jurm, Afghanistan",earthquake,9.02,10.993,0.141,14,reviewed,us,us
 2025-03-21T04:15:49.260Z,52.7157,160.9909,10,4.6,mb,37,137,1.452,0.65,us,us7000plhy,2025-03-21T04:39:40.040Z,"163 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.63,1.917,0.091,36,reviewed,us,us
 2025-03-21T04:15:21.809Z,61.8989,-147.3547,30.6,2.5,ml,,,,0.79,ak,ak0253odgrck,2025-03-21T04:25:56.040Z,"10 km WSW of Eureka Roadhouse, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-03-21T04:14:04.781Z,61.6899,-150.7811,57.5,1.6,ml,,,,0.53,ak,ak0253odgibi,2025-03-21T04:16:05.154Z,"21 km NW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -24,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-21T02:06:33.122Z,65.4466,-148.2154,2.9,1.6,ml,,,,0.25,ak,ak0253oc7zkg,2025-03-21T02:08:14.623Z,"17 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-21T02:03:20.720Z,38.799667358398,-122.77200317383,1.1399999856949,1.24,md,22,75,0.009652,0.03,nc,nc75152397,2025-03-21T02:37:15.765Z,"3 km NNW of The Geysers, CA",earthquake,0.22,0.349999994,0.18,22,automatic,nc,nc
 2025-03-21T02:00:44.824Z,60.4059,-147.927,25.2,1.8,ml,,,,0.42,ak,ak0253oc6q78,2025-03-21T02:03:27.777Z,"38 km N of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-03-21T02:00:03.000Z,38.799499511719,-122.77100372315,1.1200000047684,1.53,md,31,76,0.008894,0.04,nc,nc75152392,2025-03-21T02:27:17.822Z,"3 km NNW of The Geysers, CA",earthquake,0.2,0.289999992,0.13,32,automatic,nc,nc
+2025-03-21T02:00:03.000Z,38.799499511719,-122.77100372315,1.1200000047684,1.53,md,31,76,0.008894,0.04,nc,nc75152392,2025-03-21T04:52:17.760Z,"3 km NNW of The Geysers, CA",earthquake,0.2,0.289999992,0.13,32,automatic,nc,nc
 2025-03-21T01:57:41.220Z,33.296,-116.279,9.3,1.72,ml,74,23,0.07098,0.2,ci,ci40905751,2025-03-21T02:08:48.460Z,"10 km ENE of Borrego Springs, CA",earthquake,0.14,0.4,0.203,26,automatic,ci,ci
 2025-03-21T01:54:58.840Z,38.790832519531,-122.74600219727,2.4300000667572,0.78,md,10,145,0.01049,0.03,nc,nc75152382,2025-03-21T02:17:19.633Z,"2 km NE of The Geysers, CA",earthquake,0.4,1.36000001,0.14,10,automatic,nc,nc
 2025-03-21T01:51:40.860Z,32.0038333,-117.317,14.85,2.35,ml,12,251,0.4145,0.24,ci,ci40905743,2025-03-21T01:55:11.446Z,"45 km WSW of Primo Tapia, B.C., MX",earthquake,1.09,1.86,0.156,28,automatic,ci,ci
