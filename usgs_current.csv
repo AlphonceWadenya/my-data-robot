@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-22T07:43:55.440Z,35.9948349,-117.7956696,0.86,0.99,ml,11,72,0.03907,0.08,ci,ci40906967,2025-03-22T07:45:57.894Z,"12 km ENE of Little Lake, CA",earthquake,0.44,0.93,0.175,6,automatic,ci,ci
-2025-03-22T07:39:24.780Z,40.282833099365,-124.4495010376,18.790000915527,2.07,md,17,274,0.08197,0.05,nc,nc75153132,2025-03-22T07:41:00.537Z,"15 km W of Petrolia, CA",earthquake,1.61,0.560000002,0.14,10,automatic,nc,nc
+2025-03-22T07:45:22.660Z,63.0933,-151.5134,0,1.5,ml,,,,0.78,ak,ak0253q2yu7e,2025-03-22T07:47:37.246Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-03-22T07:43:55.480Z,35.9938333,-117.7995,0.21,0.85,ml,18,60,0.04185,0.19,ci,ci40906967,2025-03-22T07:47:28.225Z,"12 km ENE of Little Lake, CA",earthquake,0.21,0.39,0.12,11,automatic,ci,ci
+2025-03-22T07:39:24.780Z,40.282833099365,-124.4495010376,18.790000915527,2.07,md,17,274,0.08197,0.05,nc,nc75153132,2025-03-22T07:47:20.910Z,"15 km W of Petrolia, CA",earthquake,1.61,0.560000002,0.14,10,automatic,nc,nc
 2025-03-22T07:37:39.904Z,60.2465,-152.6638,98.8,2,ml,,,,0.1,ak,ak0253q2x5t2,2025-03-22T07:46:29.040Z,"59 km WNW of Ninilchik, Alaska",earthquake,,2,,,automatic,ak,ak
-2025-03-22T07:36:16.051Z,69.6296,-144.2019,2.1,3.1,ml,,,,0.58,ak,ak0253q2wwbj,2025-03-22T07:40:28.976Z,"60 km SSW of Kaktovik, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-03-22T07:31:28.600Z,36.558166503906,-121.27016448975,8.7799997329712,1.28,md,7,124,0.06364,0.05,nc,nc75153127,2025-03-22T07:33:06.336Z,"12 km WNW of Pinnacles, CA",earthquake,0.47,1.44000006,0.56,7,automatic,nc,nc
+2025-03-22T07:36:16.051Z,69.6296,-144.2019,2.1,3.1,ml,,,,0.58,ak,ak0253q2wwbj,2025-03-22T07:48:25.040Z,"60 km SSW of Kaktovik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-03-22T07:31:28.600Z,36.558166503906,-121.27016448975,8.7799997329712,1.28,md,7,124,0.06364,0.05,nc,nc75153127,2025-03-22T07:47:20.811Z,"12 km WNW of Pinnacles, CA",earthquake,0.47,1.44000006,0.56,7,automatic,nc,nc
 2025-03-22T07:22:43.080Z,35.9923333,-117.3948333,2.06,1.05,ml,22,71,0.1357,0.15,ci,ci40906959,2025-03-22T07:26:11.154Z,"25 km N of Searles Valley, CA",earthquake,0.22,0.67,0.185,15,automatic,ci,ci
-2025-03-22T07:17:52.875Z,48.3688,-121.7535,11.79,2.9,ml,41,78,0.463,0.7,us,us7000pltg,2025-03-22T07:44:25.300Z,"9 km NNW of Swede Heaven, Washington",earthquake,4.52,7.545,0.041,78,reviewed,us,us
+2025-03-22T07:17:52.875Z,48.3688,-121.7535,11.79,2.9,ml,41,78,0.463,0.7,us,us7000pltg,2025-03-22T07:49:25.109Z,"9 km NNW of Swede Heaven, Washington",earthquake,4.52,7.545,0.041,78,reviewed,us,us
 2025-03-22T07:15:13.750Z,34.2136667,-116.99,20.48,1.09,ml,23,208,0.2336,0.33,ci,ci40906951,2025-03-22T07:20:28.445Z,"8 km WSW of Big Bear Lake, CA",earthquake,1.79,2.88,0.288,24,automatic,ci,ci
 2025-03-22T07:04:55.680Z,38.82149887085,-122.81133270264,3.1300001144409,1.48,md,32,40,0.002133,0.03,nc,nc75153117,2025-03-22T07:32:15.785Z,"7 km NNW of The Geysers, CA",earthquake,0.22,0.379999995,0.17,30,automatic,nc,nc
 2025-03-22T07:02:13.528Z,60.6481,-151.6754,70.6,1.4,ml,,,,0.62,ak,ak0253q2plpk,2025-03-22T07:03:59.237Z,"19 km W of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
