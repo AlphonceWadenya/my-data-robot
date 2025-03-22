@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-22T21:44:04.400Z,38.73099899292,-122.92633056641,9.3199996948242,0.69,md,5,232,0.08557,0.03,nc,nc75153402,2025-03-22T21:45:43.291Z,"11 km SSE of Cloverdale, CA",earthquake,4.29,4.94000006,0.32,2,automatic,nc,nc
 2025-03-22T21:35:38.050Z,36.649333953857,-121.03216552734,5.1300001144409,1.87,md,13,119,0.06346,0.19,nc,nc75153397,2025-03-22T21:37:13.434Z,"16 km NE of Pinnacles, CA",earthquake,0.57,1.87,0.13,10,automatic,nc,nc
 2025-03-22T21:33:39.434Z,63.2605,-151.4726,0,1.5,ml,,,,1.46,ak,ak0253qb8dcx,2025-03-22T21:36:32.476Z,"33 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-22T21:30:36.808Z,61.7436,-150.133,6.6,1.5,ml,,,,0.22,ak,ak0253qb7q0w,2025-03-22T21:32:21.106Z,"5 km W of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -183,7 +184,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-22T01:58:14.520Z,19.488666534424,-155.50883483887,0.37999999523163,2.32,ml,26,79,0.04102,0.230000004,hv,hv74638592,2025-03-22T02:01:30.410Z,"29 km W of Volcano, Hawaii",earthquake,0.39,1.27999997,0.9,3,automatic,hv,hv
 2025-03-22T01:56:41.476Z,63.1774,-142.8561,0.5,1.3,ml,,,,0.69,ak,ak0253pzgmww,2025-03-22T02:01:03.069Z,"17 km WNW of Tetlin, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-22T01:54:27.583Z,31.652,-104.338,4.2913,1.6,ml,18,70,0.1,0.3,tx,tx2025fqia,2025-03-22T02:05:46.499Z,"58 km S of Whites City, New Mexico",earthquake,0,1.3319131135941,0.2,13,automatic,tx,tx
-2025-03-22T01:49:52.424Z,59.9609,-152.0312,76.4,2.4,ml,,,,0.2,ak,ak0253pzf5qi,2025-03-22T01:51:11.771Z,"16 km W of Happy Valley, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2025-03-22T01:49:52.424Z,59.9609,-152.0312,76.4,2.4,ml,,,,0.2,ak,ak0253pzf5qi,2025-03-22T21:43:53.040Z,"16 km W of Happy Valley, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-03-22T01:47:31.600Z,40.250667572021,-124.58383178711,15.409999847412,2.47,ml,13,299,0.1884,0.17,nc,nc75152992,2025-03-22T21:36:09.040Z,"27 km W of Petrolia, CA",earthquake,6.25,2.8499999,0.398,5,automatic,nc,nc
 2025-03-22T01:46:07.870Z,38.832668304443,-122.8330001831,1.1200000047684,1.08,md,16,64,0.006223,0.03,nc,nc75152982,2025-03-22T02:17:20.607Z,"9 km NW of The Geysers, CA",earthquake,0.24,0.529999971,0.15,16,automatic,nc,nc
 2025-03-22T01:45:43.050Z,38.833000183105,-122.83283233643,0.73000001907349,0.77,md,16,43,0.005953,0.04,nc,nc75152977,2025-03-22T02:07:18.536Z,"9 km NW of The Geysers, CA",earthquake,0.23,0.469999999,0.17,16,automatic,nc,nc
