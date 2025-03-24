@@ -23,6 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-24T18:48:02.379Z,60.9325,-152.2934,85.2,1.4,ml,,,,0.44,ak,ak0253tklwfh,2025-03-24T19:14:24.771Z,"60 km WNW of Nikiski, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2025-03-24T18:40:45.400Z,38.823501586914,-122.79383087158,3.2799999713898,0.78,md,7,124,0.01269,0.01,nc,nc75154572,2025-03-24T19:17:20.597Z,"6 km NNW of The Geysers, CA",earthquake,1.61,3.02999997,0.1,9,automatic,nc,nc
 2025-03-24T18:38:27.664Z,61.139,-151.6623,70.3,0.5,ml,,,,0.33,ak,ak0253tkjt7y,2025-03-24T19:14:22.809Z,"29 km WNW of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-03-24T18:32:59.010Z,42.407333333333,-111.78633333333,3.11,1.19,md,9,252,0.2905,0.15,uu,uu80104381,2025-03-24T21:43:02.860Z,"19 km SSW of Grace, Idaho",earthquake,1.55,2.19,0.040826201485689,7,reviewed,uu,uu
 2025-03-24T18:23:19.130Z,36.0895,-117.8613333,1.38,1.61,ml,23,97,0.02851,0.14,ci,ci40908863,2025-03-24T19:48:50.392Z,"9 km ENE of Coso Junction, CA",earthquake,0.17,0.18,0.207,18,reviewed,ci,ci
 2025-03-24T18:16:00.800Z,33.307,-116.2601667,6.89,1.05,ml,57,23,0.06901,0.19,ci,ci40908855,2025-03-24T20:39:10.656Z,"12 km ENE of Borrego Springs, CA",earthquake,0.16,0.5,0.173,27,reviewed,ci,ci
 2025-03-24T18:08:31.647Z,37.2842,-117.0279,2,1.2,ml,18,179.38,0.186,0.2758,nn,nn00895043,2025-03-24T18:10:54.455Z,"48 km NNW of Beatty, Nevada",earthquake,,6,0.23,11,automatic,nn,nn
