@@ -6,6 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-25T06:52:34.670Z,39.398666381836,-123.06716918945,1.3300000429153,2.01,md,17,68,0.05338,0.07,nc,nc75154842,2025-03-25T07:07:15.490Z,"9 km W of Lake Pillsbury, CA",earthquake,0.23,3.72000003,0.1,14,automatic,nc,nc
 2025-03-25T06:48:36.580Z,35.6585,-117.4748333,7.93,0.87,ml,23,59,0.04215,0.13,ci,ci40909415,2025-03-25T06:52:21.074Z,"14 km SSW of Searles Valley, CA",earthquake,0.18,0.45,0.162,14,automatic,ci,ci
 2025-03-25T06:47:28.150Z,34.2588348,-116.7983322,10.44,1.09,ml,12,115,0.09219,0.13,ci,ci40909407,2025-03-25T06:49:45.057Z,"4 km E of Big Bear City, CA",earthquake,0.57,1.26,0.103,4,automatic,ci,ci
+2025-03-25T06:27:14.580Z,-18.6343,-178.1952,531.093,4.4,mb,29,103,7.745,1.02,us,us7000pmgb,2025-03-25T07:42:05.040Z,"270 km ESE of Levuka, Fiji",earthquake,15.06,12.933,0.111,23,reviewed,us,us
 2025-03-25T06:18:09.364Z,61.0426,-149.7754,27.1,2.8,ml,,,,0.79,ak,ak0253v0tmnn,2025-03-25T07:34:41.010Z,"15 km NNW of Hope, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2025-03-25T06:17:12.740Z,34.4661674,-118.0008316,8.64,1.27,ml,22,44,0.04128,0.12,ci,ci40909399,2025-03-25T06:19:22.615Z,"6 km SSW of Littlerock, CA",earthquake,0.32,0.75,0.229,15,automatic,ci,ci
 2025-03-25T06:01:24.760Z,34.4416667,-117.9376667,10.86,0.86,ml,18,61,0.01636,0.16,ci,ci40909383,2025-03-25T06:06:27.079Z,"8 km SSW of Pearblossom, CA",earthquake,0.24,0.41,0.436,25,automatic,ci,ci
