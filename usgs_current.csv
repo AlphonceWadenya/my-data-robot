@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-25T22:43:50.970Z,34.4406662,-117.93367,11.21,0.97,ml,13,81,0.01977,0.09,ci,ci40910279,2025-03-25T22:46:03.611Z,"8 km SSW of Pearblossom, CA",earthquake,0.41,0.78,0.207,8,automatic,ci,ci
+2025-03-25T22:43:51.040Z,34.4435,-117.9348333,10.53,1.04,ml,16,79,0.01785,0.11,ci,ci40910279,2025-03-25T22:48:56.789Z,"7 km SSW of Pearblossom, CA",earthquake,0.22,0.32,0.29,22,automatic,ci,ci
 2025-03-25T22:37:05.647Z,61.3858,-150.0751,35,2,ml,,,,0.36,ak,ak0253vagmpw,2025-03-25T22:38:57.491Z,"5 km WNW of Point MacKenzie, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-25T22:28:51.820Z,38.792667388916,-122.8073348999,3.0999999046326,1.32,md,21,91,0.005468,0.03,nc,nc75155272,2025-03-25T22:30:30.408Z,"5 km WNW of The Geysers, CA",earthquake,0.28,0.540000021,0.24,21,automatic,nc,nc
 2025-03-25T22:24:04.305Z,36.4937,-113.9978,9.867,3.4,ml,48,29,0.796,0.55,us,us7000pmm0,2025-03-25T22:32:24.040Z,"33 km SSE of Bunkerville, Nevada",earthquake,2.62,1.459,0.026,196,reviewed,us,us
@@ -116,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-25T11:31:56.500Z,37.627,-119.04216666667,1.8,0.25,md,13,77,0.01897,0.06,nc,nc75154967,2025-03-25T22:19:15.052Z,"6 km W of Mammoth Lakes, CA",earthquake,0.31,0.44,0.097,8,reviewed,nc,nc
 2025-03-25T11:30:08.233Z,37.6471,-114.8993,5.5,1.8,ml,15,128.91,0.269,0.1732,nn,nn00895087,2025-03-25T18:27:59.557Z,"29 km E of Hiko, Nevada",earthquake,,1.9,0.25,10,reviewed,nn,nn
 2025-03-25T11:18:15.130Z,44.192833333333,-115.10866666667,2.45,1.49,ml,13,74,0.2076,0.23,mb,mb90075823,2025-03-25T17:29:14.890Z,"13 km WSW of Stanley, Idaho",earthquake,0.54,1.72,0.14092319977106,18,reviewed,mb,mb
-2025-03-25T11:15:05.550Z,37.651833333333,-121.66083333333,4.43,1.17,md,19,112,0.05243,0.07,nc,nc75154957,2025-03-25T22:17:44.158Z,"10 km ESE of Livermore, CA",earthquake,0.19,0.35,0.162,18,reviewed,nc,nc
+2025-03-25T11:15:05.550Z,37.651833333333,-121.66083333333,4.43,1.17,md,19,112,0.05243,0.07,nc,nc75154957,2025-03-25T22:47:20.594Z,"10 km ESE of Livermore, CA",earthquake,0.19,0.35,0.162,18,reviewed,nc,nc
 2025-03-25T11:12:23.420Z,40.376333333333,-122.07583333333,5.75,2.16,md,24,63,0.1468,0.19,nc,nc75154952,2025-03-25T22:37:20.522Z,"19 km W of Manton, CA",earthquake,0.39,1.77,0.192,19,reviewed,nc,nc
 2025-03-25T11:05:09.860Z,35.6475,-117.539,7.06,1.13,ml,25,52,0.09552,0.15,ci,ci40909543,2025-03-25T11:08:38.759Z,"13 km ENE of Ridgecrest, CA",earthquake,0.18,0.53,0.205,22,automatic,ci,ci
 2025-03-25T11:04:02.055Z,32.436,-102.072,8.667,1.7,ml,12,73,0,0.1,tx,tx2025fwmr,2025-03-25T13:58:13.475Z,"34 km SSW of Los Ybanez, Texas",earthquake,1.0167750990289,1.2537328711227,0.2,22,reviewed,tx,tx
