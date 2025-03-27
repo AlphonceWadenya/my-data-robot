@@ -196,5 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-26T23:17:59.890Z,51.2654,-176.2383,44.582,4,mb,51,199,0.819,0.82,us,us7000pmxc,2025-03-27T01:50:38.939Z,"73 km SSE of Adak, Alaska",earthquake,6.49,10.825,0.069,56,reviewed,us,us
 2025-03-26T23:15:39.096Z,64.9811,-147.3971,4.1,1.6,ml,,,,0.82,ak,ak0253wygrnn,2025-03-26T23:18:01.948Z,"10 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-26T23:06:21.665Z,59.3013,-152.6234,61.3,1.8,ml,,,,0.44,ak,ak0253wyesuu,2025-03-26T23:08:48.633Z,"40 km W of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-03-26T22:54:29.809Z,60.211,-152.4582,92.5,1.9,ml,,,,0.39,ak,ak0253wy3o90,2025-03-26T22:56:43.408Z,"47 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-03-26T22:53:06.249Z,62.9578,-150.0297,89.7,1.4,ml,,,,0.44,ak,ak0253wy3eps,2025-03-26T22:55:12.460Z,"56 km N of Chase, Alaska",earthquake,,1.4,,,automatic,ak,ak
