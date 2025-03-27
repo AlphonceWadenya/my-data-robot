@@ -273,4 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-26T07:53:49.840Z,38.802665710449,-122.77950286865,2.6400001049042,1.04,md,19,66,0.01062,0.02,nc,nc75155467,2025-03-26T09:17:18.879Z,"3 km NNW of The Geysers, CA",earthquake,0.23,0.49000001,0.27,19,automatic,nc,nc
 2025-03-26T07:51:27.040Z,51.702,-177.5195,13.04,0.98,ml,8,212,0.1866,0.08,av,av93546676,2025-03-27T00:54:15.970Z,"64 km WSW of Adak, Alaska",earthquake,0.61,0.77,0.4437322542217,9,reviewed,av,av
 2025-03-26T07:49:59.083Z,64.8734,-148.9201,14.1,1,ml,,,,0.3,ak,ak0253wp55us,2025-03-26T07:51:24.408Z,"31 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-03-26T07:42:29.070Z,36.119,-117.8206667,5.93,1.27,ml,21,59,0.02772,0.17,ci,ci40910591,2025-03-26T13:41:51.462Z,"14 km NE of Coso Junction, CA",earthquake,0.26,0.44,0.213,20,reviewed,ci,ci
