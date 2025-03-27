@@ -1,6 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-27T17:43:12.122Z,31.587,-104.548,4.2802,2,ml,8,164,0.1,0.2,tx,tx2025gaqz,2025-03-27T17:49:19.560Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.3477494716644,0.1,6,automatic,tx,tx
-2025-03-27T17:13:50.623Z,36.7023,-115.1607,2.9,1.5,ml,9,258.04,0.644,0.3281,nn,nn00895212,2025-03-27T17:15:56.468Z,"47 km ENE of Indian Springs, Nevada",earthquake,,14.7,0.24,4,automatic,nn,nn
 2025-03-27T16:33:33.346Z,64.3893,-147.2055,9.1,1,ml,,,,0.3,ak,ak0253yhxxcm,2025-03-27T16:36:21.816Z,"20 km SW of Salcha, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-03-27T16:33:16.072Z,51.2934,-178.2722,35,3.7,ml,23,206,0.427,0.67,us,us7000pn36,2025-03-27T17:01:30.040Z,"130 km WSW of Adak, Alaska",earthquake,5.06,2.002,0.105,22,reviewed,us,us
 2025-03-27T16:32:41.709Z,31.618,-104.392,3.6566,1.7,ml,18,87,0.1,0.3,tx,tx2025gaou,2025-03-27T16:44:17.166Z,"61 km S of Whites City, New Mexico",earthquake,0,1.5665160417557,0.1,14,automatic,tx,tx
