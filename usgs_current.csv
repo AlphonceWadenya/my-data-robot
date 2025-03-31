@@ -56,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-31T06:59:35.540Z,39.0562,-119.0202,10.7,0.9,ml,8,148.22,0.114,0.2078,nn,nn00895421,2025-03-31T07:01:58.377Z,"14 km ENE of Yerington, Nevada",earthquake,,1.1,0.12,2,automatic,nn,nn
 2025-03-31T06:58:14.490Z,51.8618,178.4422,138.311,4.2,mb,204,84,0.123,0.53,us,us7000pnzd,2025-03-31T09:26:01.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,8.77,4.908,0.039,185,reviewed,us,us
 2025-03-31T06:56:04.230Z,38.81566619873,-122.81833648682,2.670000076294,1.81,md,35,50,0.01006,0.03,nc,nc75157982,2025-03-31T06:59:27.190Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.319999993,0.11,35,automatic,nc,nc
-2025-03-31T06:54:32.397Z,31.52,-104.011,5.422,1.6,ml,15,64,0,0.2,tx,tx2025ghdl,2025-03-31T07:09:12.841Z,"30 km NW of Toyah, Texas",earthquake,0,2.8835303783417,0.1,13,automatic,tx,tx
+2025-03-31T06:54:32.463Z,31.524,-104.016,7.4329,1.6,ml,29,61,0,0.1,tx,tx2025ghdl,2025-03-31T14:56:31.612Z,"31 km NW of Toyah, Texas",earthquake,0.62479139644774,0.53046826673122,0.1,17,reviewed,tx,tx
 2025-03-31T06:27:39.990Z,33.7663333,-118.8173333,-0.19,1.92,ml,22,197,0.2376,0.45,ci,ci40913431,2025-03-31T06:32:16.583Z,"26 km S of Malibu, CA",earthquake,1.19,1.61,0.149,27,automatic,ci,ci
 2025-03-31T06:24:37.605Z,63.1286,-144.3818,0,1.1,ml,,,,0.39,ak,ak02544y325s,2025-03-31T06:26:11.008Z,"38 km NW of Mentasta Lake, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-31T06:18:17.580Z,18.01,-66.829833333333,15.65,2.25,md,8,153,0.05849,0.14,pr,pr71478048,2025-03-31T06:35:00.230Z,"2 km NNW of Indios, Puerto Rico",earthquake,0.46,1.04,0.0110721567053,5,reviewed,pr,pr
@@ -144,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-30T21:42:25.740Z,38.822834014893,-122.80383300781,2.7599999904633,0.71,md,7,83,0.004907,0.01,nc,nc75157832,2025-03-30T21:44:32.095Z,"7 km NNW of The Geysers, CA",earthquake,0.91,2.25999999,0.07,9,automatic,nc,nc
 2025-03-30T21:16:15.161Z,36.7921,-115.9045,5.8,1.1,ml,27,126.47,0.032,0.2367,nn,nn00895416,2025-03-30T21:18:37.326Z,"32 km NW of Indian Springs, Nevada",earthquake,,0.5,0.28,17,automatic,nn,nn
 2025-03-30T21:08:37.250Z,33.3785,-116.9751667,8.57,1.33,ml,58,21,0.04856,0.23,ci,ci40913183,2025-03-30T21:19:40.960Z,"10 km E of Pala, CA",earthquake,0.18,0.54,0.141,26,automatic,ci,ci
-2025-03-30T21:05:03.399Z,64.9454,-147.5834,16.2,3.2,ml,,,,0.79,ak,ak02543jd2i5,2025-03-31T14:38:33.441Z,"2 km SE of Fox, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2025-03-30T21:05:03.399Z,64.9454,-147.5834,16.2,3.2,ml,,,,0.79,ak,ak02543jd2i5,2025-03-31T14:55:35.526Z,"2 km SE of Fox, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2025-03-30T21:03:49.333Z,59.8881,-152.9839,115.8,1.8,ml,,,,0.28,ak,ak02543jcqmv,2025-03-30T21:10:27.716Z,"63 km E of Pedro Bay, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2025-03-30T20:59:45.121Z,31.666,-104.285,7.7533,1.8,ml,29,66,0,0.1,tx,tx2025ggjv,2025-03-31T12:57:41.761Z,"57 km S of Whites City, New Mexico",earthquake,0.56642019400422,0.56393008003727,0.1,15,reviewed,tx,tx
 2025-03-30T20:59:21.237Z,61.0727,-152.3883,109.9,0.5,ml,,,,0.23,ak,ak02543j38xn,2025-03-30T21:01:08.319Z,"67 km W of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
