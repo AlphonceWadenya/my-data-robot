@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-01T16:59:36.180Z,38.817165374756,-122.80916595459,1.4900000095367,1.81,md,32,42,0.006261,0.04,nc,nc75158567,2025-04-01T19:32:16.312Z,"6 km NW of The Geysers, CA",earthquake,0.16,0.25999999,0.17,35,automatic,nc,nc
 2025-04-01T16:58:32.511Z,63.9548,-22.3408,10,4.6,mb,57,81,0.91,0.62,us,us7000ppa5,2025-04-01T17:38:10.040Z,"3 km SE of Vogar, Iceland",earthquake,6.89,1.926,0.078,52,reviewed,us,us
 2025-04-01T16:57:00.533Z,63.6912,-22.6187,10,4.9,mb,79,91,1.202,0.51,us,us7000ppa1,2025-04-01T17:26:19.040Z,"18 km SSW of Grindavík, Iceland",earthquake,9.52,1.906,0.057,95,reviewed,us,us
-2025-04-01T16:54:52.623Z,63.9664,-22.2598,10,5.2,mww,109,46,0.883,0.64,us,us7000ppa0,2025-04-01T17:57:11.922Z,"6 km ESE of Vogar, Iceland",earthquake,7.6,1.885,0.057,30,reviewed,us,us
+2025-04-01T16:54:52.623Z,63.9664,-22.2598,10,5.2,mww,109,46,0.883,0.64,us,us7000ppa0,2025-04-01T19:38:04.557Z,"6 km ESE of Vogar, Iceland",earthquake,7.6,1.885,0.057,30,reviewed,us,us
 2025-04-01T16:51:44.827Z,36.4882,-113.9594,3.7,2,ml,8,174.49,0.662,0.1245,nn,nn00895483,2025-04-01T17:35:42.306Z,"34 km S of Scenic, Arizona",earthquake,,5,0.44,6,reviewed,nn,nn
 2025-04-01T16:23:12.520Z,38.804000854492,-122.77983093262,1.2000000476837,1.2,md,18,85,0.009269,0.04,nc,nc75158557,2025-04-01T19:07:20.158Z,"4 km NNW of The Geysers, CA",earthquake,0.24,0.389999986,0.14,18,automatic,nc,nc
 2025-04-01T16:06:22.390Z,38.80683517456,-122.86566925049,1.3500000238419,0.76,md,8,202,0.007661,0.2,nc,nc75158552,2025-04-01T18:42:18.976Z,"10 km WNW of The Geysers, CA",earthquake,2,1.64999998,0.11,7,automatic,nc,nc
@@ -132,6 +132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-01T06:56:34.830Z,17.925333333333,-66.912,9.1,2.98,md,24,204,0.04673,0.13,pr,pr71478103,2025-04-01T07:22:53.530Z,"5 km S of Guánica, Puerto Rico",earthquake,0.42,0.41,0.074671863085773,12,reviewed,pr,pr
 2025-04-01T06:54:01.534Z,58.1378,-156.4294,21.8,2.2,ml,,,,0.17,ak,ak02546lsrcp,2025-04-01T06:55:05.232Z,"56 km E of Egegik, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2025-04-01T06:35:47.155Z,64.909,-147.0882,7.6,0.8,ml,,,,0.53,ak,ak02546los9n,2025-04-01T06:38:01.537Z,"4 km NNW of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-04-01T06:34:43.990Z,54.76,-163.98616666667,0.33,0.44,ml,4,109,0.05105,0.33,av,av93556716,2025-04-01T19:35:43.250Z,"38 km WSW of False Pass, Alaska",earthquake,0.56,0.47,0.16631757890465,4,reviewed,av,av
 2025-04-01T06:28:33.776Z,61.2727,-149.4491,27.9,2.2,ml,,,,0.39,ak,ak02546ln981,2025-04-01T06:32:45.541Z,"8 km SE of Eagle River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-01T06:17:18.230Z,58.0686,-156.2587,17.2,1.6,ml,,,,0.43,ak,ak02546lkv5b,2025-04-01T06:53:16.106Z,"67 km ESE of Egegik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-01T06:15:42.910Z,35.3581667,-117.8158333,6.8,0.98,ml,8,125,0.0938,0.12,ci,ci37542469,2025-04-01T19:12:07.029Z,"16 km W of Johannesburg, CA",earthquake,0.32,0.92,0.104,6,reviewed,ci,ci
@@ -246,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-31T19:55:58.340Z,36.260334014893,-121.43482971191,9.4300003051758,1.96,md,20,64,0.04126,0.1,nc,nc75158207,2025-03-31T20:37:15.211Z,"18 km W of Greenfield, CA",earthquake,0.33,0.689999998,0.18,19,automatic,nc,nc
 2025-03-31T19:53:29.570Z,38.819499969482,-122.7576675415,2.079999923706,1.18,md,10,217,0.01454,0.03,nc,nc75158197,2025-03-31T20:17:20.077Z,"3 km W of Cobb, CA",earthquake,0.99,1.44000006,0.31,10,automatic,nc,nc
 2025-03-31T19:45:30.431Z,32.44,-101.693,5.5908,1.3,ml,17,56,0,0.1,tx,tx2025gicz,2025-04-01T14:22:37.108Z,"9 km SSE of Ackerly, Texas",earthquake,0.56047497570872,1.1813661861846,0.1,6,reviewed,tx,tx
-2025-03-31T19:35:27.395Z,41.2108,-116.7211,7.1,2,ml,5,160.9,0.324,0.1816,nn,nn00895457,2025-04-01T02:12:33.844Z,"57 km NE of Valmy, Nevada",earthquake,,3,0.12,3,reviewed,nn,nn
