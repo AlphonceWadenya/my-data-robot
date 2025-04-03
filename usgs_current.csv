@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-02T11:55:59.020Z,33.9305,-116.7368333,13.76,1.07,ml,38,58,0.109,0.15,ci,ci40914655,2025-04-02T21:00:56.414Z,"5 km ENE of Cabazon, CA",earthquake,0.17,0.46,0.204,20,reviewed,ci,ci
 2025-04-02T11:53:40.195Z,39.0456,-119.0099,0,1,ml,11,113.9,0.1,0.1293,nn,nn00895530,2025-04-03T02:08:58.385Z,"14 km ENE of Yerington, Nevada",earthquake,,0,0.22,4,reviewed,nn,nn
 2025-04-02T11:48:37.130Z,34.2056667,-117.499,5,0.31,ml,9,111,0.002122,0.12,ci,ci40914647,2025-04-02T15:28:04.415Z,"6 km S of Lytle Creek, CA",earthquake,0.29,0.57,0.023,5,reviewed,ci,ci
-2025-04-02T11:44:29.393Z,39.0571,-119.016,5.5,1.5,ml,16,109.72,0.088,0.1568,nn,nn00895528,2025-04-03T02:08:48.472Z,"14 km ENE of Yerington, Nevada",earthquake,,2.3,0.17,7,reviewed,nn,nn
