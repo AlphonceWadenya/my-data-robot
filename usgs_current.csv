@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-04-04T19:11:15.080Z,38.81583404541,-122.8201675415,2.8800001144409,0.67,md,14,77,0.009896,0.02,nc,nc75160172,2025-04-04T19:12:49.259Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.810000002,0.14,15,automatic,nc,nc
-2025-04-04T19:11:09.240Z,38.836498260498,-122.78616333008,2.0899999141693,0.56,md,9,104,0.003782,0.01,nc,nc75160167,2025-04-04T19:12:44.212Z,"6 km WNW of Cobb, CA",earthquake,0.44,0.649999976,0.35,10,automatic,nc,nc
+2025-04-04T19:11:09.240Z,38.836498260498,-122.78616333008,2.0899999141693,0.56,md,9,104,0.003782,0.01,nc,nc75160167,2025-04-04T19:27:16.990Z,"6 km WNW of Cobb, CA",earthquake,0.44,0.649999976,0.35,10,automatic,nc,nc
 2025-04-04T19:06:11.610Z,36.7061,-116.4903,0,0.5,ml,10,185.88,0.135,0.1825,nn,nn00895667,2025-04-04T19:08:21.293Z,"32 km SE of Beatty, Nevada",earthquake,,9.5,0.37,5,automatic,nn,nn
 2025-04-04T19:02:53.050Z,33.8641667,-117.5151667,1.08,1.14,ml,30,56,0.07472,0.31,ci,ci40916487,2025-04-04T19:08:10.518Z,"2 km SSE of Home Gardens, CA",earthquake,0.47,0.69,0.343,31,automatic,ci,ci
 2025-04-04T18:57:01.258Z,61.4679,-151.7174,76.3,1.8,ml,,,,0.55,ak,ak0254brkn7x,2025-04-04T18:59:10.532Z,"49 km NW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
