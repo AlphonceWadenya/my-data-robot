@@ -206,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-04T20:12:33.730Z,34.2515,-116.4425,7.53,1.61,ml,45,43,0.06253,0.16,ci,ci40916655,2025-04-04T22:24:15.180Z,"15 km N of Yucca Valley, CA",earthquake,0.16,0.44,0.111,28,reviewed,ci,ci
 2025-04-04T20:05:17.180Z,33.3461667,-116.3506667,7.91,0.86,ml,11,152,0.02379,0.13,ci,ci40916623,2025-04-04T22:27:27.859Z,"10 km NNE of Borrego Springs, CA",earthquake,0.52,0.75,0.21,13,reviewed,ci,ci
 2025-04-04T20:04:38.577Z,-6.2053,151.764,10,6.9,mww,93,42,2.04,1.12,us,us6000q41n,2025-04-04T22:31:25.310Z,"194 km ESE of Kimbe, Papua New Guinea",earthquake,6.8,1.834,0.037,70,reviewed,us,us
-2025-04-04T19:54:02.667Z,60.2361,-152.4658,104.5,2.4,ml,,,,0.32,ak,ak0254bs5fs1,2025-04-04T22:00:28.040Z,"48 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
