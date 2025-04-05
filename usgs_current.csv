@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-05T09:52:21.339Z,61.9141,-149.182,18.4,1.6,ml,,,,0.43,ak,ak0254d9q28l,2025-04-05T09:53:34.924Z,"19 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-04-05T09:47:15.890Z,38.836833953857,-122.80982971191,1.9800000190735,1.03,md,23,49,0.01342,0.02,nc,nc75160477,2025-04-05T09:48:54.111Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.50999999,0.09,24,automatic,nc,nc
 2025-04-05T09:46:57.680Z,38.831001281738,-122.81733703613,2.0699999332428,0.74,md,12,58,0.00948,0.01,nc,nc75160472,2025-04-05T09:48:34.495Z,"8 km NNW of The Geysers, CA",earthquake,0.33,0.899999976,0.11,12,automatic,nc,nc
 2025-04-05T09:45:22.342Z,58.6891,-153.9221,30.6,2,ml,,,,0.74,ak,ak0254d9okay,2025-04-05T09:47:06.589Z,"91 km NW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
