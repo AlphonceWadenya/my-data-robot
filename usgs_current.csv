@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-06T05:58:07.390Z,38.824501037598,-122.76300048828,1.8899999856949,2.58,md,73,59,0.008043,0.08,nc,nc75160987,2025-04-06T05:59:45.825Z,"3 km WNW of Cobb, CA",earthquake,0.14,0.239999995,0.16,90,automatic,nc,nc
 2025-04-06T05:36:45.020Z,33.5553333,-116.6658333,10.4,0.69,ml,33,37,0.03155,0.13,ci,ci40917711,2025-04-06T05:42:11.995Z,"1 km E of Anza, CA",earthquake,0.16,0.28,0.17,19,automatic,ci,ci
 2025-04-06T05:27:22.800Z,33.4181667,-116.4498333,13.95,1.52,ml,81,21,0.1145,0.2,ci,ci40917703,2025-04-06T05:38:22.070Z,"19 km NNW of Borrego Springs, CA",earthquake,0.14,0.35,0.227,26,automatic,ci,ci
 2025-04-06T05:23:14.919Z,39.0549,-119.0228,7.2,1.6,ml,20,67.46,0.115,0.1642,nn,nn00895739,2025-04-06T05:25:05.759Z,"14 km ENE of Yerington, Nevada",earthquake,,1.1,0.2,9,automatic,nn,nn
@@ -21,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-06T03:19:05.896Z,61.0517,-147.0106,25.3,1.6,ml,,,,0.36,ak,ak0254ethpa5,2025-04-06T03:20:50.369Z,"27 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-04-06T03:14:48.326Z,31.67,-104.426,7.4841,3,ml,16,62,0,0.2,tx,tx2025grvf,2025-04-06T03:36:50.956Z,"56 km S of Whites City, New Mexico",earthquake,1.0653228889494,0.92518470419604,0.2,10,reviewed,tx,tx
 2025-04-06T03:14:07.169Z,-6.242,151.3896,10,4.4,mb,28,124,2.178,0.94,us,us6000q4c6,2025-04-06T03:31:35.040Z,"158 km ESE of Kimbe, Papua New Guinea",earthquake,7.72,1.916,0.134,18,reviewed,us,us
-2025-04-06T03:07:14.490Z,36.787998199463,-121.34850311279,1.3999999761581,1.68,md,11,149,0.0804,0.05,nc,nc75160947,2025-04-06T03:47:20.858Z,"3 km W of Tres Pinos, CA",earthquake,0.33,2.00999999,0.31,8,automatic,nc,nc
+2025-04-06T03:07:14.490Z,36.787998199463,-121.34850311279,1.3999999761581,1.68,md,11,149,0.0804,0.05,nc,nc75160947,2025-04-06T05:57:15.722Z,"3 km W of Tres Pinos, CA",earthquake,0.33,2.00999999,0.31,8,automatic,nc,nc
 2025-04-06T03:01:02.519Z,61.596,-146.5641,22.5,1.7,ml,,,,0.91,ak,ak0254etdu4r,2025-04-06T03:03:10.081Z,"45 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-04-06T02:58:29.020Z,33.8695,-116.1823333,5.72,0.88,ml,10,156,0.0563,0.1,ci,ci40917639,2025-04-06T03:02:34.450Z,"17 km N of Indio, CA",earthquake,0.65,0.6,0.112,20,automatic,ci,ci
 2025-04-06T02:57:33.874Z,40.408,-126.1176,10,2.7,ml,24,252,1.525,0.66,us,us6000q4c3,2025-04-06T03:09:37.040Z,"158 km W of Ferndale, California",earthquake,4.19,2.012,0.034,116,reviewed,us,us
