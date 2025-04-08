@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-08T23:29:01.405Z,31.515,-104.001,4.7532,1.9,ml,15,68,0,0.2,tx,tx2025gxah,2025-04-08T23:39:31.596Z,"29 km NW of Toyah, Texas",earthquake,0,1.3706386089325,0.1,13,automatic,tx,tx
 2025-04-08T23:24:07.606Z,60.2046,-151.118,55.1,1.5,ml,,,,0.4,ak,ak0254igi52w,2025-04-08T23:25:56.835Z,"15 km E of Clam Gulch, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2025-04-08T23:18:28.620Z,38.773998260498,-122.75949859619,-0.83999997377396,0.42,md,7,180,0.005879,0.12,nc,nc75162852,2025-04-08T23:20:01.118Z,"0 km SW of The Geysers, CA",earthquake,2.16,4.19000006,0.19,6,automatic,nc,nc
 2025-04-08T23:06:26.776Z,64.974,-147.4117,4.3,1.4,ml,,,,0.61,ak,ak0254igebo5,2025-04-08T23:08:20.926Z,"9 km E of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -232,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-07T23:53:04.194Z,59.9612,-151.4711,40.4,2,ml,,,,0.16,ak,ak0254gt5037,2025-04-07T23:54:51.152Z,"14 km E of Happy Valley, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2025-04-07T23:50:16.120Z,44.483,-123.85316666667,-0.47,1.88,ml,7,192,0.0138,0.31,uw,uw62081162,2025-04-08T04:51:47.650Z,"16 km SSE of Toledo, Oregon",explosion,1.11,31.61,0.019690973848252,3,reviewed,uw,uw
 2025-04-07T23:48:22.910Z,38.841499328613,-122.8253326416,1.6100000143051,0.23,md,11,72,0.008446,0.01,nc,nc75162157,2025-04-08T00:17:19.720Z,"9 km WNW of Cobb, CA",earthquake,0.31,0.779999971,0.11,12,automatic,nc,nc
-2025-04-07T23:40:24.710Z,40.251167297363,-124.55783081055,15.760000228882,2.8,md,15,294,0.1688,0.09,nc,nc75162152,2025-04-08T01:22:19.152Z,"25 km W of Petrolia, CA",earthquake,4.09,1.60000002,0.07,10,automatic,nc,nc
