@@ -291,4 +291,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-10T14:11:56.649Z,39.161,-119.0548,6.1,1.5,ml,23,30.55,0.015,0.1111,nn,nn00896010,2025-04-10T17:14:00.532Z,"21 km NNE of Yerington, Nevada",earthquake,,0.7,0.29,11,reviewed,nn,nn
 2025-04-10T14:06:57.380Z,38.7945,-122.752,1.04,0.21,md,14,115,0.008586,0.03,nc,nc75162946,2025-04-10T18:27:19.145Z,"2 km NNE of The Geysers, CA",earthquake,0.2,0.21,0.281,10,reviewed,nc,nc
 2025-04-10T14:05:06.860Z,33.9016667,-116.2176667,7.38,0.88,ml,28,49,0.04379,0.13,ci,ci40921103,2025-04-10T17:34:19.211Z,"18 km ENE of Thousand Palms, CA",earthquake,0.18,0.42,0.124,17,reviewed,ci,ci
-2025-04-10T13:53:01.330Z,47.794,-122.29016666667,21.13,0.91,md,7,162,0.1516,0.13,uw,uw62089676,2025-04-10T18:34:28.010Z,"1 km ENE of Mountlake Terrace, Washington",earthquake,0.59,1.07,0.11316705009308,7,reviewed,uw,uw
