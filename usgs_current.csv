@@ -58,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-16T06:25:49.080Z,33.0458333,-116.5976667,13.41,0.89,ml,46,41,0.03505,0.18,ci,ci40929607,2025-04-16T06:29:27.992Z,"4 km S of Julian, CA",earthquake,0.18,0.4,0.221,20,automatic,ci,ci
 2025-04-16T06:22:51.270Z,33.4136667,-116.6148333,7.64,0.65,ml,42,38,0.05173,0.17,ci,ci40929599,2025-04-16T06:26:39.979Z,"15 km N of Warner Springs, CA",earthquake,0.16,0.48,0.131,18,automatic,ci,ci
 2025-04-16T05:55:18.560Z,33.1505,-116.4638333,-0.78,0.23,ml,8,176,0.1319,0.33,ci,ci40929591,2025-04-16T05:59:35.806Z,"14 km SW of Borrego Springs, CA",earthquake,1.44,1.62,0.183,3,automatic,ci,ci
-2025-04-16T05:52:34.175Z,19.6218,-103.3656,35,4.4,mb,66,170,2.016,1.2,us,us6000q6du,2025-04-16T08:59:06.798Z,"5 km E of Zapotiltic, Mexico",earthquake,5.85,1.944,0.042,163,reviewed,us,us
+2025-04-16T05:52:34.175Z,19.6218,-103.3656,35,4.4,mb,66,170,2.016,1.2,us,us6000q6du,2025-04-16T11:46:49.937Z,"5 km E of Zapotiltic, Mexico",earthquake,5.85,1.944,0.042,163,reviewed,us,us
 2025-04-16T05:22:39.275Z,61.5582,-141.6605,14.4,1.4,ml,,,,0.16,ak,ak0254ve2r5j,2025-04-16T05:24:51.536Z,"68 km E of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-04-16T05:22:26.845Z,5.5621,126.587,10,4.7,mb,37,114,1.377,0.99,us,us6000q6dq,2025-04-16T06:18:11.040Z,"99 km SSE of Pondaguitan, Philippines",earthquake,8.27,1.893,0.097,32,reviewed,us,us
 2025-04-16T05:17:47.890Z,33.0493333,-116.5943333,13.64,1.01,ml,51,26,0.03168,0.18,ci,ci40929575,2025-04-16T05:21:42.420Z,"3 km SSE of Julian, CA",earthquake,0.16,0.37,0.24,25,automatic,ci,ci
@@ -244,5 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-15T11:55:39.780Z,48.7595,-119.54333333333,13.39,1.17,ml,7,225,0.0766,0.16,uw,uw62091606,2025-04-15T17:59:45.790Z,"9 km SE of Loomis, Washington",earthquake,0.7,0.82,0.11393254669749,5,reviewed,uw,uw
 2025-04-15T11:50:51.250Z,33.0481667,-116.5893333,14.37,1.29,ml,68,21,0.03344,0.19,ci,ci40928255,2025-04-15T13:52:54.710Z,"4 km SSE of Julian, CA",earthquake,0.15,0.33,0.294,27,reviewed,ci,ci
 2025-04-15T11:49:30.810Z,33.0505,-116.6005,13.37,0.53,ml,22,47,0.09334,0.17,ci,ci40928239,2025-04-15T13:52:13.238Z,"3 km S of Julian, CA",earthquake,0.29,0.75,0.13,10,reviewed,ci,ci
-2025-04-15T11:48:02.315Z,60.6106,-151.1559,69.4,1.9,ml,,,,0.64,ak,ak0254tu9i4p,2025-04-16T08:16:05.063Z,"8 km NE of Kenai, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2025-04-15T11:43:38.790Z,36.0286667,-117.7771667,1.27,1.24,ml,23,77,0.01025,0.17,ci,ci40928231,2025-04-15T13:52:17.238Z,"16 km E of Coso Junction, CA",earthquake,0.2,0.19,0.182,21,reviewed,ci,ci
