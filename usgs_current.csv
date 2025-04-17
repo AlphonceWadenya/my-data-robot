@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-17T15:54:46.370Z,32.6725,-115.8476667,9.24,1.87,ml,35,67,0.06768,0.23,ci,ci40931311,2025-04-17T15:58:18.343Z,"15 km ESE of Ocotillo, CA",earthquake,0.29,0.57,0.21,28,automatic,ci,ci
+2025-04-17T15:53:37.280Z,38.832332611084,-122.81733703613,1.539999961853,0.91,md,11,85,0.01058,0.01,nc,nc75167076,2025-04-17T15:55:16.734Z,"8 km NNW of The Geysers, CA",earthquake,0.34,0.709999979,0.21,14,automatic,nc,nc
 2025-04-17T15:48:36.455Z,65.5487,-149.8342,21.5,1.2,ml,,,,0.83,ak,ak0254x7q03h,2025-04-17T15:50:20.389Z,"16 km ENE of Rampart, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-04-17T15:46:05.857Z,31.586,-104.578,3.1164,2.2,ml,6,174,0.1,0.1,tx,tx2025hmwn,2025-04-17T15:53:06.531Z,"65 km NNE of Van Horn, Texas",earthquake,0,3.8641686439514,0.1,6,automatic,tx,tx
 2025-04-17T15:38:03.177Z,59.7376,-152.1027,75.734,2.6,ml,43,78,0.243,0.76,us,us6000q6r5,2025-04-17T15:52:59.040Z,"15 km WSW of Anchor Point, Alaska",earthquake,5.67,7.183,0.04,83,reviewed,us,us
