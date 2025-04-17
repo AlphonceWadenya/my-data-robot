@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-16T12:17:36.650Z,34.3073333,-119.116,3.35,1.55,ml,16,187,0.05873,0.33,ci,ci40929903,2025-04-16T12:21:29.135Z,"7 km SW of Santa Paula, CA",earthquake,1.73,1,0.242,30,automatic,ci,ci
 2025-04-16T12:06:08.940Z,38.788501739502,-122.74700164795,-0.15999999642372,0.41,md,7,101,0.009599,0.01,nc,nc75166241,2025-04-16T13:57:16.904Z,"1 km NE of The Geysers, CA",earthquake,0.39,0.959999979,0.2,7,automatic,nc,nc
 2025-04-16T12:05:59.912Z,61.4091,-145.262,21.4,1.4,ml,,,,0.75,ak,ak0254vi56t3,2025-04-16T12:07:41.003Z,"27 km S of Tonsina, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-04-16T11:56:51.890Z,33.7838333,-116.9405,14.59,0.95,ml,50,24,0.03319,0.19,ci,ci40929895,2025-04-16T12:00:19.699Z,"2 km E of San Jacinto, CA",earthquake,0.17,0.33,0.148,28,automatic,ci,ci
