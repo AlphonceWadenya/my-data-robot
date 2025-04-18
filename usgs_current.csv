@@ -217,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-17T10:07:20.770Z,61.346,-152.29833333333,2.87,-0.54,ml,8,138,0.09422,0.24,av,av93039299,2025-04-17T21:12:21.430Z,"69 km WNW of Beluga, Alaska",earthquake,0.69,0.98,0.18004181367866,8,reviewed,av,av
 2025-04-17T10:04:54.880Z,63.1256,-150.4477,107.3,1.5,ml,,,,0.34,ak,ak0254x4hfzk,2025-04-17T20:08:51.106Z,"71 km NNE of Petersville, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2025-04-17T09:49:34.880Z,33.0718333,-116.6251667,13.83,0.79,ml,46,27,0.02492,0.18,ci,ci40930999,2025-04-17T13:49:39.970Z,"2 km WSW of Julian, CA",earthquake,0.2,0.43,0.116,19,reviewed,ci,ci
-2025-04-17T09:45:31.559Z,2.2395,-96.4748,10,5.2,mww,71,177,6.12,1.24,us,us6000q6q4,2025-04-17T10:36:00.040Z,"west of the Galapagos Islands",earthquake,12.08,1.939,0.058,29,reviewed,us,us
