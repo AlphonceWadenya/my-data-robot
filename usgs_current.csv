@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-19T06:51:12.569Z,39.5996,-119.0733,15.7,1.3,ml,11,116.13,0.405,0.2495,nn,nn00896449,2025-04-19T06:53:23.747Z,"15 km E of Fernley, Nevada",earthquake,,1.4,0.22,5,automatic,nn,nn
 2025-04-19T06:16:46.365Z,63.1185,-150.6416,110.6,1.9,ml,,,,0.47,ak,ak02550d8yho,2025-04-19T06:19:06.859Z,"69 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-04-19T06:14:36.979Z,31.65,-104.308,4.4609,2,ml,17,69,0,0.2,tx,tx2025hpus,2025-04-19T06:20:05.707Z,"58 km S of Whites City, New Mexico",earthquake,0,1.3513250350952,0.1,13,automatic,tx,tx
 2025-04-19T06:12:43.817Z,62.2838,-149.8432,0,2,ml,,,,0.68,ak,ak02550d83fh,2025-04-19T06:14:40.277Z,"13 km N of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
