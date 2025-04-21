@@ -230,5 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-20T14:03:11.540Z,33.8241667,-117.6793333,3.07,1.35,ml,72,28,0.05107,0.19,ci,ci40934255,2025-04-20T14:14:09.280Z,"12 km WSW of Corona, CA",earthquake,0.15,0.21,0.097,29,automatic,ci,ci
 2025-04-20T14:01:42.593Z,62.3867,-150.7485,15.6,1.1,ml,,,,0.5,ak,ak025525gjsj,2025-04-20T14:04:17.738Z,"12 km S of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-20T13:56:31.025Z,60.4109,-151.556,33.2,0.9,ml,,,,0.87,ak,ak0255256voe,2025-04-20T13:58:25.491Z,"14 km WNW of Cohoe, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-04-20T13:53:19.480Z,38.84033203125,-122.83750152588,1.6100000143051,0.42,md,9,94,0.002346,0.01,nc,nc75168716,2025-04-20T14:22:20.130Z,"10 km NW of The Geysers, CA",earthquake,0.39,0.699999988,0.28,10,automatic,nc,nc
-2025-04-20T13:52:16.770Z,63.5176,-151.112,0,1.1,ml,,,,0.55,ak,ak0255255zpp,2025-04-20T13:53:55.736Z,"30 km E of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
