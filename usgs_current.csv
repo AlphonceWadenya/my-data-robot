@@ -146,7 +146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-25T19:47:29.650Z,38.804164886475,-122.7808303833,1.4400000572205,1.05,md,15,77,0.009082,0.02,nc,nc75171476,2025-04-25T20:22:19.479Z,"4 km NNW of The Geysers, CA",earthquake,0.23,0.460000008,0.12,16,automatic,nc,nc
 2025-04-25T19:39:49.082Z,60.0999,-153.3784,144.5,1.1,ml,,,,0.19,ak,ak0255aiclzw,2025-04-25T19:41:53.049Z,"53 km ESE of Port Alsworth, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-04-25T19:20:38.604Z,38.4819,-117.6077,3.3,2.6,ml,11,81.66,0.048,0.1412,nn,nn00896803,2025-04-25T20:46:53.628Z,"44 km ENE of Mina, Nevada",earthquake,,2,0.34,7,reviewed,nn,nn
-2025-04-25T19:17:03.507Z,58.1109,-153.1839,46,4.5,ml,,,,0.62,ak,ak0255ai7sp2,2025-04-25T23:19:10.119Z,"17 km WNW of Aleneva, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2025-04-25T19:17:03.507Z,58.1109,-153.1839,46,4.5,ml,,,,0.62,ak,ak0255ai7sp2,2025-04-26T13:51:47.959Z,"17 km WNW of Aleneva, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2025-04-25T19:10:05.620Z,38.826831817627,-122.8125,1.7699999809265,0.72,md,8,158,0.02081,0.01,nc,nc75171441,2025-04-25T19:52:17.194Z,"7 km NNW of The Geysers, CA",earthquake,0.6,1.47000003,0.16,8,automatic,nc,nc
 2025-04-25T19:09:49.190Z,34.174,-117.9288333,-0.91,0.9,ml,13,123,0.04439,0.24,ci,ci41134216,2025-04-25T23:54:05.018Z,"5 km NNW of Azusa, CA",quarry blast,0.75,31.61,0.098,9,reviewed,ci,ci
 2025-04-25T19:03:40.390Z,19.229166666667,-67.747333333333,17.38,3.42,md,21,250,0.9303,0.18,pr,pr71480063,2025-04-25T21:36:18.040Z,"99 km NE of Punta Cana, Dominican Republic",earthquake,1.55,3.09,0.081268751910273,14,reviewed,pr,pr
