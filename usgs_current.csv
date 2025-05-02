@@ -256,4 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-01T21:56:00.340Z,17.972166666667,-66.953666666667,8.9,1.53,md,3,182,0.07088,0.05,pr,pr71481098,2025-05-01T23:22:34.490Z,"4 km WSW of Fuig, Puerto Rico",earthquake,2.47,1,0.044786179244165,3,reviewed,pr,pr
 2025-05-01T21:51:05.500Z,36.0891667,-117.0878333,6.23,1.85,ml,16,73,0.1286,0.14,ci,ci37721116,2025-05-02T00:18:50.731Z,"45 km NE of Trona, CA",earthquake,0.25,0.97,0.131,36,reviewed,ci,ci
 2025-05-01T21:50:31.950Z,36.0933333,-117.0806667,8.18,1.58,ml,14,75,0.1245,0.14,ci,ci41142280,2025-05-02T00:12:11.948Z,"45 km SSW of Furnace Creek, CA",earthquake,0.43,1.58,0.14,25,reviewed,ci,ci
-2025-05-01T21:44:58.990Z,46.047166666667,-122.818,-0.41,1.45,ml,13,136,0.1184,0.13,uw,uw62091637,2025-05-02T03:55:13.520Z,"4 km NNE of Kalama, Washington",explosion,0.71,31.61,0.15416004865634,6,reviewed,uw,uw
