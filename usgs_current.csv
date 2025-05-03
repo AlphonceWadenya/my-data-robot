@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-05-03T14:29:25.620Z,39.413333892822,-123.35717010498,1.8500000238419,2.19,md,21,73,0.05765,0.07,nc,nc75175966,2025-05-03T14:35:01.975Z,"0 km  of Willits, CA",earthquake,0.23,8.93999958,0.14,17,automatic,nc,nc
+2025-05-03T14:38:32.989Z,59.8151,-153.144,94.9,1.9,ml,,,,0.29,ak,ak0255nnnyyq,2025-05-03T14:40:35.754Z,"54 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-05-03T14:29:25.620Z,39.413333892822,-123.35717010498,1.8500000238419,2.19,md,21,73,0.05765,0.07,nc,nc75175966,2025-05-03T14:42:17.497Z,"0 km  of Willits, CA",earthquake,0.23,8.93999958,0.14,17,automatic,nc,nc
 2025-05-03T14:25:13.700Z,39.0878,-119.0158,9,0.8,ml,9,85.28,0.083,0.197,nn,nn00897181,2025-05-03T14:27:24.771Z,"17 km NE of Yerington, Nevada",earthquake,,0.8,0.16,4,automatic,nn,nn
 2025-05-03T14:23:40.315Z,61.6993,-149.8182,32,2.1,ml,,,,0.65,ak,ak0255nnkrsf,2025-05-03T14:25:56.337Z,"7 km N of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-03T14:22:35.470Z,38.830833435059,-122.81349945068,2.0099999904633,1.36,md,28,42,0.007895,0.02,nc,nc75175956,2025-05-03T14:37:18.469Z,"8 km NNW of The Geysers, CA",earthquake,0.19,0.379999995,0.16,29,automatic,nc,nc
@@ -228,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-02T14:48:51.812Z,-57.1513,-67.5538,10,4.8,mb,34,145,3.701,0.78,us,us7000pwld,2025-05-02T15:04:49.040Z,"264 km S of Ushuaia, Argentina",earthquake,12.2,1.918,0.107,27,reviewed,us,us
 2025-05-02T14:47:08.060Z,38.825832366943,-122.8570022583,2.3399999141693,0.77,md,11,115,0.0168,0.01,nc,nc75175286,2025-05-02T16:07:19.630Z,"10 km NW of The Geysers, CA",earthquake,0.31,0.699999988,0.46,13,automatic,nc,nc
 2025-05-02T14:45:53.330Z,38.814666748047,-122.82250213623,2.289999961853,0.82,md,9,61,0.007793,0.02,nc,nc75175281,2025-05-02T15:52:18.530Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.589999974,0.24,10,automatic,nc,nc
-2025-05-02T14:43:45.336Z,-57.2969,-68.0026,10,4.9,mb,30,137,3.728,0.5,us,us7000pwlb,2025-05-02T14:56:48.040Z,"277 km S of Ushuaia, Argentina",earthquake,14.6,1.959,0.106,28,reviewed,us,us
