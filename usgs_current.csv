@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-03T05:56:00.300Z,38.840831756592,-122.82350158691,1.6599999666214,0.98,md,19,66,0.009624,0.03,nc,nc75175781,2025-05-03T05:57:35.772Z,"9 km WNW of Cobb, CA",earthquake,0.24,0.469999999,0.25,19,automatic,nc,nc
+2025-05-03T05:53:27.860Z,35.3555,-117.8043333,7.04,1.35,ml,37,37,0.0942,0.19,ci,ci41143664,2025-05-03T05:57:19.677Z,"16 km W of Johannesburg, CA",earthquake,0.2,0.56,0.163,26,automatic,ci,ci
 2025-05-03T05:50:01.060Z,38.817832946777,-122.82133483887,2.2699999809265,1.12,md,23,61,0.0104,0.02,nc,nc75175776,2025-05-03T05:51:36.103Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.430000007,0.17,25,automatic,nc,nc
 2025-05-03T05:41:31.820Z,38.793167114258,-122.73867034912,1.1100000143051,1.1,md,13,94,0.01003,0.03,nc,nc75175771,2025-05-03T05:43:06.474Z,"2 km NE of The Geysers, CA",earthquake,0.27,0.610000014,0.17,12,automatic,nc,nc
 2025-05-03T05:41:26.727Z,59.4986,-152.3823,80.9,2.1,ml,,,,0.37,ak,ak0255nibp6o,2025-05-03T05:43:55.736Z,"30 km WNW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
