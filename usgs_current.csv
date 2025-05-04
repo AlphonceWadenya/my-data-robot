@@ -188,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-03T18:07:54.449Z,63.1499,-150.7706,116.2,2,ml,,,,0.42,ak,ak0255npv3uc,2025-05-03T18:10:21.085Z,"64 km SE of Denali National Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-05-03T18:00:03.210Z,61.8504,-150.7607,68.5,1.4,ml,,,,0.64,ak,ak0255npthvl,2025-05-03T18:02:40.526Z,"36 km NNW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-05-03T17:50:22.620Z,33.5301667,-116.7238333,4.89,1.26,ml,59,26,0.0369,0.19,ci,ci41144040,2025-05-04T14:54:04.390Z,"5 km WSW of Anza, CA",earthquake,0.14,0.45,0.178,28,reviewed,ci,ci
-2025-05-03T17:39:40.370Z,33.058,-116.6,12.66,0.55,ml,14,87,0.02301,0.17,ci,ci41144032,2025-05-03T17:43:51.365Z,"2 km S of Julian, CA",earthquake,0.51,0.64,0.165,7,automatic,ci,ci
