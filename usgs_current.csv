@@ -226,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-13T23:14:40.200Z,44.9165,-122.58683333333,16.12,1.67,ml,15,73,0.05742,0.26,uw,uw62098772,2025-05-14T19:38:26.790Z,"14 km N of Mehama, Oregon",earthquake,0.55,0.91,0.14993654609589,9,reviewed,uw,uw
 2025-05-13T23:07:48.712Z,62.3424,-149.1551,0,1.9,ml,,,,0.61,ak,ak02564c7qd3,2025-05-13T23:09:47.062Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-05-13T22:51:15.597Z,35.2122,26.9972,74,6,mww,118,42,1.355,0.59,us,us7000pz2p,2025-05-14T22:22:53.739Z,"23 km SSE of Fry, Greece",earthquake,6.28,1.881,0.035,80,reviewed,us,us
-2025-05-13T22:43:48.370Z,33.4741667,-116.5043333,12.14,1.29,ml,49,27,0.08432,0.18,ci,ci41152408,2025-05-14T13:59:08.847Z,"18 km ESE of Anza, CA",earthquake,0.16,0.42,0.169,28,reviewed,ci,ci
