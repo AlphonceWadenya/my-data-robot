@@ -212,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-14T19:46:59.510Z,33.0623333,-116.6075,12.89,1,ml,35,33,0.02039,0.23,ci,ci41152928,2025-05-14T20:20:20.060Z,"2 km SSW of Julian, CA",earthquake,0.25,0.64,0.169,24,reviewed,ci,ci
 2025-05-14T19:41:53.080Z,18.3505,-66.2521,67,3.65,md,26,167,0.1735,0.19,pr,pr2025134001,2025-05-15T00:37:04.655Z,"1 km SSE of Galateo, Puerto Rico",earthquake,0.75,0.57,0.1,20,reviewed,pr,pr
 2025-05-14T19:37:16.859Z,36.01416667,-97.92566667,5.88,0.99,ml,28,76,0.07828463788,0.2,ok,ok2025jkmt,2025-05-15T16:53:12.104Z,"3 km NNW of Dover, Oklahoma",earthquake,,0.6,0.28,13,reviewed,ok,ok
-2025-05-14T19:31:41.284Z,62.6291,-149.7832,61.4,1.6,ml,,,,0.42,ak,ak02565xih1s,2025-05-14T19:33:37.680Z,"25 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-05-14T19:27:42.240Z,33.9263333,-116.9216667,9.71,0.87,ml,30,45,0.1387,0.19,ci,ci41152888,2025-05-14T20:20:34.061Z,"4 km W of Banning, CA",earthquake,0.25,0.66,0.215,25,reviewed,ci,ci
