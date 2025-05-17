@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-17T05:47:01.840Z,35.6303333,-117.4808333,8.7,1.3,ml,33,51,0.05804,0.15,ci,ci41154872,2025-05-17T05:50:29.424Z,"17 km SSW of Searles Valley, CA",earthquake,0.17,0.4,0.202,26,automatic,ci,ci
+2025-05-17T05:45:09.901Z,38.4395,-116.5357,1,1.6,ml,12,206.37,0.651,0.2216,nn,nn00897706,2025-05-17T05:47:59.301Z,"73 km NE of Tonopah, Nevada",earthquake,,2.9,0.22,10,automatic,nn,nn
 2025-05-17T05:33:16.715Z,60.1431,-153.2419,153.4,2,ml,,,,0.45,ak,ak0256anstma,2025-05-17T05:39:20.040Z,"59 km E of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-05-17T05:29:05.879Z,60.1264,-152.5998,90.4,1.4,ml,,,,0.23,ak,ak0256anrxwb,2025-05-17T05:31:12.029Z,"52 km WNW of Happy Valley, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-05-17T05:28:58.900Z,38.766498565674,-122.70016479492,1.6499999761581,1.21,md,6,118,0.001813,0.02,nc,nc75183317,2025-05-17T05:30:32.793Z,"1 km SW of Anderson Springs, CA",earthquake,0.44,0.479999989,0.21,5,automatic,nc,nc
@@ -14,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-17T04:58:30.210Z,38.966167449951,-123.06033325195,2.1500000953674,1.85,md,18,78,0.02885,0.04,nc,nc75183282,2025-05-17T05:17:21.339Z,"15 km WSW of Lakeport, CA",earthquake,0.3,0.769999981,0.19,15,automatic,nc,nc
 2025-05-17T04:45:38.720Z,38.76566696167,-122.74166870117,1.6100000143051,1.73,md,29,61,0.01312,0.05,nc,nc75183277,2025-05-17T05:07:18.278Z,"2 km SSE of The Geysers, CA",earthquake,0.25,0.360000014,0.15,31,automatic,nc,nc
 2025-05-17T04:44:30.000Z,40.28133392334,-124.69300079346,2.460000038147,2.47,md,18,294,0.2681,0.19,nc,nc75183272,2025-05-17T04:52:17.170Z,"35 km W of Petrolia, CA",earthquake,6.19,7.63999987,0.11,15,automatic,nc,nc
-2025-05-17T04:36:51.660Z,40.269832611084,-124.66233062744,0.52999997138977,2.54,md,12,291,0.2453,0.11,nc,nc75183267,2025-05-17T04:47:19.138Z,"33 km W of Petrolia, CA",earthquake,5.95,9.31999969,0.12,12,automatic,nc,nc
+2025-05-17T04:36:51.660Z,40.269832611084,-124.66233062744,0.52999997138977,2.54,md,12,291,0.2453,0.11,nc,nc75183267,2025-05-17T05:47:18.536Z,"33 km W of Petrolia, CA",earthquake,5.95,9.31999969,0.12,12,automatic,nc,nc
 2025-05-17T04:35:22.646Z,31.678,-104.399,3.9198,1.9,ml,8,138,0,0.2,tx,tx2025jovt,2025-05-17T05:44:27.765Z,"55 km S of Whites City, New Mexico",earthquake,0,1.9026198387146,0.2,6,automatic,tx,tx
 2025-05-17T04:34:26.120Z,34.3191667,-117.7146667,7.34,1.13,ml,40,76,0.06958,0.17,ci,ci41154848,2025-05-17T04:49:52.653Z,"9 km WSW of Wrightwood, CA",earthquake,0.21,0.48,0.175,10,automatic,ci,ci
 2025-05-17T04:34:23.602Z,31.674,-104.396,7.843,3.2,ml,16,69,0,0.2,tx,tx2025jovq,2025-05-17T05:23:18.432Z,"55 km S of Whites City, New Mexico",earthquake,0.8743473993141,0.72458532283737,0.2,17,reviewed,tx,tx
