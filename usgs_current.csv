@@ -210,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-16T21:11:15.625Z,67.3398,-153.794,0,1.4,ml,,,,0.59,ak,ak025699noy2,2025-05-16T21:14:17.402Z,"99 km NNW of Alatna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-05-16T21:04:53.820Z,61.311666666667,-152.25333333333,-2.36,-0.7,ml,8,121,0.06634,0.15,av,av93608441,2025-05-17T01:43:22.880Z,"65 km WNW of Beluga, Alaska",earthquake,0.42,1.75,0.24948028456876,8,reviewed,av,av
 2025-05-16T20:58:14.240Z,38.791667938232,-122.7773361206,1.4299999475479,1.11,md,13,79,0.008406,0.03,nc,nc75183082,2025-05-16T22:12:18.479Z,"2 km NW of The Geysers, CA",earthquake,0.26,0.49000001,0.38,16,automatic,nc,nc
-2025-05-16T20:56:03.680Z,33.0338333,-115.9865,9.11,0.83,ml,13,116,0.1395,0.16,ci,ci41154616,2025-05-16T21:30:29.116Z,"18 km SE of Ocotillo Wells, CA",earthquake,0.4,1.23,0.152,4,reviewed,ci,ci
