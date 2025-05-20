@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-20T07:01:59.890Z,34.2078333,-117.6348333,9.33,0.39,ml,22,66,0.03663,0.12,ci,ci41156984,2025-05-20T07:05:41.656Z,"11 km NNW of Rancho Cucamonga, CA",earthquake,0.26,0.33,0.172,6,automatic,ci,ci
 2025-05-20T06:32:34.096Z,58.4193,-154.3844,12.3,1.9,ml,,,,0.09,ak,ak0256fn04b5,2025-05-20T06:35:00.116Z,"94 km N of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-05-20T06:30:00.470Z,38.829498291016,-122.80249786377,1.5199999809265,0.43,md,6,151,0.008495,0.01,nc,nc75183981,2025-05-20T06:52:16.767Z,"7 km WNW of Cobb, CA",earthquake,0.68,1.91999996,0.35,8,automatic,nc,nc
 2025-05-20T06:21:33.168Z,60.9725,-151.7183,69.4,1.3,ml,,,,0.47,ak,ak0256fmxrd0,2025-05-20T06:23:59.527Z,"33 km WSW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
