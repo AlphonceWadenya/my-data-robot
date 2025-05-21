@@ -94,6 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-20T17:01:17.920Z,19.349833333333,-155.59033333333,-1.58,0.72,md,8,113,0.06331,0.16,hv,hv74676877,2025-05-20T19:26:40.710Z,"20 km NW of Pāhala, Hawaii",earthquake,0.36,0.56,0.15791152200268,6,reviewed,hv,hv
 2025-05-20T16:53:55.470Z,34.2238333,-117.4746667,11.5,2.53,ml,118,17,0.01198,0.2,ci,ci41157384,2025-05-20T17:04:51.430Z,"4 km SSE of Lytle Creek, CA",earthquake,0.11,0.29,0.201,20,automatic,ci,ci
 2025-05-20T16:39:12.930Z,35.6776667,-117.5631667,5.08,0.65,ml,21,60,0.1142,0.18,ci,ci41157368,2025-05-20T17:25:17.822Z,"12 km ENE of Ridgecrest, CA",earthquake,0.26,0.61,0.183,7,reviewed,ci,ci
+2025-05-20T16:36:29.520Z,61.390833333333,-152.39,2.63,0.07,ml,10,166,0.1325,0.13,av,av93613271,2025-05-21T03:58:24.210Z,"75 km WNW of Beluga, Alaska",earthquake,0.33,0.67,0.18211714398343,10,reviewed,av,av
 2025-05-20T16:26:19.490Z,44.8415,-111.512,17.59,0.23,ml,6,143,0.05141,0.08,mb,mb90088093,2025-05-20T23:12:55.760Z,"26 km WNW of Hebgen Lake Estates, Montana",earthquake,0.79,1.4,0.061542740755464,4,reviewed,mb,mb
 2025-05-20T16:22:49.369Z,0.6994,-25.9792,10,4.9,mb,68,101,11.839,0.61,us,us7000q0ci,2025-05-20T16:52:30.040Z,"central Mid-Atlantic Ridge",earthquake,7.76,1.891,0.071,62,reviewed,us,us
 2025-05-20T16:21:24.220Z,38.816665649414,-122.8048324585,3.0999999046326,1.08,md,25,38,0.007869,0.02,nc,nc75184146,2025-05-20T16:47:21.737Z,"6 km NNW of The Geysers, CA",earthquake,0.22,0.449999988,0.16,27,automatic,nc,nc
@@ -103,6 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-20T16:04:27.500Z,34.09,-117.2903333,13.53,1.43,ml,72,24,0.01655,0.2,ci,ci41157344,2025-05-20T16:15:34.370Z,"3 km NE of Colton, CA",earthquake,0.16,0.38,0.129,28,automatic,ci,ci
 2025-05-20T15:51:24.042Z,61.7858,-150.0715,24.9,3.1,ml,,,,0.9,ak,ak0256fsh2di,2025-05-20T20:02:13.934Z,"4 km NNW of Willow, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2025-05-20T15:48:32.670Z,38.822498321533,-122.79716491699,2.6400001049042,0.77,md,16,51,0.01012,0.02,nc,nc75184121,2025-05-20T16:37:19.679Z,"6 km NNW of The Geysers, CA",earthquake,0.24,0.610000014,0.15,18,automatic,nc,nc
+2025-05-20T15:36:58.950Z,52.133166666667,-174.3365,8.83,2.32,ml,9,212,0.1097,0.16,av,av93613241,2025-05-21T03:54:33.010Z,"11 km SW of Atka, Alaska",earthquake,1.17,1.77,0.3330604020174,8,reviewed,av,av
 2025-05-20T15:16:33.569Z,61.8118,-150.1859,11.2,1.3,ml,,,,0.52,ak,ak0256fs9l98,2025-05-20T15:18:21.863Z,"10 km NW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-20T15:11:59.570Z,61.277,-152.237,2.91,-0.86,ml,6,186,0.04127,0.1,av,av93042159,2025-05-21T03:51:27.050Z,"63 km WNW of Tyonek, Alaska",earthquake,0.5,0.92,0.31466229377868,6,reviewed,av,av
 2025-05-20T15:10:50.907Z,60.8726,-151.8356,79,1,ml,,,,0.28,ak,ak0256fs8caq,2025-05-20T15:13:04.077Z,"36 km NW of Nikiski, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -216,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-20T04:39:23.230Z,34.5796667,-118.0295,9.79,0.39,ml,15,129,0.05248,0.11,ci,ci41156920,2025-05-20T13:22:35.090Z,"6 km E of Palmdale, CA",earthquake,0.31,0.48,0.167,8,reviewed,ci,ci
 2025-05-20T04:21:36.409Z,62.9903,-151.3512,22.4,1.7,ml,,,,1.12,ak,ak0256flqweg,2025-05-20T04:24:12.490Z,"62 km NNW of Petersville, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2025-05-20T04:08:23.644Z,38.6597,-119.793,9.2,1.5,ml,17,57.26,0.035,0.1252,nn,nn00897778,2025-05-20T20:56:06.319Z,"3 km SSW of Markleeville, California",earthquake,,0.8,0.25,7,reviewed,nn,nn
-2025-05-20T03:58:32.929Z,31.663,-104.288,6.0999,1.7,ml,22,67,0.1,0.1,tx,tx2025jugu,2025-05-20T13:41:57.104Z,"57 km S of Whites City, New Mexico",earthquake,0.59502833482888,1.257944284165,0.2,16,reviewed,tx,tx
