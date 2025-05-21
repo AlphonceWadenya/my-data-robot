@@ -198,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-20T11:09:59.000Z,40.610500335693,-122.14433288574,9.3900003433228,1.61,md,9,86,0.0447,0.08,nc,nc75184061,2025-05-20T12:27:20.047Z,"7 km NE of Millville, CA",earthquake,0.41,0.829999983,0.1,5,automatic,nc,nc
 2025-05-20T10:53:33.136Z,63.0408,-151.5539,0,1.2,ml,,,,0.64,ak,ak0256fpicox,2025-05-20T10:56:29.502Z,"56 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-05-20T10:51:24.680Z,38.793167114258,-122.75299835205,1.6299999952316,0.76,md,9,87,0.01613,0.04,nc,nc75184056,2025-05-20T11:37:17.691Z,"2 km NNE of The Geysers, CA",earthquake,0.33,0.889999986,0.05,10,automatic,nc,nc
-2025-05-20T10:40:43.990Z,47.403333333333,-122.05583333333,15.53,1.75,ml,16,82,0.02711,0.2,uw,uw62113111,2025-05-21T00:03:42.470Z,"1 km NNW of Maple Valley, Washington",earthquake,0.51,0.65,0.14518064087528,13,reviewed,uw,uw
-2025-05-20T10:38:26.700Z,33.5368333,-116.7253333,3.93,0.5,ml,33,28,0.03019,0.17,ci,ci41157128,2025-05-20T13:11:33.953Z,"5 km WSW of Anza, CA",earthquake,0.16,0.36,0.111,17,reviewed,ci,ci
