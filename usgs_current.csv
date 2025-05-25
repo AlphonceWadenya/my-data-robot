@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-25T09:54:28.473Z,38.7834,-118.8325,9.5,0.8,ml,8,126.4,0.376,0.1993,nn,nn00897972,2025-05-25T09:56:35.845Z,"16 km NNW of Walker Lake, Nevada",earthquake,,2.6,0.17,3,automatic,nn,nn
 2025-05-25T09:42:50.300Z,33.0413333,-116.4165,9.99,0.73,ml,40,62,0.04023,0.16,ci,ci40975775,2025-05-25T09:46:16.994Z,"18 km ESE of Julian, CA",earthquake,0.2,0.37,0.142,14,automatic,ci,ci
 2025-05-25T09:40:56.560Z,34.94044876,-97.75920868,7.470135689,1.84,ml,17,78.59210205,0.07374884933,0.6153344862,ok,ok2025kdvp,2025-05-25T09:49:16.239Z,"3 km NNE of Alex, Oklahoma",earthquake,3.20031196,5.044203436,0.22,16,automatic,ok,ok
 2025-05-25T09:19:44.139Z,35.06016159,-97.81544495,5.643571377,1.61,ml,15,147.90242,0.1228265986,0.671085117,ok,ok2025kdux,2025-05-25T09:28:11.774Z,"11 km E of Chickasha, Oklahoma",earthquake,4.038004943,4.960547719,0.16,11,automatic,ok,ok
