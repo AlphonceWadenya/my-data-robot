@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-29T19:36:09.850Z,32.3785,-115.9315,-0.3,1.05,ml,21,92,0.2684,0.2,ci,ci40980135,2025-05-29T19:39:38.966Z,"40 km SW of Progreso, B.C., MX",earthquake,0.39,0.91,0.161,4,automatic,ci,ci
 2025-05-29T19:29:07.440Z,35.322,-117.8048333,6.52,1.47,ml,42,35,0.06395,0.16,ci,ci40980127,2025-05-29T19:32:48.496Z,"16 km WSW of Johannesburg, CA",earthquake,0.15,0.42,0.174,26,automatic,ci,ci
 2025-05-29T19:26:48.670Z,38.82500076294,-122.76633453369,2.210000038147,0.73,md,15,123,0.006136,0.02,nc,nc75188321,2025-05-29T19:28:24.117Z,"4 km WNW of Cobb, CA",earthquake,0.3,0.540000021,0.1,17,automatic,nc,nc
 2025-05-29T18:52:04.328Z,61.6732,-151.3299,15.7,1.2,ml,,,,0.3,ak,ak0256uq3o1c,2025-05-29T18:54:30.892Z,"35 km S of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
