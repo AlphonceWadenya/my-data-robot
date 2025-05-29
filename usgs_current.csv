@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-29T14:53:49.378Z,62.5587,-151.147,209.2,1.7,ml,,,,0.94,ak,ak0256unq8st,2025-05-29T14:57:29.915Z,"20 km WNW of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-05-29T14:38:52.870Z,32.9826667,-116.3913333,4.55,0.89,ml,34,66,0.01951,0.18,ci,ci40979735,2025-05-29T14:42:18.732Z,"22 km NE of Pine Valley, CA",earthquake,0.2,0.32,0.087,16,automatic,ci,ci
 2025-05-29T14:35:51.033Z,59.6757,-151.2069,6.2,1.6,ml,,,,0.47,ak,ak0256unme1r,2025-05-29T14:38:06.137Z,"8 km SE of Fritz Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-05-29T14:30:05.220Z,40.6743,-74.7121,5,1.9,ml,10,146,0.034,0.34,us,us6000qgng,2025-05-29T15:27:47.127Z,"5 km W of Bedminster, New Jersey",earthquake,2.87,1.718,0.115,10,reviewed,us,us
+2025-05-29T14:30:05.220Z,40.6743,-74.7121,5,1.9,ml,10,146,0.034,0.34,us,us6000qgng,2025-05-29T15:52:03.857Z,"5 km W of Bedminster, New Jersey",earthquake,2.87,1.718,0.115,10,reviewed,us,us
 2025-05-29T14:28:47.331Z,31.664,-104.301,4.2977,1.8,ml,35,67,0,0.3,tx,tx2025klnk,2025-05-29T15:01:05.855Z,"57 km S of Whites City, New Mexico",earthquake,0,0.96643704175949,0.2,25,automatic,tx,tx
 2025-05-29T14:27:41.958Z,44.4069,149.5152,35,4.6,mb,48,137,4.98,1.18,us,us6000qgne,2025-05-29T15:35:38.040Z,"158 km SE of Kuril’sk, Russia",earthquake,11.61,1.902,0.068,65,reviewed,us,us
 2025-05-29T14:26:18.010Z,62.0264,-154.461,19.9,1.5,ml,,,,0.65,ak,ak0256unke21,2025-05-29T14:29:12.791Z,"90 km NE of Lime Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-28T16:24:12.160Z,44.78,-111.0595,8.16,0.88,ml,11,126,0.03717,0.17,uu,uu80109206,2025-05-28T17:37:08.560Z,"10 km E of Hebgen Lake Estates, Montana",earthquake,0.64,0.78,0.30313509414833,2,reviewed,uu,uu
 2025-05-28T16:14:10.230Z,43.729,-122.784,1.77,1.47,ml,11,133,0.2424,0.08,uw,uw62117311,2025-05-29T00:50:45.490Z,"5 km ENE of Culp Creek, Oregon",earthquake,0.28,0.63,0.17350026589001,8,reviewed,uw,uw
 2025-05-28T15:56:29.578Z,32.185,-102.647,7.7393,1.6,ml,17,79,0.1,0.1,tx,tx2025kjun,2025-05-28T19:39:43.003Z,"17 km SW of McKinney Acres, Texas",earthquake,0.93587569230347,1.194436989663,0.1,18,reviewed,tx,tx
-2025-05-28T15:52:39.399Z,35.50383333,-96.73366667,8.76,1.26,ml,36,84,0.03239364326,0.17,ok,ok2025kjuj,2025-05-28T16:05:59.432Z,"4 km WNW of Prague, Oklahoma",earthquake,,0.6,0.22,14,reviewed,ok,ok
