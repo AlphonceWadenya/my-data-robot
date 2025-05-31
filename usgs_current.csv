@@ -261,4 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-30T06:14:49.720Z,60.592,-152.9255,11.41,-0.33,ml,6,292,0.0591,0.29,av,av93622066,2025-05-31T02:26:47.080Z,"88 km W of Salamatof, Alaska",earthquake,2.36,2.36,0.094986246171674,6,reviewed,av,av
 2025-05-30T06:14:33.598Z,61.2537,-154.1535,6.6,1.4,ml,,,,0.26,ak,ak0256w69qbj,2025-05-30T06:16:19.553Z,"69 km E of Lime Village, Alaska",earthquake,,9.5,,,automatic,ak,ak
 2025-05-30T05:58:07.080Z,33.4988333,-116.7848333,6.92,0.66,ml,23,97,0.02018,0.11,ci,ci40980655,2025-05-30T17:05:33.952Z,"10 km NE of Aguanga, CA",earthquake,0.46,0.39,0.152,22,reviewed,ci,ci
-2025-05-30T05:49:06.529Z,31.555,-104.193,4.4396,1.6,ml,21,98,0.1,0.3,tx,tx2025kmrv,2025-05-30T05:52:50.222Z,"46 km NW of Toyah, Texas",earthquake,0,1.3875623941422,0.2,13,automatic,tx,tx
