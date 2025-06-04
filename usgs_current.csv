@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-06-04T19:09:10.270Z,35.045,-118.323,1.07,1.45,ml,43,35,0.05637,0.18,ci,ci41173632,2025-06-04T19:12:47.566Z,"14 km W of Mojave, CA",earthquake,0.2,0.47,0.2,28,automatic,ci,ci
-2025-06-04T18:46:44.310Z,38.822334289551,-122.80083465576,3.0299999713898,0.76,md,16,60,0.007295,0.02,nc,nc75190931,2025-06-04T18:48:22.504Z,"6 km NNW of The Geysers, CA",earthquake,0.37,0.600000024,0.11,17,automatic,nc,nc
+2025-06-04T18:46:44.310Z,38.822334289551,-122.80083465576,3.0299999713898,0.76,md,16,60,0.007295,0.02,nc,nc75190931,2025-06-04T19:27:16.432Z,"6 km NNW of The Geysers, CA",earthquake,0.37,0.600000024,0.11,17,automatic,nc,nc
 2025-06-04T18:24:17.535Z,60.5718,-151.6069,94.2,3.2,ml,,,,0.36,ak,ak02574n5s0h,2025-06-04T19:05:55.040Z,"16 km WSW of Salamatof, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-06-04T18:05:07.550Z,17.958833333333,-66.938333333333,8.33,2.27,md,7,204,0.0585,0.14,pr,pr71484523,2025-06-04T18:20:36.310Z,"3 km WSW of Guánica, Puerto Rico",earthquake,0.58,1.04,0.1735357761957,5,reviewed,pr,pr
 2025-06-04T17:47:35.310Z,37.600166666667,-122.00583333333,5.46,1.54,md,50,49,0.03369,0.12,nc,nc75190926,2025-06-04T18:57:23.224Z,"1 km E of Union City, CA",earthquake,0.16,0.23,0.208,31,reviewed,nc,nc
@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-03T19:37:29.870Z,38.834499359131,-122.81866455078,1.6299999952316,1.04,md,11,73,0.01296,0.01,nc,nc75190596,2025-06-03T19:39:04.642Z,"8 km NNW of The Geysers, CA",earthquake,0.3,0.74000001,0.33,14,automatic,nc,nc
 2025-06-03T19:36:59.280Z,38.853168487549,-122.38333129883,-0.40000000596046,2.1,md,18,70,0.05296,0.33,nc,nc75190591,2025-06-03T23:12:16.326Z,"16 km E of Hidden Valley Lake, CA",earthquake,0.63,2.75,0.18,19,automatic,nc,nc
 2025-06-03T19:36:05.240Z,32.9113333,-116.9356667,-0.18,1.22,ml,26,57,0.07823,0.31,ci,ci40983319,2025-06-03T21:10:02.970Z,"6 km NNW of Lakeside, CA",quarry blast,0.38,31.61,0.189,22,reviewed,ci,ci
-2025-06-03T19:27:56.430Z,47.506833333333,-122.67516666667,-0.11,1.88,ml,6,287,0.1166,0.32,uw,uw62122441,2025-06-03T22:50:11.260Z,"3 km SE of Gorst, Washington",explosion,3.91,31.61,0.28786476159236,4,reviewed,uw,uw
