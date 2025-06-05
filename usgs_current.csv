@@ -15,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-05T19:36:09.310Z,17.895666666667,-66.595333333333,12.09,2.51,md,14,182,0.06602,0.1,pr,pr71484668,2025-06-05T19:53:00.790Z,"13 km SSE of Ponce, Puerto Rico",earthquake,0.31,0.28,0.14856880998157,9,reviewed,pr,pr
 2025-06-05T19:11:33.970Z,17.957333333333,-66.847333333333,13.8,1.86,md,5,209,0.03513,0.05,pr,pr71484663,2025-06-05T19:40:43.270Z,"5 km ESE of Maria Antonia, Puerto Rico",earthquake,1.25,0.24,0.19359402567477,4,reviewed,pr,pr
 2025-06-05T19:06:53.350Z,19.312833333333,-155.21016666667,0.2,1.85,ml,48,128,0.03428,0.14,hv,hv74688762,2025-06-05T19:55:35.990Z,"14 km S of Volcano, Hawaii",earthquake,0.22,0.17,0.21565469890307,33,reviewed,hv,hv
+2025-06-05T18:36:28.390Z,-60.7921,-23.634,10,4.7,mb,50,115,13.649,0.9,us,us6000qi8p,2025-06-05T20:42:49.040Z,"South Sandwich Islands region",earthquake,11.22,1.702,0.085,42,reviewed,us,us
 2025-06-05T18:34:13.373Z,59.954,-152.7322,84.2,2,ml,,,,0.5,ak,ak02576ar9ax,2025-06-05T18:36:24.333Z,"54 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-06-05T18:31:21.560Z,36.0928333,-117.8581667,3.04,1.22,ml,22,92,0.02484,0.13,ci,ci41176216,2025-06-05T18:34:45.126Z,"10 km ENE of Coso Junction, CA",earthquake,0.2,0.38,0.181,24,automatic,ci,ci
 2025-06-05T18:28:03.532Z,61.2487,-151.748,85.4,0.8,ml,,,,0.33,ak,ak02576apy8x,2025-06-05T18:29:52.332Z,"37 km WNW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
