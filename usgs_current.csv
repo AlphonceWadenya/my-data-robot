@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-05T22:56:15.160Z,38.802501678467,-122.7756652832,3.3199999332428,1.08,md,17,71,0.01144,0.01,nc,nc75191521,2025-06-05T22:57:48.714Z,"3 km NNW of The Geysers, CA",earthquake,0.27,0.620000005,0.25,19,automatic,nc,nc
 2025-06-05T22:48:02.760Z,59.2908,-152.1343,46.5,1.9,ml,,,,0.45,ak,ak02576d7yxg,2025-06-05T22:50:05.824Z,"14 km WSW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-06-05T22:44:57.680Z,33.529,-116.7396667,4.1,0.67,ml,26,45,0.03636,0.17,ci,ci41176296,2025-06-05T22:48:27.412Z,"7 km WSW of Anza, CA",earthquake,0.18,0.34,0.126,16,automatic,ci,ci
 2025-06-05T22:40:00.570Z,56.1875,-158.8979,91.6,1.7,ml,,,,0.36,ak,ak02576d6915,2025-06-05T22:42:06.515Z,"11 km SW of Chignik Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -260,6 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-04T23:14:19.690Z,47.217166666667,-112.572,12.96,1.18,ml,14,143,0.2681,0.08,mb,mb90093788,2025-06-05T20:59:06.830Z,"30 km NNE of Lincoln, Montana",earthquake,0.3,1.25,0.10046997973111,11,reviewed,mb,mb
 2025-06-04T23:07:24.172Z,44.3422,-115.0538,11.345,2.5,ml,22,62,0.279,0.24,us,us6000qi0q,2025-06-04T23:31:48.765Z,"16 km NNW of Stanley, Idaho",earthquake,2.51,6.644,0.057,40,reviewed,us,us
 2025-06-04T23:04:14.388Z,-24.2761,-66.9994,179.471,4.3,mb,22,71,1.705,0.65,us,us6000qi0p,2025-06-04T23:36:03.040Z,"69 km W of San Antonio de los Cobres, Argentina",earthquake,4.66,11.668,0.143,14,reviewed,us,us
-2025-06-04T22:58:21.169Z,44.3439,-115.0193,13.846,4,mb,26,60,0.268,0.35,us,us6000qi0n,2025-06-05T01:13:44.639Z,"15 km NNW of Stanley, Idaho",earthquake,2.07,7.629,0.173,9,reviewed,us,us
-2025-06-04T22:58:06.250Z,38.829166412354,-122.80133056641,1.6900000572205,0.82,md,19,37,0.008936,0.01,nc,nc75191031,2025-06-04T23:57:16.364Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.409999996,0.19,20,automatic,nc,nc
-2025-06-04T22:54:44.500Z,58.272833333333,-154.973,3.54,-0.07,ml,5,273,0.05315,0.19,av,av93043669,2025-06-05T03:30:45.370Z,"84 km NNW of Karluk, Alaska",earthquake,1.05,0.92,0.25202160440792,5,reviewed,av,av
