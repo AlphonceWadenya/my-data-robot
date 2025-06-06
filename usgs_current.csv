@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-06T14:43:10.840Z,33.3621667,-116.4521667,11.74,0.59,ml,14,114,0.2305,0.44,ci,ci41176968,2025-06-06T14:46:36.192Z,"14 km NNW of Borrego Springs, CA",earthquake,1.48,5.92,0.088,9,automatic,ci,ci
 2025-06-06T14:18:34.240Z,35.8811667,-117.6958333,8.67,0.9,ml,15,59,0.07613,0.11,ci,ci41176960,2025-06-06T14:22:26.041Z,"20 km ESE of Little Lake, CA",earthquake,0.2,0.43,0.233,4,automatic,ci,ci
 2025-06-06T14:13:14.460Z,33.1001667,-116.7855,7.27,1.11,ml,17,98,0.1657,0.41,ci,ci41176944,2025-06-06T14:16:56.789Z,"10 km NE of Ramona, CA",earthquake,1.22,11.64,0.181,28,automatic,ci,ci
 2025-06-06T14:08:20.340Z,17.963833333333,-66.847,13.21,2.15,md,6,206,0.03267,0.09,pr,pr71484913,2025-06-06T14:34:53.290Z,"4 km SW of Indios, Puerto Rico",earthquake,0.94,0.44,0.053497993314273,5,reviewed,pr,pr
@@ -282,4 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-05T14:51:50.645Z,31.941,-103.322,4.1933,2.1,ml,8,166,0.1,1.1,tx,tx2025kyim,2025-06-05T14:56:45.207Z,"22 km SSW of Jal, New Mexico",earthquake,0,2.2840342521667,0.4,6,automatic,tx,tx
 2025-06-05T14:51:27.092Z,37.8455,141.6463,77.626,4.7,mb,52,135,2.974,0.49,us,us6000qi4w,2025-06-05T21:31:12.576Z,"63 km E of Sōma, Japan",earthquake,9.73,7.589,0.06,85,reviewed,us,us
 2025-06-05T14:50:38.170Z,38.811668395996,-122.79533386231,1.9099999666214,1.1,md,27,35,0.003695,0.03,nc,nc75191356,2025-06-05T17:07:16.838Z,"5 km NNW of The Geysers, CA",earthquake,0.19,0.319999993,0.16,26,automatic,nc,nc
-2025-06-05T14:43:26.330Z,44.332666666667,-115.0045,6.58,2.31,ml,18,61,0.2533,0.12,mb,mb90093573,2025-06-05T15:22:43.240Z,"13 km NNW of Stanley, Idaho",earthquake,0.35,1.01,0.1835767684647,35,reviewed,mb,mb
