@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-08T19:50:32.406Z,31.649,-104.308,4.0919,1.7,ml,31,69,0,0.3,tx,tx2025lefq,2025-06-08T19:52:39.853Z,"58 km S of Whites City, New Mexico",earthquake,0,1.0225497484207,0.1,18,automatic,tx,tx
+2025-06-08T19:48:55.170Z,19.272333145142,-155.47050476074,6.2699999809265,1.98,ml,55,60,0.03594,0.330000013,hv,hv74692417,2025-06-08T19:52:07.400Z,"7 km N of Pāhala, Hawaii",earthquake,0.38,0.949999988,0.52,17,automatic,hv,hv
 2025-06-08T19:42:40.500Z,38.825332641602,-122.85383605957,2.3099999427795,0.29,md,11,167,0.003242,0.01,nc,nc75192861,2025-06-08T19:44:19.359Z,"10 km NW of The Geysers, CA",earthquake,0.39,0.810000002,0.17,13,automatic,nc,nc
 2025-06-08T19:37:12.611Z,31.651,-104.301,4.2422,1.7,ml,27,68,0,0.3,tx,tx2025lefc,2025-06-08T19:39:53.778Z,"58 km S of Whites City, New Mexico",earthquake,0,1.0698888301849,0.1,21,automatic,tx,tx
 2025-06-08T19:13:37.197Z,31.646,-104.304,3.8386,2.2,ml,42,69,0,0.3,tx,tx2025leej,2025-06-08T19:17:33.690Z,"59 km S of Whites City, New Mexico",earthquake,0,0.90888941287994,0.2,29,automatic,tx,tx
@@ -197,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-07T20:08:06.830Z,39.226665496826,-123.11183166504,5.8600001335144,2.27,md,35,33,0.1004,0.09,nc,nc75192441,2025-06-07T20:26:31.851Z,"9 km SE of Redwood Valley, CA",earthquake,0.18,1.03999996,0.17,32,automatic,nc,nc
 2025-06-07T20:00:57.996Z,31.667,-104.201,5.9019,1.1,ml,21,62,0.1,0.7,tx,tx2025lckj,2025-06-07T21:02:18.231Z,"55 km NW of Toyah, Texas",earthquake,0,2.4009711742401,0.2,14,automatic,tx,tx
 2025-06-07T19:54:20.986Z,31.667,-104.399,4.4068,1.7,ml,26,70,0,0.4,tx,tx2025lckg,2025-06-07T20:03:43.194Z,"56 km S of Whites City, New Mexico",earthquake,0,1.1201786994934,0.1,19,automatic,tx,tx
-2025-06-07T19:52:26.480Z,31.69,-104.367,4.1461,2.2,ml,38,67,0.1,0.3,tx,tx2025lcke,2025-06-07T19:56:29.411Z,"53 km S of Whites City, New Mexico",earthquake,0,0.89375811815262,0.1,29,automatic,tx,tx
