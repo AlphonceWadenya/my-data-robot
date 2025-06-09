@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-08T11:00:10.931Z,63.5879,-147.5914,0.8,1.4,ml,,,,0.75,ak,ak0257b4zz0l,2025-06-08T11:02:12.293Z,"67 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-08T10:59:58.837Z,-57.1948,-67.9838,10,4.4,mb,22,165,2.277,0.46,us,us6000qixb,2025-06-08T12:57:20.040Z,"266 km S of Ushuaia, Argentina",earthquake,11.94,1.975,0.13,17,reviewed,us,us
 2025-06-08T10:59:12.870Z,38.81266784668,-122.82350158691,2.2000000476837,1.07,md,24,57,0.005836,0.03,nc,nc75192711,2025-06-08T11:00:46.571Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.370000005,0.09,26,automatic,nc,nc
-2025-06-08T10:55:30.320Z,35.338665,-117.8026657,7.27,0.81,ml,12,123,0.07936,0.08,ci,ci41179184,2025-06-08T13:31:14.650Z,"16 km WSW of Johannesburg, CA",earthquake,0.42,1.43,0.383,6,automatic,ci,ci
