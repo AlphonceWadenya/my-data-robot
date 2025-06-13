@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-13T07:44:46.750Z,40.336334228516,-124.89583587647,2.2300000190735,4.1,ml,103,242,0.4257,0.26,nc,nc75195021,2025-06-13T07:50:09.204Z,"52 km WNW of Petrolia, CA",earthquake,1.33,2.50999999,0.269,20,reviewed,nc,nc
+2025-06-13T07:44:46.750Z,40.336334228516,-124.89583587647,2.2300000190735,4.06,mw,103,242,0.4257,0.26,nc,nc75195021,2025-06-13T07:54:44.249Z,"52 km WNW of Petrolia, CA",earthquake,1.33,2.50999999,,15,reviewed,nc,nc
 2025-06-13T07:44:35.110Z,38.837001800537,-122.78483581543,1.75,0.79,md,13,77,0.004525,0.03,nc,nc75195016,2025-06-13T07:46:10.553Z,"6 km WNW of Cobb, CA",earthquake,0.38,0.660000026,0.26,15,automatic,nc,nc
 2025-06-13T07:41:28.011Z,31.715,-104.288,4.2585,2.3,ml,34,57,0,0.3,tx,tx2025lnurcj,2025-06-13T07:45:32.518Z,"51 km S of Whites City, New Mexico",earthquake,0,0.92808955907822,0.2,25,automatic,tx,tx
 2025-06-13T07:37:10.534Z,64.5337,-150.7763,6.1,1.1,ml,,,,0.46,ak,ak0257jciwj1,2025-06-13T07:39:42.099Z,"52 km S of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
