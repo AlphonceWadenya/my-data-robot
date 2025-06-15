@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-15T23:35:23.410Z,33.4688333,-116.5648333,10.6,1.25,ml,56,46,0.04051,0.21,ci,ci40995431,2025-06-15T23:39:14.166Z,"14 km SE of Anza, CA",earthquake,0.17,0.31,0.23,28,automatic,ci,ci
 2025-06-15T23:31:54.848Z,57.7494,-152.7106,40.6,2.1,ml,,,,0.42,ak,ak0257mx3cbg,2025-06-15T23:33:39.288Z,"6 km WSW of Kodiak Station, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-06-15T23:25:49.599Z,31.664,-104.381,4.4993,1.8,ml,18,70,0,0.3,tx,tx2025lsrkri,2025-06-15T23:32:04.546Z,"56 km S of Whites City, New Mexico",earthquake,0,1.2960804700851,0.1,12,automatic,tx,tx
 2025-06-15T23:25:43.332Z,62.9644,-150.4983,93.5,1.5,ml,,,,0.56,ak,ak0257mx214t,2025-06-15T23:28:08.895Z,"53 km NNE of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -204,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-14T23:47:02.798Z,31.938,-103.376,6.3562,2.8,ml,15,74,0,0.1,tx,tx2025lqwjsl,2025-06-15T16:37:43.014Z,"25 km SW of Jal, New Mexico",earthquake,1.3578616131311,0.58268398134743,0.1,12,reviewed,tx,tx
 2025-06-14T23:45:19.207Z,37.2032,-114.552,5.5,1.6,ml,11,133.66,0.446,0.4187,nn,nn00898939,2025-06-14T23:47:50.421Z,"45 km S of Caliente, Nevada",earthquake,,2.5,0.61,6,automatic,nn,nn
 2025-06-14T23:43:32.320Z,38.813167572021,-122.80666351318,4.25,0.26,md,6,119,0.01028,0.01,nc,nc75195836,2025-06-14T23:45:10.025Z,"6 km NW of The Geysers, CA",earthquake,0.66,1.76999998,0.04,8,automatic,nc,nc
-2025-06-14T23:38:42.210Z,33.2903333,-116.1321667,9.62,0.7,ml,47,29,0.123,0.23,ci,ci40994591,2025-06-14T23:42:11.406Z,"16 km N of Ocotillo Wells, CA",earthquake,0.22,0.76,0.126,15,automatic,ci,ci
