@@ -25,6 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-18T17:09:25.612Z,64.1424,-148.1055,11.5,0.9,ml,,,,0.53,ak,ak0257rs005t,2025-06-18T17:12:25.743Z,"51 km ENE of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-18T17:05:28.550Z,38.755666666667,-122.44,3.29,1.63,md,56,55,0.05029,0.15,nc,nc75197291,2025-06-18T17:50:28.129Z,"12 km SE of Hidden Valley Lake, CA",earthquake,0.13,0.48,0.218,42,reviewed,nc,nc
 2025-06-18T17:03:55.724Z,32.175,-102.354,5,1.5,ml,7,140,0.2,0.6,tx,tx2025lxryfg,2025-06-18T18:00:12.529Z,"17 km N of Gardendale, Texas",earthquake,0,,0.3,7,automatic,tx,tx
+2025-06-18T17:03:42.500Z,43.261833333333,-123.55433333333,-0.47,0.65,md,6,92,0.1488,0.2,uw,uw62122302,2025-06-18T19:25:25.850Z,"7 km WNW of Melrose, Oregon",explosion,0.65,31.61,0.19892400464185,5,reviewed,uw,uw
 2025-06-18T17:03:29.798Z,31.661,-104.296,6.51,2.4,ml,22,67,0,0.2,tx,tx2025lxrxsr,2025-06-18T19:10:31.040Z,"57 km S of Whites City, New Mexico",earthquake,0.64305728400336,0.65067196756248,0.1,14,reviewed,tx,tx
 2025-06-18T16:53:45.664Z,64.4706,-149.4272,16.8,0.9,ml,,,,0.39,ak,ak0257rro1ly,2025-06-18T16:55:19.681Z,"18 km NW of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-18T16:51:57.995Z,31.656,-104.295,6.5613,3,ml,34,66,0,0.2,tx,tx2025lxrnwr,2025-06-18T17:03:34.040Z,"58 km S of Whites City, New Mexico",earthquake,0.76239516255072,0.80672023125827,0.2,26,reviewed,tx,tx
@@ -256,6 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-17T19:41:49.123Z,41.113,-116.288,0.3,2.3,ml,11,247.81,0.138,0.1599,nn,nn00899079,2025-06-18T00:35:20.227Z,"46 km NNW of Carlin, Nevada",earthquake,,3,0.29,8,reviewed,nn,nn
 2025-06-17T19:37:33.543Z,39.9668,-98.826,5,2.6,mb_lg,11,86,1.351,0.38,us,us6000qkw1,2025-06-17T20:12:38.040Z,"14 km SSW of Riverton, Nebraska",earthquake,1.85,1.966,0.082,39,reviewed,us,us
 2025-06-17T19:34:15.370Z,58.166833333333,-155.35616666667,2.78,-0.7,ml,6,186,0.08049,0.09,av,av93044814,2025-06-18T04:01:12.370Z,"85 km NW of Karluk, Alaska",earthquake,0.35,0.77,0.15723425355231,6,reviewed,av,av
-2025-06-17T19:32:05.010Z,19.3375,-155.211,6.59,1.43,ml,35,70,0.03634,0.11,hv,hv74700937,2025-06-17T20:00:32.270Z,"11 km SSE of Volcano, Hawaii",earthquake,0.28,0.57,0.13474481304513,22,reviewed,hv,hv
-2025-06-17T19:30:18.003Z,31.697,-104.133,6.3434,2.3,ml,28,48,0.1,0.1,tx,tx2025lwbbid,2025-06-18T16:09:21.610Z,"50 km W of Mentone, Texas",earthquake,0.33630665378606,0.41642945420727,0.2,25,reviewed,tx,tx
-2025-06-17T19:27:13.891Z,31.662,-104.284,7.7405,1.6,ml,34,67,0,0.2,tx,tx2025lwayvc,2025-06-18T10:49:00.102Z,"57 km S of Whites City, New Mexico",earthquake,0.72652400252071,0.77758419856765,0.1,20,reviewed,tx,tx
