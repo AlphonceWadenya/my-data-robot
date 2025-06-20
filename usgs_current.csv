@@ -253,4 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-19T20:10:47.430Z,33.3198333,-116.3201667,11.54,0.73,ml,20,128,0.03993,0.21,ci,ci40999151,2025-06-19T20:14:09.599Z,"9 km NE of Borrego Springs, CA",earthquake,0.36,0.48,0.127,13,automatic,ci,ci
 2025-06-19T20:09:31.310Z,33.6718333,-116.7673333,11.05,0.45,ml,15,126,0.06256,0.15,ci,ci40999143,2025-06-19T20:13:03.597Z,"9 km SSW of Idyllwild, CA",earthquake,0.35,0.64,0.097,8,automatic,ci,ci
 2025-06-19T20:05:17.230Z,33.5276667,-116.7321667,5.72,0.92,ml,39,36,0.03788,0.18,ci,ci40999119,2025-06-20T17:24:15.410Z,"6 km WSW of Anza, CA",earthquake,0.16,0.41,0.159,25,reviewed,ci,ci
-2025-06-19T19:48:38.120Z,47.394833333333,-114.63016666667,9.88,0.07,ml,9,110,0.1418,0.05,mb,mb90097788,2025-06-20T16:00:48.350Z,"12 km E of Paradise, Montana",earthquake,0.37,1.54,0.14512926455569,2,reviewed,mb,mb
