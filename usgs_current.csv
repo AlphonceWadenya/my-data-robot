@@ -1,11 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-20T19:36:33.951Z,61.8843,-150.9381,15.1,2.1,ml,,,,0.45,ak,ak0257v4fdc3,2025-06-20T19:38:24.001Z,"26 km ESE of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-06-20T19:36:31.496Z,38.4664,-116.4898,0,1.8,ml,11,228.16,0.696,0.2818,nn,nn00899201,2025-06-20T19:39:14.115Z,"78 km NE of Tonopah, Nevada",earthquake,,6.3,0.24,8,automatic,nn,nn
 2025-06-20T19:12:29.509Z,32.412,-102.071,4.0462,1.1,ml,15,126,0,0.5,tx,tx2025mbnqpw,2025-06-20T19:15:05.361Z,"35 km WSW of Ackerly, Texas",earthquake,0,1.3870272636414,0.1,11,automatic,tx,tx
 2025-06-20T19:11:02.068Z,64.9736,-147.295,0,1.1,ml,,,,0.98,ak,ak0257v49xz2,2025-06-20T19:13:20.041Z,"15 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-20T19:10:34.580Z,35.3591667,-117.799,6.87,1.48,ml,34,66,0.09922,0.16,ci,ci40999927,2025-06-20T19:24:09.893Z,"15 km W of Johannesburg, CA",earthquake,0.19,0.52,0.203,27,automatic,ci,ci
 2025-06-20T18:51:32.100Z,34.8521667,-118.7795,0.29,1.53,ml,34,69,0.07521,0.25,ci,ci40999887,2025-06-20T18:55:14.883Z,"8 km E of Lebec, CA",earthquake,0.31,0.52,0.242,29,automatic,ci,ci
 2025-06-20T18:48:36.750Z,17.915833333333,-66.8515,12.85,2.11,md,5,229,0.06455,0.12,pr,pr71486338,2025-06-20T19:00:39.600Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,1.06,0.53,0.15652284597888,5,reviewed,pr,pr
 2025-06-20T18:46:29.150Z,38.81233215332,-122.8176651001,2.6099998950958,1.07,md,25,53,0.009637,0.02,nc,nc75198221,2025-06-20T18:48:06.236Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.460000008,0.18,24,automatic,nc,nc
-2025-06-20T18:41:35.000Z,38.805500030518,-122.77600097656,2.920000076294,0.76,md,12,73,0.008568,0.02,nc,nc75198211,2025-06-20T18:43:10.980Z,"4 km NNW of The Geysers, CA",earthquake,0.34,0.850000024,0.14,13,automatic,nc,nc
+2025-06-20T18:41:35.000Z,38.805500030518,-122.77600097656,2.920000076294,0.76,md,12,73,0.008568,0.02,nc,nc75198211,2025-06-20T19:37:19.284Z,"4 km NNW of The Geysers, CA",earthquake,0.34,0.850000024,0.14,13,automatic,nc,nc
 2025-06-20T18:40:26.751Z,-57.8381,-9.2022,10,4.9,mb,25,98,14.137,0.91,us,us6000qlhq,2025-06-20T19:14:50.040Z,"east of the South Sandwich Islands",earthquake,6.57,1.931,0.112,25,reviewed,us,us
 2025-06-20T18:15:08.627Z,31.028,-103.72,3.4904,1.6,ml,11,101,0.1,0.7,tx,tx2025mblthx,2025-06-20T18:19:29.404Z,"5 km NNE of Balmorhea, Texas",earthquake,0,1.8471231460571,0.3,6,automatic,tx,tx
 2025-06-20T18:09:47.020Z,31.2787,138.5079,351.874,4.4,mb,60,98,2.14,0.8,us,us6000qlhn,2025-06-20T19:06:15.040Z,"Izu Islands, Japan region",earthquake,9.47,7.674,0.051,112,reviewed,us,us
@@ -252,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-19T20:09:31.310Z,33.6718333,-116.7673333,11.05,0.45,ml,15,126,0.06256,0.15,ci,ci40999143,2025-06-19T20:13:03.597Z,"9 km SSW of Idyllwild, CA",earthquake,0.35,0.64,0.097,8,automatic,ci,ci
 2025-06-19T20:05:17.230Z,33.5276667,-116.7321667,5.72,0.92,ml,39,36,0.03788,0.18,ci,ci40999119,2025-06-20T17:24:15.410Z,"6 km WSW of Anza, CA",earthquake,0.16,0.41,0.159,25,reviewed,ci,ci
 2025-06-19T19:48:38.120Z,47.394833333333,-114.63016666667,9.88,0.07,ml,9,110,0.1418,0.05,mb,mb90097788,2025-06-20T16:00:48.350Z,"12 km E of Paradise, Montana",earthquake,0.37,1.54,0.14512926455569,2,reviewed,mb,mb
-2025-06-19T19:39:54.730Z,64.5858,-148.1509,12.4,0.9,ml,,,,0.36,ak,ak0257tgwpld,2025-06-19T19:40:57.014Z,"29 km SSW of Ester, Alaska",earthquake,,0.7,,,automatic,ak,ak
