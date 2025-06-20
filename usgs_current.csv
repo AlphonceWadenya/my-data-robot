@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-20T22:42:15.680Z,38.818332672119,-122.84066772461,1.6100000143051,0.98,md,8,96,0.006497,0.02,nc,nc75198301,2025-06-20T22:43:51.025Z,"9 km NW of The Geysers, CA",earthquake,0.49,0.680000007,0.31,8,automatic,nc,nc
 2025-06-20T22:38:50.270Z,33.289,-116.2646667,3.22,1.06,ml,40,71,0.08228,0.2,ci,ci40999991,2025-06-20T22:42:29.288Z,"11 km ENE of Borrego Springs, CA",earthquake,0.23,0.3,0.18,30,automatic,ci,ci
 2025-06-20T22:14:29.620Z,33.287,-116.2733333,3.23,1.27,ml,59,34,0.08107,0.22,ci,ci40999983,2025-06-20T22:21:03.369Z,"10 km ENE of Borrego Springs, CA",earthquake,0.2,0.3,0.177,26,reviewed,ci,ci
 2025-06-20T22:04:36.940Z,33.2841667,-116.2756667,2.94,2.32,ml,92,17,0.08301,0.2,ci,ci40999975,2025-06-20T22:15:37.180Z,"10 km ENE of Borrego Springs, CA",earthquake,0.12,0.26,0.221,26,automatic,ci,ci
@@ -32,6 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-20T18:46:29.150Z,38.81233215332,-122.8176651001,2.6099998950958,1.07,md,25,53,0.009637,0.02,nc,nc75198221,2025-06-20T19:47:21.457Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.460000008,0.18,24,automatic,nc,nc
 2025-06-20T18:41:35.000Z,38.805500030518,-122.77600097656,2.920000076294,0.76,md,12,73,0.008568,0.02,nc,nc75198211,2025-06-20T19:37:19.284Z,"4 km NNW of The Geysers, CA",earthquake,0.34,0.850000024,0.14,13,automatic,nc,nc
 2025-06-20T18:40:26.751Z,-57.8381,-9.2022,10,4.9,mb,25,98,14.137,0.91,us,us6000qlhq,2025-06-20T19:14:50.040Z,"east of the South Sandwich Islands",earthquake,6.57,1.931,0.112,25,reviewed,us,us
+2025-06-20T18:24:45.510Z,38.827166666667,-122.85216666667,1.78,0.25,md,17,82,0.003695,0.01,nc,nc75198206,2025-06-20T22:45:19.170Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.5,0.193,17,reviewed,nc,nc
 2025-06-20T18:15:07.667Z,31.047,-103.719,8.2788,1.5,ml,10,64,0.1,0.2,tx,tx2025mblthx,2025-06-20T20:40:31.863Z,"7 km NNE of Balmorhea, Texas",earthquake,0.97154526972752,2.2265750629964,0.2,8,reviewed,tx,tx
 2025-06-20T18:09:47.020Z,31.2787,138.5079,351.874,4.4,mb,60,98,2.14,0.8,us,us6000qlhn,2025-06-20T19:06:15.040Z,"Izu Islands, Japan region",earthquake,9.47,7.674,0.051,112,reviewed,us,us
 2025-06-20T18:06:59.070Z,35.0581667,-118.3535,6.18,1.39,ml,21,69,0.06812,0.27,ci,ci40999855,2025-06-20T18:13:19.265Z,"12 km SE of Tehachapi, CA",earthquake,0.46,1.49,0.225,30,automatic,ci,ci
