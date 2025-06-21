@@ -172,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-20T23:23:04.780Z,58.249666666667,-154.94466666667,30.66,0.51,ml,7,241,0.07817,0.08,av,av93045224,2025-06-21T04:17:33.270Z,"81 km NNW of Karluk, Alaska",earthquake,1.06,0.75,0.22192627730642,7,reviewed,av,av
 2025-06-20T23:19:35.578Z,65.0042,-148.8215,22.7,1.4,ml,,,,0.33,ak,ak0257v6pgph,2025-06-20T23:20:49.823Z,"29 km ESE of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-06-20T23:13:25.050Z,38.838333129883,-122.78600311279,2.1500000953674,0.84,md,10,120,0.003391,0.02,nc,nc75198311,2025-06-20T23:15:01.171Z,"6 km WNW of Cobb, CA",earthquake,0.48,0.99000001,0.23,11,automatic,nc,nc
-2025-06-20T22:53:22.350Z,36.0373333,-117.7088333,2.31,1.11,ml,14,62,0.04731,0.1,ci,ci40999999,2025-06-20T23:00:59.604Z,"21 km ENE of Little Lake, CA",earthquake,0.16,0.2,0.215,21,automatic,ci,ci
