@@ -251,4 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-22T12:33:48.672Z,29.002,-97.91,8.6386,1.6,mlv,9,120,0,0.4,tx,tx2025merwyf,2025-06-22T22:06:34.811Z,"10 km ENE of Falls City, Texas",earthquake,0,4.5353631973267,0.2,7,automatic,tx,tx
 2025-06-22T12:18:53.720Z,36.712666666667,-121.368,2.65,0.83,md,15,151,0.01803,0.07,nc,nc75198886,2025-06-22T18:47:18.747Z,"10 km SW of Tres Pinos, CA",earthquake,0.43,0.42,0.225,11,reviewed,nc,nc
 2025-06-22T11:56:06.550Z,38.797164916992,-122.76699829102,1.1399999856949,1.01,md,16,69,0.00666,0.02,nc,nc75198881,2025-06-22T14:07:17.723Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.460000008,0.24,18,automatic,nc,nc
-2025-06-22T11:47:21.472Z,-3.3069,130.3118,10,4.8,mb,58,50,1.972,1,us,us6000qls3,2025-06-22T12:06:58.040Z,"149 km E of Masohi, Indonesia",earthquake,7.75,1.874,0.073,59,reviewed,us,us
