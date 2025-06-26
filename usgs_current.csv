@@ -215,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-25T08:04:29.941Z,-21.4632,-179.0725,596.789,4.5,mb,62,69,4.585,0.78,us,us7000q8mq,2025-06-25T08:20:47.040Z,"Fiji region",earthquake,8.35,8.367,0.042,166,reviewed,us,us
 2025-06-25T07:58:01.412Z,31.05,-103.721,8.2275,2.8,ml,30,63,0.1,0.1,tx,tx2025mjvxyh,2025-06-25T08:09:46.737Z,"7 km NNE of Balmorhea, Texas",earthquake,0.66171784081923,1.27619342406,0.1,32,reviewed,tx,tx
 2025-06-25T07:55:12.964Z,60.1118,-153.0189,127.9,2,ml,,,,0.42,ak,ak0258372xj2,2025-06-25T08:37:57.040Z,"70 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-06-25T07:48:12.256Z,32.426,-102.127,5.4199,0.5,ml,17,77,0,0.2,tx,tx2025mjvpmh,2025-06-25T15:21:06.757Z,"37 km SSW of Los Ybanez, Texas",earthquake,0.6391156681744,0.70455288337397,0.2,13,reviewed,tx,tx
-2025-06-25T07:44:50.110Z,43.229166666667,-110.898,5.03,0.76,ml,7,126,0.1876,0.14,mb,mb90099053,2025-06-25T14:10:13.860Z,"9 km ENE of Alpine Northeast, Wyoming",earthquake,0.78,9.1,0.20697583077118,6,reviewed,mb,mb
