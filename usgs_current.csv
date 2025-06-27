@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-27T22:55:29.800Z,38.798332214355,-122.811668396,2.8599998950958,0.95,md,18,69,0.01204,0.02,nc,nc75201476,2025-06-27T22:57:04.337Z,"5 km NW of The Geysers, CA",earthquake,0.3,0.460000008,0.22,18,automatic,nc,nc
 2025-06-27T22:44:55.750Z,33.897,-116.5901667,9.82,0.89,ml,38,41,0.08009,0.13,ci,ci41006927,2025-06-27T22:48:18.177Z,"4 km W of Garnet, CA",earthquake,0.14,0.4,0.167,25,automatic,ci,ci
 2025-06-27T22:27:03.727Z,32.506,-102.48,1.5434,1.3,ml,7,168,0.1,0.5,tx,tx2025moqeos,2025-06-27T22:34:11.810Z,"21 km NNE of Andrews, Texas",earthquake,0,5.094633102417,0.2,7,automatic,tx,tx
 2025-06-27T22:26:15.611Z,31.665,-104.377,4.1861,1.8,ml,34,70,0,0.2,tx,tx2025moqdwx,2025-06-27T22:31:46.810Z,"56 km S of Whites City, New Mexico",earthquake,0,1.0250133275986,0.2,21,automatic,tx,tx
@@ -170,6 +171,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-27T06:40:38.035Z,63.3121,-144.946,8.2,1.1,ml,,,,0.33,ak,ak02586hh13v,2025-06-27T06:42:34.733Z,"40 km SSW of Dry Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-27T06:39:30.613Z,61.9382,-151.7022,14.6,1.2,ml,,,,0.34,ak,ak02586hgsth,2025-06-27T06:41:07.180Z,"16 km WSW of Skwentna, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-06-27T06:36:06.389Z,39.5822,-119.9378,6.6,1,ml,12,124.42,0.031,0.0877,nn,nn00899558,2025-06-27T13:53:45.128Z,"7 km N of Mogul, Nevada",earthquake,,1.4,0.44,6,reviewed,nn,nn
+2025-06-27T06:34:46.030Z,54.711,-163.41566666667,7.63,1.07,ml,10,184,0.173,0.26,av,av93649746,2025-06-27T22:57:48.970Z,"15 km S of False Pass, Alaska",earthquake,1.68,0.88,0.32868203458036,10,reviewed,av,av
 2025-06-27T06:31:54.557Z,-2.1864,-79.9302,66.63,4.7,mb,49,163,0.374,1.49,us,us7000q91v,2025-06-27T18:17:18.429Z,"5 km WNW of Guayaquil, Ecuador",earthquake,8.55,5.671,0.039,198,reviewed,us,us
 2025-06-27T06:24:39.820Z,57.612833333333,-156.44583333333,21.4,0.03,ml,4,243,0.1211,0.09,av,av93649736,2025-06-27T22:49:26.610Z,"58 km E of Ugashik, Alaska",earthquake,0.87,1.55,0.32738335086118,4,reviewed,av,av
 2025-06-27T06:24:22.570Z,41.935333333333,-119.67716666667,7.51,1.86,ml,7,211,0.2872,0.43,uw,uw62127747,2025-06-27T19:33:20.970Z,"40 km ENE of Fort Bidwell, California",earthquake,1.83,36.96,0.10851168611608,3,reviewed,uw,uw
