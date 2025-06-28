@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-28T07:32:35.980Z,36.0963333,-117.849,2.34,1.03,ml,23,69,0.02173,0.14,ci,ci41007223,2025-06-28T07:36:03.331Z,"11 km ENE of Coso Junction, CA",earthquake,0.16,0.19,0.225,20,automatic,ci,ci
 2025-06-28T07:26:34.280Z,38.827667236328,-122.80699920654,1.4199999570847,0.79,md,15,40,0.004896,0.01,nc,nc75201666,2025-06-28T07:28:12.501Z,"7 km NNW of The Geysers, CA",earthquake,0.26,0.49000001,0.31,15,automatic,nc,nc
 2025-06-28T07:25:27.210Z,38.82816696167,-122.80666351318,1.25,0.71,md,13,72,0.005459,0.02,nc,nc75201661,2025-06-28T07:27:02.425Z,"7 km NNW of The Geysers, CA",earthquake,0.25,0.660000026,0.12,13,automatic,nc,nc
 2025-06-28T07:21:45.120Z,36.0135,-117.9928333,9.68,0.43,ml,17,108,0.08325,0.13,ci,ci41007215,2025-06-28T07:25:14.420Z,"5 km SW of Coso Junction, CA",earthquake,0.29,0.55,0.187,5,automatic,ci,ci
@@ -293,6 +294,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-27T07:59:30.470Z,60.7644,-151.9789,87.4,1.5,ml,,,,0.23,ak,ak02586i6iqf,2025-06-27T08:00:58.307Z,"38 km WNW of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-06-27T07:43:53.850Z,52.768333333333,-169.76633333333,7.53,0.8,ml,4,230,0.03214,0.19,av,av93045614,2025-06-27T23:16:14.130Z,"63 km WSW of Nikolski, Alaska",earthquake,2.73,1.35,0.23255206921942,4,reviewed,av,av
 2025-06-27T07:42:13.250Z,54.748666666667,-164.09166666667,1.29,1.36,ml,9,111,0.0308,0.17,av,av93649766,2025-06-27T23:09:22.270Z,"45 km WSW of False Pass, Alaska",earthquake,0.42,0.44,0.32637455430911,13,reviewed,av,av
-2025-06-27T07:36:57.410Z,38.788833618164,-122.72699737549,1.6799999475479,1.26,md,16,88,0.009436,0.02,nc,nc75201176,2025-06-27T11:57:23.695Z,"3 km ENE of The Geysers, CA",earthquake,0.27,0.550000012,0.17,16,automatic,nc,nc
-2025-06-27T07:28:39.315Z,64.644,-148.3669,12.2,0.8,ml,,,,0.41,ak,ak02586hzw7v,2025-06-27T07:30:14.791Z,"28 km SW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-06-27T07:28:23.910Z,36.049499511719,-120.87999725342,8.9799995422363,1.18,md,9,132,0.02571,0.02,nc,nc75201171,2025-06-27T11:32:19.513Z,"4 km NE of San Ardo, CA",earthquake,0.39,0.600000024,0.26,5,automatic,nc,nc
