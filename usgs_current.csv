@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-30T13:55:45.470Z,41.08483505249,-123.35050201416,35.790000915527,2.68,md,14,78,0.1984,0.06,nc,nc75202571,2025-06-30T13:57:23.913Z,"29 km ENE of Willow Creek, CA",earthquake,0.46,1.13999999,0.15,9,automatic,nc,nc
 2025-06-30T13:48:01.195Z,32.071,-103.741,4.6965,1.8,ml,19,47,0,0.5,tx,tx2025mtmctm,2025-06-30T13:51:06.764Z,"35 km ESE of Malaga, New Mexico",earthquake,0,1.4821491241455,0.2,8,automatic,tx,tx
-2025-06-30T13:37:36.460Z,38.804332733154,-122.45966339111,5.8000001907349,1.33,md,7,148,0.009547,0.08,nc,nc75202566,2025-06-30T13:39:14.707Z,"9 km ESE of Hidden Valley Lake, CA",earthquake,0.61,0.74000001,0.03,6,automatic,nc,nc
+2025-06-30T13:37:36.460Z,38.804332733154,-122.45966339111,5.8000001907349,1.33,md,7,148,0.009547,0.08,nc,nc75202566,2025-06-30T13:57:18.916Z,"9 km ESE of Hidden Valley Lake, CA",earthquake,0.61,0.74000001,0.03,6,automatic,nc,nc
 2025-06-30T13:33:42.130Z,33.2146667,-116.0761667,9.37,1.53,ml,66,23,0.09218,0.19,ci,ci41009391,2025-06-30T13:44:21.400Z,"10 km NNE of Ocotillo Wells, CA",earthquake,0.14,0.43,0.167,27,reviewed,ci,ci
 2025-06-30T12:57:26.657Z,55.0105,-161.119,70.654,3.4,mb,18,148,0.901,0.81,us,us7000q9qz,2025-06-30T13:27:45.040Z,"53 km SW of Sand Point, Alaska",earthquake,7.52,17.231,0.245,4,reviewed,us,us
 2025-06-30T12:45:30.970Z,19.425500869751,-155.34533691406,4.0100002288818,1.86,ml,10,204,0.05832,0.0799999982,hv,hv74712512,2025-06-30T12:48:30.280Z,"11 km W of Volcano, Hawaii",earthquake,0.98,5.34000015,0.17,4,automatic,hv,hv
@@ -160,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-29T20:56:37.796Z,61.0912,-151.5491,74.2,1,ml,,,,0.32,ak,ak0258a0z803,2025-06-29T20:58:29.894Z,"22 km W of Tyonek, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-06-29T20:42:32.150Z,34.2801667,-118.668,17.43,1.26,ml,20,89,0.03676,0.22,ci,ci41008847,2025-06-29T20:46:00.302Z,"6 km WNW of Chatsworth, CA",earthquake,0.45,0.66,0.287,34,automatic,ci,ci
 2025-06-29T20:39:53.330Z,46.207164764404,-122.33499908447,13.239999771118,0.769999981,md,14,165,,0.0500000007,uw,uw62137511,2025-06-29T20:42:06.880Z,"34 km NNE of Amboy, Washington",earthquake,0.71,1.83000004,0.75999999,2,automatic,uw,uw
-2025-06-29T20:36:37.059Z,32.419,-102.132,6.3728,1.2,mlv,32,51,0,0.4,tx,tx2025msdzeh,2025-06-29T23:13:28.969Z,"38 km SSW of Los Ybanez, Texas",earthquake,0,1.4256982803345,0.3,23,automatic,tx,tx
+2025-06-29T20:36:37.882Z,32.421,-102.146,6.543,1.2,ml,34,77,0,0.2,tx,tx2025msdzeh,2025-06-30T13:54:28.789Z,"38 km ENE of McKinney Acres, Texas",earthquake,0.60729854906924,0.6357585156949,0.1,19,reviewed,tx,tx
 2025-06-29T20:30:19.996Z,61.7961,-150.0801,33.9,1.4,ml,,,,0.2,ak,ak0258a0tm0f,2025-06-29T20:31:27.617Z,"5 km NNW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-29T20:01:12.460Z,17.961833333333,-66.574333333333,14.61,2.2,md,9,187,0.08606,0.03,pr,pr71487593,2025-06-29T20:26:36.060Z,"7 km SW of Capitanejo, Puerto Rico",earthquake,0.41,0.32,0.032890146849033,3,reviewed,pr,pr
 2025-06-29T19:56:08.899Z,57.8838,-156.8964,16.9,1.1,ml,,,,0.14,ak,ak0258a0dq61,2025-06-29T19:57:22.423Z,"46 km SE of Egegik, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -199,9 +200,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-29T16:32:48.110Z,17.744333333333,-68.738,32.93,3.42,md,11,342,1.573,0.38,pr,pr71487583,2025-06-29T16:55:21.230Z,"71 km S of Boca de Yuma, Dominican Republic",earthquake,5.59,24.95,0.17026979668936,10,reviewed,pr,pr
 2025-06-29T16:25:04.118Z,61.7232,-148.0086,30.7,1.7,ml,,,,0.6,ak,ak02589yersb,2025-06-29T16:26:47.181Z,"20 km WSW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-06-29T16:23:00.490Z,37.3285,-117.92666666667,6.01,1.78,md,26,90,0.3005,0.11,nc,nc75003778,2025-06-29T19:17:19.782Z,"7 km SE of Deep Springs, CA",earthquake,0.33,1.53,0.196,18,reviewed,nc,nc
-2025-06-29T16:22:27.450Z,33.4796667,-116.4953333,13.01,0.68,ml,32,59,0.09056,0.16,ci,ci41008583,2025-06-29T16:25:56.952Z,"18 km ESE of Anza, CA",earthquake,0.19,0.53,0.113,20,automatic,ci,ci
+2025-06-29T16:22:27.450Z,33.4796667,-116.4953333,13.01,0.68,ml,32,59,0.09056,0.16,ci,ci41008583,2025-06-30T13:53:16.286Z,"18 km ESE of Anza, CA",earthquake,0.19,0.53,0.113,20,reviewed,ci,ci
 2025-06-29T16:17:47.940Z,33.374,-116.8621667,8.65,0.5,ml,29,28,0.02034,0.2,ci,ci41008575,2025-06-29T16:21:17.171Z,"2 km N of Palomar Observatory, CA",earthquake,0.22,0.58,0.086,13,automatic,ci,ci
-2025-06-29T16:13:51.200Z,33.7546667,-116.0851667,5.19,0.74,ml,33,84,0.1039,0.18,ci,ci41008567,2025-06-29T16:17:18.964Z,"12 km NE of Coachella, CA",earthquake,0.18,0.55,0.078,12,automatic,ci,ci
+2025-06-29T16:13:51.200Z,33.7546667,-116.0851667,5.19,0.74,ml,33,84,0.1039,0.18,ci,ci41008567,2025-06-30T13:53:48.788Z,"12 km NE of Coachella, CA",earthquake,0.18,0.55,0.078,12,reviewed,ci,ci
 2025-06-29T16:12:51.932Z,62.1526,-151.1817,78.4,1.1,ml,,,,0.61,ak,ak02589yc361,2025-06-29T16:15:03.382Z,"21 km NNE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-06-29T16:11:06.630Z,37.8835,-116.3171,3.6,1.4,ml,14,328.48,0.673,0.4299,nn,nn00899753,2025-06-29T16:13:37.576Z,"57 km WNW of Rachel, Nevada",earthquake,,19.7,0.27,8,automatic,nn,nn
 2025-06-29T16:05:50.240Z,19.431499481201,-155.2825012207,7.3499999046326,1.78,ml,15,94,0.008155,0.379999995,hv,hv74711697,2025-06-29T16:08:52.440Z,"5 km WSW of Volcano, Hawaii",earthquake,1.44,1.27999997,0.22,12,automatic,hv,hv
@@ -210,7 +211,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-29T15:57:51.909Z,60.362,-151.2684,47.7,1.1,ml,,,,0.51,ak,ak02589y0as6,2025-06-29T15:59:58.981Z,"2 km ESE of Cohoe, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-06-29T15:55:39.611Z,61.3866,-150.2314,6.6,1.4,ml,,,,0.78,ak,ak02589xzueh,2025-06-29T15:57:32.342Z,"13 km WNW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-29T15:52:07.050Z,17.949333333333,-66.940666666667,9.72,2.31,md,12,209,0.03803,0.11,pr,pr71487568,2025-06-29T16:05:51.610Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.34,0.53,0.14828402642048,5,reviewed,pr,pr
-2025-06-29T15:44:13.150Z,33.0121667,-115.9321667,8.2,0.92,ml,30,80,0.1288,0.21,ci,ci41008527,2025-06-29T15:47:38.948Z,"24 km SE of Ocotillo Wells, CA",earthquake,0.25,1.26,0.17,15,automatic,ci,ci
+2025-06-29T15:44:13.150Z,33.0121667,-115.9321667,8.2,0.92,ml,30,80,0.1288,0.21,ci,ci41008527,2025-06-30T13:54:17.296Z,"24 km SE of Ocotillo Wells, CA",earthquake,0.25,1.26,0.17,15,reviewed,ci,ci
 2025-06-29T15:43:10.890Z,17.648833333333,-67.5765,18.85,3.05,md,12,322,0.5694,0.52,pr,pr71487558,2025-06-29T16:33:54.040Z,"54 km SW of Pole Ojea, Puerto Rico",earthquake,3.55,31.61,0.031123414399595,9,reviewed,pr,pr
 2025-06-29T15:42:27.011Z,61.7961,-149.7256,38.7,1.2,ml,,,,0.67,ak,ak02589xx14d,2025-06-29T15:44:21.369Z,"17 km ENE of Willow, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-06-29T15:35:16.947Z,61.4762,-141.8438,7.5,1.7,ml,,,,1,ak,ak02589xviby,2025-06-29T15:36:52.006Z,"57 km E of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
