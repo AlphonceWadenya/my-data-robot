@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-30T04:39:02.318Z,9.4396,93.9794,10.007,5.1,mb,110,45,5.115,0.73,us,us7000q9nl,2025-06-30T04:57:20.040Z,"280 km SSE of Port Blair, India",earthquake,7.84,4.134,0.051,125,reviewed,us,us
 2025-06-30T04:36:12.526Z,38.3831,-118.1813,2.6,1.4,ml,15,100.9,0.286,0.288,nn,nn00899784,2025-06-30T04:39:13.214Z,"6 km W of Mina, Nevada",earthquake,,2,0.27,8,automatic,nn,nn
 2025-06-30T04:32:42.421Z,33.1244,138.1086,308.605,4.2,mb,52,96,1.431,0.67,us,us7000q9ni,2025-06-30T04:49:42.040Z,"164 km S of Ōyama, Japan",earthquake,9.24,7.1,0.045,135,reviewed,us,us
 2025-06-30T04:22:35.310Z,32.9713333,-116.427,12.84,0.69,ml,29,62,0.01376,0.17,ci,ci41009127,2025-06-30T04:26:05.667Z,"19 km NNE of Pine Valley, CA",earthquake,0.24,0.54,0.138,8,automatic,ci,ci
