@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-07-02T15:35:16.790Z,39.381168365479,-122.78033447266,0.6700000166893,1.82,md,5,177,0.1068,0.11,nc,nc75203596,2025-07-02T15:38:30.073Z,"16 km ESE of Lake Pillsbury, CA",earthquake,1.04,12.1000004,0.25,6,automatic,nc,nc
+2025-07-02T15:49:39.471Z,66.8854,-155.0388,0,1.8,ml,,,,0.93,ak,ak0258ewklkr,2025-07-02T15:51:49.462Z,"80 km E of Kobuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-07-02T15:35:16.790Z,39.381168365479,-122.78033447266,0.6700000166893,1.82,md,5,177,0.1068,0.11,nc,nc75203596,2025-07-02T15:52:18.317Z,"16 km ESE of Lake Pillsbury, CA",earthquake,1.04,12.1000004,0.25,6,automatic,nc,nc
 2025-07-02T15:20:59.812Z,61.3909,-146.7093,28.7,1.9,ml,,,,0.44,ak,ak0258ewefdp,2025-07-02T15:22:33.335Z,"34 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-02T15:13:15.130Z,38.799499511719,-122.81066894531,3.4300000667572,0.72,md,10,93,0.01264,0.02,nc,nc75203581,2025-07-02T15:14:50.053Z,"5 km NW of The Geysers, CA",earthquake,0.45,1,0.1,11,automatic,nc,nc
 2025-07-02T15:10:48.904Z,31.672,-104.397,8.2793,1.6,ml,13,191,0.1,0.6,tx,tx2025mxgjbv,2025-07-02T15:16:38.170Z,"55 km S of Whites City, New Mexico",earthquake,0,3.8993709087372,0.1,9,automatic,tx,tx
