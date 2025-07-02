@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-02T20:00:17.370Z,40.29016494751,-124.61583709717,7.8800001144409,2.02,md,7,319,0.209,0.09,nc,nc75203736,2025-07-02T20:22:18.209Z,"28 km W of Petrolia, CA",earthquake,6.81,3.70000005,0.16,5,automatic,nc,nc
 2025-07-02T19:39:51.530Z,35.0661667,-118.3471667,3.44,1.28,ml,26,44,0.07553,0.26,ci,ci41012799,2025-07-02T20:19:45.699Z,"12 km SE of Tehachapi, CA",quarry blast,0.41,1.76,0.189,32,automatic,ci,ci
 2025-07-02T19:29:06.420Z,38.9955,-111.3995,-0.26,0.86,ml,6,129,0.0317,0.04,uu,uu80111426,2025-07-02T20:12:58.330Z,"15 km WNW of Emery, Utah",earthquake,0.82,0.7,0.39185825919672,3,reviewed,uu,uu
-2025-07-02T19:23:41.849Z,41.8958,-119.6088,5.8,1.9,ml,5,218.05,0.349,0.3593,nn,nn00900020,2025-07-02T20:47:17.829Z,"45 km E of Fort Bidwell, California",earthquake,,3.5,0.52,4,reviewed,nn,nn
+2025-07-02T19:23:42.038Z,41.9095,-119.6179,7.4,1.9,ml,5,215.57,0.335,0.2257,nn,nn00900020,2025-07-02T20:50:22.454Z,"44 km E of Fort Bidwell, California",earthquake,,3.1,0.52,4,reviewed,nn,nn
 2025-07-02T19:20:59.830Z,33.5326667,-116.7318333,5.87,0,ml,7,137,0.03296,0.09,ci,ci41012759,2025-07-02T19:49:50.679Z,"6 km WSW of Anza, CA",earthquake,0.29,0.64,0.068,7,reviewed,ci,ci
 2025-07-02T19:11:20.297Z,59.9532,-149.4454,27,1.6,ml,,,,0.54,ak,ak0258eyq5b7,2025-07-02T19:13:55.925Z,"13 km S of Lowell Point, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-02T19:09:52.240Z,37.394832611084,-121.72383117676,3.8699998855591,1.22,md,12,73,0.08237,0.02,nc,nc75203716,2025-07-02T19:42:17.956Z,"10 km E of Alum Rock, CA",earthquake,0.24,0.970000029,0.06,8,automatic,nc,nc
@@ -234,7 +234,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-02T00:06:48.034Z,29.2677,129.3371,10,4.9,mb,61,105,2.433,0.51,us,us7000qa3f,2025-07-02T01:10:41.040Z,"94 km NNW of Tatsugō, Japan",earthquake,5.47,1.821,0.048,136,reviewed,us,us
 2025-07-02T00:04:47.514Z,38.164,-118.1844,9.2,1.1,ml,11,65.27,0.267,0.1397,nn,nn00899960,2025-07-02T16:35:40.010Z,"25 km SSW of Mina, Nevada",earthquake,,4,0.41,6,reviewed,nn,nn
 2025-07-02T00:02:47.610Z,33.0903333,-116.0518333,9,1.14,ml,51,39,0.1036,0.22,ci,ci41011775,2025-07-02T00:13:40.210Z,"10 km SE of Ocotillo Wells, CA",earthquake,0.18,0.77,0.2,27,automatic,ci,ci
-2025-07-01T23:57:41.314Z,53.6102,-166.9628,94.5,3.5,ml,,,,0.6,ak,ak0258ddufrp,2025-07-02T08:24:18.777Z,"40 km SW of Unalaska, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2025-07-01T23:57:39.955Z,53.6009,-166.9825,100.026,3.8,mb,39,159,0.251,0.6,us,us7000qa5u,2025-07-02T20:51:56.040Z,"42 km SW of Unalaska, Alaska",earthquake,4.88,5.177,0.192,7,reviewed,us,us
 2025-07-01T23:53:38.710Z,38.837665557861,-122.78566741943,1.8600000143051,0.61,md,10,86,0.003727,0.02,nc,nc75203331,2025-07-01T23:55:13.380Z,"6 km WNW of Cobb, CA",earthquake,0.33,0.600000024,0.38,11,automatic,nc,nc
 2025-07-01T23:48:58.020Z,38.840167999268,-122.87650299072,2.3399999141693,0.97,md,16,87,0.005765,0.03,nc,nc75203326,2025-07-01T23:50:33.414Z,"13 km NW of The Geysers, CA",earthquake,0.31,0.5,0.16,16,automatic,nc,nc
 2025-07-01T23:44:42.200Z,34.017,-116.774,17.64,1.01,ml,35,58,0.03339,0.17,ci,ci41011759,2025-07-01T23:48:09.191Z,"11 km N of Cabazon, CA",earthquake,0.19,0.42,0.212,28,automatic,ci,ci
