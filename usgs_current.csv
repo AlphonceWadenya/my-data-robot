@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-03T21:34:28.910Z,32.6619987,-115.9151688,5.59,1.01,ml,16,89,0.01563,0.22,ci,ci41013807,2025-07-03T21:36:43.399Z,"11 km SE of Ocotillo, CA",earthquake,0.5,0.67,0.327,6,automatic,ci,ci
 2025-07-03T21:19:31.230Z,34.3348333,-116.9758333,2.59,1.1,ml,35,46,0.08157,0.16,ci,ci41013775,2025-07-03T21:22:59.123Z,"12 km NNW of Big Bear Lake, CA",earthquake,0.18,0.49,0.248,27,automatic,ci,ci
 2025-07-03T21:16:05.234Z,32.119,-102.191,6.5173,1.5,ml,26,71,0,0.4,tx,tx2025mzoesc,2025-07-03T21:20:46.088Z,"17 km NW of Midland, Texas",earthquake,0,1.5720007419586,0.1,16,automatic,tx,tx
 2025-07-03T21:11:49.483Z,62.7106,-149.8081,70.6,2.9,ml,,,,0.57,ak,ak0258gngf8v,2025-07-03T21:13:28.767Z,"32 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -39,6 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-03T17:24:22.310Z,34.1138333,-116.8638333,1.64,1.56,ml,65,26,0.06311,0.15,ci,ci41013575,2025-07-03T17:34:52.440Z,"15 km SSE of Big Bear Lake, CA",earthquake,0.11,0.23,0.116,26,automatic,ci,ci
 2025-07-03T17:19:46.373Z,59.1379,-151.5638,55.2,3.8,ml,,,,0.75,ak,ak0258gl4e9k,2025-07-03T19:44:43.442Z,"28 km SSE of Port Graham, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2025-07-03T17:05:31.050Z,38.845001220703,-122.82583618164,2.0299999713898,0.4,md,6,101,0.009838,0.01,nc,nc75204111,2025-07-03T17:07:07.955Z,"9 km WNW of Cobb, CA",earthquake,0.42,1.03999996,0.28,8,automatic,nc,nc
+2025-07-03T17:04:55.690Z,46.665666666667,-117.12016666667,-0.81,1.9,md,4,164,0.06472,0.29,uw,uw62131402,2025-07-03T21:29:29.960Z,"8 km SSE of Pullman, Washington",explosion,1.39,31.61,0.33115683079938,4,reviewed,uw,uw
 2025-07-03T17:03:38.200Z,46.4985,-123.37783333333,-0.17,1.49,ml,15,85,0.1365,0.36,uw,uw62131397,2025-07-03T18:07:33.880Z,"10 km SW of Pe Ell, Washington",explosion,0.82,31.61,0.15856133953227,10,reviewed,uw,uw
 2025-07-03T17:02:51.070Z,38.842834472656,-122.8245010376,2.0699999332428,1.49,md,26,72,0.00957,0.02,nc,nc75204101,2025-07-03T17:47:21.532Z,"9 km WNW of Cobb, CA",earthquake,0.2,0.360000014,0.21,27,automatic,nc,nc
 2025-07-03T16:53:09.650Z,60.642,-151.3696,54.9,1.3,ml,,,,0.71,ak,ak0258gkq68l,2025-07-03T16:55:13.173Z,"4 km NW of Salamatof, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -246,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-02T21:51:33.492Z,62.5847,-148.9738,60.9,1.3,ml,,,,0.5,ak,ak0258f05m6d,2025-07-02T21:53:23.451Z,"60 km ENE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-07-02T21:51:30.242Z,29.353,129.4475,15.206,4.7,mb,47,109,2.318,0.63,us,us7000qabd,2025-07-02T23:26:15.040Z,"101 km N of Tatsugō, Japan",earthquake,6.15,3.882,0.054,103,reviewed,us,us
 2025-07-02T21:48:19.660Z,46.849333333333,-121.76416666667,1.05,0.26,ml,16,69,0.01982,0.05,uw,uw62130742,2025-07-02T22:55:28.750Z,"22 km ENE of Ashford, Washington",earthquake,0.27,0.57,0.14100778949792,8,reviewed,uw,uw
-2025-07-02T21:31:57.540Z,38.55033493042,-122.76633453369,6.1100001335144,1.42,md,16,95,0.05896,0.08,nc,nc75203766,2025-07-03T00:47:42.834Z,"4 km  of Larkfield-Wikiup, CA",earthquake,0.29,0.75999999,0.13,13,automatic,nc,nc
-2025-07-02T21:31:11.210Z,54.728166666667,-163.399,5.26,1.39,ml,7,180,0.1821,0.16,av,av93655446,2025-07-03T04:03:53.700Z,"14 km S of False Pass, Alaska",earthquake,1.41,2.33,0.43305509516977,8,reviewed,av,av
