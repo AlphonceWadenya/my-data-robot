@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-04T20:20:45.660Z,38.839168548584,-122.80982971191,1.7799999713898,1.16,md,21,50,0.01524,0.02,nc,nc75205452,2025-07-04T20:57:17.461Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.449999988,0.18,21,automatic,nc,nc
 2025-07-04T20:15:35.944Z,67.7162,-152.1165,0.2,1,ml,,,,1.83,ak,ak0258iaf5yy,2025-07-04T20:26:42.583Z,"50 km SSW of Anaktuvuk Pass, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-04T20:12:12.059Z,32.067,-103.729,7.1168,2.2,mlv,32,40,0,0.3,tx,tx2025nbhuiq,2025-07-05T10:26:44.649Z,"36 km ESE of Malaga, New Mexico",earthquake,0,1.8111032247543,0.2,23,automatic,tx,tx
-2025-07-04T19:54:11.450Z,54.728833333333,-163.41066666667,7.43,1.21,ml,10,179,0.1754,0.3,av,av93657556,2025-07-05T02:32:03.300Z,"13 km S of False Pass, Alaska",earthquake,2.18,1.06,0.38737705588575,10,reviewed,av,av
