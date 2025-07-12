@@ -327,4 +327,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-11T19:05:24.570Z,33.7858333,-116.0831667,1.31,0.94,ml,22,85,0.1157,0.16,ci,ci41020351,2025-07-11T19:51:50.230Z,"14 km ENE of Indio, CA",earthquake,0.19,0.35,0.08,17,reviewed,ci,ci
 2025-07-11T19:02:37.880Z,33.1586667,-115.6416667,5.96,1.5,ml,27,66,0.02878,0.21,ci,ci41020343,2025-07-11T19:06:08.304Z,"12 km WNW of Calipatria, CA",earthquake,0.29,0.45,0.279,25,automatic,ci,ci
 2025-07-11T19:01:45.570Z,33.1618333,-115.639,5.94,1.61,ml,37,60,0.02504,0.22,ci,ci41020335,2025-07-11T19:05:33.303Z,"12 km WNW of Calipatria, CA",earthquake,0.24,0.36,0.234,26,automatic,ci,ci
-2025-07-11T18:59:48.673Z,31.169,-103.59,4.9719,2.3,ml,29,74,0.1,0.2,tx,tx2025nobmhw,2025-07-11T20:04:55.321Z,"22 km SSW of Lindsay, Texas",earthquake,0.73594931328792,2.9076578178587,0.1,19,reviewed,tx,tx
