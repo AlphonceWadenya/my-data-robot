@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-07-13T17:36:05.880Z,38.827667236328,-122.85483551025,2.1600000858307,0.64,md,8,83,0.001596,0.02,nc,nc75209382,2025-07-13T17:37:43.279Z,"10 km NW of The Geysers, CA",earthquake,0.34,1.15999997,0.16,8,automatic,nc,nc
-2025-07-13T17:31:17.940Z,38.828498840332,-122.85549926758,2.5599999427795,1.1,md,20,70,0.001435,0.02,nc,nc75209377,2025-07-13T17:33:03.308Z,"10 km NW of The Geysers, CA",earthquake,0.32,0.439999998,0.17,22,automatic,nc,nc
+2025-07-13T17:31:17.940Z,38.828498840332,-122.85549926758,2.5599999427795,1.1,md,20,70,0.001435,0.02,nc,nc75209377,2025-07-13T17:47:18.739Z,"10 km NW of The Geysers, CA",earthquake,0.32,0.439999998,0.17,22,automatic,nc,nc
 2025-07-13T17:08:31.252Z,7.1009,127.4752,10,5.1,mww,55,52,1.882,1.24,us,us7000qcft,2025-07-13T17:28:16.040Z,"101 km ESE of Santiago, Philippines",earthquake,7.5,1.874,0.103,9,reviewed,us,us
 2025-07-13T16:54:51.150Z,36.1743333,-118.0253333,3.11,0.87,ml,24,55,0.1492,0.17,ci,ci41021863,2025-07-13T16:58:23.265Z,"12 km S of Olancha, CA",earthquake,0.23,0.66,0.17,15,automatic,ci,ci
 2025-07-13T16:53:31.350Z,19.187000274658,-155.48649597168,32.330001831055,2,ml,54,77,0.03897,0.129999995,hv,hv74724592,2025-07-13T16:56:52.930Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.46,0.5,0.17,9,automatic,hv,hv
@@ -244,4 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-12T18:09:05.758Z,-5.965,146.3723,108.915,4.7,mb,110,30,3.505,0.98,us,us7000qcau,2025-07-12T19:08:14.040Z,"66 km ENE of Kainantu, Papua New Guinea",earthquake,7.5,7.273,0.055,112,reviewed,us,us
 2025-07-12T18:07:46.570Z,38.821833333333,-122.811,2.83,0.4,md,23,51,0.001719,0.02,nc,nc75208982,2025-07-13T05:38:28.081Z,"7 km NNW of The Geysers, CA",earthquake,0.19,0.36,0.127,22,reviewed,nc,nc
 2025-07-12T18:06:18.090Z,36.493999481201,-121.07783508301,5.6900000572205,1.41,md,9,137,0.04183,0.09,nc,nc75208977,2025-07-12T18:37:16.698Z,"7 km SE of Pinnacles, CA",earthquake,0.7,1.69000006,0.31,8,automatic,nc,nc
-2025-07-12T17:41:58.500Z,38.819332122803,-122.81833648682,2.6300001144409,0.28,md,12,92,0.007623,0.01,nc,nc75208972,2025-07-12T17:43:34.605Z,"7 km NW of The Geysers, CA",earthquake,0.61,1.07000005,0.07,12,automatic,nc,nc
