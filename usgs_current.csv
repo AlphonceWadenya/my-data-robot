@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-14T21:52:05.701Z,31.692,-104.494,4.4275,1.9,ml,25,101,0,0.2,tx,tx2025ntujkk,2025-07-14T21:54:50.358Z,"54 km SSW of Whites City, New Mexico",earthquake,0,1.1577405929565,0.2,18,automatic,tx,tx
 2025-07-14T21:39:49.030Z,33.9716667,-116.9878333,6.02,1.38,ml,63,25,0.05051,0.17,ci,ci41022543,2025-07-14T21:50:29.570Z,"5 km NNW of Beaumont, CA",earthquake,0.13,0.44,0.146,29,automatic,ci,ci
 2025-07-14T21:38:04.190Z,33.8423333,-117.4961667,2.23,1.51,ml,47,45,0.0493,0.23,ci,ci41022535,2025-07-14T21:41:47.058Z,"5 km SSE of Home Gardens, CA",earthquake,0.26,0.32,0.239,37,automatic,ci,ci
+2025-07-14T21:37:59.869Z,46.5241,151.3708,75.906,5.8,mww,108,38,18.446,0.74,us,us7000qcp2,2025-07-14T21:55:15.040Z,"Kuril Islands",earthquake,10.11,6.061,0.063,24,reviewed,us,us
 2025-07-14T21:30:21.820Z,33.5326667,-116.7283333,5.55,0.61,ml,17,56,0.03349,0.09,ci,ci41022519,2025-07-14T21:33:46.690Z,"6 km WSW of Anza, CA",earthquake,0.15,0.31,0.172,14,automatic,ci,ci
 2025-07-14T21:08:14.230Z,19.194,-155.607,0.22,2.85,ml,47,91,0.05237,0.26,hv,hv74725637,2025-07-14T21:20:12.020Z,"13 km W of Pāhala, Hawaii",earthquake,0.32,0.44,0.19253474369757,32,reviewed,hv,hv
 2025-07-14T21:02:10.221Z,62.5737,-151.045,72.3,1.3,ml,,,,0.79,ak,ak0258yub87y,2025-07-14T21:04:34.812Z,"16 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
