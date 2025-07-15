@@ -64,6 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-15T13:08:59.827Z,63.228,-151.8009,10.2,1.7,ml,,,,0.46,ak,ak02590d4hzy,2025-07-15T13:10:29.795Z,"35 km S of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-15T13:04:06.580Z,36.4553333,-117.966,8.11,2.15,ml,31,46,0.09333,0.16,ci,ci41023143,2025-07-15T13:07:45.457Z,"17 km SSE of Lone Pine, CA",earthquake,0.19,0.45,0.159,26,automatic,ci,ci
 2025-07-15T13:03:26.975Z,32.411,-102.124,5.9814,0.7,ml,17,60,0,0.2,tx,tx2025nuyoqy,2025-07-15T14:55:01.594Z,"39 km SSW of Los Ybanez, Texas",earthquake,0.94524396670124,0.55248677411742,0.1,6,reviewed,tx,tx
+2025-07-15T12:48:52.300Z,38.84,-122.8215,0.83,0.27,md,13,91,0.01101,0.02,nc,nc75210172,2025-07-15T17:57:02.008Z,"9 km WNW of Cobb, CA",earthquake,0.25,0.47,0.405,13,reviewed,nc,nc
 2025-07-15T12:45:33.960Z,35.5021667,-118.405,5.19,0.88,ml,23,57,0.1699,0.15,ci,ci41023135,2025-07-15T12:49:04.338Z,"12 km SE of Bodfish, CA",earthquake,0.24,1.27,0.112,11,automatic,ci,ci
 2025-07-15T12:35:11.510Z,33.268,-116.4236667,4.27,0.89,ml,46,33,0.005455,0.22,ci,ci41023127,2025-07-15T13:25:38.080Z,"5 km WNW of Borrego Springs, CA",earthquake,0.18,0.38,0.177,20,reviewed,ci,ci
 2025-07-15T12:31:24.003Z,36.9015,-116.0092,9.2,-0.3,ml,15,63.2,0.016,0.097,nn,nn00900648,2025-07-15T14:06:29.609Z,"47 km NW of Indian Springs, Nevada",earthquake,,1.4,0.12,5,reviewed,nn,nn
@@ -90,6 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-15T10:37:23.290Z,33.854,-117.7233333,8.12,0.87,ml,33,58,0.06065,0.2,ci,ci41023079,2025-07-15T10:41:00.980Z,"9 km ESE of Yorba Linda, CA",earthquake,0.27,0.54,0.13,20,automatic,ci,ci
 2025-07-15T10:33:26.394Z,63.1129,-149.3565,78.2,2.8,ml,,,,0.44,ak,ak02590bhhgr,2025-07-15T11:20:22.040Z,"37 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-07-15T10:32:15.000Z,33.2278333,-116.732,11.65,0.21,ml,26,33,0.02385,0.15,ci,ci41023071,2025-07-15T10:36:00.947Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.2,0.51,0.163,4,automatic,ci,ci
+2025-07-15T10:18:38.190Z,38.842,-122.82366666667,2.05,0.38,md,17,89,0.009839,0.03,nc,nc75210137,2025-07-15T17:54:30.912Z,"9 km WNW of Cobb, CA",earthquake,0.22,0.35,0.089,16,reviewed,nc,nc
 2025-07-15T10:14:53.899Z,61.4652,-146.4955,28,1.3,ml,,,,1.13,ak,ak02590bdh0t,2025-07-15T10:17:19.941Z,"38 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-15T10:12:35.810Z,33.9328333,-116.8,17.38,0.68,ml,33,53,0.09901,0.18,ci,ci41023063,2025-07-15T10:16:50.798Z,"2 km NW of Cabazon, CA",earthquake,0.25,0.55,0.106,14,automatic,ci,ci
 2025-07-15T10:08:01.550Z,46.846668243408,-121.77233123779,-0.51999998092651,1.04999995,md,25,64,,0.0700000003,uw,uw62143052,2025-07-15T10:09:54.640Z,"22 km ENE of Ashford, Washington",earthquake,0.22,0.730000019,0.519999981,3,automatic,uw,uw
@@ -210,7 +212,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-15T00:32:32.654Z,36.7646,-115.8314,7.5,1.5,ml,51,79.05,0.096,0.1129,nn,nn00900616,2025-07-15T00:52:21.614Z,"25 km NNW of Indian Springs, Nevada",earthquake,,1.2,0.29,20,reviewed,nn,nn
 2025-07-15T00:30:27.870Z,35.2631667,-118.943,19.38,2.23,ml,54,24,0.09964,0.22,ci,ci41022615,2025-07-15T00:41:16.150Z,"3 km W of Lamont, CA",earthquake,0.22,0.44,0.183,26,automatic,ci,ci
 2025-07-15T00:26:38.830Z,46.806666666667,-121.95716666667,6.97,0.57,ml,21,100,0.03195,0.1,uw,uw62142502,2025-07-15T05:35:04.650Z,"7 km NE of Ashford, Washington",earthquake,0.24,0.33,0.16763205565667,12,reviewed,uw,uw
-2025-07-15T00:25:36.610Z,37.19083404541,-118.42666625977,13.659999847412,2.02,md,11,154,0.1214,0.1,nc,nc75209992,2025-07-15T17:38:21.606Z,"10 km SSW of Wilkerson, CA",earthquake,0.73,1.70000005,0.31,7,automatic,nc,nc
+2025-07-15T00:25:36.610Z,37.19083404541,-118.42666625977,13.659999847412,2.02,md,11,154,0.1214,0.1,nc,nc75209992,2025-07-15T17:56:47.361Z,"10 km SSW of Wilkerson, CA",earthquake,0.73,1.70000005,0.31,7,automatic,nc,nc
 2025-07-15T00:00:54.337Z,60.8441,-150.5103,16.7,1.1,ml,,,,0.56,ak,ak025905c4zd,2025-07-15T00:02:45.746Z,"13 km SE of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-14T23:52:00.570Z,28.721,-98.582,12.9244,1.8,ml,7,238,0.1,0.1,tx,tx2025ntyguh,2025-07-15T00:00:39.399Z,"11 km SW of Christine, Texas",earthquake,0,16.111335754395,0.1,7,automatic,tx,tx
 2025-07-14T23:48:57.469Z,58.2647,-154.8076,0,1,ml,,,,0.76,ak,ak0258yvs20i,2025-07-14T23:50:44.440Z,"80 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
