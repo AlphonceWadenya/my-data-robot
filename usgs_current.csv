@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-17T23:53:53.650Z,38.837501525879,-122.82350158691,0.56999999284744,0.64,md,9,81,0.009423,0.01,nc,nc75211407,2025-07-17T23:55:31.006Z,"9 km WNW of Cobb, CA",earthquake,0.25,0.769999981,0.36,10,automatic,nc,nc
 2025-07-17T23:46:55.400Z,38.804332733154,-122.83149719238,12.390000343323,1.11,md,6,227,0.01132,0.11,nc,nc75211402,2025-07-17T23:48:30.902Z,"7 km NW of The Geysers, CA",earthquake,4.16,10.5200005,0.32,2,automatic,nc,nc
 2025-07-17T23:43:30.413Z,39.1536,-119.0503,3.8,1.9,ml,17,75.81,0.224,0.1676,nn,nn00900793,2025-07-17T23:45:42.120Z,"21 km NNE of Yerington, Nevada",earthquake,,5.5,0.23,9,automatic,nn,nn
 2025-07-17T23:30:02.460Z,38.838333129883,-122.8245010376,0.62000000476837,0.51,md,7,90,0.008584,0.01,nc,nc75211392,2025-07-17T23:31:40.863Z,"9 km WNW of Cobb, CA",earthquake,0.48,1.41999996,0.28,7,automatic,nc,nc
