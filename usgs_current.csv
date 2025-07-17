@@ -248,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-16T12:03:42.000Z,38.820499420166,-122.82333374023,2.2999999523163,0.76,md,6,83,0.01075,0.01,nc,nc75210762,2025-07-16T12:05:18.083Z,"8 km NW of The Geysers, CA",earthquake,0.55,1.35000002,0.15,8,automatic,nc,nc
 2025-07-16T12:03:10.604Z,-37.8738,-73.7055,14.782,4.1,mwr,26,148,2.015,0.81,us,us7000qcz4,2025-07-17T04:19:40.040Z,"28 km WSW of Cañete, Chile",earthquake,8.1,5.086,0.075,17,reviewed,us,us
 2025-07-16T12:00:50.740Z,32.921,-115.627,4.95,1.26,ml,27,54,0.05906,0.24,ci,ci41024015,2025-07-16T12:04:56.836Z,"10 km NNW of Imperial, CA",earthquake,0.3,0.79,0.257,18,automatic,ci,ci
-2025-07-16T11:53:30.748Z,63.3045,-150.5319,131.5,1.8,ml,,,,0.33,ak,ak02591zqk8j,2025-07-16T11:55:26.779Z,"65 km ESE of Denali National Park, Alaska",earthquake,,0.8,,,automatic,ak,ak
