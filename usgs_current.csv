@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-19T23:54:28.010Z,36.1331667,-117.8531667,6.55,0.91,ml,21,56,0.01561,0.14,ci,ci41026639,2025-07-19T23:57:56.770Z,"13 km NE of Coso Junction, CA",earthquake,0.26,0.36,0.149,14,automatic,ci,ci
 2025-07-19T23:41:56.020Z,59.8083,-153.4387,121.5,1.6,ml,,,,0.54,ak,ak025975facy,2025-07-19T23:44:22.697Z,"37 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-19T23:40:30.560Z,32.356,-102.171,4.0532,1.5,ml,35,57,0,0.5,tx,tx2025odcpdo,2025-07-19T23:44:32.607Z,"34 km E of McKinney Acres, Texas",earthquake,0,0.87621086835861,0.2,18,automatic,tx,tx
 2025-07-19T23:38:48.650Z,19.210666656494,-155.48483276367,29.670000076294,1.99,ml,53,102,0.03982,0.159999996,hv,hv74730067,2025-07-19T23:42:13.260Z,"1 km NW of Pāhala, Hawaii",earthquake,0.48,0.529999971,0.6,8,automatic,hv,hv
