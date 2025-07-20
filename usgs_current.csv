@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-20T19:24:54.090Z,38.839500427246,-122.83650207519,1.4199999570847,0.68,md,7,161,0.001207,0.02,nc,nc75212637,2025-07-20T19:26:29.397Z,"10 km NW of The Geysers, CA",earthquake,0.52,0.930000007,0.08,9,automatic,nc,nc
+2025-07-20T19:22:17.350Z,38.841167449951,-122.83866882324,1.6900000572205,0.84,md,6,200,0.003578,0.01,nc,nc75212632,2025-07-20T19:23:54.532Z,"10 km NW of The Geysers, CA",earthquake,0.64,1.71000004,0.17,9,automatic,nc,nc
 2025-07-20T19:18:28.344Z,37.5412,-117.7454,3.9,1.2,ml,12,147.66,0.25,0.1657,nn,nn00900956,2025-07-20T19:21:09.322Z,"25 km SSW of Silver Peak, Nevada",earthquake,,2.1,0.44,10,automatic,nn,nn
 2025-07-20T19:18:06.289Z,57.1548,-157.093,91.3,1.8,ml,,,,0.17,ak,ak02598qfv4k,2025-07-20T19:19:47.219Z,"43 km SSE of Ugashik, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-07-20T19:08:04.728Z,62.6289,-148.8589,46.5,1.4,ml,,,,1.07,ak,ak02598qdj8g,2025-07-20T19:10:49.113Z,"67 km ENE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
