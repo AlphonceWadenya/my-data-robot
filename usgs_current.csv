@@ -292,6 +292,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-19T11:58:20.370Z,61.2901,-152.523,3.8,2,ml,,,,0.42,ak,ak02596ydnit,2025-07-19T12:00:02.267Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-19T11:56:29.260Z,38.83466720581,-122.79616546631,1.8700000047684,1.03,md,16,76,0.005885,0.01,nc,nc75211982,2025-07-19T11:58:06.506Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.569999993,0.06,16,automatic,nc,nc
 2025-07-19T11:55:47.438Z,61.2952,-152.5052,2.4,1.8,ml,,,,0.84,ak,ak02596yd2gn,2025-07-19T11:57:28.142Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-07-19T11:53:28.590Z,45.4495,-111.74333333333,0.76,1.4,ml,18,67,0.1677,0.06,mb,mb90102823,2025-07-19T13:57:58.550Z,"11 km N of Ennis, Montana",earthquake,0.22,0.58,0.15566358294776,22,reviewed,mb,mb
-2025-07-19T11:53:20.145Z,32.9687,89.9524,10,4.5,mb,56,133,3.407,0.77,us,us7000qdt7,2025-07-19T12:38:18.040Z,"258 km NW of Nagqu, China",earthquake,10.44,1.876,0.068,64,reviewed,us,us
-2025-07-19T11:50:27.523Z,60.5031,-141.3084,26.5,1,ml,,,,0.16,ak,ak02596ybycg,2025-07-19T11:52:24.894Z,"135 km SE of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
