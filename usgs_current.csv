@@ -245,5 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-21T12:18:27.896Z,61.9649,-151.279,72.7,1.6,ml,,,,0.45,ak,ak0259a9t81x,2025-07-21T12:20:30.229Z,"6 km ESE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-07-21T12:17:47.155Z,52.4067,160.6288,10,4.5,mb,27,210,1.353,1.32,us,us7000qe9a,2025-07-21T12:48:57.040Z,"153 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.08,1.881,0.106,26,reviewed,us,us
 2025-07-21T11:57:16.776Z,61.7216,-150.4885,47.1,0.7,ml,,,,0.43,ak,ak0259a9fzva,2025-07-21T19:58:23.048Z,"19 km N of Susitna, Alaska",earthquake,,1.6,,,reviewed,ak,ak
-2025-07-21T11:50:39.430Z,33.5338333,-116.7186667,5.63,0.73,ml,42,27,0.03512,0.18,ci,ci41027479,2025-07-21T13:04:44.648Z,"5 km WSW of Anza, CA",earthquake,0.16,0.45,0.156,22,reviewed,ci,ci
-2025-07-21T11:47:36.971Z,42.65,-106.9719,9.59,2.5,ml,14,87,0.33,0.89,us,us7000qe96,2025-07-21T13:11:08.040Z,"23 km WNW of Alcova, Wyoming",earthquake,3.63,7.789,0.056,42,reviewed,us,us
