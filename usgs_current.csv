@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-07-22T10:39:12.039Z,31.656,-104.377,4.2447,2,ml,30,70,0,0.5,tx,tx2025ohpwpr,2025-07-22T10:42:33.224Z,"57 km S of Whites City, New Mexico",earthquake,0,1.0777388811111,0.2,21,automatic,tx,tx
+2025-07-22T10:53:00.360Z,35.3266678,-117.8346634,7.87,1.61,ml,25,79,0.05981,0.3,ci,ci41028375,2025-07-22T10:55:11.828Z,"19 km WSW of Johannesburg, CA",earthquake,0.66,2.69,0.285,5,automatic,ci,ci
+2025-07-22T10:46:26.704Z,31.637,-104.375,4.1401,1.8,ml,30,75,0.1,0.4,tx,tx2025ohqcuy,2025-07-22T10:49:34.215Z,"59 km S of Whites City, New Mexico",earthquake,0,1.0390458106995,0.2,24,automatic,tx,tx
+2025-07-22T10:41:28.470Z,38.814998626709,-122.81833648682,2.6099998950958,0.26,md,7,97,0.01045,0.01,nc,nc75213372,2025-07-22T10:43:07.550Z,"7 km NW of The Geysers, CA",earthquake,0.54,1.48000002,0.12,8,automatic,nc,nc
+2025-07-22T10:39:12.039Z,31.656,-104.377,4.2447,2,ml,30,70,0,0.5,tx,tx2025ohpwpr,2025-07-22T10:43:34.227Z,"57 km S of Whites City, New Mexico",earthquake,0,1.0777388811111,0.2,21,automatic,tx,tx
 2025-07-22T10:29:25.456Z,62.6084,-149.7364,59.7,1.9,ml,,,,0.37,ak,ak0259bw820x,2025-07-22T10:31:24.344Z,"25 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-07-22T10:21:38.298Z,60.0215,-152.9556,114.1,1.8,ml,,,,0.65,ak,ak0259bw6dad,2025-07-22T10:24:11.761Z,"68 km WNW of Anchor Point, Alaska",earthquake,,2,,,automatic,ak,ak
 2025-07-22T10:20:10.154Z,60.2517,-151.1494,32.7,2.3,ml,,,,0.55,ak,ak0259bw63e9,2025-07-22T10:21:25.234Z,"11 km SE of Kasilof, Alaska",earthquake,,0.5,,,automatic,ak,ak
