@@ -76,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-27T07:19:16.559Z,31.59,-104.332,3.8101,1.6,ml,30,83,0.1,0.4,tx,tx2025oqnwsp,2025-07-27T08:01:32.316Z,"59 km WNW of Toyah, Texas",earthquake,0,1.0907868146896,0.2,23,automatic,tx,tx
 2025-07-27T07:06:43.710Z,38.832000732422,-122.80867004394,2.2000000476837,1.96,md,49,26,0.008663,0.05,nc,nc75215707,2025-07-27T07:37:19.551Z,"7 km WNW of Cobb, CA",earthquake,0.15,0.239999995,0.15,47,automatic,nc,nc
 2025-07-27T06:54:54.959Z,64.7213,-146.8481,7.9,1,ml,,,,0.36,ak,ak0259k3oh93,2025-07-27T06:56:25.893Z,"11 km ENE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-07-27T06:50:29.330Z,40.403,-125.33333333333,10,4.2,mw,135,239,0.7598,0.34,nc,nc75215702,2025-07-27T14:48:28.558Z,"89 km WNW of Petrolia, CA",earthquake,1.08,31.61,,6,reviewed,nc,nc
+2025-07-27T06:50:29.330Z,40.403,-125.33333333333,10,4.2,mw,135,239,0.7598,0.34,nc,nc75215702,2025-07-27T14:55:55.568Z,"89 km WNW of Petrolia, CA",earthquake,1.08,31.61,,6,reviewed,nc,nc
 2025-07-27T06:41:32.690Z,38.800998687744,-122.77783203125,2.25,0.75,md,12,68,0.01109,0.01,nc,nc75215697,2025-07-27T06:43:09.983Z,"3 km NNW of The Geysers, CA",earthquake,0.32,0.649999976,0.07,12,automatic,nc,nc
 2025-07-27T06:37:15.165Z,61.3062,-152.4327,0,1.9,ml,,,,0.8,ak,ak0259k3kr0c,2025-07-27T06:52:54.669Z,"74 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-27T06:36:37.749Z,-35.4173,-71.2958,100.192,4.2,mb,42,134,0.359,0.55,us,us6000qvfz,2025-07-27T08:17:24.040Z,"21 km NE of San Clemente, Chile",earthquake,6.62,4.898,0.112,22,reviewed,us,us
@@ -219,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-26T15:01:45.890Z,47.631666666667,-122.12916666667,11.49,1.6,ml,39,51,0.01376,0.28,uw,uw62151292,2025-07-26T15:36:58.090Z,"3 km WSW of Sammamish, Washington",earthquake,0.3,0.61,0.18339686476457,29,reviewed,uw,uw
 2025-07-26T15:00:37.222Z,58.0556,-154.7908,35.3,1.2,ml,,,,0.41,ak,ak0259il6f62,2025-07-26T15:02:26.643Z,"57 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-07-26T14:58:01.761Z,31.375,-103.592,6.4221,0.9,mlv,5,198,0,0.2,tx,tx2025ophjdi,2025-07-26T18:07:58.964Z,"5 km W of Lindsay, Texas",earthquake,0,5.3244428634644,0.3,5,automatic,tx,tx
-2025-07-26T14:53:31.978Z,-6.5666,106.6516,165.776,4.4,mb,27,168,0.392,1.09,us,us6000qvbm,2025-07-26T15:27:49.040Z,"5 km WSW of Ciampea, Indonesia",earthquake,10.5,6.902,0.114,22,reviewed,us,us
