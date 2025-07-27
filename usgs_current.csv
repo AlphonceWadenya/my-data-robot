@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-27T14:25:50.480Z,33.2313333,-116.3775,2.39,1.29,ml,67,25,0.04956,0.2,ci,ci41033655,2025-07-27T14:29:15.930Z,"3 km S of Borrego Springs, CA",earthquake,0.14,0.26,0.164,26,automatic,ci,ci
+2025-07-27T14:07:56.680Z,34.0685,-116.8846667,16.63,1.14,ml,63,29,0.04931,0.19,ci,ci41033639,2025-07-27T14:12:18.252Z,"15 km ENE of Yucaipa, CA",earthquake,0.16,0.41,0.226,26,automatic,ci,ci
+2025-07-27T14:04:51.490Z,36.0691667,-117.8076667,5.32,0.51,ml,16,88,0.05572,0.16,ci,ci41033631,2025-07-27T14:08:14.386Z,"13 km ENE of Coso Junction, CA",earthquake,0.27,0.55,0.224,9,automatic,ci,ci
 2025-07-27T13:54:17.980Z,19.298666000366,-155.21217346191,-0.23000000417232,2.69,ml,58,116,0.02097,0.25999999,hv,hv74736817,2025-07-27T13:57:39.990Z,"16 km S of Volcano, Hawaii",earthquake,0.35,0.180000007,0.38,39,automatic,hv,hv
 2025-07-27T13:36:26.027Z,60.1936,-150.1102,27.4,1.7,ml,,,,0.54,ak,ak0259k7qld6,2025-07-27T13:38:21.326Z,"36 km SSW of Cooper Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-27T13:29:44.940Z,33.6348333,-116.6778333,12.43,0.9,ml,52,33,0.03414,0.16,ci,ci41033615,2025-07-27T13:33:14.576Z,"9 km N of Anza, CA",earthquake,0.14,0.28,0.171,30,automatic,ci,ci
@@ -75,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-27T06:37:15.165Z,61.3062,-152.4327,0,1.9,ml,,,,0.8,ak,ak0259k3kr0c,2025-07-27T06:52:54.669Z,"74 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-27T06:36:37.749Z,-35.4173,-71.2958,100.192,4.2,mb,42,134,0.359,0.55,us,us6000qvfz,2025-07-27T08:17:24.040Z,"21 km NE of San Clemente, Chile",earthquake,6.62,4.898,0.112,22,reviewed,us,us
 2025-07-27T06:35:23.380Z,38.836666107178,-122.80016326904,1.7599999904633,0.7,md,9,68,0.007864,0.02,nc,nc75215692,2025-07-27T06:36:59.119Z,"7 km WNW of Cobb, CA",earthquake,0.42,1.33000004,0.38,10,automatic,nc,nc
-2025-07-27T06:31:05.021Z,51.7821,-177.8375,85.07,4.1,mb,41,165,0.135,0.46,us,us6000qvfx,2025-07-27T14:05:59.668Z,"83 km W of Adak, Alaska",earthquake,7.4,5.569,0.071,53,reviewed,us,us
+2025-07-27T06:31:05.021Z,51.7821,-177.8375,85.07,4.1,mb,41,165,0.135,0.46,us,us6000qvfx,2025-07-27T14:09:35.682Z,"83 km W of Adak, Alaska",earthquake,7.4,5.569,0.071,53,reviewed,us,us
 2025-07-27T06:26:10.708Z,18.6041,-101.9888,86.806,4.1,mb,52,216,1.264,0.8,us,us6000qvfw,2025-07-27T07:14:02.040Z,"4 km NNW of Las Cañas, Mexico",earthquake,10.11,8.41,0.039,181,reviewed,us,us
 2025-07-27T06:21:19.733Z,-26.786,-71.3163,10,4.6,mb,24,144,0.532,1.1,us,us6000qvfu,2025-07-27T06:57:03.040Z,"116 km WNW of Copiapó, Chile",earthquake,3.68,1.879,0.146,14,reviewed,us,us
 2025-07-27T06:19:08.280Z,35.3106667,-117.8095,8.81,1.02,ml,32,66,0.05239,0.21,ci,ci41033463,2025-07-27T06:22:55.017Z,"17 km WSW of Johannesburg, CA",earthquake,0.26,0.53,0.197,19,automatic,ci,ci
@@ -215,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-26T14:58:01.761Z,31.375,-103.592,6.4221,0.9,mlv,5,198,0,0.2,tx,tx2025ophjdi,2025-07-26T18:07:58.964Z,"5 km W of Lindsay, Texas",earthquake,0,5.3244428634644,0.3,5,automatic,tx,tx
 2025-07-26T14:53:31.978Z,-6.5666,106.6516,165.776,4.4,mb,27,168,0.392,1.09,us,us6000qvbm,2025-07-26T15:27:49.040Z,"5 km WSW of Ciampea, Indonesia",earthquake,10.5,6.902,0.114,22,reviewed,us,us
 2025-07-26T14:49:46.410Z,33.3835,-116.9545,15.74,0.74,ml,37,31,0.06493,0.19,ci,ci41032935,2025-07-26T14:53:12.850Z,"9 km WNW of Palomar Observatory, CA",earthquake,0.22,0.5,0.143,22,automatic,ci,ci
-2025-07-26T14:21:00.340Z,38.775333404541,-122.72799682617,1.6399999856949,0.92,md,8,83,0.01043,0.01,nc,nc75215327,2025-07-26T14:22:38.250Z,"2 km ESE of The Geysers, CA",earthquake,0.39,0.680000007,0.23,9,automatic,nc,nc
