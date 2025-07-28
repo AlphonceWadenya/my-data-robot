@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T18:33:19.469Z,31.978,-102.314,7.4321,1.6,ml,27,64,0,0.5,tx,tx2025otfylh,2025-07-28T18:38:06.942Z,"7 km SE of Gardendale, Texas",earthquake,0,1.4601445198059,0.2,17,automatic,tx,tx
 2025-07-28T18:31:39.010Z,33.9643333,-116.7838333,9.98,1.14,ml,33,71,0.07339,0.16,ci,ci41034727,2025-07-28T18:35:20.478Z,"5 km N of Cabazon, CA",earthquake,0.2,0.47,0.209,27,automatic,ci,ci
 2025-07-28T18:31:03.980Z,33.961,-116.7803333,10.53,0.93,ml,24,71,0.0774,0.13,ci,ci41034711,2025-07-28T19:30:44.416Z,"5 km N of Cabazon, CA",earthquake,0.19,0.39,0.073,5,reviewed,ci,ci
-2025-07-28T18:29:19.670Z,33.9626656,-116.7884979,10.59,3.13,ml,109,21,0.04893,0.17,ci,ci41034695,2025-07-28T19:47:54.768Z,"5 km N of Cabazon, CA",earthquake,0.18,0.42,0.276,13,reviewed,ci,ci
+2025-07-28T18:29:19.670Z,33.9626656,-116.7884979,10.59,3.13,ml,109,21,0.04893,0.17,ci,ci41034695,2025-07-28T19:53:41.305Z,"5 km N of Cabazon, CA",earthquake,0.18,0.42,0.276,13,reviewed,ci,ci
 2025-07-28T18:28:45.480Z,33.9628334,-116.7893295,10.66,3.14,ml,107,15,0.04915,0.18,ci,ci41034687,2025-07-28T19:37:25.680Z,"5 km N of Cabazon, CA",earthquake,0.18,0.45,0.281,13,reviewed,ci,ci
 2025-07-28T18:21:34.480Z,33.1151667,-116.0616667,10.03,1.31,ml,52,39,0.09133,0.22,ci,ci41034671,2025-07-28T18:32:28.850Z,"7 km ESE of Ocotillo Wells, CA",earthquake,0.18,0.55,0.144,26,automatic,ci,ci
 2025-07-28T18:15:35.860Z,37.712665557861,-122.28932952881,0.66000002622604,2.03,md,9,188,0.4552,0.2,nc,nc75216257,2025-07-28T18:25:09.286Z,"7 km SW of Alameda, CA",earthquake,7.94,15.4799995,0.29,2,automatic,nc,nc
@@ -227,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-27T19:57:32.490Z,32.4905,-115.6035,6.05,1.55,ml,25,62,0.0507,0.28,ci,ci41033879,2025-07-27T20:01:11.404Z,"10 km S of Progreso, B.C., MX",earthquake,0.36,1.1,0.218,23,automatic,ci,ci
 2025-07-27T19:57:24.087Z,61.5835,-150.0341,42.5,1.2,ml,,,,0.53,ak,ak0259kbfovs,2025-07-27T19:59:17.283Z,"8 km NNW of Big Lake, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-07-27T19:57:16.043Z,31.657,-104.253,6.3562,1.6,ml,30,66,0,0.2,tx,tx2025ormzlz,2025-07-28T04:02:16.689Z,"57 km NW of Toyah, Texas",earthquake,0.88801819837926,0.69267816657256,0.1,13,reviewed,tx,tx
-2025-07-27T19:52:18.830Z,37.748833333333,-121.96516666667,8.51,0.93,md,8,124,0.07979,0.05,nc,nc75215902,2025-07-28T18:13:41.220Z,"4 km S of San Ramon, CA",earthquake,0.3,0.7,0.23,6,reviewed,nc,nc
