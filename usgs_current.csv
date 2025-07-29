@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-29T11:54:28.020Z,33.2365,-116.0291667,8.26,0.66,ml,43,76,0.05664,0.25,ci,ci41035327,2025-07-29T11:57:58.656Z,"10 km SW of Salton City, CA",earthquake,0.25,0.75,0.238,6,automatic,ci,ci
+2025-07-29T11:51:12.710Z,38.793334960938,-122.7568359375,0.61000001430511,0.3,md,7,86,0.007618,0.02,nc,nc75216492,2025-07-29T11:53:53.558Z,"2 km N of The Geysers, CA",earthquake,0.4,0.860000014,0.06,7,automatic,nc,nc
 2025-07-29T11:38:40.160Z,63.1233,-151.3473,0,1.4,ml,,,,0.29,ak,ak0259nhmvo0,2025-07-29T11:40:29.068Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-07-29T11:35:58.665Z,63.7629,-146.9487,58.2,1.2,ml,,,,0.94,ak,ak0259nhm9y2,2025-07-29T11:38:01.608Z,"67 km SW of Whitestone, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2025-07-29T11:34:52.410Z,36.1706667,-118.0271667,3.79,0.83,ml,22,54,0.1492,0.17,ci,ci41035319,2025-07-29T11:38:19.359Z,"12 km S of Olancha, CA",earthquake,0.28,0.87,0.148,14,automatic,ci,ci
