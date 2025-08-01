@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-01T09:34:47.290Z,32.9768333,-116.3085,9.34,0.13,ml,26,96,0.02259,0.15,ci,ci41250400,2025-08-01T09:38:14.514Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.21,0.45,0.024,2,automatic,ci,ci
 2025-08-01T09:26:15.466Z,61.6848,-146.345,32.7,1,ml,,,,0.59,ak,ak0259sezffu,2025-08-01T09:27:47.844Z,"40 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-01T09:22:24.515Z,38.8149,-119.6378,6,0.7,ml,12,139.08,0.082,0.0702,nn,nn00901876,2025-08-01T09:24:31.678Z,"5 km S of Carter Springs, Nevada",earthquake,,0.9,0.32,6,automatic,nn,nn
+2025-08-01T09:18:05.816Z,51.3064,157.62,54.371,4.7,mb,87,122,1.805,0.69,us,us6000qx8t,2025-08-01T09:45:12.040Z,"80 km ESE of Ozernovskiy, Russia",earthquake,8.69,6.922,0.028,385,reviewed,us,us
 2025-08-01T09:17:29.040Z,38.790500640869,-122.76983642578,1.6200000047684,0.71,md,12,99,0.01284,0.03,nc,nc75217832,2025-08-01T09:19:04.931Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.610000014,0.23,12,automatic,nc,nc
 2025-08-01T09:11:32.600Z,35.905498504639,-89.962669372559,13.710000038147,2.1400001,md,28,113,0.07444,0.119999997,nm,nm60612096,2025-08-01T09:17:44.170Z,"4 km WSW of Blytheville, Arkansas",earthquake,0.48,0.550000012,0.699999988,21,reviewed,nm,nm
 2025-08-01T08:57:34.038Z,61.8884,-149.9603,30.3,0.9,ml,,,,0.27,ak,ak0259sekogr,2025-08-01T08:59:27.571Z,"16 km NNE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -331,4 +333,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-31T09:53:46.261Z,32.01,-103.796,7.984,1.5,ml,29,43,0,0.1,tx,tx2025oybxjn,2025-07-31T10:51:02.189Z,"35 km SE of Malaga, New Mexico",earthquake,0.49030674330128,0.42426844004557,0.1,19,reviewed,tx,tx
 2025-07-31T09:53:40.970Z,58.506166666667,-154.45133333333,4.14,-0.2,ml,6,206,0.05159,0.11,av,av93047624,2025-07-31T23:41:58.770Z,"103 km WNW of Aleneva, Alaska",earthquake,0.57,0.52,0.19572391695203,6,reviewed,av,av
 2025-07-31T09:52:54.350Z,34.5691667,-118.166,6.38,0.63,ml,20,93,0.04311,0.1,ci,ci41249224,2025-07-31T13:01:27.976Z,"6 km WSW of Palmdale, CA",earthquake,0.21,0.34,0.176,14,reviewed,ci,ci
-2025-07-31T09:39:59.670Z,53.851,-166.47516666667,11.21,0.51,ml,15,192,0.01833,0.14,av,av93047619,2025-07-31T23:32:55.290Z,"4 km ESE of Unalaska, Alaska",earthquake,0.43,0.38,0.21504431273384,15,reviewed,av,av
