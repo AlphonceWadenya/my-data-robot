@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-04T15:04:12.566Z,38.1648,-117.8733,6.2,1.7,ml,13,91.42,0.094,0.3286,nn,nn00902074,2025-08-04T15:07:15.046Z,"32 km SE of Mina, Nevada",earthquake,,0.8,0.32,8,automatic,nn,nn
 2025-08-04T14:53:34.137Z,56.9012,-154.2366,19.9,3.3,ml,,,,0.45,ak,ak0259xgqgpx,2025-08-04T14:55:20.684Z,"6 km SW of Akhiok, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2025-08-04T14:52:43.470Z,38.821334838867,-122.76667022705,1.9299999475479,1.29,md,22,111,0.009468,0.02,nc,nc75219057,2025-08-04T14:54:19.237Z,"4 km W of Cobb, CA",earthquake,0.25,0.430000007,0.21,22,automatic,nc,nc
 2025-08-04T14:36:59.710Z,33.964,-116.6443333,14.49,0.95,ml,30,53,0.07439,0.17,ci,ci41252712,2025-08-04T14:41:03.165Z,"11 km SSW of Morongo Valley, CA",earthquake,0.23,0.52,0.226,27,automatic,ci,ci
@@ -232,7 +233,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T15:26:07.582Z,51.6373,161.3235,35,4.3,mb,31,204,2.149,0.52,us,us6000qxw5,2025-08-03T16:31:09.040Z,"242 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.15,1.895,0.062,73,reviewed,us,us
 2025-08-03T15:21:27.070Z,44.747,-111.1795,8.09,1.37,ml,13,63,0.01249,0.14,uu,uu80113201,2025-08-04T13:50:40.560Z,"2 km SSE of Hebgen Lake Estates, Montana",earthquake,0.43,0.72,0.26541462559286,3,reviewed,uu,uu
 2025-08-03T15:18:20.840Z,17.191,-65.297,26.55,3.38,md,16,269,1.076,0.27,pr,pr71491473,2025-08-03T16:34:36.040Z,"83 km SW of Saint Croix, U.S. Virgin Islands",earthquake,1.37,20.26,0.11927726774748,13,reviewed,pr,pr
-2025-08-03T15:12:05.169Z,51.4086,161.1118,10,4.7,mb,33,178,2.216,0.92,us,us6000qxw2,2025-08-03T16:01:13.040Z,"250 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.72,1.939,0.038,213,reviewed,us,us
-2025-08-03T15:06:06.633Z,51.8509,160.2519,35.415,4.9,mb,39,119,1.53,0.98,us,us6000qxvz,2025-08-03T15:49:27.040Z,"173 km SE of Vilyuchinsk, Russia",earthquake,4.99,7.862,0.053,113,reviewed,us,us
-2025-08-03T15:02:27.950Z,17.985166666667,-67.163,5.77,2.21,md,14,258,0.04239,0.15,pr,pr71491468,2025-08-03T16:02:32.120Z,"2 km ENE of Pole Ojea, Puerto Rico",earthquake,0.58,0.32,0.30712791643227,7,reviewed,pr,pr
-2025-08-03T14:58:12.272Z,60.9886,-146.9951,20.4,1.9,ml,,,,0.28,ak,ak0259vt854b,2025-08-03T14:59:30.605Z,"22 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-03T15:15:02.837Z,28.844,-98.968,8.9493,1.6,ml,21,83,0.1,0.4,tx,tx2025pdzsxh,2025-08-04T15:09:36.977Z,"13 km ESE of Pearsall, Texas",earthquake,1.6528143882125,0.91415312282127,0.1,13,reviewed,tx,tx
