@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-07T22:52:32.430Z,36.0226667,-117.7798333,1.77,1.97,ml,36,47,0.01208,0.16,ci,ci41255944,2025-08-07T22:55:59.503Z,"15 km NE of Little Lake, CA",earthquake,0.14,0.15,0.139,25,automatic,ci,ci
 2025-08-07T22:44:43.210Z,36.026,-117.7768333,2.18,0.88,ml,18,112,0.009415,0.15,ci,ci41255936,2025-08-07T22:48:15.444Z,"15 km NE of Little Lake, CA",earthquake,0.2,0.13,0.223,12,automatic,ci,ci
 2025-08-07T22:43:08.825Z,38.382,-116.5176,5,1.9,ml,13,144.34,1.181,0.3304,nn,nn00902279,2025-08-07T22:46:07.398Z,"71 km ENE of Tonopah, Nevada",earthquake,,1.6,0.29,11,automatic,nn,nn
 2025-08-07T22:30:51.041Z,32.407,-101.922,4.1042,1.5,ml,36,65,0,0.5,tx,tx2025plxaeq,2025-08-07T22:34:34.959Z,"23 km SW of Ackerly, Texas",earthquake,0,0.83871310949326,0.2,24,automatic,tx,tx
