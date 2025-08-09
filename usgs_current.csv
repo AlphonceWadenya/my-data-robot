@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-09T20:38:21.920Z,37.647666931152,-122.05266571045,4.460000038147,2.15,md,53,32,0.08041,0.16,nc,nc75221217,2025-08-09T20:41:25.890Z,"2 km E of Hayward, CA",earthquake,0.19,0.680000007,0.14,44,automatic,nc,nc
+2025-08-09T20:45:40.938Z,31.476,-104.232,5,1.7,ml,12,239,0.1,0.6,tx,tx2025pplawb,2025-08-09T20:48:44.407Z,"45 km WNW of Toyah, Texas",earthquake,0,,0.2,8,automatic,tx,tx
+2025-08-09T20:40:58.448Z,13.5057,-92.4029,10,6,mww,48,165,1.331,1.25,us,us6000qzin,2025-08-09T20:50:39.040Z,"102 km SSW of Champerico, Guatemala",earthquake,6.4,1.943,0.032,91,reviewed,us,us
+2025-08-09T20:38:21.920Z,37.647666931152,-122.05266571045,4.460000038147,2.15,md,53,32,0.08041,0.16,nc,nc75221217,2025-08-09T20:47:18.855Z,"2 km E of Hayward, CA",earthquake,0.19,0.680000007,0.14,44,automatic,nc,nc
 2025-08-09T20:38:17.919Z,59.8543,-153.3829,144.3,1.9,ml,,,,0.77,ak,ak025a5twjtr,2025-08-09T20:41:55.611Z,"41 km E of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-08-09T20:35:48.500Z,38.827499389648,-122.75833129883,0.33000001311302,0.99,md,7,144,0.00952,0.01,nc,nc75221212,2025-08-09T20:37:23.581Z,"3 km WNW of Cobb, CA",earthquake,0.37,0.790000021,0.29,8,automatic,nc,nc
 2025-08-09T20:18:50.640Z,32.6783333,-115.8483333,6.53,1.19,ml,18,64,0.06952,0.15,ci,ci41257520,2025-08-09T20:32:34.103Z,"15 km ESE of Ocotillo, CA",earthquake,0.25,0.63,0.355,16,automatic,ci,ci
@@ -237,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T21:05:46.138Z,57.6946,-154.6548,53.6,1.6,ml,,,,0.19,ak,ak025a46rmhh,2025-08-08T21:07:25.482Z,"18 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-08-08T20:56:55.020Z,38.318500518799,-122.80300140381,-0.059999998658895,1.66,md,12,127,0.0351,0.07,nc,nc75220852,2025-08-08T21:00:57.658Z,"8 km W of Cotati, CA",earthquake,0.3,1.15999997,0.24,9,automatic,nc,nc
 2025-08-08T20:54:13.038Z,62.7278,-151.7857,0,1.5,ml,,,,0.58,ak,ak025a46gmev,2025-08-08T20:56:13.359Z,"58 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-08-08T20:49:36.788Z,31.553,-103.891,4.6814,1.6,ml,6,165,0.1,0.6,tx,tx2025pnplnt,2025-08-08T20:53:31.361Z,"27 km NNW of Toyah, Texas",earthquake,0,2.2951545715332,0.2,5,automatic,tx,tx
