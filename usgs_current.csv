@@ -189,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T15:52:37.386Z,58.8465,-154.4941,109.4,2.2,ml,,,,0.28,ak,ak025afo8iai,2025-08-15T16:22:05.040Z,"67 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-15T15:50:19.798Z,45.6945,153.834,25.221,5.1,mww,45,128,7.77,0.57,us,us6000r0zd,2025-08-15T16:07:15.040Z,"east of the Kuril Islands",earthquake,10.33,6.706,0.073,18,reviewed,us,us
 2025-08-15T15:49:53.646Z,61.3056,-152.5256,7.2,1.8,ml,,,,0.26,ak,ak025afo7wec,2025-08-15T21:09:22.890Z,"79 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-08-15T15:38:34.075Z,63.796,-147.6404,0,1,ml,,,,0.56,ak,ak025afo5i0f,2025-08-15T15:40:28.216Z,"63 km E of Denali Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
