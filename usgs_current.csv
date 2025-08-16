@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-16T15:01:12.461Z,60.6051,-148.5366,16.1,1.9,ml,,,,0.64,ak,ak025ahbgvce,2025-08-16T15:03:08.593Z,"20 km SSE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-16T15:00:57.510Z,36.1689987,-118.0373306,1.37,1.38,ml,19,87,0.1564,0.22,ci,ci40400434,2025-08-16T15:04:28.062Z,"13 km SSW of Olancha, CA",earthquake,0.45,2.3,0.28,8,automatic,ci,ci
 2025-08-16T14:06:15.012Z,62.4839,-152.4309,0,1.5,ml,,,,1.43,ak,ak025ahawiil,2025-08-16T14:08:16.187Z,"76 km NW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-16T13:48:48.285Z,58.3235,-154.9334,7.9,1.7,ml,,,,0.92,ak,ak025ahak5jw,2025-08-16T13:50:14.324Z,"88 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-16T12:59:21.272Z,63.2949,-145.1903,5.6,1,ml,,,,0.87,ak,ak025aha10qn,2025-08-16T13:04:45.008Z,"31 km NE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -41,6 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T08:51:46.589Z,31.654,-104.448,6.0999,1.5,ml,25,88,0,0.2,tx,tx2025qbjmay,2025-08-16T12:16:56.208Z,"58 km S of Whites City, New Mexico",earthquake,1.1444861125713,0.67803222346385,0.1,19,reviewed,tx,tx
 2025-08-16T08:46:24.146Z,40.0364,113.4664,10,4.5,mb,42,123,2.077,0.35,us,us6000r1kp,2025-08-16T09:26:29.040Z,"16 km ESE of Datong, China",earthquake,8.47,1.926,0.087,39,reviewed,us,us
 2025-08-16T08:45:04.821Z,36.808,-116.2175,1.7,-0.4,ml,12,123.37,0.08,0.2345,nn,nn00902648,2025-08-16T08:47:17.432Z,"49 km ESE of Beatty, Nevada",earthquake,,4.3,0.14,8,automatic,nn,nn
+2025-08-16T08:40:06.285Z,36.7939,-116.2503,5.4,-0.4,ml,9,107,0.063,0.0431,nn,nn00902656,2025-08-16T15:08:06.945Z,"47 km ESE of Beatty, Nevada",earthquake,,2.3,0,2,reviewed,nn,nn
 2025-08-16T08:35:08.530Z,40.340831756592,-125.08616638184,-0.27000001072884,2.41,md,19,309,0.571,0.25,nc,nc75224487,2025-08-16T08:57:20.369Z,"68 km WNW of Petrolia, CA",earthquake,7.68,11.5500002,0.05,15,automatic,nc,nc
 2025-08-16T08:33:56.341Z,51.4743,159.7178,26.077,4.5,mb,27,127,1.685,0.74,us,us6000r1kl,2025-08-16T09:24:12.040Z,"185 km SSE of Vilyuchinsk, Russia",earthquake,10.52,6.152,0.105,27,reviewed,us,us
 2025-08-16T08:24:59.890Z,34.0066667,-117.23,16.05,0.78,ml,39,59,0.1215,0.18,ci,ci40400090,2025-08-16T08:28:27.437Z,"5 km SSE of Loma Linda, CA",earthquake,0.21,0.6,0.258,19,automatic,ci,ci
