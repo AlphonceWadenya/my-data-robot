@@ -163,5 +163,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T19:12:09.198Z,59.3756,-152.5256,22,2.1,ml,,,,1.66,ak,ak025ahdwydz,2025-08-16T19:14:26.169Z,"34 km W of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-16T19:10:24.565Z,64.968,-147.3661,4.4,1.1,ml,,,,1.15,ak,ak025ahdwk54,2025-08-16T19:12:11.658Z,"11 km E of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-16T19:03:33.995Z,38.3924,-116.6334,4.8,2,ml,14,120.26,0.994,0.2159,nn,nn00902664,2025-08-16T19:06:32.265Z,"63 km NE of Tonopah, Nevada",earthquake,,1,0.14,8,automatic,nn,nn
-2025-08-16T18:57:52.660Z,36.0775,-117.698,0.33,1.92,ml,32,51,0.07546,0.18,ci,ci40400602,2025-08-17T13:24:03.029Z,"23 km E of Coso Junction, CA",earthquake,0.21,0.31,0.188,25,reviewed,ci,ci
-2025-08-16T18:57:13.227Z,61.3893,-147.145,31.7,1.4,ml,,,,0.18,ak,ak025ahdl6be,2025-08-16T18:58:35.119Z,"51 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
