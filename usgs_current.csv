@@ -267,4 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T11:11:03.880Z,53.8395,-166.83816666667,6.03,-0.48,ml,7,101,0.05186,0.13,av,av93048694,2025-08-21T02:58:01.400Z,"20 km WSW of Dutch Harbor, Alaska",earthquake,0.38,1.02,0.25769032729772,7,reviewed,av,av
 2025-08-20T11:09:13.909Z,58.6927,-151.2059,0,1.9,ml,,,,0.88,ak,ak025anva8q2,2025-08-20T11:12:20.163Z,"81 km SSE of Port Graham, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-20T10:52:54.409Z,36.8109,-115.8563,0,0.3,ml,15,229.24,0.132,0.1311,nn,nn00902862,2025-08-20T13:34:24.560Z,"31 km NNW of Indian Springs, Nevada",earthquake,,0,0.17,7,reviewed,nn,nn
-2025-08-20T10:46:51.935Z,59.6921,-152.0863,55.4,1.1,ml,,,,0.51,ak,ak025anuwtk9,2025-08-20T10:48:46.975Z,"17 km WSW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
