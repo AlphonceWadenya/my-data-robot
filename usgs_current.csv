@@ -271,5 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T12:01:07.150Z,44.800166666667,-110.86616666667,8.1,1,ml,13,112,0.1077,0.13,uu,uu80114191,2025-08-20T15:19:52.900Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.37,1.45,0.23122175876559,5,reviewed,uu,uu
 2025-08-20T11:56:14.133Z,64.5294,-149.3211,7.7,0.9,ml,,,,0.64,ak,ak025anvkbet,2025-08-20T11:58:23.778Z,"11 km WSW of Nenana, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-20T11:55:49.200Z,47.692833333333,-120.19366666667,4.39,1.43,ml,19,62,0.03633,0.23,uw,uw62173841,2025-08-20T18:23:11.280Z,"2 km NNE of Entiat, Washington",earthquake,0.3,1,0.14470365610049,15,reviewed,uw,uw
-2025-08-20T11:51:33.997Z,61.8778,-151.1368,82.4,1.6,ml,,,,0.3,ak,ak025anvjad3,2025-08-20T11:53:32.486Z,"18 km SE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-08-20T11:50:04.960Z,44.800166666667,-110.85716666667,9.55,0.58,md,12,111,0.1137,0.1,uu,uu80114186,2025-08-20T15:21:35.160Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.35,1.37,0.27935500498267,9,reviewed,uu,uu
