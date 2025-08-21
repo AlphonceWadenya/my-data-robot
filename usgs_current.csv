@@ -266,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T08:14:37.390Z,19.7271,-68.8453,14,3.76,md,17,259,0.5557,0.49,pr,pr2025232001,2025-08-20T08:44:24.895Z,"77 km NE of Samaná, Dominican Republic",earthquake,2.05,3.55,0.15,8,reviewed,pr,pr
 2025-08-20T08:07:32.120Z,36.1076667,-117.9031667,4.01,1.32,ml,34,46,0.04035,0.18,ci,ci40403658,2025-08-20T13:34:24.124Z,"8 km NNE of Coso Junction, CA",earthquake,0.21,0.35,0.184,26,reviewed,ci,ci
 2025-08-20T08:02:58.100Z,19.856833333333,-155.92766666667,33.37,1.89,ml,23,161,0.1919,0.22,hv,hv74756467,2025-08-20T22:06:53.920Z,"15 km NNE of Kalaoa, Hawaii",earthquake,0.73,1.21,0.17147244694044,3,reviewed,hv,hv
-2025-08-20T07:58:30.539Z,35.63066667,-98.0335,7.4,1.55,ml,81,38,0.1574690992,0.18,ok,ok2025qgqz,2025-08-20T12:16:20.453Z,"8 km ENE of Calumet, Oklahoma",earthquake,,0.4,0.24,38,reviewed,ok,ok
