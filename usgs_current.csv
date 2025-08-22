@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-22T21:33:01.600Z,37.338500976562,-118.8056640625,5.960000038147,0.76,md,7,163,0.2518,0.03,nc,nc75227342,2025-08-22T21:34:36.440Z,"20 km WSW of Round Valley, CA",earthquake,0.71,7.73999977,,1,automatic,nc,nc
 2025-08-22T21:28:49.070Z,38.823501586914,-122.80867004394,2.6900000572205,0.74,md,10,82,0.001102,0.01,nc,nc75227337,2025-08-22T21:30:27.310Z,"7 km NNW of The Geysers, CA",earthquake,0.38,1.50999999,0.18,11,automatic,nc,nc
 2025-08-22T21:23:45.870Z,38.751335144043,-122.72733306885,0.98000001907349,1.52,md,20,75,0.01042,0.06,nc,nc75227332,2025-08-22T21:25:22.431Z,"4 km SSE of The Geysers, CA",earthquake,0.27,0.330000013,0.16,20,automatic,nc,nc
 2025-08-22T21:22:09.170Z,33.5258333,-116.7341667,4.27,0.93,ml,41,33,0.03955,0.16,ci,ci41271992,2025-08-22T21:26:01.125Z,"6 km WSW of Anza, CA",earthquake,0.14,0.28,0.179,29,automatic,ci,ci
@@ -176,6 +177,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T02:55:55.960Z,37.4693,-118.3558,0,1.4,ml,5,176.75,0.321,0.1206,nn,nn00902984,2025-08-22T16:49:58.148Z,"10 km NNE of Dixon Lane-Meadow Creek, California",earthquake,,0,0.14,3,reviewed,nn,nn
 2025-08-22T02:45:43.500Z,47.131,-123.84366666667,36.56,1.73,ml,13,67,0.09208,0.19,uw,uw62174901,2025-08-22T03:01:33.970Z,"9 km NNW of Aberdeen Gardens, Washington",earthquake,0.67,1.02,0.29195432584272,9,reviewed,uw,uw
 2025-08-22T02:36:42.515Z,36.7686,-116.2539,8.8,0.6,ml,30,63.73,0.033,0.0823,nn,nn00902978,2025-08-22T14:29:21.812Z,"47 km ESE of Beatty, Nevada",earthquake,,0.6,0.19,5,reviewed,nn,nn
+2025-08-22T02:32:06.420Z,46.719333333333,-121.9135,-0.13,0.28,ml,12,263,0.02096,0.07,uw,uw62174891,2025-08-22T21:33:43.220Z,"9 km ESE of Ashford, Washington",earthquake,0.55,0.42,0.081670426177811,5,reviewed,uw,uw
 2025-08-22T02:26:43.435Z,62.4327,-151.3251,78.4,0.9,ml,,,,0.15,ak,ak025ar13qqf,2025-08-22T02:28:24.983Z,"29 km WSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-22T02:16:19.202Z,-60.1859,-61.8206,10.843,7.5,mww,71,67,4.72,1.16,us,us6000r2xq,2025-08-22T15:56:12.454Z,"2025 Southern Drake Passage Earthquake",earthquake,9.55,4.257,0.055,32,reviewed,us,us
 2025-08-22T02:07:15.990Z,35.3046667,-118.587,5.38,1.74,ml,45,33,0.111,0.2,ci,ci41271496,2025-08-22T15:58:21.397Z,"23 km NNW of Tehachapi, CA",earthquake,0.19,0.62,0.188,27,reviewed,ci,ci
@@ -228,5 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T22:25:32.978Z,60.3538,-152.1063,77.9,1.6,ml,,,,0.22,ak,ak025appgttd,2025-08-21T22:27:00.814Z,"41 km NW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-21T22:23:01.125Z,61.7181,-150.1072,35.5,1.2,ml,,,,0.68,ak,ak025appgbxc,2025-08-21T22:24:52.982Z,"4 km SW of Willow, Alaska",earthquake,,4.3,,,automatic,ak,ak
 2025-08-21T22:17:20.250Z,38.826667785645,-122.78816986084,1.6299999952316,0.91,md,16,45,0.01185,0.02,nc,nc75226882,2025-08-21T22:18:55.432Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.430000007,0.2,16,automatic,nc,nc
-2025-08-21T21:40:27.913Z,61.8715,-149.0827,32.5,1.2,ml,,,,0.62,ak,ak025apoylk7,2025-08-21T21:42:22.804Z,"16 km NNE of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-08-21T21:37:14.065Z,49.9934,155.9103,75.469,4.9,mb,102,113,3.313,0.63,us,us6000r2uv,2025-08-21T21:59:16.040Z,"77 km SSW of Severo-Kuril’sk, Russia",earthquake,9.38,6.676,0.032,315,reviewed,us,us
