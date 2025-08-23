@@ -216,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T17:05:01.390Z,36.612998962402,-121.21616363525,6.3899998664856,1.54,md,10,150,0.04808,0.06,nc,nc75227212,2025-08-22T17:06:36.491Z,"11 km NNW of Pinnacles, CA",earthquake,0.51,1.00999999,0.23,12,automatic,nc,nc
 2025-08-22T17:02:39.580Z,35.7396667,-117.5528333,6.77,1.03,ml,28,67,0.08416,0.21,ci,ci41271840,2025-08-22T17:06:12.235Z,"14 km WSW of Searles Valley, CA",earthquake,0.26,0.76,0.172,19,automatic,ci,ci
 2025-08-22T17:00:44.195Z,60.7468,-151.7567,63.5,1.1,ml,,,,1.08,ak,ak025ar9vo8z,2025-08-22T17:03:03.005Z,"26 km WNW of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2025-08-22T16:56:57.346Z,31.093,-103.744,4.1885,1.6,ml,17,62,0.1,1.4,tx,tx2025qmzxfo,2025-08-22T17:00:55.475Z,"12 km N of Balmorhea, Texas",earthquake,0,1.620064496994,0.2,9,automatic,tx,tx
-2025-08-22T16:56:13.820Z,52.3395,-174.22816666667,3.91,0.4,ml,6,197,0.02362,0.21,av,av93048959,2025-08-23T07:12:10.220Z,"16 km N of Atka, Alaska",earthquake,0.69,0.8,0.35337336933729,5,reviewed,av,av
