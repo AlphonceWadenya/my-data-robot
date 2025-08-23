@@ -225,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T12:52:57.494Z,-17.6647,168.6688,226.917,5.4,mww,113,30,4.939,0.94,us,us6000r30q,2025-08-22T16:01:27.853Z,"38 km ENE of Port-Vila, Vanuatu",earthquake,9.76,5.158,0.093,11,reviewed,us,us
 2025-08-22T12:47:03.740Z,38.830665588379,-122.81383514404,2.2300000190735,0.72,md,7,134,0.007832,0.01,nc,nc75227127,2025-08-22T12:48:41.372Z,"8 km NNW of The Geysers, CA",earthquake,0.49,1.23000002,0.23,9,automatic,nc,nc
 2025-08-22T12:21:42.312Z,39.2488,28.1948,10,4.3,mb,34,51,1.007,0.58,us,us6000r30n,2025-08-22T16:01:35.040Z,"1 km ENE of Sındırgı, Turkey",earthquake,4.88,1.918,0.137,15,reviewed,us,us
-2025-08-22T11:58:10.980Z,51.762,-178.14466666667,14.86,0.6,ml,4,268,0.09169,0.11,av,av93728383,2025-08-23T04:59:23.830Z,"104 km W of Adak, Alaska",earthquake,1.82,1.56,0.37395547350595,4,reviewed,av,av
