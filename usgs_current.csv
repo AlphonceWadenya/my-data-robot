@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-24T17:57:08.320Z,38.25350189209,-121.76866912842,6.4400000572205,1.9,md,11,173,0.5204,0.27,nc,nc75228142,2025-08-24T17:58:47.597Z,"13 km NNW of Rio Vista, CA",earthquake,1.07,1.74000001,0.11,2,automatic,nc,nc
+2025-08-24T17:42:17.183Z,-32.4984,-71.4922,69.685,4.3,mb,31,136,0.539,0.47,us,us6000r3i2,2025-08-24T17:59:57.040Z,"25 km WSW of La Ligua, Chile",earthquake,3.54,5.47,0.169,10,reviewed,us,us
 2025-08-24T17:25:09.939Z,34.3905,-97.46383333,6.08,1.94,ml,64,79,0.02789452614,0.31,ok,ok2025qors,2025-08-24T17:50:43.382Z,"7 km SSE of Ratliff City, Oklahoma",earthquake,,0.6,0.27,27,reviewed,ok,ok
 2025-08-24T17:22:43.689Z,-2.1799,139.0637,35,4.9,mb,60,69,1.033,0.84,us,us6000r3i1,2025-08-24T17:48:09.040Z,"180 km WNW of Abepura, Indonesia",earthquake,5.62,1.885,0.06,87,reviewed,us,us
 2025-08-24T17:14:26.040Z,32.7348333,-115.8783333,6.68,1.05,ml,17,76,0.09462,0.28,ci,ci41273472,2025-08-24T17:17:56.727Z,"11 km E of Ocotillo, CA",earthquake,0.48,1.46,0.423,7,automatic,ci,ci
