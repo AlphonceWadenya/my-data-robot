@@ -177,5 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T12:24:03.734Z,64.3619,-151.0074,8.7,1.5,ml,,,,0.63,ak,ak025aw5nlrp,2025-08-25T12:26:08.085Z,"73 km SSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-25T12:17:48.655Z,62.2141,-150.1062,21.1,1.2,ml,,,,0.87,ak,ak025aw5m781,2025-08-25T12:20:39.002Z,"12 km S of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-25T12:09:42.830Z,38.837833404541,-122.78566741943,1.7799999713898,0.85,md,13,117,0.003697,0.03,nc,nc75228507,2025-08-25T12:11:18.344Z,"6 km WNW of Cobb, CA",earthquake,0.31,0.469999999,0.2,13,automatic,nc,nc
-2025-08-25T11:58:22.380Z,39.013166666667,-111.398,-1.34,0.87,ml,7,127,0.03425,0.2,uu,uu80114641,2025-08-25T16:22:51.320Z,"16 km NW of Emery, Utah",earthquake,0.98,0.97,0.41658930304049,3,reviewed,uu,uu
-2025-08-25T11:56:17.014Z,61.5478,-147.3768,19.9,2.1,ml,,,,0.72,ak,ak025aw5922x,2025-08-25T11:57:54.053Z,"32 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
