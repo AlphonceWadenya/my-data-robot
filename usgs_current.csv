@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-27T17:32:20.260Z,35.31416667,-97.93666667,11.52,0.78,ml,28,86,0.07738481446,0.11,ok,ok2025quel,2025-08-27T17:47:44.136Z,"0 km ENE of Minco, Oklahoma",earthquake,,0.5,0.26,13,reviewed,ok,ok
 2025-08-27T17:09:31.590Z,33.7986667,-118.6295,5.71,1.37,ml,11,254,0.2528,0.28,ci,ci41276672,2025-08-27T17:33:13.533Z,"22 km W of Palos Verdes Estates, CA",earthquake,1.53,6.9,0.232,6,reviewed,ci,ci
-2025-08-27T17:09:05.720Z,36.888832092285,-121.63733673096,-0.15000000596046,2.43,md,11,117,0.03664,0.3,nc,nc75229447,2025-08-27T17:10:41.437Z,"1 km E of Aromas, CA",earthquake,0.76,2.3900001,0.19,6,automatic,nc,nc
+2025-08-27T17:09:05.720Z,36.888832092285,-121.63733673096,-0.15000000596046,2.43,md,11,117,0.03664,0.3,nc,nc75229447,2025-08-27T17:47:20.160Z,"1 km E of Aromas, CA",earthquake,0.76,2.3900001,0.19,6,automatic,nc,nc
 2025-08-27T17:07:57.810Z,38.840999603271,-122.88033294678,2.6600000858307,0.89,md,11,96,0.003691,0.02,nc,nc75229442,2025-08-27T17:09:31.475Z,"12 km E of Cloverdale, CA",earthquake,0.52,0.620000005,0.22,13,automatic,nc,nc
 2025-08-27T16:48:05.740Z,33.5048333,-116.4633333,5.84,2.06,ml,94,24,0.1165,0.19,ci,ci41276648,2025-08-27T16:59:05.430Z,"20 km ESE of Anza, CA",earthquake,0.11,0.51,0.178,25,automatic,ci,ci
 2025-08-27T16:40:11.810Z,32.8888333,-116.598,8.49,1.11,ml,42,57,0.03002,0.17,ci,ci41276640,2025-08-27T16:44:17.167Z,"10 km NW of Pine Valley, CA",earthquake,0.16,0.33,0.388,27,automatic,ci,ci
@@ -220,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T17:55:18.580Z,37.476666666667,-90.165333333333,16.98,2.2,md,21,95,0.4417,0.27,nm,nm60613301,2025-08-27T01:24:38.907Z,"5 km N of Marquand, Missouri",earthquake,0.84,1.38,0.07156555366164,9,reviewed,nm,nm
 2025-08-26T17:53:01.300Z,33.9293333,-117.8253333,14.27,1.69,ml,55,94,0.01845,0.19,ci,ci41275664,2025-08-26T21:24:50.670Z,"5 km NNW of Yorba Linda, CA",earthquake,0.23,0.3,0.214,20,reviewed,ci,ci
 2025-08-26T17:52:52.270Z,33.826,-116.8755,16.29,0.99,ml,15,70,0.06548,0.15,ci,ci37739852,2025-08-26T21:25:20.401Z,"9 km N of Valle Vista, CA",earthquake,0.31,0.69,0.175,5,reviewed,ci,ci
-2025-08-26T17:47:16.120Z,38.834499359131,-122.80999755859,2.210000038147,1.03,md,20,53,0.01584,0.01,nc,nc75229007,2025-08-26T17:48:51.484Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.5,0.13,21,automatic,nc,nc
