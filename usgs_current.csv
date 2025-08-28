@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-28T09:50:02.437Z,39.313,-119.9903,5.8,0.7,ml,9,109.71,0.041,0.0756,nn,nn00903272,2025-08-28T09:52:18.655Z,"7 km NNW of Incline Village, Nevada",earthquake,,0.8,0.23,7,automatic,nn,nn
+2025-08-28T09:49:15.740Z,34.097,-116.9026667,6.47,2.32,ml,108,19,0.02778,0.16,ci,ci41277232,2025-08-28T09:52:54.889Z,"15 km ENE of Yucaipa, CA",earthquake,0.09,0.38,0.248,25,automatic,ci,ci
+2025-08-28T09:48:27.266Z,61.915,-147.8007,38.5,2.1,ml,,,,0.35,ak,ak025b12mjfq,2025-08-28T09:49:49.171Z,"14 km NNW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-28T09:32:32.341Z,36.36509705,-97.06210327,3.861502886,1.73,ml,36,32.02490234,0.09147255123,0.4593461174,ok,ok2025qvkd,2025-08-28T09:34:45.016Z,"8 km NNW of Morrison, Oklahoma",earthquake,1.877049415,1.651606238,0.33,19,automatic,ok,ok
 2025-08-28T09:07:05.020Z,33.7045,-116.7278333,14.93,0.31,ml,23,60,0.1246,0.14,ci,ci41277224,2025-08-28T09:10:36.925Z,"4 km SSW of Idyllwild, CA",earthquake,0.29,0.5,0.15,9,automatic,ci,ci
 2025-08-28T09:05:13.180Z,33.2966667,-116.2168333,1.99,0.67,ml,43,44,0.1016,0.21,ci,ci41277216,2025-08-28T09:08:50.918Z,"15 km ENE of Borrego Springs, CA",earthquake,0.23,0.37,0.174,15,automatic,ci,ci
