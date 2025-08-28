@@ -265,5 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T20:00:29.056Z,63.5403,-150.6717,0.1,1.7,ml,,,,0.92,ak,ak025azlcod5,2025-08-27T20:02:45.140Z,"52 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-27T19:58:38.380Z,44.539833333333,-117.428,-1.18,2.15,md,6,93,0.3245,0.55,uw,uw62177181,2025-08-28T17:46:26.160Z,"24 km NNW of Huntington, Oregon",explosion,2.72,31.61,0.13283364512126,6,reviewed,uw,uw
 2025-08-27T19:47:52.370Z,33.1708333,-116.6571667,17.23,1.12,ml,48,29,0.02943,0.17,ci,ci41276824,2025-08-27T20:41:56.910Z,"12 km NNW of Julian, CA",earthquake,0.17,0.37,0.166,29,reviewed,ci,ci
-2025-08-27T19:40:43.860Z,33.5678333,-116.7215,3.55,1.02,ml,49,41,0.01341,0.17,ci,ci41276816,2025-08-27T20:33:47.750Z,"5 km WNW of Anza, CA",earthquake,0.15,0.28,0.149,35,reviewed,ci,ci
-2025-08-27T19:36:21.090Z,34.5653333,-118.9788333,16.42,1.29,ml,34,47,0.09996,0.21,ci,ci41276808,2025-08-27T20:22:19.092Z,"19 km NNW of Fillmore, CA",earthquake,0.25,0.59,0.152,29,reviewed,ci,ci
