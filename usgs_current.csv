@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T14:20:50.310Z,33.8098333,-116.7448333,15.84,0.92,ml,38,33,0.04974,0.17,ci,ci41277376,2025-08-28T18:41:13.236Z,"8 km NNW of Idyllwild, CA",earthquake,0.18,0.45,0.133,20,reviewed,ci,ci
 2025-08-28T14:16:31.161Z,48.8324,156.0893,10,4.9,mb,53,135,4.401,0.62,us,us7000qrjt,2025-08-28T14:46:02.040Z,"204 km S of Severo-Kuril’sk, Russia",earthquake,12.11,1.904,0.049,134,reviewed,us,us
 2025-08-28T14:01:01.340Z,57.019,-135.637,5.65,-0.35,ml,5,200,0.04666,0.06,av,av93739193,2025-08-28T21:15:28.310Z,"18 km WSW of Sitka, Alaska",earthquake,0.93,1.12,0.19872143488732,5,reviewed,av,av
-2025-08-28T13:49:09.285Z,60.0622,-152.9349,108.8,1.8,ml,,,,0.1,ak,ak025b150g6o,2025-08-28T13:50:33.805Z,"68 km W of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
