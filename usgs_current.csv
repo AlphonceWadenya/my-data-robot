@@ -86,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T07:04:15.140Z,34.1188333,-117.4756667,5.26,1.6,ml,20,78,0.05336,0.13,ci,ci41279184,2025-08-30T07:07:56.976Z,"3 km NW of Fontana, CA",earthquake,0.29,0.54,0.291,18,automatic,ci,ci
 2025-08-30T06:57:36.440Z,38.812999725342,-122.79666900635,2.5599999427795,1.43,md,30,39,0.005136,0.02,nc,nc75230687,2025-08-30T08:52:17.540Z,"5 km NNW of The Geysers, CA",earthquake,0.19,0.360000014,0.1,32,automatic,nc,nc
 2025-08-30T06:54:18.978Z,61.5802,-151.0059,64.8,2,ml,,,,0.3,ak,ak025b4by79l,2025-08-30T06:55:53.783Z,"26 km W of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-08-30T06:46:43.587Z,31.599,-104.125,5.078,2.3,ml,33,53,0,0.4,tx,tx2025raxmpk,2025-08-30T07:00:43.342Z,"44 km NW of Toyah, Texas",earthquake,0,1.8465192317963,0.2,24,automatic,tx,tx
+2025-08-30T06:46:43.678Z,31.601,-104.116,6.369,2.3,ml,32,76,0,0.2,tx,tx2025raxmpk,2025-08-30T14:35:26.402Z,"44 km NW of Toyah, Texas",earthquake,0.47320949445818,0.40330115304827,0.1,18,reviewed,tx,tx
 2025-08-30T06:41:35.827Z,31.68,-104.41,7.5772,2,ml,28,86,0,0.5,tx,tx2025raxiej,2025-08-30T06:45:12.921Z,"55 km S of Whites City, New Mexico",earthquake,0,2.1056559085846,0.2,16,automatic,tx,tx
 2025-08-30T06:41:29.448Z,56.1323,-159.0401,6.4,1.7,ml,,,,0.3,ak,ak025b4bvfrk,2025-08-30T06:43:51.805Z,"22 km SW of Chignik Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-30T06:35:42.177Z,55.2949,-163.3081,206.809,3.6,ml,26,131,0.444,1.01,us,us7000qsh6,2025-08-30T11:44:06.040Z,"39 km WNW of Cold Bay, Alaska",earthquake,10.69,9.288,0.181,4,reviewed,us,us
