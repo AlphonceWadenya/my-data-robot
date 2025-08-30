@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-30T13:35:32.914Z,-4.9349,103.032,62.992,4.9,mb,50,187,0.576,1.08,us,us7000qsk1,2025-08-30T13:50:37.040Z,"103 km SSW of Pagar Alam, Indonesia",earthquake,7.21,6.827,0.074,58,reviewed,us,us
 2025-08-30T13:30:09.460Z,34.0348333,-117.246,7.09,0.9,ml,50,22,0.07675,0.17,ci,ci41279320,2025-08-30T13:33:55.043Z,"2 km SE of Loma Linda, CA",earthquake,0.14,0.45,0.183,29,automatic,ci,ci
 2025-08-30T13:28:44.350Z,38.835998535156,-122.78266906738,1.9299999475479,1.09,md,18,69,0.006459,0.01,nc,nc75230832,2025-08-30T13:30:22.960Z,"5 km WNW of Cobb, CA",earthquake,0.26,0.460000008,0.09,20,automatic,nc,nc
 2025-08-30T13:16:32.310Z,37.986667633057,-122.42949676514,9.4899997711182,1.67,md,22,162,0.2865,0.21,nc,nc75230827,2025-08-30T13:18:07.691Z,"8 km WNW of San Pablo, CA",earthquake,11.18,10.6199999,,1,automatic,nc,nc
@@ -69,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T07:37:35.870Z,33.2386667,-116.3905,4.36,0.64,ml,44,79,0.03697,0.2,ci,ci41279200,2025-08-30T07:41:01.536Z,"2 km SW of Borrego Springs, CA",earthquake,0.2,0.42,0.134,14,automatic,ci,ci
 2025-08-30T07:36:17.486Z,61.5946,-149.9971,32.6,1.2,ml,,,,0.4,ak,ak025b4cfrv8,2025-08-30T07:38:19.469Z,"8 km NNW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-30T07:28:58.410Z,47.605333333333,-113.18683333333,7.56,1.56,ml,26,67,0.4191,0.15,mb,mb90109673,2025-08-30T13:23:45.390Z,"40 km ENE of Condon, Montana",earthquake,0.49,1.07,0.1926965898384,17,reviewed,mb,mb
-2025-08-30T07:28:30.638Z,41.1853,-116.6969,0,3.5,ml,8,141.91,1.186,0.1388,nn,nn00903430,2025-08-30T11:53:24.220Z,"56 km NE of Valmy, Nevada",earthquake,,0,0.3,6,reviewed,nn,nn
+2025-08-30T07:28:30.638Z,41.1853,-116.6969,0,3.5,ml,8,141.91,1.186,0.1388,nn,nn00903430,2025-08-30T13:53:16.099Z,"56 km NE of Valmy, Nevada",earthquake,,0,0.3,6,reviewed,nn,nn
 2025-08-30T07:21:44.600Z,38.838500976562,-122.80833435059,1.8899999856949,0.23,md,7,115,0.01405,0.01,nc,nc75230697,2025-08-30T07:23:23.355Z,"8 km WNW of Cobb, CA",earthquake,0.47,1.97000003,0.13,9,automatic,nc,nc
 2025-08-30T07:21:33.330Z,19.6115,-64.2898,48,3.76,md,12,303,1.1266,0.31,pr,pr2025242001,2025-08-30T11:45:38.040Z,"151 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,5.08,18.81,0.11,3,reviewed,pr,pr
 2025-08-30T07:04:15.140Z,34.1188333,-117.4756667,5.26,1.6,ml,20,78,0.05336,0.13,ci,ci41279184,2025-08-30T07:07:56.976Z,"3 km NW of Fontana, CA",earthquake,0.29,0.54,0.291,18,automatic,ci,ci
