@@ -64,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-01T21:58:49.080Z,33.386,-116.4156667,8.33,0.57,ml,22,65,0.07172,0.16,ci,ci41281032,2025-09-01T22:02:17.174Z,"15 km NNW of Borrego Springs, CA",earthquake,0.22,0.76,0.135,12,automatic,ci,ci
 2025-09-01T21:52:10.060Z,32.7176667,-115.6458333,10.43,1.41,ml,23,146,0.05192,0.27,ci,ci41281016,2025-09-01T21:55:42.402Z,"11 km W of Heber, CA",earthquake,0.47,0.7,0.211,11,automatic,ci,ci
 2025-09-01T21:38:32.380Z,35.3611667,-117.8016667,7.1,0.92,ml,26,93,0.1003,0.16,ci,ci41281000,2025-09-01T21:41:59.322Z,"15 km W of Johannesburg, CA",earthquake,0.23,0.89,0.255,2,automatic,ci,ci
-2025-09-01T21:38:22.809Z,22.9887,-109.6191,10,4.8,mww,218,65,4.923,0.79,us,us7000qt5b,2025-09-02T05:46:54.485Z,"9 km SSE of La Playa, Mexico",earthquake,8.79,1.825,0.075,17,reviewed,us,us
+2025-09-01T21:38:22.809Z,22.9887,-109.6191,10,4.8,mww,218,65,4.923,0.79,us,us7000qt5b,2025-09-02T05:52:48.585Z,"9 km SSE of La Playa, Mexico",earthquake,8.79,1.825,0.075,17,reviewed,us,us
 2025-09-01T21:27:45.588Z,2.409,127.3027,94.636,4.4,mb,33,145,1.628,1.05,us,us7000qt5a,2025-09-02T01:47:10.040Z,"108 km NW of Tobelo, Indonesia",earthquake,8.18,6.299,0.096,31,reviewed,us,us
 2025-09-01T21:26:07.821Z,60.5316,-152.8269,134.6,2.3,ml,,,,0.51,ak,ak025b7vsdb3,2025-09-01T22:39:24.040Z,"83 km W of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-09-01T21:23:33.590Z,38.5045,-112.90183333333,2.37,2.13,ml,21,45,0.005197,0.12,uu,uu80116126,2025-09-01T21:34:02.920Z,"15 km NE of Milford, Utah",earthquake,0.31,0.32,0.27216652972235,17,reviewed,uu,uu
@@ -211,4 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-01T05:57:38.430Z,34.5068333,-116.8381667,7.82,0.6,ml,31,60,0.1157,0.16,ci,ci41280488,2025-09-01T06:01:07.758Z,"14 km ENE of Lucerne Valley, CA",earthquake,0.19,0.58,0.165,5,automatic,ci,ci
 2025-09-01T05:56:21.420Z,33.645,-116.7315,14.62,0.79,ml,40,53,0.05371,0.16,ci,ci41280472,2025-09-01T20:22:32.401Z,"11 km S of Idyllwild, CA",earthquake,0.18,0.31,0.212,26,reviewed,ci,ci
 2025-09-01T05:54:39.625Z,-17.3838,-174.7098,210.845,4.4,mb,33,73,4.46,0.79,us,us7000qsyj,2025-09-01T06:24:18.040Z,"159 km NNW of Neiafu, Tonga",earthquake,9.85,8.1,0.099,29,reviewed,us,us
-2025-09-01T05:49:48.734Z,37.3113,-117.4875,5.3,1.2,ml,17,147.2,0.181,0.4394,nn,nn00903605,2025-09-01T05:52:31.851Z,"49 km SSW of Goldfield, Nevada",earthquake,,1.7,0.35,11,automatic,nn,nn
