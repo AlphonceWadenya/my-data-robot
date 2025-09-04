@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-04T09:21:15.659Z,31.658,-104.399,4.8549,1.6,ml,23,88,0,0.4,tx,tx2025rkhgdr,2025-09-04T09:26:22.273Z,"57 km S of Whites City, New Mexico",earthquake,0,1.2192823886871,0.1,14,automatic,tx,tx
+2025-09-04T09:28:31.460Z,38.760501861572,-122.72933197022,2.670000076294,0.74,md,7,166,0.0142,0.02,nc,nc75232972,2025-09-04T09:30:07.545Z,"3 km SE of The Geysers, CA",earthquake,0.87,1.34000003,0.18,7,automatic,nc,nc
+2025-09-04T09:21:15.659Z,31.658,-104.399,4.8549,1.6,ml,23,88,0,0.4,tx,tx2025rkhgdr,2025-09-04T09:27:43.279Z,"57 km S of Whites City, New Mexico",earthquake,0,1.2192823886871,0.1,15,automatic,tx,tx
 2025-09-04T09:18:48.500Z,33.1045,-116.515,10.29,0.68,ml,40,52,0.06995,0.2,ci,ci41282856,2025-09-04T09:22:37.317Z,"9 km ENE of Julian, CA",earthquake,0.2,0.43,0.201,11,automatic,ci,ci
 2025-09-04T09:17:23.490Z,36.0233333,-117.8695,2.06,0.85,ml,29,48,0.02301,0.15,ci,ci41282848,2025-09-04T09:20:51.303Z,"8 km ESE of Coso Junction, CA",earthquake,0.16,0.17,0.193,17,automatic,ci,ci
 2025-09-04T08:51:05.580Z,36.108,-117.8581667,2.72,1.14,ml,32,43,0.009928,0.16,ci,ci41282840,2025-09-04T08:54:33.159Z,"11 km NE of Coso Junction, CA",earthquake,0.18,0.32,0.206,25,automatic,ci,ci
