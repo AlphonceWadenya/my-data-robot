@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-04T09:53:48.170Z,34.0083333,-117.207,7.08,0.62,ml,35,78,0.06712,0.19,ci,ci41282880,2025-09-04T09:57:36.843Z,"6 km SSW of Redlands, CA",earthquake,0.2,0.51,0.151,15,automatic,ci,ci
 2025-09-04T09:50:26.570Z,36.1548333,-117.8321667,7.86,1,ml,30,55,0.04147,0.17,ci,ci41282872,2025-09-04T09:53:47.960Z,"16 km NE of Coso Junction, CA",earthquake,0.25,0.45,0.214,17,automatic,ci,ci
 2025-09-04T09:50:04.010Z,33.5816667,-116.8015,6.99,0.07,ml,19,69,0.056,0.14,ci,ci41282864,2025-09-04T09:53:32.603Z,"12 km WNW of Anza, CA",earthquake,0.25,0.49,0.1,5,automatic,ci,ci
 2025-09-04T09:48:45.118Z,64.835,-148.0062,13.7,1.4,ml,,,,0.42,ak,ak025bcne09r,2025-09-04T09:50:35.878Z,"1 km SSE of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -33,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T06:06:57.728Z,31.537,-102.349,7.8369,1.6,ml,18,83,0.2,0.2,tx,tx2025rkautk,2025-09-04T09:06:51.207Z,"15 km N of Crane, Texas",earthquake,0.68135274977832,1.9624438218669,0.1,10,reviewed,tx,tx
 2025-09-04T05:50:48.590Z,34.0606667,-117.1348333,9.84,0.66,ml,38,41,0.03128,0.17,ci,ci41282776,2025-09-04T05:55:26.330Z,"1 km S of Mentone, CA",earthquake,0.18,0.37,0.189,18,automatic,ci,ci
 2025-09-04T05:46:57.319Z,30.421,-103.548,5,1.7,ml,5,263,0.5,0.6,tx,tx2025rkadmp,2025-09-04T05:50:34.089Z,"12 km ENE of Alpine, Texas",earthquake,0,,0.4,3,automatic,tx,tx
-2025-09-04T05:46:42.607Z,31.729,-104.334,5,1.7,ml,11,262,0.1,0.7,tx,tx2025rkadhn,2025-09-04T06:01:00.634Z,"49 km S of Whites City, New Mexico",earthquake,0,,0.1,5,automatic,tx,tx
+2025-09-04T05:46:34.582Z,31.715,-104.55,5.5359,1.8,ml,30,67,0,0.2,tx,tx2025rkadhn,2025-09-04T09:59:47.330Z,"53 km SSW of Whites City, New Mexico",earthquake,1.021677106447,0.48021488381676,0.2,12,reviewed,tx,tx
 2025-09-04T05:45:40.007Z,31.716,-104.544,5.2283,2.2,ml,28,87,0,0.2,tx,tx2025rkaccj,2025-09-04T06:56:24.568Z,"53 km SSW of Whites City, New Mexico",earthquake,0.95387906925816,0.44230310350686,0.2,18,reviewed,tx,tx
 2025-09-04T05:22:16.240Z,32.382,-101.081,7.5684,1,ml,17,70,0.1,0.1,tx,tx2025rjzifl,2025-09-04T08:49:38.334Z,"6 km WNW of Westbrook, Texas",earthquake,0.83230108970112,1.5636882330481,0.2,11,reviewed,tx,tx
 2025-09-04T05:10:52.338Z,34.4603,70.5979,10,4.7,mb,69,88,1.21,1.17,us,us7000qtq5,2025-09-04T05:55:02.009Z,"13 km ENE of Jalālābād, Afghanistan",earthquake,6.92,1.874,0.067,67,reviewed,us,us
