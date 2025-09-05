@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-05T22:46:34.446Z,61.2031,-145.3212,141.9,1.4,ml,,,,0.81,ak,ak025beinjdg,2025-09-05T22:48:36.969Z,"51 km S of Tonsina, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-09-05T22:38:32.376Z,61.8103,-148.1475,63.2,1.1,ml,,,,0.82,ak,ak025beilthh,2025-09-05T22:40:06.481Z,"16 km E of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-05T22:33:48.420Z,38.506333333333,-112.90416666667,2.63,1.35,md,13,111,0.006239,0.07,uu,uu80116716,2025-09-05T22:42:38.000Z,"15 km NE of Milford, Utah",earthquake,0.35,0.39,0.56075921674079,6,reviewed,uu,uu
 2025-09-05T22:25:38.008Z,35.31177902,-97.93966675,6.393915176,1.92,ml,11,97.09049988,0.08075882494,0.6710524481,ok,ok2025rkzq,2025-09-05T22:28:41.594Z,"0 km ESE of Minco, Oklahoma",earthquake,3.879076862,6.521058963,0.28,10,automatic,ok,ok
