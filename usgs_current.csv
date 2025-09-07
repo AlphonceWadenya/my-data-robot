@@ -208,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-06T07:45:41.770Z,35.6875,-121.1365,6.27,0.93,md,23,91,0.01492,0.1,nc,nc75233777,2025-09-06T19:07:18.210Z,"7 km NE of San Simeon, CA",earthquake,0.17,0.3,0.328,12,reviewed,nc,nc
 2025-09-06T07:44:53.870Z,38.783164978027,-122.76333618164,3.579999923706,1.11,md,22,69,0.01257,0.02,nc,nc75233772,2025-09-06T10:17:20.477Z,"1 km NNW of The Geysers, CA",earthquake,0.28,0.610000014,0.17,21,automatic,nc,nc
 2025-09-06T07:41:15.197Z,62.4444,-151.209,81.4,1.3,ml,,,,0.2,ak,ak025bfx89q7,2025-09-06T07:42:59.532Z,"23 km WSW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-09-06T07:38:51.420Z,35.739,-117.5695,4.06,0.7,ml,21,85,0.07989,0.16,ci,ci41284560,2025-09-07T00:31:44.010Z,"15 km WSW of Searles Valley, CA",earthquake,0.22,0.55,0.146,11,reviewed,ci,ci
-2025-09-06T07:38:03.760Z,39.220165252685,-120.08366394043,2.960000038147,1.77,md,10,97,0.03517,0.15,nc,nc75233762,2025-09-06T14:32:30.487Z,"4 km WSW of Tahoe Vista, CA",earthquake,0.55,1.26999998,0.14,8,automatic,nc,nc
