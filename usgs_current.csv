@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-08T17:37:53.200Z,36.757999420166,-121.40599822998,10.760000228882,1.4,md,10,109,0.03365,0.06,nc,nc75235032,2025-09-08T17:39:27.821Z,"7 km SW of Ridgemark, CA",earthquake,0.49,0.850000024,0.21,7,automatic,nc,nc
+2025-09-08T17:35:02.173Z,31.65,-104.5,2.8773,1.7,ml,30,106,0,0.4,tx,tx2025rsgneq,2025-09-08T17:38:18.276Z,"59 km SSW of Whites City, New Mexico",earthquake,0,1.219159245491,0.2,21,automatic,tx,tx
 2025-09-08T17:29:13.690Z,38.829166412354,-122.81449890137,2.0599999427795,1.11,md,20,45,0.01714,0.02,nc,nc75235017,2025-09-08T17:30:47.886Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.419999987,0.15,22,automatic,nc,nc
 2025-09-08T17:26:54.030Z,38.80683517456,-122.79149627685,2.9300000667572,0.86,md,17,62,0.003182,0.01,nc,nc75235012,2025-09-08T17:28:28.772Z,"4 km NNW of The Geysers, CA",earthquake,0.29,0.519999981,0.23,17,automatic,nc,nc
 2025-09-08T16:38:52.958Z,32.091,-102.013,3.4913,1.4,ml,7,160,0.1,0.2,tx,tx2025rsequl,2025-09-08T16:41:25.704Z,"12 km NNE of Midland, Texas",earthquake,0,2.8885638713837,0.3,6,automatic,tx,tx
@@ -210,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T17:57:58.382Z,64.8787,-151.7772,15.4,0.9,ml,,,,0.52,ak,ak025bhqth26,2025-09-07T18:00:18.391Z,"35 km SSE of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-07T17:51:46.390Z,35.616,-98.04016667,6.74,1.81,ml,73,36,0.1574690992,0.21,ok,ok2025rohq,2025-09-08T15:11:28.066Z,"7 km ENE of Calumet, Oklahoma",earthquake,,0.6,0.26,30,reviewed,ok,ok
 2025-09-07T17:44:33.900Z,39.7075,-111.5895,1.63,1.17,md,16,85,0.238,0.21,uu,uu80004743,2025-09-08T14:33:53.520Z,"9 km NNE of Fountain Green, Utah",earthquake,0.43,31.61,0.26741916701363,10,reviewed,uu,uu
-2025-09-07T17:43:07.998Z,32.299,-101.8,6.4209,0.5,ml,11,67,0,0.1,tx,tx2025rqlbgy,2025-09-08T13:09:12.271Z,"18 km N of Stanton, Texas",earthquake,0.68443013953421,0.78589891245125,0.1,7,reviewed,tx,tx
