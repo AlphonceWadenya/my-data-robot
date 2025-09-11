@@ -176,5 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T12:17:44.440Z,19.0445,-64.5118,64,3.8,md,15,271,0.5647,0.56,pr,pr2025253002,2025-09-10T13:07:56.040Z,"84 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,6.24,8.189,0.11,9,reviewed,pr,pr
 2025-09-10T11:54:08.490Z,19.191166666667,-155.34883333333,28.08,2.18,ml,51,171,0.06511,0.13,hv,hv74772352,2025-09-10T20:18:41.680Z,"13 km E of Pāhala, Hawaii",earthquake,0.39,0.52,0.1763409802459,37,reviewed,hv,hv
 2025-09-10T11:51:47.530Z,33.5383333,-116.7188333,5.9,0.06,ml,15,76,0.03109,0.14,ci,ci41287984,2025-09-10T18:46:13.064Z,"5 km WSW of Anza, CA",earthquake,0.27,0.48,0.156,6,automatic,ci,ci
-2025-09-10T11:44:29.750Z,33.5396667,-116.7166667,5.41,0.27,ml,15,78,0.03091,0.15,ci,ci41287976,2025-09-10T18:45:27.429Z,"4 km WSW of Anza, CA",earthquake,0.29,0.51,0.087,7,automatic,ci,ci
-2025-09-10T11:43:49.240Z,35.363,-117.8041667,7.21,0.92,ml,28,118,0.1013,0.17,ci,ci41287968,2025-09-10T18:44:50.056Z,"15 km W of Johannesburg, CA",earthquake,0.27,1,0.139,18,automatic,ci,ci
