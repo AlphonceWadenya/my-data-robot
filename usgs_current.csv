@@ -184,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T09:52:19.885Z,62.7733,-148.9159,7.6,1.8,ml,,,,0.87,ak,ak025bmkmw4h,2025-09-10T09:55:13.864Z,"68 km S of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-10T09:43:33.521Z,32.412,-101.403,5.6885,1.1,ml,24,50,0,0.2,tx,tx2025rviipn,2025-09-10T09:56:32.271Z,"15 km NNW of Sand Springs, Texas",earthquake,0.56765850670126,1.0961055526468,0.1,12,reviewed,tx,tx
 2025-09-10T09:41:09.770Z,33.4543333,-116.579,6.64,0.56,ml,26,76,0.04469,0.16,ci,ci41287936,2025-09-10T19:56:03.468Z,"14 km SE of Anza, CA",earthquake,0.22,0.39,0.073,9,reviewed,ci,ci
-2025-09-10T09:30:55.935Z,32.086,-102.024,8.0566,2.8,ml,35,39,0.1,0.1,tx,tx2025rvhxtv,2025-09-10T13:48:39.711Z,"11 km NNE of Midland, Texas",earthquake,0.3341836290291,0.77889570065577,0.2,36,reviewed,tx,tx
