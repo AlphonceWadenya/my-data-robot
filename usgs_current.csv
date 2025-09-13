@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-13T22:22:12.250Z,35.8988333,-117.6783333,3.22,0.53,ml,20,57,0.05396,0.13,ci,ci41290984,2025-09-13T22:26:00.624Z,"21 km ESE of Little Lake, CA",earthquake,0.16,0.59,0.095,12,automatic,ci,ci
+2025-09-13T22:21:12.352Z,64.6375,-147.5971,7.9,0.4,ml,,,,0.25,ak,ak025brqswpv,2025-09-13T22:23:22.039Z,"17 km SW of North Pole, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-13T22:15:44.746Z,32.098,-101.474,0.9788,1.5,ml,28,73,0.1,0.7,tx,tx2025sbulmv,2025-09-13T22:21:10.597Z,"10 km W of Forsan, Texas",earthquake,0,1.2598865032196,0.2,9,automatic,tx,tx
 2025-09-13T22:12:12.513Z,31.645,-104.375,4.3491,1.5,ml,26,89,0,0.4,tx,tx2025sbuikn,2025-09-13T22:16:21.568Z,"58 km S of Whites City, New Mexico",earthquake,0,1.1004594564438,0.2,19,automatic,tx,tx
 2025-09-13T21:59:45.980Z,33.3205,-116.3505,10.15,0.78,ml,38,48,0.054,0.23,ci,ci41290976,2025-09-13T22:03:13.327Z,"8 km NNE of Borrego Springs, CA",earthquake,0.24,0.5,0.153,16,automatic,ci,ci
@@ -236,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T22:45:24.800Z,18.9845,-65.013,48.35,3.08,md,11,255,0.6735,0.1,pr,pr71495478,2025-09-12T23:02:14.690Z,"71 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.6,3.69,0.063910473105754,5,reviewed,pr,pr
 2025-09-12T22:45:04.800Z,52.317166666667,-173.957,18.93,1.33,ml,8,286,0.06366,0.12,av,av93764328,2025-09-13T08:34:04.520Z,"21 km NE of Atka, Alaska",earthquake,1.1,0.71,0.42307825133458,8,reviewed,av,av
 2025-09-12T22:34:54.056Z,37.0421,-117.6595,5.5,1.2,ml,21,173.48,0.239,0.1459,nn,nn00904241,2025-09-13T00:49:56.670Z,"55 km ENE of Independence, California",earthquake,,1.6,0.54,4,reviewed,nn,nn
-2025-09-12T22:29:25.598Z,52.2202,159.7401,35,4.9,mb,69,123,1.043,1.13,us,us7000qvtx,2025-09-12T23:14:01.040Z,"120 km SE of Vilyuchinsk, Russia",earthquake,7.64,1.91,0.048,135,reviewed,us,us
