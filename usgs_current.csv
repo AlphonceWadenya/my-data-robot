@@ -238,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T23:58:10.260Z,17.902666666667,-67.0295,13.37,2.45,md,9,254,0.06786,0.08,pr,pr71495493,2025-09-13T00:08:38.270Z,"8 km SSE of La Parguera, Puerto Rico",earthquake,0.64,0.29,0.055149799369927,6,reviewed,pr,pr
 2025-09-12T23:54:14.240Z,33.8605,-117.8886667,3.66,1.13,ml,15,195,0.08117,0.13,ci,ci41290296,2025-09-13T00:00:47.776Z,"2 km SW of Placentia, CA",earthquake,1.65,1.08,0.333,32,automatic,ci,ci
 2025-09-12T23:49:37.989Z,-24.2635,-67.0219,186.192,4.5,mb,37,70,1.682,0.54,us,us7000qvvh,2025-09-13T00:26:13.040Z,"71 km W of San Antonio de los Cobres, Argentina",earthquake,8.72,8.333,0.094,33,reviewed,us,us
-2025-09-12T23:46:38.220Z,38.827835083008,-122.81583404541,1.7799999713898,1.14,md,20,44,0.006317,0.02,nc,nc75237092,2025-09-13T01:37:21.604Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.349999994,0.18,21,automatic,nc,nc
