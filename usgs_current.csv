@@ -254,5 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T19:36:14.684Z,63.1472,-150.985,129.278,2.9,ml,100,16,0.567,0.54,us,us7000qvsv,2025-09-13T13:49:11.040Z,"57 km SE of Denali National Park, Alaska",earthquake,4.25,5.502,0.027,174,reviewed,us,us
 2025-09-12T19:36:10.290Z,33.3978333,-116.4141667,9.88,0.78,ml,37,70,0.0811,0.21,ci,ci41290184,2025-09-12T19:39:50.617Z,"16 km NNW of Borrego Springs, CA",earthquake,0.22,0.53,0.102,18,automatic,ci,ci
 2025-09-12T19:32:46.700Z,37.242832183838,-118.51149749756,3.0999999046326,0.71,md,5,192,0.1828,0.02,nc,nc75237012,2025-09-12T19:34:21.740Z,"12 km W of Wilkerson, CA",earthquake,1.07,7.82999992,0.18,2,automatic,nc,nc
-2025-09-12T19:27:05.540Z,34.4686667,-117.9501667,8.77,0.94,ml,22,58,0.02015,0.14,ci,ci41290168,2025-09-12T19:31:03.726Z,"6 km SW of Pearblossom, CA",earthquake,0.2,0.36,0.283,24,automatic,ci,ci
-2025-09-12T19:26:08.060Z,33.255,-116.3773333,3.84,0.72,ml,35,49,0.03587,0.21,ci,ci41290160,2025-09-12T19:48:35.206Z,"0 km WSW of Borrego Springs, CA",earthquake,0.24,0.48,0.143,15,automatic,ci,ci
