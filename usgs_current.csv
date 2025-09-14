@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-14T21:55:02.050Z,38.779499053955,-122.73966979981,1.1200000047684,1.13,md,8,88,0.0213,0.02,nc,nc75237792,2025-09-14T21:56:37.938Z,"1 km E of The Geysers, CA",earthquake,0.32,0.75999999,0.13,7,automatic,nc,nc
 2025-09-14T21:41:34.028Z,31.659,-102.021,4.062,1.4,ml,37,96,0.1,0.5,tx,tx2025sdpaxs,2025-09-14T21:45:57.699Z,"37 km S of Midland, Texas",earthquake,0,1.1196012496948,0.1,21,automatic,tx,tx
 2025-09-14T21:03:56.990Z,32.123,-102.156,8.1787,2.5,ml,35,62,0,0.1,tx,tx2025sdntjx,2025-09-14T21:25:17.103Z,"15 km NNW of Midland, Texas",earthquake,0.40431569667571,0.52078222949209,0.2,42,reviewed,tx,tx
 2025-09-14T21:03:56.605Z,32.109,-102.156,4.7154,2.4,ml,32,61,0,0.3,tx,tx2025sdnumc,2025-09-14T21:07:25.687Z,"14 km NNW of Midland, Texas",earthquake,0,0.98225504159927,0.2,24,automatic,tx,tx
