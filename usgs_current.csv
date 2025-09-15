@@ -143,7 +143,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T01:12:20.547Z,53.2665,159.9725,56.812,4.6,mb,70,127,0.833,0.88,us,us7000qw8b,2025-09-15T01:42:39.040Z,"92 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.83,6.768,0.054,102,reviewed,us,us
 2025-09-15T01:10:38.712Z,61.4029,-149.969,30.1,2.5,ml,,,,0.51,ak,ak025bupb75o,2025-09-15T01:32:49.040Z,"4 km N of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-15T00:59:37.159Z,35.327,-97.9345,5.65,0.87,ml,54,63,0.06478728652,0.35,ok,ok2025sbqd,2025-09-15T14:50:35.969Z,"1 km NNE of Minco, Oklahoma",earthquake,,0.6,0.23,25,reviewed,ok,ok
-2025-09-15T00:32:18.921Z,36.7454,-115.5343,4.4,0.8,ml,16,174.98,0.353,0.2382,nn,nn00904370,2025-09-15T00:34:35.579Z,"22 km NNE of Indian Springs, Nevada",earthquake,,2.1,0.3,12,automatic,nn,nn
+2025-09-15T00:32:19.267Z,36.7197,-115.5244,0,0.8,ml,20,171.1,0.345,0.1475,nn,nn00904370,2025-09-15T17:52:34.794Z,"21 km NE of Indian Springs, Nevada",earthquake,,0,0.19,11,reviewed,nn,nn
+2025-09-15T00:26:39.090Z,54.711666666667,-163.989,2.23,0.9,ml,5,159,0.005231,0.22,av,av93769223,2025-09-15T17:53:44.090Z,"40 km WSW of False Pass, Alaska",earthquake,1.08,0.92,0.32049043044308,4,reviewed,av,av
 2025-09-15T00:26:08.517Z,64.9422,-147.291,0,1.3,ml,,,,0.79,ak,ak025buot4oj,2025-09-15T00:28:02.633Z,"14 km WNW of Two Rivers, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-15T00:25:50.720Z,32.8988333,-116.2718333,12.15,1.35,ml,51,47,0.06162,0.19,ci,ci41291472,2025-09-15T13:53:15.130Z,"26 km ENE of Pine Valley, CA",earthquake,0.18,0.5,0.33,29,reviewed,ci,ci
 2025-09-15T00:15:39.600Z,32.986,-116.3138333,9.29,0.46,ml,28,39,0.03252,0.19,ci,ci41291464,2025-09-15T13:45:17.693Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.24,0.5,0.06,6,reviewed,ci,ci
