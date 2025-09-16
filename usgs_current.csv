@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-16T20:47:08.590Z,38.820499420166,-122.80383300781,2.5699999332428,0.76,md,11,63,0.01418,0.02,nc,nc75238527,2025-09-16T20:48:45.977Z,"6 km NNW of The Geysers, CA",earthquake,0.38,0.600000024,0.11,11,automatic,nc,nc
 2025-09-16T20:11:14.002Z,31.68,-104.407,6.0999,1.5,ml,25,69,0,0.2,tx,tx2025shdmum,2025-09-16T20:42:41.952Z,"55 km S of Whites City, New Mexico",earthquake,1.19120969296,0.84266857938176,0.1,8,reviewed,tx,tx
 2025-09-16T20:06:31.660Z,59.9851,-151.5066,60.4,1.8,ml,,,,0.3,ak,ak025bwo4wqm,2025-09-16T20:08:18.689Z,"11 km SE of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-09-16T19:48:02.451Z,32.108,-102.144,6.4941,1.6,ml,46,46,0,0.1,tx,tx2025shcsnv,2025-09-16T20:12:16.988Z,"13 km NNW of Midland, Texas",earthquake,0.3842622238914,1.4256497763963,0.1,19,reviewed,tx,tx
@@ -43,6 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T12:59:12.550Z,38.807666778565,-122.77233123779,2.1900000572205,0.77,md,11,124,0.008589,0.02,nc,nc75238387,2025-09-16T13:17:19.703Z,"4 km  of The Geysers, CA",earthquake,0.42,0.409999996,0.11,9,automatic,nc,nc
 2025-09-16T12:38:24.440Z,38.894500732422,-122.87733459473,1.5099999904633,1.62,md,14,163,0.05403,0.02,nc,nc75238382,2025-09-16T14:47:22.387Z,"10 km SSW of Kelseyville, CA",earthquake,0.49,0.879999995,0.11,13,automatic,nc,nc
 2025-09-16T12:33:36.054Z,63.1926,-151.3467,0,1.9,ml,,,,0.41,ak,ak025bwjj8kl,2025-09-16T12:35:54.586Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-16T12:14:47.200Z,54.766166666667,-163.97783333333,-1.31,0.08,ml,6,82,0.04687,0.33,av,av93771853,2025-09-16T20:46:44.240Z,"37 km WSW of False Pass, Alaska",earthquake,0.94,1.59,0.29267253880794,6,reviewed,av,av
 2025-09-16T12:14:44.650Z,33.2195,-116.7575,20.01,0.61,ml,29,36,0.01647,0.16,ci,ci41292296,2025-09-16T13:14:01.106Z,"2 km SSE of Lake Henshaw, CA",earthquake,0.25,0.51,0.167,9,reviewed,ci,ci
 2025-09-16T12:03:00.810Z,35.6105,-98.05333333,7.29,1.36,ml,83,57,0.1493706884,0.32,ok,ok2025sehq,2025-09-16T12:45:23.765Z,"6 km E of Calumet, Oklahoma",earthquake,,0.6,0.25,32,reviewed,ok,ok
 2025-09-16T12:02:10.180Z,38.896167755127,-122.875,0.93999999761581,2.04,md,22,142,0.05283,0.05,nc,nc75238372,2025-09-16T14:07:18.088Z,"10 km SSW of Kelseyville, CA",earthquake,0.28,0.74000001,0.08,22,automatic,nc,nc
@@ -96,6 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T07:50:10.720Z,40.254333333333,-121.143,9.62,1.29,md,22,66,0.006876,0.13,nc,nc75238317,2025-09-16T12:47:21.481Z,"5 km WSW of Hamilton Branch, CA",earthquake,0.21,0.34,0.032,5,reviewed,nc,nc
 2025-09-16T07:42:42.270Z,54.760333333333,-163.95066666667,-2.97,0.21,ml,5,132,0.05768,0.2,av,av93771323,2025-09-16T20:04:56.620Z,"36 km WSW of False Pass, Alaska",earthquake,0.46,1.02,0.30231615457792,5,reviewed,av,av
 2025-09-16T07:33:03.816Z,65.4506,-153.3683,4.8,2,ml,,,,1,ak,ak025bwgk025,2025-09-16T07:38:56.938Z,"67 km WNW of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-16T07:13:17.340Z,46.911833333333,-112.51733333333,8.51,0.62,ml,8,133,0.06697,0.07,mb,mb90112108,2025-09-16T20:50:05.490Z,"13 km ESE of Lincoln, Montana",earthquake,0.5,0.63,0.16023689032795,8,reviewed,mb,mb
 2025-09-16T07:00:51.950Z,32.9233333,-115.8205,6.64,1.14,ml,33,50,0.02777,0.21,ci,ci41292200,2025-09-16T07:04:16.894Z,"22 km SW of Westmorland, CA",earthquake,0.23,0.52,0.244,16,automatic,ci,ci
 2025-09-16T06:28:21.825Z,32.193,-101.393,5.4932,1.1,ml,17,48,0.1,0.2,tx,tx2025sgcfsi,2025-09-16T14:50:55.212Z,"9 km NNW of Forsan, Texas",earthquake,0.83368161491358,1.7077121766068,0.2,7,reviewed,tx,tx
 2025-09-16T06:28:20.300Z,38.822334289551,-122.80316925049,2.4700000286102,1.14,md,14,119,0.005497,0.02,nc,nc75238307,2025-09-16T09:17:21.977Z,"6 km NNW of The Geysers, CA",earthquake,0.39,0.49000001,0.15,15,automatic,nc,nc
