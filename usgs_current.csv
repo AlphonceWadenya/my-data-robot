@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-17T22:51:49.680Z,40.289333343506,-124.52033233643,8.6099996566772,2.45,md,15,277,0.136,0.14,nc,nc75238957,2025-09-17T22:53:28.330Z,"20 km W of Petrolia, CA",earthquake,3.51,1.52999997,0.06,12,automatic,nc,nc
 2025-09-17T22:39:39.430Z,38.113998413086,-121.80500030518,4.9499998092651,2.22,md,7,210,0.786,0.06,nc,nc75238952,2025-09-17T22:41:17.390Z,"11 km WSW of Rio Vista, CA",earthquake,3.89,8.96000004,,1,automatic,nc,nc
 2025-09-17T22:39:32.779Z,36.7724,-116.252,12.1,0.7,ml,21,49.53,0.048,0.1003,nn,nn00904519,2025-09-17T22:41:25.229Z,"47 km ESE of Beatty, Nevada",earthquake,,0.6,0.23,14,automatic,nn,nn
 2025-09-17T22:20:18.173Z,31.735,-104.121,4.5664,2.4,ml,42,40,0,0.4,tx,tx2025sjdlgm,2025-09-17T22:26:48.862Z,"49 km W of Mentone, Texas",earthquake,0,0.80295395851135,0.2,32,automatic,tx,tx
