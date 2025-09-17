@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-17T23:28:00.200Z,36.673667907715,-121.35316467285,4.6500000953674,1.59,md,10,141,0.03415,0.17,nc,nc75238962,2025-09-17T23:29:38.673Z,"13 km SSW of Tres Pinos, CA",earthquake,0.78,1.33000004,0.28,7,automatic,nc,nc
 2025-09-17T23:21:16.579Z,31.553,-104.197,4.1722,2.4,ml,42,73,0.1,0.3,tx,tx2025sjfnlv,2025-09-17T23:25:54.229Z,"46 km NW of Toyah, Texas",earthquake,0,0.9470032453537,0.2,30,automatic,tx,tx
 2025-09-17T23:20:43.966Z,60.5106,-147.5545,19.3,1.6,ml,,,,0.53,ak,ak025bydjl0s,2025-09-17T23:22:42.519Z,"55 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-17T23:09:18.954Z,61.4939,-149.9419,32.9,1.2,ml,,,,0.49,ak,ak025bydh67r,2025-09-17T23:10:57.710Z,"3 km SSE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
