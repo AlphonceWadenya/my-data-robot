@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-18T10:42:55.171Z,31.662,-104.377,3.7706,2.1,ml,35,70,0,0.5,tx,tx2025skccvx,2025-09-18T10:47:32.551Z,"56 km S of Whites City, New Mexico",earthquake,0,0.95637238025665,0.2,26,automatic,tx,tx
+2025-09-18T10:42:55.171Z,31.662,-104.377,3.7706,2.1,ml,35,70,0,0.5,tx,tx2025skccvx,2025-09-18T10:48:23.558Z,"56 km S of Whites City, New Mexico",earthquake,0,0.95637238025665,0.2,26,automatic,tx,tx
 2025-09-18T10:36:49.360Z,33.4061667,-116.4553333,12.98,1.37,ml,76,25,0.1042,0.21,ci,ci40443922,2025-09-18T10:40:28.590Z,"18 km NNW of Borrego Springs, CA",earthquake,0.17,0.44,0.139,25,automatic,ci,ci
 2025-09-18T10:35:49.620Z,33.3236667,-116.3961667,10.91,0.92,ml,48,30,0.02449,0.2,ci,ci40443914,2025-09-18T10:39:42.255Z,"8 km NNW of Borrego Springs, CA",earthquake,0.2,0.31,0.211,25,automatic,ci,ci
 2025-09-18T10:35:04.870Z,33.6543333,-116.9498333,12.03,1.52,ml,77,16,0.03921,0.19,ci,ci40443906,2025-09-18T10:39:47.465Z,"11 km S of Hemet, CA",earthquake,0.15,0.33,0.218,27,automatic,ci,ci
