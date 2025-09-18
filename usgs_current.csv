@@ -20,7 +20,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T00:41:03.617Z,36.7698,-116.2587,9.3,1.2,ml,29,41.73,0.052,0.2654,nn,nn00904538,2025-09-18T00:42:55.513Z,"47 km ESE of Beatty, Nevada",earthquake,,0.4,0.27,20,automatic,nn,nn
 2025-09-18T00:34:55.180Z,54.774666666667,-163.91016666667,-2.54,0.47,ml,4,167,0.06307,0.28,av,av93775398,2025-09-18T03:37:21.350Z,"33 km WSW of False Pass, Alaska",earthquake,0.77,1.77,0.27798024786724,4,reviewed,av,av
 2025-09-18T00:34:26.620Z,32.5166664,-115.2208328,19.11,3.27,ml,46,44,0.1167,0.31,ci,ci40441802,2025-09-18T02:49:45.040Z,"14 km ESE of Puebla, B.C., MX",earthquake,0.35,0.69,0.306,20,automatic,ci,ci
-2025-09-18T00:29:28.793Z,36.8616,-115.7376,0.1,0.3,ml,15,177.16,0.239,0.3128,nn,nn00904535,2025-09-18T00:31:33.050Z,"32 km N of Indian Springs, Nevada",earthquake,,300.3,0.17,7,automatic,nn,nn
 2025-09-18T00:19:41.338Z,36.834,-115.7445,4.6,0.2,ml,8,181.67,0.22,0.3071,nn,nn00904532,2025-09-18T00:22:21.748Z,"30 km NNW of Indian Springs, Nevada",earthquake,,11,0.62,5,automatic,nn,nn
 2025-09-18T00:15:39.330Z,60.041166666667,-153.08316666667,-0.95,-1.11,ml,4,184,0.01898,0.06,av,av93775393,2025-09-18T03:35:00.430Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.32,3.77,0.50078650919341,4,reviewed,av,av
 2025-09-18T00:14:35.855Z,31.735,-104.116,4.144,1.6,ml,39,44,0,0.4,tx,tx2025sjhhid,2025-09-18T00:18:14.097Z,"49 km W of Mentone, Texas",earthquake,0,0.8353642821312,0.2,31,automatic,tx,tx
@@ -314,4 +313,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T03:56:53.160Z,52.4115,-174.1605,3.43,1.81,ml,8,244,0.03054,0.28,av,av93050219,2025-09-17T23:58:31.970Z,"24 km N of Atka, Alaska",earthquake,1.07,1.42,0.23047608555781,8,reviewed,av,av
 2025-09-17T03:56:21.310Z,61.308666666667,-152.28216666667,0.48,-0.23,ml,9,121,0.05026,0.07,av,av93773423,2025-09-18T00:02:07.110Z,"67 km WNW of Beluga, Alaska",earthquake,0.23,1.25,0.19799766621573,9,reviewed,av,av
 2025-09-17T03:55:18.330Z,38.834999084473,-122.81549835205,1.8999999761581,0.71,md,10,97,0.01234,0.01,nc,nc75238642,2025-09-17T05:37:17.777Z,"8 km WNW of Cobb, CA",earthquake,0.38,0.889999986,0.34,10,automatic,nc,nc
-2025-09-17T03:50:47.930Z,62.9747,-150.7131,108.3,1.4,ml,,,,0.37,ak,ak025by1tcpl,2025-09-17T03:52:52.640Z,"53 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
