@@ -291,4 +291,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T08:06:33.817Z,60.4522,-142.9533,6.8,2,ml,,,,0.26,ak,ak025by4j251,2025-09-17T08:07:44.703Z,"109 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-17T08:03:18.026Z,61.5355,-149.9359,29.4,1.2,ml,,,,0.25,ak,ak025by4idru,2025-09-17T08:06:38.554Z,"1 km NNE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-17T08:00:35.690Z,34.1368333,-117.3488333,10.16,0.38,ml,21,84,0.1375,0.14,ci,ci41292840,2025-09-17T08:04:26.972Z,"2 km SSW of Muscoy, CA",earthquake,0.25,0.54,0.094,5,automatic,ci,ci
-2025-09-17T07:52:04.070Z,56.1323,-151.9457,10,3.1,ml,34,218,1.318,0.6,us,us7000qwmu,2025-09-17T14:31:48.040Z,"145 km SE of Old Harbor, Alaska",earthquake,7.51,2.008,0.053,46,reviewed,us,us
