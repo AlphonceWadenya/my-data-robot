@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-18T22:24:00.570Z,35.8106667,-117.6395,8.3,0.81,ml,20,69,0.0345,0.15,ci,ci40445058,2025-09-18T22:27:43.112Z,"21 km N of Ridgecrest, CA",earthquake,0.24,0.5,0.195,14,automatic,ci,ci
+2025-09-18T22:17:07.343Z,52.9864,160.9015,28.336,4.9,mb,73,116,1.361,0.77,us,us7000qx50,2025-09-18T22:32:40.040Z,"152 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,9.86,5.481,0.049,130,reviewed,us,us
 2025-09-18T22:13:34.800Z,34.118,-118.2076667,8.16,1.2,ml,10,108,0.05643,0.1,ci,ci40445050,2025-09-18T22:17:07.480Z,"1 km WSW of Highland Park, CA",earthquake,0.65,0.74,0.361,31,automatic,ci,ci
+2025-09-18T22:10:18.095Z,52.9089,160.8597,25.026,4.9,mb,73,127,1.341,0.96,us,us7000qx4y,2025-09-18T22:25:33.040Z,"150 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,9.82,5.729,0.05,125,reviewed,us,us
+2025-09-18T22:08:06.092Z,52.7772,160.866,10,4.9,mb,112,119,1.365,1.04,us,us7000qx4w,2025-09-18T22:29:15.040Z,"153 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.52,1.868,0.036,238,reviewed,us,us
 2025-09-18T21:49:35.467Z,32.122,-102.201,3.9484,1.4,ml,23,82,0,0.5,tx,tx2025skyfip,2025-09-18T21:53:53.480Z,"18 km NW of Midland, Texas",earthquake,0,1.2725384235382,0.2,10,automatic,tx,tx
 2025-09-18T21:49:10.078Z,32.118,-102.212,5.4432,1.4,ml,19,75,0,0.5,tx,tx2025skyezg,2025-09-18T22:00:18.527Z,"18 km NW of Midland, Texas",earthquake,0,1.6053005456924,0.2,13,automatic,tx,tx
 2025-09-18T21:37:53.478Z,52.8841,160.6741,30.442,5.7,mb,76,145,1.233,1.06,us,us7000qx4q,2025-09-18T22:11:07.142Z,"138 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,10.89,5.291,0.05,142,reviewed,us,us
@@ -39,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T19:08:20.161Z,52.9725,160.9648,10,5.8,mb,101,80,1.4,0.84,us,us7000qx2q,2025-09-18T21:52:10.479Z,"157 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.84,1.802,0.042,206,reviewed,us,us
 2025-09-18T19:07:47.534Z,-60.3852,-31.4914,10,5.4,mb,93,55,6.687,0.39,us,us7000qx2n,2025-09-18T21:46:35.652Z,"Scotia Sea",earthquake,10.97,1.828,0.065,80,reviewed,us,us
 2025-09-18T19:02:39.109Z,35.3375,-97.93416667,7.43,2.77,ml,90,55,0,0.18,ok,ok2025simm,2025-09-18T22:20:24.243Z,"2 km NNE of Minco, Oklahoma",earthquake,,0.2,0.25,41,reviewed,ok,ok
-2025-09-18T18:58:13.903Z,53.1928,160.5129,19.5,7.8,mww,201,27,1.136,0.85,us,us7000qx2g,2025-09-18T22:08:06.224Z,"127 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.42,1.736,0.031,99,reviewed,us,us
+2025-09-18T18:58:13.903Z,53.1928,160.5129,19.5,7.8,mww,201,27,1.136,0.85,us,us7000qx2g,2025-09-18T22:29:22.835Z,"127 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.42,1.736,0.031,99,reviewed,us,us
 2025-09-18T18:56:29.120Z,44.812666666667,-111.5245,11.41,1.31,ml,21,79,0.02774,0.19,mb,mb90112568,2025-09-18T19:52:11.820Z,"26 km W of Hebgen Lake Estates, Montana",earthquake,0.32,0.43,0.23052200937965,21,reviewed,mb,mb
 2025-09-18T18:52:58.310Z,46.012333333333,-112.47283333333,-2,1.2,ml,10,88,0.05671,0.31,mb,mb90112573,2025-09-18T20:04:36.130Z,"4 km E of Butte, Montana",quarry blast,0.52,31.61,0.3558207820724,12,reviewed,mb,mb
 2025-09-18T18:49:40.870Z,38.835998535156,-122.78833007812,2.039999961853,1.64,md,32,64,0.002875,0.03,nc,nc75239242,2025-09-18T20:52:17.980Z,"6 km WNW of Cobb, CA",earthquake,0.21,0.280000001,0.11,32,automatic,nc,nc
