@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-19T23:53:07.399Z,62.868,-149.7478,62.4,1.8,ml,,,,0.67,ak,ak025c1ot9tf,2025-09-19T23:55:19.094Z,"50 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-19T23:48:14.410Z,32.6601667,-115.7901667,10.18,1.72,ml,44,68,0.05488,0.28,ci,ci40446498,2025-09-19T23:51:52.389Z,"21 km ESE of Ocotillo, CA",earthquake,0.37,0.57,0.199,28,automatic,ci,ci
 2025-09-19T23:40:08.240Z,19.184833526611,-155.51150512695,32.380001068115,2.33,ml,53,94,0.0551,0.129999995,hv,hv74779922,2025-09-19T23:43:49.270Z,"4 km WSW of Pāhala, Hawaii",earthquake,0.46,0.560000002,0.4,27,automatic,hv,hv
 2025-09-19T23:33:54.000Z,35.8821667,-117.7008333,3.31,0.44,ml,15,84,0.07733,0.11,ci,ci40446490,2025-09-19T23:37:28.090Z,"20 km ESE of Little Lake, CA",earthquake,0.15,0.67,0.066,9,automatic,ci,ci
@@ -300,4 +301,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T00:07:49.820Z,33.8015,-117.1215,5.04,0.68,ml,17,107,0.09199,0.16,ci,ci40445322,2025-09-19T00:12:49.978Z,"2 km E of Nuevo, CA",earthquake,0.38,0.9,0.12,14,automatic,ci,ci
 2025-09-19T00:06:47.240Z,38.821666717529,-122.80466461182,3.1600000858307,1,md,16,56,0.004564,0.01,nc,nc75239327,2025-09-19T00:42:16.677Z,"6 km NNW of The Geysers, CA",earthquake,0.31,0.560000002,0.24,16,automatic,nc,nc
 2025-09-19T00:05:48.580Z,60.031333333333,-153.08766666667,-2.74,-0.87,ml,4,108,0.02876,0.04,av,av93777573,2025-09-19T21:31:12.070Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.22,1.78,0.4069583588011,4,reviewed,av,av
-2025-09-18T23:53:46.537Z,36.8673,-117.7637,10.8,1.7,ml,11,95.76,0.343,0.2095,nn,nn00904625,2025-09-19T02:10:36.574Z,"39 km NE of Lone Pine, California",earthquake,,2.1,0.58,4,reviewed,nn,nn
