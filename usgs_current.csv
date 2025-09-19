@@ -300,4 +300,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T19:38:02.826Z,53.5007,160.1742,62.543,4.8,mb,92,130,1.033,0.5,us,us7000qx2w,2025-09-19T13:42:05.040Z,"114 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.29,6.946,0.057,94,reviewed,us,us
 2025-09-18T19:27:40.497Z,36.7704,-116.1472,0,1.8,ml,4,280.84,0.051,0.0499,nn,nn00904635,2025-09-19T02:11:16.975Z,"48 km WNW of Indian Springs, Nevada",earthquake,,0,0,1,reviewed,nn,nn
 2025-09-18T19:26:37.923Z,52.745,161.0581,10,5.5,mb,116,92,1.486,0.84,us,us7000qx2s,2025-09-19T13:19:40.095Z,"167 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,7.81,1.781,0.04,216,reviewed,us,us
-2025-09-18T19:22:19.463Z,53.0209,160.2622,35,4.4,mb,24,164,0.974,0.77,us,us7000qxak,2025-09-19T13:01:39.040Z,"109 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,14.29,1.956,0.149,13,reviewed,us,us
