@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-20T14:37:21.027Z,63.4237,-145.9578,1,1.8,ml,,,,0.4,ak,ak025c36wbgm,2025-09-20T14:39:10.916Z,"41 km NNW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-20T14:15:31.790Z,33.0025,-116.2318333,7.49,0.16,ml,24,56,0.0768,0.18,ci,ci40446946,2025-09-20T14:19:01.229Z,"18 km SSW of Ocotillo Wells, CA",earthquake,0.23,0.64,0.03,2,automatic,ci,ci
 2025-09-20T14:09:40.010Z,17.983833333333,-66.8295,11.98,2.73,md,21,145,0.03865,0.15,pr,pr71496093,2025-09-20T14:27:36.130Z,"1 km SW of Indios, Puerto Rico",earthquake,0.29,0.45,0.19134463974902,14,reviewed,pr,pr
 2025-09-20T14:06:44.193Z,-7.1365,155.8194,95.225,4.9,mb,32,139,4.668,0.54,us,us7000qxk6,2025-09-20T14:25:40.040Z,"97 km SSE of Panguna, Papua New Guinea",earthquake,5.88,11.451,0.061,83,reviewed,us,us
