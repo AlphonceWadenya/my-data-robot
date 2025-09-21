@@ -192,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T15:15:12.391Z,67.4569,-146.1159,9.876,3.3,ml,51,53,0.699,0.5,us,us7000qxke,2025-09-20T17:56:11.040Z,"51 km NNE of Venetie, Alaska",earthquake,3.04,6.508,0.035,108,reviewed,us,us
 2025-09-20T15:10:33.040Z,61.4628,-146.3448,64.8,1.1,ml,,,,0.71,ak,ak025c37bzns,2025-09-20T15:12:29.214Z,"36 km N of Valdez, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2025-09-20T15:05:04.906Z,53.1475,159.8436,60.88,4.5,mb,101,131,0.731,0.68,us,us7000qxkd,2025-09-20T17:31:39.040Z,"81 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,10.26,7.13,0.054,101,reviewed,us,us
-2025-09-20T14:54:25.609Z,32.433,-102.124,8.0322,1.9,ml,32,73,0,0.2,tx,tx2025sobxgf,2025-09-20T15:49:37.746Z,"37 km SSW of Los Ybanez, Texas",earthquake,0.49580717218169,0.58339050439685,0.2,24,reviewed,tx,tx
