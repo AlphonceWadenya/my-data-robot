@@ -257,5 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T19:17:05.196Z,31.626,-104.191,2.2034,1.2,ml,14,89,0.1,0.1,tx,tx2025sscbkj,2025-09-22T20:35:01.426Z,"51 km NW of Toyah, Texas",earthquake,0.86301216391887,1.3555700245155,0.2,14,reviewed,tx,tx
 2025-09-22T19:06:29.050Z,51.6842,159.5327,35,4.6,mb,47,142,1.446,0.9,us,us6000rc5c,2025-09-22T19:26:43.040Z,"158 km SSE of Vilyuchinsk, Russia",earthquake,11.1,1.908,0.076,52,reviewed,us,us
 2025-09-22T19:04:33.418Z,46.1642,-75.2941,10,2.8,mb_lg,19,94,0.519,0.63,us,us6000rc59,2025-09-23T02:17:52.255Z,"23 km NW of Notre-Dame-du-Mont-Carmel, Canada",earthquake,3.3,1.999,0.086,36,reviewed,us,us
-2025-09-22T18:59:14.230Z,34.849,-118.7808333,1.1,1.57,ml,27,52,0.07214,0.16,ci,ci40448186,2025-09-22T23:49:00.700Z,"8 km E of Lebec, CA",quarry blast,0.25,0.39,0.167,29,reviewed,ci,ci
-2025-09-22T18:55:50.350Z,33.9565,-116.3808333,5.55,1.21,ml,52,35,0.02807,0.18,ci,ci40448170,2025-09-22T19:00:36.232Z,"11 km E of Desert Hot Springs, CA",earthquake,0.17,0.44,0.131,26,reviewed,ci,ci
