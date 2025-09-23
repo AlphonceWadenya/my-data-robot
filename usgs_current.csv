@@ -250,6 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T20:01:58.820Z,38.766834259033,-122.72733306885,-0.20999999344349,1.04,md,9,122,0.005579,0.02,nc,nc75240622,2025-09-22T20:27:18.379Z,"3 km SE of The Geysers, CA",earthquake,0.76,1.04999995,0.09,8,automatic,nc,nc
 2025-09-22T19:55:46.272Z,41.2448,-116.6995,8.4,3.7,mw,14,145.16,0.336,0.1354,nn,nn00904812,2025-09-22T22:15:47.124Z,"61 km NE of Valmy, Nevada",earthquake,,1.8,,,reviewed,nn,nn
 2025-09-22T19:54:46.980Z,35.0565,-118.3353333,-0.86,1.13,ml,23,44,0.06595,0.18,ci,ci40448218,2025-09-22T20:51:45.750Z,"13 km SE of Tehachapi, CA",quarry blast,0.29,0.71,0.204,27,automatic,ci,ci
-2025-09-22T19:51:58.738Z,36.4898,-115.8544,11.6,0.6,ml,16,287.68,0.193,0.0715,nn,nn00904834,2025-09-23T01:47:47.714Z,"18 km WSW of Indian Springs, Nevada",earthquake,,3.3,0.14,2,reviewed,nn,nn
-2025-09-22T19:51:58.038Z,64.503,-147.7906,13.3,1.5,ml,,,,0.69,ak,ak025c6l19cr,2025-09-22T19:54:04.789Z,"34 km S of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-09-22T19:49:07.389Z,62.3546,-150.1106,10.8,1.4,ml,,,,0.23,ak,ak025c6l0q0i,2025-09-22T19:50:41.718Z,"3 km N of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
