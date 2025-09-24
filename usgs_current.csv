@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-24T04:47:18.125Z,31.712,-104.276,4.0561,1.9,ml,41,50,0,0.3,tx,tx2025suqrrv,2025-09-24T04:51:57.731Z,"52 km S of Whites City, New Mexico",earthquake,0,0.85953485965729,0.2,29,automatic,tx,tx
+2025-09-24T04:51:07.980Z,35.3516667,-117.7946667,6.11,1.16,ml,40,66,0.09389,0.18,ci,ci40449314,2025-09-24T04:54:36.090Z,"15 km W of Johannesburg, CA",earthquake,0.2,0.6,0.185,24,automatic,ci,ci
+2025-09-24T04:47:18.108Z,31.712,-104.277,4.0643,1.9,ml,41,50,0,0.3,tx,tx2025suqrrv,2025-09-24T04:55:17.432Z,"52 km S of Whites City, New Mexico",earthquake,0,0.85955536365509,0.2,29,automatic,tx,tx
 2025-09-24T04:47:09.340Z,34.1038333,-116.9335,5.64,1.39,ml,75,32,0.01045,0.15,ci,ci40449306,2025-09-24T04:50:33.109Z,"13 km NE of Yucaipa, CA",earthquake,0.11,0.3,0.147,27,automatic,ci,ci
-2025-09-24T04:46:17.657Z,31.71,-104.273,4.1036,1.5,ml,31,58,0,0.3,tx,tx2025suqqve,2025-09-24T04:50:37.719Z,"52 km S of Whites City, New Mexico",earthquake,0,0.96959429979324,0.2,22,automatic,tx,tx
+2025-09-24T04:46:17.657Z,31.71,-104.273,4.1036,1.5,ml,31,58,0,0.3,tx,tx2025suqqve,2025-09-24T04:54:28.425Z,"52 km S of Whites City, New Mexico",earthquake,0,0.96959429979324,0.2,22,automatic,tx,tx
 2025-09-24T04:45:51.370Z,35.1963333,-118.6226667,7.97,1.7,ml,44,43,0.06428,0.16,ci,ci40449298,2025-09-24T04:49:18.829Z,"17 km WNW of Tehachapi, CA",earthquake,0.16,0.56,0.26,26,automatic,ci,ci
 2025-09-24T04:45:22.671Z,61.711,-151.9247,100.4,1.7,ml,,,,0.25,ak,ak025c9n538r,2025-09-24T04:46:50.023Z,"41 km SW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-24T04:41:42.880Z,32.6675,-115.656,9.16,1.25,ml,32,48,0.06207,0.22,ci,ci40449290,2025-09-24T04:45:12.990Z,"12 km NW of Progreso, B.C., MX",earthquake,0.25,0.57,0.216,17,automatic,ci,ci
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T04:13:36.350Z,32.7591667,-115.4185,12.54,1.31,ml,23,49,0.05183,0.28,ci,ci40449282,2025-09-24T04:17:03.582Z,"7 km SSW of Holtville, CA",earthquake,0.54,0.95,0.301,12,automatic,ci,ci
 2025-09-24T04:10:57.294Z,37.1797,-117.1246,2.2,1,ml,16,158.38,0.162,0.1716,nn,nn00904908,2025-09-24T04:13:26.777Z,"44 km NW of Beatty, Nevada",earthquake,,8.3,0.55,6,automatic,nn,nn
 2025-09-24T03:58:30.880Z,33.505,-116.502,14.43,0.52,ml,21,65,0.08435,0.18,ci,ci40449266,2025-09-24T04:01:57.468Z,"17 km ESE of Anza, CA",earthquake,0.36,0.67,0.097,11,automatic,ci,ci
-2025-09-24T03:52:33.020Z,38.773998260498,-122.77500152588,4.210000038147,0.76,md,11,137,0.00794,0.17,nc,nc75241207,2025-09-24T04:17:20.213Z,"2 km W of The Geysers, CA",earthquake,0.99,1.15999997,0.05,12,automatic,nc,nc
+2025-09-24T03:52:33.020Z,38.773998260498,-122.77500152588,4.210000038147,0.76,md,11,137,0.00794,0.17,nc,nc75241207,2025-09-24T04:52:17.460Z,"2 km W of The Geysers, CA",earthquake,0.99,1.15999997,0.05,12,automatic,nc,nc
 2025-09-24T03:45:45.900Z,34.196,-117.47,8.62,0.69,ml,22,53,0.02723,0.14,ci,ci40449258,2025-09-24T03:49:15.845Z,"7 km WSW of Devore, CA",earthquake,0.24,0.34,0.299,17,automatic,ci,ci
 2025-09-24T03:27:47.016Z,62.5257,-152.1446,7.5,2.5,ml,,,,0.75,ak,ak025c9mfuil,2025-09-24T03:55:04.040Z,"71 km W of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-24T03:05:46.774Z,60.6866,-151.7916,88.6,1.3,ml,,,,0.22,ak,ak025c9mb4ut,2025-09-24T03:07:41.721Z,"27 km WNW of Salamatof, Alaska",earthquake,,1.8,,,automatic,ak,ak
