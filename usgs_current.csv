@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-28T23:52:36.762Z,37.5479,-117.7426,4.1,1.1,ml,13,146.59,0.256,0.2798,nn,nn00905140,2025-09-28T23:55:17.400Z,"24 km SSW of Silver Peak, Nevada",earthquake,,1.1,0.63,6,automatic,nn,nn
+2025-09-28T23:49:19.329Z,31.705,-104.188,4.2701,1.8,ml,30,59,0.1,0.3,tx,tx2025tdllia,2025-09-28T23:55:01.323Z,"55 km SSE of Whites City, New Mexico",earthquake,0,0.96645247936249,0.2,22,automatic,tx,tx
 2025-09-28T23:42:45.310Z,33.168,-116.4193333,8.73,0.74,ml,39,37,0.09183,0.2,ci,ci41100383,2025-09-28T23:46:14.799Z,"11 km SSW of Borrego Springs, CA",earthquake,0.21,0.71,0.121,12,automatic,ci,ci
 2025-09-28T23:24:29.970Z,35.0296667,-117.6816667,2.41,1.45,ml,39,69,0.09581,0.31,ci,ci41100375,2025-09-28T23:28:13.638Z,"4 km NW of Boron, CA",earthquake,0.43,1.06,0.1,28,automatic,ci,ci
 2025-09-28T23:06:50.764Z,66.2136,-143.8157,0,2.5,ml,,,,1.19,ak,ak025cgkdeaa,2025-09-28T23:09:48.140Z,"44 km NNE of Circle, Alaska",earthquake,,0.4,,,automatic,ak,ak
