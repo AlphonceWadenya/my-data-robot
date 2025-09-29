@@ -200,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T15:07:06.405Z,65.0244,-152.695,0,1.6,ml,,,,1.58,ak,ak025cgfm2eo,2025-09-28T15:09:34.209Z,"33 km WSW of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-28T15:04:48.934Z,59.3726,-151.8782,65.9,1.9,ml,,,,0.27,ak,ak025cgflijh,2025-09-28T15:05:59.748Z,"3 km NE of Nanwalek, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2025-09-28T14:59:17.883Z,57.4006,-154.9123,56.7,1.8,ml,,,,0.22,ak,ak025cgfbsx8,2025-09-28T15:01:37.214Z,"33 km SW of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2025-09-28T14:45:53.341Z,-18.1184,-178.2619,606.445,4.2,mb,37,126,2.789,0.76,us,us6000rdfx,2025-09-28T15:00:52.040Z,"256 km E of Levuka, Fiji",earthquake,11.54,9.264,0.06,78,reviewed,us,us
