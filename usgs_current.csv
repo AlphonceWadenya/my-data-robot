@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-30T22:35:26.730Z,33.9055,-118.2618333,28.75,1.89,ml,81,66,0.04339,0.23,ci,ci41101143,2025-09-30T22:40:17.389Z,"1 km SSW of Willowbrook, CA",earthquake,0.25,0.36,0.121,30,automatic,ci,ci
 2025-09-30T22:23:33.102Z,64.0274,-148.788,0,1.9,ml,,,,0.88,ak,ak025cjuya5a,2025-09-30T22:25:50.054Z,"16 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-30T22:11:51.872Z,62.21,-150.1026,19.7,1.4,ml,,,,0.5,ak,ak025cjuvr03,2025-09-30T22:14:18.679Z,"12 km S of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-30T22:06:09.380Z,33.3925,-116.3758333,2.23,0.98,ml,46,30,0.06304,0.22,ci,ci41101135,2025-09-30T22:09:38.201Z,"15 km N of Borrego Springs, CA",earthquake,0.19,0.36,0.151,26,automatic,ci,ci
@@ -262,4 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T22:48:54.342Z,-5.3606,151.72,68.174,5,mb,50,86,1.243,0.74,us,us6000rdp3,2025-09-30T00:42:39.040Z,"127 km SSW of Kokopo, Papua New Guinea",earthquake,9.94,5.598,0.073,60,reviewed,us,us
 2025-09-29T22:48:53.649Z,35.321,-97.92716667,6.85,1.47,ml,55,91,0.06928640364,0.15,ok,ok2025tcwm,2025-09-29T23:13:39.905Z,"1 km ENE of Minco, Oklahoma",earthquake,,0.2,0.23,26,reviewed,ok,ok
 2025-09-29T22:43:38.370Z,46.980166666667,-122.24266666667,-0.54,1.53,ml,17,257,0.01751,0.09,uw,uw62195851,2025-09-29T23:23:14.790Z,"1 km WSW of Kapowsin, Washington",explosion,0.44,31.61,0.047727378989917,8,reviewed,uw,uw
-2025-09-29T22:39:06.220Z,38.797668457031,-122.78050231934,3.1300001144409,0.36,md,11,77,0.007326,0.01,nc,nc75242641,2025-09-29T23:52:17.819Z,"3 km NW of The Geysers, CA",earthquake,0.45,1.28999996,0.23,11,automatic,nc,nc
