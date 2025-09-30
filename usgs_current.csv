@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T10:20:27.467Z,62.3527,-149.1133,11.7,1.5,ml,,,,0.4,ak,ak025ci092t6,2025-09-29T10:22:31.925Z,"43 km ENE of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-29T10:10:36.089Z,60.8286,-150.7979,38.8,1.5,ml,,,,0.37,ak,ak025ci06ybc,2025-09-29T10:12:34.153Z,"12 km SSW of Point Possession, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2025-09-29T10:07:14.440Z,41.1905,-116.7252,8.9,2.9,ml,14,137.53,0.314,0.1374,nn,nn00905151,2025-09-29T11:46:55.040Z,"55 km NE of Valmy, Nevada",earthquake,,2.1,0.19,9,reviewed,nn,nn
-2025-09-29T09:45:12.050Z,46.186,-122.19533333333,5.79,-0.03,ml,6,149,0.07145,0.06,uw,uw62195586,2025-09-29T18:59:52.790Z,"36 km NNE of Amboy, Washington",earthquake,0.33,1.21,0.1246669789361,4,reviewed,uw,uw
