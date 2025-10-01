@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-01T20:23:43.400Z,36.0626667,-117.642,1.79,0.95,ml,24,70,0.1067,0.14,ci,ci41101439,2025-10-01T20:27:13.232Z,"28 km E of Coso Junction, CA",earthquake,0.18,0.27,0.245,16,automatic,ci,ci
-2025-10-01T20:22:28.125Z,59.7815,-150.8752,36.4,3.6,ml,,,,0.75,ak,ak025clhajal,2025-10-01T20:35:20.284Z,"9 km SSE of Fox River, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-10-01T20:23:43.380Z,36.0643333,-117.6386667,2.27,1,ml,18,83,0.1098,0.11,ci,ci41101439,2025-10-01T20:43:51.991Z,"28 km E of Coso Junction, CA",earthquake,0.17,0.37,0.232,16,reviewed,ci,ci
+2025-10-01T20:22:28.125Z,59.7815,-150.8752,36.4,3.6,ml,,,,0.75,ak,ak025clhajal,2025-10-01T20:43:01.243Z,"9 km SSE of Fox River, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-01T20:06:04.756Z,31.648,-104.367,3.7814,2,ml,28,71,0.1,0.3,tx,tx2025tirfou,2025-10-01T20:09:15.254Z,"58 km S of Whites City, New Mexico",earthquake,0,1.0843871831894,0.2,21,automatic,tx,tx
 2025-10-01T19:41:15.190Z,38.794334411621,-122.77716827393,2.4000000953674,0.77,md,8,156,0.008479,0.01,nc,nc75243606,2025-10-01T20:07:18.649Z,"3 km NW of The Geysers, CA",earthquake,0.65,0.959999979,0.06,9,automatic,nc,nc
 2025-10-01T19:34:36.907Z,62.6274,-150.4595,75.2,1.4,ml,,,,0.52,ak,ak025clgrozt,2025-10-01T19:46:53.983Z,"21 km NE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
