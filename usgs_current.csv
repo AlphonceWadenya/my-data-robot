@@ -258,4 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T06:05:17.880Z,38.476166666667,-112.80683333333,4.31,0.27,md,14,181,0.0204,0.08,uu,uu80118446,2025-10-01T13:10:20.760Z,"19 km ENE of Milford, Utah",earthquake,0.42,0.56,0.53707507241274,5,reviewed,uu,uu
 2025-10-01T06:03:37.933Z,60.3878,-143.1626,9.7,2.6,ml,,,,0.75,ak,ak025cl8uf2c,2025-10-01T07:27:42.040Z,"117 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-01T05:56:39.420Z,38.80016708374,-122.76667022705,3.8399999141693,1.05,md,20,81,0.005456,0.02,nc,nc75243366,2025-10-01T06:47:21.927Z,"3 km NNW of The Geysers, CA",earthquake,0.31,0.639999986,0.14,21,automatic,nc,nc
-2025-10-01T05:48:37.806Z,60.3543,-143.1501,5.3,1.4,ml,,,,0.75,ak,ak025cl8immc,2025-10-01T05:51:31.783Z,"120 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
