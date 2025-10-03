@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-03T14:54:09.800Z,33.4256667,-116.6105,8.89,1.95,ml,15,63,0.0692,0.07,ci,ci41102135,2025-10-03T14:57:41.030Z,"16 km SSE of Anza, CA",earthquake,0.18,0.43,0.309,19,automatic,ci,ci
 2025-10-03T14:24:48.070Z,60.9376,-147.807,41.6,1.8,ml,,,,1.34,ak,ak025coot3nr,2025-10-03T14:27:17.716Z,"51 km ENE of Whittier, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-03T14:16:38.430Z,37.42166519165,-118.54666900635,7.1900000572205,1.59,md,8,176,0.09391,0.04,nc,nc75244331,2025-10-03T14:47:18.984Z,"5 km E of Round Valley, CA",earthquake,0.64,2.22000003,0.3,5,automatic,nc,nc
 2025-10-03T14:02:30.450Z,38.80350112915,-122.73783111572,2.0599999427795,0.77,md,9,117,0.02025,0.01,nc,nc75244326,2025-10-03T14:42:19.941Z,"2 km SSW of Cobb, CA",earthquake,0.35,1.38999999,0.05,8,automatic,nc,nc
-2025-10-03T13:59:23.770Z,40.367332458496,-121.97533416748,20.25,1.92,md,6,189,0.1578,0.09,nc,nc75244321,2025-10-03T14:27:18.833Z,"11 km WSW of Manton, CA",earthquake,1.22,3.72000003,0.13,7,automatic,nc,nc
+2025-10-03T13:59:23.770Z,40.367332458496,-121.97533416748,20.25,1.92,md,6,189,0.1578,0.09,nc,nc75244321,2025-10-03T14:57:17.059Z,"11 km WSW of Manton, CA",earthquake,1.22,3.72000003,0.13,7,automatic,nc,nc
 2025-10-03T13:42:49.286Z,31.9,-101.746,8.667,1.3,ml,20,58,0.1,0.1,tx,tx2025tlvzcg,2025-10-03T14:35:47.646Z,"25 km W of Garden City, Texas",earthquake,0.57061943429731,0.81517967837335,0.1,10,reviewed,tx,tx
 2025-10-03T13:39:58.680Z,32.92,-116.2331667,7.7,0.9,ml,32,45,0.06839,0.18,ci,ci41102119,2025-10-03T13:43:23.744Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.25,0.67,0.223,14,automatic,ci,ci
 2025-10-03T13:39:33.970Z,33.5368333,-116.8043333,5.82,1.14,ml,9,105,0.03364,0.02,ci,ci41102111,2025-10-03T13:43:06.108Z,"12 km NNE of Aguanga, CA",earthquake,0.21,0.41,0.307,14,automatic,ci,ci
