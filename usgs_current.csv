@@ -214,6 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T21:11:46.570Z,33.1623333,-116.4243333,9.08,1.98,ml,78,21,0.0856,0.2,ci,ci41102287,2025-10-03T21:22:43.180Z,"11 km SSW of Borrego Springs, CA",earthquake,0.12,0.46,0.187,26,automatic,ci,ci
 2025-10-03T21:10:58.680Z,40.39400100708,-121.96966552734,5.1300001144409,2.85,md,40,45,0.1448,0.25,nc,nc75244451,2025-10-04T06:52:45.277Z,"9 km WSW of Manton, CA",earthquake,0.36,1.54999995,0.11,32,automatic,nc,nc
 2025-10-03T20:45:37.190Z,36.007,-117.8015,1.6,0.94,ml,14,53,0.02517,0.1,ci,ci41102279,2025-10-03T21:00:21.219Z,"12 km NE of Little Lake, CA",earthquake,0.15,0.21,0.16,9,reviewed,ci,ci
-2025-10-03T20:39:24.099Z,57.975,-155.3039,86.7,1,ml,,,,0.07,ak,ak025cosgv6h,2025-10-03T20:41:11.861Z,"67 km NW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
-2025-10-03T20:38:42.013Z,-4.2645,152.6772,66.915,4.7,mb,72,90,0.517,0.41,us,us6000ren9,2025-10-04T16:41:06.040Z,"46 km E of Kokopo, Papua New Guinea",earthquake,6.47,6.504,0.065,71,reviewed,us,us
-2025-10-03T20:37:54.190Z,19.424666666667,-155.3805,9.57,1.77,ml,46,74,0.06249,0.1,hv,hv74791862,2025-10-04T01:10:06.590Z,"15 km W of Volcano, Hawaii",earthquake,0.25,0.49,0.22776019100961,27,reviewed,hv,hv
