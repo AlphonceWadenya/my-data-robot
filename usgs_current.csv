@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-05T16:50:01.815Z,61.6506,-150.4826,28.1,1.5,ml,,,,0.87,ak,ak025cs184wl,2025-10-05T16:52:02.661Z,"12 km N of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-05T16:16:01.780Z,47.561164855957,-122.20666503906,22.319999694824,1.5146842002869,ml,24,86,0.2991,0.569999993,uw,uw62189907,2025-10-05T16:42:14.360Z,"1 km SE of Mercer Island, Washington",earthquake,1.32,4.53999996,0.29918017983437,7,reviewed,uw,uw
-2025-10-05T16:11:10.870Z,34.439,-119.851,5.02,2.03,ml,48,51,0.02683,0.24,ci,ci41103151,2025-10-05T16:42:21.754Z,"2 km W of Goleta, CA",earthquake,0.25,0.44,0.155,26,automatic,ci,ci
+2025-10-05T16:11:10.870Z,34.439,-119.851,5.02,2.03,ml,48,51,0.02683,0.24,ci,ci41103151,2025-10-05T16:49:19.263Z,"2 km W of Goleta, CA",earthquake,0.25,0.44,0.155,26,automatic,ci,ci
 2025-10-05T16:02:04.870Z,38.823333740234,-122.84400177002,2.1199998855591,0.47,md,9,152,0.007012,0.01,nc,nc75245191,2025-10-05T16:17:19.412Z,"9 km NW of The Geysers, CA",earthquake,0.48,1.03999996,0.36,9,automatic,nc,nc
 2025-10-05T16:01:29.860Z,51.3924,159.4934,28.587,5.1,mb,76,126,1.714,0.8,us,us6000rez1,2025-10-05T16:47:41.040Z,"186 km SSE of Vilyuchinsk, Russia",earthquake,9.76,4.744,0.054,113,reviewed,us,us
 2025-10-05T15:54:13.830Z,47.576667785645,-122.21266937256,22.260000228882,1.6400613188744,ml,32,80,0.03207,0.109999999,uw,uw62189902,2025-10-05T16:41:41.340Z,"0 km NE of Mercer Island, Washington",earthquake,0.26,0.439999998,0.25967505574226,13,reviewed,uw,uw
@@ -222,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T17:10:34.585Z,31.713,-104.764,0.7109,1.9,mlv,14,248,0.2,0.7,tx,tx2025tnyozr,2025-10-05T05:15:39.603Z,"48 km ESE of Dell City, Texas",earthquake,0,3.7259020805359,0.1,12,automatic,tx,tx
 2025-10-04T16:56:14.390Z,48.3475,-124.83966666667,1.62,1.27,ml,11,260,0.1687,0.43,uw,uw62189297,2025-10-04T23:53:35.720Z,"16 km W of Neah Bay, Washington",earthquake,1.36,2.28,0.16005005571802,5,reviewed,uw,uw
 2025-10-04T16:54:16.667Z,32.115,-102.19,4.9473,1.1,mlv,22,79,0,0.4,tx,tx2025tnyayy,2025-10-04T23:32:28.450Z,"16 km NW of Midland, Texas",earthquake,0,1.0673565864563,0.2,15,automatic,tx,tx
-2025-10-04T16:48:10.630Z,34.8935,-118.7288333,9.88,1.49,ml,51,61,0.05502,0.15,ci,ci41102535,2025-10-04T16:59:03.280Z,"14 km ENE of Lebec, CA",earthquake,0.14,0.29,0.19,27,automatic,ci,ci
