@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-05T19:18:34.610Z,35.3478333,-117.7931667,6.19,1.01,ml,39,79,0.09106,0.18,ci,ci41103263,2025-10-05T19:22:03.357Z,"15 km W of Johannesburg, CA",earthquake,0.19,0.53,0.154,21,automatic,ci,ci
 2025-10-05T19:13:24.478Z,32.277,-101.919,3.5387,1.4,ml,37,40,0,0.5,tx,tx2025tpyjrt,2025-10-05T19:17:39.495Z,"20 km NW of Stanton, Texas",earthquake,0,0.78026795387268,0.2,25,automatic,tx,tx
 2025-10-05T19:05:41.780Z,34.323,-116.858,6.58,2.25,ml,95,26,0.03552,0.15,ci,ci41103247,2025-10-05T19:09:13.265Z,"7 km N of Big Bear City, CA",earthquake,0.09,0.34,0.155,25,automatic,ci,ci
 2025-10-05T19:04:14.443Z,58.3783,-136.8186,0,2.4,ml,,,,1,ak,ak025cs2qlr8,2025-10-05T19:06:48.960Z,"34 km NW of Elfin Cove, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T18:50:11.510Z,34.4993324,-118.1366653,13.94,1.06,ml,16,64,0.03106,0.16,ci,ci41103231,2025-10-05T18:52:14.998Z,"2 km W of Vincent, CA",earthquake,0.47,0.64,0.228,11,automatic,ci,ci
 2025-10-05T18:36:25.283Z,32.2167,-104.6293,6.046,2.5,ml,25,86,0.557,0.46,us,us6000rezf,2025-10-05T18:52:08.040Z,"24 km W of Whites City, New Mexico",earthquake,1.91,6.204,0.069,58,reviewed,us,us
 2025-10-05T18:34:55.330Z,38.783668518066,-122.75949859619,1.8999999761581,0.78,md,7,119,0.0178,0.02,nc,nc75245236,2025-10-05T19:17:20.754Z,"1 km NNW of The Geysers, CA",earthquake,0.48,1.08000004,0.07,8,automatic,nc,nc
-2025-10-05T18:28:45.718Z,14.8343,108.0503,10,4.8,mww,83,55,9.442,0.63,us,us6000reze,2025-10-05T19:17:09.256Z,"53 km N of Kon Tum, Vietnam",earthquake,10.18,1.8,0.071,19,reviewed,us,us
+2025-10-05T18:28:45.718Z,14.8343,108.0503,10,4.8,mww,83,55,9.442,0.63,us,us6000reze,2025-10-05T19:26:22.032Z,"53 km N of Kon Tum, Vietnam",earthquake,10.18,1.8,0.071,19,reviewed,us,us
 2025-10-05T18:15:45.360Z,33.7018333,-116.8131667,16.11,0.83,ml,37,58,0.07725,0.14,ci,ci41103223,2025-10-05T18:26:31.740Z,"9 km SE of Valle Vista, CA",earthquake,0.22,0.34,0.146,23,reviewed,ci,ci
 2025-10-05T18:11:52.130Z,33.5376667,-116.718,5.18,0.59,ml,19,54,0.03201,0.13,ci,ci41103215,2025-10-05T18:16:22.104Z,"4 km WSW of Anza, CA",earthquake,0.19,0.46,0.199,14,automatic,ci,ci
 2025-10-05T18:11:25.090Z,34.0346667,-117.1168333,4.47,0.78,ml,33,35,0.00376,0.17,ci,ci41103207,2025-10-05T18:21:40.182Z,"4 km SSE of Mentone, CA",earthquake,0.19,0.32,0.247,28,reviewed,ci,ci
