@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T16:08:18.097Z,32.122,-102.198,4.1719,1.2,ml,21,82,0,0.5,tx,tx2025tnwnda,2025-10-04T16:12:01.844Z,"17 km NW of Midland, Texas",earthquake,0,1.214338183403,0.2,12,automatic,tx,tx
 2025-10-04T16:00:53.590Z,37.594665527344,-122.46466827393,9.2200002670288,1.16,md,8,95,0.0309,0.02,nc,nc75244746,2025-10-04T16:52:20.316Z,"3 km SE of Pacifica, CA",earthquake,0.87,2.05999994,0.26,7,automatic,nc,nc
 2025-10-04T15:54:20.696Z,62.0208,-148.5308,11.8,1.2,ml,,,,0.75,ak,ak025cqd494o,2025-10-04T15:56:58.895Z,"25 km N of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-10-04T15:42:41.890Z,19.165166666667,-67.807166666667,10.69,3.41,md,22,256,0.8451,0.41,pr,pr71497003,2025-10-04T17:43:38.040Z,"90 km NE of Punta Cana, Dominican Republic",earthquake,3.33,4.38,0.080583236268094,13,reviewed,pr,pr
