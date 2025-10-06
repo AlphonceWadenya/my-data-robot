@@ -246,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T09:08:15.019Z,71.1768,-7.9169,10,5.2,mww,107,45,8.169,0.81,us,us6000rex4,2025-10-05T09:27:48.040Z,"40 km NE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,3.58,1.861,0.061,26,reviewed,us,us
 2025-10-05T08:57:33.120Z,35.9106667,-117.727,7.45,0.86,ml,28,39,0.07244,0.14,ci,ci41102831,2025-10-05T13:49:54.146Z,"16 km E of Little Lake, CA",earthquake,0.18,0.43,0.154,15,reviewed,ci,ci
 2025-10-05T08:57:13.803Z,30.951,-103.372,4.3054,1.7,ml,29,74,0.1,0.2,tx,tx2025tpdyto,2025-10-06T08:49:22.488Z,"35 km E of Balmorhea, Texas",earthquake,0.9707869678068,1.9569496591989,0.2,19,reviewed,tx,tx
-2025-10-05T08:53:42.510Z,33.1345,-115.9588333,5.37,0.84,ml,45,47,0.042,0.23,ci,ci41102823,2025-10-05T08:57:29.415Z,"16 km E of Ocotillo Wells, CA",earthquake,0.2,0.47,0.184,14,automatic,ci,ci
