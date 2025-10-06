@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-06T23:52:19.526Z,28.756,-98.455,8.7552,1.6,ml,9,107,0.1,0.2,tx,tx2025tsdixq,2025-10-06T23:54:34.051Z,"5 km SE of Christine, Texas",earthquake,0,3.4487919807434,0.2,6,automatic,tx,tx
 2025-10-06T23:49:23.149Z,28.749,-98.445,7.7294,1.8,ml,11,71,0.1,0.4,tx,tx2025tsdgjs,2025-10-06T23:52:41.557Z,"6 km SE of Christine, Texas",earthquake,0,2.9070756435394,0.2,7,automatic,tx,tx
 2025-10-06T23:43:12.941Z,28.737,-98.49,9.5445,1.6,ml,9,102,0.1,0.4,tx,tx2025tsdbak,2025-10-06T23:50:44.546Z,"5 km S of Christine, Texas",earthquake,0,4.5427317619324,0.2,7,automatic,tx,tx
 2025-10-06T23:42:35.385Z,36.7673,-116.2691,14.6,-0.2,ml,11,90.01,0.059,0.0989,nn,nn00905512,2025-10-06T23:44:26.684Z,"46 km ESE of Beatty, Nevada",earthquake,,1.5,0.41,5,automatic,nn,nn
