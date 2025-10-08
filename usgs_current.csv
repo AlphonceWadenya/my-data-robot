@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-08T09:50:29.510Z,38.642665863037,-119.74549865723,-1.6399999856949,2.69,md,38,63,0.2724,0.18,nc,nc75246451,2025-10-08T09:52:04.868Z,"7 km SE of Markleeville, CA",earthquake,0.29,1.87,0.16,26,automatic,nc,nc
+2025-10-08T09:46:19.390Z,36.574333190918,-121.19866943359,7.0900001525879,3.19,ml,73,45,0.011,0.29,nc,nc75246446,2025-10-08T09:52:06.400Z,"7 km NW of Pinnacles, CA",earthquake,0.3,0.800000012,0.266,29,automatic,nc,nc
 2025-10-08T09:38:42.040Z,38.644664764404,-119.74099731445,-1.9800000190735,2.47,md,14,63,0.2692,0.16,nc,nc75246441,2025-10-08T09:47:22.424Z,"7 km SE of Markleeville, CA",earthquake,0.45,2.08999991,0.23,9,automatic,nc,nc
 2025-10-08T09:18:43.184Z,38.4584,-116.491,3.5,1.7,ml,10,229.2,1.254,0.1603,nn,nn00905634,2025-10-08T09:21:38.155Z,"77 km ENE of Tonopah, Nevada",earthquake,,2.2,0.55,4,automatic,nn,nn
 2025-10-08T09:03:51.290Z,19.13116645813,-155.50132751465,36.720001220703,2.47,ml,15,222,0.1443,0.140000001,hv,hv74797782,2025-10-08T09:07:45.650Z,"8 km SSW of Pāhala, Hawaii",earthquake,1.29,1.13999999,2.11,4,automatic,hv,hv
