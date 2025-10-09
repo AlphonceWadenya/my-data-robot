@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-09T23:53:35.903Z,62.1863,-148.0159,29.7,1.1,ml,,,,0.33,ak,ak025cyrk9w6,2025-10-09T23:55:12.559Z,"46 km NNW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-09T23:50:23.687Z,63.2155,-152.1155,2.6,1.7,ml,,,,0.59,ak,ak025cyrjlyn,2025-10-09T23:54:04.489Z,"41 km SSW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-09T23:50:00.191Z,62.2908,-146.3946,13.3,1.5,ml,,,,1.32,ak,ak025cyrjjzn,2025-10-09T23:52:18.679Z,"8 km E of Lake Louise, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-09T23:33:39.588Z,62.1911,-150.9964,67.9,1.6,ml,,,,0.37,ak,ak025cyrfzuu,2025-10-09T23:35:34.759Z,"30 km NE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-09T23:14:07.130Z,36.675998687744,-121.34149932861,1.5599999427795,1.78,md,22,53,0.03166,0.19,nc,nc75247151,2025-10-09T23:37:18.663Z,"13 km S of Tres Pinos, CA",earthquake,0.39,1.02999997,0.29,20,automatic,nc,nc
@@ -196,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T00:13:38.443Z,62.0563,-147.172,18.5,1.3,ml,,,,0.3,ak,ak025cydmqj8,2025-10-09T00:15:03.577Z,"13 km N of Eureka Roadhouse, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-10-09T00:12:36.820Z,38.820167541504,-122.7936630249,2.7400000095367,0.75,md,12,56,0.01225,0.02,nc,nc75246801,2025-10-09T01:32:19.214Z,"6 km NW of The Geysers, CA",earthquake,0.34,0.74000001,0.17,14,automatic,nc,nc
 2025-10-09T00:07:27.730Z,33.6845,-116.7108333,14.85,0.65,ml,31,58,0.02954,0.15,ci,ci41105503,2025-10-09T00:12:02.610Z,"6 km S of Idyllwild, CA",earthquake,0.22,0.37,0.185,14,automatic,ci,ci
-2025-10-08T23:54:05.825Z,39.2473,29.0904,7.379,4.9,mww,33,42,1.578,0.6,us,us6000rfqg,2025-10-09T10:59:51.267Z,"17 km SW of Emet, Turkey",earthquake,5.05,5.805,0.073,18,reviewed,us,us
