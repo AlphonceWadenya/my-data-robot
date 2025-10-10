@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-10-10T07:25:53.005Z,32.156,-101.797,4.0447,1,ml,24,58,0.1,0.4,tx,tx2025tyfokp,2025-10-10T07:31:00.435Z,"3 km NNW of Stanton, Texas",earthquake,0,1.1385674476624,0.2,14,automatic,tx,tx
+2025-10-10T07:24:12.212Z,7.009,126.849,74.197,5.2,mb,61,108,1.262,1.05,us,us6000rg1n,2025-10-10T07:42:50.040Z,"41 km ESE of Manay, Philippines",earthquake,8.85,7.106,0.049,138,reviewed,us,us
 2025-10-10T07:14:55.400Z,38.820667266846,-122.81016540527,2.8800001144409,1.81,md,39,39,0.01719,0.05,nc,nc75247246,2025-10-10T07:32:18.091Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.310000002,0.12,36,automatic,nc,nc
 2025-10-10T06:58:54.930Z,34.2678333,-117.0771667,3.68,1.56,ml,85,30,0.06042,0.16,ci,ci41106071,2025-10-10T07:09:18.440Z,"7 km NNE of Running Springs, CA",earthquake,0.12,0.32,0.098,26,automatic,ci,ci
 2025-10-10T06:47:25.072Z,32.116,-101.919,4.1305,1.6,ml,66,38,0.1,0.4,tx,tx2025tyehgo,2025-10-10T06:51:57.063Z,"12 km W of Stanton, Texas",earthquake,0,0.68251127004623,0.2,40,automatic,tx,tx
