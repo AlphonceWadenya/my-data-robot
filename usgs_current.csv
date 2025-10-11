@@ -243,5 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-10T14:05:34.700Z,59.365166666667,-153.44233333333,0.02,-0.27,ml,5,151,0.002846,0.04,av,av93814108,2025-10-10T21:21:32.160Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.23,0.19,0.32130384756732,5,reviewed,av,av
 2025-10-10T14:01:51.170Z,44.729666666667,-111.12633333333,13.15,1.13,ml,15,72,0.05409,0.17,uu,uu80119161,2025-10-10T15:38:59.130Z,"6 km SE of Hebgen Lake Estates, Montana",earthquake,0.43,0.99,0.24925056749181,3,reviewed,uu,uu
 2025-10-10T14:01:27.830Z,57.6302,-155.3549,22.2,1.4,ml,,,,0.18,ak,ak025d09fk33,2025-10-10T14:03:09.944Z,"54 km W of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
-2025-10-10T13:54:18.450Z,44.7305,-111.1255,12.87,1.58,ml,20,71,0.05432,0.15,uu,uu80119156,2025-10-10T15:32:13.810Z,"6 km SE of Hebgen Lake Estates, Montana",earthquake,0.3,0.56,0.3225972980506,5,reviewed,uu,uu
-2025-10-10T13:54:02.120Z,38.798667907715,-122.74816894531,1.1000000238419,0.98,md,11,101,0.01782,0.02,nc,nc75247361,2025-10-10T14:47:18.206Z,"2 km NNE of The Geysers, CA",earthquake,0.28,0.860000014,0.17,11,automatic,nc,nc
