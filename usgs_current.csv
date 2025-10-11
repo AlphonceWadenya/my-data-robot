@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-10T22:57:50.709Z,63.3294,-145.1099,0,1.9,ml,,,,1.42,ak,ak025d0ej2sr,2025-10-10T23:02:33.801Z,"36 km NE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-10T22:48:26.980Z,33.2966667,-116.3311667,10.45,1.71,ml,76,19,0.0425,0.2,ci,ci41106455,2025-10-10T22:59:08.280Z,"6 km NE of Borrego Springs, CA",earthquake,0.13,0.28,0.134,27,automatic,ci,ci
 2025-10-10T22:40:58.160Z,44.7865,-122.67433333333,-0.44,1.81,ml,14,87,0.02199,0.21,uw,uw62200326,2025-10-11T02:09:04.890Z,"4 km W of Mehama, Oregon",explosion,0.42,31.61,0.069931369286785,6,reviewed,uw,uw
-2025-10-10T22:38:01.064Z,38.1875,-117.7628,13.1,1.4,ml,11,82.35,0.175,0.1544,nn,nn00905788,2025-10-11T00:21:31.039Z,"37 km SE of Mina, Nevada",earthquake,,3.5,0.33,6,reviewed,nn,nn
