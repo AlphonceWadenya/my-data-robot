@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-13T15:42:05.920Z,33.7150002,-116.8284988,17.06,1.94,ml,55,32,0.0842,0.19,ci,ci41107703,2025-10-13T15:44:29.004Z,"7 km ESE of Valle Vista, CA",earthquake,0.23,0.5,0.365,25,automatic,ci,ci
+2025-10-13T15:42:05.890Z,33.7131667,-116.8298333,17.2,1.8,ml,70,19,0.08256,0.18,ci,ci41107703,2025-10-13T15:45:47.670Z,"7 km ESE of Valle Vista, CA",earthquake,0.14,0.28,0.219,26,automatic,ci,ci
 2025-10-13T15:38:20.870Z,33.9216667,-118.2956667,19.31,2.1,ml,42,61,0.02581,0.18,ci,ci41107695,2025-10-13T15:41:56.000Z,"4 km W of Willowbrook, CA",earthquake,0.6,0.87,0.162,27,automatic,ci,ci
 2025-10-13T15:35:19.160Z,19.416500091553,-155.26916503906,1.7699999809265,1.83,ml,23,84,0.009804,0.189999998,hv,hv74803976,2025-10-13T15:38:11.810Z,"4 km SW of Volcano, Hawaii",earthquake,0.21,0.230000004,0.2,18,automatic,hv,hv
 2025-10-13T15:29:13.044Z,59.827,-153.2965,127.4,2.3,ml,,,,0.94,ak,ak025d58szxm,2025-10-13T15:41:41.327Z,"45 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -148,7 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-12T22:40:07.258Z,59.8529,-153.4186,32.6,1.7,ml,,,,1.05,ak,ak025d3pi191,2025-10-12T22:42:09.664Z,"39 km E of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-12T22:38:45.106Z,31.611,-104.189,1.8958,1.6,ml,15,66,0.1,0.1,tx,tx2025udbgvm,2025-10-13T12:41:22.756Z,"49 km NW of Toyah, Texas",earthquake,1.5694375327367,1.3735529459542,0.1,7,reviewed,tx,tx
 2025-10-12T22:37:25.330Z,57.6571,-155.4037,18.2,1.7,ml,,,,0.25,ak,ak025d3phfhx,2025-10-12T22:38:50.650Z,"57 km W of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-10-12T22:31:10.589Z,32.1,-101.466,4.4145,1,mlv,11,149,0.1,0.4,tx,tx2025udbahu,2025-10-12T23:15:38.103Z,"9 km W of Forsan, Texas",earthquake,0,1.8534317016602,0.2,7,automatic,tx,tx
+2025-10-12T22:31:11.075Z,32.11,-101.463,8.1787,1.1,ml,18,79,0.1,0.1,tx,tx2025udbahu,2025-10-13T15:51:14.449Z,"9 km W of Forsan, Texas",earthquake,0.7653217625789,1.68825116386,0,6,reviewed,tx,tx
 2025-10-12T22:30:34.224Z,-9.2064,124.1397,74.398,4.3,mb,13,124,0.56,0.54,us,us6000rgs9,2025-10-12T23:08:08.040Z,"26 km W of Pante Makasar, Timor Leste",earthquake,9.16,8.023,0.161,11,reviewed,us,us
 2025-10-12T22:26:47.283Z,57.8185,-155.7362,8.5,2,ml,,,,0.26,ak,ak025d3pf3kh,2025-10-12T22:40:09.040Z,"81 km WNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-12T22:13:02.641Z,32.006,-101.686,8.96,1.4,ml,24,86,0.1,0.1,tx,tx2025udakre,2025-10-13T07:41:52.924Z,"16 km SE of Stanton, Texas",earthquake,0.51683877453674,0.77569503824178,0.2,15,reviewed,tx,tx
@@ -199,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-12T16:38:09.550Z,35.449,-91.656166666667,8.4,1.68,md,10,157,0.1054,0.1,nm,nm60504303,2025-10-13T13:04:56.540Z,"11 km SSW of Pleasant Plains, Arkansas",earthquake,1.75,2.33,0.16527704888641,7,reviewed,nm,nm
 2025-10-12T16:31:06.250Z,38.830001831055,-122.81466674805,1.9700000286102,1.53,md,26,64,0.007509,0.02,nc,nc75248266,2025-10-12T17:07:16.930Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.319999993,0.15,26,automatic,nc,nc
 2025-10-12T16:01:39.134Z,31.969,-102.31,7.2021,0.9,ml,18,81,0,0.2,tx,tx2025ucocqh,2025-10-13T13:23:10.459Z,"8 km SE of Gardendale, Texas",earthquake,0.76451793941468,0.82581688836345,0.1,5,reviewed,tx,tx
-2025-10-12T15:47:35.890Z,29.071,-97.83,7.1962,1.7,ml,22,82,0,0.3,tx,tx2025ucnqmq,2025-10-13T14:46:57.578Z,"20 km ENE of Falls City, Texas",earthquake,0.51900433619787,0.55630998032202,0.2,12,reviewed,tx,tx
