@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-15T00:05:12.567Z,-17.6567,-71.6652,53.676,4,mb,22,133,1.446,0.91,us,us6000rh7c,2025-10-15T00:56:36.040Z,"34 km W of Pacocha, Peru",earthquake,3.62,11.765,0.212,6,reviewed,us,us
 2025-10-14T23:57:23.460Z,36.033668518066,-120.6061630249,-0.50999999046326,1.68,md,18,101,0.03598,0.06,nc,nc75249316,2025-10-15T01:17:23.037Z,"22 km NW of Parkfield, CA",earthquake,0.29,1.5,0.26,8,automatic,nc,nc
 2025-10-14T23:57:14.562Z,30.933,-103.55,4.5361,2.3,ml,16,76,0.2,0.2,tx,tx2025ugvifd,2025-10-15T19:28:10.036Z,"19 km ESE of Balmorhea, Texas",earthquake,1.1526251280157,2.1910034226391,0.1,17,reviewed,tx,tx
-2025-10-14T23:47:48.662Z,32.108,-101.926,8.5693,0.7,ml,22,60,0.1,0.2,tx,tx2025ugvaat,2025-10-15T12:25:10.472Z,"13 km W of Stanton, Texas",earthquake,0.56115413451973,1.112147301647,0.2,13,reviewed,tx,tx
