@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-15T11:24:51.738Z,60.6184,-152.5749,11.3,1.6,ml,,,,0.87,ak,ak025d8hgz23,2025-10-15T11:28:44.117Z,"68 km W of Salamatof, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-15T11:08:22.910Z,38.790000915527,-122.75316619873,3.3499999046326,0.8,md,11,83,0.01452,0.01,nc,nc75249586,2025-10-15T11:09:57.848Z,"1 km N of The Geysers, CA",earthquake,0.33,1.05999994,0.12,11,automatic,nc,nc
 2025-10-15T11:06:29.300Z,40.611499786377,-121.79550170898,26.530000686646,1.79,md,8,158,0.1194,0.24,nc,nc75249581,2025-10-15T11:08:08.077Z,"14 km NW of Viola, CA",earthquake,2.08,4.86999989,0.13,6,automatic,nc,nc
 2025-10-15T11:04:50.777Z,62.3977,-148.4788,32.3,1,ml,,,,0.41,ak,ak025d8hconp,2025-10-15T11:06:38.887Z,"66 km N of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -207,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-14T11:45:55.025Z,61.6619,-146.1451,6.7,2.6,ml,,,,0.78,ak,ak025d6u24zh,2025-10-15T09:44:09.040Z,"47 km S of Tolsona, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-14T11:37:22.240Z,36.554332733154,-121.13216400147,6.9699997901917,0.89,md,6,144,0.04623,0.07,nc,nc75249056,2025-10-14T12:17:19.313Z,"3 km NNE of Pinnacles, CA",earthquake,0.95,2.53999996,0.34,6,automatic,nc,nc
 2025-10-14T11:31:08.465Z,60.1252,-152.6028,99.6,1.6,ml,,,,0.43,ak,ak025d6tz18e,2025-10-14T11:32:54.396Z,"52 km WNW of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-10-14T11:25:13.210Z,33.6003333,-116.6261667,14.92,0.81,ml,10,93,0.03377,0.06,ci,ci41108111,2025-10-14T13:20:35.800Z,"7 km NE of Anza, CA",earthquake,0.61,0.86,0.177,20,reviewed,ci,ci
