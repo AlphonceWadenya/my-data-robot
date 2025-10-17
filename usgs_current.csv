@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-17T09:51:33.880Z,19.480667114258,-155.48100280762,2.4100000858307,2.05,ml,45,38,0.05128,0.310000002,hv,hv74806976,2025-10-17T09:55:28.490Z,"26 km W of Volcano, Hawaii",earthquake,0.34,1.71000004,0.7,13,automatic,hv,hv
 2025-10-17T09:48:23.737Z,28.991,-98.193,8.6097,1.6,ml,7,231,0.1,0.3,tx,tx2025ulgjjn,2025-10-17T09:51:34.114Z,"13 km SW of Poth, Texas",earthquake,0,5.9033555984497,0.1,7,automatic,tx,tx
 2025-10-17T09:43:01.392Z,57.8852,-155.0821,24,1.2,ml,,,,0.56,ak,ak025dbrgrjv,2025-10-17T09:45:46.032Z,"51 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-17T09:39:16.197Z,28.976,-98.161,7.9036,2.3,ml,18,98,0.1,0.4,tx,tx2025ulgbna,2025-10-17T09:41:29.070Z,"12 km SW of Poth, Texas",earthquake,0,3.0226612091064,0.2,14,automatic,tx,tx
@@ -254,5 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-16T10:17:47.290Z,33.5341667,-116.7236667,6.07,0.43,ml,27,40,0.03317,0.11,ci,ci41108911,2025-10-16T10:21:13.929Z,"5 km WSW of Anza, CA",earthquake,0.13,0.33,0.279,12,automatic,ci,ci
 2025-10-16T10:12:10.527Z,59.9011,-152.2322,86.3,2.4,ml,,,,0.35,ak,ak025da4c865,2025-10-16T10:16:49.963Z,"26 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-16T09:59:32.874Z,-34.3728,-179.1204,49.071,4.9,mb,30,220,3.806,1.14,us,us6000rhht,2025-10-16T10:32:23.040Z,"south of the Kermadec Islands",earthquake,13.55,11.91,0.177,19,reviewed,us,us
-2025-10-16T09:54:56.866Z,62.5333,-151.2832,93.7,2.3,ml,,,,0.62,ak,ak025da3zw99,2025-10-16T10:07:26.794Z,"26 km W of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-10-16T09:53:25.170Z,33.1446667,-116.6298333,3.12,0.45,ml,29,69,0.05627,0.18,ci,ci41108903,2025-10-16T09:56:51.339Z,"8 km NNW of Julian, CA",earthquake,0.21,0.58,0.156,6,automatic,ci,ci
