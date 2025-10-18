@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-18T07:38:46.660Z,33.5516667,-117.2156667,11.53,0.62,ml,38,50,0.05107,0.23,ci,ci41110607,2025-10-18T07:42:14.040Z,"0 km SSW of Murrieta, CA",earthquake,0.24,0.59,0.202,19,automatic,ci,ci
 2025-10-18T07:37:22.570Z,38.839668273926,-122.74133300781,0.58999997377396,1.03,md,10,188,0.02414,0.03,nc,nc75250941,2025-10-18T07:38:56.823Z,"3 km NW of Cobb, CA",earthquake,0.44,0.879999995,0.07,11,automatic,nc,nc
 2025-10-18T07:37:03.060Z,38.817333221435,-122.78583526611,1.3400000333786,1.04,md,15,50,0.005722,0.03,nc,nc75250936,2025-10-18T07:38:41.679Z,"5 km NNW of The Geysers, CA",earthquake,0.25,0.449999988,0.07,16,automatic,nc,nc
 2025-10-18T07:36:35.170Z,38.817001342773,-122.78733062744,1.5299999713898,1.03,md,11,79,0.006397,0.02,nc,nc75250931,2025-10-18T07:38:11.796Z,"5 km NNW of The Geysers, CA",earthquake,0.33,0.469999999,0.29,12,automatic,nc,nc
