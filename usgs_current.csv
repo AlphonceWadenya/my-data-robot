@@ -174,4 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-17T07:17:18.550Z,17.901666666667,-66.955,7.62,2.22,md,6,239,0.1026,0.08,pr,pr71498258,2025-10-17T07:26:38.780Z,"9 km SSW of Guánica, Puerto Rico",earthquake,1.14,0.33,0.12615236905301,4,reviewed,pr,pr
 2025-10-17T07:09:48.190Z,51.646666666667,179.9355,4.02,2.73,ml,9,268,0.3034,0.2,av,av93828726,2025-10-18T06:17:14.510Z,"238 km W of Adak, Alaska",earthquake,1.11,0.76,0.20059105587058,9,reviewed,av,av
 2025-10-17T07:02:00.130Z,18.172,-67.0285,24.8,2.34,md,15,71,0.05462,0.16,pr,pr71498243,2025-10-17T07:14:17.730Z,"5 km W of Maricao, Puerto Rico",earthquake,0.4,0.88,0.022800972302151,4,reviewed,pr,pr
-2025-10-17T06:57:52.920Z,33.0891667,-116.0315,8.82,0.7,ml,29,80,0.09543,0.2,ci,ci41109895,2025-10-17T07:01:21.863Z,"11 km ESE of Ocotillo Wells, CA",earthquake,0.23,0.73,0.175,10,automatic,ci,ci
