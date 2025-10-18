@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-18T16:55:08.996Z,63.6462,-149.8984,138.7,1.9,ml,,,,0.26,ak,ak025ddj8r2o,2025-10-18T16:59:24.422Z,"49 km WSW of Denali Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-10-18T16:43:45.022Z,61.5457,-146.3101,19.2,2.5,ml,,,,0.83,ak,ak025ddj68ox,2025-10-18T16:46:50.120Z,"46 km N of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-18T16:25:35.390Z,33.5465,-116.4115,3.28,0.84,ml,46,35,0.1049,0.16,ci,ci41110847,2025-10-18T16:29:29.043Z,"16 km SW of La Quinta, CA",earthquake,0.16,0.52,0.19,25,automatic,ci,ci
 2025-10-18T16:19:33.403Z,31.648,-104.561,2.9932,1.5,ml,14,116,0.1,0.2,tx,tx2025unpbds,2025-10-18T16:21:51.684Z,"61 km SSW of Whites City, New Mexico",earthquake,0,1.7789833545685,0.2,11,automatic,tx,tx
