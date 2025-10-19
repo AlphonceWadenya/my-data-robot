@@ -187,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-18T14:21:01.031Z,-20.6515,-69.032,100.184,4.5,mb,18,140,0.52,0.46,us,us6000ri1b,2025-10-18T14:56:51.040Z,"73 km ESE of La Tirana, Chile",earthquake,6.28,5.207,0.156,12,reviewed,us,us
 2025-10-18T14:08:26.679Z,50.8941,-173.1051,41.9,3.6,ml,,,,0.58,ak,ak025ddhrv76,2025-10-18T20:26:36.023Z,"163 km SSE of Atka, Alaska",earthquake,,317.8,,,reviewed,ak,ak
 2025-10-18T14:01:32.280Z,19.404499053955,-155.26983642578,-0.25999999046326,1.83,ml,16,62,0.007186,0.119999997,hv,hv74807781,2025-10-18T14:04:24.110Z,"5 km SW of Volcano, Hawaii",earthquake,0.14,0.209999993,0.22,8,automatic,hv,hv
-2025-10-18T13:57:14.860Z,54.754,-164.0005,2.18,0.83,ml,5,107,0.04468,0.21,av,av93831251,2025-10-19T01:15:07.610Z,"39 km WSW of False Pass, Alaska",earthquake,0.6,2.7,0.29841120181517,5,reviewed,av,av
