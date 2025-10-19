@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-19T20:34:30.130Z,33.0921669,-116.0336685,8.87,1.31,ml,26,57,0.0937,0.17,ci,ci41111431,2025-10-19T20:36:33.620Z,"11 km ESE of Ocotillo Wells, CA",earthquake,0.28,1.26,0.161,4,automatic,ci,ci
+2025-10-19T20:34:30.090Z,33.0926667,-116.0335,10.01,1.08,ml,42,44,0.0932,0.19,ci,ci41111431,2025-10-19T20:38:16.864Z,"11 km ESE of Ocotillo Wells, CA",earthquake,0.18,0.54,0.14,20,automatic,ci,ci
 2025-10-19T20:33:43.489Z,62.0111,-145.4524,26.9,1.6,ml,,,,0.44,ak,ak025df914e0,2025-10-19T20:36:23.490Z,"4 km SSW of Copperville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-19T20:33:14.667Z,63.5528,-150.7554,5.4,1.6,ml,,,,1.73,ak,ak025df91422,2025-10-19T20:36:21.565Z,"48 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-19T20:04:49.930Z,33.2525,-116.3966667,5.14,0.72,ml,12,121,0.02324,0.14,ci,ci41111423,2025-10-19T20:09:31.677Z,"2 km W of Borrego Springs, CA",earthquake,0.58,0.63,0.127,16,automatic,ci,ci
