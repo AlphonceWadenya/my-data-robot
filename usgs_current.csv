@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-20T11:49:01.470Z,33.1948318,-116.3843307,13.22,1.05,ml,25,71,0.07817,0.21,ci,ci41111623,2025-10-20T11:51:11.328Z,"7 km S of Borrego Springs, CA",earthquake,0.51,0.96,0.302,5,automatic,ci,ci
+2025-10-20T11:49:01.500Z,33.1898333,-116.3896667,13.36,0.83,ml,49,34,0.08148,0.18,ci,ci41111623,2025-10-20T11:52:30.759Z,"8 km S of Borrego Springs, CA",earthquake,0.19,0.45,0.164,19,automatic,ci,ci
 2025-10-20T11:40:09.710Z,38.833999633789,-122.80750274658,2.1600000858307,0.72,md,9,68,0.01411,0.01,nc,nc75251946,2025-10-20T11:41:47.567Z,"7 km W of Cobb, CA",earthquake,0.37,1.25999999,0.1,11,automatic,nc,nc
+2025-10-20T11:35:51.115Z,6.9405,127.3427,10,5.8,mww,90,51,1.755,1.31,us,us6000ri9x,2025-10-20T11:54:35.040Z,"93 km ESE of Santiago, Philippines",earthquake,6.95,1.853,0.044,50,reviewed,us,us
 2025-10-20T10:48:38.924Z,61.5701,-149.8092,38.5,1.4,ml,,,,0.59,ak,ak025dgqpe44,2025-10-20T11:00:41.235Z,"6 km S of Houston, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-10-20T10:47:18.990Z,38.820331573486,-122.80666351318,3.0699999332428,0.77,md,10,108,0.0152,0.02,nc,nc75251936,2025-10-20T11:22:18.654Z,"6 km NW of The Geysers, CA",earthquake,0.46,1.09000003,0.15,10,automatic,nc,nc
 2025-10-20T10:46:55.160Z,35.9593333,-117.674,2.58,1.37,ml,28,45,0.0223,0.16,ci,ci41111615,2025-10-20T10:50:22.368Z,"21 km E of Little Lake, CA",earthquake,0.18,0.24,0.181,23,automatic,ci,ci
