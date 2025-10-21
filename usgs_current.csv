@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-21T20:52:15.180Z,37.861000061035,-122.24366760254,9.0100002288818,0.83,md,12,77,0.0139,0.04,nc,nc75252601,2025-10-21T20:53:53.134Z,"3 km ESE of Berkeley, CA",earthquake,0.43,0.50999999,0.22,7,automatic,nc,nc
+2025-10-21T20:50:56.280Z,60.7497,-150.5222,48.3,1.9,ml,,,,0.36,ak,ak025dik7jfg,2025-10-21T20:52:22.283Z,"21 km SSE of Point Possession, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2025-10-21T20:41:04.040Z,38.819499969482,-122.80533599853,2.9400000572205,1.65,md,28,37,0.01393,0.03,nc,nc75252596,2025-10-21T20:42:38.902Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.400000006,0.15,31,automatic,nc,nc
-2025-10-21T20:39:35.176Z,62.96,-150.4362,86.6,1.6,ml,,,,0.52,ak,ak025dik54x9,2025-10-21T20:42:08.582Z,"54 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-10-21T20:39:35.126Z,62.9588,-150.44,87.3,1.6,ml,,,,0.52,ak,ak025dik54x9,2025-10-21T20:51:42.775Z,"54 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-21T20:35:05.081Z,32.118,-101.918,4.4175,1.6,ml,55,36,0.1,0.4,tx,tx2025utksek,2025-10-21T20:39:57.017Z,"12 km W of Stanton, Texas",earthquake,0,0.71485155820847,0.2,36,automatic,tx,tx
 2025-10-21T20:18:13.650Z,38.761165618896,-122.73249816894,2.960000038147,0.96,md,13,105,0.01263,0.02,nc,nc75252586,2025-10-21T20:19:47.214Z,"3 km SE of The Geysers, CA",earthquake,0.3,0.560000002,0.16,12,automatic,nc,nc
 2025-10-21T20:17:44.540Z,38.794498443604,-122.75233459473,1.6499999761581,0.77,md,8,89,0.01659,0.01,nc,nc75252581,2025-10-21T20:19:22.534Z,"2 km N of The Geysers, CA",earthquake,0.31,1,0.05,7,automatic,nc,nc
@@ -217,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-20T21:06:23.223Z,32.22,-101.408,8.4717,2,ml,30,82,0,0.1,tx,tx2025urqagq,2025-10-20T22:30:01.450Z,"7 km ESE of Big Spring, Texas",earthquake,0.37156309332976,0.67875844417434,0.1,17,reviewed,tx,tx
 2025-10-20T21:05:26.132Z,58.3514,-153.9642,63.7,1.8,ml,,,,0.42,ak,ak025dgwzwzp,2025-10-20T21:07:30.791Z,"69 km WNW of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-20T21:02:30.430Z,33.8436667,-117.4901667,-0.5,1.29,ml,44,48,0.0458,0.2,ci,ci41111847,2025-10-21T15:51:37.440Z,"5 km SE of Home Gardens, CA",quarry blast,0.33,31.61,0.113,34,reviewed,ci,ci
-2025-10-20T20:50:39.500Z,32.273,-101.924,7.1533,1,ml,24,50,0,0.1,tx,tx2025urpmsm,2025-10-20T23:28:57.263Z,"20 km NW of Stanton, Texas",earthquake,0.39268839950256,0.76984318131813,0.1,12,reviewed,tx,tx
