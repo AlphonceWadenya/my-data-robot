@@ -161,4 +161,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-22T19:21:00.940Z,34.1175,-117.4758333,6.93,2.65,ml,131,18,0.03558,0.22,ci,ci41112879,2025-10-23T04:15:23.430Z,"3 km NW of Fontana, CA",earthquake,0.11,0.32,0.134,234,reviewed,ci,ci
 2025-10-22T19:20:55.300Z,33.7198333,-116.828,16.57,1.69,ml,35,35,0.0863,0.16,ci,ci41112863,2025-10-22T22:50:01.252Z,"7 km ESE of Valle Vista, CA",earthquake,0.22,0.44,0.179,10,reviewed,ci,ci
 2025-10-22T19:00:36.620Z,46.011333333333,-112.474,-2,1.73,ml,13,120,0.05591,0.15,mb,mb90118198,2025-10-22T21:41:25.450Z,"4 km E of Butte, Montana",quarry blast,0.4,31.61,0.22340308185327,23,reviewed,mb,mb
-2025-10-22T18:58:28.793Z,14.3641,-91.7665,89.921,4.7,mb,110,40,1.94,0.82,us,us6000riqw,2025-10-22T23:54:03.622Z,"17 km ENE of Champerico, Guatemala",earthquake,9.3,5.188,0.033,272,reviewed,us,us
