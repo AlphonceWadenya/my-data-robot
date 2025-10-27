@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-27T11:49:24.530Z,33.5311661,-116.7304993,4.32,1.19,ml,34,47,0.07077,0.15,ci,ci41320880,2025-10-27T11:51:27.112Z,"6 km WSW of Anza, CA",earthquake,0.24,0.53,0.224,15,automatic,ci,ci
+2025-10-27T11:50:14.400Z,34.0238333,-117.2111667,12.75,0.9,ml,46,41,0.08283,0.16,ci,ci41320888,2025-10-27T11:54:52.285Z,"4 km SW of Redlands, CA",earthquake,0.19,0.53,0.179,30,automatic,ci,ci
+2025-10-27T11:49:24.530Z,33.5273333,-116.7333333,3.24,1.11,ml,62,26,0.03811,0.2,ci,ci41320880,2025-10-27T11:53:03.961Z,"6 km WSW of Anza, CA",earthquake,0.14,0.39,0.161,27,automatic,ci,ci
 2025-10-27T11:43:41.415Z,31.59,-104.118,4.1228,1.5,ml,23,63,0.1,0.2,tx,tx2025vdtlhz,2025-10-27T11:48:41.223Z,"43 km NW of Toyah, Texas",earthquake,0,1.3693511486053,0.2,10,automatic,tx,tx
 2025-10-27T11:38:38.100Z,38.84049987793,-122.81083679199,2.0599999427795,0.59,md,10,98,0.01614,0.01,nc,nc75255236,2025-10-27T11:40:17.687Z,"8 km WNW of Cobb, CA",earthquake,0.42,1.42999995,0.14,10,automatic,nc,nc
 2025-10-27T11:19:25.970Z,34.0218333,-117.2111667,13.49,1.46,ml,89,19,0.08082,0.18,ci,ci41320872,2025-10-27T11:41:35.370Z,"5 km SW of Redlands, CA",earthquake,0.13,0.3,0.186,26,automatic,ci,ci
