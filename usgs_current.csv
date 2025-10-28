@@ -214,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-27T19:48:28.858Z,39.2333,28.2279,8,6,mww,125,21,1.036,0.72,us,us6000rjsu,2025-10-28T19:23:41.726Z,"4 km ESE of Sındırgı, Turkey",earthquake,3.91,1.801,0.042,55,reviewed,us,us
 2025-10-27T19:41:42.860Z,38.781833648682,-122.764503479,0.64999997615814,1.09,md,10,107,0.01114,0.04,nc,nc75255416,2025-10-27T20:37:18.940Z,"1 km NW of The Geysers, CA",earthquake,0.36,0.709999979,0.16,9,automatic,nc,nc
 2025-10-27T19:30:03.200Z,17.980833333333,-66.9505,11.51,2.13,md,9,186,0.06805,0.14,pr,pr71498988,2025-10-27T19:38:00.390Z,"3 km WSW of Fuig, Puerto Rico",earthquake,0.66,0.79,0.2775223713503,6,reviewed,pr,pr
-2025-10-27T19:27:37.520Z,60.024833333333,-153.07416666667,0.16,-0.91,ml,4,169,0.03305,0.09,av,av93850326,2025-10-27T21:45:57.180Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.42,1.7,0.22365749449305,4,reviewed,av,av
