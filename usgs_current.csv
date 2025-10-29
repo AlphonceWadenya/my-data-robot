@@ -195,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-29T00:04:53.130Z,32.7625,-115.6423333,10.76,1.54,ml,27,62,0.01828,0.23,ci,ci41321824,2025-10-29T03:10:35.526Z,"8 km WSW of El Centro, CA",earthquake,0.33,0.64,0.245,12,reviewed,ci,ci
 2025-10-28T23:55:58.033Z,61.2269,-147.8197,0.1,1.8,ml,,,,0.95,ak,ak025du6sbxm,2025-10-28T23:58:33.594Z,"63 km ESE of Knik River, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-28T23:53:15.570Z,38.799167633057,-122.81999969482,3.0899999141693,1.06,md,11,86,0.01205,0.02,nc,nc75255981,2025-10-29T01:32:18.750Z,"6 km WNW of The Geysers, CA",earthquake,0.34,0.720000029,0.15,11,automatic,nc,nc
-2025-10-28T23:39:36.510Z,19.165333333333,-66.441166666667,20.71,3.18,md,22,249,0.6897,0.33,pr,pr71499138,2025-10-28T23:56:45.210Z,"77 km N of Brenas, Puerto Rico",earthquake,1.18,25.86,0.083679979908378,13,reviewed,pr,pr
-2025-10-28T23:34:57.685Z,63.0044,-150.658,116,1.7,ml,,,,0.35,ak,ak025du6nuco,2025-10-28T23:37:35.855Z,"56 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
