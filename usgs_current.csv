@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-29T07:31:40.419Z,61.0257,-149.9687,38.4,1.9,ml,,,,0.8,ak,ak025dvknko5,2025-10-29T07:35:52.047Z,"21 km NW of Hope, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-10-29T07:30:46.779Z,31.222,-104.278,3.9911,1.9,ml,6,245,0.4,0.5,tx,tx2025vhcnjd,2025-10-29T07:35:23.199Z,"47 km WSW of Toyah, Texas",earthquake,0,3.9125351905823,0.5,4,automatic,tx,tx
+2025-10-29T07:20:27.236Z,-47.0859,164.7868,10,5,mb,42,66,1.597,1.18,us,us6000rk4l,2025-10-29T07:38:10.040Z,"260 km WSW of Riverton, New Zealand",earthquake,8.21,1.89,0.123,21,reviewed,us,us
 2025-10-29T07:16:59.170Z,33.9393333,-117.0101667,3.96,1.12,ml,61,20,0.03042,0.19,ci,ci41321984,2025-10-29T07:20:35.737Z,"3 km WNW of Beaumont, CA",earthquake,0.14,0.36,0.224,27,automatic,ci,ci
 2025-10-29T07:10:33.020Z,33.0761667,-115.5773333,10.08,0.81,ml,23,61,0.04468,0.2,ci,ci41321976,2025-10-29T07:13:59.963Z,"6 km NE of Westmorland, CA",earthquake,0.29,0.54,0.332,8,automatic,ci,ci
 2025-10-29T06:56:35.169Z,51.4764,159.7307,10,5.1,mb,64,103,2.056,1.65,us,us6000rk4j,2025-10-29T07:17:35.040Z,"185 km SSE of Vilyuchinsk, Russia",earthquake,8.68,1.858,0.057,99,reviewed,us,us
@@ -25,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-29T03:28:15.843Z,63.4277,-150.8727,12.3,1.5,ml,,,,1.69,ak,ak025dvi9588,2025-10-29T03:31:15.507Z,"44 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-29T03:23:10.420Z,46.849333333333,-121.767,0.91,0.23,ml,10,129,0.01788,0.07,uw,uw62208921,2025-10-29T04:01:00.130Z,"22 km ENE of Ashford, Washington",earthquake,0.38,0.49,0.19396907625097,4,reviewed,uw,uw
 2025-10-29T03:17:23.980Z,36.065498352051,-121.58066558838,9.710000038147,1.29,md,6,147,0.008814,0.01,nc,nc75256061,2025-10-29T05:22:22.334Z,"5 km NNW of Lopez Point, CA",earthquake,3.2,3.82999992,0.12,6,automatic,nc,nc
-2025-10-29T03:11:22.230Z,33.99123001,-96.39129639,2.603607416,2.68,ml,37,91.1809082,0.4277877808,0.8321423568,ok,ok2025veet,2025-10-29T05:19:58.236Z,"1 km W of Durant, Oklahoma",earthquake,2.794221991,2.249468457,0.27,11,automatic,ok,ok
+2025-10-29T03:11:22.230Z,33.99123001,-96.39129639,2.603607416,2.68,ml,37,91.1809082,0.4277877808,0.8321423568,ok,ok2025veet,2025-10-29T07:36:45.889Z,"1 km W of Durant, Oklahoma",earthquake,2.794221991,2.249468457,0.27,11,automatic,ok,ok
 2025-10-29T03:08:06.039Z,31.735,-104.122,4.1996,2.4,ml,44,41,0,0.3,tx,tx2025vgtuzx,2025-10-29T04:00:52.150Z,"49 km W of Mentone, Texas",earthquake,0,0.78908199071884,0.2,34,automatic,tx,tx
 2025-10-29T03:05:00.568Z,61.1054,-151.2662,66.3,1.9,ml,,,,0.56,ak,ak025dvi46ko,2025-10-29T03:17:21.363Z,"8 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-29T02:46:54.718Z,-23.1762,-179.7323,574.168,4.6,mb,28,111,6.717,0.94,us,us6000rk3f,2025-10-29T03:13:23.040Z,"south of the Fiji Islands",earthquake,13.88,9.028,0.105,27,reviewed,us,us
