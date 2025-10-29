@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-29T18:55:33.190Z,38.824165344238,-122.84400177002,1.4400000572205,0.78,md,8,95,0.007086,0.02,nc,nc75256281,2025-10-29T18:57:11.390Z,"9 km NW of The Geysers, CA",earthquake,0.44,0.779999971,0.11,8,automatic,nc,nc
+2025-10-29T18:51:01.294Z,31.558,-104.207,4.7672,1.5,ml,27,98,0.1,0.3,tx,tx2025vhzbnv,2025-10-29T18:53:50.784Z,"47 km NW of Toyah, Texas",earthquake,0,1.1389373540878,0.2,19,automatic,tx,tx
 2025-10-29T18:49:13.530Z,38.794666290283,-122.75116729736,1.75,0.79,md,7,91,0.01605,0.02,nc,nc75256276,2025-10-29T18:50:51.517Z,"2 km NNE of The Geysers, CA",earthquake,0.38,1.30999994,0.07,6,automatic,nc,nc
 2025-10-29T17:52:18.800Z,3.9692,124.0607,426.182,4.9,mb,161,25,1.605,0.86,us,us6000rk82,2025-10-29T18:29:25.041Z,"222 km SW of Sarangani, Philippines",earthquake,8.47,6.548,0.048,137,reviewed,us,us
 2025-10-29T17:46:34.985Z,63.7807,-148.0607,4.9,3.3,ml,,,,0.82,ak,ak025dvqp3z0,2025-10-29T18:27:34.108Z,"42 km E of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -122,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-29T04:28:48.210Z,60.6832,-144.2262,7.8,1.4,ml,,,,0.59,ak,ak025dviunbp,2025-10-29T04:31:01.725Z,"85 km E of Cordova, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2025-10-29T04:12:14.393Z,38.8468,-98.4675,8.204,2.7,mb_lg,22,71,0.465,0.56,us,us6000rk3q,2025-10-29T11:30:20.829Z,"2 km NNE of Wilson, Kansas",earthquake,3.36,6.223,0.084,37,reviewed,us,us
 2025-10-29T04:07:34.034Z,32.108,-101.925,8.6426,1,ml,21,53,0.1,0.1,tx,tx2025vgvuhe,2025-10-29T12:40:59.195Z,"13 km W of Stanton, Texas",earthquake,0.44905996613914,1.0401920379917,0.2,17,reviewed,tx,tx
-2025-10-29T03:46:35.131Z,38.9125,-98.5288,8.89,3.5,mb_lg,34,59,0.51,0.69,us,us6000rk3m,2025-10-29T14:04:43.577Z,"9 km NE of Dorrance, Kansas",earthquake,3.27,7.61,0.043,142,reviewed,us,us
+2025-10-29T03:46:35.131Z,38.9125,-98.5288,8.89,3.5,mb_lg,34,59,0.51,0.69,us,us6000rk3m,2025-10-29T18:58:27.395Z,"9 km NE of Dorrance, Kansas",earthquake,3.27,7.61,0.043,142,reviewed,us,us
 2025-10-29T03:40:08.300Z,44.754,-111.18433333333,9.96,0.6,md,15,66,0.00904,0.18,uu,uu80120581,2025-10-29T15:54:26.700Z,"1 km SSE of Hebgen Lake Estates, Montana",earthquake,0.45,0.84,0.14803478574066,8,reviewed,uu,uu
 2025-10-29T03:38:55.010Z,32.6055,-115.7041667,5.23,2.2,ml,48,46,0.04756,0.25,ci,ci41321880,2025-10-29T14:37:20.752Z,"12 km WNW of Progreso, B.C., MX",earthquake,0.25,0.55,0.177,70,reviewed,ci,ci
 2025-10-29T03:31:16.267Z,31.658,-104.475,6.3562,1.8,ml,23,89,0,0.2,tx,tx2025vguows,2025-10-29T12:49:02.237Z,"58 km S of Whites City, New Mexico",earthquake,1.3998703008235,0.78502813384155,0,7,reviewed,tx,tx
