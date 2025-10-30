@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-30T10:50:25.870Z,37.976833343506,-122.03616333008,16.219999313354,2.61,md,81,28,0.05247,0.18,nc,nc75256621,2025-10-30T10:52:03.017Z,"2 km WNW of Concord, CA",earthquake,0.22,0.419999987,0.11,81,automatic,nc,nc
+2025-10-30T10:50:25.870Z,37.976833343506,-122.03616333008,16.219999313354,2.61,md,81,28,0.05247,0.18,nc,nc75256621,2025-10-30T10:57:22.355Z,"2 km WNW of Concord, CA",earthquake,0.22,0.419999987,0.11,81,automatic,nc,nc
 2025-10-30T10:37:29.630Z,34.104,-117.3171667,16.42,0.98,ml,65,54,0.1308,0.21,ci,ci41322536,2025-10-30T10:41:08.608Z,"3 km N of Colton, CA",earthquake,0.17,0.51,0.205,28,automatic,ci,ci
 2025-10-30T10:28:19.388Z,61.9882,-148.1935,10.7,2.2,ml,,,,1.03,ak,ak025dx9yj7q,2025-10-30T10:40:57.519Z,"25 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-30T10:22:50.034Z,51.5168,159.6379,16.678,4.9,mb,59,100,1.989,1,us,us6000rkcb,2025-10-30T10:48:22.040Z,"178 km SSE of Vilyuchinsk, Russia",earthquake,10.29,4.775,0.069,101,reviewed,us,us
