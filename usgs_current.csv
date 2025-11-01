@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-01T05:36:29.700Z,38.82483291626,-122.84533691406,1.7699999809265,0.7,md,8,93,0.008232,0.01,nc,nc75257386,2025-11-01T05:38:06.449Z,"9 km NW of The Geysers, CA",earthquake,0.37,0.870000005,0.3,9,automatic,nc,nc
 2025-11-01T05:29:45.703Z,38.4933,-116.466,1.2837,1.68,ml,9,168,0.705,0.2475,nn,nn00906659,2025-11-01T05:32:56.943Z,"81 km NE of Tonopah, Nevada",earthquake,,11.1564,0.23,4,automatic,nn,nn
 2025-11-01T05:26:59.709Z,64.8195,-147.5023,16.4,1.1,ml,,,,0.4,ak,ak025e0i1pv6,2025-11-01T05:28:43.425Z,"2 km NE of Badger, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-11-01T05:14:20.360Z,17.906833333333,-66.597,13.75,2.43,md,17,173,0.06999,0.22,pr,pr71499473,2025-11-01T05:34:56.360Z,"11 km SSE of Ponce, Puerto Rico",earthquake,0.52,0.4,0.023869755278125,4,reviewed,pr,pr
