@@ -224,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-31T09:04:28.520Z,33.6631667,-116.7455,13.52,0.67,ml,50,37,0.05801,0.16,ci,ci41323096,2025-10-31T09:08:00.994Z,"9 km SSW of Idyllwild, CA",earthquake,0.15,0.3,0.215,19,automatic,ci,ci
 2025-10-31T09:03:59.240Z,39.007833333333,-111.41616666667,-0.66,1.48,ml,13,74,0.0458,0.09,uu,uu80005283,2025-10-31T14:39:09.310Z,"17 km WNW of Emery, Utah",earthquake,0.38,0.35,0.15642642832327,4,reviewed,uu,uu
 2025-10-31T08:57:40.724Z,51.5813,159.4497,27.093,4.9,mb,38,120,1.869,0.95,us,us6000rkjg,2025-10-31T09:16:23.040Z,"166 km SSE of Vilyuchinsk, Russia",earthquake,10.04,5.756,0.076,54,reviewed,us,us
-2025-10-31T08:52:46.280Z,38.820331573486,-122.813331604,2.7300000190735,1.08,md,20,46,0.01686,0.02,nc,nc75256986,2025-10-31T11:22:18.343Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.529999971,0.17,21,automatic,nc,nc
