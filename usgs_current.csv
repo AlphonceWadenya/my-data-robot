@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-02T19:06:56.707Z,9.642,122.8092,141.463,5.5,mww,88,37,3.747,0.88,us,us6000rl2n,2025-11-02T19:24:24.040Z,"13 km SW of Mabinay, Philippines",earthquake,9.25,6.44,0.049,40,reviewed,us,us
 2025-11-02T19:06:39.880Z,38.802165985107,-122.80533599853,2.1400001049042,1.07,md,13,53,0.009748,0.02,nc,nc75258091,2025-11-02T19:08:17.346Z,"5 km WNW of The Geysers, CA",earthquake,0.29,0.639999986,0.16,13,automatic,nc,nc
 2025-11-02T18:55:48.490Z,34.0335,-117.252,2.85,1.1,ml,54,38,0.07615,0.2,ci,ci41324608,2025-11-02T18:59:13.504Z,"2 km SSE of Loma Linda, CA",earthquake,0.16,0.37,0.154,30,automatic,ci,ci
 2025-11-02T18:43:20.630Z,33.9216667,-116.0363333,4.07,1.21,ml,47,46,0.08487,0.16,ci,ci41324592,2025-11-02T18:46:51.229Z,"24 km S of Twentynine Palms, CA",earthquake,0.14,0.48,0.154,27,automatic,ci,ci
