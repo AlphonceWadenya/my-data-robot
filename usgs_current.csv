@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-02T08:46:40.980Z,33.5395,-116.8038333,5.27,0.77,ml,54,19,0.03633,0.17,ci,ci41324352,2025-11-02T08:50:14.856Z,"12 km NNE of Aguanga, CA",earthquake,0.13,0.4,0.202,25,automatic,ci,ci
 2025-11-02T08:45:14.141Z,63.1059,-151.4947,4.9,2.5,ml,,,,0.54,ak,ak025e27hc9i,2025-11-02T08:47:13.386Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-02T08:12:12.005Z,58.2179,-155.0408,10.9,0.9,ml,,,,1.26,ak,ak025e27a9gw,2025-11-02T08:13:44.950Z,"80 km NNW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2025-11-02T08:11:18.850Z,37.131999969482,-122.01733398438,18.10000038147,1.48,md,7,99,0.04039,0.02,nc,nc75257951,2025-11-02T08:37:19.716Z,"4 km NE of Lompico, CA",earthquake,0.59,1.95000005,0.23,5,automatic,nc,nc
