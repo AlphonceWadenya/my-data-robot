@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-02T18:43:20.630Z,33.9216667,-116.0363333,4.07,1.21,ml,47,46,0.08487,0.16,ci,ci41324592,2025-11-02T18:46:51.229Z,"24 km S of Twentynine Palms, CA",earthquake,0.14,0.48,0.154,27,automatic,ci,ci
 2025-11-02T18:40:20.574Z,32.098,-101.928,3.6678,1.3,ml,34,42,0.1,0.5,tx,tx2025vphpwg,2025-11-02T18:43:04.125Z,"13 km WSW of Stanton, Texas",earthquake,0,0.88999831676483,0.2,21,automatic,tx,tx
 2025-11-02T18:38:06.581Z,63.5478,-150.067,123.2,2,ml,,,,0.29,ak,ak025e2de5pu,2025-11-02T18:40:05.013Z,"58 km WNW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-11-02T18:36:25.213Z,63.1393,-150.7003,117.1,1.6,ml,,,,0.5,ak,ak025e2ddrq1,2025-11-02T18:38:33.876Z,"68 km SE of Denali National Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-11-02T18:34:07.870Z,33.0003333,-116.2361667,4.61,0.76,ml,35,47,0.07261,0.2,ci,ci41324584,2025-11-02T18:37:28.967Z,"19 km SSW of Ocotillo Wells, CA",earthquake,0.21,0.65,0.045,9,automatic,ci,ci
-2025-11-02T18:28:30.500Z,38.82500076294,-122.80999755859,2.920000076294,0.74,md,15,50,0.02037,0.02,nc,nc75258076,2025-11-02T18:30:07.145Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.680000007,0.18,16,automatic,nc,nc
+2025-11-02T18:28:30.500Z,38.82500076294,-122.80999755859,2.920000076294,0.74,md,15,50,0.02037,0.02,nc,nc75258076,2025-11-02T18:47:21.786Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.680000007,0.18,16,automatic,nc,nc
 2025-11-02T17:42:50.160Z,38.825332641602,-122.76599884033,2.25,0.94,md,9,123,0.005973,0.02,nc,nc75258061,2025-11-02T18:07:18.529Z,"4 km W of Cobb, CA",earthquake,0.44,0.730000019,0.19,13,automatic,nc,nc
 2025-11-02T17:17:01.040Z,36.95966720581,-121.87200164795,10.020000457764,1.66,md,5,201,0.2396,0.01,nc,nc75258051,2025-11-02T17:42:18.365Z,"1 km ESE of Rio del Mar, CA",earthquake,0.99,1.16999996,0.27,4,automatic,nc,nc
 2025-11-02T17:11:59.334Z,55.0726,-163.2223,195.826,3.9,mb,42,141,0.837,0.64,us,us6000rl2g,2025-11-02T18:00:06.040Z,"27 km NNE of False Pass, Alaska",earthquake,9.32,8.992,0.21,6,reviewed,us,us
@@ -176,5 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-01T19:08:28.250Z,33.5728333,-116.5083333,9.11,0.71,ml,42,34,0.08977,0.18,ci,ci41323984,2025-11-01T19:11:59.853Z,"15 km E of Anza, CA",earthquake,0.18,0.5,0.175,23,automatic,ci,ci
 2025-11-01T19:03:56.098Z,37.3514,70.0035,10,4.9,mb,74,58,1.464,0.73,us,us6000rkyf,2025-11-01T19:21:19.040Z,"29 km NNE of Rustāq, Afghanistan",earthquake,5.55,1.861,0.053,111,reviewed,us,us
 2025-11-01T19:02:17.170Z,57.971833333333,-155.47633333333,10.68,0.89,ml,6,276,0.09722,0.17,av,av93861931,2025-11-02T18:03:18.760Z,"75 km NW of Karluk, Alaska",earthquake,1.3,1.01,0.33591442245273,6,reviewed,av,av
-2025-11-01T18:47:50.420Z,33.4953333,-116.5365,10.84,0.43,ml,21,65,0.0549,0.17,ci,ci41323976,2025-11-01T18:51:20.737Z,"14 km ESE of Anza, CA",earthquake,0.28,0.53,0.12,14,automatic,ci,ci
-2025-11-01T18:47:34.935Z,38.4477,-116.5119,6.2276,2.62,ml,5,196,0.486,0.1343,nn,nn00906674,2025-11-01T22:56:28.522Z,"75 km ENE of Tonopah, Nevada",earthquake,,4.5099,0.2,3,automatic,nn,nn
