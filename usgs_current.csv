@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-03T08:55:10.869Z,32.306,-101.843,4.0559,1.4,ml,42,32,0,0.4,tx,tx2025vqjymu,2025-11-03T08:58:50.711Z,"20 km NNW of Stanton, Texas",earthquake,0,0.77611595392227,0.2,26,automatic,tx,tx
 2025-11-03T08:47:35.860Z,33.2633333,-116.4226667,4.59,0.94,ml,63,26,0.006696,0.19,ci,ci41324808,2025-11-03T08:51:06.038Z,"4 km W of Borrego Springs, CA",earthquake,0.14,0.31,0.134,27,automatic,ci,ci
 2025-11-03T08:40:26.350Z,37.538333892822,-118.83149719238,2.5699999332428,0.84,md,9,215,0.05164,0.03,nc,nc75258316,2025-11-03T08:42:04.081Z,"14 km W of Toms Place, CA",earthquake,1.24,2.86999989,0.12,8,automatic,nc,nc
 2025-11-03T08:38:00.420Z,38.757499694824,-122.73049926758,1.3799999952316,0.95,md,10,109,0.006011,0.03,nc,nc75258311,2025-11-03T08:39:39.340Z,"3 km SE of The Geysers, CA",earthquake,0.34,0.310000002,0.2,9,automatic,nc,nc
@@ -170,4 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-02T09:57:54.821Z,40.0188,143.4906,10,4.9,mb,100,121,2.006,0.55,us,us6000rl0s,2025-11-02T10:20:17.040Z,"138 km ENE of Miyako, Japan",earthquake,7.82,1.868,0.056,101,reviewed,us,us
 2025-11-02T09:48:51.476Z,63.3493,-144.8982,0,2.1,ml,,,,0.54,ak,ak025e283hwb,2025-11-02T09:50:56.150Z,"35 km SSW of Dry Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-02T09:47:12.360Z,54.743166666667,-163.9955,4.85,1.18,ml,4,109,0.0338,0.31,av,av93862976,2025-11-02T18:34:52.400Z,"39 km WSW of False Pass, Alaska",earthquake,0.83,2.33,0.13806845154542,4,reviewed,av,av
-2025-11-02T08:54:53.575Z,59.3975,-152.7217,68.3,2.3,ml,,,,0.39,ak,ak025e27jcqk,2025-11-02T08:57:11.445Z,"45 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
