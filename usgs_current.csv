@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-03T07:37:21.750Z,33.111,-115.969,7.17,0.89,ml,45,51,0.06275,0.21,ci,ci41324792,2025-11-03T07:40:49.578Z,"16 km ESE of Ocotillo Wells, CA",earthquake,0.19,0.54,0.24,17,automatic,ci,ci
+2025-11-03T07:37:07.810Z,34.2475,-118.969,16,1.53,ml,58,47,0.04272,0.22,ci,ci41324784,2025-11-03T07:40:48.586Z,"7 km ENE of Camarillo, CA",earthquake,0.19,0.41,0.289,29,automatic,ci,ci
 2025-11-03T07:10:24.455Z,52.1988,160.0369,23.982,5.8,mb,114,76,1.691,0.64,us,us6000rl55,2025-11-03T07:36:14.474Z,"135 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.28,5.049,0.024,656,reviewed,us,us
 2025-11-03T07:06:06.721Z,59.0841,-152.3775,74.8,1.8,ml,,,,0.65,ak,ak025e3u6vnk,2025-11-03T07:08:26.909Z,"40 km SW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-11-03T07:01:19.070Z,38.823001861572,-122.79550170898,2.5,0.76,md,14,58,0.01501,0.02,nc,nc75258286,2025-11-03T07:17:20.911Z,"6 km NNW of The Geysers, CA",earthquake,0.33,0.720000029,0.06,15,automatic,nc,nc
