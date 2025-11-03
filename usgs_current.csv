@@ -196,6 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-02T16:40:34.122Z,63.2718,-151.7334,4.6,1.9,ml,,,,0.67,ak,ak025e2c7s2c,2025-11-02T16:42:51.616Z,"29 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-02T16:30:16.847Z,60.0904,-152.778,106.7,1.5,ml,,,,0.3,ak,ak025e2c5lkk,2025-11-02T16:32:57.735Z,"60 km WNW of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-11-02T16:11:34.725Z,32.362,-102.18,7.7148,0.8,ml,17,73,0,0.2,tx,tx2025vpcron,2025-11-03T14:23:26.107Z,"33 km ENE of McKinney Acres, Texas",earthquake,0.78645680640703,0.92902681404101,0.1,7,reviewed,tx,tx
-2025-11-02T15:54:17.931Z,63.8744,-148.3814,5.4,1.7,ml,,,,0.4,ak,ak025e2bpb8h,2025-11-02T15:57:04.341Z,"28 km E of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-11-02T15:52:01.332Z,61.8608,-150.0177,29.2,1.9,ml,,,,0.59,ak,ak025e2bouit,2025-11-02T15:54:04.437Z,"12 km N of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-11-02T15:52:01.100Z,38.84033203125,-122.87550354004,2.710000038147,0.72,md,8,155,0.006556,0.01,nc,nc75258026,2025-11-02T17:37:19.324Z,"12 km NW of The Geysers, CA",earthquake,0.58,0.74000001,0.12,8,automatic,nc,nc
