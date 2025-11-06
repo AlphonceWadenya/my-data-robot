@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-06T09:33:26.625Z,64.5197,-146.9099,10.2,3.3,ml,,,,0.95,ak,ak025e8u5kmu,2025-11-06T09:45:05.966Z,"0 km SW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-11-06T09:33:26.625Z,64.5197,-146.9099,10.2,3.3,ml,,,,0.95,ak,ak025e8u5kmu,2025-11-06T09:50:03.082Z,"0 km SW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-06T09:19:58.101Z,60.2681,-141.1981,14.8,2,ml,,,,0.54,ak,ak025e8u2oma,2025-11-06T09:22:10.723Z,"115 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-06T09:15:24.260Z,32.9855,-116.2936667,6.41,0.74,ml,36,55,0.03188,0.16,ci,ci40481810,2025-11-06T09:18:53.002Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.2,0.41,0.145,13,automatic,ci,ci
 2025-11-06T09:08:07.610Z,38.833667755127,-122.81716918945,1.9800000190735,1.04,md,15,75,0.01513,0.01,nc,nc75259751,2025-11-06T09:42:19.432Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.529999971,0.11,16,automatic,nc,nc
@@ -190,6 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-05T10:20:19.520Z,46.839833333333,-121.8515,-1.73,-0.52,md,9,142,0.02214,0.04,uw,uw62202682,2025-11-05T18:07:42.560Z,"16 km ENE of Ashford, Washington",earthquake,0.3,0.48,0.25711798622693,8,reviewed,uw,uw
 2025-11-05T10:18:07.537Z,57.0611,-150.4586,35.2,3,ml,,,,0.58,ak,ak025e774ce4,2025-11-06T05:13:27.040Z,"125 km ESE of Chiniak, Alaska",earthquake,,11.3,,,automatic,ak,ak
 2025-11-05T09:56:41.673Z,32.085,-101.641,6.0303,0.6,ml,14,82,0,0.2,tx,tx2025vudlgp,2025-11-05T12:43:35.118Z,"14 km ESE of Stanton, Texas",earthquake,0.79495111508113,1.6692526541363,0.2,7,reviewed,tx,tx
-2025-11-05T09:51:46.970Z,33.5035,-116.5071667,13.65,0.61,ml,40,58,0.07989,0.15,ci,ci40481426,2025-11-05T14:09:57.090Z,"16 km ESE of Anza, CA",earthquake,0.17,0.42,0.122,19,reviewed,ci,ci
-2025-11-05T09:47:18.640Z,33.5018333,-116.5106667,13.86,1.58,ml,55,57,0.07682,0.18,ci,ci40481418,2025-11-05T21:06:35.615Z,"16 km ESE of Anza, CA",earthquake,0.18,0.4,0.142,38,reviewed,ci,ci
-2025-11-05T09:47:09.200Z,33.504,-116.5083333,14.27,1.5,ml,50,57,0.07898,0.16,ci,ci40481410,2025-11-05T19:34:54.267Z,"16 km ESE of Anza, CA",earthquake,0.2,0.33,0.162,30,reviewed,ci,ci
