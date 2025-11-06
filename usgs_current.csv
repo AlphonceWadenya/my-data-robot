@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-11-06T15:25:56.400Z,33.63,-116.6918333,14.03,0.74,ml,20,50,0.04161,0.12,ci,ci40481898,2025-11-06T15:29:21.341Z,"8 km NNW of Anza, CA",earthquake,0.21,0.38,0.299,19,automatic,ci,ci
-2025-11-06T15:24:02.997Z,31.928,-101.77,2.6268,1.2,ml,13,88,0.1,0.5,tx,tx2025vwkafu,2025-11-06T15:27:46.096Z,"22 km S of Stanton, Texas",earthquake,0,1.5351946353912,0.2,7,automatic,tx,tx
-2025-11-06T15:22:17.050Z,38.823501586914,-122.80433654785,3.5899999141693,0.73,md,10,94,0.01704,0.02,nc,nc75259831,2025-11-06T15:23:54.525Z,"7 km NW of The Geysers, CA",earthquake,0.35,1.25,0.44,10,automatic,nc,nc
+2025-11-06T15:24:03.056Z,31.921,-101.741,7.666,1,ml,19,70,0.1,0.2,tx,tx2025vwkafu,2025-11-06T15:42:54.218Z,"23 km S of Stanton, Texas",earthquake,0.60223757205167,1.0302446795637,0.1,13,reviewed,tx,tx
+2025-11-06T15:22:17.050Z,38.823501586914,-122.80433654785,3.5899999141693,0.73,md,10,94,0.01704,0.02,nc,nc75259831,2025-11-06T15:37:18.824Z,"7 km NW of The Geysers, CA",earthquake,0.35,1.25,0.44,10,automatic,nc,nc
 2025-11-06T15:13:01.830Z,33.6843333,-116.7648333,17.5,1.01,ml,38,71,0.05319,0.18,ci,ci40481890,2025-11-06T15:22:58.215Z,"8 km SW of Idyllwild, CA",earthquake,0.23,0.44,0.218,28,automatic,ci,ci
 2025-11-06T14:51:49.668Z,65.1472,-150.0674,11.8,1.1,ml,,,,0.37,ak,ak025e8x8owm,2025-11-06T14:53:28.986Z,"31 km ENE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-06T14:49:16.056Z,60.8872,-150.1122,42.7,2,ml,,,,0.53,ak,ak025e8x86vp,2025-11-06T14:51:23.349Z,"25 km W of Hope, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -166,8 +166,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-05T17:50:27.260Z,36.889167785645,-121.61566925049,0.75,1.56,md,7,106,0.01958,0.05,nc,nc75259541,2025-11-05T20:47:21.180Z,"2 km E of Aromas, CA",earthquake,0.64,0.889999986,0.15,6,automatic,nc,nc
 2025-11-05T17:48:37.069Z,-11.5469,166.2581,73.167,4.7,mb,49,92,6.55,0.58,us,us6000rlpl,2025-11-05T18:11:51.040Z,"103 km SSE of Lata, Solomon Islands",earthquake,11.22,7.759,0.085,42,reviewed,us,us
 2025-11-05T17:34:47.752Z,52.9141,160.4524,55.884,4.3,mb,52,109,1.675,0.66,us,us6000rlpj,2025-11-05T18:05:24.040Z,"123 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,13.53,6.744,0.075,50,reviewed,us,us
-2025-11-05T17:24:54.630Z,58.345166666667,-154.68483333333,5.23,1.11,ml,4,191,0.07217,0.24,av,av93051839,2025-11-06T04:21:35.280Z,"87 km N of Karluk, Alaska",earthquake,1.39,2.7,0.21982502370278,4,reviewed,av,av
-2025-11-05T17:24:47.007Z,58.3554,-154.5074,11.1,1.3,ml,,,,0.56,ak,ak025e7bbuos,2025-11-06T04:18:34.990Z,"87 km N of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
+2025-11-05T17:24:48.450Z,58.356166666667,-154.71783333333,5.52,0.9,ml,17,174,0.05157,0.16,av,av93871031,2025-11-06T04:18:34.990Z,"89 km N of Karluk, Alaska",earthquake,0.46,0.78,0.2054458974815,17,reviewed,av,av
+2025-11-05T17:24:47.007Z,58.3554,-154.5074,11.1,1.3,ml,,,,0.56,ak,ak025e7bbuos,2025-11-06T04:21:35.280Z,"87 km N of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-11-05T17:24:29.730Z,38.820835113525,-122.8424987793,2.210000038147,1.41,md,21,103,0.006263,0.03,nc,nc75259531,2025-11-05T20:22:17.995Z,"9 km WNW of The Geysers, CA",earthquake,0.25,0.379999995,0.14,24,automatic,nc,nc
 2025-11-05T17:23:46.760Z,38.82149887085,-122.84116363525,2.210000038147,1.53,md,24,77,0.005056,0.03,nc,nc75259526,2025-11-05T19:57:18.815Z,"9 km NW of The Geysers, CA",earthquake,0.21,0.349999994,0.19,26,automatic,nc,nc
 2025-11-05T17:19:34.621Z,58.349,-154.6795,1.4,1.1,ml,,,,0.18,ak,ak025e7bar5i,2025-11-06T04:14:33.770Z,"87 km N of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
@@ -186,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-05T16:27:01.095Z,60.0178,-152.7046,94.4,1,ml,,,,0.12,ak,ak025e7aqyot,2025-11-05T16:29:03.640Z,"54 km W of Happy Valley, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-11-05T16:17:21.530Z,33.1375,-116.6383333,4.13,0.54,ml,22,68,0.06194,0.2,ci,ci40481498,2025-11-05T18:55:24.239Z,"7 km NNW of Julian, CA",earthquake,0.32,0.48,0.17,9,reviewed,ci,ci
 2025-11-05T16:12:48.820Z,38.79016494751,-122.76233673096,1.3400000333786,1.07,md,13,98,0.01064,0.02,nc,nc75259506,2025-11-05T18:07:16.034Z,"2 km NNW of The Geysers, CA",earthquake,0.3,0.529999971,0.18,14,automatic,nc,nc
-2025-11-05T15:44:02.380Z,38.830001831055,-122.80117034912,1.3600000143051,1.17,md,20,63,0.01192,0.02,nc,nc75259501,2025-11-05T17:37:18.825Z,"7 km W of Cobb, CA",earthquake,0.19,0.409999996,0.15,21,automatic,nc,nc
