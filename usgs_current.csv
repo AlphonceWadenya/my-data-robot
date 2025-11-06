@@ -34,6 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-06T06:54:23.040Z,38.803001403809,-122.80699920654,1.4500000476837,1.07,md,16,66,0.0104,0.02,nc,nc75259716,2025-11-06T08:17:19.864Z,"5 km WNW of The Geysers, CA",earthquake,0.22,0.50999999,0.09,16,automatic,nc,nc
 2025-11-06T06:54:15.151Z,60.6121,-152.762,126,2.2,ml,,,,0.45,ak,ak025e8shsi0,2025-11-06T09:01:52.040Z,"78 km W of Salamatof, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-11-06T06:49:08.511Z,31.417,-103.55,3.8953,1.5,ml,26,44,0,0.2,tx,tx2025vvsyns,2025-11-06T09:08:02.093Z,"5 km NNW of Lindsay, Texas",earthquake,0.58734289937585,1.5670260906707,0.2,14,reviewed,tx,tx
+2025-11-06T06:38:38.507Z,32.433,-102.117,6.958,0.9,ml,25,75,0,0.2,tx,tx2025vvsphl,2025-11-06T11:38:06.863Z,"36 km SSW of Los Ybanez, Texas",earthquake,0.57207631893613,0.72484852487984,0.2,11,reviewed,tx,tx
 2025-11-06T06:36:52.842Z,59.8874,-153.5585,135.1,2.5,ml,,,,0.46,ak,ak025e8se0jt,2025-11-06T08:59:53.040Z,"32 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-11-06T06:35:38.346Z,61.3484,-150.3642,34,1.8,ml,,,,0.39,ak,ak025e8sdrqi,2025-11-06T06:37:30.669Z,"20 km W of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-06T06:26:41.011Z,32.105,-101.931,8.374,0.9,ml,23,62,0.1,0.1,tx,tx2025vvscel,2025-11-06T10:28:45.678Z,"13 km WSW of Stanton, Texas",earthquake,0.37931611834576,0.79611995948549,0.2,12,reviewed,tx,tx
