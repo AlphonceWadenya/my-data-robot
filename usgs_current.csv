@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-08T15:52:34.070Z,38.838500976562,-122.81833648682,2.539999961853,0.58,md,8,134,0.01339,0.03,nc,nc75260546,2025-11-08T15:54:10.282Z,"8 km WNW of Cobb, CA",earthquake,0.58,1.94000006,0.14,8,automatic,nc,nc
+2025-11-08T15:51:39.964Z,62.8562,-150.5776,78.1,2.1,ml,,,,0.43,ak,ak025ec8wsr0,2025-11-08T15:53:58.599Z,"41 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-11-08T15:44:01.710Z,35.6643333,-117.4728333,8.81,1.45,ml,39,30,0.04001,0.14,ci,ci40482650,2025-11-08T15:47:33.304Z,"13 km SSW of Searles Valley, CA",earthquake,0.14,0.4,0.192,26,automatic,ci,ci
 2025-11-08T15:30:46.362Z,31.637,-104.463,3.4481,1.9,ml,28,102,0,0.5,tx,tx2025wabruk,2025-11-08T15:33:47.310Z,"60 km S of Whites City, New Mexico",earthquake,0,1.2637555599213,0.1,18,automatic,tx,tx
 2025-11-08T15:19:27.417Z,61.5476,-146.42,29.1,1.8,ml,,,,0.51,ak,ak025ec8pwv9,2025-11-08T15:21:05.318Z,"46 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
