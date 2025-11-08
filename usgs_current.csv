@@ -29,6 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-08T00:09:29.177Z,30.947,-103.507,12.011,1.5,ml,6,147,0.1,0.4,tx,tx2025vyxdxb,2025-11-08T01:00:13.532Z,"23 km E of Balmorhea, Texas",earthquake,0,6.5966329574585,0.3,4,automatic,tx,tx
 2025-11-08T00:09:27.772Z,31.718,-104.365,4.2021,0.9,ml,8,195,0.1,0.3,tx,tx2025vyxdwm,2025-11-08T01:01:00.371Z,"50 km S of Whites City, New Mexico",earthquake,0,1.8694769144058,0.3,7,automatic,tx,tx
 2025-11-07T23:56:17.960Z,32.9599991,-115.5205002,11,1.95,ml,26,83,0.06746,0.29,ci,ci40482418,2025-11-07T23:58:34.077Z,"2 km SSE of Brawley, CA",earthquake,0.46,0.92,0.286,24,automatic,ci,ci
+2025-11-07T23:51:48.970Z,54.739333333333,-164.06566666667,12.73,1.19,ml,6,186,0.04804,0.24,av,av93875471,2025-11-08T03:56:21.600Z,"43 km WSW of False Pass, Alaska",earthquake,1.05,1.16,0.35322151850726,6,reviewed,av,av
 2025-11-07T23:50:49.590Z,54.747333333333,-163.99116666667,-0.3,0.52,ml,6,102,0.03812,0.09,av,av93875466,2025-11-08T03:52:21.160Z,"39 km WSW of False Pass, Alaska",earthquake,0.27,0.39,0.37446737276333,6,reviewed,av,av
 2025-11-07T23:49:13.749Z,58.1155,-156.726,45.3,1.9,ml,,,,0.88,ak,ak025eaq4fn2,2025-11-07T23:51:26.099Z,"39 km ESE of Egegik, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-11-07T23:43:05.850Z,38.812831878662,-122.7919998169,2.6400001049042,1.15,md,23,42,0.0055,0.01,nc,nc75260341,2025-11-08T02:12:17.013Z,"5 km NW of The Geysers, CA",earthquake,0.22,0.430000007,0.14,23,automatic,nc,nc
@@ -200,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-07T04:27:57.188Z,59.6291,-150.2435,25.6,2.4,ml,,,,0.79,ak,ak025eaeokry,2025-11-07T04:32:22.643Z,"47 km ESE of Fox River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-07T04:18:23.440Z,33.2686667,-116.4226667,4.57,0.57,ml,35,33,0.004637,0.2,ci,ci40482122,2025-11-07T16:42:09.821Z,"5 km WNW of Borrego Springs, CA",earthquake,0.21,0.36,0.095,13,reviewed,ci,ci
 2025-11-07T04:16:40.300Z,38.786499023438,-122.77166748047,1.2400000095367,0.71,md,6,112,0.01434,0.01,nc,nc75260011,2025-11-07T05:07:18.485Z,"2 km NW of The Geysers, CA",earthquake,0.57,1.07000005,0.26,8,automatic,nc,nc
-2025-11-07T03:57:22.193Z,32.407,-101.408,5.5908,0.9,ml,12,65,0,0.1,tx,tx2025vxizeb,2025-11-07T13:20:58.244Z,"14 km NNW of Sand Springs, Texas",earthquake,0.52576558553415,0.67141010708453,0.2,8,reviewed,tx,tx
