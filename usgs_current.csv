@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-08T11:44:04.180Z,33.2529984,-116.3744965,5.68,1.11,ml,28,76,0.03883,0.17,ci,ci40482626,2025-11-08T11:46:26.981Z,"0 km S of Borrego Springs, CA",earthquake,0.33,1.84,0.392,9,automatic,ci,ci
 2025-11-08T11:28:19.032Z,32.3932,-102.0158,1.356,3,mb_lg,51,37,0.292,0.52,us,us6000rm91,2025-11-08T11:34:33.040Z,"31 km WSW of Ackerly, Texas",earthquake,1.96,7.827,0.069,56,reviewed,us,us
 2025-11-08T11:26:46.119Z,60.6256,-152.4698,101.5,2,ml,,,,0.45,ak,ak025ec6dpvl,2025-11-08T11:29:41.905Z,"62 km W of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-11-08T11:11:00.622Z,61.2273,-147.6747,11.7,1.9,ml,,,,1.36,ak,ak025ec6aeni,2025-11-08T11:13:41.667Z,"64 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
