@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-12T21:54:21.070Z,33.4711667,-116.491,13.51,1.1,ml,32,97,0.09585,0.15,ci,ci40484522,2025-11-12T21:57:50.757Z,"19 km ESE of Anza, CA",earthquake,0.24,0.43,0.182,28,automatic,ci,ci
+2025-11-12T21:51:37.934Z,62.1803,-148.0542,35.5,1.6,ml,,,,0.29,ak,ak025eiyms75,2025-11-12T21:53:46.417Z,"46 km NNW of Glacier View, Alaska",earthquake,,4.8,,,automatic,ak,ak
 2025-11-12T21:43:24.520Z,38.739498138428,-122.71583557129,1.5,1.97,md,25,64,0.02316,0.07,nc,nc75262576,2025-11-12T21:44:58.654Z,"4 km SSW of Anderson Springs, CA",earthquake,0.23,0.370000005,0.18,26,automatic,nc,nc
 2025-11-12T21:37:43.902Z,61.1478,-150.7329,14.6,1.9,ml,,,,0.64,ak,ak025eiyjsmz,2025-11-12T21:49:55.359Z,"18 km E of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-12T21:32:33.660Z,33.7095,-117.0653333,11.66,1.19,ml,23,109,0.05321,0.12,ci,ci40484514,2025-11-12T21:42:41.990Z,"2 km E of Winchester, CA",earthquake,0.87,0.53,0.158,28,automatic,ci,ci
