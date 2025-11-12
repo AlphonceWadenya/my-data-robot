@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-12T08:54:47.630Z,62.194,-149.4574,39.6,1.8,ml,,,,1.54,ak,ak025eiqwt8b,2025-11-12T08:57:10.884Z,"20 km E of Susitna North, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2025-11-12T08:45:15.660Z,35.4146667,-118.8245,11.09,1.53,ml,46,74,0.05822,0.24,ci,ci40484162,2025-11-12T08:55:43.000Z,"18 km E of Oildale, CA",earthquake,0.24,0.46,0.145,28,automatic,ci,ci
 2025-11-12T08:38:51.670Z,33.6515,-116.711,15.71,0.55,ml,24,55,0.03555,0.13,ci,ci40484154,2025-11-12T08:42:18.166Z,"10 km S of Idyllwild, CA",earthquake,0.22,0.39,0.232,11,automatic,ci,ci
 2025-11-12T08:33:21.400Z,33.0603333,-116.4016667,14.41,1.05,ml,58,30,0.03503,0.18,ci,ci40484146,2025-11-12T08:37:05.904Z,"19 km E of Julian, CA",earthquake,0.16,0.34,0.136,28,automatic,ci,ci
@@ -210,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-11T09:16:40.540Z,33.1881667,-116.3666667,10.91,0.52,ml,34,71,0.09034,0.19,ci,ci40483674,2025-11-11T15:59:43.591Z,"8 km S of Borrego Springs, CA",earthquake,0.23,0.48,0.237,8,reviewed,ci,ci
 2025-11-11T09:15:36.630Z,58.163,-155.37483333333,1.06,-0.27,ml,7,130,0.05342,0.06,av,av93882101,2025-11-11T23:07:26.930Z,"85 km NW of Karluk, Alaska",earthquake,0.21,0.95,0.11402209507236,7,reviewed,av,av
 2025-11-11T09:14:59.440Z,60.028666666667,-153.095,-2.21,-0.37,ml,5,117,0.03281,0.15,av,av93882111,2025-11-11T23:04:26.640Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.34,4.03,0.39430799578136,5,reviewed,av,av
-2025-11-11T09:09:28.170Z,37.768165588379,-121.94566345215,1.5700000524521,1.46,md,15,67,0.02176,0.21,nc,nc75261846,2025-11-11T11:27:20.163Z,"3 km ESE of San Ramon, CA",earthquake,0.42,1.34000003,0.15,13,automatic,nc,nc
-2025-11-11T08:59:12.291Z,32.114,-101.502,8.6182,1.2,ml,26,50,0.1,0.2,tx,tx2025wfbwzm,2025-11-11T11:11:19.339Z,"12 km W of Forsan, Texas",earthquake,0.65558288319693,0.65220970691741,0.2,16,reviewed,tx,tx
