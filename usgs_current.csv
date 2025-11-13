@@ -15,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-13T09:40:04.060Z,64.3292,-149.9739,6.3,1.7,ml,,,,1.02,ak,ak025ekeyhxy,2025-11-13T09:43:15.367Z,"38 km W of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-13T09:34:28.740Z,33.7835,-116.9325,13.83,2.54,ml,126,17,0.03829,0.22,ci,ci40484674,2025-11-13T09:49:08.564Z,"2 km E of San Jacinto, CA",earthquake,0.11,0.27,0.277,26,automatic,ci,ci
 2025-11-13T09:27:24.444Z,34.7062,32.4866,10,4.6,mb,64,140,0.74,1.33,us,us6000rn3f,2025-11-13T11:08:08.042Z,"5 km SSE of Koloni, Cyprus",earthquake,2.44,1.903,0.074,54,reviewed,us,us
+2025-11-13T09:19:23.806Z,32.885,-100.97,4.4189,1.7,ml,30,71,0,0.2,tx,tx2025wiuaeb,2025-11-13T11:32:19.302Z,"19 km NNW of Snyder, Texas",earthquake,0.54643709626102,1.0414406043277,0.1,15,reviewed,tx,tx
 2025-11-13T09:11:53.759Z,62.5073,-149.1415,12,1.5,ml,,,,0.31,ak,ak025ekese0f,2025-11-13T09:13:46.599Z,"49 km E of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-11-13T09:06:32.081Z,60.8558,-149.2007,26,1.4,ml,,,,0.29,ak,ak025eker9qg,2025-11-13T09:08:47.742Z,"9 km S of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-13T09:04:41.897Z,-16.1622,-73.3806,101.974,4.8,mb,53,143,3.64,0.92,us,us6000rn3c,2025-11-13T09:24:46.040Z,"26 km ENE of Atico, Peru",earthquake,9.59,8.332,0.049,126,reviewed,us,us
