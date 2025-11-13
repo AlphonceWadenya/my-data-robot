@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-13T11:35:49.131Z,64.3811,-147.1632,9.8,1.4,ml,,,,0.41,ak,ak025ekg4e1t,2025-11-13T11:37:31.706Z,"20 km SW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-13T11:21:52.220Z,34.4616667,-117.9616667,8.91,0.7,ml,19,62,0.01371,0.09,ci,ci40484690,2025-11-13T11:25:31.638Z,"7 km SSE of Littlerock, CA",earthquake,0.15,0.28,0.192,16,automatic,ci,ci
 2025-11-13T11:06:49.069Z,61.8017,-149.6242,39.7,1.5,ml,,,,0.64,ak,ak025ekfy6a6,2025-11-13T11:09:14.873Z,"19 km N of Meadow Lakes, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-11-13T11:02:51.066Z,63.0686,-151.3626,0,1.9,ml,,,,0.75,ak,ak025ekfxbkj,2025-11-13T11:15:38.916Z,"55 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
