@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-12T06:00:53.004Z,73.1692,6.2648,10,4.1,mb,13,88,5.935,0.89,us,us6000rmwz,2025-11-12T07:49:42.040Z,"Greenland Sea",earthquake,8.33,1.942,0.198,7,reviewed,us,us
 2025-11-12T05:55:51.790Z,38.835334777832,-122.81383514404,1.6699999570847,0.7,md,11,58,0.01722,0.01,nc,nc75262251,2025-11-12T07:22:16.221Z,"8 km W of Cobb, CA",earthquake,0.31,0.860000014,0.09,11,automatic,nc,nc
 2025-11-12T05:53:04.720Z,34.0311667,-117.2353333,16.59,1.95,ml,111,14,0.0839,0.17,ci,ci40484082,2025-11-12T15:54:48.134Z,"3 km SE of Loma Linda, CA",earthquake,0.11,0.25,0.16,134,reviewed,ci,ci
-2025-11-12T05:47:03.080Z,33.0223333,-116.2968333,7.41,1.53,ml,67,40,0.06777,0.18,ci,ci40484074,2025-11-12T16:10:30.931Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.15,0.44,0.143,65,reviewed,ci,ci
