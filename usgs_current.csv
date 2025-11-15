@@ -177,4 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-14T23:56:26.028Z,24.8273,122.1276,9.932,4.7,mww,60,43,0.591,0.68,us,us6000rndw,2025-11-15T00:51:37.040Z,"38 km ENE of Yilan, Taiwan",earthquake,2.88,3.962,0.093,11,reviewed,us,us
 2025-11-14T23:56:12.640Z,47.390166666667,-124.1305,28.26,1.67,ml,22,236,0.03022,0.19,uw,uw62204687,2025-11-15T18:59:52.440Z,"12 km NE of Santiago, Washington",earthquake,0.63,0.44,0.14865200800556,11,reviewed,uw,uw
 2025-11-14T23:46:26.460Z,37.59716796875,-122.4691696167,9.8100004196167,1.6,md,17,106,0.02831,0.03,nc,nc75263376,2025-11-15T02:32:19.722Z,"2 km SE of Pacifica, CA",earthquake,0.42,0.560000002,0.11,12,automatic,nc,nc
-2025-11-14T23:45:32.777Z,61.8038,-149.9953,33.3,2,ml,,,,0.44,ak,ak025emav1ox,2025-11-14T23:57:56.303Z,"6 km NNE of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
