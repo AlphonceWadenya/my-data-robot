@@ -164,4 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-14T15:59:04.440Z,52.6829,-34.839,10,4.9,mb,37,113,12.514,0.81,us,us6000rnac,2025-11-14T16:16:53.040Z,"Reykjanes Ridge",earthquake,5.95,1.839,0.079,51,reviewed,us,us
 2025-11-14T15:54:00.076Z,60.6029,-149.0926,3.5,1.4,ml,,,,0.31,ak,ak025em65fs7,2025-11-14T15:55:39.699Z,"19 km NE of Moose Pass, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-11-14T15:43:55.387Z,32.436,-102.169,7.0557,0.8,ml,13,81,0,0.1,tx,tx2025wlcmjv,2025-11-14T15:54:40.639Z,"37 km ENE of McKinney Acres, Texas",earthquake,0.97184022220408,0.51043943952527,0.1,10,reviewed,tx,tx
-2025-11-14T15:40:20.979Z,59.9582,-153.3809,153.3,2,ml,,,,0.75,ak,ak025em62hhs,2025-11-14T15:45:15.493Z,"44 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
