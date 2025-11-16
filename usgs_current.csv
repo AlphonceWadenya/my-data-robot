@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-16T06:47:56.941Z,65.2997,-145.0683,0,1.7,ml,,,,0.83,ak,ak025epbtujo,2025-11-16T06:51:02.222Z,"32 km SSW of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-11-16T06:47:55.448Z,65.4283,-144.9976,0.9,1.7,ml,,,,0.8,ak,ak025epbtujo,2025-11-16T06:54:25.687Z,"18 km SSW of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-16T06:32:09.770Z,18.929666666667,-64.907166666667,25.61,3.14,md,8,250,0.5751,0.17,pr,pr71500243,2025-11-16T06:47:59.220Z,"65 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.15,13.79,0.07787088650098,3,reviewed,pr,pr
 2025-11-16T06:30:56.529Z,61.4692,-149.6563,51.5,1.6,ml,,,,0.85,ak,ak025epbq7hw,2025-11-16T06:32:45.454Z,"4 km ENE of Knik, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-11-16T06:19:50.606Z,57.5533,-154.8164,31.3,1.9,ml,,,,0.3,ak,ak025epbnu5w,2025-11-16T06:21:45.893Z,"21 km W of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
