@@ -212,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-15T22:15:02.929Z,62.4685,-149.6468,59.1,1.8,ml,,,,0.66,ak,ak025enxmguf,2025-11-15T22:17:41.509Z,"23 km E of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-11-15T22:03:15.403Z,-10.7664,164.437,10,4.4,mb,27,128,4.613,0.62,us,us6000rni5,2025-11-16T00:30:43.040Z,"148 km W of Lata, Solomon Islands",earthquake,10.08,1.92,0.123,19,reviewed,us,us
 2025-11-15T21:54:12.370Z,19.251499176025,-155.39967346191,30.309999465942,1.72,md,30,107,0.01407,0.140000001,hv,hv74831397,2025-11-15T21:58:14.580Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.66,0.699999988,0.20530817348329,15,automatic,hv,hv
-2025-11-15T21:49:32.950Z,38.814666748047,-122.81749725342,2.5499999523163,1.07,md,17,52,0.01047,0.02,nc,nc75263796,2025-11-15T22:22:21.860Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.479999989,0.21,17,automatic,nc,nc
