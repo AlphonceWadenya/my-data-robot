@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-15T23:58:29.007Z,64.9024,-150.663,6,1.7,ml,,,,0.75,ak,ak025enyh67o,2025-11-16T00:03:15.407Z,"11 km S of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-11-15T23:57:31.830Z,38.831833333333,-122.81133333333,2.81,0.3,md,11,75,0.008483,0.02,nc,nc75263856,2025-11-16T10:51:09.021Z,"8 km NW of The Geysers, CA",earthquake,0.54,0.63,0.244,12,reviewed,nc,nc
 2025-11-15T23:50:45.263Z,60.2993,-152.5661,96.1,2.3,ml,,,,0.43,ak,ak025enyfhpr,2025-11-15T23:53:18.568Z,"57 km WNW of Ninilchik, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2025-11-15T23:45:33.236Z,62.8179,-152.4215,4.3,3,ml,,,,0.91,ak,ak025enyee6k,2025-11-16T00:02:48.040Z,"87 km SSW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
