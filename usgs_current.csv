@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-16T08:19:38.100Z,38.790000915527,-122.77766418457,1.7000000476837,1.2,md,19,81,0.008619,0.02,nc,nc75264056,2025-11-16T09:07:20.245Z,"2 km NW of The Geysers, CA",earthquake,0.24,0.370000005,0.2,18,automatic,nc,nc
 2025-11-16T08:12:07.850Z,38.7936668396,-122.76516723633,3.2400000095367,1.19,md,25,68,0.008151,0.04,nc,nc75264051,2025-11-16T09:42:18.482Z,"2 km NNW of The Geysers, CA",earthquake,0.28,0.50999999,0.24,24,automatic,nc,nc
 2025-11-16T07:52:32.814Z,63.0116,-149.8118,72.4,1.6,ml,,,,0.53,ak,ak025epcgb0x,2025-11-16T07:54:45.075Z,"60 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-11-16T07:47:40.180Z,46.461166666667,-119.6315,18.6,0.68,ml,14,75,0.01675,0.1,uw,uw62204967,2025-11-16T19:55:44.490Z,"24 km NNW of Benton City, Washington",earthquake,0.32,0.35,0.19505857534575,12,reviewed,uw,uw
