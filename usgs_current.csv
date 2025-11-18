@@ -238,5 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-17T00:06:43.110Z,33.4575,-116.4466667,2.26,1.43,ml,68,29,0.1352,0.22,ci,ci40485786,2025-11-17T14:23:14.779Z,"23 km NNW of Borrego Springs, CA",earthquake,0.16,0.35,0.205,28,reviewed,ci,ci
 2025-11-17T00:06:09.600Z,33.4606667,-116.4373333,2.15,0.87,ml,40,43,0.1419,0.24,ci,ci40485778,2025-11-17T00:09:39.613Z,"24 km NNW of Borrego Springs, CA",earthquake,0.25,0.48,0.152,29,automatic,ci,ci
 2025-11-17T00:04:23.430Z,33.4568333,-116.4488333,2.01,1.78,ml,85,23,0.1336,0.22,ci,ci40485770,2025-11-17T14:23:42.903Z,"23 km NNW of Borrego Springs, CA",earthquake,0.13,0.3,0.16,27,reviewed,ci,ci
-2025-11-16T23:59:54.050Z,38.509,-112.89516666667,1.66,1.18,md,10,88,0.00247,0.07,uu,uu80122626,2025-11-17T21:57:10.290Z,"16 km NE of Milford, Utah",earthquake,0.37,0.5,0.23308224347606,3,reviewed,uu,uu
-2025-11-16T23:59:49.930Z,38.831832885742,-122.81549835205,1.3999999761581,0.99,md,15,52,0.009431,0.01,nc,nc75264426,2025-11-17T00:22:18.440Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.579999983,0.1,15,automatic,nc,nc
