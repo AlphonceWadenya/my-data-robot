@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-18T14:42:28.043Z,-23.2181,-179.6169,569.151,4.7,mb,29,112,5.867,0.76,us,us6000rnxf,2025-11-18T14:56:47.040Z,"south of the Fiji Islands",earthquake,14.02,10.86,0.09,40,reviewed,us,us
 2025-11-18T14:20:46.230Z,38.788333892822,-122.77066802978,4.710000038147,0.74,md,7,104,0.01432,0.01,nc,nc75265171,2025-11-18T14:42:16.898Z,"2 km NW of The Geysers, CA",earthquake,1,1.95000005,0.37,7,automatic,nc,nc
 2025-11-18T14:18:05.740Z,33.979667663574,-116.8176651001,13.909999847412,1.5648886098889,ml,50,41,0.05595,0.150000006,ci,ci41123463,2025-11-18T14:29:13.380Z,"7 km NNW of Cabazon, CA",earthquake,0.23,0.519999981,0.17232020199299,26,automatic,ci,ci
 2025-11-18T14:17:49.280Z,17.996666666667,-66.828333333333,14.98,2.37,md,11,137,0.04201,0.2,pr,pr71500408,2025-11-18T14:35:09.260Z,"0 km WNW of Indios, Puerto Rico",earthquake,0.44,0.78,0.1894181284123,7,reviewed,pr,pr
