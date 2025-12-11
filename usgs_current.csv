@@ -178,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-10T12:10:14.970Z,63.309,-151.158,0,1.5,ml,11,61,0.4,0.5,ak,ak2025ygohdw,2025-12-10T12:13:23.624Z,"38 km SE of Denali National Park, Alaska",earthquake,0,3.9604,0.3,5,automatic,ak,ak
 2025-12-10T12:03:12.008Z,32.107,-102.16,6.665,1.4,ml,47,72,0,0.2,tx,tx2025ygobby,2025-12-10T12:22:42.052Z,"14 km NNW of Midland, Texas",earthquake,0.43151149286381,1.2543988733872,0.2,24,reviewed,tx,tx
 2025-12-10T12:01:19.754Z,32.111,-102.165,6.0059,0.8,ml,22,84,0,0.2,tx,tx2025ygnzha,2025-12-10T12:30:12.096Z,"15 km NNW of Midland, Texas",earthquake,0.82603858926527,1.0571286854479,0.1,9,reviewed,tx,tx
-2025-12-10T11:47:07.240Z,19.864999771118,-155.32933044434,29.069999694824,1.74,md,26,162,0.0239,0.140000001,hv,hv74849387,2025-12-10T11:50:58.970Z,"16 km SW of Laupāhoehoe, Hawaii",earthquake,0.65,0.879999995,0.061653758547976,15,automatic,hv,hv
