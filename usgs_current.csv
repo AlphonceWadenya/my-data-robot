@@ -152,5 +152,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-12T23:28:36.160Z,28.804,-98.219,8.8341,1.9,ml,18,44,0,0.1,tx,tx2025ylcfmm,2025-12-13T00:19:35.088Z,"26 km NW of Pawnee, Texas",earthquake,0.54021943895849,1.0493994358368,0.2,10,reviewed,tx,tx
 2025-12-12T23:20:47.440Z,39.3595,-111.50133333333,5.34,1.69,ml,17,97,0.209,0.1,uu,uu80124866,2025-12-12T23:40:51.460Z,"7 km E of Ephraim, Utah",earthquake,0.39,0.98,0.045631061579798,5,reviewed,uu,uu
 2025-12-12T23:10:33.177Z,61.668,-150.913,60.6,2.2,ml,28,62,0.4,0.7,ak,ak2025ylbpxz,2025-12-12T23:12:19.342Z,"25 km WNW of Susitna, Alaska",earthquake,0,5.1368,0.1,4,automatic,ak,ak
-2025-12-12T22:52:17.480Z,17.953333333333,-66.927333333333,10.18,2.22,md,6,210,0.0506,0.05,pr,pr71502128,2025-12-13T00:04:00.660Z,"2 km SW of Guánica, Puerto Rico",earthquake,0.62,0.59,0.079020549957611,5,reviewed,pr,pr
-2025-12-12T22:50:16.232Z,65.11,-150.285,19.4,1.7,ml,15,82,0.2,0.6,ak,ak2025ylayle,2025-12-12T22:51:44.717Z,"20 km NE of Manley Hot Springs, Alaska",earthquake,0,2.8377,0.2,4,automatic,ak,ak
