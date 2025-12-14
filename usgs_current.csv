@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-13T18:29:48.970Z,60.166,-141.35,5,2,ml,11,170,0.1,1,ak,ak2025ymoavf,2025-12-13T18:31:35.983Z,"114 km NW of Yakutat, Alaska",earthquake,0,,0.3,4,automatic,ak,ak
 2025-12-13T18:14:37.610Z,38.837833404541,-122.81099700928,1.8099999427795,1.05,md,16,57,0.01444,0.02,nc,nc75279211,2025-12-13T18:16:14.467Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.50999999,0.12,17,automatic,nc,nc
 2025-12-13T17:58:34.563Z,24.1688,121.9267,26.826,4.1,mwr,53,65,0.303,0.67,us,us6000rupb,2025-12-13T18:28:50.040Z,"39 km ENE of Hualien City, Taiwan",earthquake,2.86,5.322,0.061,26,reviewed,us,us
-2025-12-13T17:52:17.665Z,63.352,-145.435,6.7,1.8,ml,17,66,0.2,0.8,ak,ak2025ymmunz,2025-12-13T17:54:17.771Z,"30 km NNE of Paxson, Alaska",earthquake,0,2.719,0.4,4,automatic,ak,ak
