@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-15T11:56:56.910Z,38.860168457031,-122.82350158691,1.4900000095367,0.8,md,7,180,0.005502,0.03,nc,nc75280276,2025-12-15T11:58:30.962Z,"10 km WNW of Cobb, CA",earthquake,0.76,1.65999997,0.14,8,automatic,nc,nc
 2025-12-15T11:47:01.540Z,34.236666666667,-117.89083333333,1.9,1.22,ml,47,39,0.06363,0.17,ci,ci41352128,2025-12-15T11:50:49.393Z,"11 km NNW of Glendora, CA",earthquake,0.14,0.23,0.22020758904766,27,automatic,ci,ci
 2025-12-15T11:44:54.800Z,38.56816482544,-122.32883453369,-0.17000000178814,1.45,md,10,112,0.08383,0.06,nc,nc75280266,2025-12-15T11:46:30.471Z,"11 km E of Angwin, CA",earthquake,0.44,2.97000003,0.06,10,automatic,nc,nc
 2025-12-15T11:43:13.240Z,38.799167633057,-122.74816894531,1.4800000190735,0.54,md,7,133,0.009136,0.01,nc,nc75280261,2025-12-15T11:44:50.647Z,"3 km NNE of The Geysers, CA",earthquake,0.46,0.689999998,0.25,8,automatic,nc,nc
@@ -232,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-14T12:21:49.520Z,33.6755,-117.9485,10.25,1.25,ml,35,164,0.01004,0.25,ci,ci41351560,2025-12-14T12:25:35.437Z,"4 km WNW of Costa Mesa, CA",earthquake,0.47,0.51,0.44690492843594,35,automatic,ci,ci
 2025-12-14T12:05:14.300Z,60.374,-151.848,81.3,2.9,ml,87,37,0.3,0.6,ak,ak2025ynxajb,2025-12-14T13:01:23.040Z,"29 km WNW of Clam Gulch, Alaska",earthquake,0,2.0794,0.3,11,automatic,ak,ak
 2025-12-14T12:03:27.731Z,1.9973,126.439,60.724,5,mb,80,55,2.881,0.81,us,us6000rut1,2025-12-14T12:19:26.040Z,"158 km ENE of Bitung, Indonesia",earthquake,7.48,6.929,0.067,72,reviewed,us,us
-2025-12-14T11:55:42.846Z,-7.2421,125.7132,502.401,4.7,mb,32,49,2.877,0.4,us,us6000rusz,2025-12-14T12:25:57.040Z,"142 km N of Metinaro, Timor Leste",earthquake,13.43,9.747,0.117,22,reviewed,us,us
