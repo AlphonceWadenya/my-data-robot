@@ -229,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-15T12:06:39.720Z,38.858333587646,-122.82183074951,0.72000002861023,0.63,md,8,160,0.003855,0.02,nc,nc75280286,2025-12-15T12:08:15.972Z,"9 km WNW of Cobb, CA",earthquake,0.32,0.649999976,0.1,8,automatic,nc,nc
 2025-12-15T12:05:08.656Z,-40.4278,175.8675,34.584,4,mwr,31,68,0.32,1.12,us,us6000ruyz,2025-12-16T07:15:32.365Z,"1 km SSE of Mangatainoka, New Zealand",earthquake,3.24,5.453,0.056,31,reviewed,us,us
 2025-12-15T12:03:31.430Z,60.3918,-139.5841,5,2.9,ml,18,97,0.446,0.91,us,us6000ruyy,2025-12-15T15:20:25.040Z,"94 km N of Yakutat, Alaska",earthquake,2.86,1.979,0.041,78,reviewed,us,us
-2025-12-15T11:56:56.910Z,38.860168457031,-122.82350158691,1.4900000095367,0.8,md,7,180,0.005502,0.03,nc,nc75280276,2025-12-15T11:58:30.962Z,"10 km WNW of Cobb, CA",earthquake,0.76,1.65999997,0.14,8,automatic,nc,nc
