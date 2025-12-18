@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-18T22:57:59.560Z,38.840831756592,-122.87716674805,2.079999923706,1.04,md,17,85,0.005558,0.02,nc,nc75282361,2025-12-18T22:59:34.669Z,"13 km NW of The Geysers, CA",earthquake,0.3,0.460000008,0.09,19,automatic,nc,nc
 2025-12-18T22:41:01.410Z,35.899,-117.6755,2.37,0.56,ml,15,62,0.05289,0.11,ci,ci41142415,2025-12-18T22:44:43.599Z,"21 km ESE of Little Lake, CA",earthquake,0.15,0.22,0.11687978384282,6,automatic,ci,ci
 2025-12-18T22:34:44.387Z,32.003,-102.215,8.9469,2.1,ml,8,169,0,0.5,tx,tx2025ywauij,2025-12-18T22:38:48.569Z,"12 km W of Midland, Texas",earthquake,0,5.4164156913757,0.3,6,automatic,tx,tx
 2025-12-18T22:27:59.060Z,38.832500457764,-122.81566619873,1.460000038147,0.45,md,10,83,0.01009,0.02,nc,nc75282341,2025-12-18T22:29:35.197Z,"8 km NW of The Geysers, CA",earthquake,0.36,0.99000001,0.33,11,automatic,nc,nc
@@ -270,4 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-17T23:22:36.311Z,63.172,-149.926,82.3,1.8,ml,31,73,0.5,0.7,ak,ak2025yugqrt,2025-12-17T23:24:21.770Z,"54 km WSW of Cantwell, Alaska",earthquake,0,3.4913,0.4,4,automatic,ak,ak
 2025-12-17T23:07:46.659Z,6.6992,-82.5408,10.259,5.6,mww,58,145,3.352,1.04,us,us6000rvkl,2025-12-18T20:24:22.040Z,"152 km SSE of Burica, Panama",earthquake,8.44,5.758,0.044,50,reviewed,us,us
 2025-12-17T23:06:07.240Z,60.06,-153.08583333333,0.89,-0.79,ml,5,194,0.01147,0.11,av,av93953466,2025-12-18T03:23:48.540Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.59,0.31,0.21768465600017,4,reviewed,av,av
-2025-12-17T22:56:19.010Z,47.3585,-117.89616666667,-0.67,2.11,ml,11,95,0.155,0.36,uw,uw62219081,2025-12-18T16:34:16.550Z,"8 km NE of Sprague, Washington",explosion,0.61,31.61,0.10965404098209,5,reviewed,uw,uw
