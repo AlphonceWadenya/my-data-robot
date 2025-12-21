@@ -226,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-20T05:55:47.490Z,37.748165130615,-121.93550109863,8.8800001144409,2.06,md,23,45,0.1031,0.08,nc,nc75283181,2025-12-20T05:57:27.259Z,"5 km N of Dublin, CA",earthquake,0.22,0.50999999,0.1,21,automatic,nc,nc
 2025-12-20T05:55:33.332Z,-25.5071,-179.7834,524.623,4.3,mb,15,244,7.982,0.71,us,us6000rw5h,2025-12-20T06:42:54.040Z,"south of the Fiji Islands",earthquake,24.18,38.026,0.142,14,reviewed,us,us
 2025-12-20T05:54:08.073Z,61.05,-147.482,30.4,1.8,ml,8,113,0.3,0.8,ak,ak2025yylbwg,2025-12-20T05:55:32.685Z,"48 km WNW of Tatitlek, Alaska",earthquake,0,11.6158,0.5,4,automatic,ak,ak
-2025-12-20T05:52:31.387Z,10.2114,126.1067,10,4.6,mb,33,108,3.165,0.81,us,us6000rw5j,2025-12-20T06:13:56.040Z,"22 km NNE of Santa Monica, Philippines",earthquake,12.02,1.903,0.109,25,reviewed,us,us
