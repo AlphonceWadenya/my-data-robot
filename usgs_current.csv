@@ -192,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-26T19:44:07.926Z,32.479,-102.015,4.4215,1,ml,9,94,0.1,0.6,tx,tx2025zkmyjc,2025-12-26T19:51:45.160Z,"28 km SSW of Los Ybanez, Texas",earthquake,0,2.0134880542755,0.4,5,automatic,tx,tx
 2025-12-26T19:41:30.180Z,34.371166666667,-118.626,11.21,1.43,ml,48,112,0.02911,0.23,ci,ci41147463,2025-12-26T19:45:10.045Z,"11 km SSW of Valencia, CA",earthquake,0.23,0.41,0.12785149042304,29,automatic,ci,ci
 2025-12-26T19:40:48.304Z,32.098,-101.125,3.8693,1.7,ml,35,95,0.2,0.4,tx,tx2025zkmvmn,2025-12-27T00:17:30.743Z,"22 km E of Forsan, Texas",earthquake,0,1.1186045408249,0.2,25,automatic,tx,tx
-2025-12-26T19:29:50.283Z,31.586,-104.509,1.1453,1.5,ml,15,146,0.1,0.6,tx,tx2025zkmlyg,2025-12-26T19:32:38.052Z,"66 km S of Whites City, New Mexico",earthquake,0,1.8125314712524,0.2,11,automatic,tx,tx
