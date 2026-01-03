@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-01-03T21:52:41.471Z,32.083,-103.732,6.0023,1.6,ml,18,110,0.1,0.3,tx,tx2026afiynu,2026-01-03T21:55:34.207Z,"35 km ESE of Malaga, New Mexico",earthquake,0,3.3788192272186,0.2,11,automatic,tx,tx
+2026-01-03T21:50:04.600Z,37.50566482544,-122.07099914551,17.110000610352,1.67,md,6,140,0.2219,0.1,nc,nc75290496,2026-01-03T21:51:43.562Z,"4 km SW of Newark, CA",earthquake,1.73,2.30999994,0.25,4,automatic,nc,nc
 2026-01-03T21:21:42.054Z,60.796,-149.93,33.8,1.9,ml,36,99,0.3,0.8,ak,ak2026afhyfv,2026-01-03T21:23:34.229Z,"20 km SW of Hope, Alaska",earthquake,0,3.6697,0.4,4,automatic,ak,ak
 2026-01-03T21:15:39.230Z,34.1385,-118.373,17.47,1.41,ml,17,86,0.02415,0.19,ci,ci41151855,2026-01-03T21:19:19.421Z,"2 km W of Universal City, CA",earthquake,0.56,0.66,0.28027323507044,29,automatic,ci,ci
 2026-01-03T20:53:52.838Z,32.108,-101.886,5,1.1,ml,6,196,0.1,0.6,tx,tx2026afhahm,2026-01-03T20:56:02.165Z,"9 km WSW of Stanton, Texas",earthquake,0,,0.2,5,automatic,tx,tx
