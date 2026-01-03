@@ -169,7 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-02T20:37:26.663Z,63.55,-147.896,2.8,1.5,ml,15,80,0.5,0.6,ak,ak2026adktfs,2026-01-02T20:40:39.143Z,"54 km ESE of Denali Park, Alaska",earthquake,0,2.7134,0.3,4,automatic,ak,ak
 2026-01-02T20:29:37.480Z,18.6635,-68.18,85,3.61,md,24,152,0.2509,0.37,pr,pr2026002000,2026-01-02T21:39:51.480Z,"25 km ENE of Punta Cana, Dominican Republic",earthquake,2.55,1.71,0.25,20,reviewed,pr,pr
 2026-01-02T20:29:05.507Z,41.199,-116.6812,10.4543,1.71,ml,7,254,0.321,0.1335,nn,nn00909172,2026-01-02T22:45:15.512Z,"58 km NE of Valmy, Nevada",earthquake,,2.3947,0.21,3,reviewed,nn,nn
-2026-01-02T20:19:41.985Z,41.2038,-116.6826,9.9274,2.77,ml,10,205,0.325,0.1208,nn,nn00909168,2026-01-02T21:58:51.507Z,"59 km NE of Valmy, Nevada",earthquake,,2.3671,0.08,5,reviewed,nn,nn
+2026-01-02T20:19:41.985Z,41.2038,-116.6826,9.9274,2.77,ml,10,205,0.325,0.1208,nn,nn00909168,2026-01-03T19:08:12.040Z,"59 km NE of Valmy, Nevada",earthquake,,2.3671,0.08,5,reviewed,nn,nn
 2026-01-02T20:18:45.734Z,32.145,-101.061,2.4518,1.9,ml,15,99,0.2,0.4,tx,tx2026adkddj,2026-01-03T00:16:15.734Z,"23 km S of Westbrook, Texas",earthquake,0,1.7394964694977,0.2,11,automatic,tx,tx
 2026-01-02T20:13:38.155Z,59.939,-141.491,0.3,3,ml,31,140,0.3,0.8,ak,ak2026adjysf,2026-01-03T18:39:52.040Z,"108 km WNW of Yakutat, Alaska",earthquake,0,3.0462,0.3,4,automatic,ak,ak
 2026-01-02T20:13:16.988Z,57.669,-155.404,19.8,1.4,ml,11,240,0.4,0.4,ak,ak2026adjyit,2026-01-02T20:16:14.288Z,"57 km W of Karluk, Alaska",earthquake,0,4.0869,0.2,4,automatic,ak,ak
@@ -187,5 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-02T19:14:58.773Z,58.624,-155.877,5.3,1.5,ml,12,223,0.2,0.5,ak,ak2026adhztz,2026-01-02T20:15:50.602Z,"46 km E of King Salmon, Alaska",earthquake,0,10.2502,0.6,6,automatic,ak,ak
 2026-01-02T19:13:55.570Z,33.2695,-116.12983333333,8.7,0.8,ml,35,54,0.1292,0.24,ci,ci41151159,2026-01-02T19:17:37.694Z,"14 km N of Ocotillo Wells, CA",earthquake,0.31,1.05,0.15002584859908,19,automatic,ci,ci
 2026-01-02T19:13:48.786Z,62.069,-149.368,0.2,2.2,ml,31,48,0.4,0.8,ak,ak2026adhzdy,2026-01-02T19:15:20.425Z,"27 km ESE of Susitna North, Alaska",earthquake,0,2.0919,0.4,4,automatic,ak,ak
-2026-01-02T19:08:46.058Z,32.142,-101.04,9.082,3.1,ml,12,189,0.2,0.1,tx,tx2026adhuqg,2026-01-03T15:33:11.040Z,"23 km S of Westbrook, Texas",earthquake,2.2550381764837,4.1977146619965,0.1,13,reviewed,tx,tx
-2026-01-02T19:08:34.706Z,32.143,-101.06,7.5439,2.9,ml,27,89,0.2,0.1,tx,tx2026adhuqq,2026-01-03T15:07:42.040Z,"23 km S of Westbrook, Texas",earthquake,0.87353755582774,3.115414088436,0.2,33,reviewed,tx,tx
