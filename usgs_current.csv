@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-03T21:35:47.280Z,53.884833333333,-166.9325,5.44,-0.26,ml,6,195,0.06959,0.14,av,av93054064,2026-01-04T11:11:54.480Z,"25 km W of Dutch Harbor, Alaska",earthquake,0.56,1.26,0.2228367842394,6,reviewed,av,av
 2026-01-03T21:21:42.054Z,60.796,-149.93,33.8,1.9,ml,36,99,0.3,0.8,ak,ak2026afhyfv,2026-01-03T21:23:34.229Z,"20 km SW of Hope, Alaska",earthquake,0,3.6697,0.4,4,automatic,ak,ak
 2026-01-03T21:15:39.230Z,34.1385,-118.373,17.47,1.41,ml,17,86,0.02415,0.19,ci,ci41151855,2026-01-03T21:19:19.421Z,"2 km W of Universal City, CA",earthquake,0.56,0.66,0.28027323507044,29,automatic,ci,ci
-2026-01-03T20:53:52.838Z,32.108,-101.886,5,1.1,ml,6,196,0.1,0.6,tx,tx2026afhahm,2026-01-03T20:56:02.165Z,"9 km WSW of Stanton, Texas",earthquake,0,,0.2,5,automatic,tx,tx
