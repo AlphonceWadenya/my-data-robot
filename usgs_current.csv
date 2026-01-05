@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-01-05T07:52:41.890Z,38.836334228516,-122.79499816894,1.8700000047684,1.01,md,15,77,0.004184,0.01,nc,nc75291111,2026-01-05T07:54:19.178Z,"6 km WNW of Cobb, CA",earthquake,0.3,0.460000008,0.25,17,automatic,nc,nc
 2026-01-05T07:44:28.270Z,62.461,-151.019,80.4,1.9,ml,28,61,0.1,0.6,ak,ak2026ahyhtx,2026-01-05T07:46:03.189Z,"13 km WSW of Petersville, Alaska",earthquake,0,3.2817,0.4,4,automatic,ak,ak
 2026-01-05T07:36:10.752Z,32.089,-101.486,0.6748,1.2,ml,12,97,0.1,0.6,tx,tx2026ahyaps,2026-01-05T07:39:38.435Z,"11 km WSW of Forsan, Texas",earthquake,0,1.6931034326553,0.2,8,automatic,tx,tx
 2026-01-05T07:35:13.933Z,59.185,-153.586,16.8,2.4,ml,35,73,0.2,0.9,ak,ak2026ahxzuy,2026-01-05T07:36:58.330Z,"66 km SE of Pope-Vannoy Landing, Alaska",earthquake,0,1.7879,0.4,6,automatic,ak,ak
