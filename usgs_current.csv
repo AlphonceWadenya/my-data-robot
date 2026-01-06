@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-01-06T23:48:38.450Z,38.838333129883,-122.78283691406,1.9700000286102,1.77,md,16,78,0.005863,0.01,nc,nc75291766,2026-01-06T23:50:12.844Z,"5 km WNW of Cobb, CA",earthquake,0.24,0.479999989,0.26,16,automatic,nc,nc
+2026-01-06T23:48:33.620Z,38.837833404541,-122.78216552734,1.7799999713898,2.02,md,23,71,0.006413,0.02,nc,nc75291761,2026-01-06T23:50:08.149Z,"5 km WNW of Cobb, CA",earthquake,0.22,0.340000004,0.1,23,automatic,nc,nc
 2026-01-06T23:44:32.425Z,32.421,-101.522,7.0691,1,ml,5,158,0.1,0.3,tx,tx2026akzvyu,2026-01-06T23:47:10.300Z,"19 km NNW of Big Spring, Texas",earthquake,0,4.3287153244019,0.5,5,automatic,tx,tx
 2026-01-06T23:37:42.186Z,64.471,-146.959,5,2.2,ml,26,38,0.1,0.7,ak,ak2026akzqbs,2026-01-06T23:39:43.293Z,"6 km SSW of Salcha, Alaska",earthquake,0,,0.3,11,automatic,ak,ak
 2026-01-06T23:22:08.740Z,34.045333333333,-116.886,10.67,0.93,ml,7,192,0.06346,0.08,ci,ci41153279,2026-01-06T23:25:44.782Z,"13 km N of Banning, CA",earthquake,1.17,0.71,0.16951071638847,26,automatic,ci,ci
