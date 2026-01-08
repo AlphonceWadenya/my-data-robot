@@ -61,6 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-08T06:23:51.107Z,32.352,-102.106,8.374,1.1,ml,32,43,0,0.2,tx,tx2026aniuyd,2026-01-08T11:45:38.532Z,"38 km NW of Stanton, Texas",earthquake,0.46508003954088,0.57665632216668,0.1,13,reviewed,tx,tx
 2026-01-08T06:18:20.932Z,57.909,-155.032,90.9,2.4,ml,83,106,0.2,0.6,ak,ak2026aniqar,2026-01-08T07:45:10.040Z,"51 km NW of Karluk, Alaska",earthquake,0,1.8714,0.6,27,automatic,ak,ak
 2026-01-08T06:15:46.260Z,33.578833333333,-116.71116666667,12.57,0.47,ml,19,58,0.0256,0.12,ci,ci41154295,2026-01-08T06:19:24.634Z,"4 km NW of Anza, CA",earthquake,0.26,0.4,0.2621236113865,10,automatic,ci,ci
+2026-01-08T06:11:08.246Z,32.277,-101.926,7.251,0.7,ml,25,53,0,0.2,tx,tx2026anijzt,2026-01-08T11:53:07.578Z,"20 km NW of Stanton, Texas",earthquake,0.45306958367903,0.81004284252825,0.1,10,reviewed,tx,tx
 2026-01-08T06:10:00.257Z,31.883,-101.738,8.2764,1.4,ml,45,52,0,0.2,tx,tx2026anigct,2026-01-08T09:51:43.284Z,"24 km W of Garden City, Texas",earthquake,0.41357294757349,0.65261354863928,0.1,19,reviewed,tx,tx
 2026-01-08T06:06:39.500Z,34.033333333333,-117.23333333333,13.8,1.41,ml,82,21,0.08281,0.16,ci,ci41154287,2026-01-08T06:17:28.640Z,"3 km ESE of Loma Linda, CA",earthquake,0.12,0.28,0.21444793187154,28,automatic,ci,ci
 2026-01-08T06:01:40.344Z,61.878,-151.848,103.4,2.5,ml,90,60,0.2,0.6,ak,ak2026anibve,2026-01-08T07:39:08.040Z,"26 km WSW of Skwentna, Alaska",earthquake,0,2.2039,0.8,4,automatic,ak,ak
