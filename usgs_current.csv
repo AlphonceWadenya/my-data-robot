@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-09T19:01:34.438Z,61.113,-152.138,107.7,1.7,ml,43,50,0.1,0.6,ak,ak2026aqdqxe,2026-01-09T19:04:20.957Z,"54 km W of Tyonek, Alaska",earthquake,0,2.5811,0.4,14,automatic,ak,ak
 2026-01-09T18:41:54.750Z,34.024333333333,-116.94083333333,4.2,1.45,ml,51,45,0.06916,0.15,ci,ci41154887,2026-01-09T18:52:48.050Z,"9 km E of Yucaipa, CA",earthquake,0.13,0.44,0.16065911216398,28,automatic,ci,ci
 2026-01-09T18:38:29.346Z,36.3536,-110.1705,9.332,3.7,ml,50,45,1.283,0.39,us,us7000rnr8,2026-01-09T19:36:46.774Z,"20 km SSW of Chilchinbito, Arizona",earthquake,3.38,7.242,0.028,162,reviewed,us,us
-2026-01-09T18:31:20.688Z,41.1955,-116.75,5.8618,1.72,ml,5,255,0.362,0.1998,nn,nn00909371,2026-01-09T19:41:13.186Z,"54 km NE of Valmy, Nevada",earthquake,,3.2341,0.37,2,automatic,nn,nn
+2026-01-09T18:31:20.688Z,41.1955,-116.75,5.8618,1.72,ml,5,255,0.362,0.1998,nn,nn00909371,2026-01-09T19:43:44.664Z,"54 km NE of Valmy, Nevada",earthquake,,3.2341,0.37,2,reviewed,nn,nn
 2026-01-09T18:22:16.260Z,38.813835144043,-122.78333282471,0.94999998807907,0.96,md,8,72,0.002147,0.02,nc,nc75293101,2026-01-09T18:23:52.333Z,"5 km NNW of The Geysers, CA",earthquake,0.36,0.920000017,0.21,9,automatic,nc,nc
 2026-01-09T18:21:00.840Z,44.666333333333,-110.6805,5.65,0.06,md,9,93,0.04648,0.12,uu,uu80127156,2026-01-09T19:27:01.660Z,"33 km E of West Yellowstone, Montana",earthquake,0.44,0.9,0.32138524070834,5,reviewed,uu,uu
 2026-01-09T18:17:22.487Z,37.9738,-116.4269,1.58,1.61,ml,8,332,0.806,0.3164,nn,nn00909366,2026-01-09T18:20:14.459Z,"70 km WNW of Rachel, Nevada",earthquake,,41.6709,0.37,4,automatic,nn,nn
