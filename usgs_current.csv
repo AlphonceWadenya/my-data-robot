@@ -235,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-15T20:28:49.406Z,31.55,-104.134,7.9456,1.7,ml,21,68,0,0.1,tx,tx2026bbgxcs,2026-01-15T23:36:07.125Z,"41 km NW of Toyah, Texas",earthquake,0.96740603439337,0.45071876484666,0.1,11,reviewed,tx,tx
 2026-01-15T20:18:17.930Z,33.226,-116.06866666667,10.34,1.19,ml,46,54,0.09249,0.2,ci,ci41159159,2026-01-15T20:29:02.060Z,"11 km NNE of Ocotillo Wells, CA",earthquake,0.18,0.48,0.26645053591449,29,automatic,ci,ci
 2026-01-15T20:02:14.431Z,60.223,-152.55,102.9,1.6,ml,30,91,0.2,0.5,ak,ak2026bbgaip,2026-01-15T20:04:49.602Z,"52 km WNW of Ninilchik, Alaska",earthquake,6.2,3.7298,0.7,7,automatic,ak,ak
-2026-01-15T19:57:40.250Z,38.810001373291,-122.7705001831,0.68999999761581,0.69,md,7,136,0.008596,0.02,nc,nc75296236,2026-01-15T19:59:16.541Z,"4 km NNW of The Geysers, CA",earthquake,0.41,1.13999999,0.14,8,automatic,nc,nc
