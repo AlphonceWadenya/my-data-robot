@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-01-17T22:47:15.600Z,36.092166666667,-117.895,5.84,1.58,ml,30,43,0.04123,0.14,ci,ci41160719,2026-01-17T22:50:58.096Z,"7 km NE of Coso Junction, CA",earthquake,0.16,0.33,0.17620458725529,23,automatic,ci,ci
+2026-01-17T22:46:41.150Z,36.087666666667,-117.89716666667,6.35,0.89,ml,19,70,0.04544,0.12,ci,ci41160711,2026-01-17T22:50:14.474Z,"7 km NE of Coso Junction, CA",earthquake,0.19,0.31,0.33449327682936,8,automatic,ci,ci
+2026-01-17T22:45:53.430Z,36.090833333333,-117.896,6.78,0.99,ml,13,120,0.04269,0.11,ci,ci41160703,2026-01-17T22:49:33.446Z,"7 km NE of Coso Junction, CA",earthquake,0.25,0.53,0.179226769724,6,automatic,ci,ci
+2026-01-17T22:43:29.710Z,36.09349822998,-117.89666748047,4.8499999046326,3.0655234624529,ml,50,33,0.04152,0.170000002,ci,ci41160695,2026-01-17T22:45:39.912Z,"7 km NE of Coso Junction, CA",earthquake,0.2,0.560000002,0.30376273393631,22,automatic,ci,ci
+2026-01-17T22:41:34.695Z,31.587,-103.666,0,1.6,ml,9,197,0.2,1.1,tx,tx2026bfctkj,2026-01-17T22:46:58.797Z,"14 km SSW of Mentone, Texas",earthquake,0,,0.7,7,automatic,tx,tx
 2026-01-17T22:36:57.417Z,59.725,-153.069,101.9,2.3,ml,84,74,0.1,0.6,ak,ak2026bfcpki,2026-01-17T22:40:32.125Z,"58 km E of Pedro Bay, Alaska",earthquake,3.3,1.9922,0.5,18,automatic,ak,ak
 2026-01-17T22:35:38.570Z,34.691666666667,-116.2845,9.07,0.83,ml,11,82,0.11,0.18,ci,ci41160687,2026-01-17T22:39:22.416Z,"12 km WSW of Ludlow, CA",earthquake,0.32,1.09,0.25745700822132,10,automatic,ci,ci
 2026-01-17T22:35:04.782Z,56.608,-135.64,5,2.5,ml,5,316,0.4,0.3,ak,ak2026bfcnsa,2026-01-17T22:37:56.104Z,"53 km SSW of Sitka, Alaska",earthquake,129.4,,0.8,4,automatic,ak,ak
@@ -241,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-16T23:18:58.820Z,35.703,-117.59716666667,8.22,0.45,ml,17,91,0.1125,0.16,ci,ci41160039,2026-01-16T23:22:37.714Z,"12 km NE of Ridgecrest, CA",earthquake,0.3,0.82,0.085745591598939,8,automatic,ci,ci
 2026-01-16T23:13:43.400Z,19.281666666667,-154.9675,36.14,1.78,ml,30,251,0.1056,0.12,hv,hv74877947,2026-01-16T23:58:16.440Z,"21 km SSW of Leilani Estates, Hawaii",earthquake,0.94,0.53,0.24970763735734,3,reviewed,hv,hv
 2026-01-16T23:07:32.140Z,35.337,-117.8105,6.75,1.94,ml,54,37,0.07519,0.18,ci,ci41160023,2026-01-16T23:11:17.310Z,"16 km WSW of Johannesburg, CA",earthquake,0.15,0.48,0.16626293674014,25,automatic,ci,ci
-2026-01-16T22:45:09.190Z,33.242166666667,-116.68216666667,6.71,0.54,ml,23,75,0.05192,0.13,ci,ci41160007,2026-01-16T22:48:48.104Z,"6 km SW of Warner Springs, CA",earthquake,0.21,0.35,0.26469092596378,9,automatic,ci,ci
