@@ -47,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-19T15:44:39.644Z,61.396,-152.205,17.7,0.6,ml,8,195,0.1,1.2,ak,ak2026bigjxj,2026-01-19T15:46:06.291Z,"66 km WNW of Beluga, Alaska",earthquake,16.5,37.0916,0.3,2,automatic,ak,ak
 2026-01-19T15:43:57.283Z,17.3474,95.7827,10,4.4,mb,28,173,2.849,0.61,us,us7000rql1,2026-01-19T19:06:45.280Z,"33 km S of Tharyarwady, Burma (Myanmar)",earthquake,11.49,1.914,0.139,15,reviewed,us,us
 2026-01-19T15:37:45.183Z,60.043,-152.498,94.5,1.6,ml,48,68,0.3,0.5,ak,ak2026bigdxz,2026-01-19T15:39:46.595Z,"44 km WNW of Happy Valley, Alaska",earthquake,3.7,2.4331,0.8,7,automatic,ak,ak
-2026-01-19T15:35:23.415Z,40.5904,-119.5973,6,3.75,mw,7,159,0.433,0.1514,nn,nn00909679,2026-01-19T18:06:10.178Z,"21 km WSW of Gerlach, Nevada",earthquake,,2.8045,,,reviewed,nn,nn
+2026-01-19T15:35:23.415Z,40.5904,-119.5973,6,3.75,mw,7,159,0.433,0.1514,nn,nn00909679,2026-01-19T19:45:39.252Z,"21 km WSW of Gerlach, Nevada",earthquake,,2.8045,,,reviewed,nn,nn
 2026-01-19T15:24:16.680Z,38.829666137695,-122.8065032959,1.2400000095367,1.31,md,22,51,0.006855,0.02,nc,nc75298166,2026-01-19T15:25:50.618Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.360000014,0.09,24,automatic,nc,nc
 2026-01-19T15:08:59.200Z,38.822666168213,-122.80699920654,2.3499999046326,1.29,md,25,36,0.00251,0.02,nc,nc75298151,2026-01-19T15:10:35.404Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.370000005,0.08,26,automatic,nc,nc
 2026-01-19T15:04:14.390Z,31.66,-103.694,4.2274,1.6,ml,6,174,0.1,0.9,tx,tx2026bifbbq,2026-01-19T16:00:39.710Z,"10 km WSW of Mentone, Texas",earthquake,0,2.9798212051392,0.6,6,automatic,tx,tx
