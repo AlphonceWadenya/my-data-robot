@@ -199,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-23T21:09:21.152Z,61.495,-146.733,21,1.7,ml,28,67,0.4,1,ak,ak2026bqabew,2026-01-23T21:10:50.568Z,"45 km NNW of Valdez, Alaska",earthquake,3.4,2.6398,0.3,6,automatic,ak,ak
 2026-01-23T21:04:44.543Z,58.583,-155.958,175.7,2.3,ml,52,150,0.2,0.8,ak,ak2026bpzxeg,2026-01-23T21:09:05.911Z,"42 km ESE of King Salmon, Alaska",earthquake,9.2,3.465,0.6,24,automatic,ak,ak
 2026-01-23T21:04:12.420Z,36.641666412354,-121.30950164795,5.25,1.55,md,20,70,0.03102,0.15,nc,nc75300721,2026-01-23T21:05:51.127Z,"17 km S of Tres Pinos, CA",earthquake,0.47,0.959999979,0.23,16,automatic,nc,nc
-2026-01-23T20:52:57.870Z,33.8085,-116.87883333333,14.59,0.82,ml,10,244,0.1268,0.08,ci,ci41170079,2026-01-23T20:56:41.955Z,"7 km NNE of Valle Vista, CA",earthquake,0.93,0.78,0.15972927346992,16,automatic,ci,ci
