@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2026-01-25T14:42:12.984Z,60.887,-149.205,24.4,2.6,ml,21,55,0.3,0.6,ak,ak2026bterja,2026-01-25T14:43:13.546Z,"6 km SSW of Girdwood, Alaska",earthquake,4,3.0052,0,1,automatic,ak,ak
-2026-01-25T14:38:05.070Z,34.509,-118.8315,13.97,2.16,ml,87,17,0.0764,0.29,ci,ci41171903,2026-01-25T14:41:48.178Z,"11 km NNW of Piru, CA",earthquake,0.2,0.51,0.19925302900796,26,automatic,ci,ci
+2026-01-25T14:38:05.070Z,34.509,-118.8315,13.97,2.16,ml,87,17,0.0764,0.29,ci,ci41171903,2026-01-25T14:49:02.710Z,"11 km NNW of Piru, CA",earthquake,0.2,0.51,0.19925302900796,26,automatic,ci,ci
 2026-01-25T14:32:46.620Z,38.837833404541,-122.81066894531,1.9400000572205,0.24,md,8,98,0.01442,0.01,nc,nc75301521,2026-01-25T14:34:24.984Z,"8 km WNW of Cobb, CA",earthquake,0.39,1.02999997,0.11,10,automatic,nc,nc
 2026-01-25T14:25:17.570Z,38.837833404541,-122.81066894531,2.1199998855591,0.94,md,14,86,0.01442,0.02,nc,nc75301511,2026-01-25T14:26:53.871Z,"8 km WNW of Cobb, CA",earthquake,0.31,0.600000024,0.24,14,automatic,nc,nc
 2026-01-25T14:21:22.210Z,33.903166666667,-116.153,5.54,0.82,ml,34,110,0.02796,0.17,ci,ci41171879,2026-01-25T14:24:57.328Z,"21 km NNE of Indio, CA",earthquake,0.26,0.43,0.17968291623873,18,automatic,ci,ci
