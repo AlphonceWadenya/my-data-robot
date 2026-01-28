@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2026-01-28T19:45:41.440Z,31.881,-101.505,3.4251,1.2,ml,15,87,0.2,0.4,tx,tx2026bzbxnc,2026-01-28T19:51:13.897Z,"2 km NW of Garden City, Texas",earthquake,0,1.6964739561081,0.2,4,automatic,tx,tx
+2026-01-28T19:56:42.630Z,34.047164916992,-117.26249694824,15.130000114441,1.4589458219566,ml,44,81,0.091,0.170000002,ci,ci41175079,2026-01-28T19:58:59.419Z,"0 km SW of Loma Linda, CA",earthquake,0.28,0.439999998,0.30573379993439,8,automatic,ci,ci
+2026-01-28T19:45:41.440Z,31.881,-101.505,3.4251,1.5,ml,15,87,0.2,0.4,tx,tx2026bzbxnc,2026-01-28T19:52:46.908Z,"2 km NW of Garden City, Texas",earthquake,0,1.6964739561081,0.2,7,automatic,tx,tx
 2026-01-28T19:36:50.750Z,31.894,-101.515,1.0914,1.2,ml,8,157,0.2,0.7,tx,tx2026bzbpwq,2026-01-28T19:51:06.896Z,"4 km NW of Garden City, Texas",earthquake,0,2.2737746238708,0.3,5,automatic,tx,tx
 2026-01-28T19:32:12.743Z,58.272,-154.932,5,1.6,ml,13,146,0.1,0.2,ak,ak2026bzblws,2026-01-28T19:32:58.717Z,"83 km NNW of Karluk, Alaska",earthquake,6.3,,0,1,automatic,ak,ak
 2026-01-28T19:28:09.953Z,31.883,-101.504,2.6191,1.7,ml,35,114,0.2,0.5,tx,tx2026bzbikr,2026-01-28T19:44:47.859Z,"3 km NW of Garden City, Texas",earthquake,0,1.114462852478,0.2,19,automatic,tx,tx
@@ -288,5 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-27T20:10:29.480Z,38.82500076294,-122.85182952881,1.8700000047684,0.77,md,11,106,0.004688,0.01,nc,nc75302776,2026-01-27T20:12:07.137Z,"10 km WNW of The Geysers, CA",earthquake,0.36,0.74000001,0.16,12,automatic,nc,nc
 2026-01-27T20:09:39.700Z,19.211166381836,-155.48750305176,33.590000152588,1.78,md,28,213,0.03857,0.119999997,hv,hv74886487,2026-01-27T20:14:10.100Z,"1 km NW of Pāhala, Hawaii",earthquake,0.74,0.959999979,0.11368251815117,15,automatic,hv,hv
 2026-01-27T20:03:25.590Z,36.096333333333,-117.9025,4.36,1.11,ml,24,45,0.04402,0.11,ci,ci41174023,2026-01-27T20:11:44.673Z,"7 km NE of Coso Junction, CA",earthquake,0.14,0.22,0.20238091472678,19,reviewed,ci,ci
-2026-01-27T20:00:10.070Z,34.989333333333,-118.18766666667,-0.84,1.23,ml,22,52,0.1153,0.25,ci,ci41174007,2026-01-27T20:03:46.457Z,"7 km S of Mojave, CA",earthquake,0.32,0.71,0.13149019373512,22,automatic,ci,ci
-2026-01-27T19:54:13.063Z,6.5558,123.7758,10,5.1,mww,110,39,1.862,0.68,us,us6000s4uf,2026-01-28T02:21:34.836Z,"28 km W of Bantogon, Philippines",earthquake,8.11,1.762,0.069,20,reviewed,us,us
