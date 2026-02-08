@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-02-08T11:57:17.979Z,59.749,-152.777,93,1.9,ml,54,71,0.3,0.5,ak,ak2026csrjoq,2026-02-08T11:59:04.227Z,"53 km W of Anchor Point, Alaska",earthquake,3.9,2.2408,0.8,4,automatic,ak,ak
+2026-02-08T11:52:54.747Z,58.252,-154.99,5,1.5,ml,20,131,0.1,0.4,ak,ak2026csrfuf,2026-02-08T11:54:56.459Z,"82 km NNW of Karluk, Alaska",earthquake,4.3,,0.4,6,automatic,ak,ak
+2026-02-08T11:50:39.130Z,19.155834197998,-155.50450134277,32.419998168945,1.73,md,25,132,0.04007,0.150000006,hv,hv74896507,2026-02-08T11:54:37.040Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.61,0.949999988,0.12877978402726,16,automatic,hv,hv
 2026-02-08T11:49:18.711Z,58.245,-155.159,5,0.8,ml,16,70,0,0.3,ak,ak2026csrcrp,2026-02-08T11:50:57.729Z,"86 km NNW of Karluk, Alaska",earthquake,4.4,,0.6,5,automatic,ak,ak
 2026-02-08T11:32:17.370Z,36.564167022705,-121.17683410644,2.170000076294,1.21,md,7,90,0.0102,0.18,nc,nc75310577,2026-02-08T11:33:53.386Z,"5 km NW of Pinnacles, CA",earthquake,0.69,0.920000017,0.22,7,automatic,nc,nc
 2026-02-08T11:26:40.990Z,19.171167373657,-155.49200439453,29.450000762939,1.87,md,30,103,0.03231,0.129999995,hv,hv74896497,2026-02-08T11:30:13.950Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.58,1.02999997,0.1209641785615,18,automatic,hv,hv
