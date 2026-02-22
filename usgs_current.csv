@@ -258,6 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-02-21T09:52:23.507Z,57.585,-155.687,94.6,2.4,ml,46,150,0.3,0.5,ak,aka2026dqjrjj,2026-02-21T09:56:07.233Z,"73 km W of Karluk, Alaska",earthquake,8.2,2.3483,0.2,24,automatic,ak,ak
 2026-02-21T09:49:52.910Z,63.482,-148.344,5,1.5,ml,16,54,0.2,0.5,ak,aka2026dqjpff,2026-02-21T09:51:47.203Z,"31 km ENE of Cantwell, Alaska",earthquake,3.3,,0.3,4,automatic,ak,ak
 2026-02-21T09:47:13.190Z,38.822666168213,-122.79533386231,2.170000076294,0.68,md,9,79,0.01468,0.02,nc,nc75316652,2026-02-21T09:48:49.798Z,"6 km NW of The Geysers, CA",earthquake,0.39,1.16999996,0.11,10,automatic,nc,nc
-2026-02-21T09:41:15.172Z,24.59,125.4057,37.639,4.5,mb,38,78,1.087,0.73,us,us6000sals,2026-02-21T15:02:49.040Z,"24 km SSE of Miyakojima, Japan",earthquake,5.37,9.867,0.079,47,reviewed,us,us
-2026-02-21T09:39:00.390Z,38.830833435059,-122.81383514404,1.710000038147,0.25,md,7,84,0.01826,0.01,nc,nc75316647,2026-02-21T09:40:34.662Z,"8 km NW of The Geysers, CA",earthquake,0.47,1.64999998,0.15,8,automatic,nc,nc
-2026-02-21T09:37:14.684Z,39.6562,-119.649,0.0346,1.53,ml,20,151,0.143,0.2776,nn,nn00911036,2026-02-21T09:40:21.939Z,"5 km E of Spanish Springs, Nevada",earthquake,,4.2853,0.24,10,automatic,nn,nn
