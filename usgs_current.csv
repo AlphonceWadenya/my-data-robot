@@ -238,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-02-27T11:04:23.710Z,38.820835113525,-122.8424987793,1.8099999427795,0.94,md,18,71,0.006263,0.01,nc,nc75319717,2026-02-27T11:27:19.254Z,"9 km WNW of The Geysers, CA",earthquake,0.2,0.370000005,0.16,18,automatic,nc,nc
 2026-02-27T11:02:07.991Z,63.252,-150.47,119.7,1.6,ml,15,115,0.7,0.3,ak,aka2026ebmita,2026-02-27T11:04:00.799Z,"70 km ESE of Denali National Park, Alaska",earthquake,9.6,5.1425,0.1,4,automatic,ak,ak
 2026-02-27T11:01:04.527Z,25.2064,125.1495,10,4.7,mb,31,94,1.17,1.17,us,us7000s0q0,2026-02-27T11:50:30.040Z,"47 km NNW of Hirara, Japan",earthquake,5.91,1.906,0.099,31,reviewed,us,us
-2026-02-27T10:57:30.060Z,32.869,-117.46833333333,17.01,1.03,ml,30,232,0.2254,0.15,ci,ci41405120,2026-02-27T20:39:23.834Z,"18 km W of La Jolla, CA",earthquake,0.41,0.72,0.16742336111214,6,reviewed,ci,ci
