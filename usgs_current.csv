@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-03-07T19:50:07.320Z,35.108166666667,-119.098,12.09,1.59,ml,39,43,0.05081,0.23,ci,ci41199663,2026-03-07T19:53:44.092Z,"24 km SW of Lamont, CA",earthquake,0.3,0.7,0.15782333008759,30,automatic,ci,ci
 2026-03-07T19:34:37.317Z,32.124,-102.21,3.9964,1.4,ml,31,66,0,0.5,tx,tx2026eqvdkc,2026-03-07T19:38:14.262Z,"18 km NW of Midland, Texas",earthquake,0,0.98391193151474,0.1,19,automatic,tx,tx
 2026-03-07T19:22:47.120Z,19.177165985107,-155.34866333008,28.270000457764,2.46,md,49,182,0.07571,0.140000001,hv,hv74913622,2026-03-07T19:27:11.990Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.52,0.560000002,0.13084439016391,13,automatic,hv,hv
 2026-03-07T19:15:41.440Z,40.308834075928,-124.41999816894,7.9800000190735,1.69,md,8,299,0.06261,0.06,nc,nc75323847,2026-03-07T19:17:21.010Z,"12 km W of Petrolia, CA",earthquake,3.45,1.21000004,0.15,6,automatic,nc,nc
