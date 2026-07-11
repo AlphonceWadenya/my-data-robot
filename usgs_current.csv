@@ -1,6 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-07-11T12:07:55.770Z,33.944166666667,-116.70616666667,13.21,0.5,ml,29,56,0.1058,0.16,ci,ci41291287,2026-07-11T12:11:25.915Z,"8 km ENE of Cabazon, CA",earthquake,0.19,0.65,0.31045332852058,9,automatic,ci,ci
+2026-07-11T11:38:31.170Z,38.831665039062,-122.81383514404,2.3800001144409,1.3,md,25,49,0.008765,0.01,nc,nc75393861,2026-07-11T11:57:22.963Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.379999995,0.09,26,automatic,nc,nc
+2026-07-11T11:34:20.240Z,33.53,-116.73,6.24,0.1,ml,15,60,0.03581,0.13,ci,ci41291279,2026-07-11T11:37:43.795Z,"6 km WSW of Anza, CA",earthquake,0.26,0.44,0.11369667892073,2,automatic,ci,ci
+2026-07-11T11:27:22.610Z,34.1535,-117.33716666667,9.76,1.23,ml,77,33,0.0383,0.17,ci,ci41291271,2026-07-11T11:37:37.080Z,"1 km E of Muscoy, CA",earthquake,0.12,0.25,0.19216428791094,27,automatic,ci,ci
+2026-07-11T11:24:55.030Z,33.240333333333,-116.78033333333,14.67,0.29,ml,32,35,0.01859,0.13,ci,ci41291263,2026-07-11T11:28:23.602Z,"2 km W of Lake Henshaw, CA",earthquake,0.16,0.4,0.19119274007848,4,automatic,ci,ci
 2026-07-11T11:11:53.287Z,60.702,-151.897,83.8,1.6,ml,27,69,0.3,0.5,ak,aka2026npqpdf,2026-07-11T11:13:21.322Z,"33 km WNW of Salamatof, Alaska",earthquake,4.9,3.4133,0.3,6,automatic,ak,ak
-2026-07-11T10:51:12.845Z,5.0334,125.4897,57.099,5.4,mb,79,37,2.025,1.08,us,us7000szq0,2026-07-11T11:23:39.703Z,"41 km S of Sarangani, Philippines",earthquake,8.7,5.831,0.055,113,reviewed,us,us
+2026-07-11T10:51:12.845Z,5.0334,125.4897,57.099,5.4,mb,79,37,2.025,1.08,us,us7000szq0,2026-07-11T11:57:32.280Z,"41 km S of Sarangani, Philippines",earthquake,8.7,5.831,0.055,113,reviewed,us,us
 2026-07-11T10:30:57.073Z,64.355,-149.25,5,1.3,ml,13,139,0.3,0.4,ak,aka2026nppfqd,2026-07-11T10:33:36.329Z,"3 km WNW of Anderson, Alaska",earthquake,3.8,,0.2,6,automatic,ak,ak
 2026-07-11T10:29:19.728Z,56.299,-156.563,53.2,3.3,ml,65,119,0.7,0.6,ak,aka2026nppeeg,2026-07-11T10:36:24.107Z,"113 km E of Chignik, Alaska",earthquake,4.3,6.5156,0.3,19,automatic,ak,ak
 2026-07-11T10:26:45.250Z,-55.5361,-28.9704,45.992,6.4,mww,72,55,4.516,1.1,us,us7000szpb,2026-07-11T11:00:47.513Z,"South Sandwich Islands region",earthquake,5.47,6.246,0.057,30,reviewed,us,us
@@ -78,6 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-07-11T03:14:55.443Z,-18.2136,-176.783,367.793,5,mb,60,80,4.059,1.16,us,us7000szmb,2026-07-11T03:30:40.040Z,"299 km W of Neiafu, Tonga",earthquake,10.27,8.146,0.073,61,reviewed,us,us
 2026-07-11T03:09:15.024Z,31.613,-104.12,4.4505,1.9,ml,33,53,0,0.2,tx,tx2026nmvyqc,2026-07-11T03:13:24.219Z,"45 km NW of Toyah, Texas",earthquake,0,0.95434564352036,0.2,24,automatic,tx,tx
 2026-07-11T03:09:14.831Z,31.614,-104.108,5.6091,1.9,ml,34,56,0,0.4,tx,tx2026nmvyzb,2026-07-11T05:07:38.647Z,"44 km NW of Toyah, Texas",earthquake,0,1.8785640001297,0.2,25,automatic,tx,tx
+2026-07-11T03:06:39.340Z,19.5868,-64.6306,29,3.81,md,19,282,1.1197,0.43,pr,pr2026192000,2026-07-11T11:44:09.922Z,"140 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.17,27.09,0.13,8,reviewed,pr,pr
 2026-07-11T02:38:05.280Z,39.319831848145,-123.28333282471,6.0100002288818,2.02,md,19,68,0.06828,0.07,nc,nc75393626,2026-07-11T04:17:24.773Z,"9 km NW of Redwood Valley, CA",earthquake,0.24,0.829999983,0.12,16,automatic,nc,nc
 2026-07-11T02:28:51.877Z,-2.8499,128.7635,10,4.9,mb,33,63,2.014,1.08,us,us7000szm5,2026-07-11T02:48:58.040Z,"54 km NNW of Masohi, Indonesia",earthquake,8.81,1.879,0.089,40,reviewed,us,us
 2026-07-11T02:14:39.405Z,31.527,-104.156,4.2377,2,ml,41,73,0.1,0.4,tx,tx2026nmucpv,2026-07-11T02:21:50.966Z,"41 km NW of Toyah, Texas",earthquake,0,0.9549286365509,0.2,30,automatic,tx,tx
@@ -228,8 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-07-10T12:31:30.680Z,35.895333333333,-117.71933333333,8.47,0.31,ml,14,80,0.07671,0.08,ci,ci41290431,2026-07-10T16:17:16.211Z,"17 km ESE of Little Lake, CA",earthquake,0.16,0.44,0.18483174376412,4,reviewed,ci,ci
 2026-07-10T12:19:36.410Z,17.984166666667,-66.911166666667,12.27,2.26,md,6,158,0.03169,0.13,pr,pr71523293,2026-07-10T14:30:13.270Z,"0 km SE of Fuig, Puerto Rico",earthquake,0.91,0.82,0.13447395701663,4,reviewed,pr,pr
 2026-07-10T12:12:16.790Z,19.328,-155.9575,17.24,2.71,ml,39,204,0.1054,0.2,hv,hv75000146,2026-07-10T19:34:49.683Z,"17 km SW of Honaunau-Napoopoo, Hawaii",earthquake,0.56,1.35,0.21640479500695,17,reviewed,hv,hv
-2026-07-10T12:11:01.330Z,31.718,-104.512,5.6897,2.5,ml,46,70,0,0.2,tx,tx2026nlsfee,2026-07-10T19:15:41.827Z,"52 km SSW of Whites City, New Mexico",earthquake,1.0594288718026,0.56338494824707,0.1,18,reviewed,tx,tx
-2026-07-10T12:03:14.293Z,61.255,-141.29,5,1.4,ml,13,125,0.5,0.5,ak,aka2026nnwhbn,2026-07-10T12:04:49.895Z,"89 km ESE of McCarthy, Alaska",earthquake,4.6,,0.2,6,automatic,ak,ak
-2026-07-10T11:56:25.700Z,33.657,-116.70016666667,15.9,1.13,ml,48,54,0.02499,0.17,ci,ci41290407,2026-07-10T22:55:04.820Z,"9 km S of Idyllwild, CA",earthquake,0.18,0.32,0.17350863763234,27,reviewed,ci,ci
-2026-07-10T11:45:59.121Z,31.541,-104.14,9.3427,1.6,ml,37,69,0,0.2,tx,tx2026nlriem,2026-07-10T14:46:08.946Z,"41 km NW of Toyah, Texas",earthquake,0.49256560849035,0.46739988665131,0.1,25,reviewed,tx,tx
-2026-07-10T11:39:27.462Z,60.495,-148.42,5,1.7,ml,34,99,0.5,0.7,ak,aka2026nnvmlj,2026-07-10T11:41:03.314Z,"34 km SSE of Whittier, Alaska",earthquake,2.4,,0.4,4,automatic,ak,ak
