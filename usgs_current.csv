@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-08-16T14:59:17.730Z,18.147,-67.327833333333,7.4,3.16,md,34,164,0.1875,0.34,pr,pr71528658,2026-08-16T15:32:11.100Z,"16 km WNW of Puerto Real, Puerto Rico",earthquake,0.54,1.17,0.14564037623406,22,reviewed,pr,pr
 2026-08-16T14:49:48.746Z,28.855,-99.012,7.9263,1.8,ml,13,94,0.3,0.5,tx,tx2026qbviom,2026-08-16T15:01:11.722Z,"9 km ESE of Pearsall, Texas",earthquake,0,3.2198820114136,0.2,9,automatic,tx,tx
 2026-08-16T14:41:23.160Z,31.08,-103.463,1.8336,1.6,ml,9,226,0.2,0.9,tx,tx2026qbvbhq,2026-08-16T14:45:48.339Z,"28 km ENE of Balmorhea, Texas",earthquake,0,7.7643194198608,0.7,7,automatic,tx,tx
-2026-08-16T14:37:21.353Z,31.638,-104.299,4.1477,1.6,ml,23,70,0,0.2,tx,tx2026qbuxvl,2026-08-16T15:01:38.552Z,"59 km NW of Toyah, Texas",earthquake,0,1.1517828702927,0.2,19,automatic,tx,tx
+2026-08-16T14:37:21.363Z,31.645,-104.298,4.2388,1.6,ml,29,69,0,0.4,tx,tx2026qbuxvl,2026-08-16T17:08:22.859Z,"59 km S of Whites City, New Mexico",earthquake,0,1.0463370084763,0.2,23,automatic,tx,tx
 2026-08-16T14:35:44.010Z,38.848499298096,-122.82866668701,0.88999998569489,0.69,md,6,111,0.007422,0.01,nc,nc75419417,2026-08-16T15:07:22.564Z,"10 km WNW of Cobb, CA",earthquake,1,0.870000005,0.3,7,automatic,nc,nc
 2026-08-16T13:50:52.691Z,31.639,-104.396,4.3359,1.8,ml,23,77,0,0.2,tx,tx2026qbtjkj,2026-08-16T14:01:55.947Z,"59 km S of Whites City, New Mexico",earthquake,0,1.2329849004745,0.1,18,automatic,tx,tx
 2026-08-16T13:38:39.493Z,-7.9176,120.7165,10,5,mb,47,81,3.039,1.25,us,usd0015e86,2026-08-16T13:57:43.040Z,"81 km NNE of Ruteng, Indonesia",earthquake,11.7,2.422,0.082,54,reviewed,us,us
@@ -191,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-08-15T17:21:49.960Z,34.197333333333,-117.3905,12.68,1.23,ml,66,37,0.02119,0.18,ci,ci40673274,2026-08-15T17:32:34.790Z,"3 km SSE of Devore, CA",earthquake,0.17,0.34,0.24573252367724,29,automatic,ci,ci
 2026-08-15T17:21:07.767Z,-8.3799,121.4952,10,4.5,mb,30,75,3.06,0.8,us,us6000tl2p,2026-08-15T17:53:13.040Z,"54 km NNW of Ende, Indonesia",earthquake,8.68,1.893,0.106,26,reviewed,us,us
 2026-08-15T17:20:51.698Z,31.625,-104.127,3.9406,1.9,ml,25,53,0,0.4,tx,tx2026qaepta,2026-08-15T17:28:39.650Z,"46 km NW of Toyah, Texas",earthquake,0,1.0496424436569,0.1,19,automatic,tx,tx
-2026-08-15T17:09:29.280Z,19.521,-156.40266666667,36.3,3.42,ml,58,239,0.3868,0.17,hv,hv75019242,2026-08-15T19:25:40.033Z,"44 km WSW of Kailua-Kona, Hawaii",earthquake,0.49,0.99,0.18093188954526,32,reviewed,hv,hv
