@@ -1,11 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-08-18T20:04:59.565Z,57.396,-155.6,14.2,1.3,ml,13,159,0.5,0.4,ak,aka2026qineyb,2026-08-18T20:06:01.824Z,"71 km WSW of Karluk, Alaska",earthquake,5.6,5.185,0.2,5,automatic,ak,ak
+2026-08-18T20:04:14.767Z,31.61,-104.112,3.8631,1.6,ml,32,52,0,0.4,tx,tx2026qfxcvh,2026-08-18T20:06:38.515Z,"44 km NW of Toyah, Texas",earthquake,0,0.94870382547379,0.2,11,automatic,tx,tx
+2026-08-18T19:51:09.478Z,36.5535,70.7551,195.937,5.3,mww,99,22,2.232,0.77,us,us6000tlqq,2026-08-18T20:03:42.040Z,"35 km SSW of Jurm, Afghanistan",earthquake,6.33,6.282,0.075,17,reviewed,us,us
 2026-08-18T19:49:03.870Z,35.327833333333,-117.8095,6.1,0.96,ml,25,98,0.0672,0.18,ci,ci41529552,2026-08-18T19:52:26.310Z,"17 km WSW of Johannesburg, CA",earthquake,0.25,0.59,0.17700233405895,13,automatic,ci,ci
 2026-08-18T19:36:57.050Z,34.020833333333,-117.22683333333,14.72,1.38,ml,36,55,0.09602,0.16,ci,ci41529520,2026-08-18T19:40:31.475Z,"4 km SE of Loma Linda, CA",earthquake,0.19,0.42,0.4340753239043,20,automatic,ci,ci
-2026-08-18T19:31:39.993Z,31.522,-104.153,4.1231,1.6,ml,30,73,0.1,0.3,tx,tx2026qfwcys,2026-08-18T19:35:05.717Z,"41 km NW of Toyah, Texas",earthquake,0,1.1144397258759,0.2,23,automatic,tx,tx
+2026-08-18T19:31:39.992Z,31.522,-104.153,4.1285,1.6,ml,30,73,0.1,0.3,tx,tx2026qfwcys,2026-08-18T20:00:49.558Z,"41 km NW of Toyah, Texas",earthquake,0,1.114391207695,0.2,23,automatic,tx,tx
 2026-08-18T19:29:12.042Z,31.933,-102.012,4.249,1.1,ml,34,64,0,0.5,tx,tx2026qfwbcd,2026-08-18T19:31:55.149Z,"9 km SE of Midland, Texas",earthquake,0,0.91990798711777,0.4,23,automatic,tx,tx
 2026-08-18T19:17:25.780Z,35.925333333333,-117.713,2.81,1.05,ml,28,44,0.05558,0.15,ci,ci41529504,2026-08-18T19:53:43.307Z,"17 km E of Little Lake, CA",earthquake,0.15,0.35,0.14665474413529,16,reviewed,ci,ci
 2026-08-18T19:13:16.810Z,33.290333333333,-116.74533333333,12.22,0.92,ml,40,37,0.05536,0.15,ci,ci41529496,2026-08-18T19:51:38.640Z,"6 km NNE of Lake Henshaw, CA",earthquake,0.16,0.51,0.12886053978118,23,reviewed,ci,ci
-2026-08-18T19:03:12.662Z,60.751,-150.177,44.3,3,ml,111,45,0.4,0.8,ak,aka2026qildly,2026-08-18T19:05:31.965Z,"33 km SE of Point Possession, Alaska",earthquake,1.9,5.1986,0.2,45,automatic,ak,ak
+2026-08-18T19:03:12.662Z,60.751,-150.177,44.3,3,ml,111,45,0.4,0.8,ak,aka2026qildly,2026-08-18T19:56:57.097Z,"33 km SE of Point Possession, Alaska",earthquake,1.9,5.1986,0.2,45,automatic,ak,ak
 2026-08-18T19:03:07.854Z,-8.2942,121.2432,10,4.9,mww,66,75,3.321,1.01,us,us6000tlqk,2026-08-18T19:45:00.040Z,"76 km NW of Ende, Indonesia",earthquake,6.03,1.853,0.089,12,reviewed,us,us
 2026-08-18T18:52:47.370Z,38.836166381836,-122.8056640625,2.1900000572205,0.74,md,7,109,0.01217,0.01,nc,nc75420752,2026-08-18T19:42:22.837Z,"7 km WNW of Cobb, CA",earthquake,0.5,1.44000006,0.15,7,automatic,nc,nc
 2026-08-18T18:52:04.537Z,61.177,-151.896,98.2,1.8,ml,47,33,0.1,0.7,ak,aka2026qiktsn,2026-08-18T18:53:52.484Z,"42 km WNW of Tyonek, Alaska",earthquake,3.9,2.5419,0.3,17,automatic,ak,ak
@@ -279,4 +282,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-08-17T20:22:41.970Z,37.005666666667,-119.7985,-0.39,1.74,md,9,98,0.07365,0.07,nc,nc75420232,2026-08-18T01:32:25.835Z,"7 km ENE of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast,0.64,31.61,0.081,6,reviewed,nc,nc
 2026-08-17T20:18:05.980Z,19.211,-155.46816666667,29.47,1.57,md,15,101,0.05559,0.1,hv,hv75019832,2026-08-17T23:08:47.960Z,"1 km NE of Pāhala, Hawaii",earthquake,0.57,0.59,0.027597675891053,3,reviewed,hv,hv
 2026-08-17T20:12:54.229Z,34.66883333,-96.0245,5,0.93,ml,25,180,0.3041403173,0.22,ok,ok2026qccs,2026-08-18T16:36:31.760Z,"1 km NNE of Wardville, Oklahoma",earthquake,,2.4,0.27,17,reviewed,ok,ok
-2026-08-17T20:00:57.920Z,36.25783333,-96.19583333,0,1.04,ml,27,170,0.4085198345,0.92,ok,ok2026qcci,2026-08-18T16:32:24.410Z,"11 km ENE of Prue, Oklahoma",quarry blast,,1.4,0.23,16,reviewed,ok,ok
